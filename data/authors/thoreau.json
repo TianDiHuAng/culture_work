@@ -1,0 +1,44 @@
+{
+  "id": "thoreau",
+  "name": "梭罗",
+  "foreign_name": "Henry David Thoreau（亨利·大卫·梭罗，1817-07-12 — 1862-05-06）",
+  "country": "美国",
+  "birth": "1817-07-12",
+  "death": "1862-05-06",
+  "birth_year": 1817,
+  "death_year": 1862,
+  "era": "近代",
+  "summary": "梭罗，马萨诸塞州康科德人，超验主义'两位世界级作家'之一（Britannica：one of two authors 'of world stature' credited to New England Transcendentalism——另一位为爱默生）。哈佛毕业（1837，Britannica），铅笔厂家庭出身；1845—47年在瓦尔登湖畔独居两年两个月写成《瓦尔登湖》（1854，Britannica）。1846年因拒缴人头税（抗议蓄奴与墨西哥战争）入狱一夜，'Civil Disobedience'（1849）由此而生——'influenced Mahatma Gandhi and Martin Luther King Jr.'（Britannica）。1862年因肺结核卒于康科德（Britannica）。",
+  "timeline": [
+    {"year": "1817-07-12", "text": "生于康科德（Britannica：Born July 12, 1817, Concord, Massachusetts）。", "src": "B048"},
+    {"year": "1833—1837", "text": "哈佛学院（Britannica：Harvard (1833–37, middle of his class)）。", "src": "B048"},
+    {"year": "1837—1841", "text": "与爱默生结为师友（Britannica：Mentorship/friendship with Ralph Waldo Emerson from 1837）；与兄约翰合办进步学校（1838—41，Britannica）。", "src": "B048"},
+    {"year": "1842", "text": "兄约翰破伤风病亡，深创（Britannica：grief over brother John's death (tetanus, 1842)）。", "src": "B048"},
+    {"year": "1845-07-04", "text": "入住瓦尔登湖畔自建小屋（入住日期为通说，Britannica 记湖畔独居1845—47）。", "src": "B048"},
+    {"year": "1846", "text": "拒缴人头税入狱一夜（Britannica：spent a night in jail for refusing the poll tax——抗议蓄奴与墨西哥战争）。", "src": "B048"},
+    {"year": "1847-09", "text": "离开湖畔（Britannica：1845–47 stay）——'两年两个月'。", "src": "B048"},
+    {"year": "1849—1854", "text": "《康科德与梅里马克河上的一周》（1849）出版失败（Britannica 列举）；'Civil Disobedience'（1849，Britannica）；自费印行《瓦尔登湖》（1854，Britannica：first published）。", "src": "B048"},
+    {"year": "1859", "text": "《为约翰·布朗请命》（A Plea for Captain John Brown，Britannica：1859）——废奴主义立场。", "src": "B048"},
+    {"year": "1862-05-06", "text": "死于肺结核（Britannica：died May 6, 1862, Concord, age 44, likely tuberculosis）；日记数千页留存（Britannica：journals...thousands of pages）。", "src": "B048"}
+  ],
+  "major_works": [
+    {"work_id": "waerdenghu", "note": "1854；'Thoreau's masterwork'（Britannica）"},
+    {"title": "论公民的不服从（1849）", "note": "'statement on conscience and resisting unjust government'（Britannica）"},
+    {"title": "日记（1837—1862）", "note": "'数千页'（Britannica）"}
+  ],
+  "style": [
+    "自然书写与哲学随笔的融合：'essayist, poet, practical philosopher; key figure in American nature writing'（Britannica）。",
+    "格言警句体：'The mass of men lead lives of quiet desperation'（Britannica 名句）——语录化写作。",
+    "经济学的反讽：《经济》章以账目计算'简朴的成本'（通说）。",
+    "四季循环的结构：《瓦尔登湖》两年压缩为一年四季（通说待核）。"
+  ],
+  "status": "Britannica 定位梭罗为'超验主义的世界级作家'（与爱默生并列）、'美国自然写作的关键人物'。其瓦尔登湖实验被称为该运动'最著名的生活实验'（Britannica：the movement's most famous living experiment）；《不服从论》影响甘地与马丁·路德·金（Britannica：Civil Disobedience influenced Mahatma Gandhi and Martin Luther King Jr. / the civil rights movement）。'公民不服从'从此成为政治哲学的通用术语（通说待核）。",
+  "sources": ["B048", "B021"],
+  "dates_source": "B048",
+  "pending": [
+    "瓦尔登湖小屋入住日（1845年7月4日说）待核。",
+    "《瓦尔登湖》1854年8月9日出版说（通说）待核。",
+    "'两年两个月'（2 years, 2 months, 2 days——1854年版封面的传统表述）待核。",
+    "日记的全集出版史（1906年14卷本等）待核。"
+  ]
+}

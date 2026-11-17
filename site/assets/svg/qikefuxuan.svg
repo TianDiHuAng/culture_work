@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="400" fill="#fdf9f1" rx="10"/>
+<rect x="14" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="40" width="200" height="6" rx="3" fill="#a8642a"/>
+<text x="114.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">官僚漫画</text>
+<text x="114.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">变色龙·普里希别耶夫</text>
+<text x="24" y="104.0" font-size="12" fill="#555">沙俄权力的日常形态</text>
+<rect x="228" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="40" width="200" height="6" rx="3" fill="#a8642a"/>
+<text x="328.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">恐惧人格</text>
+<text x="328.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">套中人</text>
+<text x="238" y="104.0" font-size="12" fill="#555">'千万别出乱子'</text>
+<rect x="442" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="442" y="40" width="200" height="6" rx="3" fill="#8c3b3b"/>
+<text x="542.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">无处诉说</text>
+<text x="542.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">万卡·苦恼</text>
+<text x="452" y="104.0" font-size="12" fill="#555">苦难的孤独</text>
+<rect x="14" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="174" width="200" height="6" rx="3" fill="#3b6b8c"/>
+<text x="114.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">知识者的病</text>
+<text x="114.0" y="218.0" font-size="11" fill="#8a8378" text-anchor="middle">第六病室·醋栗</text>
+<text x="24" y="238.0" font-size="12" fill="#555">谈论正确而无所作为</text>
+<rect x="228" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="174" width="200" height="6" rx="3" fill="#55606b"/>
+<text x="328.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">'无情节'美学</text>
+<text x="328.0" y="218.0" font-size="11" fill="#8a8378" text-anchor="middle">潜台词·细节</text>
+<text x="238" y="238.0" font-size="12" fill="#555">情绪即事件</text>
+<text x="340.0" y="390" font-size="12" fill="#8a8378" text-anchor="middle">契诃夫短篇小说主题图（据 Britannica 与通行选目）</text>
+</svg>

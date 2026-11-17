@@ -1,0 +1,85 @@
+{
+  "id": "waerdenghu",
+  "title": "瓦尔登湖",
+  "original_title": "Walden; or, Life in the Woods（瓦尔登湖；或林中生活）",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "散文集（18篇，自然随笔与哲思）",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "thoreau",
+  "author_name": "亨利·大卫·梭罗",
+  "year_display": "1854年出版（Britannica）",
+  "year_sort": 1854,
+  "background": [
+    "实验（Britannica）：1845—47年，梭罗在朋友爱默生拥有的瓦尔登湖畔林地上自建小屋，种豆、量湖、做零工，'aiming to live simply and contemplate nature'（以简朴生活与沉思自然为目标）。湖畔独居'两年两个月'。",
+    "成书：1849年首书《一周》失败后，把湖畔日记重写七年，1854年自费出版（Britannica：first published）——'Relatively ignored in his lifetime, but achieved huge 20th-century popularity'（生前相对被忽视，20世纪获得巨大声望，Britannica）。",
+    "写作策略：把两年多压缩为一个四季循环（第一年冬至第二年春），使全书成为'一年的生命记录'（通说解读，学界有讨论）。"
+  ],
+  "outline": [
+    "《经济篇》（Economy，Britannica：Opens with 'Economy'）：以详细账目（屋价28美元余、种豆收成等——具体数字待核）论证'必需品的最低限度'与'生命的多余成本'——对物质主义的正面清算。",
+    "中间诸章：《我生活的地方，我为何生活》（'I went to the woods because I wished to live deliberately'原文）；《阅读》（Britannica：'Reading' praises literature）；《声音》（Britannica：'Sounds' urges mindful attention）；《寂寞》（Britannica：'Solitude' praises nature's friendliness）；《访客》《种豆》《村子》《湖》《贝克田庄》《更高的法则》《禽兽为邻》《室内取暖》《旧居民》《春》（Britannica：Later essays include 'Visitors,' 'Higher Laws,' 'Winter Animals,' and 'Spring'）。",
+    "《结束语》：'只有我们醒来，天才会亮'——'如果你在空中建了城堡，你的劳动不会白费，城堡本应建在那里'（名句大意，原文待核）——把实验推向普遍人生论。"
+  ],
+  "characters": [
+    {"name": "梭罗（'我'）", "identity": "湖畔居民·观察者", "note": "'我是来到林中的旅人'（原文意，待核）——自足而不孤僻的独居者"},
+    {"name": "爱默生", "identity": "友人·地主", "note": "《访客》章中最常来的客人（通说）"},
+    {"name": "加拿大伐木工", "identity": "访客", "note": "'自然的儿子'（通说）"},
+    {"name": "瓦尔登湖本身", "identity": "'湖水'角色", "note": "全书最稳定的'人物'：颜色的变化、测深的记录、'大地之眼'（'大地之眼'为其名句'湖是风景中最美丽最有表现力的容貌，它是大地的眼睛'——原文意待核）"}
+  ],
+  "themes": [
+    "简朴生活的经济学：把'必需'与'奢侈'重新定义——对抗正在成形的美国消费文化（通说解读）。",
+    "自然的精神化：超验主义——自然是精神的镜子，湖的季节循环即心灵的季节（通说）。",
+    "自立与个人主义：'依靠自己的双脚走路'（原文意，待核）——对制度化生活的拒绝。",
+    "社会的批判：报纸、邮局、铁路与'新闻的匆忙'——对'进步'的怀疑（通说）。",
+    "艺术特点：账目式精确与诗性跳跃并存；四季结构的内在设计；格言警句的密度（Britannica：famous aphoristic lines）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Walden 条目，Cathy Lowne 撰）：'It is considered Thoreau's masterwork'（梭罗的代表作）；生前遇冷、20世纪大热——'achieved huge 20th-century popularity'。", "source": "B021"},
+    {"text": "Britannica（Thoreau 条目）：'Civil Disobedience influenced Mahatma Gandhi and Martin Luther King Jr. / the civil rights movement'——不服从论的影响链。", "source": "B048"},
+    {"text": "Britannica：瓦尔登湖实验为超验主义'most famous living experiment'（该运动最著名的生活实验）。", "source": "B048"},
+    {"text": "现代回响：环保运动、'简生活'运动与荒野保护（'沙乡年鉴'传统）的思想源头之一（通说，待核）。", "source": "B048"}
+  ],
+  "reading": {
+    "difficulties": [
+      "19世纪长句与《圣经》式修辞，中译需选语言庄重的版本。",
+      "第一篇《经济》的账目细节最'枯燥'却最关键——全书的'地基层'。",
+      "格言密度高，易读成'鸡汤'——需回到语境。"
+    ],
+    "editions": [
+      "徐迟译《瓦尔登湖》（上海译文出版社）：通行经典译本（徐迟译本为中国读者的定义性版本）。",
+      "《梭罗全集》（译林等，通说待核）：研究型。",
+      "英文本：Princeton University Press 注释版（通说待核）。"
+    ],
+    "order": "先读《经济》《我生活的地方》《结束语》三篇立框架 → 按季节读《春》与《湖》 → 通读其余 → 配合《论公民的不服从》看其行动面。"
+  },
+  "pending": [
+    "1854年出版日（8月9日说）与初版印数（1000册说，通说）待核。",
+    "账目数字（屋价28.125美元等）逐项核对照 Princeton 版。",
+    "徐迟译本的版本沿革（1949年初版/1982重版说）待核。",
+    "'两年两个月'的封面表述出处待核。"
+  ],
+  "sources": ["B021", "B048"],
+  "year_source": "B021",
+  "author_source": "B048",
+  "related_works": ["geliefo", "hakebei", "bianxingji"],
+  "svg": {
+    "type": "ring",
+    "width": 680,
+    "height": 440,
+    "radius": 150,
+    "caption": "《瓦尔登湖》十八章结构图（四季环绕'经济'）",
+    "center": {"label": "经济篇"},
+    "nodes": [
+      {"label": "我生活的地方", "color": "main"},
+      {"label": "阅读", "color": "family"},
+      {"label": "声音", "color": "family"},
+      {"label": "寂寞", "color": "family"},
+      {"label": "湖", "color": "main"},
+      {"label": "更高法则", "color": "gold"},
+      {"label": "冬之兽", "color": "plain"},
+      {"label": "春", "color": "gold"}
+    ]
+  }
+}

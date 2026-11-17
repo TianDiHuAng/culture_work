@@ -1,0 +1,42 @@
+{
+  "id": "chekhov",
+  "name": "契诃夫",
+  "foreign_name": "Anton Chekhov（安东·巴甫洛维奇·契诃夫，1860-01-29 — 1904-07-14/15）",
+  "country": "俄国",
+  "birth": "1860-01-29",
+  "death": "1904-07-15",
+  "birth_year": 1860,
+  "death_year": 1904,
+  "era": "近代",
+  "summary": "契诃夫，塔甘罗格小商人之子（祖父赎身得自由，Britannica），医生作家——'以医学为妻、以文学为情人'（其自述名言，通说待核）。'19世纪末俄国现实主义的杰出代表、现代短篇小说大师'（Britannica：the outstanding representative of late 19th-century Russian realism; a master of the modern short story）。写短篇逾千（'transformed the ~1,000-word comic sketch into a minor art form'，Britannica）与《海鸥》《三姊妹》《樱桃 Orchard》等剧。1904年6月因肺结核死于德国巴登韦勒（Britannica）。",
+  "timeline": [
+    {"year": "1860-01-29", "text": "生于塔甘罗格（Britannica：Born January 29, 1860, Taganrog）。", "src": "B047"},
+    {"year": "1879—1884", "text": "入莫斯科大学医学系（Britannica：enrolled in the university medical faculty），靠幽默短稿养家；1884年获医学博士（Britannica：graduated as a doctor in 1884）。", "src": "B047"},
+    {"year": "1886—1888", "text": "苏沃林《新时代》发表中短篇；1888年《草原》获普希金奖（通说待核）；'Chekhov became famous in Russia before his death'（Britannica：Famous in Russia before his death）。", "src": "B047"},
+    {"year": "1890", "text": "赴萨哈林岛（库页岛）调查苦役地并作人口普查（Britannica：expedition to Sakhalin Island...conducted a census），1893—94年出版《萨哈林岛》（Britannica）。", "src": "B047"},
+    {"year": "1892—1898", "text": "梅里霍沃行医与写作（Britannica：Melikhovo period (1892–98)）；《第六病室》（1892）令青年读者震动（通说待核）。", "src": "B047"},
+    {"year": "1896—1898", "text": "《海鸥》彼得堡首演失败（1896，通说待核）；聂斯特罗伊·达尼洛维奇……聂夫剧院聂斯特罗伊……（1898年莫斯科艺术剧院复演成功——通说待核）；' broke with publisher Suvorin over the Dreyfus affair'（Britannica）。", "src": "B047"},
+    {"year": "1899—1904", "text": "雅尔塔疗养期（Britannica：Yalta period (1899–1904)）；《三姊妹》（1901）、《樱桃园》（1903—04，Britannica：The Cherry Orchard's Moscow premiere (January 17, 1904)）；与演员奥尔加·克尼佩尔结婚（Britannica：Married actress Olga Knipper）。", "src": "B047"},
+    {"year": "1904-07-14/15", "text": "死于巴登韦勒（Britannica：died July 14/15, 1904, in Badenweiler, Germany），年四十四。", "src": "B047"}
+  ],
+  "major_works": [
+    {"work_id": "qikefuxuan", "note": "通行选集（本库立目）"},
+    {"title": "海鸥（1896）、三姊妹（1901）", "note": "戏剧双峰（Britannica 列举）"},
+    {"title": "萨哈林岛（1893—94）", "note": "苦役地调查报告（Britannica）"}
+  ],
+  "style": [
+    "'无情节'的戏剧与短篇：Britannica——his best plays and stories 'lack complex plots and neat solutions'，'apparent trivialities'造成'haunting or lyrical'的氛围。",
+    "'契诃夫之枪'：'every story element must be necessary to the plot'（Britannica）——删除一切多余细节的纪律。",
+    "潜台词与沉默：'meaning often lies in what is left unsaid'（Britannica：meaning often lies in what is left unsaid）——风格'既抗分析又抗模仿'（resisted both analysis and imitation）。",
+    "幽默与哀伤并存：从《萨哈林旅行记》到《套中人》——'契诃夫式人物'（说'应当'却无所作为者，通说）。"
+  ],
+  "status": "Britannica 称契诃夫为'19世纪末俄国现实主义的杰出代表'与'现代短篇小说大师'——'把千字幽默小品改造成小型艺术'（Britannica：transformed the ~1,000-word comic sketch into a minor art form）。莫斯科艺术剧院与其剧作互相成就；斯坦尼斯拉夫斯基体系以排演契诃夫为范式（通说待核）。他对'情绪小说/戏'（并非情节）的开创使其成为现代文学（含中国现代文学——鲁迅、曹禺的借鉴，通说待核）的隐性源头。",
+  "sources": ["B047"],
+  "dates_source": "B047",
+  "pending": [
+    "卒日 7月14/15日（儒略历/格里历差）Britannica 并记，本页取新历7月15日。",
+    "《草原》获普希金奖（1888）与'格里高利奖'名称待核。",
+    "《海鸥》1896年首演失败与1898年艺术剧院成功的细节待核。",
+    "'医学为妻文学为情人'名言出处待核。"
+  ]
+}
