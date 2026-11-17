@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="240" fill="#fdf9f1" rx="10"/>
+<line x1="135.8" y1="94" x2="145.8" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="145.8,90 151.8,94 145.8,98" fill="#b9b0a3"/>
+<rect x="16.0" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#8c3b3b" stroke-width="1.6"/>
+<text x="74.4" y="84.0" font-size="13" fill="#8c3b3b" text-anchor="middle">三体</text>
+<text x="74.4" y="104.0" font-size="12" fill="#555" text-anchor="middle">红岸·ETO·古筝行</text>
+<text x="74.4" y="119.0" font-size="12" fill="#555" text-anchor="middle">动</text>
+<line x1="268.6" y1="94" x2="278.6" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="278.6,90 284.6,94 278.6,98" fill="#b9b0a3"/>
+<rect x="148.8" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#3b6b8c" stroke-width="1.6"/>
+<text x="207.2" y="84.0" font-size="13" fill="#3b6b8c" text-anchor="middle">黑暗森林</text>
+<text x="207.2" y="104.0" font-size="12" fill="#555" text-anchor="middle">面壁计划·罗辑威</text>
+<text x="207.2" y="119.0" font-size="12" fill="#555" text-anchor="middle">慑</text>
+<line x1="401.40000000000003" y1="94" x2="411.40000000000003" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="411.40000000000003,90 417.40000000000003,94 411.40000000000003,98" fill="#b9b0a3"/>
+<rect x="281.6" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#a8642a" stroke-width="1.6"/>
+<text x="340.0" y="84.0" font-size="13" fill="#a8642a" text-anchor="middle">死神永生</text>
+<text x="340.0" y="104.0" font-size="12" fill="#555" text-anchor="middle">程心执剑·降维打</text>
+<text x="340.0" y="119.0" font-size="12" fill="#555" text-anchor="middle">击</text>
+<line x1="534.2" y1="94" x2="544.2" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="544.2,90 550.2,94 544.2,98" fill="#b9b0a3"/>
+<rect x="414.4" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#9a7b2f" stroke-width="1.6"/>
+<text x="472.8" y="84.0" font-size="13" fill="#9a7b2f" text-anchor="middle">宇宙回响</text>
+<text x="472.8" y="104.0" font-size="12" fill="#555" text-anchor="middle">云天明童话·归零</text>
+<text x="472.8" y="119.0" font-size="12" fill="#555" text-anchor="middle">者</text>
+<rect x="547.2" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#55606b" stroke-width="1.6"/>
+<text x="605.6" y="84.0" font-size="13" fill="#55606b" text-anchor="middle">尺度</text>
+<text x="605.6" y="104.0" font-size="12" fill="#555" text-anchor="middle">从地球到宇宙尽头</text>
+<text x="605.6" y="119.0" font-size="12" fill="#555" text-anchor="middle">的400年→亿年</text>
+<text x="340.0" y="230" font-size="12" fill="#8a8378" text-anchor="middle">《三体》三部曲结构图（地球往事）</text>
+</svg>

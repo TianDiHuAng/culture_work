@@ -1,0 +1,42 @@
+{
+  "id": "liucixin",
+  "name": "刘慈欣",
+  "foreign_name": "Liu Cixin（1963-06-23 — ）",
+  "country": "中国",
+  "birth": "1963-06-23",
+  "death": null,
+  "birth_year": 1963,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "刘慈欣，山西阳泉人（生于北京，父亲文革中因家庭历史问题下放山西阳泉煤矿），计算机工程师出身的科幻作家。曾任娘子关火力发电厂计算机工程师，夜间写作（Britannica）。《三体》三部曲（2006—2010）把中国科幻带上世界舞台（Britannica：'credited with bringing Chinese science fiction onto the world stage'）：英译本2014年出版即获2015年雨果奖最佳长篇——亚洲作家首获该奖（Britannica 记其获奖；'亚洲首获'为通行说法待核）。受凡尔纳、克拉克、奥威尔等影响（Britannica）。",
+  "timeline": [
+    {"year": "1963-06-23", "text": "生于北京；父亲因有一个曾与国民党作战的兄弟在文革中失去工作，全家下放山西阳泉煤矿（Britannica）。", "src": "B088"},
+    {"year": "童年", "text": "在山西与祖辈生活，目睹阳泉矿区的工业景观；少年读到凡尔纳《地心游记》等（Britannica：早期影响 Jules Verne, Arthur C. Clarke, Orwell, Bradbury, Vonnegut, Pynchon）。", "src": "B088"},
+    {"year": "1980s", "text": "华北水利水电学院计算机专业毕业（Britannica），开始科幻创作（早期投稿经历待核）。", "src": "B088"},
+    {"year": "1989—2006", "text": "任娘子关火力发电厂计算机工程师，'writing fiction at night'（Britannica）；1999年起在《科幻世界》连续发表短篇，多次获银河奖（通说待核）。", "src": "B088"},
+    {"year": "2006", "text": "《三体》在《科幻世界》连载（连载信息为通说，待核；Britannica 系2006年为《三体》出版年）。", "src": "B088"},
+    {"year": "2008—2010", "text": "《黑暗森林》（2008）与《死神永生》（2010）出版，'地球往事'三部曲完成（Britannica）。", "src": "B088"},
+    {"year": "2014—2015", "text": "刘宇昆英译 The Three-Body Problem（Tor Books, 2014）出版；2015年获雨果奖最佳长篇小说奖（Britannica）——科幻界最高荣誉首次归属中文作品（通行说法待核）。", "src": "B088"},
+    {"year": "2019—2024", "text": "《流浪地球》电影（2019，约6.75亿美元票房，Britannica）、腾讯《三体》剧（2023）、Netflix《3 Body Problem》（2024）等改编矩阵形成（Britannica）；三部曲全球销量3000万册、26种语言（Britannica）。", "src": "B088"}
+  ],
+  "major_works": [
+    {"work_id": "santi", "note": "地球往事三部曲之首"},
+    {"title": "球状闪电（2018英文版/2004中文版通说）", "note": "《三体》前传性长篇（Britannica 列举 Ball Lightning）"},
+    {"title": "流浪地球、乡村教师等短篇", "note": "短篇经典（Britannica 列举 To Hold Up the Sky, The Wandering Earth）"}
+  ],
+  "style": [
+    "'宏细节'美学：以物理学的尺度（光锥、维度、熵）处理人类命运——'把 billion 年的历史压进一页'的时空压缩感（'宏细节'为学界评论用语，待核）。",
+    "工程师的冷静：叙事如工程报告般精确，情感克制而场景恢弘（'降维打击''黑暗森林法则'成为流行语——通说）。",
+    "技术与道德的追问：科学是否万能、文明何以延续——延续克拉克式的技术崇高感（Britannica：explores how real or imagined science affects societies and individuals）。",
+    "中国经验的科幻转译：文革、大跃进、集体主义记忆成为科幻设定的历史底色（《三体》开篇即文革批斗场景，通说）。"
+  ],
+  "status": "刘慈欣被普遍视为把中国科幻带到世界舞台的人（Britannica）。《三体》三部曲全球销量3000万册、译成26种语言（Britannica），影视改编形成全球矩阵（Britannica）。在中国，'三体热'带动了科幻产业的整体起飞（通说待核）。他的作品引发的主要争论——技术乌托邦与道德代价（程心与维德的选择）——使其成为新世纪最重要的思想型作家之一。",
+  "sources": ["B088"],
+  "dates_source": "B088",
+  "pending": [
+    "《三体》连载（《科幻世界》2006年1—12期说）与单行本（2008年重庆出版社说）细节待核。",
+    "2015年雨果奖颁奖细节（斯波坎世界科幻大会）与'亚洲首获'表述待核。",
+    "《球状闪电》中文版年份（2004/2005说）待核。",
+    "银河奖获奖清单待核。"
+  ]
+}
