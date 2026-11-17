@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>作品总览 · 中外文学名著导读库</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site"><span class="brand">中外文学名著导读库</span><nav><a href="index.html">首页</a><a href="works.html">作品总览</a><a href="authors.html">作家索引</a><a href="timeline.html">文学史时间线</a><a href="about.html">关于</a></nav></header>
+<main>
+<h1>作品总览</h1>
+<p class="meta">共 1 部（中外各 30）。可按国别、时代、体裁筛选；不选即全部显示。禁用 JavaScript 时显示完整列表。</p>
+<div class="filters">
+<label>国别 <select id="f-region"><option value="">全部</option><option value="中国">中国</option></select></label>
+<label>时代 <select id="f-era"><option value="">全部</option><option value="古代">古代</option><option value="近代">近代</option><option value="现当代">现当代</option></select></label>
+<label>体裁 <select id="f-group"><option value="">全部</option><option value="小说">小说</option></select></label>
+<label>搜索 <input id="f-q" type="search" placeholder="书名/作者"></label>
+</div>
+<div class="worklist"><div class="card work-item" data-region="中国" data-era="古代" data-group="小说"><h3><a href="works/honglou.html">红楼梦</a></h3><div class="meta">曹雪芹 · 乾隆年间成书（前80回抄本流传）；1791年程甲本一百二十回刊行</div><div style="margin-top:6px"><span class="tag">中国</span><span class="tag">清</span><span class="tag">小说</span></div></div></div>
+<script>
+(function(){
+ function apply(){
+  var r=document.getElementById('f-region').value, e=document.getElementById('f-era').value,
+      g=document.getElementById('f-group').value, q=document.getElementById('f-q').value.trim().toLowerCase();
+  document.querySelectorAll('.work-item').forEach(function(el){
+   var ok=(!r||el.dataset.region===r)&&(!e||el.dataset.era===e)&&(!g||el.dataset.group===g);
+   if(ok&&q){ok=el.textContent.toLowerCase().indexOf(q)>=0;}
+   el.style.display=ok?'':'none';
+  });
+ }
+ ['f-region','f-era','f-group','f-q'].forEach(function(id){
+  var el=document.getElementById(id); el.addEventListener('change',apply); el.addEventListener('input',apply);
+ });
+})();
+</script>
+</main>
+<footer class="site">中外文学名著导读库 · 静态站点 · 内容与来源以各页"待核实"节与 sources.json 为准</footer>
+</body>
+</html>

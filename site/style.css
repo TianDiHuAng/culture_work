@@ -1,0 +1,36 @@
+:root{--ink:#33302a;--paper:#fdf9f1;--accent:#8c3b3b;--muted:#8a8378;--line:#e3d9c6;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.85 "Segoe UI","Microsoft YaHei","PingFang SC",serif}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+header.site{background:#2f2a24;color:#f4ead6;padding:14px 24px;display:flex;flex-wrap:wrap;gap:8px 22px;align-items:baseline}
+header.site .brand{font-size:20px;letter-spacing:2px}
+header.site nav a{color:#e8d9b8;margin-left:4px;font-size:15px}
+main{max-width:900px;margin:0 auto;padding:28px 20px 60px}
+h1{font-size:26px;margin:.2em 0 .4em}h2{font-size:20px;border-left:4px solid var(--accent);padding-left:10px;margin-top:2.2em}
+.meta{color:var(--muted);font-size:14px}
+.meta b{color:var(--ink)}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{border:1px solid var(--line);padding:7px 10px;text-align:left;vertical-align:top}
+th{background:#f3ecdd}
+blockquote{margin:0;padding:2px 12px;border-left:3px solid var(--line);color:#5c564c}
+.src{color:var(--muted);font-size:13px}
+.fig{margin:26px 0;text-align:center}
+.fig img{max-width:100%;border:1px solid var(--line);border-radius:10px}
+.fig .cap{color:var(--muted);font-size:13px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 18px;margin:14px 0}
+.filters{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 20px}
+.filters select,.filters input{padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:#fff;font-size:14px}
+.worklist{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.worklist .card{margin:0}
+.worklist h3{margin:0 0 6px;font-size:16px}
+.worklist .meta{font-size:13px}
+.tag{display:inline-block;background:#f3ecdd;border-radius:4px;padding:0 8px;font-size:12px;color:#6b6456;margin-right:6px}
+footer.site{color:var(--muted);text-align:center;padding:24px;font-size:13px;border-top:1px solid var(--line);margin-top:40px}
+.pending{color:#a8642a}
+.crumb{color:var(--muted);font-size:13px;margin-bottom:14px}
+.crumb a{color:var(--muted)}
+.tl{position:relative;margin:20px 0 20px 8px;border-left:2px solid var(--line);padding-left:22px}
+.tl .ev{position:relative;margin-bottom:18px}
+.tl .ev:before{content:"";position:absolute;left:-29px;top:8px;width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.tl .ev .yr{font-weight:bold;color:var(--accent)}
+@media print{header.site,footer.site{display:none}}
