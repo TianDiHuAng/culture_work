@@ -9,8 +9,8 @@
 
 - [x] 阶段0 初始化：目录骨架、works_list.md、git init —— 完成
 - [x] 阶段1 来源库：sources.json **99 条、98 条 verified**（Britannica 为主，辅以英文维基、央视/求是/人民网/中国作家网/中新网/书格等；每条均实际打开页面核对）—— 完成（2026-11-18）
-- [ ] 阶段2 校验工具：tools/check.py（必填字段/日期合法/事实带来源/无重复/内部链接/SVG 不出界）+ build.py + svggen.py，全部通过
-- [ ] 阶段3 内容：60 部作品页 + 作家页 + SVG，**每部完成后 git 提交**（进度明细见下）
+- [x] 阶段2 校验工具：tools/check.py + build.py + svggen.py 全部通过（2026-11-18）
+- [ ] 阶段3 内容：60 部作品页 + 作家页 + SVG，**每部完成后 git 提交**（进度明细见下）——已完成：honglou(+caoxueqin)、shijing、chuci(+quyuan)、lunyu(+confucius)、zhuangzi(+zhuangzhou)、shiji(+simaqian)、tangshi300、songci300、doueyuan(+guanhanqing) 共9部
 - [ ] 阶段4 聚合页：作品总览（国别/时代/体裁筛选）、作家索引、时间线、导航、REPORT.md
 
 ## 阶段3 进度明细（每完成一部在此打勾并提交）
