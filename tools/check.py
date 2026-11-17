@@ -223,12 +223,20 @@ def check_svg_files(works):
                     x, y = float(xy[0]), float(xy[1])
                     if not (-tol <= x <= W + tol and -tol <= y <= H + tol):
                         err(f"svg[{wid}]: polygon 点({x},{y}) 超界")
-        # text 估算宽度（中文≈1em）
-        for m2 in re.finditer(r'<text x="(-?[\d.]+)" y="(-?[\d.]+)" font-size="([\d.]+)"[^>]*>([^<]+)</text>', txt):
-            x, y, fs, content = float(m2.group(1)), float(m2.group(2)), float(m2.group(3)), m2.group(4)
-            w_est = sum(fs if ord(c) > 0x2E80 else fs * 0.62 for c in content) / 2  # 居中：左右各一半
-            if not (-tol <= x - w_est and x + w_est <= W + tol):
-                err(f"svg[{wid}]: 文本'{content[:12]}…'估算宽度可能超界 x={x} est±{w_est:.0f}")
+        # text 估算宽度（中文≈1em，英文≈0.62em；按 text-anchor 区分起点）
+        for m2 in re.finditer(r'<text x="(-?[\d.]+)" y="(-?[\d.]+)" font-size="([\d.]+)"([^>]*)>([^<]+)</text>', txt):
+            x, y, fs, attrs, content = float(m2.group(1)), float(m2.group(2)), float(m2.group(3)), m2.group(4), m2.group(5)
+            full = sum(fs if ord(c) > 0x2E80 else fs * 0.62 for c in content)
+            anchor = re.search(r'text-anchor="(\w+)"', attrs)
+            mode = anchor.group(1) if anchor else "start"
+            if mode == "middle":
+                x1t, x2t = x - full / 2, x + full / 2
+            elif mode == "end":
+                x1t, x2t = x - full, x
+            else:
+                x1t, x2t = x, x + full
+            if not (-tol <= x1t and x2t <= W + tol):
+                err(f"svg[{wid}]: 文本'{content[:12]}…'估算范围[{x1t:.0f},{x2t:.0f}]超界(宽{W})")
             if not (-tol <= y <= H + tol):
                 err(f"svg[{wid}]: 文本 y={y} 超界")
 
