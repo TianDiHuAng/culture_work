@@ -1,0 +1,43 @@
+{
+  "id": "fitzgerald",
+  "name": "菲茨杰拉德",
+  "foreign_name": "F. Scott Fitzgerald（弗朗西斯·斯科特·基·菲茨杰拉德，1896-09-24 — 1940-12-21）",
+  "country": "美国",
+  "birth": "1896-09-24",
+  "death": "1940-12-21",
+  "birth_year": 1896,
+  "death_year": 1940,
+  "era": "现当代",
+  "summary": "菲茨杰拉德，明尼苏达州圣保罗人，'爵士时代'（Jazz Age）的命名者与编年史家、'迷惘的一代'核心作家（Britannica：Key figure of the Lost Generation）。1920年《人间天堂》一夜成名（Britannica：made him famous overnight），同年与泽尔达·赛尔结婚——'他们那一代的王子与公主'（Ring Lardner 语，Britannica：dubbed Scott and Zelda 'the prince and princess of their generation'）。四部完成长篇、150余篇短篇（Britannica：four completed novels and more than 150 short stories）；1940年死于心脏病，第五部《末代大亨》未竟（Britannica）。《了不起的盖茨比》'widely considered the great American novel'（Britannica）。",
+  "timeline": [
+    {"year": "1896-09-24", "text": "生于明尼苏达州圣保罗（Britannica：Born September 24, 1896, St. Paul, Minnesota）；父为南方没落贵族后裔，母为爱尔兰移民富商之女（Britannica：Divided identity——aristocratic father vs 'potato-famine Irish' mother's world）。", "src": "B050"},
+    {"year": "1913—1917", "text": "普林斯顿大学文学活跃人物（Edmund Wilson、John Peale Bishop 为友——Britannica），'lost Ginevra and flunked out of Princeton'（失恋与辍学，Britannica）。", "src": "B050"},
+    {"year": "1917—1918", "text": "入伍；1918年7月在阿拉巴马蒙哥马利遇泽尔达·赛尔（Britannica：met Zelda Sayre in Montgomery, Alabama in July 1918）。", "src": "B050"},
+    {"year": "1920—1921", "text": "《人间天堂》1920年3月出版一夜成名；与泽尔达结婚（泽尔达一度退婚后因小说成功回转，Britannica）；女儿斯科蒂1921年生（Britannica）。", "src": "B050"},
+    {"year": "1922—1924", "text": "纽约—长岛生活（盖茨比的素材地）；1924年移居法国里维埃拉（Britannica：the family moved to the French Riviera in 1924 among American expatriates）。", "src": "B050"},
+    {"year": "1925", "text": "《了不起的盖茨比》4月由 Scribner's 出版（Britannica：April 1925, Charles Scribner's Sons）——'commercially unsuccessful at first'（起初商业失败，Britannica），首印约20000册滞销（Britannica：slow-selling first printing of ~20,000 copies）。", "source": "B023"},
+    {"year": "1930—1936", "text": "泽尔达1930、1932年两度精神崩溃（Britannica：Zelda suffered mental breakdowns in 1930 and 1932）；一家在酒、钱与病中挣扎（Britannica）；1936年《崩溃》（The Crack-Up，Esquire，Britannica 列举）。", "src": "B050"},
+    {"year": "1937—1940", "text": "赴好莱坞做编剧（Britannica：Moved to Hollywood in 1937 as a screenwriter），与专栏作家希拉·格雷厄姆同居（Britannica：partnered with columnist Sheilah Graham）；1940-12-21死于好莱坞，年四十四（Britannica：Died of a heart attack at 44 with his fifth novel unfinished）。", "src": "B050"},
+    {"year": "1941—", "text": "《末代大亨》由埃德蒙·威尔逊整理出版（1941，通说待核；Britannica：The Last Tycoon (unfinished at death)）；二战后'口袋本运动'使其作品复活，盖茨比进入经典（通说待核）。", "src": "B050"}
+  ],
+  "major_works": [
+    {"work_id": "gaicibi", "note": "1925；'his masterpiece'（Britannica）"},
+    {"title": "夜色温柔（1934）", "note": "'most moving book'而商业失败（Britannica）"},
+    {"title": "人间天堂（1920）、末代大亨（1941身后）", "note": "首作与遗作（Britannica）"}
+  ],
+  "style": [
+    "'爵士时代的诗人'：以抒情笔调写美国1920年代的繁荣、狂欢与幻灭（Britannica：depicting the Jazz Age...exuberant optimism and the disillusionment of the Lost Generation）。",
+    "双重视角：'美国既庸俗又炫目地充满希望'（Britannica：at once vulgar and dazzlingly promising）——盖茨比（梦想）与尼克（观察）分担此双重性（Britannica：splits this dual nature between Gatsby...and narrator Nick Carraway）。",
+    "精雕的语言：'heightened sensitivity to the promises of life'（Britannica：Had 'a heightened sensitivity to the promises of life'）——浪漫想象的敏感。",
+    "结构精巧：盖茨比的'倒叙揭示'与首尾呼应（绿灯、医生的广告牌）。"
+  ],
+  "status": "Britannica 称菲茨杰拉德为'迷惘的一代'关键人物，《了不起的盖茨比》'widely considered the great American novel'、'the most profoundly American novel of its time'（Britannica）。生前滞销身后封神的接受史（Britannica：initially a commercial disappointment, only later achieving canonical status）是文学传播学的经典案例。泽尔达夫妇的传奇（与悲剧）本身成为'美国梦'的另一注脚。",
+  "sources": ["B050", "B023"],
+  "dates_source": "B050",
+  "pending": [
+    "盖茨比首印数（20000册说）与生前第二次印次（Britannica：one further printing in Fitzgerald's lifetime）细节待核。",
+    "2021年进入美国公有领域（Britannica：entered the U.S. public domain in 2021）的确认待核。",
+    "《末代大亨》威尔逊整理版（1941 Scribner）待核。",
+    "《崩溃》三部曲的刊期（1936年 Esquire 2/3/4月号，通说）待核。"
+  ]
+}

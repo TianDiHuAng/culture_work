@@ -1,0 +1,81 @@
+{
+  "id": "bianxingji",
+  "title": "变形记",
+  "original_title": "Die Verwandlung / The Metamorphosis（变形记）",
+  "region": "奥地利",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中短篇小说（novella）",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "kafka",
+  "author_name": "弗朗茨·卡夫卡",
+  "year_display": "1912年11月17日起写作（致菲莉斯信），1915年出版（Britannica）",
+  "year_sort": 1915,
+  "background": [
+    "写作与出版（Britannica）：1912-11-17起笔（据卡夫卡致菲莉斯·鲍威尔信），中断于保险工作与家庭事务；1915年德文出版——先发表于《白色书页》（Die Weissen Blätter），再出单行本（Britannica：first published in German as Die Verwandlung in 1915, debuting in Die Weissen Blätter, then issued as a stand-alone novella）。生前出版，是卡夫卡少数在世刊行的作品（继《判决》1913之后、《在流放地》1919之前——Britannica）。",
+    "标题页的坚持：卡夫卡要求封面不得画出怪物——'the insect itself cannot be drawn'（其书信意，通说待核）；Britannica 记'Kafka deliberately kept the creature's form ambiguous and asked that the title page not depict it'。",
+    "文体谱系：表现主义（当代德语文学主流，Britannica：Blends Expressionism...and realism/naturalism）与写实/自然主义的混合；'fable-like with both horrific and comedic elements'（寓言式，兼有恐怖与喜剧元素——Britannica）。"
+  ],
+  "outline": [
+    "开篇名句：'一天早晨，格里高尔·萨姆沙从不安的睡梦中醒来，发现自己躺在床上变成了一只巨大的甲虫'（原文意——德文 'ungeheueren Ungeziefer'，Britannica 引）。他却首先担心误了五点的火车——推销员的职业焦虑压过变形的荒诞。",
+    "家人反应的演化：上司（chief clerk）上门催逼；母亲晕厥、父亲暴怒把他打回房间；妹妹葛蕾特起初喂食清扫（Britannica：Sister Grete initially feeds and cleans for him）——他成了一家'储藏室里的房客'。",
+    "家庭经济与空间的挤压：父亲扔苹果砸伤其背（Britannica：The father throws apples at Gregor; one lodges in his back）；家里出租房间，他的房间成为储物间（Britannica：Gregor's room becomes storage）。",
+    "结局：葛蕾特拉小提琴，格里高尔被琴声吸引爬出，吓走房客；葛蕾特宣布'我们必须摆脱它'（Britannica：Grete declares the family must get rid of the 'monster'）——格里高尔当夜死去，'他怀着温柔与爱意想着家人'（原文意，待核）；全家人如释重负出门郊游，讨论女儿的婚事（Britannica：Gregor dies at dawn, and his relieved family plans a hopeful future）。"
+  ],
+  "characters": [
+    {"name": "格里高尔·萨姆沙", "identity": "旅行推销员→甲虫", "note": "养家者变形为'废物'——自我牺牲者的荒诞结局（'怀着爱与温柔想着家人'而死）"},
+    {"name": "葛蕾特", "identity": "妹妹", "note": "从照护者到'处置'提议者——最令人心碎的转变"},
+    {"name": "父亲萨姆沙", "identity": "退休职员", "note": "扔苹果者——暴力与权威"},
+    {"name": "母亲萨姆沙太太", "identity": "主妇", "note": "晕厥与'不能看'——软性抛弃"},
+    {"name": "主任秘书", "identity": "公司代表", "note": "开篇的催逼者——职场即变形记的第一个现场"}
+  ],
+  "themes": [
+    "异化（alienation）：Britannica 定其为'modernist theme of alienation'的典范——人在职业与家庭双重结构中的物化。",
+    "家庭经济的解剖：养家者一旦丧失'有用性'，爱与义务的神话即刻崩解（Britannica 的情节梳理：家中出租房间、他成储物）。",
+    "身体的哲学：'Ungeziefer'本义'不洁的、不宜献祭之物'（Britannica 引 Eric Santner 的献祭解读）——被排除出'人之列'的存在。",
+    "多元解读的开放性：'religious, economic, political, medical, and etymological readings'（Britannica）——Günther Anders 把格里高尔的孤立联系于艺术家在物质社会的地位（Britannica）；纳博科夫（昆虫学者）断言'是甲虫不是蟑螂'，并以'平庸包围天才'读其寓意（Britannica：Nabokov...saw the allegory as 'mediocrity surrounding genius'）。",
+    "艺术特点：三部分的对称（三个房门场景）、小说式的冷静语调与寓言结构的嵌合、'不画出怪物'的留白。"
+  ],
+  "influence": [
+    {"text": "Britannica（The Metamorphosis 条目）：'Hailed as one of the most celebrated works of literary fiction'；现代主义'异化'主题的典范文本；多种解读并存（Santner、Anders、Nabokov）。", "source": "B022"},
+    {"text": "Britannica：穆尔夫妇译本（1933）长期为'标准版'，科恩戈尔德（1972）、伯诺夫斯基（2014）等译本接续（Britannica 列举）。", "source": "B022"},
+    {"text": "'卡夫卡式'的普及：'Kafkaesque'进入语言（Britannica Kafka 条目）——本作是其最典型的民间用例。", "source": "B049"},
+    {"text": "改编：戏剧、电影与漫画改编繁多（通说待核）；'变形记'成为汉语日常隐喻（通说待核）。", "source": "B022"}
+  ],
+  "reading": {
+    "difficulties": [
+      "德文原题 Ungeziefer 的多义（'害虫/不洁之物'）在翻译中必有损失——读导言与注释补课。",
+      "冷静语调与恐怖事件的反差是文体关键——不要'惊叫'着读。",
+      "结尾的家庭'郊游'段最细思恐极——注意其语气的轻快。"
+    ],
+    "editions": [
+      "叶廷芳译《变形记》（人民文学出版社/译林等多版本）：通行本（译本信息待核）。",
+      "张荣昌译本（上海译文出版社，通说待核）：另一选择。",
+      "英译：Stanley Corngold（1972，Britannica）/ Susan Bernofsky（2014，Britannica）。"
+    ],
+    "order": "一晚通读（约4万字）→ 回读开篇段与结尾段 → 读 Britannica 所列三种解读（Santner/Anders/Nabokov）再重估 → 对照《判决》与《在流放地》看'父亲—惩罚'主题。"
+  },
+  "pending": [
+    "1915年出版的具体月份（10月 Kurt Wolff 书局说，通说）与《白色书页》刊期（1915年卷2）待核。",
+    "'封面不画昆虫'书信的出处（致出版社信，1915）待核。",
+    "叶廷芳/张荣昌译本信息待核。",
+    "纳博科夫讲稿（《文学讲稿》）的原文核对。"
+  ],
+  "sources": ["B022", "B049"],
+  "year_source": "B022",
+  "author_source": "B049",
+  "related_works": ["yijiubasi", "zuiyufa", "huozhe"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《变形记》三段式结构图",
+    "steps": [
+      {"title": "变形之晨", "text": "甲虫·担心误火车", "color": "main"},
+      {"title": "家庭的隔", "text": "苹果伤背·房客进驻", "color": "antagonist"},
+      {"title": "音乐与遗弃", "text": "小提琴·'摆脱它'", "color": "gold"},
+      {"title": "如释重负", "text": "家人郊游·女儿婚事", "color": "antagonist"}
+    ]
+  }
+}

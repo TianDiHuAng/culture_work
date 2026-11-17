@@ -1,0 +1,95 @@
+{
+  "id": "gaicibi",
+  "title": "了不起的盖茨比",
+  "original_title": "The Great Gatsby（了不起的盖茨比）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fitzgerald",
+  "author_name": "弗朗西斯·斯科特·菲茨杰拉德",
+  "year_display": "1925年4月，纽约 Scribner's 出版（Britannica）",
+  "year_sort": 1925,
+  "background": [
+    "写作于1924年法国里维埃拉（Britannica：finished the novel in early 1925 while living in France——第三部长篇）；封面为弗朗西斯·库加特著名插画（'Celestial Eyes'，由编辑 Maxwell Perkins 委托——Britannica：famous Francis Cugat dust jacket commissioned by editor Maxwell Perkins）。",
+    "时代背景：1922年的纽约长岛——禁酒令下的私酒生意、股票繁荣与'新钱/旧钱'的阶层分野（Britannica：the West/East Egg divide embodying the 'new money' vs 'old money' tension）；'爵士时代'的顶点。",
+    "接受史（Britannica）：首印约2万册滞销、评论毁誉参半（mixed reviews）、菲茨杰拉德生前仅再印一次，1940年去世时仍有存书（Britannica：one further printing in Fitzgerald's lifetime, with unsold copies at his 1940 death）；二战后重估为经典、1950年代进入高中课堂（Britannica：rediscovered after WWII, became standard high-school reading in the 1950s）。"
+  ],
+  "outline": [
+    "叙述者尼克·卡拉威——耶鲁毕业的中西部人——1922年春搬到长岛西卵，隔壁是夜夜笙歌的神秘富翁盖茨比（Britannica：Narrated by Nick Carraway...recounting the summer through flashbacks）。",
+    "盖茨比的真身：原名詹姆斯·盖茨，北达科他贫家子，战后靠私酒与不义买卖发家（Britannica：Tom exposes Gatsby's bootlegging fortune at the Plaza Hotel confrontation）；五年前在路易斯维尔爱过黛西——绿灯（'the green light at the end of Daisy's dock symbolizes Gatsby's unreachable dream'——Britannica）是他的执念。",
+    "炽热的夏天：尼克撮合重逢；黛西的丈夫汤姆·布坎南（旧钱）揭露盖茨比出身；广场饭店摊牌。",
+    "结局：黛西驾盖茨比的黄色跑车撞死汤姆情妇茉特尔；茉特尔之夫乔治·威尔逊开枪打死盖茨比后自尽（Britannica：Daisy, driving Gatsby's yellow car, kills Myrtle Wilson; George Wilson shoots Gatsby in his pool, then himself）；葬礼只有尼克与盖茨比之父等寥寥数人（Britannica：only two people attend Gatsby's funeral）。尼克回到中西部——绿灯仍是'未来之年在我们面前退去'的那个绿灯（结尾原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "杰伊·盖茨比", "identity": "西卵神秘富翁", "note": "自造姓名的'美国梦'化身：以全部生命重演五年前一瞬"},
+    {"name": "尼克·卡拉威", "identity": "叙述者", "note": "'既在内又在外'的中西部观察者（Britannica：compassionate observer）"},
+    {"name": "黛西·布坎南", "identity": "尼克表妹，汤姆之妻", "note": "'声音里有钱'的贵族女子（通说引语，待核）——梦想的空洞对象"},
+    {"name": "汤姆·布坎南", "identity": "旧钱·马球运动员", "note": "种族论调与暴力——旧钱的原形"},
+    {"name": "茉特尔·威尔逊", "identity": "修车行老板之妻", "note": "灰烬谷的牺牲品"},
+    {"name": "乔丹·贝克", "identity": "高尔夫球手", "note": "尼克的短暂恋人，'不诚实'的新女性"}
+  ],
+  "themes": [
+    "美国梦的幻灭：Britannica——'read as a pessimistic examination of the American Dream'（被解读为对美国梦的悲观审视）；盖茨比的绿灯是'梦的几何学'。",
+    "新钱与旧钱：西卵/东卵的地理即阶级地理（Britannica：the West/East Egg divide）——盖茨比永远进不了黛西的'旧钱'世界。",
+    "叙述的道德位置：尼克自称'诚实'而介入一切——'不可靠叙述'的经典讨论对象（通说）。",
+    "艺术特点：五章结构对称（重逢为拱顶）、意象系统（绿灯、灰烬谷、眼睛的广告牌）、抒情与讽刺的平衡。"
+  ],
+  "influence": [
+    {"text": "Britannica（The Great Gatsby 条目）：'often been called the Great American Novel'（常被称为'伟大的美国小说'）；Britannica（Fitzgerald 条目）：'widely considered the great American novel'。", "source": "B023"},
+    {"text": "Britannica：生前滞销、二战后经典化（'rediscovered after WWII...standard high-school reading in the 1950s'）——接受史标本。", "source": "B023"},
+    {"text": "Britannica：2021年进入美国公有领域——衍生创作与舞台化涌流（通说待核）。", "source": "B023"},
+    {"text": "跨媒介：1974年电影（Redford）、2013年电影（Luhrmann/DiCaprio，Britannica 列举 Notable film adaptations）与歌剧、 ballet。", "source": "B023"}
+  ],
+  "reading": {
+    "difficulties": [
+      "篇幅不长（约5万词）而意象密度大——绿灯、灰烬谷、T.J.埃克尔堡的眼睛需连贯解读。",
+      "尼克的叙述立场（同情/疏离/自命诚实）是理解全书的关键。",
+      "1920年代美国背景（禁酒令、'新钱'）需要简注。"
+    ],
+    "editions": [
+      "巫宁坤等译《了不起的盖茨比》（上海译文出版社）：通行译本。",
+      "邓若虚译本（南海出版公司，通说待核）：市场通行。",
+      "英文本：Scribner 原版（含 Preface 与 Notes，通说待核）。"
+    ],
+    "order": "通读九章 → 精读第三章（派对）、第五章（重逢）、第七章（广场饭店与车祸）、第九章（葬礼与结尾） → 回读第一章结尾的绿灯段 → 对照电影（1974/2013）。"
+  },
+  "pending": [
+    "首印与再印数据（Britannica 已给约20000册）与售价（2美元说，通说）待核。",
+    "库加特封面的定稿过程（Fitzgerald 称'已入书'轶事）待核。",
+    "巫宁坤译本出版信息（1978年内部发行说，通说）待核。",
+    "'绿灯'结尾段原文逐字核对。"
+  ],
+  "sources": ["B023", "B050"],
+  "year_source": "B023",
+  "author_source": "B050",
+  "related_works": ["laorenhai", "weicheng", "bainian"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《了不起的盖茨比》人物关系图（东卵·西卵·灰烬谷）",
+    "nodes": [
+      {"id": "gatsby", "label": "盖茨比", "x": 340, "y": 120, "color": "main", "sub": "西卵·新钱"},
+      {"id": "nick", "label": "尼克", "x": 120, "y": 120, "color": "plain", "sub": "叙述者"},
+      {"id": "daisy", "label": "黛西", "x": 560, "y": 120, "color": "family", "sub": "东卵·旧钱"},
+      {"id": "tom", "label": "汤姆", "x": 560, "y": 320, "color": "antagonist", "sub": "旧钱丈夫"},
+      {"id": "myrtle", "label": "茉特尔", "x": 340, "y": 380, "color": "plain", "sub": "灰烬谷"},
+      {"id": "george", "label": "威尔逊", "x": 120, "y": 380, "color": "plain", "sub": "修车行"},
+      {"id": "jordan", "label": "乔丹", "x": 120, "y": 300, "color": "family"},
+      {"id": "green", "label": "绿灯", "x": 340, "y": 40, "color": "gold", "sub": "梦的坐标"}
+    ],
+    "edges": [
+      {"a": "gatsby", "b": "daisy", "label": "五年后的重逢"},
+      {"a": "daisy", "b": "tom", "label": "婚姻"},
+      {"a": "tom", "b": "myrtle", "label": "情妇", "style": "dashed"},
+      {"a": "myrtle", "b": "george", "label": "夫妻"},
+      {"a": "gatsby", "b": "nick", "label": "邻居·唯一赴葬者"},
+      {"a": "nick", "b": "jordan", "label": "短暂恋情", "style": "dashed"},
+      {"a": "gatsby", "b": "green", "label": "凝望"},
+      {"a": "george", "b": "gatsby", "label": "枪杀", "style": "dashed"}
+    ]
+  }
+}
