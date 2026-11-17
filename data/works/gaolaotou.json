@@ -1,0 +1,95 @@
+{
+  "id": "gaolaotou",
+  "title": "高老头",
+  "original_title": "Le Père Goriot（Le Père Goriot，1834—35）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（中长篇幅）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "balzac",
+  "author_name": "奥诺雷·德·巴尔扎克",
+  "year_display": "1834年12月起在《巴黎杂志》连载，1835年单行本（Britannica）",
+  "year_sort": 1835,
+  "background": [
+    "《人间喜剧》的枢纽之作：Britannica 称其为'one of the best works of Balzac's panoramic series La Comédie humaine'，并指出它首次启用'人物复现'技术——拉斯蒂涅、伏脱冷、纽沁根夫人等在此出场、日后重现于其他小说（'the first to feature characters that would reappear in later novels'）。",
+    "时代背景：1819年的巴黎（小说设定时间）——复辟王朝下新兴资产阶级与没落贵族的金钱角力；'金钱法则'取代荣誉法则的时代（通说解读）。",
+    "结构来源：'高老头'的父爱悲剧与'拉斯蒂涅'的野心教育双线交织（Britannica：The two stories are intertwined）。"
+  ],
+  "outline": [
+    "伏盖公寓：巴黎拉丁区最破的公寓，七位房客——退休面粉商高老头住最便宜的顶楼，法科学生拉斯蒂涅住中档，神秘房客伏脱冷是全楼的'危险人物'。",
+    "高老头之谜：他起初待遇优渥（金银器皿），后逐步搬往更低楼层——众人猜测其艳史，真相是他把全部财产分给两个女儿做陪嫁，只为获准在她们府门前偶尔张望。",
+    "拉斯蒂涅的教育：外省破落贵族子弟决心'征服巴黎'；表姐鲍赛昂夫人教他'以礼貌打击'贵族社会的冷酷规则；伏脱冷（苦役逃犯）教他'要么规规矩矩受穷，要么大胆往上爬'——'这个社会的规律是：一个人要洗劫社会，就必须有人教他'（伏脱冷言论大意，原文待核）。",
+    "悲剧结局：纽沁根夫人（大女儿）与雷斯托伯爵夫人（小女儿）轮流榨干父亲最后一批银器为舞会与情夫还债；高老头中风垂死，两个女儿在舞会与排场中无人送终——拉斯蒂涅变卖手表为老人办丧，葬礼上两个女婿家的空车随行；'埋葬了他青年人的最后一滴眼泪'后，向巴黎发出挑战：'现在咱们俩来拼一拼吧！'（原文意，待核）——伏脱冷被捕，鲍赛昂夫人被弃而退隐。"
+  ],
+  "characters": [
+    {"name": "高里奥老头", "identity": "退休面粉商", "note": "'父爱的偏执狂'：为女儿无限自我牺牲终被榨干——Britannica：'old Goriot, a father who sacrifices everything for his children'"},
+    {"name": "拉斯蒂涅（欧也纳·德·拉斯蒂涅）", "identity": "外省学生", "note": "'野心家'教育小说的主人公——日后《人间喜剧》中的部长与政治家（人物复现）"},
+    {"name": "伏脱冷（雅克·柯冷）", "identity": "苦役逃犯", "note": "'哲学家的强盗'：以最露骨的语言道破社会法则（人物复现）"},
+    {"name": "但斐纳（纽沁根夫人）", "identity": "大女儿", "note": "嫁银行家、恋拉斯蒂涅——金钱婚姻的囚徒"},
+    {"name": "阿娜斯塔齐（雷斯托夫人）", "identity": "小女儿", "note": "贵族婚姻中的情人债"},
+    {"name": "鲍赛昂夫人", "identity": "贵族社交女王", "note": "被资产阶级出身的情人抛弃——贵族体面时代的黄昏"},
+    {"name": "米旭诺小姐", "identity": "老小姐告密者", "note": "为赏金出卖伏脱冷——底层互害的标本"}
+  ],
+  "themes": [
+    "父爱作为宗教：高老头把父爱做到神学的极端——'我爱我的女儿胜过上帝爱世界'（大意，原文待核）；巴尔扎克借此检验'情感在被金钱社会货币化后的下场'。",
+    "金钱社会的法则书：伏脱冷的三次'政治课'——从公寓到监狱，整套社会规则被一个逃犯说得比任何教授都透彻。",
+    "野心的教育小说：拉斯蒂涅的三位老师（鲍赛昂夫人/伏脱冷/高老头的死）——教育即堕落的完成式。",
+    "艺术特点：双线交织的对称结构、伏盖公寓的'考古学式'开篇描写（环境即社会身份的档案）、'人物复现'的世界观。"
+  ],
+  "influence": [
+    {"text": "Britannica（Le Père Goriot 条目）：'one of the best works of Balzac's panoramic series La Comédie humaine'，并首次启用人物复现。", "source": "B014"},
+    {"text": "Britannica（Balzac 条目）：'a masterpiece'（1835），与《欧也妮·葛朗台》同为1832—35巅峰期代表。", "source": "B039"},
+    {"text": "接受史：拉斯蒂涅成为'野心家'的世界文学原型（与于连并称，通说待核）；伏脱冷进入法语词典（通说待核）。", "source": "B014"},
+    {"text": "改编：多次电影与电视改编（1945/1972/2004说，通说待核）。", "source": "B014"}
+  ],
+  "reading": {
+    "difficulties": [
+      "开篇40页的公寓描写（'考古学'式细节）考验耐心——但它是全书方法论的宣言。",
+      "1819—1822年法国政治背景（保皇党/自由党、租税与爵位买卖）需要注释。",
+      "金钱数目（陪嫁、债务）密集——巴尔扎克的'账目叙事'是理解主题的关键。"
+    ],
+    "editions": [
+      "傅雷译《高老头》（人民文学出版社/上海译文）：傅雷经典译本。",
+      "张冠尧译本（人民文学出版社）：另一选择。",
+      "英译：Ellen Marriage 译（Everyman，通说待核）。"
+    ],
+    "order": "先读开篇（伏盖公寓）与伏脱冷的三次谈话 → 通读 → 精读结尾两章（高老头之死与葬礼）→ 对照《欧也妮·葛朗台》看巴尔扎克'金钱—情感'主题的另一变奏。"
+  },
+  "pending": [
+    "连载起讫（1834年12月—1835年2月《巴黎杂志》说）与单行本（1835年 Werdet 版）细节待核。",
+    "伏脱冷名言的逐字核对（傅雷译本）。",
+    "'人物复现'首例的学界确认（Britannica 已述，中文学界表述待核）。",
+    "电影改编年表待核。"
+  ],
+  "sources": ["B014", "B039"],
+  "year_source": "B014",
+  "author_source": "B039",
+  "related_works": ["hongyuhei", "beican", "ziye"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《高老头》伏盖公寓人物关系图",
+    "nodes": [
+      {"id": "goriot", "label": "高老头", "x": 340, "y": 110, "color": "main", "sub": "父爱偏执狂"},
+      {"id": "rastignac", "label": "拉斯蒂涅", "x": 150, "y": 230, "color": "main", "sub": "野心学生"},
+      {"id": "vautrin", "label": "伏脱冷", "x": 530, "y": 230, "color": "antagonist", "sub": "苦役逃犯"},
+      {"id": "anastasie", "label": "阿娜斯塔齐", "x": 130, "y": 80, "color": "family", "sub": "小女儿"},
+      {"id": "delfine", "label": "但斐纳", "x": 550, "y": 80, "color": "family", "sub": "大女儿"},
+      {"id": "beauseant", "label": "鲍赛昂夫人", "x": 60, "y": 400, "color": "plain", "sub": "贵族女王"},
+      {"id": "michonneau", "label": "米旭诺", "x": 340, "y": 420, "color": "plain", "sub": "告密者"},
+      {"id": "vauquer", "label": "伏盖太太", "x": 620, "y": 400, "color": "plain", "sub": "公寓老板娘"}
+    ],
+    "edges": [
+      {"a": "goriot", "b": "anastasie", "label": "父女·榨取"},
+      {"a": "goriot", "b": "delfine", "label": "父女·榨取"},
+      {"a": "rastignac", "b": "delfine", "label": "情人"},
+      {"a": "rastignac", "b": "vautrin", "label": "诱惑·教导"},
+      {"a": "rastignac", "b": "beauseant", "label": "引路人"},
+      {"a": "michonneau", "b": "vautrin", "label": "出卖", "style": "dashed"},
+      {"a": "vauquer", "b": "goriot", "label": "逐层降租"}
+    ]
+  }
+}

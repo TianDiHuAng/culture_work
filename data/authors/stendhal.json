@@ -1,0 +1,43 @@
+{
+  "id": "stendhal",
+  "name": "司汤达",
+  "foreign_name": "Stendhal（本名 Marie-Henri Beyle 马里-亨利·贝尔，1783-01-23 — 1842-03-23）",
+  "country": "法国",
+  "birth": "1783-01-23",
+  "death": "1842-03-23",
+  "birth_year": 1783,
+  "death_year": 1842,
+  "era": "近代",
+  "summary": "司汤达（笔名，首用于1817年游记，Britannica），格勒诺布尔人，法国19世纪上半叶'最具独创性、最复杂的作家之一'（Britannica：one of the most original and complex French writers of the first half of the 19th century）。随拿破仑军转战欧陆（1806年起任军职，目睹莫斯科大火与俄军撤退——Britannica），1814年定居米兰，因奥地利当局怀疑1821年离开（Britannica）。1830年七月革命后任奇维塔韦基亚领事（Britannica）。生前默默无闻（巴尔扎克1840年撰文推崇，Britannica），身后被尊为'心理现实主义'的开创者。",
+  "timeline": [
+    {"year": "1783-01-23", "text": "生于格勒诺布尔（Britannica：Born January 23, 1783, Grenoble），本名马里-亨利·贝尔；七岁丧母（Britannica）。", "src": "B038"},
+    {"year": "1799", "text": "离开格勒诺布尔赴巴黎，志在剧作（Britannica：left Grenoble for Paris in 1799 hoping to become a playwright）。", "src": "B038"},
+    {"year": "1800—1812", "text": "随拿破仑军转战意大利、德国（1806年起任军职于不伦瑞克、奥地利等地，Britannica：Served in Napoleon's army administration from 1806）；1812年随军入莫斯科、经历大撤退（Britannica：witnessed the burning of Moscow and the retreat from Russia）。", "src": "B038"},
+    {"year": "1814—1821", "text": "帝国倾覆后定居米兰（Britannica：Settled in Milan in 1814）；恋梅蒂尔德·登博夫斯基被拒（Britannica）；1821年因涉奥当局怀疑离米兰（Britannica）。", "src": "B038"},
+    {"year": "1817—1822", "text": "笔名'Stendhal'首用于《罗马·那不勒斯·佛罗伦萨》（1817，Britannica）；《论爱情》（1822，含'结晶'理论，Britannica）。", "src": "B038"},
+    {"year": "1830", "text": "七月革命后任奇维塔韦基亚法国领事（Britannica：appointed French consul at Civitavecchia）；同年《红与黑》出版（Britannica A&P 条目：Published in French in 1830）。", "src": "B038"},
+    {"year": "1836—1839", "text": "回巴黎休假三年，创作高峰：《吕西安·勒温》（未完）、《自忆自传》等（Britannica：wrote major works during Paris leave (1836–39)）；《巴马修道院》（1839，Britannica 列举）。", "src": "B038"},
+    {"year": "1842-03-23", "text": "中风后卒于巴黎，年五十九（Britannica：died March 23, 1842, Paris after a stroke）。", "src": "B038"},
+    {"year": "身后", "text": "生前作品少人问津——巴尔扎克1840年撰文推崇《巴马修道院》（Britannica：Balzac praised him in 1840）；20世纪被追认为'心理小说'鼻祖（通说待核）。", "src": "B038"}
+  ],
+  "major_works": [
+    {"work_id": "hongyuhei", "note": "1830；'Stendhal's major work'（Britannica）"},
+    {"title": "巴马修道院（1839）", "note": "含著名的滑铁卢描写（Britannica：includes a famous Waterloo episode）"},
+    {"title": "论爱情（1822）", "note": "'结晶'理论（Britannica）"}
+  ],
+  "style": [
+    "心理分析的小说化：'lyrical fervor with rational analysis'（抒情热情与理性分析的结合，Britannica）——人物心理的'数学式'剖析。",
+    "'小说是一面沿大路行走的镜子'（《红与黑》下卷题词，原文待核）——现实主义的方法论自白。",
+    "多层反讽叙述：叙述者常与人物拉开距离（'自由间接引语'在法语的早期运用——通说待核）。",
+    "'结晶'理论的爱情心理学（对意中人把树枝想象成晶体宫殿——Britannica 提及 his 'crystallization' theory）。"
+  ],
+  "status": "Britannica 称司汤达为19世纪上半叶法国最具独创性与复杂性的作家。生前读者寥寥（'未来读者'说：'我将在1880年前后被人理解'——其书信中著名的预言行，通说待核），身后经巴尔扎克激赏、19世纪末浪漫主义批评家（如布鲁诺·施奈德）与20世纪'新小说派'的接力而登顶。其《红与黑》与《巴马修道院》被视为法国心理小说传统的起点，普鲁斯特、纪德均承其余泽（通说，待核）。",
+  "sources": ["B038", "B013"],
+  "dates_source": "B038",
+  "pending": [
+    "'未来读者'预言行（致 Balzac 或其他书信）的原文出处待核。",
+    "《红与黑》出版年细节（1830年11月说）与'1831'副标题问题待核。",
+    "领事任职与《巴马修道院》写作（1838年52天速写说，通称）细节待核。",
+    "滑铁卢描写（法布尔上士视角）的章节定位与评价（托尔斯泰推崇说）待核。"
+  ]
+}
