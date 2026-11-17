@@ -1,0 +1,40 @@
+{
+  "id": "caoyu",
+  "name": "曹禺",
+  "foreign_name": "Cao Yu（万家宝，1910-09-24 — 1996-12-13）",
+  "country": "中国",
+  "birth": "1910-09-24",
+  "death": "1996-12-13",
+  "birth_year": 1910,
+  "death_year": 1996,
+  "era": "现当代",
+  "summary": "曹禺，原名万家宝，天津人，中国现代话剧的奠基人。南开中学（南开新剧团）与清华大学西洋文学系出身，1933年23岁时写就处女作《雷雨》，1935年上演'instantly'成名（Britannica）。《日出》《原野》《北京人》接连问世，使话剧这一'外来的'文体在中国立住脚跟（Britannica：huaju 奠基者）。1950年代初任北京人民艺术剧院院长，晚年创作力衰退，1996年卒于北京。",
+  "timeline": [
+    {"year": "1910-09-24", "text": "生于天津一个没落的官僚家庭（Britannica：born Sept. 24, 1910, Tianjin）。", "src": "B080"},
+    {"year": "1920s", "text": "就读南开中学，参加南开新剧团，主演《娜拉》等（本页转述通说，Britannica 未详）；受张彭春指导（通说待核）。", "src": "B080"},
+    {"year": "1929—1933", "text": "入清华外文系，'studying Chinese literature and Western drama'（Britannica）；1933年写成《雷雨》。", "src": "B080"},
+    {"year": "1934", "text": "《雷雨》发表于巴金主持的《文学季刊》（发表渠道为通说，待核）；1935年留学归国学生剧团在天津、上海首演即轰动（Britannica：performed in 1935, instantly winning him fame）。", "src": "B080"},
+    {"year": "1936—1941", "text": "《日出》（1936）、《原野》（1937，受奥尼尔影响，Britannica）、《北京人》（1940）相继问世；《北京人》'thought by many to be one of the masterpieces of modern Chinese drama'（Britannica）。", "src": "B080"},
+    {"year": "1950s—1996", "text": "任北京人民艺术剧院院长（early 1950s，Britannica）、中国剧协主席（early 1980s，Britannica）；晚年有《王昭君》（1979）等，创作力衰退（通说待核）；1996年12月13日卒于北京（Britannica）。", "src": "B080"}
+  ],
+  "major_works": [
+    {"work_id": "leiyu", "note": "1934，成名作"},
+    {"title": "日出（1936）", "note": "'损不足以奉有余'的社会悲剧（Britannica 列举）"},
+    {"title": "北京人（1940）", "note": "'许多评论者视为现代中国戏剧杰作之一'（Britannica）"}
+  ],
+  "style": [
+    "锁闭式结构：《雷雨》把三十年恩怨压缩进一天之内——'三一律'式的中国运用。",
+    "命运悲剧与性格悲剧并置：雷雨意象（郁热、压抑、爆发的天气）与人物性格互为表里。",
+    "诗化的舞台语言：曹禺的台词有抒情性，'郁热'氛围是其戏剧的呼吸。",
+    "受古希腊悲剧、奥尼尔、易卜生的多重滋养（Britannica：原野受奥尼尔影响；话剧 huaju 受西方戏剧而非传统戏曲影响）。"
+  ],
+  "status": "曹禺使话剧（huaju）在中国完全成熟：Britannica 称其为'widely seen as a founder of modern Chinese spoken drama'（现代话剧的奠基人）。《雷雨》《日出》《原野》《北京人》四大名剧在1949年前完成，此后他的创造力明显下降——其'晚年困境'成为中国文艺体制讨论的常例（此讨论为学界公共话题，本页不展开）。北京人艺以其为第一任院长，'曹禺剧场'至今是中国话剧的圣地。",
+  "sources": ["B080"],
+  "dates_source": "B080",
+  "pending": [
+    "《雷雨》发表渠道（《文学季刊》1934年7月，巴金发现说）的细节待核。",
+    "南开新剧团经历与张彭春指导的史料待核。",
+    "《王昭君》等晚年作品的艺术评价（'失败的创作期'之说）学界有争论。",
+    "家世细节（生父万德尊、继母影响）待核。"
+  ]
+}
