@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="90.0" x2="340.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="151.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="164.0" font-size="12" fill="#555" text-anchor="middle">祖孙相依</text>
+<line x1="340.0" y1="230.0" x2="550.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="401.4" y="181.0" width="87.2" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="194.0" font-size="12" fill="#555" text-anchor="middle">端午初遇·暗恋</text>
+<line x1="130.0" y1="150.0" x2="340.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="201.0" y="181.0" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="194.0" font-size="12" fill="#555" text-anchor="middle">提亲被婉拒</text>
+<line x1="130.0" y1="150.0" x2="550.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="296.4" y="141.0" width="87.2" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="154.0" font-size="12" fill="#555" text-anchor="middle">兄弟同爱·谦让</text>
+<line x1="340.0" y1="330.0" x2="550.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="429.0" y="231.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="244.0" font-size="12" fill="#555" text-anchor="middle">父子</text>
+<line x1="120.0" y1="380.0" x2="340.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="202.0" y="296.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="309.0" font-size="12" fill="#555" text-anchor="middle">陪伴守望</text>
+<rect x="313.0" y="212.5" width="54.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="235.4" font-size="15" fill="#fff" text-anchor="middle">翠翠</text>
+<rect x="314.0" y="249.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="260.5" font-size="11" fill="#333" text-anchor="middle">渡船少女</text>
+<rect x="305.5" y="72.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="340.0" y="95.4" font-size="15" fill="#fff" text-anchor="middle">老船夫</text>
+<rect x="325.0" y="109.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="120.5" font-size="11" fill="#333" text-anchor="middle">外公</text>
+<rect x="73.0" y="132.5" width="114.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="130.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">天保（大老）</text>
+<rect x="104.0" y="169.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">船总长子</text>
+<rect x="493.0" y="132.5" width="114.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="550.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">傩送（二老）</text>
+<rect x="524.0" y="169.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">船总次子</text>
+<rect x="313.0" y="312.5" width="54.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="340.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">顺顺</text>
+<rect x="325.0" y="349.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">船总</text>
+<rect x="85.5" y="362.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="120.0" y="385.4" font-size="15" fill="#fff" text-anchor="middle">杨马兵</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">《边城》人物关系图</text>
+</svg>
