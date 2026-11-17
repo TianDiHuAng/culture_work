@@ -1,0 +1,44 @@
+{
+  "id": "shakespeare",
+  "name": "莎士比亚",
+  "foreign_name": "William Shakespeare（威廉·莎士比亚，1564—1616）",
+  "country": "英国",
+  "birth": "1564（受洗4月26日，传统生日4月23日）",
+  "death": "1616-04-23",
+  "birth_year": 1564,
+  "death_year": 1616,
+  "era": "古代",
+  "summary": "莎士比亚，斯特拉福镇手套匠之子，'常被认为史上最伟大的剧作家'（Britannica：considered by many to be the greatest dramatist of all time）。37部剧作（共识数，Britannica）、154首十四行诗；悲剧（哈姆雷特、麦克白、李尔王、奥赛罗）、历史剧、喜剧全面开花。1623年第一对开本保存其剧作（Britannica）。本·琼森预言他'不属于一个时代，而属于所有时代'（Britannica：not of an age, but for all time）。",
+  "timeline": [
+    {"year": "1564-04-26", "text": "在斯特拉福受洗（Britannica：baptized April 26, 1564；传统生日4月23日）。父约翰为手套商、曾任镇公职（alderman, bailiff——Britannica）。", "src": "B033"},
+    {"year": "1582-11", "text": "18岁时与安妮·海瑟薇（年长八岁）结婚（Britannica：married Anne Hathaway at age 18, Nov. 1582 bond）。", "src": "B033"},
+    {"year": "1583—1585", "text": "子女：苏珊娜（1583）、龙凤胎哈姆内特与朱迪丝（1585）——哈姆内特11岁夭折（Britannica：Hamnet died at 11）。", "src": "B033"},
+    {"year": "1585—1592", "text": "'失去的岁月'（lost years，Britannica）：行踪文献缺载；1592年已在伦敦剧坛立足（通说待核）。", "src": "B033"},
+    {"year": "1590s", "text": "伦敦生涯：宫内大臣剧团（Lord Chamberlain's Men，通说）主要股东与编剧；历史剧与喜剧时期（Britannica 按类列举）。", "src": "B033"},
+    {"year": "1599前后", "text": "环球剧院（Globe Theatre）建立（Britannica 相关问答提及 Globe Theatre involvement）；悲剧高峰期开启：哈姆雷特（约1599—1601）。", "src": "B033"},
+    {"year": "1601—1608", "text": "大悲剧期：哈姆雷特、奥赛罗、李尔王、麦克白（Britannica 列举 tragedies）。", "src": "B033"},
+    {"year": "1609—1613", "text": "传奇剧期（《暴风雨》等）；十四行诗1609年出版（Britannica：154 sonnets）；回斯特拉福置产。", "src": "B033"},
+    {"year": "1616-04-23", "text": "卒于斯特拉福（Britannica：died April 23, 1616——死因不详，教区牧师'纵酒后热病'之说未经证实，Britannica）。", "src": "B033"},
+    {"year": "1623", "text": "第一对开本（First Folio）出版，收剧36部（Britannica：First Folio (1623) collected edition；37部为今共识数含合作）。", "src": "B033"}
+  ],
+  "major_works": [
+    {"work_id": "hamlet", "note": "约1599—1601；'常被视为史上最伟大戏剧'（Britannica）"},
+    {"title": "李尔王、麦克白、奥赛罗、罗密欧与朱丽叶", "note": "悲剧群峰（Britannica 列举）"},
+    {"title": "仲夏夜之梦、第十二夜、暴风雨", "note": "喜剧与传奇剧（Britannica 列举）"}
+  ],
+  "style": [
+    "诗化的戏剧语言：素体诗（blank verse）与散文的交替使用按人物身份与情绪调节（通说）。",
+    "人物的内在矛盾：哈姆雷特的延宕、麦克白的野心与良知、李尔王的愤怒与悔悟——Britannica：'their complete range of emotions and conflicts'（完整的人类情感与冲突）。",
+    "双线结构与反讽：每部悲剧都有平行副线（哈姆雷特的戏剧团、李尔王的两个女儿）。",
+    "场景的自由流动：打破三一律，时空随戏剧需要切换。"
+  ],
+  "status": "Britannica 称莎士比亚为'英国国民诗人'，'在世界文学中占有一个独一无二的位置'（a position unique in world literature）。其人物的情感真实'超越时间'（transcends time，Britannica），被译成世界主要语言并持续被搬演。'莎士比亚问题'（作品是否确为其作）在流行文化中时有波澜，学界共识为其作者身份确凿（通说，本页不展开）。他是全球文化产业的持久引擎：从剧院到电影到漫画（通说，数据待核）。",
+  "sources": ["B033", "B007"],
+  "dates_source": "B033",
+  "pending": [
+    "生日（4月23日）为传统推定（受洗4月26日后三日），无出生登记。",
+    "37部剧作的共识数与真伪归属（含合作剧如《两个高贵的亲戚》'通说'）待核。",
+    "'失去的岁月'（1585—92）的行踪假说（医师、教师、剧院杂役说）待核。",
+    "十四行诗的收信人（W.H. 与黑女士）之谜，学界无定论。"
+  ]
+}

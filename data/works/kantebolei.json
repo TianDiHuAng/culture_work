@@ -1,0 +1,86 @@
+{
+  "id": "kantebolei",
+  "title": "坎特伯雷故事",
+  "original_title": "The Canterbury Tales（坎特伯雷故事集）",
+  "region": "英国",
+  "era": "古代",
+  "era_detail": "中世纪",
+  "genre": "框架叙事故事集（总引+24个故事）",
+  "genre_group": "故事集",
+  "language": "英语（中古英语）",
+  "author_id": "chaucer",
+  "author_name": "杰弗里·乔叟",
+  "year_display": "1387—1400年（未竟，作者去世）",
+  "year_sort": 1390,
+  "background": [
+    "创作于乔叟晚年（1387—1400，Britannica），作者去世时未完成——计划中的120个故事只写成24个（计划数字为学界通说待核），回程故事全部缺失（Britannica：the return journey and some stories are missing）。",
+    "背景：14世纪末英格兰——黑死病后的社会流动、教会腐败（赦罪符买卖）、农民起义余波。三十位朝圣者从伦敦南华克泰巴德客栈出发，前往坎特伯雷拜谒托马斯·贝克特圣龛（Britannica：travel to the shrine of St. Thomas Becket）。",
+    "框架装置：店主哈利·贝利提议的故事比赛——往返途中每人讲四个故事（Britannica：Harry Bailly, the host, runs a storytelling contest），此装置源自《十日谈》的影响（通说待核）。"
+  ],
+  "outline": [
+    "《总引》（General Prologue）：四月花开时节，三十位朝圣者齐聚泰巴德客栈——骑士、侍从、女修道院院长、修士、商人、学者、律师、巴斯妇、赦罪符贩卖者、磨坊主、厨师、水手、医生、富农……Britannica 称其'以简短生动的速写介绍大多数朝圣者'——一部14世纪社会的'人像展览'。",
+    "故事类型横跨罗曼司（骑士的故事）、圣徒传、布道文、寓言（修女院教士的公鸡故事）、市井闹剧（磨坊主、管家的故事）、传奇（巴斯妇的故事、赦罪符贩卖者的故事——关于'贪婪是万恶之源'的布道者自己贪财的著名反讽）。",
+    "名篇举隅：《骑士的故事》——两骑士为爱决斗的宫廷罗曼司；《巴斯妇的开场白与故事》——结婚五次的女人对婚姻权威的雄辩（女性主义阅读的经典文本）；《磨坊主的故事》—— carpenter 被愚弄的闹剧；《赦罪符贩卖者的故事》——关于死亡的三个浪子寓言；《修女院教士的故事》——公鸡'尚特克莱尔'的动物史诗。"
+  ],
+  "characters": [
+    {"name": "骑士", "identity": "老骑士，总引第一人", "note": "理想贵族：征战十五次、'-loving chivalrie'——故事的讲述者与化身"},
+    {"name": "巴斯妇", "identity": "织布商妇，五次寡妇", "note": "对'婚姻权威'的雄辩挑战——中世纪文学最著名的女性声音"},
+    {"name": "赦罪符贩卖者", "identity": "教会敛财者", "note": "讲'贪婪是万恶之源'故事的敛财者——乔叟式反讽的巅峰"},
+    {"name": "磨坊主", "identity": "粗鄙的磨坊主", "note": "醉后强抢话头讲下流故事——市井声音进入文学"},
+    {"name": "乔叟本人（叙述者）", "identity": "朝圣者之一", "note": "'既是又不是'作者的天真叙述者（Britannica）——自我反讽的枢纽"},
+    {"name": "哈利·贝利", "identity": "泰巴德客栈店主", "note": "故事比赛的裁判与'主持人'"}
+  ],
+  "themes": [
+    "社会全景：三十个身份=14世纪英格兰的全部阶层——从骑士到磨坊主的'人像展览'（Britannica：gathers diverse social types）。",
+    "对教会的批判：赦罪符贩卖、游乞僧、腐败修士——教会批判与虔诚信仰并存的微妙态度。",
+    "婚姻的辩论（'婚姻集团'）：巴斯妇、学士、商人、修女院教士的故事构成一场跨故事的婚姻论战（学界通说'Marriage Group'，出自 Kittredge 论，待核）。",
+    "反讽叙述：'既是又不是'的乔叟——天真记录一切而真相自现（Britannica）。"
+  ],
+  "influence": [
+    {"text": "Britannica Canterbury 条目：'one of the most famous and celebrated works of English literature'，乔叟的最高成就。", "source": "B008"},
+    {"text": "Britannica：帮助普及了五音步抑扬格——16世纪起成为英语诗歌的主导格律。", "source": "B008"},
+    {"text": "Britannica：其开篇四月意象被 T.S.艾略特在《荒原》（1922）中刻意颠覆——现代主义的起点之一。", "source": "B008"},
+    {"text": "Britannica：以幽默平衡'对重要哲学问题的严肃而宽容的思考'（serious and tolerant consideration of important philosophical questions）。", "source": "B008"}
+  ],
+  "reading": {
+    "difficulties": [
+      "中古英语与现代英语差异大（拼写、变格），需双语对照或现代化译本入门。",
+      "24个故事体裁各异（罗曼司/布道/闹剧），切换文体需要耐心。",
+      "教会制度（赦罪符、游乞僧、赎罪券）背景需要补充。"
+    ],
+    "editions": [
+      "方重译《坎特伯雷故事》（上海译文出版社）：诗体全译。",
+      "黄杲炘译《坎特伯雷故事》（人民文学出版社）：现代格律译本。",
+      "英译对照：Interlinear Translations（Harvard Geoffrey Chaucer 网站，Britannica 提及 Harvard Chaucer website）或现代英语化译本。"
+    ],
+    "order": "先读《总引》（人物速写）→ 《骑士的故事》《磨坊主的故事》《赦罪符贩卖者的故事》《巴斯妇的故事》四大名篇 → 再按兴趣补修士、厨师、修女院教士的故事 → 最后读乔叟的《撤回》（Retraction，Britannica 提及）。"
+  },
+  "pending": [
+    "计划故事总数（每人往返各2个共120个的说法）学界有争论，Britannica 只记写成24个。",
+    "'婚姻集团'（Marriage Group）术语出自 George Lyman Kittredge 1910s 论文（通说待核）。",
+    "方重/黄杲炘译本的中古英语处理方式待核。",
+    "故事次序在不同抄本（Hengwrt/Ellesmere 抄本）间有异——文本学课题待核。"
+  ],
+  "sources": ["B008", "B032"],
+  "year_source": "B008",
+  "author_source": "B032",
+  "related_works": ["shiritan", "hamlet", "yisuo"],
+  "svg": {
+    "type": "ring",
+    "width": 680,
+    "height": 440,
+    "radius": 150,
+    "caption": "《坎特伯雷故事》朝圣者群像图（部分）",
+    "center": {"label": "泰巴德客栈"},
+    "nodes": [
+      {"label": "骑士", "color": "main"},
+      {"label": "巴斯妇", "color": "main"},
+      {"label": "赦罪符贩", "color": "antagonist"},
+      {"label": "磨坊主", "color": "plain"},
+      {"label": "女修道院长", "color": "family"},
+      {"label": "学者", "color": "family"},
+      {"label": "商人", "color": "plain"},
+      {"label": "修士", "color": "antagonist"}
+    ]
+  }
+}

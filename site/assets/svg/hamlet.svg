@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="40.0" x2="340.0" y2="180.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="101.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="114.0" font-size="12" fill="#555" text-anchor="middle">复仇之命</text>
+<line x1="560.0" y1="120.0" x2="340.0" y2="40.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="434.0" y="71.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="84.0" font-size="12" fill="#555" text-anchor="middle">弑兄</text>
+<line x1="560.0" y1="120.0" x2="130.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="329.0" y="111.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="345.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">改嫁</text>
+<line x1="340.0" y1="180.0" x2="130.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="207.0" y="141.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="154.0" font-size="12" fill="#555" text-anchor="middle">母子冲突</text>
+<line x1="340.0" y1="180.0" x2="560.0" y2="320.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="434.0" y="241.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="254.0" font-size="12" fill="#555" text-anchor="middle">错杀</text>
+<line x1="340.0" y1="180.0" x2="400.0" y2="400.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="338.4" y="281.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="370.0" y="294.0" font-size="12" fill="#555" text-anchor="middle">恋人·破裂</text>
+<line x1="560.0" y1="405.0" x2="340.0" y2="180.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="422.0" y="283.5" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="296.5" font-size="12" fill="#555" text-anchor="middle">比剑复仇</text>
+<line x1="120.0" y1="400.0" x2="340.0" y2="180.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="214.0" y="281.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="294.0" font-size="12" fill="#555" text-anchor="middle">挚友</text>
+<rect x="298.0" y="162.5" width="84.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="185.4" font-size="15" fill="#fff" text-anchor="middle">哈姆雷特</text>
+<rect x="288.7" y="199.5" width="102.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="210.5" font-size="11" fill="#333" text-anchor="middle">王子·延宕的复仇者</text>
+<rect x="298.0" y="22.5" width="84.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="45.4" font-size="15" fill="#fff" text-anchor="middle">老王鬼魂</text>
+<rect x="314.0" y="59.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="70.5" font-size="11" fill="#333" text-anchor="middle">复仇指令</text>
+<rect x="518.0" y="102.5" width="84.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="560.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">克劳狄斯</text>
+<rect x="534.0" y="139.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">弑兄新王</text>
+<rect x="88.0" y="102.5" width="84.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="130.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">乔特鲁德</text>
+<rect x="115.0" y="139.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">母后</text>
+<rect x="518.0" y="302.5" width="84.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="325.4" font-size="15" fill="#fff" text-anchor="middle">波洛涅斯</text>
+<rect x="545.0" y="339.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="350.5" font-size="11" fill="#333" text-anchor="middle">大臣</text>
+<rect x="358.0" y="382.5" width="84.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="400.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">奥菲莉娅</text>
+<rect x="385.0" y="419.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="400.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">恋人</text>
+<rect x="518.0" y="387.5" width="84.0" height="35.0" rx="7" fill="#5e7d5a" opacity="0.92"/>
+<text x="560.0" y="410.4" font-size="15" fill="#fff" text-anchor="middle">雷欧提斯</text>
+<rect x="534.0" y="424.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="435.5" font-size="11" fill="#333" text-anchor="middle">复仇线二</text>
+<rect x="85.5" y="382.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="120.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">霍拉旭</text>
+<rect x="94.0" y="419.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">挚友见证</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《哈姆雷特》三条复仇线人物关系图</text>
+</svg>
