@@ -1,0 +1,42 @@
+{
+  "id": "boccaccio",
+  "name": "薄伽丘",
+  "foreign_name": "Giovanni Boccaccio（乔万尼·薄伽丘，1313—1375）",
+  "country": "意大利",
+  "birth": "1313",
+  "death": "1375-12-21",
+  "birth_year": 1313,
+  "death_year": 1375,
+  "era": "古代",
+  "summary": "薄伽丘，佛罗伦萨人（生于托斯卡纳或巴黎，Britannica 记1313年生于Tuscany），意大利文艺复兴早期最重要的作家与人文主义者之一。商人家庭出身，那不勒斯银行学徒生涯使其接触宫廷文化；黑死病（1348）后写成《十日谈》。与彼特拉克一起'奠定了文艺复兴人文主义的基础'（Britannica：With Petrarch, laid the foundations of Renaissance humanism）。晚年致力于但丁研究，1373年起公开讲授《神曲》。",
+  "timeline": [
+    {"year": "1313", "text": "生于托斯卡纳（一说巴黎，母为法国人之说不可靠——Britannica：mother probably French；生于Tuscany），私生子，父为商人 Boccaccio di Chellino。", "src": "B031"},
+    {"year": "1328", "text": "被送往那不勒斯在巴尔迪银行学徒，兼习教会法；进入安jou宫廷文化圈，恋'菲亚梅塔'（Fiammetta，Britannica：love for 'Fiammetta'）。", "src": "B031"},
+    {"year": "约1336—1341", "text": "那不勒斯时期创作：《菲洛柯洛》《菲洛斯特拉托》《苔塞伊达》等（Britannica 列举）。", "src": "B031"},
+    {"year": "约1340—1348", "text": "巴尔迪破产随父回佛罗伦萨；经济困顿（Britannica：financial struggles）；1348年黑死病大疫在佛罗伦萨（Britannica：in Florence during the Black Death in 1348）。", "src": "B031"},
+    {"year": "约1348—1353", "text": "写作《十日谈》（Britannica Decameron 条目：probably composed between 1349 and 1353；作家条目作 c. 1348–53——两说并存本页取区间）。", "src": "B031"},
+    {"year": "1350s—1360s", "text": "与彼特拉克结交（1350年相识，通说待核），转向学术与人文主义写作：《异教诸神谱系》（De genealogia deorum gentilium）、《名女传》（De claris mulieribus）等（Britannica 列举）。", "src": "B031"},
+    {"year": "1362", "text": "受修士忏悔录影响一度欲焚其俗作（'彼特拉克劝阻'的著名轶事，通说待核）；1363年退居切尔塔尔多（Britannica：Retired to Certaldo in 1363 due to poverty）。", "src": "B031"},
+    {"year": "1373—1375", "text": "在佛罗伦萨圣斯泰凡诺教堂公开讲授《神曲》（Britannica：began public readings of Dante's Divina commedia in October 1373）；作《但丁传》（Trattatello in laude di Dante，Britannica 列举）；1375年12月21日卒于切尔塔尔多。", "src": "B031"}
+  ],
+  "major_works": [
+    {"work_id": "shiritan", "note": "约1349—1353；'古典意大利散文的杰作'（Britannica）"},
+    {"title": "异教诸神谱系、名女传", "note": "拉丁人文主义著作（Britannica）"},
+    {"title": "菲亚美达的哀歌、科尔巴乔", "note": "俗语作品（Britannica 列举）"}
+  ],
+  "style": [
+    "'古典意大利散文的杰作'（Britannica：a masterpiece of classical Italian prose）：把日常经验'高贵化'（ennobled everyday experience）。",
+    "框架叙事（frame narrative）：十人十日百篇的结构装置影响坎特伯雷故事等后世之作。",
+    "幽默与辛辣并存：'从幽默到悲剧'的全面（Britannica：range from humorous to tragic）；讽刺教士的伪善是全书最尖锐处。",
+    "'他不是单纯的编纂者'（Britannica：he was no mere anthologist）——借民间故事而自成一家。"
+  ],
+  "status": "薄伽丘与彼特拉克同为文艺复兴人文主义的奠基者（Britannica）。《十日谈》确立欧洲近代短篇小说的基本形态，其影响直达乔叟（取材《菲洛斯特拉托》写《特洛伊罗斯与克瑞西达》）与莎士比亚（同题材），并使'讲故事'成为城市市民文化的中心娱乐。晚年他转向但丁研究，成为第一位但丁教授——文艺复兴'古今之争'在他身上先行上演。",
+  "sources": ["B031", "B004"],
+  "dates_source": "B031",
+  "pending": [
+    "《十日谈》起讫年代两说（作家条目 c.1348–53 / 作品条目 1349–53）并存。",
+    "与彼特拉克相识年份（1350年说）待核。",
+    "焚稿轶事（1362年忏悔危机）的原始书信（Petrarch Correspondence）待核。",
+    "《名女传》与《名公传》（De casibus）的成书年代（1355—1374间）待核。"
+  ]
+}

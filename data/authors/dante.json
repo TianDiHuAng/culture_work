@@ -1,0 +1,44 @@
+{
+  "id": "dante",
+  "name": "但丁",
+  "foreign_name": "Dante Alighieri（但丁·阿利吉耶里，1265—1321）",
+  "country": "意大利",
+  "birth": "1265",
+  "death": "1321-09-13",
+  "birth_year": 1265,
+  "death_year": 1321,
+  "era": "古代",
+  "summary": "但丁，佛罗伦萨人，意大利最伟大的诗人（Britannica：regarded as the greatest Italian poet），'中世纪欧洲文学最伟大作品'《神曲》的作者。曾任佛罗伦萨执政官之一，1302年在党争（黑白圭尔夫派）中被判流放（后判火刑），终生未归。以托斯卡纳俗语（而非拉丁文）写作，'革命性地影响了西方文学'（Britannica：revolutionary impact），使意大利语成为西欧数百年的文学语言。",
+  "timeline": [
+    {"year": "1265", "text": "生于佛罗伦萨（Britannica：born c. May 21–June 20, 1265）；九岁初见贝阿特丽切（Beatrice Portinari，Britannica）。", "src": "B030"},
+    {"year": "1283前后", "text": "双亲皆亡（Britannica：both parents died by ~1283）；参加'温柔新体'（dolce stil nuovo）诗人圈（Britannica）。", "src": "B030"},
+    {"year": "1289前后", "text": "参加Campaldino战役与比萨围城（通说，待核）。", "src": "B030"},
+    {"year": "1292前后", "text": "《新生》（La vita nuova）成书——记述对贝阿特丽切之爱（Britannica：c. 1293）。", "src": "B030"},
+    {"year": "1300", "text": "任佛罗伦萨六执政官之一（priori，通说待核）；黑白两党冲突激化（Britannica：White Guelf aligned）。", "src": "B030"},
+    {"year": "1301—1302", "text": "出使罗马被扣；新政府（黑党）于1302年1月判其流放，后加判火刑（Britannica：condemned...sentenced to death by burning — exiled from Florence in 1302）。", "src": "B030"},
+    {"year": "1304—1308", "text": "流亡北意大利诸城；著《飨宴》（Il convivio）与《论俗语》（De vulgari eloquentia，Britannica 列举）。", "src": "B030"},
+    {"year": "约1308—1321", "text": "创作《神曲》（Britannica：c. 1308–21，流亡中动笔）。", "src": "B005"},
+    {"year": "1310s", "text": "著《帝制论》（De monarchia，Britannica）；1315年佛罗伦萨大赦以认罪为条件，但丁拒绝（通说待核）。", "src": "B030"},
+    {"year": "1321-09-13/14", "text": "卒于拉文纳，死后不久《神曲》完稿（Britannica：died there shortly after completing The Divine Comedy，疑于疟疾——Britannica 用 possibly of malaria）。", "src": "B030"}
+  ],
+  "major_works": [
+    {"work_id": "shenqu", "note": "约1308—1321；三歌部百歌"},
+    {"title": "新生（约1293）、论俗语", "note": "抒情诗集与俗语理论（Britannica 列举）"},
+    {"title": "帝制论（De monarchia）", "note": "政治哲学论著（Britannica：key medieval political-philosophy tract）"}
+  ],
+  "style": [
+    "terza rima（三行连环韵）：ABA BCB CDC——但丁首创的长诗韵式（Britannica：Dante was its first user for a long poem）。",
+    "寓意的多义解读：字面—道德—寓言—神秘四义解经法（中世纪释经传统在文学中的应用，通说待核）。",
+    "个人化的史诗：与古典史诗的集体英雄不同，'我'的旅程贯穿地狱炼狱天堂——诗人自己是主人公。",
+    "俗语的自觉：以佛罗伦萨方言写'最高主题'，语言熔多方言于一炉（Britannica：wide-ranging vocabulary drawn from many dialects）。"
+  ],
+  "status": "Britannica 称但丁为'意大利最伟大的诗人'，《神曲》属'中世纪欧洲文学最伟大作品之列'、世界最有影响力的作品之一（B005）。其俗语选择'对西方文学产生革命性影响'，使意大利语数百年间成为西欧的文学语言（B005）。贝阿特丽切经其塑造成为'文学中被虚构化最著名的女性之一'（B030）。在西方文学史上，但丁与荷马、莎士比亚、歌德并列为四大经典作家（此'四大'说为通行文学史评价，本页不引为权威）。",
+  "sources": ["B030", "B005"],
+  "dates_source": "B030",
+  "pending": [
+    "生日（5月21日—6月20日之间，Britannica 取区间）与卒日（9月13/14日）的儒略历换算细节。",
+    "Campaldino 战役（1289）参战记录待核。",
+    "1315年拒赦的文献（爱普斯泰姆书信类）待核。",
+    "《论俗语》成书年代（1304—1307说）待核。"
+  ]
+}
