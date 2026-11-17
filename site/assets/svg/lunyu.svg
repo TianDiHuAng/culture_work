@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340" y1="220" x2="340.0" y2="80.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="323.0" y="67.0" width="34.0" height="26.0" rx="6" fill="#3b6b8c" opacity="0.9"/>
+<text x="340.0" y="85.0" font-size="14" fill="#fff" text-anchor="middle">礼</text>
+<line x1="340" y1="220" x2="439.0" y2="121.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="422.0" y="108.0" width="34.0" height="26.0" rx="6" fill="#3b6b8c" opacity="0.9"/>
+<text x="439.0" y="126.0" font-size="14" fill="#fff" text-anchor="middle">义</text>
+<line x1="340" y1="220" x2="480.0" y2="220.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="463.0" y="207.0" width="34.0" height="26.0" rx="6" fill="#3b6b8c" opacity="0.9"/>
+<text x="480.0" y="225.0" font-size="14" fill="#fff" text-anchor="middle">信</text>
+<line x1="340" y1="220" x2="439.0" y2="319.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="422.0" y="306.0" width="34.0" height="26.0" rx="6" fill="#3b6b8c" opacity="0.9"/>
+<text x="439.0" y="324.0" font-size="14" fill="#fff" text-anchor="middle">孝</text>
+<line x1="340" y1="220" x2="340.0" y2="360.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="316.0" y="347.0" width="48.0" height="26.0" rx="6" fill="#5e7d5a" opacity="0.9"/>
+<text x="340.0" y="365.0" font-size="14" fill="#fff" text-anchor="middle">君子</text>
+<line x1="340" y1="220" x2="241.0" y2="319.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="217.0" y="306.0" width="48.0" height="26.0" rx="6" fill="#5e7d5a" opacity="0.9"/>
+<text x="241.0" y="324.0" font-size="14" fill="#fff" text-anchor="middle">德政</text>
+<line x1="340" y1="220" x2="200.0" y2="220.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="176.0" y="207.0" width="48.0" height="26.0" rx="6" fill="#5e7d5a" opacity="0.9"/>
+<text x="200.0" y="225.0" font-size="14" fill="#fff" text-anchor="middle">正名</text>
+<line x1="340" y1="220" x2="241.0" y2="121.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="224.0" y="108.0" width="34.0" height="26.0" rx="6" fill="#5e7d5a" opacity="0.9"/>
+<text x="241.0" y="126.0" font-size="14" fill="#fff" text-anchor="middle">学</text>
+<rect x="317.0" y="200" width="46.0" height="40" rx="9" fill="#8c3b3b"/>
+<text x="340" y="225.0" font-size="16" fill="#fff" text-anchor="middle">仁</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">《论语》核心概念关系图（示意）</text>
+</svg>
