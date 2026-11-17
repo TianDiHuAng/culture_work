@@ -1,0 +1,42 @@
+{
+  "id": "kawabata",
+  "name": "川端康成",
+  "foreign_name": "Kawabata Yasunari（かわばた やすなり，1899-06-11 — 1972-04-16）",
+  "country": "日本",
+  "birth": "1899-06-11",
+  "death": "1972-04-16",
+  "birth_year": 1899,
+  "death_year": 1972,
+  "era": "现当代",
+  "summary": "川端康成，大阪人，1968年诺贝尔文学奖得主——日本首位获此奖的作家（Britannica 记其获奖；'日本首位'为通说待核）。幼年失怙、青年失去几乎所有亲人（Britannica：lost nearly all close relatives in youth）——'孤儿的根性'成为其文学底色（其自述用语，通说待核）。东京帝国大学毕业后与横光利一创《文艺时代》，为'新感觉派'旗手（Britannica）。《雪国》（1935—48）、《千鹤》《山之音》并称最佳（Britannica：are considered to be his best novels）。1972年4月16日在逗子自杀（Britannica：Committed suicide after the death of his friend Mishima Yukio）。",
+  "timeline": [
+    {"year": "1899-06-11", "text": "生于大阪（Britannica：Born June 11, 1899, Ōsaka）；两岁丧父、三岁丧母、少年时祖父母与姐姐相继离世（Britannica：orphaned early and lost nearly all close relatives）。", "src": "B054"},
+    {"year": "1921—1924", "text": "东京帝国大学国文科；初代菊池奖（1921年《招魂节一景》，通说待核）；1924年毕业（Britannica：Graduated from Tokyo Imperial University, 1924）。", "src": "B054"},
+    {"year": "1926", "text": "《伊豆的舞女》（1926）发表于与横光利一共同创办的《文艺时代》——'semiautobiographical debut'（半自传性成名作，Britannica）；新感觉派运动之声（Britannica：it became the voice of the Neosensualist group）。", "src": "B054"},
+    {"year": "1935—1948", "text": "《雪国》1935年起以断篇发表、1937年大体完成（Britannica：begun 1935, finished 1948），此后多次修订，1948年最终定本（Britannica：final version finished in 1947; published in Japanese in 1948 as Yukiguni）。", "src": "B027"},
+    {"year": "1949—1954", "text": "《千鹤》（1949起，未完）、《山之音》（1949—54）——与《雪国》并列其最佳（Britannica：Snow Country, Thousand Cranes, and The Sound of the Mountain 'are considered to be his best novels'）。", "src": "B054"},
+    {"year": "1957—1968", "text": "国际笔会活动（通说待核）；1968年12月获诺贝尔文学奖，演说《我在美丽的日本》（《美しい日本の私》，通说待核）以中世和歌与禅意诠释日本美学。", "src": "B054"},
+    {"year": "1970-11-25", "text": "挚友三岛由纪夫切腹自尽——川端是少数见到遗体的朋友之一（通说待核）。", "src": "B054"},
+    {"year": "1972-04-16", "text": "在逗子公寓以煤气自杀（Britannica：Committed suicide after the death of his friend Mishima Yukio），无遗书（通说待核）。", "src": "B054"}
+  ],
+  "major_works": [
+    {"work_id": "xueguo", "note": "1935—48；'his best-known novel'（Britannica）"},
+    {"title": "伊豆的舞女（1926）", "note": "半自传成名作（Britannica）"},
+    {"title": "千鹤、山之音", "note": "' considered to be his best novels'（Britannica）"}
+  ],
+  "style": [
+    "'忧郁的抒情'（Britannica：Melancholic lyricism）：植根日本古典（王朝物语、连歌）而以现代手法表达（Britannica：rendered in a modern idiom）。",
+    "'无定形'的连歌式结构：短篇抒情段落间'abrupt transitions'（突兀转接，Britannica）——如连歌的接句。",
+    "美丑并置：'juxtaposition of beauty and ugliness'（Britannica）——受达达与表现主义影响却近乎17世纪俳谐。",
+    "物哀与虚无：诺奖演说中自述'企图美化死亡，在人与自然的虚无中寻求和谐'（Britannica：he said he tried 'to beautify death and to seek harmony among man, nature, and emptiness'）。"
+  ],
+  "status": "Britannica 记川端康成1968年获诺贝尔文学奖（the page gives no explicit committee citation——本页以通说待核授奖辞）。'新感觉派'的理论家与实践者（《文艺时代》，Britannica）。战后以《雪国》等确立国际声誉；其自杀（三岛死后两年）与其美学中'死亡之美'形成沉重的互文（通说讨论，本页不展开）。'川端康成热'使日本古典美学（物哀、幽玄）进入世界文学视野。",
+  "sources": ["B054", "B027"],
+  "dates_source": "B054",
+  "pending": [
+    "1968年诺奖授奖辞（'以敏锐的感受性与卓越的叙述技巧表现日本人的精神实质'通行译文，待核）原文。",
+    "《雪国》的断篇发表年表（1935《文艺春秋》等各篇刊期）逐条待核。",
+    "菊池奖（1921）与《招魂节一景》细节待核。",
+    "自杀情形（无遗书）与三岛之死的关联讨论（传记学争议）待核。"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "bainian",
+  "title": "百年孤独",
+  "original_title": "Cien años de soledad / One Hundred Years of Solitude（百年孤独）",
+  "region": "哥伦比亚",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（魔幻现实主义）",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "garcia-marquez",
+  "author_name": "加夫列尔·加西亚·马尔克斯",
+  "year_display": "1967年出版（Britannica，布宜诺斯艾利斯南美出版社——地点为通说待核）",
+  "year_sort": 1967,
+  "background": [
+    "创作（Britannica）：小说写马孔多——'a town mirroring Latin American history'（映照拉美历史的城镇）；材料来自作者的外祖父母家史（千日战争上校、香蕉公司屠杀的记忆）与阿拉卡塔卡的童年（Britannica 外祖父母条）。",
+    "出版与影响（Britannica）：1967年西文出版后立即成为'拉美文学boom'（文学爆炸）的核心作品——'a central work of the Latin American 'boom' alongside Cortázar, Lispector, and Vargas Llosa'（Britannica）。",
+    "地位：Britannica 称其为作者'the masterpiece'（杰作）与'one of the most influential works of literature to come from a Spanish writer in the 20th century'（20世纪西班牙语作家最有影响的文学杰作之一）；批评界注意到博尔赫斯的迷宫幻想与福克纳家族史诗的影响（Britannica：influences of Borges (labyrinthine fantasy) and Faulkner (family genealogy as epic)）。"
+  ],
+  "outline": [
+    "开端：何塞·阿尔卡蒂奥·布恩迪亚带妻子乌尔苏拉与同伴创立马孔多——一个'世界太新，许多东西尚未命名，提起来须用手指'的乌托邦（原文意，公有领域引文待核）；吉卜赛人梅尔基亚德斯带来磁铁、冰块与羊皮卷手稿。",
+    "繁荣与灾难：镇子经历失眠瘟疫、内战（奥雷里亚诺上校发动32次起义全部失败）、香蕉公司入侵与工人大屠杀（尸体列车被'倒进大海'并被官方抹去——Britannica：A key allegorical episode is the army massacre of striking workers, with bodies freighted away and 'dumped in the sea,' erased by official accounts）、下了四年十一个月零两天的大雨。",
+    "家族七代：阿尔卡蒂奥们与奥雷里亚诺们的名字循环、乱伦的恐惧（猪尾巴的诅咒）、乌尔苏拉活了百岁维系一切；阿玛兰妲编织自己的寿衣、丽贝卡吃土。",
+    "结局：最后一代奥雷里亚诺破译梅尔基亚德斯的羊皮卷——手稿所记正是家族百年、且在他读完的瞬间预先写下飓风——马孔多与布恩迪亚家族'被飓风抹去，从世人记忆中根除'（结尾原文意，待核）——'遭受百年孤独的家族不会有第二次机会在大地上出现'。"
+  ],
+  "characters": [
+    {"name": "何塞·阿尔卡蒂奥·布恩迪亚", "identity": "马孔多创立者", "note": "炼金术、磁铁与战争——狂想者与疯狂者"},
+    {"name": "乌尔苏拉·伊瓜兰", "identity": "女家长", "note": "家族的脊梁：活过百岁、目盲而'用记忆看世界'"},
+    {"name": "奥雷里亚诺上校", "identity": "起义军领袖", "note": "32次起义全部失败——'为自尊而战'的老兵，晚年铸小金鱼"},
+    {"name": "梅尔基亚德斯", "identity": "吉卜赛智者", "note": "'他的手稿就是这部小说本身'（Britannica：his manuscripts are the novel itself）——元小说装置"},
+    {"name": "雷梅黛丝（俏姑娘）", "identity": "床单升天的美人", "note": "'升天'的著名场景——魔幻的巅峰时刻（通说）"},
+    {"name": "阿玛兰妲", "identity": "上校之妹", "note": "织寿衣的失恋者——孤独的工艺化"},
+    {"name": "奥雷里亚诺·巴比伦", "identity": "第六代", "note": "破译者，与姨妈阿玛兰妲·乌尔苏拉的乱伦生下猪尾巴婴儿"}
+  ],
+  "themes": [
+    "孤独的遗传学：每个布恩迪亚家人都以自己的方式孤独——爱的无能是家族的诅咒（通说解读）。",
+    "拉美史的寓言：建镇—繁荣—内战—香蕉屠杀—遗忘——以一镇写拉美百年（Britannica：spanning ~100 years...of Latin American history）。",
+    "记忆与抹除：大屠杀被官方否认、马孔多被飓风抹去——'被记忆背叛的共同体'（通说解读）。",
+    "循环时间与元小说：名字的重复、羊皮卷=小说本身——'预写的历史'（Britannica：Melquíades...is revealed as the narrator）。",
+    "艺术特点：魔幻事件以新闻报道口吻讲述（'升天'、'下了四年十一个月零两天的大雨'）、开篇预叙句式、家族谱系的重复命名。"
+  ],
+  "influence": [
+    {"text": "Britannica（One Hundred Years 条目）：1967年出版；1982年诺奖的关键作品；拉美'boom'的核心；'博尔赫斯+福克纳'的双重影响之评。", "source": "B025"},
+    {"text": "Britannica（García Márquez 条目）：'the masterpiece'；'his plotting modeled on Faulkner and Hemingway'（情节布局取法福克纳与海明威）。", "source": "B053"},
+    {"text": "传播：被译成数十种语言、全球销量逾数千万册（通说待核）；Netflix 剧集（2024，Britannica：a 2024 television adaptation）。", "source": "B025"},
+    {"text": "对中国文学的影响：'寻根文学'与莫言、余华、苏童等1980年代作家的显著参照（通说，学界共识待核）。", "source": "B025"}
+  ],
+  "reading": {
+    "difficulties": [
+      "七代人重复的名字（阿尔卡蒂奥/奥雷里亚诺交替）——先抄一张族谱树（书前多有附图）。",
+      "魔幻事件密集而时间跳跃——以'乌尔苏拉的寿命'为时间锚。",
+      "香蕉屠杀与拉美史（1928年联合果品公司事件）的历史背景需要注释。"
+    ],
+    "editions": [
+      "范晔译《百年孤独》（南海出版公司，2011，通说待核）：通行新版。",
+      "黄锦炎译本（上海译文出版社，通说待核）：早期通行译本。",
+      "英译：Gregory Rabassa 译（1970，通说待核）——马尔克斯自称优于原文的英译（'The Crónica...'轶事，通说待核）。"
+    ],
+    "order": "先读第一章（冰块、吉卜赛人）与'香蕉屠杀'章（马孔多的转折）→ 通读全20章 → 精读结尾破译场景 → 配合家族树与拉美史年表重读。"
+  },
+  "pending": [
+    "初版日期（1967年5月30日布宜诺斯艾利斯 Sudamericana 出版社说，通说）与首印数（8000册说）待核。",
+    "开篇句与结尾句的逐字核对照范晉/黄锦炎译本。",
+    "'18个月闭门写作'轶事的出处（其回忆录或访谈）待核。",
+    "范晔译本（2011南海出版公司）信息待核。"
+  ],
+  "sources": ["B025", "B053"],
+  "year_source": "B025",
+  "author_source": "B053",
+  "related_works": ["honggaoliang", "zhanzheng", "laorenhai"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《百年孤独》布恩迪亚家族七代谱系图（简化）",
+    "nodes": [
+      {"id": "jose1", "label": "何塞·阿尔卡蒂奥·布恩迪亚", "x": 150, "y": 100, "color": "main", "sub": "第一代·建镇者"},
+      {"id": "ursula", "label": "乌尔苏拉", "x": 340, "y": 70, "color": "family", "sub": "女家长·百岁"},
+      {"id": "colonel", "label": "奥雷里亚诺上校", "x": 530, "y": 100, "color": "main", "sub": "第二代·32次起义"},
+      {"id": "arcadio2", "label": "阿尔卡蒂奥", "x": 150, "y": 230, "color": "family", "sub": "第三代"},
+      {"id": "amaranta", "label": "阿玛兰妲", "x": 340, "y": 230, "color": "family", "sub": "织寿衣者"},
+      {"id": "remedios", "label": "俏姑娘雷梅黛丝", "x": 530, "y": 230, "color": "gold", "sub": "升天"},
+      {"id": "aureliano6", "label": "奥雷里亚诺·巴比伦", "x": 240, "y": 360, "color": "plain", "sub": "第六代·破译者"},
+      {"id": "melquiades", "label": "梅尔基亚德斯", "x": 450, "y": 360, "color": "gold", "sub": "羊皮卷=小说"},
+      {"id": "hurricane", "label": "飓风", "x": 340, "y": 405, "color": "antagonist", "sub": "抹除马孔多"}
+    ],
+    "edges": [
+      {"a": "jose1", "b": "ursula", "label": "夫妻"},
+      {"a": "ursula", "b": "colonel", "label": "母子"},
+      {"a": "jose1", "b": "arcadio2", "label": "父子线", "style": "dashed"},
+      {"a": "colonel", "b": "amaranta", "label": "兄妹"},
+      {"a": "arcadio2", "b": "aureliano6", "label": "隔代血脉", "style": "dashed"},
+      {"a": "aureliano6", "b": "melquiades", "label": "破译羊皮卷"},
+      {"a": "melquiades", "b": "hurricane", "label": "预言即现实"}
+    ]
+  }
+}
