@@ -1,0 +1,38 @@
+{
+  "id": "wuchengen",
+  "name": "吴承恩",
+  "foreign_name": "Wu Cheng'en（约1500—约1582）",
+  "country": "中国",
+  "birth": "约1500",
+  "death": "约1582",
+  "birth_year": 1500,
+  "death_year": 1582,
+  "era": "古代",
+  "summary": "吴承恩，字汝忠，号射阳山人，淮安府山阳县（今江苏淮安）人，明代小说家、诗人。Britannica 记其约1500年生、约1582年卒；1544年获南京国子监贡生资格，1546—1552年居北京参与文坛交游，后归乡。'一般公认为《西游记》的作者'（Britannica），但因原书匿名刊行，这一归属依靠学术共识而非署名页。",
+  "timeline": [
+    {"year": "约1500", "text": "生于淮安山阳（Britannica：c.1500, Shanyang, Huai'an）。", "src": "B069"},
+    {"year": "约1530s—1544", "text": "科举屡试不第（本页转述通说，Britannica 未提落第），1544年成为南京国子监贡生（Britannica：made a resident scholar at the imperial university in Nanjing in 1544）。", "src": "B069"},
+    {"year": "1546—1552", "text": "居北京，置身文人圈（Britannica：lived in Beijing 1546–1552 as part of a literary circle）。", "src": "B069"},
+    {"year": "1550s—1560s", "text": "相传曾短期任长兴县丞（明府志类记载，转述待核）；归乡著述。", "src": "B069"},
+    {"year": "约1570", "text": "回到淮安（Britannica：before returning to Huai'an in 1570）。", "src": "B069"},
+    {"year": "约1582", "text": "卒于淮安（Britannica）。诗文著作存二卷，1930年在清宫旧藏中发现并重印（Britannica）。", "src": "B069"}
+  ],
+  "major_works": [
+    {"work_id": "xiyouji", "note": "'generally acknowledged as the author'（Britannica）"}
+  ],
+  "style": [
+    "喜剧天才：Britannica 称《西游记》为'中国最重要的喜剧小说'，讽刺官僚社会辛辣而游戏。",
+    "文体杂糅：韵散相间，诗、词、赋、骈文与口语白话并置，多元修辞风格与地方色彩（Britannica：'varied rhetorical styles, regional color'）。",
+    "以寓言结构承载宗教哲学：道教内丹与佛教修心的术语系统被游戏化处理。",
+    "（归属存疑前提下的）署名作品：诗文存二卷。"
+  ],
+  "status": "吴承恩生前以诗文见称于乡里，身后却以一部匿名小说不朽。'吴承恩著《西游记》'的共识建立在天启《淮安府志》著录与鲁迅、胡适的考证上（本页转述学术史通说，待核），至今仍偶有异说（如'华阳洞天主人校'与长春真人邱处机旧题）。无论归属如何，这部中国最深入人心的神魔小说的作者，已被文化记忆牢牢绑定在吴承恩的名字上。",
+  "sources": ["B069", "B065"],
+  "dates_source": "B069",
+  "pending": [
+    "生卒年（约1500—约1582）为学界通说区间，无确考。",
+    "署名依据（天启《淮安府志》'吴承恩性敏多慧……杂记数种'条）的原文与效力，学界有争论。",
+    "任长兴县丞、荆王府纪善等官职记载的可靠性待核。",
+    "《射阳先生存稿》二卷重印（1930）的发现经过待核。"
+  ]
+}
