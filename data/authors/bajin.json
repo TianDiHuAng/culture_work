@@ -1,0 +1,42 @@
+{
+  "id": "bajin",
+  "name": "巴金",
+  "foreign_name": "Ba Jin（李尧棠，1904—2005）",
+  "country": "中国",
+  "birth": "1904-11-25",
+  "death": "2005-10-17",
+  "birth_year": 1904,
+  "death_year": 2005,
+  "era": "现当代",
+  "summary": "巴金，原名李尧棠，字芾甘，四川成都人，跨越整个20世纪的中国作家。1920年代信仰无政府主义（笔名致敬克鲁泡特金），留法期间以《灭亡》成名（Britannica）。'激流三部曲'《家》《春》《秋》使他在1930—40年代获得广泛声誉（Britannica）；《寒夜》为其现实主义巅峰。文革中被打为'反革命'（Britannica），晚年倡导'讲真话'的《随想录》被誉为'一代知识分子的良心'（此为中国通行评价，本页不引为权威来源）。",
+  "timeline": [
+    {"year": "1904-11-25", "text": "生于成都一个 Rich 而守旧的官僚地主家庭（Britannica：wealthy gentry family）。", "src": "B079"},
+    {"year": "1923", "text": "离开成都赴上海、南京求学（本页转述通说，Britannica 未详）。", "src": "B079"},
+    {"year": "1927—1928", "text": "赴法国，译介无政府主义著作；在巴黎写成处女作《灭亡》（1929年发表成名，Britannica）。", "src": "B079"},
+    {"year": "1931", "text": "在上海《时报》连载小说《激流》（即后来的《家》）——创作缘起于大哥之死（通说，待核）。", "src": "B079"},
+    {"year": "1933", "text": "《家》单行本出版（Britannica：Jia 1933）；此后《春》（1938）《秋》（1940）完成激流三部曲（Britannica：completed 1940 with Chun and Qiu）。", "src": "B079"},
+    {"year": "1944—1947", "text": "与萧珊结婚（1944，通说待核）；《憩园》（1944）《寒夜》（1947）——'tone more pessimistic and less radical'（Britannica）。", "src": "B079"},
+    {"year": "1966—1976", "text": "文革中被批为'反革命'（Britannica：labeled a counterrevolutionary），妻子萧珊1972年病逝（通说待核）。", "src": "B079"},
+    {"year": "1978—2005", "text": "《随想录》五卷（1978—86）倡导讲真话（通说）；提议建中国现代文学馆（1985年任中国作协主席，Britannica；文学馆1985年成立，待核）；2005年10月17日卒于上海，享年一百岁（Britannica）。", "src": "B079"}
+  ],
+  "major_works": [
+    {"work_id": "jia", "note": "激流三部曲之首（1933）"},
+    {"title": "寒夜（1947）", "note": "现实主义高峰（Britannica 列举）"},
+    {"title": "随想录（1978—86）", "note": "晚年散文五卷（通说待核）"}
+  ],
+  "style": [
+    "青春的呼号：早期作品情感炽烈、语言直白，'我是青年，我不是畸人，我不是愚人，我要给自己把幸福争过来'式的心灵呼喊（其作品中人物语意的概括，待核）。",
+    "家庭题材：以大家庭内景写制度之恶（Britannica：attacked the traditional family system）。",
+    "1940年代的沉郁：Britannica 记其晚期'tone grew more pessimistic and less radical, with sharper, truer insight into human relationships'——《寒夜》为极致。",
+    "平易流畅的自白式文风：不事雕琢而以真情动人。"
+  ],
+  "status": "Britannica 称巴金在1930—40年代获得广泛声誉（widespread popularity），其作品与左翼活动帮助凝聚了知识界对革命的同情（even as his fiction drew communist criticism——无政府主义者遭共产党批评，建制后又未完全适应新社会）。晚年《随想录》与倡导文学馆使他成为20世纪后半叶中国文学的良知象征（中国通行评价）。'巴金'三个字由此同时代表五四青春、现实主义的沉郁与知识分子的自省。",
+  "sources": ["B079"],
+  "dates_source": "B079",
+  "pending": [
+    "《家》连载名《激流》的具体时段（1931年4月—1932年5月《时报》说）与大哥李尧枚自杀（1931）的创作关联，通说细节待核。",
+    "《寒夜》《憩园》出版年份（Britannica 系1944/1947）与初版社（文化生活出版社）待核。",
+    "萧珊去世年份（1972）与《怀念萧珊》写作时间待核。",
+    "中国现代文学馆成立年（1985）与巴金捐献稿酬数额待核。"
+  ]
+}
