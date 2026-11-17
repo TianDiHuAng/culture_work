@@ -1,0 +1,41 @@
+{
+  "id": "qianzhongshu",
+  "name": "钱锺书",
+  "foreign_name": "Qian Zhongshu（1910-11-21 — 1998-12-19）",
+  "country": "中国",
+  "birth": "1910-11-21",
+  "death": "1998-12-19",
+  "birth_year": 1910,
+  "death_year": 1998,
+  "era": "现当代",
+  "summary": "钱锺书，字默存，号槐聚，江苏无锡人，学者型小说家与比较文学巨擘。清华外文系毕业后执教、1935年赴牛津大学埃克塞特学院获副博士（B.Litt）学位、游学巴黎（Britannica），1938年归国后历任西南联大、蓝田国立师范学院、清华教授。小说《围城》（1947）初被忽视，1980年代成为超级畅销书并改编电视剧（Britannica）。学术巨著《管锥编》以数种语言贯穿中西典籍。Britannica 评其学问'practically unrivaled in 20th-century China'（20世纪中国几乎无与伦比）。",
+  "timeline": [
+    {"year": "1910-11-21", "text": "生于江苏无锡书香之家（Britannica：born Nov. 21, 1910, in Wuxi）。", "src": "B082"},
+    {"year": "1929—1933", "text": "考入清华大学外文系（Britannica：graduated from Tsinghua University in 1933 in Western Languages and Literature），数学仅15分而国文英文特优之说为流传轶事（轶事待核）。", "src": "B082"},
+    {"year": "1935—1937", "text": "赴英国牛津大学埃克塞特学院（Exeter College, Oxford, 1937——Britannica），与杨江（杨绛）同行结婚（1935年婚，通说待核）。", "src": "B082"},
+    {"year": "1937—1938", "text": "巴黎大学游学一年（Britannica：studied briefly at the Sorbonne）。", "src": "B082"},
+    {"year": "1938—1949", "text": "历任西南联大、蓝田国立师范学院、震旦、清华教授；《写在人生边上》（1941）、《人·兽·鬼》（1946）、《围城》（1947）问世（Britannica 列举）。", "src": "B082"},
+    {"year": "1949—1979", "text": "任职清华、中科院文学研究所；'文革'中与杨绛同被下放五七干校（通说，待核）；《宋诗选注》（1958）出版（Britannica：annotated Song poetry 1958）。", "src": "B082"},
+    {"year": "1979—1998", "text": "《管锥编》（Guanzhuibian, 1979）四卷出版（Britannica）；任中国社科院副院长（1982—93，Britannica）；《围城》1980年代重印热销、1991年改编电视剧（Britannica：became a 1980s best-seller, adapted into a TV series in 1991）；1998年12月19日卒于北京（Britannica）。", "src": "B082"}
+  ],
+  "major_works": [
+    {"work_id": "weicheng", "note": "1947年长篇小说"},
+    {"title": "管锥编（1979）", "note": "中西比较诗学巨著（Britannica：four-volume work spanning many languages）"},
+    {"title": "谈艺录、宋诗选注", "note": "古典诗学著作（Britannica 提及1958宋诗选注）"}
+  ],
+  "style": [
+    "机智讽刺（wit）：妙喻连珠、反讽密集，'理趣'与'谐趣'合一——《围城》被称为'新儒林外史'（通行说法，待核）。",
+    "比较文学的视野：《管锥编》以札记体贯通《周易》《毛诗》等十部典籍与西方文献（Britannica：comparative literary and cultural scholarship spanning many languages and authors）。",
+    "学者的自嘲与虚无：钱氏幽默的底色是对人性的悲观观察（'围城'意象本身）。",
+    "文言与白话皆臻极致，书法、目录学修养深厚。"
+  ],
+  "status": "钱锺书是中国现代少有的'学人小说家'：小说《围城》与学术《管锥编》分列两座高峰。Britannica 记其早年作品'earning immediate critical acclaim'（学术著作）而小说'initially overlooked'，1980年代重获巨大声名——这一'迟到'恰与其笔下人物的命运呼应。他与杨绛（翻译家、作家，1998年前后同样享有盛名）的家事（女儿钱瑗）在《我们仨》（杨绛著）中留下动人记录（通说，待核）。",
+  "sources": ["B082"],
+  "dates_source": "B082",
+  "pending": [
+    "清华入学'数学15分'轶事的原始出处（传闻性质）待核。",
+    "与杨绛1935年结婚、赴英细节待核。",
+    "《围城》1947年晨光出版公司初版与连载（《文艺复兴》1946—47）细节待核。",
+    "电视剧《围城》1990/1991年播出与黄蜀芹导演信息待核。"
+  ]
+}
