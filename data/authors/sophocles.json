@@ -1,0 +1,41 @@
+{
+  "id": "sophocles",
+  "name": "索福克勒斯",
+  "foreign_name": "Sophocles（Σοφοκλῆς，约前496—前406）",
+  "country": "古希腊",
+  "birth": "约前496",
+  "death": "前406",
+  "birth_year": -496,
+  "death_year": -406,
+  "era": "古代",
+  "summary": "索福克勒斯，雅典悲剧家，与埃斯库罗斯、欧里庇得斯并称三大悲剧诗人。生于科罗诺斯近郊（Britannica：Born c. 496 BCE at Colonus），卒于雅典，享年九十。一生作剧123部，传世七部完整悲剧（《俄狄浦斯王》《安提戈涅》《厄勒克特拉》《俄狄浦斯在科罗诺斯》等，Britannica）。引入第三名演员、歌队扩至15人（Britannica：may have enlarged the chorus），把希腊悲剧的形式推向顶峰。亚里士多德《诗学》以《俄狄浦斯王》为悲剧结构之杰作（Britannica：Aristotle treats Oedipus the King as 'a masterpiece of construction'）。",
+  "timeline": [
+    {"year": "约前496", "text": "生于阿提卡科罗诺斯（Colonus）富裕家庭（Britannica）。", "src": "B029"},
+    {"year": "前468", "text": "首次在狄俄尼索斯戏剧节夺冠，击败埃斯库罗斯（Britannica：first won the Dionysian festival in 468, defeating Aeschylus）。", "src": "B029"},
+    {"year": "前442前后", "text": "提洛同盟金库司库（Britannica：treasurer for Delian League tribute funds, 442）。", "src": "B029"},
+    {"year": "前440", "text": "与伯里克利同任十将军之一（Britannica：elected one of 10 stratēgoi under Pericles, 440）。", "src": "B029"},
+    {"year": "前431—前426", "text": "《俄狄浦斯王》在此期间首演（Britannica：performed sometime between 430–426 BCE——Oedipus 条目口径）。", "src": "B006"},
+    {"year": "前413", "text": "西西里远征失败后任'十人监理团'（proboulos）成员（Britannica）。", "src": "B029"},
+    {"year": "前406—前401", "text": "前406年卒于雅典（年九十，Britannica）；《俄狄浦斯在科罗诺斯》身后于前401年由其孙上演（Britannica：posthumously produced 401 BCE）。", "src": "B029"},
+    {"year": "身后", "text": "可能获得约24次戏剧节胜利，超过埃斯库罗斯（13）与欧里庇得斯（4）（Britannica）。", "src": "B029"}
+  ],
+  "major_works": [
+    {"work_id": "oedipus", "note": "约前430—426年首演；亚里士多德推为结构杰作"},
+    {"title": "安提戈涅、厄勒克特拉、俄狄浦斯在科罗诺斯", "note": "传世七部完整悲剧（Britannica）"}
+  ],
+  "style": [
+    "结构精密：'economy, concentration, and dramatic effectiveness'（Britannica）——单一冲突、层层发现（discovery）与突转（reversal）。",
+    "引入第三演员：戏剧冲突从两人对话扩展为三角关系（Britannica：introduced a third speaking actor）。",
+    "人物强于行动者：'characters are few but strongly drawn'（Britannica）——安提戈涅、厄勒克特拉等刚烈女性形象著名。",
+    "悲剧反讽（tragic irony）：观众全知而人物不自知——俄狄浦斯的'追凶'即'追己'。"
+  ],
+  "status": "索福克勒斯把希腊悲剧从'合唱主导'推进到'人物主导'，其七部传世剧作是雅典民主黄金时代的最高戏剧成就。Britannica 称《俄狄浦斯王》为'古典希腊戏剧形式成就之顶峰'（the summit of classical Greek drama's formal achievement，B006）；亚里士多德《诗学》以之为'结构杰作'并系统总结其发现/突转技法。弗洛伊德'俄狄浦斯情结'（1910，通说待核）使这部悲剧成为20世纪人类学的通用文本——两千四百年后仍是最常被搬演与讨论的剧本。",
+  "sources": ["B029", "B006"],
+  "dates_source": "B029",
+  "pending": [
+    "《俄狄浦斯王》首演年份学界有前429/前425等多种推算（Britannica 取430—426区间）。",
+    "获胜利次数（约24次）与剧作总数（123部）为古代传统记载，可靠性有限（Britannica 已作此类口径）。",
+    "《俄狄浦斯在科罗诺斯》作年（前406前）与首演（前401）细节待核。",
+    "弗洛伊德'俄狄浦斯情结'命名（1910《关于性理论的三篇论文》前后）的原始文献待核。"
+  ]
+}

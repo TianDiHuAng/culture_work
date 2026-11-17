@@ -1,0 +1,92 @@
+{
+  "id": "oedipus",
+  "title": "俄狄浦斯王",
+  "original_title": "Οἰδίπους Τύραννος / Oedipus Tyrannus（拉丁名 Oedipus Rex，又译《俄狄浦斯王》）",
+  "region": "古希腊",
+  "era": "古代",
+  "era_detail": "上古",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "希腊语（阿提卡方言）",
+  "author_id": "sophocles",
+  "author_name": "索福克勒斯",
+  "year_display": "约前430—前426年间首演（Britannica）",
+  "year_sort": -425,
+  "background": [
+    "题材来自忒拜（底比斯）王室的古老神话：俄狄浦斯杀父娶母的传说在荷马时代已有雏形（通说待核）。索福克勒斯的创造在于结构：把一个'知情结局'写成一场'追凶'——观众知道真相，人物在自我发现中崩溃。",
+    "首演于伯罗奔尼撒战争期间、雅典大瘟疫之后不久（剧中忒拜瘟疫与雅典瘟疫的呼应是学界通论，Britannica 未明言——见待核实）。",
+    "本剧与《安提戈涅》《俄狄浦斯在科罗诺斯》构成忒拜三部曲的题材群（非三联剧，各剧独立——通说）。"
+  ],
+  "outline": [
+    "开场：忒拜城瘟疫流行，神谕宣布——找出杀害老王拉伊俄斯的凶手，瘟疫才会止息。俄狄浦斯王（十六年前因破解斯芬克斯之谜而被拥立为王）发誓彻查，并诅咒凶手。",
+    "推进：盲先知忒瑞西阿斯被迫点破'凶手就是你'；俄狄浦斯怀疑这是克瑞翁（王后之弟）篡位的阴谋。王后伊俄卡斯忒为宽慰丈夫讲述'旧案'：拉伊俄斯曾在三岔路口被一伙强盗所杀——俄狄浦斯悚然：他当年在同样路口杀过一位老人。",
+    "突转：科林斯报信人带来'波吕玻斯王（俄狄浦斯养父）病故'的消息，却无意中泄露真相——俄狄浦斯并非科林斯王亲子，而是拉伊俄斯托人弃于山野的婴儿，被牧人转送他邦。",
+    "结局：老牧人证实一切。伊俄卡斯忒自缢；俄狄浦斯以金针刺瞎双目——'看得太迟'的惩罚。克瑞翁摄政，俄狄浦斯请求放逐。"
+  ],
+  "characters": [
+    {"name": "俄狄浦斯", "identity": "忒拜王", "note": "自信、暴烈、追求真相到底的'解题者'——最聪明的人被自己最聪明的能力毁灭"},
+    {"name": "伊俄卡斯忒", "identity": "王后，俄狄浦斯之妻与生母", "note": "最早意识到真相的人，自缢于真相大白前一刻"},
+    {"name": "克瑞翁", "identity": "王后之弟", "note": "被诬篡位的冷静者，剧终摄政——《安提戈涅》中的暴君"},
+    {"name": "忒瑞西阿斯", "identity": "盲先知", "note": "失明而全知——与俄狄浦斯'明目而盲'对照"},
+    {"name": "牧人们", "identity": "真相的证人", "note": "知情的底层人：真相在他们手中流转二十年"}
+  ],
+  "themes": [
+    "命运与自由意志：俄狄浦斯越是逃避神谕（离科林斯远行）越是走向命运——Britannica 称其处理'凶手即自己'的发现为结构奇迹（'a structural marvel that marks the summit of classical Greek drama'——该评出自 Britannica 索福克勒斯条 The plays 一节，WebSearch 结果转引）。",
+    "知识与盲目的反讽：追凶者即凶手；'看'（真相）与'目盲'（自缢/刺目）的多重象征。",
+    "理性的限度：俄狄浦斯代表人类理性的自负——破解斯芬克斯之谜者解不开自己身世之谜。",
+    "瘟疫与共同体：王的罪成为全城的病——个人责任与城邦命运的古典表述（雅典瘟疫影射说，待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Oedipus Rex 条目）：'the summit of classical Greek drama's formal achievement'（古典希腊戏剧形式成就之顶峰）。", "source": "B006"},
+    {"text": "Britannica（Sophocles 条目）：亚里士多德《诗学》视《俄狄浦斯王》为'a masterpiece of construction'（结构杰作），后世批评家大体同意。", "source": "B029"},
+    {"text": "弗洛伊德以'俄狄浦斯情结'命名亲子间的无意识欲望结构（1910年前后，通说待核）——本剧进入现代心理学话语。", "source": "B006"},
+    {"text": "演出与改编：从帕索里尼电影（1967，通说待核）到当代剧场，本剧仍是世界舞台上最常演的古典剧本之一（演出史通说，待核）。", "source": "B006"}
+  ],
+  "reading": {
+    "difficulties": [
+      "神话背景（拉伊俄斯的诅咒、斯芬克斯之谜）需要前置了解，否则动机不明。",
+      "人名地名（忒拜/底比斯、科林斯、德尔斐）密集，备一张忒拜关系图。",
+      "理解'悲剧反讽'：观众全知视角是本剧审美机制的核心。"
+    ],
+    "editions": [
+      "罗念生译《俄狄浦斯王》（人民文学出版社《罗念生全集》/《古希腊戏剧选》）：经典译本。",
+      "陈中梅译注本：含希腊语注释与诗学导读。",
+      "英译：Robert Fagles 译 The Three Theban Plays（Penguin，通说待核）。"
+    ],
+    "order": "先读忒拜神话梗概 → 通读全剧（一小时内可完）→ 重读'报信人场景'（突转的技术分析）→ 对照《安提戈涅》与《俄狄浦斯在科罗诺斯》看忒拜题材的完整弧线。"
+  },
+  "pending": [
+    "首演年份（Britannica 取430—426区间；学界另有前429说）待核。",
+    "雅典大瘟疫影射说（剧中瘟疫与修昔底德记载的瘟疫呼应）为学界通论但 Britannica 未明言，待核。",
+    "'结构奇迹'评语的原文位置（Britannica Sophocles/The plays 小节）待核。",
+    "弗洛伊德命名年（1910）与文献待核。"
+  ],
+  "sources": ["B006", "B029"],
+  "year_source": "B006",
+  "author_source": "B029",
+  "related_works": ["iliad", "hamlet", "leiyu"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《俄狄浦斯王》忒拜王室关系图",
+    "nodes": [
+      {"id": "oedipus", "label": "俄狄浦斯", "x": 340, "y": 170, "color": "main", "sub": "忒拜王"},
+      {"id": "jocasta", "label": "伊俄卡斯忒", "x": 500, "y": 170, "color": "main", "sub": "王后·生母"},
+      {"id": "laius", "label": "拉伊俄斯", "x": 170, "y": 80, "color": "plain", "sub": "前王·生父"},
+      {"id": "creon", "label": "克瑞翁", "x": 570, "y": 320, "color": "plain", "sub": "王后之弟"},
+      {"id": "teiresias", "label": "忒瑞西阿斯", "x": 120, "y": 320, "color": "gold", "sub": "盲先知"},
+      {"id": "polybos", "label": "波吕玻斯", "x": 60, "y": 170, "color": "plain", "sub": "养父·科林斯王"},
+      {"id": "shepherd", "label": "牧人", "x": 340, "y": 400, "color": "plain", "sub": "真相证人"}
+    ],
+    "edges": [
+      {"a": "oedipus", "b": "jocasta", "label": "夫妻·母子"},
+      {"a": "laius", "b": "oedipus", "label": "父子·被杀", "style": "dashed"},
+      {"a": "laius", "b": "jocasta", "label": "夫妻", "style": "dashed"},
+      {"a": "oedipus", "b": "polybos", "label": "养父子"},
+      {"a": "oedipus", "b": "teiresias", "label": "求问·冲突"},
+      {"a": "oedipus", "b": "creon", "label": "互疑"},
+      {"a": "shepherd", "b": "oedipus", "label": "弃婴→证人"}
+    ]
+  }
+}
