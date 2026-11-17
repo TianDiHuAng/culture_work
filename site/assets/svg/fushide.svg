@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="240" fill="#fdf9f1" rx="10"/>
+<line x1="135.8" y1="94" x2="145.8" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="145.8,90 151.8,94 145.8,98" fill="#b9b0a3"/>
+<rect x="16.0" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#8c3b3b" stroke-width="1.6"/>
+<text x="74.4" y="84.0" font-size="13" fill="#8c3b3b" text-anchor="middle">书斋</text>
+<text x="74.4" y="104.0" font-size="12" fill="#555" text-anchor="middle">知识绝望·与魔订</text>
+<text x="74.4" y="119.0" font-size="12" fill="#555" text-anchor="middle">约</text>
+<line x1="268.6" y1="94" x2="278.6" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="278.6,90 284.6,94 278.6,98" fill="#b9b0a3"/>
+<rect x="148.8" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#a8642a" stroke-width="1.6"/>
+<text x="207.2" y="84.0" font-size="13" fill="#a8642a" text-anchor="middle">格蕾卿</text>
+<text x="207.2" y="104.0" font-size="12" fill="#555" text-anchor="middle">爱情悲剧·少女得</text>
+<text x="207.2" y="119.0" font-size="12" fill="#555" text-anchor="middle">救</text>
+<line x1="401.40000000000003" y1="94" x2="411.40000000000003" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="411.40000000000003,90 417.40000000000003,94 411.40000000000003,98" fill="#b9b0a3"/>
+<rect x="281.6" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#9a7b2f" stroke-width="1.6"/>
+<text x="340.0" y="84.0" font-size="13" fill="#9a7b2f" text-anchor="middle">宫廷</text>
+<text x="340.0" y="104.0" font-size="12" fill="#555" text-anchor="middle">纸币政治·海伦之</text>
+<text x="340.0" y="119.0" font-size="12" fill="#555" text-anchor="middle">梦</text>
+<line x1="534.2" y1="94" x2="544.2" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="544.2,90 550.2,94 544.2,98" fill="#b9b0a3"/>
+<rect x="414.4" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#3b6b8c" stroke-width="1.6"/>
+<text x="472.8" y="84.0" font-size="13" fill="#3b6b8c" text-anchor="middle">古典之旅</text>
+<text x="472.8" y="104.0" font-size="12" fill="#555" text-anchor="middle">与海伦结合·欧福</text>
+<text x="472.8" y="119.0" font-size="12" fill="#555" text-anchor="middle">里翁之死</text>
+<rect x="547.2" y="60" width="116.8" height="68" rx="8" fill="#fff" stroke="#8c3b3b" stroke-width="1.6"/>
+<text x="605.6" y="84.0" font-size="13" fill="#8c3b3b" text-anchor="middle">围海造田</text>
+<text x="605.6" y="104.0" font-size="12" fill="#555" text-anchor="middle">'你真美，请停留'</text>
+<text x="605.6" y="119.0" font-size="12" fill="#555" text-anchor="middle">·灵魂得救</text>
+<text x="340.0" y="230" font-size="12" fill="#8a8378" text-anchor="middle">《浮士德》五重人生结构图</text>
+</svg>

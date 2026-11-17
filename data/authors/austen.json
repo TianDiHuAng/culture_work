@@ -1,0 +1,43 @@
+{
+  "id": "austen",
+  "name": "奥斯汀",
+  "foreign_name": "Jane Austen（简·奥斯汀，1775-12-16 — 1817-07-18）",
+  "country": "英国",
+  "birth": "1775-12-16",
+  "death": "1817-07-18",
+  "birth_year": 1775,
+  "death_year": 1817,
+  "era": "近代",
+  "summary": "奥斯汀，汉普郡斯蒂文顿牧师之女，'风尚小说'（novel of manners）的奠基者，以'日常生活中的普通人'给小说'赋予鲜明的现代性格'（Britannica：credited with giving the novel its distinctly modern character through ordinary people in everyday life）。六部小说：《理智与情感》《傲慢与偏见》《曼斯菲尔德庄园》《爱玛》生前出版，《诺桑觉寺》《劝导》身后出版（Britannica 出版史）。终身未婚，41岁病逝于温彻斯特。",
+  "timeline": [
+    {"year": "1775-12-16", "text": "生于汉普郡斯蒂文顿牧师住宅，八兄妹中第七（Britannica）。", "src": "B037"},
+    {"year": "1795—1797", "text": "青年创作期：《第一印象》（后为《傲慢与偏见》）1796—97年写成，1797年由父亲向出版人自荐被拒（Britannica：rejected by a publisher in 1797）。", "src": "B037"},
+    {"year": "1801—1809", "text": "随家迁巴斯、父亡（1805）、南安普顿——'沉寂的十年'，创作几乎停顿（Britannica 记 1801 迁 Bath）。", "src": "B037"},
+    {"year": "1809", "text": "兄爱德华安排其与母亲、姐姐定居乔顿（Chawton cottage，Britannica），创作丰收期开启。", "src": "B037"},
+    {"year": "1811—1816", "text": "《理智与情感》（1811，初稿《埃莉诺与玛丽安》约1795）、《傲慢与偏见》（1813）、《曼斯菲尔德庄园》（1814）、《爱玛》（1815，题献摄政王，Britannica）四部出版。", "src": "B037"},
+    {"year": "1816—1817", "text": "健康恶化（Britannica：likely Addison disease——艾迪生氏病；lupus 或 Hodgkin disease 亦被提出）；《劝导》与《诺桑觉寺》付印安排。", "src": "B037"},
+    {"year": "1817-07-18", "text": "卒于温彻斯特，年四十一，葬于温彻斯特大教堂（Britannica）。", "src": "B037"},
+    {"year": "1817-12", "text": "《诺桑觉寺》与《劝导》身后合刊出版（Britannica：posthumously, December 1817）。", "src": "B037"},
+    {"year": "身后接受", "text": "司各特1816年《评论季刊》评《爱玛》（Britannica：Walter Scott praised Emma in the Quarterly Review (1816)）；惠特利1821年评论开创严肃奥斯汀批评（Britannica：Richard Whately's 1821 review founded serious Austen criticism）。", "src": "B037"}
+  ],
+  "major_works": [
+    {"work_id": "aoman", "note": "1813，最著名作品"},
+    {"title": "爱玛（1815）", "note": "司各特激赏之作（Britannica）"},
+    {"title": "劝导（1817身后）", "note": "沉郁成熟的晚期杰作（通说）"}
+  ],
+  "style": [
+    "自由间接引语（free indirect discourse，Britannica）：第三人称叙述中溶入人物内心语调——现代小说叙事技术的先驱。",
+    "反讽的叙述者：开篇名句'Truth universally acknowledged'（凡有财产的单身汉必娶太太——普遍真理的反讽）是小说史最著名的开篇之一（原文公有领域）。",
+    "'3-4个乡村家庭'的题材自限：'在一块象牙上细细雕刻'（其'miniature'自评——出自其书信，通说待核）。",
+    "对话的艺术：人物性格全部在对话中显影。"
+  ],
+  "status": "Britannica 称奥斯汀使小说'获得鲜明的现代性格'并'定义了风尚小说'（defined the novel of manners）。两个世纪以来持续流行（Britannica：Enduringly popular for over two centuries）、改编无数（Britannica 记约15部电影与电视剧，含1995 BBC 版与2005电影版）。'简迷'（Janeite）文化成为英语世界的亚文化现象（通说待核）。",
+  "sources": ["B037", "B012"],
+  "dates_source": "B037",
+  "pending": [
+    "死因鉴定（艾迪生病/淋巴瘤/砷中毒诸说）医学界无定论（Britannica 已列多种）。",
+    "'象牙雕刻'自评的原始书信出处（1799年前后致侄女信，通说）待核。",
+    "《苏珊夫人》等早期作品的写作年代待核。",
+    "1813年《傲慢与偏见》初版（三卷本）细节与首印数待核。"
+  ]
+}

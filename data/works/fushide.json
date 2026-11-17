@@ -1,0 +1,82 @@
+{
+  "id": "fushide",
+  "title": "浮士德",
+  "original_title": "Faust. Der Tragödie erster Teil（第一部）/ Faust. Der Tragödie zweiter Teil（第二部）",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪末—19世纪",
+  "genre": "诗剧（两部）",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "goethe",
+  "author_name": "约翰·沃尔夫冈·冯·歌德",
+  "year_display": "第一部1808年出版；第二部1832年身后出版（Britannica）",
+  "year_sort": 1808,
+  "background": [
+    "题材源自16世纪德国的浮士德博士传说（1587年《浮士德书》Faustbuch——Britannica 相关条目 Faustbuch 提及 Mephistopheles 在 Goethe 版中的来源比较）：以灵魂换知识的巫师——马洛《浮士德博士的悲剧》（1592）为先声。歌德从青年时代（约1770）开始写，历时六十年（'六十年写作史'为通说）。",
+    "两部的出版（Britannica Faust-play 条目）：Part I 1808；Part II 1832（作者身后）。Britannica 称其为'The supreme work of Goethe's later years'（歌德晚年最高成就）。",
+    "地位：'sometimes considered Germany's greatest contribution to world literature'（有时被视为德国对世界文学的最大贡献，Britannica）；'Europe's greatest long poem since Paradise Lost'（自《失乐园》以来欧洲最伟大的长诗，Britannica Goethe 条目）。"
+  ],
+  "outline": [
+    "第一部：《献诗》《序幕》（天上序幕：上帝与靡非斯特打赌——'善人虽受模糊的冲动驱使，总会意识到正确的道路'，原文公有领域）——老学者浮士德在书斋绝望（'唉，我到如今已把哲学……'），与魔鬼订约：若他对某一瞬间说出'请停留一下，你是如此美'（Verweile doch! du bist so schön!——原文），灵魂归魔鬼。",
+    "格蕾卿悲剧：返老还童的浮士德与市民少女格蕾卿（Gretchen）相恋——给她安眠药（误杀其母）、兄长瓦伦丁决斗而死、溺婴入狱——格蕾卿拒绝越狱，'天谴'判词却由天上之音宣告得救（'Sie ist gerettet'——原文）。第一部在格蕾卿悲剧中收束。",
+    "第二部：象征性宏构——'皇帝宫廷'（纸币发行与化装舞会）、'古典瓦尔普吉斯之夜'（希腊神话世界）、人造海伦（人造人荷蒙库鲁斯引路，浮士德与海伦结合生欧福里翁——拜伦的化身，早夭）；浮士德围海造田、驱逐老夫妇（菲勒蒙与鲍西丝），双目失明后听到的'掘墓声'被他当作施工——在这一'预感自由的人民在自由的土地上'的瞬间（原文意），倒地而死。靡非斯特索魂，天使抢走灵魂：'凡是不断努力的人，我们都能搭救'（原文意）。"
+  ],
+  "characters": [
+    {"name": "浮士德", "identity": "学者→恋人→政治家→造田者", "note": "人类的总体象征：永不知足的求知与进取——'有两只灵魂住在我的胸中'（原文）"},
+    {"name": "靡非斯特（靡非斯特匪勒斯）", "identity": "魔鬼", "note": "'否定的精灵'（Geist der stets verneint——原文）：讽刺家、虚无者，也是进步的推手"},
+    {"name": "格蕾卿（玛格丽特）", "identity": "市民少女", "note": "第一部悲剧核心：天真—堕落—狱中忏悔—得救"},
+    {"name": "海伦", "identity": "古典美的化身", "note": "第二部：浮士德与古典理想结合的象征（欧福里翁为两人的孩子）"},
+    {"name": "瓦格纳", "identity": "浮士德的书呆弟子", "note": "理性—技术路线（第二部在实验室造出人造人）"},
+    {"name": "荷蒙库鲁斯", "identity": "人造小人", "note": "纯精神的 existence，引浮士德赴希腊"}
+  ],
+  "themes": [
+    "'浮士德精神'：永不满足的求知、行动与超越——西方现代性的自我写照（'浮士德式的人物'成为文化术语，通说）。",
+    "赌约与救赎：从马洛'灵魂入地狱'到歌德'凡自强不息者终得救'——从宗教警示到人道主义乐观的转变（Britannica：the end of Part II Faust's purification and salvation）。",
+    "两种灵魂：'执着尘世'与'向往天界'的撕扯（原文意）——灵与肉的辩证。",
+    "艺术的综观：Britannica 记其'几乎使用所有已知诗体，从打油诗到三行连环韵到六音步'，并融合希腊悲剧、中世纪神秘剧、巴洛克寓言与即兴喜剧诸风格——早年批评者斥其'无形'，现代批评者视之为'有意的文化评论载体'（Britannica：a deliberate attempt to create a vehicle of cultural comment）。",
+    "现代性批判：纸币、殖民、围海造田——第二部是对现代经济与技术的惊人预演（学界通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Faust-play 条目）：'supreme work of Goethe's later years'、'Germany's greatest contribution to world literature'（有时被称为德国对世界文学的最大贡献）。", "source": "B011"},
+    {"text": "Britannica（Goethe 条目）：'Faust is called Europe's greatest long poem since Paradise Lost'（《失乐园》以来欧洲最伟大的长诗）。", "source": "B036"},
+    {"text": "Britannica：早年批评家斥其'formless'（无形），现代批评家视形式的杂糅为有意的文化评论——评价史的翻转。", "source": "B011"},
+    {"text": "改编：古诺歌剧《浮士德》（1859）、柏辽兹《浮士德的沉沦》、马勒第八交响曲（'凡自强不息者'——通说待核）、布尔加科夫《大师与玛格丽特》的反向致敬（通说待核）。", "source": "B011"}
+  ],
+  "reading": {
+    "difficulties": [
+      "第一部有完整戏剧线，第二部几乎无情节而全为象征——先攻第一部。",
+      "诗体多变、神话典故（希腊诸神、中世纪宇宙）密集，注释本必需。",
+      "'天上序幕'的打赌框架与《约伯记》的互文需要导读。"
+    ],
+    "editions": [
+      "郭沫若译《浮士德》（人民文学出版社）：经典译本（诗体）。",
+      "钱春绮译《浮士德》（上海译文出版社）：注释详瞻。",
+      "绿原译《浮士德》（人民文学出版社《歌德文集》）：现代通行本。"
+    ],
+    "order": "先读'书斋'与'街头'（订约与初遇格蕾卿）→ 通读第一部（格蕾卿悲剧）→ 第二部选读'古典瓦尔普吉斯之夜'与结尾'山谷'场景 → 对照马洛《浮士德博士的悲剧》看救赎之别。"
+  },
+  "pending": [
+    "《浮士德》片段本（Faust. Ein Fragment，1790）与两部定稿的版本链待核。",
+    "'Verweile doch'等名句的逐字核对照郭沫若/钱春绮/绿原译本。",
+    "第二部'山谷'场景的救赎逻辑（圣母代求）的神学解读待核。",
+    "欧福里翁=拜伦的隐喻（歌德自注）待核。"
+  ],
+  "sources": ["B011", "B036"],
+  "year_source": "B011",
+  "author_source": "B036",
+  "related_works": ["shenqu", "mudanting", "bianxingji"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《浮士德》五重人生结构图",
+    "steps": [
+      {"title": "书斋", "text": "知识绝望·与魔订约", "color": "main"},
+      {"title": "格蕾卿", "text": "爱情悲剧·少女得救", "color": "antagonist"},
+      {"title": "宫廷", "text": "纸币政治·海伦之梦", "color": "gold"},
+      {"title": "古典之旅", "text": "与海伦结合·欧福里翁之死", "color": "family"},
+      {"title": "围海造田", "text": "'你真美，请停留'·灵魂得救", "color": "main"}
+    ]
+  }
+}

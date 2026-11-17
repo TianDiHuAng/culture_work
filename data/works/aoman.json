@@ -1,0 +1,96 @@
+{
+  "id": "aoman",
+  "title": "傲慢与偏见",
+  "original_title": "Pride and Prejudice（1813年匿名三卷本；初稿名 First Impressions《第一印象》）",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "长篇小说（风尚小说）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "austen",
+  "author_name": "简·奥斯汀",
+  "year_display": "1813年1月匿名三卷本出版（Britannica）",
+  "year_sort": 1813,
+  "background": [
+    "创作史（Britannica）：初稿《第一印象》1796年10月—1797年8月写成，1797年由父亲向出版人 Cadell 自荐被拒；1809年后在乔顿大改，1813年1月匿名三卷本出版——'第一版在一年内售罄'（Britannica：The first edition sold out within the first year）。",
+    "时代背景：摄政时期（Regency）英国乡绅社会——限制继承（entail，Britannica 提及 the estate will pass to nephew William Collins）、嫁妆经济与'体面婚姻'的博弈，是全书的社会引擎。",
+    "开篇名句：'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'（原文，公有领域）——反讽把全书的主题（婚姻市场）与视角（反讽叙述者）一举确立。"
+  ],
+  "outline": [
+    "浪博恩村：班纳特夫妇有五个女儿而家产限定传给远亲柯林斯——'嫁女'成为全家的头等大事（Britannica：driving Mrs. Bennet's obsession with marrying off her daughters）。",
+    "宾利兄妹租下尼日斐庄园：宾利与长女吉英一见倾心；达西（宾利挚友）以'她还算过得去，但没漂亮到打动我的心'冷落伊丽莎白（原文意，待核）——偏见与傲慢双双登场。",
+    "误会的加深：威克姆的谎言（达西'剥夺其教职'）使伊丽莎白对达西的恶感成形；柯林斯求婚被拒后转向伊丽莎白闺蜜夏洛特——'只求一个舒适的家'的清醒现实主义。",
+    "转折：达西第一次求婚（以傲慢的姿态陈述'门第悬殊'的挣扎）被伊丽莎白痛斥；第二天的长信揭示威克姆真面目（诱拐妹妹未遂）——'Till this moment I never knew myself'（原文）。",
+    "结局：彭伯里偶遇，达西以行动（悄悄救莉迪亚私奔之危）证明转变；伽迪纳夫妇的牵线下二人订婚——'傲慢'与'偏见'在认知更新后双双瓦解。"
+  ],
+  "characters": [
+    {"name": "伊丽莎白·班纳特", "identity": "班家二小姐", "note": "Britannica：intelligent and high-spirited——聪明泼辣、以自察自省成长的现代女性"},
+    {"name": "达西", "identity": "彭伯里庄园主人", "note": "'Fitzwilliam Darcy'——傲慢源于教养与阶级，转变由行动证明"},
+    {"name": "班纳特太太", "identity": "班家主妇", "note": "Britannica 引 Mary Evans 评语：'If Mrs. Bennett is slightly crazy, then perhaps she is so because she perceives more clearly than her husband the possible fate of her five daughters if they do not marry.'——'疯狂'背后是清醒的生存焦虑"},
+    {"name": "威克姆", "identity": "军官·伪君子", "note": "谎言与魅力的结合体"},
+    {"name": "柯林斯", "identity": "牧师·谄媚者", "note": "Britannica 引奥斯汀原话：'not a sensible man'——荒诞的求婚者"},
+    {"name": "简（吉英）", "identity": "长女", "note": "温柔到近乎盲目的善良"},
+    {"name": "夏洛特·卢卡斯", "identity": "伊丽莎白之友", "note": "27岁嫁给柯林斯——'不谈爱情只求保险'的婚姻现实主义"}
+  ],
+  "themes": [
+    "傲慢与偏见的认知经济学：两人各自的'认知缺陷'（阶级傲慢/第一印象偏见）必须被事实教育——爱情故事同时是认识论故事。",
+    "婚姻的三种形态：柯林斯夫妇（保险型）、威克姆莉迪亚（欲望型）、达西伊丽莎白（尊重与成长型）——奥斯汀的婚姻比较学。",
+    "女性的处境：限制继承与嫁妆经济下的婚姻市场——'每一个女儿都面对生存焦虑'（Mary Evans 评语的洞见，Britannica 引述）。",
+    "反讽的艺术：叙述者与人物的'合谋'（自由间接引语）——伊丽莎白的自察话语被叙述者的反讽微微超越。"
+  ],
+  "influence": [
+    {"text": "Britannica（A&P 条目）：'noted for incisive wit and superb character delineation'（以犀利的机智与卓越的人物刻画著称），从未绝版。", "source": "B012"},
+    {"text": "Britannica：约15部电影改编（1940 Greer Garson 版、2005 Keira Knightley 版、2004《新娘与偏见》等）与1995 BBC 剧集、衍生作品（《傲慢与偏见与僵尸》等）。", "source": "B012"},
+    {"text": "Britannica（Austen 条目）：奥斯汀给小说带来'distinctly modern character'——现代小说的日常性从这里开始。", "source": "B037"},
+    {"text": "学术与大众的'简迷'文化：从 R.W. Chapman 校勘本到当代反讽续作——接受史的奇观（通说待核）。", "source": "B037"}
+  ],
+  "reading": {
+    "difficulties": [
+      "摄政时期婚姻财产制度（限定继承、嫁妆）需要背景注释。",
+      "反讽语调：班纳特太太的'愚蠢'里藏有机敏、达西的'傲慢'里有羞怯——勿以表面道德剧读之。",
+      "英国乡村地理（浪博恩—尼日斐—彭伯里—肯特）宜画图。"
+    ],
+    "editions": [
+      "王科一译《傲慢与偏见》（上海译文出版社）：通行经典译本。",
+      "孙致礼译本（译林出版社）：另一通行选择。",
+      "英文本：Penguin Classics 或 Oxford World's Classics（含注释）。"
+    ],
+    "order": "先读第1—3章（开篇、舞会、第一次印象）与第34章（第一次求婚）→ 通读 → 回读第43章（彭伯里偶遇）与夏洛特婚姻线 → 对照《爱玛》与电影改编（2005版）。"
+  },
+  "pending": [
+    "1813年1月28日出版说（通说）与 Britannica 记1813年1月的对应待核。",
+    "首版印数（约1500册说）与售价（每套18先令说）待核。",
+    "'It is a truth universally acknowledged'句的逐字核对照权威版本。",
+    "Mary Evans 评语的原始出处（Britannica 转引，原文书名待核）。"
+  ],
+  "sources": ["B012", "B037"],
+  "year_source": "B012",
+  "author_source": "B037",
+  "related_works": ["weicheng", "gaolaotou", "balimingwuyuan"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《傲慢与偏见》婚姻市场人物关系图",
+    "nodes": [
+      {"id": "lizzy", "label": "伊丽莎白", "x": 250, "y": 160, "color": "main", "sub": "二小姐"},
+      {"id": "darcy", "label": "达西", "x": 430, "y": 160, "color": "main", "sub": "彭伯里主人"},
+      {"id": "jane", "label": "简", "x": 90, "y": 80, "color": "family", "sub": "长女"},
+      {"id": "bingley", "label": "宾利", "x": 590, "y": 80, "color": "family", "sub": "庄园租客"},
+      {"id": "wickham", "label": "威克姆", "x": 90, "y": 330, "color": "antagonist", "sub": "伪君子"},
+      {"id": "collins", "label": "柯林斯", "x": 250, "y": 400, "color": "plain", "sub": "谄媚牧师"},
+      {"id": "charlotte", "label": "夏洛特", "x": 430, "y": 400, "color": "plain", "sub": "现实主义者"},
+      {"id": "mrs", "label": "班纳特太太", "x": 340, "y": 60, "color": "gold", "sub": "嫁女大业"}
+    ],
+    "edges": [
+      {"a": "lizzy", "b": "darcy", "label": "傲慢×偏见→成婚"},
+      {"a": "jane", "b": "bingley", "label": "一对璧人"},
+      {"a": "lizzy", "b": "wickham", "label": "被蒙蔽", "style": "dashed"},
+      {"a": "collins", "b": "charlotte", "label": "保险婚姻"},
+      {"a": "collins", "b": "lizzy", "label": "求婚被拒", "style": "dashed"},
+      {"a": "mrs", "b": "lizzy", "label": "催婚"},
+      {"a": "darcy", "b": "wickham", "label": "旧怨真相"}
+    ]
+  }
+}

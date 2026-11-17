@@ -1,0 +1,44 @@
+{
+  "id": "goethe",
+  "name": "歌德",
+  "foreign_name": "Johann Wolfgang von Goethe（约翰·沃尔夫冈·冯·歌德，1749-08-28 — 1832-03-22）",
+  "country": "德国",
+  "birth": "1749-08-28",
+  "death": "1832-03-22",
+  "birth_year": 1749,
+  "death_year": 1832,
+  "era": "近代",
+  "summary": "歌德，法兰克福人，'现代时代最伟大的德国文学人物'（Britannica：the greatest German literary figure of the modern era）。青年为'狂飙突进'首领（《少年维特之烦恼》1774为该流派首部小说，Britannica），1775年应魏玛公爵之邀从政，官至枢密顾问；1786—88年意大利之行重塑其艺术（Britannica）；与席勒的合作（1794—1805）开创德国古典文学时代。晚年完成《浮士德》（第一部1808、第二部1832身后出版），被 Britannica 称为'《失乐园》以来欧洲最伟大的长诗'。",
+  "timeline": [
+    {"year": "1749-08-28", "text": "生于法兰克福富裕市民之家（Britannica）。", "src": "B036"},
+    {"year": "1765—1768", "text": "莱比锡学习法律，因病辍学归家（Britannica：studied law at Leipzig (1765–68), returning home due to illness）。", "src": "B036"},
+    {"year": "1773—1774", "text": "《铁手骑士葛兹》（1773）与《少年维特之烦恼》（1774）问世——狂飙突进运动的开山（Britannica：Götz launched the movement; Werther was its first novel）。", "src": "B036"},
+    {"year": "1775-11", "text": "应魏玛公爵卡尔·奥古斯特之邀赴魏玛，此后终生定居（Britannica：Went to Weimar in 1776 under Duke Charles Augustus）。", "src": "B036"},
+    {"year": "1776—1786", "text": "在魏玛任职（矿物、军事、财政等——通说），《伊菲革涅亚在陶里斯》等古典剧（Britannica 列举）。", "src": "B036"},
+    {"year": "1786-09—1788", "text": "意大利之旅（'流亡'式出走，Britannica：Italian journey (1786–88), which shaped his literary style）——古典主义的转向。", "src": "B036"},
+    {"year": "1794—1805", "text": "与席勒的伟大友谊与合作（Britannica：Friendship with Schiller (1794–1805)）——《威廉·迈斯特的学习时代》（1796）、《浮士德》第一部（1808）。", "src": "B036"},
+    {"year": "1806", "text": "与克里斯蒂安·武尔皮乌斯正式结婚（Britannica：Married Christiane Vulpius in October 1806；1789年生子奥古斯特）。", "src": "B036"},
+    {"year": "1808—1831", "text": "《色彩学》（1810，通说待核）、《西东合集》（1819，通说待核）；1829年起集中完成《浮士德》第二部；1831年8月封笔。", "src": "B036"},
+    {"year": "1832-03-22", "text": "卒于魏玛，享年八十二（Britannica）。第二部遗嘱出版（1832，Britannica：Part II in 1832, appearing after the author's death）。", "src": "B011"}
+  ],
+  "major_works": [
+    {"work_id": "fushide", "note": "两部诗剧：1808/1832"},
+    {"title": "少年维特之烦恼（1774）", "note": "狂飙突进首部小说（Britannica）"},
+    {"title": "威廉·迈斯特的学习时代（1796）", "note": "德国教育小说（Bildungsroman）的奠基（通说）"}
+  ],
+  "style": [
+    "一生'多副笔墨'：狂飙突进的激情（青年）→ 古典主义的均衡（意大利后）→ 世界文学的综观（晚年）。",
+    "自然科学与文学并重：植物变形论、色彩学（Britannica 相关问答提及 colour theory and botanical science）。",
+    "格言式智慧：《威廉·迈斯特》与《浮士德》充满'人生格言'（'理论是灰色的，生命之树常青'——《浮士德》名句，原文公有领域）。",
+    "自我教育与'修行'主题：Bildung（养成）是歌德全部作品的关键词（通说）。"
+  ],
+  "status": "歌德与但丁、莎士比亚并列为各自时代的代表（Britannica：placed alongside Shakespeare (Renaissance) and Dante (High Middle Ages) as the representative figure of his era）。'魏玛古典主义'使德语文学第一次获得世界级地位。他是'世界文学'（Weltliteratur）概念的提出者（1827年谈话，通说待核）。拿破仑称其'这就是一个人'（C'est un homme！1808年埃尔福特会面，通说待核）——其一生横跨启蒙、狂飙突进、古典主义与浪漫主义四大文学时代。",
+  "sources": ["B036", "B011"],
+  "dates_source": "B036",
+  "pending": [
+    "《西东合集》（1819）与《颜色学》（1810）出版年待核（Britannica 正文未列 West-Eastern Divan）。",
+    "1808年拿破仑埃尔福特会面与'C'est un homme'名言出处待核。",
+    "'世界文学'概念出处（与艾克曼《歌德谈话录》1827年1月31日谈话）待核。",
+    "魏玛任职的具体职务年表（枢密顾问1779等）待核。"
+  ]
+}
