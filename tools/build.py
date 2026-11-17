@@ -122,6 +122,7 @@ def work_page(w, authors, sources, works):
         ("体裁", esc(w["genre"])),
         ("语言", esc(w["language"])),
     ]
+    body.append("<h2>一、基本信息</h2>")
     body.append("<table>" + "".join(f"<tr><th>{k}</th><td>{v}</td></tr>" for k, v in rows) + "</table>")
 
     # SVG
