@@ -1,0 +1,95 @@
+{
+  "id": "yijiubasi",
+  "title": "一九八四",
+  "original_title": "Nineteen Eighty-Four（一九八四，亦作 1984）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（反乌托邦/政治小说）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "orwell",
+  "author_name": "乔治·奥威尔",
+  "year_display": "1949年出版（Britannica）",
+  "year_sort": 1949,
+  "background": [
+    "写作背景（Britannica）：'written as a warning against totalitarianism'（作为对极权主义的警告而写），成于奥威尔对'纳粹主义与斯大林主义的双重祸患'的沉思（Britannica：brooding on the 'twin menaces of Nazism and Stalinism'）——西班牙内战经历是直接火种（Britannica 奥威尔条：fled pro-Stalinist persecution — leaving a 'lifelong dread of communism'）。",
+    "出版：1949年出版（Britannica）——Secker & Warburg 为通说出版方（Britannica 条目未载出版方）。书名有 1948 颠倒说等传闻（通说待核）。",
+    "文体装置：温斯顿的日记、戈德斯坦因的'书'（Buch 一章）、'新话'附录——三层文档嵌套的'档案式'小说（通说）。"
+  ],
+  "outline": [
+    "世界一分为三：大洋国、欧亚国、东亚国，战争永续。温斯顿·史密斯——外围党员、真理部记录司职员，工作即'改写历史'（Britannica：rewrites history at the Ministry of Truth but secretly rebels）。",
+    "双重思想与背叛：他秘密写日记（'致未来'）、与裘莉亚相爱（'性即犯罪'）——二人被思想警察（Britannica：enforced through the Thought Police and constant surveillance）监视；友奥布莱恩实为党内奸（Britannica：betrayed by O'Brien, a Party spy posing as a Brotherhood member）。",
+    "101室：友爱部审讯——'2+2=5'的拷问与101室的老鼠（'Do it to Julia！'——Britannica：In Room 101, facing a cage of rats, Winston betrays Julia）——温斯顿背叛爱人。",
+    "结局：获释的温斯顿在栗树咖啡馆等待子弹——'他战胜了自己。他爱老大哥'（原文意，Britannica：ultimately loving Big Brother）。附录《新话原理》：官方语言的目的是缩小思想范围（Britannica：Newspeak...meant to curb free thought）——其时态暗示这一切发生在'过去'（通说解读）。"
+  ],
+  "characters": [
+    {"name": "温斯顿·史密斯", "identity": "外围党员·真理部职员", "note": "'温斯顿象征文明价值，其失败显示文明的脆弱'（Britannica：Winston symbolizing civilized values whose defeat shows their vulnerability）"},
+    {"name": "老大哥", "identity": "党领袖·无处不在的凝视", "note": "也许并不存在——'Big Brother is watching you'（原文，公有领域）"},
+    {"name": "奥布莱恩", "identity": "内党干部·审讯者", "note": "'我们只对权力本身感兴趣'（原文意，待核）——权力意志的纯粹形态"},
+    {"name": "裘莉亚", "identity": "小说司青年", "note": "'肉体的反叛者'而非思想反叛者（通说解读）——温斯顿的背叛对象"},
+    {"name": "赛麦", "identity": "新话专家", "note": "'销毁词汇'的 enthusiast——终被蒸发（通说）"},
+    {"name": "帕森斯", "identity": "邻居·虔诚党员", "note": "被七岁女儿告发——'孩子告密'社会的标本"}
+  ],
+  "themes": [
+    "极权主义的解剖：永恒战争、双重思想、历史改写——'sobering reminder of the evils of unaccountable governments'（Britannica：对不负责任政府的邪恶的清醒提醒）。",
+    "语言的权力：新话的目的是让异端思想'不可能被想'（Britannica：meant to curb free thought）——语言即思想边界。",
+    "权力的自我目的化：奥布莱恩的'权力神学'（'权力不是手段而是目的'原文意，待核）——20世纪政治哲学的最黑暗表述之一。",
+    "记忆与真实：'谁控制过去就控制未来'（原文意，待核）——历史改写作为统治技术。",
+    "艺术特点：档案体（日记/书/附录三层）、'新话'的造词法（duckspeak 等）、阴暗环境的生理性描写（劣质杜松子酒、气味）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Nineteen Eighty-four 条目）：'a classic of English literature'；老大哥、思想警察'常作为现代社会与政治滥用的代名词'（often as bywords for modern social and political abuses）。", "source": "B026"},
+    {"text": "Britannica：Big Brother、Thought Police 与 Orwellian 概念进入主流文化（Britannica：his ideas entered mainstream culture）。", "source": "B052"},
+    {"text": "Britannica：获雨果奖（Awarded a Hugo Award——奥威尔条）——1984年颁发的' retrospective Hugo'（追授奖，通说待核）。", "source": "B052"},
+    {"text": "中国接受：《一九八四》与《动物农场》的中译流传（通说待核）；'老大哥'等语汇进入汉语批评语言（通说待核）。", "source": "B052"}
+  ],
+  "reading": {
+    "difficulties": [
+      "第一部（世界设定）偏说明性，坚持到'裘莉亚纸条'（第二部）后节奏起飞。",
+      "第二部中间'戈德斯坦因的书'长章（战争与阶级论）可先跳过回补。",
+      "'2+2=5'与101室场景是全书心理极点——慢读。"
+    ],
+    "editions": [
+      "董乐山译《一九八四》（花城出版社/上海译文等，通说待核）：通行译本。",
+      "《奥威尔文集》（中国广播影视/人民文学，通说待核）：研究型。",
+      "英文本：Signet/Penguin 通行版（含 Erich Fromm 附录，通说待核）。"
+    ],
+    "order": "通读三部 → 精读第二部'书'章（或先跳过）与第三部101室 → 回读第一卷开头（十三点敲钟、宣传屏）→ 配合《动物农场》与《我为什么写作》（1946，通说）。"
+  },
+  "pending": [
+    "出版方（Secker & Warburg，1949年6月8日说）与书名演变（The Last Man in Europe 草稿名，通说）待核。",
+    "'2+2=5'与101室原文逐字核对照董乐山译本。",
+    "1984年追授雨果奖（Hugo Award）细节待核。",
+    "董乐山译本的出版信息待核。"
+  ],
+  "sources": ["B026", "B052"],
+  "year_source": "B026",
+  "author_source": "B052",
+  "related_works": ["bianxingji", "santi", "honggaoliang"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《一九八四》权力结构图",
+    "nodes": [
+      {"id": "bb", "label": "老大哥", "x": 340, "y": 50, "color": "antagonist", "sub": "无处不在的凝视"},
+      {"id": "obrien", "label": "奥布莱恩", "x": 560, "y": 150, "color": "antagonist", "sub": "内党·审讯者"},
+      {"id": "winston", "label": "温斯顿", "x": 340, "y": 200, "color": "main", "sub": "真理部·改写历史"},
+      {"id": "julia", "label": "裘莉亚", "x": 130, "y": 200, "color": "family", "sub": "肉体反叛者"},
+      {"id": "thought", "label": "思想警察", "x": 120, "y": 340, "color": "antagonist", "sub": "监控网"},
+      {"id": "motp", "label": "真理部", "x": 560, "y": 340, "color": "plain", "sub": "改写新闻"},
+      {"id": "room", "label": "101室", "x": 340, "y": 400, "color": "antagonist", "sub": "恐惧的极点"},
+      {"id": "proles", "label": "无产者", "x": 340, "y": 300, "color": "plain", "sub": "'希望在他们'"}
+    ],
+    "edges": [
+      {"a": "bb", "b": "winston", "label": "凝视"},
+      {"a": "obrien", "b": "winston", "label": "假兄弟会→审讯", "style": "dashed"},
+      {"a": "winston", "b": "julia", "label": "禁忌之恋"},
+      {"a": "thought", "b": "julia", "label": "监视", "style": "dashed"},
+      {"a": "obrien", "b": "room", "label": "101室拷问"},
+      {"a": "winston", "b": "motp", "label": "雇佣"},
+      {"a": "bb", "b": "proles", "label": "麻醉"}
+    ]
+  }
+}

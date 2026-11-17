@@ -1,0 +1,43 @@
+{
+  "id": "hemingway",
+  "name": "海明威",
+  "foreign_name": "Ernest Hemingway（欧内斯特·米勒·海明威，1899-07-21 — 1961-07-02）",
+  "country": "美国",
+  "birth": "1899-07-21",
+  "death": "1961-07-02",
+  "birth_year": 1899,
+  "death_year": 1961,
+  "era": "现当代",
+  "summary": "海明威，伊利诺伊州奥克帕克人，20世纪'被模仿最广的文体'的创造者（Britannica：prose that was 'probably the most widely imitated of any in the 20th century'）。一战红十字会救护车司机（1918年意大利前线负伤，Britannica），巴黎驻外记者（菲茨杰拉德、斯泰因、庞德指导其成长——Britannica：mentored by Fitzgerald, Stein, Pound），西班牙内战与二战的报道者（Britannica）。1953年普利策奖（老人与海）、1954年诺贝尔文学奖（Britannica）。'硬汉'人设之下'有细腻的审美敏感'（Britannica：his 'aesthetic sensibility of great delicacy' lay beneath that virile surface）。1961年7月2日在爱达荷州凯彻姆开枪自杀（Britannica）。",
+  "timeline": [
+    {"year": "1899-07-21", "text": "生于伊利诺伊州奥克帕克（Britannica：b. July 21, 1899, Cicero/Oak Park, Illinois）。", "src": "B051"},
+    {"year": "1917", "text": "《堪萨斯城星报》见习记者（Britannica：Kansas City Star reporter (1917)）——'简短句式'的写作学校。", "src": "B051"},
+    {"year": "1918", "text": "一战：红十字会救护车司机，7月在皮亚韦河福萨尔塔负伤，恋护士艾格尼丝（Britannica：wounded at Fossalta di Piave (July 1918); loved nurse Agnes von Kurowsky）。", "src": "B051"},
+    {"year": "1921—1928", "text": "与哈德莉结婚后赴巴黎任《多伦多星报》驻欧记者（Britannica）；《在我们的时代》（1924/25）、《太阳照常升起》（1926）、《没有女人的男人们》（1927）——巴黎时期（Britannica 列举）。", "src": "B051"},
+    {"year": "1929—1937", "text": "《永别了武器》（1929，'first major success'——Britannica）、《午后之死》（1932）、《非洲的青山》（1935）、《有的和无的》（1937）；1937—38年赴西班牙内战报道并为共和国募款（Britannica：Covered Spanish Civil War as correspondent, raised funds for Republicans）。", "src": "B051"},
+    {"year": "1940—1952", "text": "《丧钟为谁而鸣》（1940，'his best seller'——Britannica）；二战参战（D-Day 渡海、诺曼底与突出部战役——Britannica：crossed the Channel on D-Day...）；1950《过河入林》受挫（通说待核）；1952《老人与海》先刊于《生活》杂志后出书（'Life magazine + book'为本页推测——Britannica 条目仅记'published 1952'，见待核实）。", "src": "B024"},
+    {"year": "1953—1954", "text": "1953年普利策小说奖（Britannica：awarded the 1953 Pulitzer Prize for fiction）；1954年诺贝尔文学奖（Britannica：Nobel Prize in Literature (1954)）——授奖辞提及《老人与海》（Britannica：cited when he won the Nobel Prize for Literature in 1954）；因伤未赴颁奖礼，提交演讲稿（通说待核）。", "src": "B024"},
+    {"year": "1954—1961", "text": "两架飞机坠伤、酗酒与电休克治疗（Britannica：twice hospitalized at Mayo Clinic with electroshock treatment）；1961年7月2日在凯彻姆家中自杀（Britannica：suicide by shotgun）。", "src": "B051"},
+    {"year": "身后", "text": "《流动的盛宴》（1964）、《岛在湾流中》（1970）等遗作出版（Britannica 列举）；四段婚姻（哈德莉、波琳、玛莎、玛丽，Britannica：Four marriages）。", "src": "B051"}
+  ],
+  "major_works": [
+    {"work_id": "laorenhai", "note": "1952；普利策与诺奖的关键作品（Britannica）"},
+    {"title": "太阳照常升起（1926）、永别了武器（1929）", "note": "'迷惘的一代'双璧（Britannica 列举）"},
+    {"title": "丧钟为谁而鸣（1940）", "note": "'his best seller'（Britannica）"}
+  ],
+  "style": [
+    "冰山理论：'deceptively simple, stripped-down prose, full of unspoken implication'（Britannica：冰山理论——貌似简单、删减到底的散文，充满未言之意）。",
+    "名词与动词的散文：'short, simple sentences stripped of commentary and emotion, built mostly from nouns and verbs'（Britannica）——删去修饰与情绪。",
+    "'重压之下的优雅'：'grace under pressure'（其行为准则 'Hemingway code'——honor, courage, endurance, dignity——Britannica）。",
+    "对话的真实：'fresh, natural-sounding dialogue'（Britannica）。"
+  ],
+  "status": "Britannica 称海明威的文风'probably the most widely imitated of any in the 20th century'（20世纪被模仿最广的文体之一）；其'海明威准则'塑造并困扰了整个二战一代（Britannica：his myth both shaped and haunted the WWII generation）。声望'surpassed by few, if any, American authors of the 20th century'（20世纪美国作家中鲜有人能及，Britannica）。1954年诺奖授奖辞特别提及《老人与海》（Britannica）。",
+  "sources": ["B051", "B024"],
+  "dates_source": "B051",
+  "pending": [
+    "《老人与海》'《生活》杂志1952年9月1期刊出'说（通说）与 Britannica 条目'published in 1952'的对齐待核。",
+    "1954年因坠机未赴诺奖典礼、授奖演说（'写作，在最成功的时候，是一种孤寂的生涯'）原文待核。",
+    "古巴岁月（Finca Vigía，约20年，Britannica）与1959年离古细节待核。",
+    "自杀家族史（父、兄、孙女）的传记细节待核。"
+  ]
+}
