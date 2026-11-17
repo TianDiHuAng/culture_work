@@ -1,0 +1,44 @@
+{
+  "id": "hugo",
+  "name": "雨果",
+  "foreign_name": "Victor Hugo（维克多·雨果，1802-02-26 — 1885-05-22）",
+  "country": "法国",
+  "birth": "1802-02-26",
+  "death": "1885-05-22",
+  "birth_year": 1802,
+  "death_year": 1885,
+  "era": "近代",
+  "summary": "雨果，贝桑松人（拿破仑麾下将军之子），法国浪漫主义运动的领袖（Britannica：'the most important of the French Romantic writers'）。1827年《克伦威尔序》为浪漫主义宣言（Britannica）；1830年《欧那尼》上演之战成为浪漫派战胜古典派的象征（Britannica：'Battle of Hernani' victory）。1841年入法兰西学院，1851年因反对路易-拿破仑政变流亡国外十九年（Britannica：exile 1851–70），期间写成《悲惨世界》（1862，Britannica）。1885年5月22日卒于巴黎，国葬入先贤祠（通说待核）。",
+  "timeline": [
+    {"year": "1802-02-26", "text": "生于贝桑松（Britannica：Born Feb. 26, 1802, Besançon）；母为保王派，少年倾向保王主义（Britannica：royalist mother）。", "src": "B040"},
+    {"year": "1819—1822", "text": "创办《文学保守者》杂志（1819—21，Britannica）；1822年与阿黛尔·富歇结婚（Britannica：married Adèle Foucher (1822), five children）。", "src": "B040"},
+    {"year": "1827", "text": "《克伦威尔》序言发表——浪漫主义宣言（Britannica：Preface to Cromwell (1827) set out his Romantic doctrine）。", "src": "B040"},
+    {"year": "1830", "text": "《欧那尼》上演成功——'艾那尼之战'浪漫派对古典派的胜利（Britannica）；同年《巴黎圣母院》出版（Britannica：Notre-Dame de Paris (1831)——注意 Britannica 作家条记1831，作品通说1831年1—3月连载后出版，本页从 Britannica 口径并待核）。", "src": "B040"},
+    {"year": "1841—1848", "text": "入选法兰西学院（1841，Britannica）；1845年入贵族院（Britannica：Chamber of Peers (1845)）；1843年女儿莱奥波尔蒂娜溺亡（Britannica：Daughter Léopoldine drowned (1843)）——悲痛日后汇入《静观集》（Britannica：grief later shaped Les Contemplations）。", "src": "B040"},
+    {"year": "1848—1851", "text": "1848年革命后当选议员；反对路易-拿破仑政变（1851年12月）流亡布鲁塞尔、泽西岛、根西岛（Britannica：fled to Brussels — beginning exile (1851–70)）。", "src": "B040"},
+    {"year": "1852—1862", "text": "流亡写作：《惩罚集》（1853）、《静观集》（1856）；《悲惨世界》1862年出版——'instant popular success'（Britannica）。", "src": "B015"},
+    {"year": "1870—1885", "text": "帝国倒台后归国（1870）；普法战争与巴黎公社期间的政治姿态（通说待核）；晚年著《九三年》（1874，通说待核）；1885年5月22日卒于巴黎。", "src": "B040"},
+    {"year": "1885-06-01", "text": "国葬：灵柩经凯旋门下安放一夜，送葬者二百万人之说（通说待核），葬入先贤祠。", "src": "B040"}
+  ],
+  "major_works": [
+    {"work_id": "balimingwuyuan", "note": "1831（Britannica 口径）"},
+    {"work_id": "beican", "note": "1862；'instant popular success'"},
+    {"title": "惩罚集（1853）、静观集（1856）", "note": "诗集两峰（Britannica 列举）"},
+    {"title": "九三年（1874）", "note": "晚年小说（通说）"}
+  ],
+  "style": [
+    "'同时代响亮的回声'：Britannica 记其写作观——要做时代的'sonorous echo'（响亮的回声），融政治、哲学、宗教与社会关怀（Britannica）。",
+    "对照原则（美与丑、崇高与怪诞并存）：'fused the contemporary with the apocalyptic'（Britannica）——《克伦威尔序》的理论实践。",
+    "格言式的滔滔雄辩：人物台词与叙述均如演说（通说）。",
+    "惊人的日产量：'每天写100行诗或20页散文'（Britannica：Wrote '100 lines of verse or 20 pages of prose each morning'）。"
+  ],
+  "status": "Britannica 称雨果为'法国浪漫主义作家中最重要者'：法国视其为最伟大的诗人，外国读者更知其小说（Britannica：France ranks him among its greatest poets; abroad better known for his novels）。作为'人民爱戴的作家'（Britannica：a beloved people's writer），他象征了文学介入政治的19世纪范式——流亡十九年以笔抗暴，死后享受国葬（通说待核）。雨果名言'世界上最宽阔的是海洋……'等在中国流传甚广（通说待核）。",
+  "sources": ["B040", "B015"],
+  "dates_source": "B040",
+  "pending": [
+    "《巴黎圣母院》出版年（Britannica 作家条作1831；通行出版史1831年3月）与连载细节待核。",
+    "1885年送葬人数（'二百万人'说）与葬仪细节待核。",
+    "《九三年》（1874）等晚年作品年份待核。",
+    "朱丽叶·德鲁埃（情人与终生通信者）的角色待核。"
+  ]
+}

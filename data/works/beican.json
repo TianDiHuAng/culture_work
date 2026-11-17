@@ -1,0 +1,97 @@
+{
+  "id": "beican",
+  "title": "悲惨世界",
+  "original_title": "Les Misérables（悲惨世界/可怜的人们）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "hugo",
+  "author_name": "维克多·雨果",
+  "year_display": "1862年出版（Britannica），流亡根西岛期间完成",
+  "year_sort": 1862,
+  "background": [
+    "酝酿近二十年：雨果1840年代即有'苦人书'（Les Misères）计划，流亡期间（1851—70，Britannica）完成——'partly as relief from grief'（部分为排解丧女之痛，Britannica：Wrote Les Misérables (published 1862) partly as relief from grief after long interruptions）。",
+    "出版即成功：1862年出版，'instant popular success'（一炮而红，Britannica），迅速译成多国文字（Britannica：Quickly translated into several languages）。",
+    "材料来源：苦役犯皮埃尔·莫兰的真实故事（救童自杀，通说待核）、雨果1846年在巴黎街头目击士兵押送戴镣囚徒的场面（通说待核）。"
+  ],
+  "outline": [
+    "第一部（芳汀）：1815年——苦役犯冉阿让因偷一块面包获刑19年出狱（Britannica：imprisoned 19 years for stealing a loaf of bread）；被主教米里哀收留，偷银器却被主教以'礼物'开脱——'我用这银子赎回了你的灵魂'（大意，原文待核）。改名马德兰，发明工艺成为市长、工厂主。女工芳汀被逐出工厂沦落（Britannica：Fantine, an impoverished single mother, turns to prostitution to provide for her daughter），临终托孤；沙威警督穷追不舍（Britannica：relentlessly pursued by the strict police inspector Javert）。",
+    "第二部（珂赛特与马吕斯）：冉阿让赎出珂赛特（Britannica：Valjean adopts Cosette）隐居巴黎；1832年六月起义，马吕斯（贵族出身的青年共和派）参战，冉阿让把他从街垒救出、通过下水道背负而出（Britannica：Valjean's rescue of Marius through the Paris sewers）；滑铁卢一章（全书中断式的战争大场面）讲述德纳第'盗尸发财'的前史（Britannica：famous episodes include a Waterloo chapter）。",
+    "第三部（终局）：德纳第（无恶不作的'从容的恶棍'）的真相揭开；沙威在宽恕面前崩溃投河；冉阿让向马吕斯坦白苦役犯身份遭拒，晚年孤独，临终被珂赛特夫妇寻回——在'死亡之烛'下说出'死亡不是熄灯，而是拿走障碍'（大意，原文待核）。"
+  ],
+  "characters": [
+    {"name": "冉阿让", "identity": "苦役犯→市长→慈父", "note": "从'恨'到'爱'的 converter（转变）——米里哀主教一句话改变的一生"},
+    {"name": "米里哀主教", "identity": "迪涅主教", "note": "'烛台'的赠予者——全书道德起点"},
+    {"name": "沙威", "identity": "警探", "note": "法律教条主义者：无法接受'苦役犯行善'而投河（Britannica 叙其追踪）"},
+    {"name": "芳汀", "identity": "女工·珂赛特之母", "note": "被社会步步碾碎的母亲——'悲惨世界'最赤裸的受害者"},
+    {"name": "珂赛特", "identity": "芳汀之女", "note": "从德纳第客栈的'灰姑娘'到马吕斯之妻"},
+    {"name": "马吕斯", "identity": "青年共和派", "note": "1832年六月起义的参与者（Britannica：a student revolutionary）"},
+    {"name": "德纳第", "identity": "客栈老板·恶棍", "note": "'从容的恶棍'——恶的平庸形态"},
+    {"name": "爱潘妮、伽弗洛什", "identity": "德纳第之女与子", "note": "巴黎街头的流浪者群像（伽弗洛什：街头之王的精灵）"}
+  ],
+  "themes": [
+    "'悲惨'的系统性：法律、教育、就业、救济——每一条社会链条都在制造悲惨（其序言'只要……本世纪三大问题……'的表述，原文待核）。",
+    "法律与恩典的冲突：沙威（法）与米里哀（恩）是冉阿让的两极——'法'在恩面前自我崩溃（沙威之死）。",
+    "起义的正当性与代价：1832年六月起义的歌（'你可听见人民的歌声'意——ABC 朋友们与伽弗洛什的死亡）。",
+    "恶的系谱：德纳第式的'从容之恶'比激情之罪更可怕（通说解读）。",
+    "艺术特点：全景式插叙（滑铁卢、巴黎下水道史、修道院）、悬念式情节（'plotted like a detective story'——Britannica：plotted like a detective story）与雄辩式叙述的结合。"
+  ],
+  "influence": [
+    {"text": "Britannica（Les Misérables 条目）：1862年 instant popular success；'a vast panorama of Parisian society and its underworld'（巴黎社会与地下世界的巨大全景）。", "source": "B015"},
+    {"text": "Britannica：对财富分配、司法制度、工业化与共和主义的批判——19世纪社会小说的巅峰表述。", "source": "B015"},
+    {"text": "Britannica（Hugo 条目）：'instant popular success'；该书与《巴黎圣母院》构成雨果国际声望的支柱。", "source": "B040"},
+    {"text": "跨媒介：音乐剧《悲惨世界》（1985伦敦版等，通说待核）、多次电影改编（1998年 Liam Neeson 版与2012年音乐剧电影——Britannica 记1998年电影'critically acclaimed but underperformed at the box office'）。", "source": "B015"}
+  ],
+  "reading": {
+    "difficulties": [
+      "120余万字的巨著：插叙（滑铁卢、下水道、修道院、黑话）极多——初读可跳插叙回补。",
+      "1832年六月起义的历史背景（拉马克将军之死、共和派）需要注释。",
+      "雄辩式议论（ Bishop 篇、1832年政治论）与情节节奏不同。"
+    ],
+    "editions": [
+      "李丹、方于译《悲惨世界》（人民文学出版社，五卷本）：通行标准译本。",
+      "郑克鲁译本（上海译文出版社）：另一选择。",
+      "英译：Norman Denny（Penguin）或 Julie Rose（Modern Library，通说待核）。"
+    ],
+    "order": "先读主教与冉阿让（第一部前几章）与'滑铁卢'插叙 → 再按五部推进 → 精读'沙威在河堤上'与'最后一口气息'两章 → 对照音乐剧唱段（'I Dreamed a Dream''Do You Hear the People Sing'）理解其传播。"
+  },
+  "pending": [
+    "连载与单行本细节（1862年 Brussels Lacroix 版分部出版）待核。",
+    "莫兰原型与1846年街头目击的史料出处待核。",
+    "序言'三大问题'原文逐字核对照李丹方于译本。",
+    "音乐剧（1980巴黎/1985伦敦）与电影改编年表待核。"
+  ],
+  "sources": ["B015", "B040"],
+  "year_source": "B015",
+  "author_source": "B040",
+  "related_works": ["balimingwuyuan", "gaolaotou", "zuiyufa"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《悲惨世界》人物命运关系图",
+    "nodes": [
+      {"id": "valjean", "label": "冉阿让", "x": 340, "y": 180, "color": "main", "sub": "苦役犯→慈父"},
+      {"id": "bishop", "label": "米里哀主教", "x": 120, "y": 70, "color": "gold", "sub": "银烛台"},
+      {"id": "javert", "label": "沙威", "x": 570, "y": 90, "color": "antagonist", "sub": "法律化身"},
+      {"id": "fantine", "label": "芳汀", "x": 130, "y": 320, "color": "family", "sub": "珂赛特母"},
+      {"id": "cosette", "label": "珂赛特", "x": 340, "y": 340, "color": "family", "sub": "养女"},
+      {"id": "marius", "label": "马吕斯", "x": 560, "y": 340, "color": "main", "sub": "共和青年"},
+      {"id": "thénardier", "label": "德纳第", "x": 340, "y": 405, "color": "antagonist", "sub": "从容之恶"},
+      {"id": "gavroche", "label": "伽弗洛什", "x": 100, "y": 405, "color": "plain", "sub": "街头的精灵"}
+    ],
+    "edges": [
+      {"a": "bishop", "b": "valjean", "label": "救赎起点"},
+      {"a": "javert", "b": "valjean", "label": "追捕→崩溃", "style": "dashed"},
+      {"a": "valjean", "b": "cosette", "label": "养育"},
+      {"a": "fantine", "b": "cosette", "label": "托孤"},
+      {"a": "cosette", "b": "marius", "label": "相恋"},
+      {"a": "valjean", "b": "marius", "label": "下水道救出"},
+      {"a": "thénardier", "b": "cosette", "label": "虐待童年", "style": "dashed"},
+      {"a": "thénardier", "b": "gavroche", "label": "父子（弃养）"}
+    ]
+  }
+}

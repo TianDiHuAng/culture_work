@@ -1,0 +1,96 @@
+{
+  "id": "zuiyufa",
+  "title": "罪与罚",
+  "original_title": "Преступление и наказание / Prestupleniye i nakazaniye（罪与罚）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（心理小说）",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "dostoevsky",
+  "author_name": "费奥多尔·陀思妥耶夫斯基",
+  "year_display": "1866年（文学期刊连载；1867年单行本——Britannica）",
+  "year_sort": 1866,
+  "background": [
+    "发表（Britannica Crime 条目）：'First published in 1866'，'originally published serially in a literary journal before appearing in book form in 1867'——即1866年《俄国导报》连载（刊名本条未载，通说确认）、1867年出单行本。",
+    "创作背景：1865—66年陀思妥耶夫斯基负债累累、婚丧接连打击；小说写作于特维尔旅馆与彼得堡之间（通说待核）。其思想语境：1860年代俄国'虚无主义'思潮、功利主义与虚无主义者'超人论'（'普通人与非凡人'的划分）是拉斯柯尔尼科夫理论的直接来源（通说待核）。",
+    "Britannica 定位（Vybarr Cregan-Reid 撰）：'a psychological novel, described as a study of guilt's psychopathology'（罪感的精神病理学研究）——'one of the finest studies of the psychopathology of guilt written in any language'（任何语言中最出色的罪感心理研究之一）。"
+  ],
+  "outline": [
+    "犯罪（第一部）：圣彼得堡的贫苦辍学大学生罗季翁·拉斯柯尔尼科夫写出《论犯罪》论文——人分'平凡'与'非凡'，非凡人（拿破仑式人物）'有权跨越'（'right to transgress'——Britannica：theories of utilitarian morality and that extraordinary people have a 'right to transgress'）。他杀死放高利贷的老太婆阿廖娜，意外又杀死撞见的妹妹莉扎薇塔。",
+    "犯罪后的热病（第二、三、四部）：' feverish compelling tone'（Britannica）——他高烧、恍惚，在母亲与妹妹杜尼娅的来信（杜尼娅将被卢仁'娶为牺牲'）中挣扎；结识酒徒马尔梅拉多夫与被迫卖身的索尼娅（Britannica：Sonya Marmeladova, forced into prostitution, becomes a symbol of Christian goodness）。波尔菲里警官认出他：三次'审讯'（Britannica：Detective Porfiry uses psychological pressure）以心理逼近而无需物证。",
+    "转折与自首：斯维德里盖洛夫（另一个'越权者'的失败样本）在场；索尼娅读'拉撒路复活'章，劝他'去十字路口亲吻大地、向全世界认罪'（通说待核）。拉斯柯尔尼科夫自首——另一人先顶罪后他坦白（Britannica：another man initially confesses before Raskolnikov turns himself in）。",
+    "尾声：西伯利亚八年苦役（Britannica：Sentenced to eight years' hard labour in Siberia），索尼娅随行；大病一场后——'happiness must be earned by suffering'（幸福须经苦难赢得——Britannica：he realizes happiness 'must be earned by suffering'）的顿悟，'新的故事开始了'。"
+  ],
+  "characters": [
+    {"name": "拉斯柯尔尼科夫", "identity": "辍学法科生", "note": "'非凡人理论'的实验者与受害者——Britannica 称其为 poor ex-student"},
+    {"name": "索尼娅·马尔梅拉多娃", "identity": "被迫卖身的少女", "note": "'基督式善的象征'（Britannica：a symbol of Christian goodness）——以受难唤醒自首"},
+    {"name": "波尔菲里", "identity": "预审官", "note": "'心理侦探'——以三次谈话完成猫鼠游戏（Britannica：uses psychological pressure）"},
+    {"name": "斯维德里盖洛夫", "identity": "地主·色魔·'非凡人'的失败镜像", "note": "无道德束缚者——最终自杀，是拉斯柯尔尼科夫理论的'幽灵对照'（通说解读）"},
+    {"name": "杜尼娅", "identity": "拉斯柯尔尼科夫之妹", "note": "拒绝做卢仁的'牺牲'——刚烈的女性"},
+    {"name": "马尔梅拉多夫", "identity": "酒徒小官吏", "note": "'被侮辱与被损害的'的经典演讲者（Britannica：notable psychological portraits of Marmeladov and Svidrigailov）"},
+    {"name": "拉祖米欣", "identity": "同窗挚友", "note": "健康理性的对照（通说）"}
+  ],
+  "themes": [
+    "'非凡人'的权力论：功利主义的杀人许可——一条命换百条命的算术——被小说用全部重量摧毁（Britannica：theories of utilitarian morality）。",
+    "罪不在刑而在心：真正的'罚'在杀人后的孤独与热病——psychopathology of guilt（Britannica）。",
+    "索尼娅的受难之道：以'拉撒路复活'读经场景完成的救赎预告——苦难即救赎之路（Britannica：atonement is the only path to salvation——其 AI 摘要语，本页转述并待核）。",
+    "都市的实验场：彼得堡的阁楼、酒馆、警察局——陀思妥耶夫斯基的城市是'发烧的机器'（通说解读）。",
+    "艺术特点：复调结构（每个人物都在争辩）、 psychopathy 的细节堆叠、场景的极端浓缩（自首与尾声）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Crime and Punishment 条目）：Dostoyevsky's 'first masterpiece'（第一部杰作）；'one of the finest studies of the psychopathology of guilt written in any language'。", "source": "B018"},
+    {"text": "Britannica（Dostoyevsky 条目）：影响尼采、弗洛伊德、萨特与现代主义——存在主义与心理学的源头之一。", "source": "B042"},
+    {"text": "改编：多次电影与戏剧改编（1935/1970/2007等版本，通说待核）。", "source": "B018"},
+    {"text": "文学回响：加缪《局外人》的'荒诞杀人'、村上春树的引用——'罪与罚'成为世界文学的通用框架（通说待核）。", "source": "B042"}
+  ],
+  "reading": {
+    "difficulties": [
+      "俄国人名三段式（名+父称+姓）与昵称系统（罗佳、阿廖娜）需先适应。",
+      "心理独白与梦（鞭打母马之梦等）密集——梦境是其思想系统的钥匙。",
+      "第一部情节极简而第二部起心理翻滚——不要期待侦探小说的速度。"
+    ],
+    "editions": [
+      "岳麟译《罪与罚》（上海译文出版社）：通行本。",
+      "朱海观/王汶译本（人民文学出版社）：另一选择。",
+      "曾思艺译本（人民文学出版社'名著名译'）：近年译本（信息待核）。"
+    ],
+    "order": "通读六部+尾声 → 精读第1部第5章（杀人前夜的理论与实施）与第4部第4章（读拉撒路）→ 对照《地下室手记》看'地下室人'与拉斯柯尔尼科夫的血缘。"
+  },
+  "pending": [
+    "《俄国导报》1866年1—12月连载与1867年单行本（Suvorin 书局说）细节待核。",
+    "'拉撒路复活'章（第4部第4章）与《约翰福音》的对应逐字核对待完成。",
+    "曾思艺/岳麟等译本出版信息待核。",
+    "波尔菲里原型（彼得堡警察史）待核。"
+  ],
+  "sources": ["B018", "B042"],
+  "year_source": "B018",
+  "author_source": "B042",
+  "related_works": ["zhanzheng", "beican", "bianxingji"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《罪与罚》人物关系与道德对位图",
+    "nodes": [
+      {"id": "raskol", "label": "拉斯柯尔尼科夫", "x": 340, "y": 150, "color": "main", "sub": "'非凡人'理论者"},
+      {"id": "sonya", "label": "索尼娅", "x": 340, "y": 340, "color": "gold", "sub": "受难的圣愚"},
+      {"id": "porfiry", "label": "波尔菲里", "x": 130, "y": 250, "color": "other", "sub": "心理侦探"},
+      {"id": "svidrig", "label": "斯维德里盖洛夫", "x": 560, "y": 130, "color": "antagonist", "sub": "'非凡人'的镜像"},
+      {"id": "dunya", "label": "杜尼娅", "x": 140, "y": 70, "color": "family", "sub": "妹妹"},
+      {"id": "marmel", "label": "马尔梅拉多夫", "x": 560, "y": 250, "color": "plain", "sub": "酒徒"},
+      {"id": "luzhin", "label": "卢仁", "x": 340, "y": 60, "color": "antagonist", "sub": "功利主义求婚者"},
+      {"id": "razumi", "label": "拉祖米欣", "x": 130, "y": 420, "color": "plain", "sub": "挚友"}
+    ],
+    "edges": [
+      {"a": "raskol", "b": "sonya", "label": "读经·救赎"},
+      {"a": "porfiry", "b": "raskol", "label": "三次心理围猎", "style": "dashed"},
+      {"a": "svidrig", "b": "raskol", "label": "镜像对照", "style": "dashed"},
+      {"a": "luzhin", "b": "dunya", "label": "伪善求婚", "style": "dashed"},
+      {"a": "dunya", "b": "raskol", "label": "兄妹"},
+      {"a": "marmel", "b": "sonya", "label": "父女"},
+      {"a": "razumi", "b": "raskol", "label": "挚友"}
+    ]
+  }
+}
