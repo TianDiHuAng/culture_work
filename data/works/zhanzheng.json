@@ -1,0 +1,98 @@
+{
+  "id": "zhanzheng",
+  "title": "战争与和平",
+  "original_title": "Война и мир / Voyna i mir（战争与和平）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇史诗小说（历史小说+历史哲学论说）",
+  "genre_group": "小说",
+  "language": "俄语（叙事部分夹法语）",
+  "author_id": "tolstoy",
+  "author_name": "列夫·托尔斯泰",
+  "year_display": "1865—1869（1865年以《1805》为题连载后中断；1868年出三卷、1869年出齐六卷——Britannica）",
+  "year_sort": 1869,
+  "background": [
+    "创作与出版（Britannica，Kate Lohnes 撰）：1865年起以《1805》为题在《俄国导报》（Russkiy Vestnik）连载，'reception was indifferent'（反响冷淡）而中断；后直接出书——1868年前出三卷（'selling rapidly'）、1869年出齐六卷，初版'超过1200页'（Britannica：filling 'more than 1,200 pages when first published'），由艺术家米哈伊尔·巴希洛夫插图（Britannica：Artist Mikhail Bashilov was hired to illustrate）。",
+    "体量：逾1000页、约一百万词（Britannica：At over 1,000 pages and about one million words, it is 'one of the world's longest novels'）。",
+    "题材背景：1805—1820年的俄国——亚历山大一世时代、拿破仑战争（奥斯特里茨、博罗季诺）、1812年卫国战争与火烧莫斯科，直至十二月党人前夜。"
+  ],
+  "outline": [
+    "开篇（1805年）：圣彼得堡安娜·舍勒夫人沙龙——皮埃尔·别祖霍夫（私生子，将获巨产）、安德烈·博尔孔斯基（厌倦上流的伯爵之子）、库拉金与罗斯托夫两家登场（Britannica：Opens in St. Petersburg, 1805, at a party introducing Pierre Bezukhov, Andrey Bolkonsky...）。",
+    "战争线：安德烈任库图佐夫副官，奥斯特里茨负伤'仰望高天'（Britannica：Andrey is wounded at Austerlitz and presumed dead）；1812年博罗季诺会战——俄国'胜负之外'的精神真相；皮埃尔在莫斯科大火与战俘营中遇见农民普拉东·卡拉塔耶夫（Britannica：befriends the peasant Platon Karatev）——'泥土的智慧'。",
+    "和平线：皮埃尔与浪荡的海伦·库拉金娜婚姻破裂、决斗、入共济会（Britannica：Pierre marries the unfaithful Helene Kuragina, fights a duel, joins the Freemasons）；安德烈与娜塔莎·罗斯托娃订婚后因其（短暂）失贞而退婚（Britannica：Andrey becomes engaged to Natasha Rostov...on her unfaithfulness he rejects her）；罗斯托夫家破产（尼古拉赌债，Britannica：Nikolay incurs gambling debts）。",
+    "结局：安德烈伤重而死前宽恕一切；皮埃尔获释归来娶娜塔莎（'four children'，Britannica）；尼古拉娶安德烈之妹玛丽亚（Britannica：Nikolay marries Andrey's sister Mary）。尾声：1813—1820年，两对夫妇的日常与彼特的'未来十二月党人'暗示——历史哲学论说（'自由与必然'）作为第二尾声收束全书（Britannica：narrative, fictional biographies, and essays on the philosophy of history）。"
+  ],
+  "characters": [
+    {"name": "皮埃尔·别祖霍夫", "identity": "私生子→巨产继承者", "note": "寻找生命意义的'真诚的胖子'——全书的精神探索者"},
+    {"name": "安德烈·博尔孔斯基", "identity": "伯爵之子·军官", "note": "从幻灭到'高天'的顿悟再到宽恕而逝——贵族理想的完成与终结"},
+    {"name": "娜塔莎·罗斯托娃", "identity": "罗斯托夫家小女儿", "note": "'生命的活力'化身：从少女到主妇（Britannica 记其失贞风波与婚后形象）"},
+    {"name": "库图佐夫", "identity": "俄军统帅", "note": "托尔斯泰历史哲学的化身：顺应'事件之流'而非'指挥'历史（通说解读）"},
+    {"name": "拿破仑", "identity": "法国皇帝", "note": "'伟人史观'的反讽对象——被写成自我欺骗的凡人（通说）"},
+    {"name": "海伦·库拉金娜", "identity": "彼得堡第一美人", "note": "上流社会虚荣的化身"},
+    {"name": "普拉东·卡拉塔耶夫", "identity": "农民士兵", "note": "'人民的智慧'——皮埃尔的的精神导师（Britannica：befriends the peasant Platon Karatev）"},
+    {"name": "老罗斯托夫伯爵夫妇、索尼娅", "identity": "罗斯托夫家", "note": "热情而破产的'好心人家'"}
+  ],
+  "themes": [
+    "历史的哲学：'伟人不创造历史，历史由千万个意志的总和创造'——尾声论说（自由与必然）把史诗推向哲学（Britannica：essays on the philosophy of history；rejection of great-man history）。",
+    "生命力的颂歌：罗斯托夫家的音乐、狩猎、舞会——'生活本身'超过一切理念（Britannica：realistic family life...drawn partly from Tolstoy's own family）。",
+    "死亡与和解：安德烈之死、老伯爵夫人之死——'爱是死亡之外的答案'（通说解读）。",
+    "人民与贵族：卡拉塔耶夫与库图佐夫代表的'俄国性'——农民的忍耐与顺其自然（通说解读，学界有争议）。",
+    "艺术特点：五百家系的人物织体、心理'显微镜'（Britannica：breaking a single mental act into infinitesimal steps）、俄法双语的社会层理。"
+  ],
+  "influence": [
+    {"text": "Britannica（War and Peace 条目）：'generally regarded as a masterwork of Russian literature and one of the world's greatest novels'（俄国文学杰作、世界最伟大小说之一）；'noted for its mastery of realistic detail and variety of psychological analysis'。", "source": "B017"},
+    {"text": "Britannica（Tolstoy 条目）：伍尔夫'the greatest of all novelists'、巴别尔'如果世界会写作'之评。", "source": "B043"},
+    {"text": "跨媒介：多次电影改编（Bondarchuk 1966—67苏联版获奥斯卡最佳外语片，通说待核）与电视剧改编。", "source": "B017"},
+    {"text": "历史小说的范式：《战争与和平》几乎定义了'家庭小说+战争史诗'的混合体（Britannica：virtually defining the form for many readers）。", "source": "B043"}
+  ],
+  "reading": {
+    "difficulties": [
+      "百万字、550余个人物（通说数字待核）——先读人物表与1805—1812年大事记。",
+      "法语句段（当时贵族社交语言）在译本中常夹注，勿跳过——它本身是阶级符号。",
+      "第二尾声的历史哲学论说可最后读。"
+    ],
+    "editions": [
+      "刘辽逸译《战争与和平》（人民文学出版社，四卷本）：通行本。",
+      "草婴译本（上海译文出版社）：另一经典选择。",
+      "英译：Maude 夫妇译本（Oxford）与 Pevear & Volokhonsky 译本（2007，通说待核）。"
+    ],
+    "order": "先读第一部前几章（沙龙）与'奥斯特里茨的天空'（第一卷第3部）→ 通读战争线（博罗季诺）→ 通读和平线（娜塔莎舞会、失贞风波）→ 精读安德烈之死与尾声。"
+  },
+  "pending": [
+    "连载细节（《俄国导报》1865年第2期起，题《1805》）与'因反响冷淡而中断'的原文核对（Britannica 已述）。",
+    "人物总数（550余人说）待核。",
+    "1966年 Bondarchuk 电影的奥斯卡获奖细节待核。",
+    "尾声中彼特（Nikolenka）的十二月党人暗示（学界通说）待核。"
+  ],
+  "sources": ["B017", "B043"],
+  "year_source": "B017",
+  "author_source": "B043",
+  "related_works": ["zuiyufa", "baofali", "pingfan"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《战争与和平》三大家族人物关系图",
+    "nodes": [
+      {"id": "pierre", "label": "皮埃尔", "x": 340, "y": 130, "color": "main", "sub": "别祖霍夫"},
+      {"id": "andrey", "label": "安德烈", "x": 120, "y": 150, "color": "main", "sub": "博尔孔斯基"},
+      {"id": "natasha", "label": "娜塔莎", "x": 340, "y": 300, "color": "family", "sub": "罗斯托娃"},
+      {"id": "helen", "label": "海伦", "x": 560, "y": 150, "color": "plain", "sub": "库拉金娜"},
+      {"id": "nikolay", "label": "尼古拉", "x": 180, "y": 330, "color": "family", "sub": "罗斯托夫"},
+      {"id": "kutuzov", "label": "库图佐夫", "x": 60, "y": 300, "color": "gold", "sub": "统帅"},
+      {"id": "napoleon", "label": "拿破仑", "x": 620, "y": 300, "color": "antagonist"},
+      {"id": "platon", "label": "卡拉塔耶夫", "x": 450, "y": 400, "color": "plain", "sub": "农民智慧"},
+      {"id": "marya", "label": "玛丽亚", "x": 240, "y": 400, "color": "family", "sub": "博尔孔斯卡娅"}
+    ],
+    "edges": [
+      {"a": "pierre", "b": "helen", "label": "破裂婚姻", "style": "dashed"},
+      {"a": "pierre", "b": "natasha", "label": "终成眷属"},
+      {"a": "andrey", "b": "natasha", "label": "订婚·风波", "style": "dashed"},
+      {"a": "andrey", "b": "kutuzov", "label": "副官"},
+      {"a": "nikolay", "b": "marya", "label": "终成眷属"},
+      {"a": "pierre", "b": "platon", "label": "战俘营相遇"},
+      {"a": "kutuzov", "b": "napoleon", "label": "博罗季诺对峙"}
+    ]
+  }
+}

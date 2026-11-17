@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="560.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="422.0" y="131.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="144.0" font-size="12" fill="#555" text-anchor="middle">破裂婚姻</text>
+<line x1="340.0" y1="130.0" x2="340.0" y2="300.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="206.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="219.0" font-size="12" fill="#555" text-anchor="middle">终成眷属</text>
+<line x1="120.0" y1="150.0" x2="340.0" y2="300.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="198.4" y="216.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">订婚·风波</text>
+<line x1="120.0" y1="150.0" x2="60.0" y2="300.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="74.0" y="216.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="90.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">副官</text>
+<line x1="180.0" y1="330.0" x2="240.0" y2="400.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="182.0" y="356.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="210.0" y="369.0" font-size="12" fill="#555" text-anchor="middle">终成眷属</text>
+<line x1="340.0" y1="130.0" x2="450.0" y2="400.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="361.0" y="256.0" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="395.0" y="269.0" font-size="12" fill="#555" text-anchor="middle">战俘营相遇</text>
+<line x1="60.0" y1="300.0" x2="620.0" y2="300.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="300.0" y="291.0" width="80.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="304.0" font-size="12" fill="#555" text-anchor="middle">博罗季诺对峙</text>
+<rect x="305.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">皮埃尔</text>
+<rect x="314.0" y="149.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">别祖霍夫</text>
+<rect x="85.5" y="132.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="120.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">安德烈</text>
+<rect x="88.5" y="169.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">博尔孔斯基</text>
+<rect x="305.5" y="282.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="340.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">娜塔莎</text>
+<rect x="314.0" y="319.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">罗斯托娃</text>
+<rect x="533.0" y="132.5" width="54.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">海伦</text>
+<rect x="534.0" y="169.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">库拉金娜</text>
+<rect x="145.5" y="312.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="180.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">尼古拉</text>
+<rect x="154.0" y="349.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="180.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">罗斯托夫</text>
+<rect x="18.0" y="282.5" width="84.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="60.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">库图佐夫</text>
+<rect x="45.0" y="319.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="60.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">统帅</text>
+<rect x="585.5" y="282.5" width="69.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="620.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">拿破仑</text>
+<rect x="400.5" y="382.5" width="99.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="450.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">卡拉塔耶夫</text>
+<rect x="424.0" y="419.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="450.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">农民智慧</text>
+<rect x="205.5" y="382.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="240.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">玛丽亚</text>
+<rect x="203.0" y="419.5" width="74.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="240.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">博尔孔斯卡娅</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《战争与和平》三大家族人物关系图</text>
+</svg>

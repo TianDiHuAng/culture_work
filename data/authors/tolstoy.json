@@ -1,0 +1,43 @@
+{
+  "id": "tolstoy",
+  "name": "托尔斯泰",
+  "foreign_name": "Leo Tolstoy（列夫·尼古拉耶维奇·托尔斯泰，1828-08-28 — 1910-11-07）",
+  "country": "俄国",
+  "birth": "1828-08-28",
+  "death": "1910-11-07",
+  "birth_year": 1828,
+  "death_year": 1910,
+  "era": "近代",
+  "summary": "托尔斯泰，图拉省亚斯纳亚·波良纳庄园主，'世界最伟大小说家之一'（Britannica，Gary Saul Morson 撰：《战争与和平》《安娜·卡列尼娜》被视为'历来最优秀的小说之列'）。克里米亚战争中在塞瓦斯托波尔从军（Britannica），《战争与和平》（1865—69）'几乎为许多读者定义了小说这一形式'（Britannica）。1870年代精神危机后成为道德宗教导师与非暴力不合作倡导者（Britannica：pacifist, advocate of nonresistance to evil），1901年被东正教会革除教籍（Britannica），1910年离家出走死于阿斯塔波沃车站。其'勿以暴力抗恶'深刻影响甘地（Britannica）。",
+  "timeline": [
+    {"year": "1828-08-28", "text": "生于亚斯纳亚·波良纳庄园（Britannica：Born August 28 [Sept. 9 N.S.], 1828, Yasnaya Polyana）；两岁丧母、九岁丧父（Britannica）。", "src": "B043"},
+    {"year": "1847", "text": "未获学位离开喀山大学，回庄园持家（Britannica：Left University of Kazan in 1847 without a degree）。", "src": "B043"},
+    {"year": "1851—1855", "text": "参军赴高加索与克里米亚（Britannica：fought in the Caucasus and the Crimean War (1853–56)）；《塞瓦斯托波尔故事》1855—56年发表使其成名（Britannica）。", "src": "B043"},
+    {"year": "1862", "text": "与索菲亚·别尔斯结婚（Britannica：He married Sofya (Sonya) Andreyevna Behrs in 1862）——她'手抄了多部手稿'（Britannica：she hand-copied several drafts）。", "src": "B017"},
+    {"year": "1863—1869", "text": "《战争与和平》写作与出版：1865年以《1805》为题在《俄国导报》连载后中断（Britannica），1868年前出三卷、1869年出齐六卷（Britannica）。", "src": "B017"},
+    {"year": "1873—1877", "text": "《安娜·卡列尼娜》（1875—77，Britannica：Anna Karenina (1875–77)）。", "src": "B043"},
+    {"year": "1870s末—1880s", "text": "精神危机与宗教转向（Britannica：Religious conversion after Anna Karenina (1870s spiritual crisis)）；《忏悔录》（1882，通说待核）；建立'托尔斯泰主义'：非暴力、素食、财产批判（Britannica：moral/religious teacher, pacifist）。", "src": "B043"},
+    {"year": "1901", "text": "被俄国东正教圣主教公会革除教籍（Britannica：excommunicated from the Russian Orthodox Church in 1901）。", "src": "B043"},
+    {"year": "1910-10-28/11-07", "text": "82岁离家出走（Britannica：Left the estate in 1910），11月7日（新历11月20日）死于阿斯塔波沃车站肺炎与心衰（Britannica：contracted pneumonia and died of heart failure at Astapovo railroad station）。", "src": "B043"}
+  ],
+  "major_works": [
+    {"work_id": "zhanzheng", "note": "1865—69；六卷史诗"},
+    {"title": "安娜·卡列尼娜（1875—77）", "note": "与《战争与和平》并列（Britannica：commonly seen as among the finest novels ever written）"},
+    {"title": "忏悔录、艺术论、天国在你们心中", "note": "转向后的思想著作（Britannica 列举 The Kingdom of God Is Within You, What Is Art?）"}
+  ],
+  "style": [
+    "'生活之流'的书写：Matthew Arnold 评语——托尔斯泰小说'不是一件艺术品，而是一段生活本身'（Britannica：'not a work of art but a piece of life'）。",
+    "心理的显微镜：'把一次心理活动拆成无穷小的步骤'（Britannica：observing minute shifts of consciousness...breaking a single mental act into infinitesimal steps）。",
+    "反英雄的史诗观：'拒绝伟人史观，而以普通人与偶然性书写历史'（Britannica：rejection of great-man history in favor of ordinary people and chance）。",
+    "说教的后期文体：民间故事的朴素语言（通说）。"
+  ],
+  "status": "Britannica 称托尔斯泰'widely regarded as one of the world's greatest novelists'；伍尔夫称他'the greatest of all novelists'（所有小说家中最伟大者，Britannica 引）；巴别尔说'如果世界会写作，它将像托尔斯泰那样写作'（Britannica 引 Isaak Babel）。其非暴力学说直接影响甘地与马丁·路德·金（Britannica：nonresistance doctrine influenced Mahatma Gandhi——MLK 关联见梭罗条Britannica口径）。'托尔斯泰主义'是20世纪和平主义与人道主义的重要源头。",
+  "sources": ["B043", "B017"],
+  "dates_source": "B043",
+  "pending": [
+    "离家出走的动因与细节（家庭财产争执、秘书切尔特科夫的角色）待核。",
+    "《忏悔录》（A Confession，1882）发表波折待核。",
+    "索菲亚手抄《战争与和平》七次说（常被引用的轶事）待核。",
+    "《哈吉穆拉特》遗作出版（1912）待核。"
+  ]
+}

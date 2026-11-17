@@ -1,0 +1,43 @@
+{
+  "id": "ibsen",
+  "name": "易卜生",
+  "foreign_name": "Henrik Ibsen（亨利克·易卜生，1828-03-20 — 1906-05-23）",
+  "country": "挪威",
+  "birth": "1828-03-20",
+  "death": "1906-05-23",
+  "birth_year": 1838,
+  "death_year": 1906,
+  "era": "近代",
+  "summary": "易卜生，挪威斯基恩人，现代戏剧的奠基者之一。父亲1836年破产使其少年贫苦，15岁起在格林斯塔德药房当学徒（Britannica）。23岁起任卑尔根挪威剧院驻团编剧（每年须交一部新剧，Britannica）；1864年起自愿流亡海外27年（罗马、德累斯顿、慕尼黑，Britannica），期间完成全部社会问题剧与象征剧。《玩偶之家》（1879）、《群鬼》（1881）、《人民公敌》（1882）、《野鸭》（1884）、《海达·高布乐》。Britannica（Robert M. Adams 撰）称其'把现实主义、社会批判的当代戏剧带给欧洲'、向舞台'引进了道德分析的新秩序'（introduced 'a new order of moral analysis'）。",
+  "timeline": [
+    {"year": "1828-03-20", "text": "生于斯基恩（Skien，Britannica：Born March 20, 1828, Skien, Norway）；1836年父亲破产，家道中落。", "src": "B044"},
+    {"year": "1843—1850", "text": "格林斯塔德药房学徒（Britannica：moved to Grimstad as an apothecary's apprentice），业余写诗与第一部剧《凯蒂来恩》（Catiline, 1850，Britannica）。", "src": "B044"},
+    {"year": "1851—1857", "text": "卑尔根挪威剧院驻团编剧（Britannica：Director/playwright at Bergen from age 23, required to write a new play yearly）。", "src": "B044"},
+    {"year": "1857—1862", "text": "任克里斯蒂安尼亚挪威剧院经理——剧院1862年破产（Britannica）。", "src": "B044"},
+    {"year": "1858", "text": "与苏珊娜·托雷森结婚（Britannica：Married Suzannah Thoresen, 1858）。", "src": "B044"},
+    {"year": "1864—1891", "text": "离国旅居27年（Britannica：Left Norway in 1864; lived abroad 27 years，主要在罗马、德累斯顿、慕尼黑）；《布朗德》（1866）、《培尔·金特》（1867，通说）与《玩偶之家》（1879）等相继问世。", "src": "B044"},
+    {"year": "1879—1884", "text": "社会问题剧高峰：《玩偶之家》（1879，Britannica：A Doll's House (1879)）、《群鬼》（1881）、《人民公敌》（1882）、《野鸭》（1884，Britannica 列举）。", "src": "B044"},
+    {"year": "1891—1906", "text": "回国定居克里斯蒂安尼亚；《海达·高布乐》（1890）、《建筑大师》（1892）、《当我们死者醒来》（1899，通说待核）。", "src": "B044"},
+    {"year": "1906-05-23", "text": "卒于克里斯蒂安尼亚（今奥斯陆），年七十八（Britannica）。", "src": "B044"}
+  ],
+  "major_works": [
+    {"work_id": "wanou", "note": "1879；'社会问题剧'代表作"},
+    {"title": "培尔·金特（1867）", "note": "诗剧（Britannica 列举 verse plays：Peer Gynt）"},
+    {"title": "群鬼（1881）、野鸭（1884）", "note": "问题剧与象征剧（Britannica）"}
+  ],
+  "style": [
+    "'分析式回顾'技法（Britannica：analytic exposition——a buried secret gradually unravels）：把过去的秘密在当下舞台上一层层揭开。",
+    "道德分析：'moral analysis set against a middle-class background with economy of action and rigorous, penetrating dialogue'（Britannica）。",
+    "中期向后期'自我回应'：'plays increasingly respond to and reverse their predecessors'（Britannica）——《玩偶之家》的出走被《群鬼》追问后果。",
+    "从诗剧到散文剧：早期《布朗德》《培尔·金特》用诗，此后转散文（Britannica：Early plays in verse, later ones in prose）。"
+  ],
+  "status": "Britannica 称易卜生为'19世纪晚期挪威最重要的剧作家'，其剧作把现实主义、社会批判的当代戏剧带到欧洲，向舞台'引进了道德分析的新秩序'。生前被守旧舆论称'Bad Old Man'（坏老头，Britannica）——《玩偶之家》与《群鬼》引发丑闻；后被进步剧场拥抱，影响萧伯纳与斯特林堡（Britannica：influenced writers like Shaw and Strindberg）。'一个问题剧'传统与当代戏剧的全部可能性都从他开始（'现代戏剧之父'为中国学界通行称谓，本页不引为权威）。",
+  "sources": ["B044", "B019"],
+  "dates_source": "B044",
+  "pending": [
+    "《培尔·金特》（1867）与格里格配乐（1875/1886）细节待核。",
+    "'现代戏剧之父'称谓的来源与中文语境确认待核。",
+    "《建筑师》（1892）、《从死者醒来》（1899）等晚期剧的年份细表待核。",
+    "挪威剧院破产（1862）的具体经过待核。"
+  ]
+}
