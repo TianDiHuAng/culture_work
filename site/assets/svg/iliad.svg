@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="200.0" y1="120.0" x2="90.0" y2="250.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="107.4" y="176.0" width="75.2" height="18" rx="3" fill="#fdf9f1"/><text x="145.0" y="189.0" font-size="12" fill="#555" text-anchor="middle">夺战礼·愤怒</text>
+<line x1="200.0" y1="120.0" x2="230.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="199.0" y="216.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="215.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">挚友</text>
+<line x1="480.0" y1="120.0" x2="230.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="339.0" y="216.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="355.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">杀死</text>
+<line x1="200.0" y1="120.0" x2="480.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="308.4" y="111.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">复仇·杀死</text>
+<line x1="610.0" y1="250.0" x2="480.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="513.4" y="176.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="545.0" y="189.0" font-size="12" fill="#555" text-anchor="middle">父子·赎尸</text>
+<line x1="480.0" y1="120.0" x2="430.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="427.0" y="216.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="455.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">夫妻诀别</text>
+<line x1="200.0" y1="120.0" x2="610.0" y2="250.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="371.0" y="176.0" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="405.0" y="189.0" font-size="12" fill="#555" text-anchor="middle">敌对者相泣</text>
+<line x1="200.0" y1="120.0" x2="90.0" y2="400.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="129.0" y="251.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="145.0" y="264.0" font-size="12" fill="#555" text-anchor="middle">战礼</text>
+<rect x="158.0" y="102.5" width="84.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="200.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">阿喀琉斯</text>
+<rect x="163.0" y="139.5" width="74.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="200.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">希腊第一勇士</text>
+<rect x="48.0" y="232.5" width="84.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="90.0" y="255.4" font-size="15" fill="#fff" text-anchor="middle">阿伽门农</text>
+<rect x="64.0" y="269.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="90.0" y="280.5" font-size="11" fill="#333" text-anchor="middle">联军统帅</text>
+<rect x="173.0" y="312.5" width="114.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="230.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">帕特罗克洛斯</text>
+<rect x="215.0" y="349.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="230.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">挚友</text>
+<rect x="438.0" y="102.5" width="84.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="480.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">赫克托耳</text>
+<rect x="448.5" y="139.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="480.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">特洛伊主将</text>
+<rect x="560.5" y="232.5" width="99.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="610.0" y="255.4" font-size="15" fill="#fff" text-anchor="middle">普里阿摩斯</text>
+<rect x="578.5" y="269.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="610.0" y="280.5" font-size="11" fill="#333" text-anchor="middle">特洛伊老王</text>
+<rect x="380.5" y="312.5" width="99.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="430.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">安德洛玛刻</text>
+<rect x="398.5" y="349.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="430.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">赫克托耳妻</text>
+<rect x="290.5" y="12.5" width="99.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="35.4" font-size="15" fill="#fff" text-anchor="middle">宙斯与诸神</text>
+<rect x="40.5" y="382.5" width="99.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="90.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">布里塞伊斯</text>
+<rect x="64.0" y="419.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="90.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">战礼之争</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《伊利亚特》两军主要人物关系图</text>
+</svg>

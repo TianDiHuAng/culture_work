@@ -1,0 +1,40 @@
+{
+  "id": "homer",
+  "name": "荷马",
+  "foreign_name": "Homer（Ὅμηρος，约前9或前8世纪活动）",
+  "country": "古希腊",
+  "birth": "约前8世纪（传说人物，生卒不详）",
+  "death": "不详",
+  "birth_year": -750,
+  "death_year": null,
+  "era": "古代",
+  "summary": "荷马，古希腊游吟诗人，《伊利亚特》与《奥德赛》的'presumed author'（假定作者，Britannica）。其人是否存在至今无定论（Homeric Question）：传统描绘为小亚细亚伊奥尼亚的盲诗人；多个希腊城市争夺'荷马之乡'的名分，'no authenticated local memory survived anywhere'（没有任何经核实的本地记忆留存，Britannica）。Milman Parry 的研究证明两大史诗源自数百年的口头传统。Britannica 称其为可能'one of the greatest literary artists'（世界文学最伟大的艺术家之一）。",
+  "timeline": [
+    {"year": "约前850—前750", "text": "传统纪年：希罗多德称荷马生活在其前400年（约前850年，Britannica）；学界主流把史诗写定于前8世纪中后期（Britannica Iliad 条目：late 8th century BC为主流，亦有7世纪说）。", "src": "B028"},
+    {"year": "传说中", "text": "出生地之争：士麦那（伊兹密尔）与基俄斯等地争夺荷马（Britannica：cities competed to claim him）；传统形象为盲诗人。", "src": "B028"},
+    {"year": "约前750—前650", "text": "史诗文本（伊利亚特15693行）在口传基础上写定；前630年为 terminus ante quem（Britannica Iliad 条目）。", "src": "B001"},
+    {"year": "前6—前2世纪", "text": "雅典泛雅典娜节上由 rhapsodes（吟诵者）按序诵读，文本渐趋固定（Britannica Iliad 条目）。", "src": "B001"},
+    {"year": "前3—前2世纪", "text": "亚历山大里亚学者（阿里斯塔科斯等）校订史诗；'荷马问题'的古代先声（通说待核）。", "src": "B028"},
+    {"year": "10世纪", "text": "现存最早完整抄本 Venetus A（威尼斯抄本A，含古代批注，Britannica Iliad 条目）。", "src": "B001"},
+    {"year": "1488", "text": "首部印刷版（editio princeps）在佛罗伦萨出版（Britannica Iliad 条目）。", "src": "B001"}
+  ],
+  "major_works": [
+    {"work_id": "iliad", "note": "15693行六音步史诗（Britannica）"},
+    {"work_id": "odyssey", "note": "12109行，24卷（Britannica Odyssey 条目）"}
+  ],
+  "style": [
+    "口头程式技艺：'stock epithets'与程式化短语（如'捷足的阿喀琉斯'）在行内自由组装（Britannica：Milman Parry 的口头传统研究）。",
+    "六音步长短短格（dactylic hexameter）：希腊史诗的标准格律（Britannica）。",
+    "明喻（simile）的巅峰运用：战争场景与日常生活互相映照。",
+    "客观叙事与神人交织：诸神直接介入战斗，人物在命运与选择间挣扎（Britannica Iliad 条目）。"
+  ],
+  "status": "荷马是西方文学的起点。Britannica 称荷马史诗'formed part of the educational foundation of the Greek world'（构成希腊世界的教育基础），经由罗马帝国与基督教时代仍是人文教育的脊梁（Britannica Homer 条目），并深刻影响了维吉尔《埃涅阿斯纪》与意大利文艺复兴（Britannica）。'荷马问题'——作者、写定年代、口头传统——至今仍是古典学的核心议题。两大史诗的现代译本层出不穷（伊利亚特英译从查普曼到艾米莉·威尔逊2023年译本，Britannica Iliad 条目）。",
+  "sources": ["B028", "B001", "B002"],
+  "dates_source": "B028",
+  "pending": [
+    "荷马其人是否实有，学界无定论（Britannica：scholars are uncertain whether Homer existed）。",
+    "两大史诗是否同一作者、是否由书写固定，均为'荷马问题'的未决部分（Britannica）。",
+    "生卒年不可能确定，本页 birth_year 以史诗写定期（约前750）示意而非断言其人生年。",
+    "'盲诗人'形象出自古代传记传统（Vitae Homeri），系伪传记（pseudobiographical fictions，Britannica Homer 条目）。"
+  ]
+}
