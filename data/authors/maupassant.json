@@ -1,0 +1,41 @@
+{
+  "id": "maupassant",
+  "name": "莫泊桑",
+  "foreign_name": "Guy de Maupassant（基·德·莫泊桑，1850-08-05 — 1893-07-06）",
+  "country": "法国",
+  "birth": "1850-08-05",
+  "death": "1893-07-06",
+  "birth_year": 1850,
+  "death_year": 1893,
+  "era": "近代",
+  "summary": "莫泊桑，诺曼底人，'公认最伟大的法国短篇小说家'（Britannica：Generally judged the greatest French short-story writer），1880—1890十年间写约300篇短篇（Britannica）。福楼拜的弟子——母亲是福楼拜挚友之妹，福楼拜'如子般爱他'并每周日指导其写作（Britannica：Flaubert called him 'my disciple and I love him like a son'）。1880年《羊脂球》一举成名；长篇有《一生》《漂亮朋友》等。42岁因梅毒引发的精神崩溃死于巴黎精神病院（Britannica）。",
+  "timeline": [
+    {"year": "1850-08-05", "text": "生于米罗梅斯尼尔城堡？（Britannica：birthplace disputed——生于近迪耶普的费康一带），父母1856年分离，随母居诺曼底（Britannica：Norman upbringing）。", "src": "B046"},
+    {"year": "1867—1869", "text": "被伊沃托修道院开除（1868，Britannica），勒阿弗尔中学毕业（1869，Britannica）。", "src": "B046"},
+    {"year": "1870—1871", "text": "参加普法战争，先列兵后军需（Britannica：served as private, then quartermaster）——《羊脂球》的素材源。", "src": "B046"},
+    {"year": "1872—1880", "text": "海军部、公共教育部小职员（Britannica：civil servant in the Ministries of Marine and Public Instruction）；1867年起受福楼拜指导（Britannica：introduced him to Flaubert in 1867）——'周日午餐'上的写作训练，并被引见左拉、屠格涅夫、龚古尔、亨利·詹姆斯（Britannica）。", "src": "B046"},
+    {"year": "1880-04", "text": "《梅塘之夜》合集发表《羊脂球》（Britannica：'Boule de suif' in Les Soirées de Médan (April 1880)）——一夜成名（福楼拜翌月去世，Britannica）。", "src": "B046"},
+    {"year": "1880—1890", "text": "十年约300篇短篇（Britannica）与六部长篇（《一生》1883、《漂亮朋友》1885等，通说待核）。", "src": "B046"},
+    {"year": "1890—1893", "text": "梅毒恶化（20余岁感染、拒绝治疗——Britannica：Syphilis diagnosed in his early 20s; refused treatment），幻觉（《奥尔拉》即其心理实录，通说待核）；1893年1月起入院，7月6日卒于巴黎，年42（Britannica：declined mentally and died in a private asylum at 42）。", "src": "B046"}
+  ],
+  "major_works": [
+    {"work_id": "mauposangxuan", "note": "通行选集（本库立目）"},
+    {"title": "漂亮朋友（Bel-Ami，1885）", "note": "新闻界野心家（通说）"},
+    {"title": "一生（Une Vie，1883）", "note": "长篇（Britannica 列举）"}
+  ],
+  "style": [
+    "客观冷静的叙述：'objective, dispassionate narration; economy and balance'（Britannica）——不动声色而锋利。",
+    "以细节完成讽刺：项链的'假'、羊脂球的'体面'——结尾一击（coup de théâtre）的结构。",
+    "诺曼底与巴黎的双场景：'settings drawn from Norman life, Parisian society, and his love of the Seine and sea'（Britannica）。",
+    "'暴露伪善与隐秘欲望'（Britannica：exposing hypocrisy and hidden desires）——对资产阶级道德的解剖。"
+  ],
+  "status": "Britannica 定位莫泊桑为'公认最伟大的法国短篇小说家'与'现代短篇小说的重要人物'（a major figure of the modern short story）。其《项链》为世界课堂最常读的短篇之一（通说待核）；契诃夫、欧·亨利承其'结尾艺术'（通说待核）。福楼拜的严格训练（'你只有一个缺点：从不修改'之类轶事，通说待核）与其25年的写作生涯共同造就了'短篇小说的职业化'。",
+  "sources": ["B046"],
+  "dates_source": "B046",
+  "pending": [
+    "出生地（Miromesnil城堡说与费康说）之争，Britannica 标 disputed。",
+    "《梅塘之夜》六作者的完整名单（左拉、于斯曼等）与莫泊桑文名待核。",
+    "《项链》发表（1884年2月《高卢人报》说，通说）细节待核。",
+    "福楼拜教导轶事的原始出处待核。"
+  ]
+}

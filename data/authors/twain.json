@@ -1,0 +1,43 @@
+{
+  "id": "twain",
+  "name": "马克·吐温",
+  "foreign_name": "Mark Twain（本名 Samuel Langhorne Clemens 塞缪尔·朗霍恩·克莱门斯，1835-11-30 — 1910-04-21）",
+  "country": "美国",
+  "birth": "1835-11-30",
+  "death": "1910-04-21",
+  "birth_year": 1835,
+  "death_year": 1910,
+  "era": "近代",
+  "summary": "马克·吐温，密苏里州人，'公认美国最伟大的作家之一'（Britannica：widely considered one of the greatest American writers of all time）。密西西比河领航员出身（笔名来自水手测水用语'两寻'——Britannica），记者、幽默演说家与小说家。《汤姆·索亚历险记》（1876）与《哈克贝利·费恩历险记》（1884—85）以方言写作把美国白话带入文学；海明威称'全部现代美国文学源于一本书——〈哈克贝利·费恩〉'（此名言广为流传，Britannica 相关问答亦提及——原文出处待核）。晚年破产（债务与投资失败，Britannica），女儿早逝后陷入'bad mood'时期（Britannica），1910年4月21日死于心脏病。",
+  "timeline": [
+    {"year": "1835-11-30", "text": "生于密苏里州佛罗里达村，成长于密西西比河畔汉尼拔镇（Britannica：Grew up in Hannibal, Missouri）——日后'汤姆·索亚'小镇的原型。", "src": "B045"},
+    {"year": "1848—1853", "text": "父亲去世后辍学当排字工（Britannica：printer's apprentice (1848), typesetter for his brother's Hannibal Journal）。", "src": "B045"},
+    {"year": "1857—1861", "text": "密西西比河领航员学徒与正式领航员（Britannica：Trained as a Mississippi River steamboat pilot）；南北战争使航运中断。", "src": "B045"},
+    {"year": "1861—1865", "text": "内华达银矿淘金失败，转任记者（Britannica：worked as a miner and newspaper reporter in Nevada Territory）；1865年《卡拉维拉斯县驰名的跳蛙》全国走红（Britannica 列举）。", "src": "B045"},
+    {"year": "1867—1871", "text": "《傻子出国记》（1869）等游记成名；1870年与奥莉维亚·兰登结婚（Britannica：Married Olivia Langdon），定居哈特福德。", "src": "B045"},
+    {"year": "1876—1885", "text": "《汤姆·索亚历险记》（1876）、《密西西比河上的生活》（1883）、《哈克贝利·费恩历险记》（英国1884、美国1885，Britannica）。", "src": "B020"},
+    {"year": "1893—1900", "text": "出版业与排字机投资失败破产（Britannica：mounting debts and bankruptcy），环球演讲还债；友人 Henry Huttleston Rogers 帮助（Britannica）。", "src": "B045"},
+    {"year": "1904—1910", "text": "妻子与女儿苏西相继去世，陷入'bad mood'时期（Britannica：late-life 'bad mood' period after his daughter Susy's death）；晚期作品转向黑暗（《神秘的陌生人》等，通说待核）。", "src": "B045"},
+    {"year": "1910-04-21", "text": "卒于康涅狄格州雷丁，年七十四，死于心脏病（Britannica）。1920年入选'美国伟人纪念堂'（Britannica：In 1920 inducted into the Hall of Fame for Great Americans）。", "src": "B045"}
+  ],
+  "major_works": [
+    {"work_id": "hakebei", "note": "1884/85；海明威所谓'美国现代文学之源'（名言出处待核）"},
+    {"title": "汤姆·索亚历险记（1876）", "note": "儿童文学经典（Britannica）"},
+    {"title": "密西西比河上的生活（1883）、傻子出国记（1869）", "note": "游记双璧（Britannica 列举）"}
+  ],
+  "style": [
+    "方言与口语的文学化：'used spoken language/dialect to craft memorable characters'（Britannica）——哈克的第一人称密苏里土语成为美国文学的'声音'。",
+    "边疆幽默与讽刺：'frontier humor and local color'（Britannica）；对'文明'的持续怀疑。",
+    "男孩视角的天真之眼：以孩子看穿成人世界的谎言（通说解读）。",
+    "晚年黑暗转向：对人性、上帝与'该死的'人种的悲观（晚期作品，通说待核）。"
+  ],
+  "status": "Britannica 定位马克·吐温为'美国最伟大的作家之一'、'transcended humble origins'的'America's best and most beloved writers'之一。'马克·吐温式幽默'进入语言；福克纳称其为'美国文学之父'（通说待核）。《哈克贝利·费恩》既是美国文学的奠基文本，也是争议最持久的教学文本（种族语言之争——Britannica 已列），其作家因此同时是'最受爱戴'与'最受争议'的美国人之一。",
+  "sources": ["B045", "B020"],
+  "dates_source": "B045",
+  "pending": [
+    "海明威名言的原文出处（《非洲的青山》1935年说，通说）待核。",
+    "破产金额（排字机投资亏损）与还债细节待核。",
+    "晚年'bad mood'时期与《人是何物》等遗作出版史待核。",
+    "领航员执照与笔名首次使用（1863年《企业报》）细节待核。"
+  ]
+}

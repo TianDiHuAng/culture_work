@@ -1,0 +1,81 @@
+{
+  "id": "hakebei",
+  "title": "哈克贝利·费恩历险记",
+  "original_title": "Adventures of Huckleberry Finn（《哈克贝利·费恩历险记》，1884英国/1885美国）",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（流浪汉体/成长小说）",
+  "genre_group": "小说",
+  "language": "英语（密苏里方言第一人称）",
+  "author_id": "twain",
+  "author_name": "马克·吐温",
+  "year_display": "英国1884年12月、美国1885年2月出版（Britannica）",
+  "year_sort": 1885,
+  "background": [
+    "创作史（Britannica）：1876年起写作，几度搁笔，历时八年；英国1884年出版、美国1885年出版。开篇即宣告：'如果你没读过《汤姆·索亚历险记》……'（原书第一句，公有领域）——与《汤姆·索亚》构成姊妹篇。",
+    "发表之初的争议与百年争议：初版因'粗俗'被某些图书馆禁（通说待核）；20世纪后期因种族语言（n-word 出现200余次，通说待核）持续引发课堂争议——Britannica 记录了这场争议与2011年'洁本'（bowdlerized edition，用'slave'替换原词——Britannica 记2011年 sanitized edition sparked debate）之争。",
+    "文学史地位：'Changed the course of American children's literature and literature generally, presenting the first deeply felt portrayal of boyhood'（Britannica：改变美国儿童文学与一般文学的进程，呈现首个深情的男孩形象）。"
+  ],
+  "outline": [
+    "逃离：道格拉斯寡妇收养哈克教他'文明'，醉鬼父亲回来抢钱囚禁他——哈克'自杀'假象后逃上杰克逊岛，遇见逃亡黑奴吉姆——两人同乘木筏沿密西西比河而下。",
+    "漂流：木筏上的'自由王国'与两岸的'文明地狱'交替：格兰杰福德家族血仇、'公爵'与'国王'两个骗子的闹剧（'王室异兽'骗局）、阿肯色州小镇枪击与私刑……哈克目睹'人类对彼此的残忍'（Britannica：A recurring theme is human cruelty）。",
+    "道德抉择：哈克多次纠结于'告发吉姆'（'下地狱'的恐惧），最后撕掉告发信：'好吧，那我就下地狱吧'（All right, then, I'll go to hell——原文，公有领域）——美国文学最著名的良知时刻（通说）。",
+    "结局：吉姆被卖给费尔普斯农庄——恰是汤姆·索亚的姨夫家；汤姆以'浪漫营救'的游戏（其实是吉姆已获自由）拖延放人；萨莉阿姨想'教化'哈克——哈克宣布'我要抢先去印第安人的地方'（原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "哈克贝利·费恩", "identity": "流浪儿·第一人称叙述者", "note": "'first deeply felt portrayal of boyhood'（Britannica）——以良知对抗'文明'的少年"},
+    {"name": "吉姆", "identity": "逃亡黑奴", "note": "沃森小姐的奴隶，为免被卖南下而逃——美国文学最早的完整黑人主角之一（通说待核）"},
+    {"name": "汤姆·索亚", "identity": "'浪漫'的少年", "note": "以书本游戏绑架现实的'文明'讽刺（通说解读）"},
+    {"name": "哈克之父（'帕普'）", "identity": "醉鬼", "note": "白人'文明'底部的标本"},
+    {"name": "'国王'与'公爵'", "identity": "职业骗子", "note": "假冒王室——美国骗术文学的巅峰描写"}
+  ],
+  "themes": [
+    "良知与'文明'的对立：哈克的'下地狱'选择——当'体面社会'的道德是错的，真正的道德在'罪犯'一边（通说解读）。",
+    "自由与河流：木筏是自由的乌托邦，靠岸即入人间地狱——密西西比河的象征结构（通说）。",
+    "种族与语言：吉姆的方言与 n-word 的历史——小说既控诉奴隶制又使用种族语言，争议由此而生（Britannica 已列各方说法：Late 20th-century controversy: some called the book racist due to offensive language）。",
+    "艺术特点：第一人称方言叙事（美国文学的'声音革命'）、松散流浪汉结构与'心理时刻'的结合。"
+  ],
+  "influence": [
+    {"text": "Britannica（Huck Finn 条目）：'Changed the course of American children's literature and literature generally, presenting the first deeply felt portrayal of boyhood'。", "source": "B020"},
+    {"text": "Britannica：美国现实主义经典、方言写作典范——Twain 条目称其vernacular exemplifies American realism。", "source": "B045"},
+    {"text": "Britannica：种族语言争议与2011年'洁本'之争（many considered the sanitized edition 'every bit as unacceptable as the original'——各方说法并存）。", "source": "B020"},
+    {"text": "改编与回响：多次电影改编（1939/1960/1993等，通说待核）；海明威'现代美国文学源于此'名言（出处待核）使其成为美国文学的'创世纪'。", "source": "B045"}
+  ],
+  "reading": {
+    "difficulties": [
+      "方言拼写（'sivilize'=civilize 等）影响阅读速度，需适应或选注本。",
+      "种族语言的当代争议：课堂语境中如何处理 n-word——建议阅读争议材料再决定版本（完整版/洁本）。",
+      "结尾'汤姆的游戏'被许多批评家认为失败（通说待核）——读时自己判断。"
+    ],
+    "editions": [
+      "张万里译《哈克贝利·费恩历险记》（上海译文出版社）：通行本。",
+      "成时译本（人民文学出版社）：另一选择。",
+      "英文本：University of California Press 版（含完整注释与争议材料，通说待核）。"
+    ],
+    "order": "先读开篇与第16章（哈克的道德抉择）→ 通读漂流段落（木筏上的黎明）→ 精读第31章（'下地狱'）与结尾 → 读1950s以来争议材料（Britannica 记2011年事件）后重估全书。"
+  },
+  "pending": [
+    "n-word 出现次数（约200次说）待核。",
+    "2011年 NewSouth 洁本（Alan Gribben 主编）细节待核。",
+    "海明威名言出处（《非洲的青山》原文）逐字核对待完成。",
+    "电影改编年表待核。"
+  ],
+  "sources": ["B020", "B045"],
+  "year_source": "B020",
+  "author_source": "B045",
+  "related_works": ["laorenhai", "aoman", "waerdenghu"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《哈克贝利·费恩》密西西比漂流结构图",
+    "steps": [
+      {"title": "逃亡", "text": "逃离'文明'与醉鬼父亲", "color": "plain"},
+      {"title": "杰克逊岛", "text": "与吉姆结伴", "color": "main"},
+      {"title": "木筏漂流", "text": "自由乌托邦·两岸地狱", "color": "family"},
+      {"title": "骗子闹剧", "text": "'国王'与'公爵'", "color": "antagonist"},
+      {"title": "良知抉择", "text": "'我下地狱吧'·救吉姆", "color": "main"}
+    ]
+  }
+}
