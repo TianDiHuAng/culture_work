@@ -1,0 +1,41 @@
+{
+  "id": "dufu",
+  "name": "杜甫",
+  "foreign_name": "Du Fu（杜甫，字子美，712—770）",
+  "country": "中国",
+  "birth": "712",
+  "death": 770,
+  "birth_year": 712,
+  "death_year": 770,
+  "era": "古代",
+  "summary": "杜甫，河南巩县人，'widely considered the greatest in Chinese literary history'（公认中国文学史上最伟大的诗人，Britannica）。祖父杜审言为初唐诗人；735年科举落第（Britannica）；755年安史之乱后颠沛流离，757年任左拾遗（通说待核），晚年漂泊西南，770年死于湘江舟中（Britannica：dying on a riverboat between Changsha and Yueyang in 770）。其诗'融合博学、格律技巧与对危难中民族的深切关怀'（Britannica：His fusion of erudition, prosodic skill, and humane concern...set a lasting standard for Chinese poetry），律诗被锤炼到'灼热强度'（Britannica：refined to a point of glowing intensity）。",
+  "timeline": [
+    {"year": "712", "text": "生于河南巩县（Britannica：Born in Gongxian, Henan），士族家庭（Britannica：a scholarly family）。", "src": "B086"},
+    {"year": "735", "text": "科举落第（Britannica：failed the imperial examinations of 735）；青年漫游齐赵（通说待核）。", "src": "B086"},
+    {"year": "744", "text": "洛阳遇李白，'deeply admired'（深受钦佩——Britannica），同游梁宋（通说待核）。", "src": "B086"},
+    {"year": "746—755", "text": "困守长安十年求官（通说待核）；755年获右卫率府胄曹参军小职（通说待核）；同年冬安史之乱爆发（Britannica：An Lushan's rebellion (from 755) brought extreme hardship）。", "src": "B086"},
+    {"year": "757—759", "text": "投奔肃宗授左拾遗（Britannica：joined the exiled court in 757 as a censor but was later relieved of duty）；759年弃官西行，'三吏''三别'写于途中（通说待核）。", "src": "B086"},
+    {"year": "760—765", "text": "成都草堂（'briefly became a gentleman farmer'——Britannica）；严武幕府（通说待核）。", "src": "B086"},
+    {"year": "766—770", "text": "夔州（创作高峰——通说待核）；770年死于长沙与岳阳之间的舟中（Britannica：dying on a riverboat between Changsha and Yueyang in 770），年五十九。", "src": "B086"}
+  ],
+  "major_works": [
+    {"work_id": "dufushixuan", "note": "通行选集（本库立目）"},
+    {"title": "三吏三别、秋兴八首", "note": "律诗组诗（通说）"},
+    {"title": "自京赴奉先县咏怀五百字、北征", "note": "长篇（通说）"}
+  ],
+  "style": [
+    "'诗史'：以诗记录安史之乱的全景——Britannica：'turned to biting critiques of war ('The Ballad of the Army Carts') and veiled satire of court luxury'（转向对战争的尖刻批判与对宫廷奢靡的隐讽）。",
+    "律诗的极致：Britannica——'especially in the lüshi (regulated verse), which he refined to a point of glowing intensity'（律诗锤炼至灼热强度）。",
+    "沉郁顿挫：其风格的传统概括（通说待核）。",
+    "意象的多义与压缩：Britannica——'dense, compressed language exploits a phrase's full connotations and a word's tonal possibilities'（凝练语言充分挖掘短语内涵与声调可能——'qualities largely lost in translation'）。"
+  ],
+  "status": "Britannica 称杜甫'widely considered the greatest in Chinese literary history'（公认中国文学史上最伟大的诗人）；'his fusion of erudition, prosodic skill, and humane concern for a nation in crisis set a lasting standard'（博学、格律与忧民的融合为后世立标准）——'influenced poets addressing social and political issues worldwide'（影响全世界关注社会政治议题的诗人）。'诗圣'与'诗史'之号（通说待核）；存诗约1450首（通说待核）。",
+  "sources": ["B086", "B083"],
+  "dates_source": "B086",
+  "pending": [
+    "左拾遗授职（757年凤翔）细节待核。",
+    "存诗数（1450余首说）与《杜工部集》版本待核。",
+    "'诗圣''诗史'称号的文献源流（明代杨慎等）待核。",
+    "夔州创作（400余首说，通说）待核。"
+  ]
+}

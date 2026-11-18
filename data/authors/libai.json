@@ -1,0 +1,42 @@
+{
+  "id": "libai",
+  "name": "李白",
+  "foreign_name": "Li Bai（李白，字太白，号青莲居士，701—762）",
+  "country": "中国",
+  "birth": "701",
+  "death": "762",
+  "birth_year": 701,
+  "death_year": 762,
+  "era": "古代",
+  "summary": "李白，唐代大诗人，祖籍陇西成纪（一说生于中亚碎叶），'与杜甫并争中国最伟大诗人'（Britannica：He rivaled Du Fu for the title of China's greatest poet）。字太白，号青莲居士；人称'谪仙人'（贺知章语，通说待核）。742年供奉翰林、744年被'赐金放还'；756年入永王幕、758年流放夜郎遇赦（Britannica）。杜甫赞其'笔落惊风雨，诗成泣鬼神'（通说待核）。存诗约千首（通说待核）。",
+  "timeline": [
+    {"year": "701", "text": "生（Britannica：Born 701 in Jiangyou, Sichuan province）；出生地有蜀中江油与中亚碎叶两说（学界争议，本页从 Britannica 江油口径并待核）。", "src": "B085"},
+    {"year": "约725", "text": "24岁'仗剑去国，辞亲远游'（其《上安州裴长史书》语，通说待核）——出蜀漫游。", "src": "B085"},
+    {"year": "727", "text": "安陆成婚（'married into a family in Anlu'，Britannica），'酒隐安陆，蹉跎十年'（通说待核）。", "src": "B085"},
+    {"year": "742—744", "text": "奉诏入长安，供奉翰林，'仰天大笑出门去'（《南陵别儿童入京》原文，公有领域）；无正式官职，744年'赐金放还'（Britannica：gaining no formal post）。", "src": "B085"},
+    {"year": "744", "text": "洛阳与杜甫相识（通说待核）——中国文学史最著名的相遇之一。", "src": "B085"},
+    {"year": "756—757", "text": "入永王李璘幕府（'unofficial poet laureate to Prince Lin's military campaign'，Britannica）；永王败，李白系浔阳狱。", "src": "B085"},
+    {"year": "758—759", "text": "流放夜郎，途中遇赦（Britannica：banished to Yelang in 758, though pardoned en route by an amnesty）——《早发白帝城》即此行。", "src": "B085"},
+    {"year": "762", "text": "卒于当涂族叔李阳冰家（Britannica：died 762 in Dangtu, Anhui province），年六十一；'醉酒捞月'为传说（Britannica：legend claims he drowned while drunkenly trying to grasp the moon's reflection）。", "src": "B085"}
+  ],
+  "major_works": [
+    {"work_id": "libaishixuan", "note": "通行选集（本库立目）"},
+    {"title": "将进酒、蜀道难、梦游天姥吟留别", "note": "乐府歌行名篇（通说）"},
+    {"title": "静夜思、望庐山瀑布、早发白帝城", "note": "绝句名篇（通说）"}
+  ],
+  "style": [
+    "浪漫气质：Britannica——'A romantic in temperament, he was among China's most famous wine drinkers and often celebrated drinking'（浪漫气质的著名酒客，常咏酒）。",
+    "乐府与歌行的奔放：《蜀道难》《将进酒》的三言五言七言错落（通说）。",
+    "意象的超现实：'飞流直下三千尺，疑是银河落九天'（原文，公有领域）。",
+    "清新与豪放并存：Britannica——'freshness and imagination'（清新与想象）。"
+  ],
+  "status": "Britannica 称李白'与杜甫并争中国最伟大诗人'（He rivaled Du Fu for the title of China's greatest poet）。其诗'处理友谊、孤独、时间流逝与自然'（Britannica：treats friendship, solitude, the passage of time, and nature）。杜甫'白也诗无敌，飘然思不群'（《春日忆李白》原文，公有领域）；'诗仙'之号（通说待核）。其诗存约千首（通说待核），对世界诗歌（庞德《神州集》——通说待核）亦有影响。",
+  "sources": ["B085", "B083"],
+  "dates_source": "B085",
+  "pending": [
+    "出生地（江油/碎叶）学界争论，本页从 Britannica 江油说并注明分歧。",
+    "存诗数（约千首说）与《李太白全集》30卷版本待核。",
+    "贺知章'谪仙'呼语出处（《本事诗》类文献）待核。",
+    "杜甫评语（《春日忆李白》）原文待核。"
+  ]
+}
