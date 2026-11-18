@@ -1,0 +1,173 @@
+{
+  "id": "youlingzhijia",
+  "title": "幽灵之家",
+  "original_title": "La casa de los espíritus / The House of the Spirits（幽灵之家）",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（魔幻现实主义家族史诗）",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "allende",
+  "author_name": "伊莎贝尔·阿连德",
+  "year_display": "1982年出版（Britannica）",
+  "year_sort": 1982,
+  "background": [
+    "创作（Britannica）：源于1981年给临终外祖父的信（Britannica：grew out of a 1981 letter to her dying grandfather）——'亲爱的祖父，你还在那里……'（开篇原文意，通说待核）——以'记录'为动机的家族史。",
+    "故事背景（通说）：智利1920s—1970s——特鲁埃瓦家族三代女性与1973年皮诺切特政变（salvador Allende 的侄女？——非直系，通说待核）。"
+  ],
+  "outline": [
+    "第一代：埃斯特万·特鲁埃瓦——庄园主、脾气暴躁——与妻子克拉拉（通灵者——'能听见死人说话'）建立'三姐妹'家庭（通说）。",
+    "第二代：布兰卡（女儿）与革命者佩德罗·特尔塞的爱情——政变的种子（通说）。",
+    "第三代：阿尔芭——'最后一个'——1973年政变后的监禁与'幽灵之家'手稿的完成（通说）——'记忆的书写对抗遗忘'（通说解读）。"
+  ],
+  "characters": [
+    {
+      "name": "埃斯特万·特鲁埃瓦",
+      "identity": "庄园主",
+      "note": "' patriarch'——暴力与悔恨的保守派"
+    },
+    {
+      "name": "克拉拉",
+      "identity": "妻子·通灵者",
+      "note": "'幽灵之家'的'幽灵'与明灯"
+    },
+    {
+      "name": "布兰卡",
+      "identity": "女儿",
+      "note": "与革命者佩德罗的禁忌之爱"
+    },
+    {
+      "name": "阿尔芭",
+      "identity": "孙女·叙述者",
+      "note": "'记忆的书写者'——以写作对抗遗忘"
+    }
+  ],
+  "themes": [
+    "记忆与遗忘：政变后的'官方遗忘'对抗'家族记忆'（通说）。",
+    "女性的生存：三代女性的坚韧与超越（通说）。",
+    "魔幻与现实：通灵、预言、灵魂——拉美魔幻传统的延续（通说）。",
+    "艺术特点：日记/手稿/书信的拼贴、'记忆书写'的元叙事。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Allende 条）：The House of the Spirits (1982)——首作与国际成名作。",
+      "source": "B158"
+    },
+    {
+      "text": "1993年丹麦导演 Bille August 电影（Streep/Castellano——通说待核）。",
+      "source": "B158"
+    },
+    {
+      "text": "中译：刘习良等译《幽灵之家》（云南人民出版社，通说待核）。",
+      "source": "B158"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三代人物众多——家谱图。",
+      "1973年智利政变史——注释。"
+    ],
+    "editions": [
+      "刘习良、笋季英译《幽灵之家》（云南人民出版社，通说待核）。",
+      "英译：Magda Bogin（通说待核）。"
+    ],
+    "order": "通读 → 精读政变与阿尔芭段落 → 对照《百年孤独》的家族史诗传统。"
+  },
+  "pending": [
+    "1982年 Plaza & Janés（Barcelona）出版细节待核。",
+    "刘习良译本信息待核。",
+    "1993年电影改编待核。",
+    "阿连德家族与总统的关系待核。"
+  ],
+  "sources": [
+    "B158"
+  ],
+  "year_source": "B158",
+  "author_source": "B158",
+  "related_works": [
+    "bainian",
+    "chengshiyugou",
+    "beican"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《幽灵之家》三代女性关系图",
+    "nodes": [
+      {
+        "id": "esteban",
+        "label": "埃斯特万",
+        "x": 340,
+        "y": 100,
+        "color": "antagonist",
+        "sub": "庄园主"
+      },
+      {
+        "id": "clara",
+        "label": "克拉拉",
+        "x": 150,
+        "y": 200,
+        "color": "gold",
+        "sub": "通灵者"
+      },
+      {
+        "id": "blanca",
+        "label": "布兰卡",
+        "x": 340,
+        "y": 250,
+        "color": "family",
+        "sub": "女儿"
+      },
+      {
+        "id": "alba",
+        "label": "阿尔芭",
+        "x": 340,
+        "y": 395,
+        "color": "main",
+        "sub": "孙女·叙述者"
+      },
+      {
+        "id": "pedro",
+        "label": "佩德罗·特尔塞",
+        "x": 560,
+        "y": 320,
+        "color": "main",
+        "sub": "革命者"
+      }
+    ],
+    "edges": [
+      {
+        "a": "esteban",
+        "b": "clara",
+        "label": "夫妻"
+      },
+      {
+        "a": "esteban",
+        "b": "blanca",
+        "label": "父女"
+      },
+      {
+        "a": "clara",
+        "b": "blanca",
+        "label": "母女"
+      },
+      {
+        "a": "blanca",
+        "b": "pedro",
+        "label": "禁忌之恋"
+      },
+      {
+        "a": "blanca",
+        "b": "alba",
+        "label": "母女"
+      },
+      {
+        "a": "esteban",
+        "b": "alba",
+        "label": "祖父·和解"
+      }
+    ]
+  }
+}

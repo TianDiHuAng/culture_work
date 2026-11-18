@@ -1,0 +1,71 @@
+{
+  "id": "chengshiyugou",
+  "title": "城市与狗",
+  "original_title": "La ciudad y los perros / The Time of the Hero（城市与狗/英雄的年代）",
+  "region": "秘鲁",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "llosa",
+  "author_name": "马里奥·巴尔加斯·略萨",
+  "year_display": "1963年出版（Britannica）",
+  "year_sort": 1963,
+  "background": [
+    "题材（Britannica）：秘鲁利马军事学校（Leoncio Prado Academy）——'the military burned hundreds of copies after publication'（出版后军方焚毁数百册——Britannica）。",
+    "结构：三线交织——阿尔贝托（诗人）、'奴隶'（卡亚奥）、'美洲豹'（暴力领袖）——军校生活的暴力与等级（通说）。"
+  ],
+  "outline": [
+    "军校生活：新生'奴隶'（ Alberto 的同学）被欺凌——'美洲豹'的暴力集团——偷考试题（通说）。",
+    "命案：'奴隶'在演习中被枪杀——真相与掩盖（通说）；阿尔贝托的告发与军校的'集体沉默'。",
+    "结局：'美洲豹'逍遥法外——阿尔贝托放弃文学幻想；'奴隶'的死化为'城市的狗'的寓言（通说）。"
+  ],
+  "characters": [
+    {"name": "阿尔贝托", "identity": "军校学生·诗人", "note": "'城市'的观察者"},
+    {"name": "美洲豹", "identity": "暴力领袖", "note": "'狗'的化身"},
+    {"name": "'奴隶'", "identity": "被欺凌者", "note": "命案的受害者"}
+  ],
+  "themes": [
+    "军国的暴力与'荣誉'的虚伪（通说）。",
+    "秘鲁阶级与种族的缩影（通说）。",
+    "艺术特点：三线交织、'闪回'技法（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Vargas Llosa 条）：The Time of the Hero (1963)——'military burned hundreds of copies'——'boom'首作。", "source": "B159"},
+    {"text": "1966电影改编（秘鲁禁映——通说待核）。", "source": "B159"}
+  ],
+  "reading": {
+    "difficulties": [
+      "三线交织——理清人物与时间。",
+      "秘鲁军校制度——注释。"
+    ],
+    "editions": [
+      "赵德明译《城市与狗》（人民文学出版社，通说待核）。",
+      "英译：Gregory Kolovakos（通说待核）。"
+    ],
+    "order": "通读 → 精读命案与结尾 → 对照《绿房子》看略萨的'空间结构'。"
+  },
+  "pending": [
+    "1963年 Seix Barral（Barcelona）出版细节待核。",
+    "赵德明译本信息待核。",
+    "军方焚书与1966电影改编待核。"
+  ],
+  "sources": ["B159"],
+  "year_source": "B159",
+  "author_source": "B159",
+  "related_works": ["youlingzhijia", "mengya", "qingzhong"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《城市与狗》军校三角结构图",
+    "cards": [
+      {"title": "阿尔贝托", "sub": "诗人", "text": "'城市'的观察者", "color": "main"},
+      {"title": "美洲豹", "sub": "暴力领袖", "text": "'狗'的化身", "color": "antagonist"},
+      {"title": "'奴隶'", "sub": "被欺凌者", "text": "命案受害者", "color": "gold"},
+      {"title": "军校", "sub": "Leóncio Prado", "text": "'荣誉'的虚伪", "color": "antagonist"},
+      {"title": "焚书", "sub": "军方反应", "text": "'数百册'", "color": "plain"}
+    ]
+  }
+}

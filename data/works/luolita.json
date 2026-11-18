@@ -22,10 +22,26 @@
     "结局：数年后洛丽塔已婚贫病求助——亨伯特枪杀奎尔蒂，入狱——以'回忆'完成'自白'：'洛丽塔，我生命之光，我欲念之火。我的罪恶，我的灵魂。洛-丽-塔'（开篇原文，公有领域）。"
   ],
   "characters": [
-    {"name": "亨伯特·亨伯特", "identity": "欧洲侨民学者", "note": "'迷人的恶'——不可靠叙述者的教科书（通说）"},
-    {"name": "多洛蕾丝·黑兹（洛丽塔）", "identity": "12岁女孩", "note": "'被剥夺声音的受害者'（当代批评——通说待核）"},
-    {"name": "奎尔蒂", "identity": "剧作家", "note": "亨伯特的'镜像'恶（通说）"},
-    {"name": "夏洛特·黑兹", "identity": "寡妇", "note": "'母亲的悲剧'（通说）"}
+    {
+      "name": "亨伯特·亨伯特",
+      "identity": "欧洲侨民学者",
+      "note": "'迷人的恶'——不可靠叙述者的教科书（通说）"
+    },
+    {
+      "name": "多洛蕾丝·黑兹（洛丽塔）",
+      "identity": "12岁女孩",
+      "note": "'被剥夺声音的受害者'（当代批评——通说待核）"
+    },
+    {
+      "name": "奎尔蒂",
+      "identity": "剧作家",
+      "note": "亨伯特的'镜像'恶（通说）"
+    },
+    {
+      "name": "夏洛特·黑兹",
+      "identity": "寡妇",
+      "note": "'母亲的悲剧'（通说）"
+    }
   ],
   "themes": [
     "叙述者的谎言：'自白'的修辞——读者被'美文'诱惑又被提醒（通说）。",
@@ -34,9 +50,18 @@
     "艺术特点：双关、法国诗歌引用、'预序'与'附录'的元文本（通说）。"
   ],
   "influence": [
-    {"text": "Britannica（Nabokov 条）：Lolita (1955) 列于 famous works——'best-known'。", "source": "B145"},
-    {"text": "电影：库布里克1962与Adrian Lyne 1997（通说待核）。", "source": "B145"},
-    {"text": "中译：主万译《洛丽塔》（上海译文出版社，通说待核）与于晓丹译本。", "source": "B145"}
+    {
+      "text": "Britannica（Nabokov 条）：Lolita (1955) 列于 famous works——'best-known'。",
+      "source": "B145"
+    },
+    {
+      "text": "电影：库布里克1962与Adrian Lyne 1997（通说待核）。",
+      "source": "B145"
+    },
+    {
+      "text": "中译：主万译《洛丽塔》（上海译文出版社，通说待核）与于晓丹译本。",
+      "source": "B145"
+    }
   ],
   "reading": {
     "difficulties": [
@@ -56,21 +81,47 @@
     "1958美国版与查禁史待核。",
     "1995电影改编（Lyne）待核。"
   ],
-  "sources": ["B145"],
+  "sources": [
+    "B145"
+  ],
   "year_source": "B145",
   "author_source": "B145",
-  "related_works": ["luolita2", "zuiyufa", "luoshengmen"],
+  "related_works": [
+    "luolita2",
+    "zuiyufa",
+    "luoshengmen"
+  ],
   "svg": {
     "type": "flow",
     "width": 680,
     "height": 240,
     "caption": "《洛丽塔》公路漫游结构图",
     "steps": [
-      {"title": "租房", "text": "娶寡妇接近洛丽塔", "color": "antagonist"},
-      {"title": "母死", "text": "车祸——'自由'", "color": "antagonist"},
-      {"title": "公路漫游", "text": "旅馆·'小妖精'", "color": "gold"},
-      {"title": "逃离", "text": "洛丽塔与奎尔蒂", "color": "plain"},
-      {"title": "枪杀与自白", "text": "狱中回忆", "color": "main"}
+      {
+        "title": "租房",
+        "text": "娶寡妇接近洛丽塔",
+        "color": "antagonist"
+      },
+      {
+        "title": "母死",
+        "text": "车祸——'自由'",
+        "color": "antagonist"
+      },
+      {
+        "title": "公路漫游",
+        "text": "旅馆·'小妖精'",
+        "color": "gold"
+      },
+      {
+        "title": "逃离",
+        "text": "洛丽塔与奎尔蒂",
+        "color": "plain"
+      },
+      {
+        "title": "枪杀与自白",
+        "text": "狱中回忆",
+        "color": "main"
+      }
     ]
   }
 }

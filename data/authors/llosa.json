@@ -1,0 +1,38 @@
+{
+  "id": "llosa",
+  "name": "略萨",
+  "foreign_name": "Mario Vargas Llosa（马里奥·巴尔加斯·略萨，1936-03-28 — 2025-04-13）",
+  "country": "秘鲁",
+  "birth": "1936-03-28",
+  "death": "2025-04-13",
+  "birth_year": 1936,
+  "death_year": 2025,
+  "era": "现当代",
+  "summary": "略萨，秘鲁阿雷基帕人（全名 Jorge Mario Pedro Vargas Llosa，Britannica），拉美'boom'领军之一（Britannica：A leading figure in the 20th-century Latin American literary 'boom' alongside Gabriel García Márquez, Carlos Fuentes, and Julio Cortázar）。《城市与狗》（1963，Britannica：The Time of the Hero）——秘鲁军事学校背景，'the military burned hundreds of copies after publication'（出版后军方焚毁数百册——Britannica）；《绿房子》《对话在教堂》《胡莉娅姨妈与作家》《世界末日之战》（Britannica 列举）。2010年诺贝尔文学奖——'cartography of structures of power'（权力结构的制图学——Britannica 引授奖词）。1990年竞选秘鲁总统败于藤森（Britannica）；1994年塞万提斯奖、1993年入西班牙籍（Britannica）。2025年4月13日卒于利马，年八十九（Britannica）。",
+  "timeline": [
+    {"year": "1936-03-28", "text": "生于秘鲁阿雷基帕（Britannica：Born March 28, 1936, Arequipa）。", "src": "B159"},
+    {"year": "1963", "text": "《城市与狗》出版（Britannica：La ciudad y los perros (1963; The Time of the Hero)），'military burned hundreds of copies'（军方焚毁数百册——Britannica）。", "src": "B159"},
+    {"year": "1966—1969", "text": "《绿房子》(1966)《对话在教堂》(1969)（Britannica 列举 The Green House, Conversation in the Cathedral）。", "src": "B159"},
+    {"year": "1977—1987", "text": "《胡莉娅姨妈与作家》(1977)《世界末日之战》(1981)（Britannica 列举 Aunt Julia and the Scriptwriter, The War of the End of the World）；1987年反对银行国有化、创建自由运动政党（通说待核）。", "src": "B159"},
+    {"year": "1990", "text": "竞选秘鲁总统败于藤森（Britannica：ran unsuccessfully for Peru's presidency in 1990, losing to Alberto Fujimori）。", "src": "B159"},
+    {"year": "1993—2025", "text": "1993年入西班牙籍（Britannica：became a Spanish citizen in 1993）；1994塞万提斯奖（Britannica）；2010诺贝尔（Britannica）；绝笔《我谨献上我的沉默》(Le dedico mi silencio, 2023)——'about Peruvian vals music'（写秘鲁瓦尔斯音乐，Britannica）；2025-04-13卒于利马（Britannica）。", "src": "B159"}
+  ],
+  "major_works": [
+    {"work_id": "chengshiyugou", "note": "1963；代表作"},
+    {"title": "绿房子（1966）、世界末日之战（1981）", "note": "（Britannica 列举）"},
+    {"title": "胡莉娅姨妈与作家（1977）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "政治与个人经验：Britannica——'blends political thought, realism, and personal experience'（融合政治思想、现实主义与个人经验）。",
+    "'对话结构'：多声部并置（城市与狗的军校三线——通说）。",
+    "'有政治但非宣传'（通说）。"
+  ],
+  "status": "Britannica 定位略萨为拉美'boom'领军之一，2010年诺奖——'cartography of structures of power'（权力结构的制图学——Britannica 引授奖词）与'images of resistance, revolt, and defeat'（Britannica）。",
+  "sources": ["B159"],
+  "dates_source": "B159",
+  "pending": [
+    "1963年《城市与狗》出版（Seix Barral，Barcelona，通说）与军方焚书细节待核。",
+    "1990年总统选举与藤森（Britannica 已述）细节待核。",
+    "《我谨献上我的沉默》2023年出版待核。"
+  ]
+}

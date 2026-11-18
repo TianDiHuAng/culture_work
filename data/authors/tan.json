@@ -1,0 +1,37 @@
+{
+  "id": "tan",
+  "name": "谭恩美",
+  "foreign_name": "Amy Tan（谭恩美，1952-02-19 — ）",
+  "country": "美国",
+  "birth": "1952-02-19",
+  "death": null,
+  "birth_year": 1952,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "谭恩美，加利福尼亚州奥克兰人，华裔美国小说家。'Breakthrough: The Joy Luck Club (1989)——inspired by her 1987 China trip with her mother'（代表作《喜福会》，灵感来自1987年与母亲的回中国之行——Britannica）；'spent 40+ weeks on the NYT bestseller list and was a 1993 film'（纽约时报畅销榜40余周、1993年电影——Britannica：1993 film, she co-wrote the screenplay with Ron Bass）。其他畅销：《灶神之妻》(1991)《百种神秘感觉》(1995)《接骨师之女》(2001)《沉没之鱼》(2005)《绚烂之乡》(2013)——'all bestsellers'（Britannica）。'recurring themes: mother-daughter relationships, cultural identity, the immigrant experience, and hidden family histories'（主题：母女关系、文化身份、移民经历与隐秘家族史——Britannica）。2021年国家人文勋章（Britannica：National Humanities Medal (2021, presented 2023)）。'Fiction is a portal to a deeper understanding of myself.'（'小说是通向更深理解自我的门'——谭恩美自述，Britannica 引）。",
+  "timeline": [
+    {"year": "1952-02-19", "text": "生于加州奥克兰（Britannica：Born February 19, 1952, Oakland, CA）。", "src": "B163"},
+    {"year": "1987", "text": "与母亲回中国行——喜福会的灵感（Britannica：inspired by her 1987 China trip with her mother）。", "src": "B163"},
+    {"year": "1989", "text": "《喜福会》出版（Britannica：The Joy Luck Club (1989)）——'40+ weeks on the NYT bestseller list'；1993年电影（通说待核）。", "src": "B163"},
+    {"year": "1991—2013", "text": "《灶神之妻》(1991)《百种神秘感觉》(1995)《接骨师之女》(2001)《沉没之鱼》(2005)《绚烂之乡》(2013)——'all bestsellers'（Britannica）。", "src": "B163"},
+    {"year": "2021—2024", "text": "2021年国家人文勋章（Britannica：National Humanities Medal (2021, presented 2023)）；《后院鸟类纪事》(2024)——'drawn from her nature journaling and bird drawings made at her Sausalito home'（以索萨利托家中自然日记与鸟类绘画为基础——Britannica）。", "src": "B163"}
+  ],
+  "major_works": [
+    {"work_id": "xifuhui", "note": "1989；代表作"},
+    {"title": "接骨师之女（2001）", "note": "（Britannica 列举）"},
+    {"title": "灶神之妻（1991）、百种神秘感觉（1995）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'母女关系'与'文化身份'：Britannica——'mother-daughter relationships, cultural identity, the immigrant experience, and hidden family histories'（母女关系、文化身份、移民经历与隐秘家族史——Britannica）。",
+    "多声部结构：《喜福会》四母四女八声部（通说）。",
+    "'中国'的翻译：麻将、风水、节日——以英文解释中国文化（通说）。"
+  ],
+  "status": "Britannica 定位谭恩美为华裔美国作家，'The Joy Luck Club (1989)——inspired by her 1987 China trip with her mother——spent 40+ weeks on the NYT bestseller list and was a 1993 film (she co-wrote the screenplay with Ron Bass)'（Britannica）。'喜福会'成为华裔美国文学的代名词（通说待核）。",
+  "sources": ["B163"],
+  "dates_source": "B163",
+  "pending": [
+    "1989年 Putnam 出版（通说）细节待核。",
+    "1993年 Wayne Wang 电影（Hollywood Pictures）与 Screenplay 待核。",
+    "程乃珊译《喜福会》（上海译文出版社，通说待核）信息待核。"
+  ]
+}

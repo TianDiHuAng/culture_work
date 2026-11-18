@@ -1,0 +1,38 @@
+{
+  "id": "mahfouz",
+  "name": "马哈福兹",
+  "foreign_name": "Naguib Mahfouz（纳吉布·马哈福兹，1911-12-11 — 2006-08-30）",
+  "country": "埃及",
+  "birth": "1911-12-11",
+  "death": "2006-08-30",
+  "birth_year": 1911,
+  "death_year": 2006,
+  "era": "现当代",
+  "summary": "马哈福兹，开罗人，埃及小说家与编剧——'the first Arabic writer to win the Nobel Prize for Literature (1988)'（首位获诺贝尔文学奖的阿拉伯语作家——Britannica）。开罗大学哲学学位1934年（Britannica），文官至1971年（Britannica）。'Best known for The Cairo Trilogy'（代表作开罗三部曲——Britannica）：宫间街（Palace Walk）、思宫街（Palace of Desire）、甘露街（Sugar Street, 1956—57——Britannica），三代开罗家族与20世纪埃及社会变迁。45+部小说与短篇集、约30部剧本（Britannica）；'Children of the Alley'因宗教主题在埃及被禁（Britannica）。1994年被伊斯兰激进分子刺伤颈部（Britannica）。1996年设立纳吉布·马哈福兹文学奖（Britannica：The Naguib Mahfouz Medal for Literature was established in 1996 to honor Arabic writers）。2006年8月30日卒于开罗，年九十四（Britannica）。",
+  "timeline": [
+    {"year": "1911-12-11", "text": "生于开罗（Britannica：Born and died in Cairo）。", "src": "B160"},
+    {"year": "1934", "text": "开罗大学哲学学位（Britannica：earned a philosophy degree in 1934），入文官系统（Britannica：worked in the civil service until 1971）。", "src": "B160"},
+    {"year": "1956—1957", "text": "开罗三部曲——《宫间街》《思宫街》《甘露街》(1956—57，Britannica)——三代开罗家族。", "src": "B160"},
+    {"year": "1988", "text": "诺贝尔文学奖（Britannica：first Arabic writer to win the Nobel Prize for Literature (1988)）。", "src": "B160"},
+    {"year": "1994", "text": "被刺颈部（Britannica：he was stabbed in the neck）——争议小说引发的死亡威胁（Britannica）。", "src": "B160"},
+    {"year": "1996—2006", "text": "纳吉布·马哈福兹文学奖设立（Britannica：established in 1996）；2006-08-30卒于开罗（Britannica），年九十四。", "src": "B160"}
+  ],
+  "major_works": [
+    {"work_id": "kailuo", "note": "1956—57；开罗三部曲"},
+    {"title": "我们街区的孩子们（1959，被禁）", "note": "（Britannica：banned in Egypt for its religious themes）"},
+    {"title": "小偷与狗（1961）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "现实主义的开罗全景：'三代开罗家族与20世纪埃及社会变迁'（Britannica）。",
+    "'宗教与世俗'的张力：《我们街区的孩子们》以寓言重述人类信仰史——被禁（Britannica）。",
+    "'旧开罗'的方言与街区文化（通说待核）。"
+  ],
+  "status": "Britannica 定位马哈福兹为'首位获诺贝尔文学奖的阿拉伯语作家'（first Arabic writer to win the Nobel Prize for Literature (1988)），开罗三部曲'写三代开罗家族……捕获20世纪埃及社会变迁'（Britannica）。1994年被刺（Britannica）使其成为阿拉伯世界言论自由的象征。",
+  "sources": ["B160"],
+  "dates_source": "B160",
+  "pending": [
+    "开罗三部曲三卷出版年份（1956/1957说，通称）待核。",
+    "《我们街区的孩子们》的宗教寓意争议各方说法待核。",
+    "李琛译本信息待核。"
+  ]
+}

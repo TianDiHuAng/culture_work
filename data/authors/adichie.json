@@ -1,0 +1,36 @@
+{
+  "id": "adichie",
+  "name": "阿迪契",
+  "foreign_name": "Chimamanda Ngozi Adichie（奇玛曼达·恩戈兹·阿迪契，1977-09-15 — ）",
+  "country": "尼日利亚",
+  "birth": "1977-09-15",
+  "death": null,
+  "birth_year": 1977,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "阿迪契，尼日利亚埃努古人（伊博族，Britannica），当代最有影响力的非洲英语作家之一。东康涅狄格州立大学 BA（2001）、约翰·霍普金斯 MFA、耶鲁非洲研究（Britannica）。《紫木槿》（2003）、《半轮黄日》（2006，Orange Broadband 奖——Britannica）、《脖子上的东西》（2009）、《美国人》（2013）——Britannica 列举；非虚构《我们都应是女权主义者》（2014，TEDx 演讲改编——Britannica）与《哀悼笔记》（2021，Britannica）；'Beyoncé 歌曲 Flawless 引用其文章'（Britannica）；2008 MacArthur 研究员（Britannica）。'当代非洲文学最有影响力的声音之一与全球女权主义偶像'（Britannica：regarded as one of the most influential voices in contemporary African literature and a 'global feminist icon'）。",
+  "timeline": [
+    {"year": "1977-09-15", "text": "生于尼日利亚埃努古（Britannica：Born September 15, 1977, in Enugu, Nigeria），恩苏卡伊博家庭长大（Britannica：grew up in Nsukka in an Igbo family, fifth of six children）。", "src": "B162"},
+    {"year": "2001—2008", "text": "东康涅狄格州立大学 BA (2001)、约翰·霍普金斯 MFA（Britannica）与耶鲁非洲研究（Britannica）；《紫木槿》(2003)《半轮黄日》(2006，Britannica：won the Orange Broadband Prize)。", "src": "B162"},
+    {"year": "2009—2014", "text": "《脖子上的东西》(2009)、《美国人》(2013，Britannica)；《我们都应是女权主义者》(2014，Britannica：We Should All Be Feminists (2014, adapted from her TEDx talk))——Beyoncé 'Flawless' 引用（Britannica）。", "src": "B162"},
+    {"year": "2021—2025", "text": "《哀悼笔记》(2021，Britannica：Notes on Grief)；2023年以笔名 Nwa Grace-James 出童书（Britannica：a children's book under the pen name Nwa Grace-James）；2025年《Dream Count》为十年来首部新长篇（Britannica：her first novel in over a decade）。", "src": "B162"}
+  ],
+  "major_works": [
+    {"work_id": "banlunhuangri", "note": "2006；Orange Broadband 奖"},
+    {"title": "美国人（2013）", "note": "Britannica 列举"},
+    {"title": "紫木槿（2003）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "比夫拉战争的个人化书写（Britannica 语境：Half of a Yellow Sun 写比夫拉——通说待核）。",
+    "女性主义与身份：《我们都应是女权主义者》——'全球女权主义偶像'（Britannica）。",
+    "'非洲日常'的叙事：不以'苦难'标签非洲——'正常'的人（通说待核）。"
+  ],
+  "status": "Britannica 定位阿迪契为'当代非洲文学最有影响力的声音之一与全球女权主义偶像'（Britannica）。'Beyoncé 引用'使其成为流行文化现象（Britannica 语境）；2008 MacArthur 研究员（Britannica）。",
+  "sources": ["B162"],
+  "dates_source": "B162",
+  "pending": [
+    "《半轮黄日》出版细节与 Orange Broadband 奖（2007，通说）待核。",
+    "《Dream Count》2025年出版细节待核。",
+    "Nwa Grace-James 笔名与童书细节待核。"
+  ]
+}

@@ -24,11 +24,31 @@
     "结局：乌尔比诺爬梯子抓鹦鹉摔死；葬礼当晚，76岁的弗洛伦蒂诺向72岁的费尔明娜重申爱情——二人乘'新忠诚号'挂霍乱旗沿马格达莱纳河永航——'船长看了看费尔明娜……问我们这艘船到底要开到什么时候——永远'（结尾原文意，待核）。"
   ],
   "characters": [
-    {"name": "弗洛伦蒂诺·阿里萨", "identity": "电报员→船务董事长", "note": "以半个世纪的等待为职业的恋人——'write 622 long-term liaisons'（通说数字待核）"},
-    {"name": "费尔明娜·达萨", "identity": "富商之女→医生夫人", "note": "从浪漫少女到势利主妇到重生恋人的完整弧线"},
-    {"name": "胡维纳尔·乌尔比诺医生", "identity": "医生", "note": "'秩序与科学的丈夫'——诚实而乏味的爱情"},
-    {"name": "赫雷米亚·德乌尔阿莫", "identity": "老棋手·情人", "note": "开篇的死者——'爱情的另一种形态'"},
-    {"name": "美国寡妇芭芭拉·林奇、萨拉·诺列加等", "identity": "622之一的群像", "note": "欲望的编年史（通说）"}
+    {
+      "name": "弗洛伦蒂诺·阿里萨",
+      "identity": "电报员→船务董事长",
+      "note": "以半个世纪的等待为职业的恋人——'write 622 long-term liaisons'（通说数字待核）"
+    },
+    {
+      "name": "费尔明娜·达萨",
+      "identity": "富商之女→医生夫人",
+      "note": "从浪漫少女到势利主妇到重生恋人的完整弧线"
+    },
+    {
+      "name": "胡维纳尔·乌尔比诺医生",
+      "identity": "医生",
+      "note": "'秩序与科学的丈夫'——诚实而乏味的爱情"
+    },
+    {
+      "name": "赫雷米亚·德乌尔阿莫",
+      "identity": "老棋手·情人",
+      "note": "开篇的死者——'爱情的另一种形态'"
+    },
+    {
+      "name": "美国寡妇芭芭拉·林奇、萨拉·诺列加等",
+      "identity": "622之一的群像",
+      "note": "欲望的编年史（通说）"
+    }
   ],
   "themes": [
     "爱情的形态学：激情（青年）、婚姻（中年）、等待与黄昏之恋（老年）——'爱情的百科全书'（通说）。",
@@ -38,10 +58,22 @@
     "艺术特点：传统叙事（与《百年孤独》的魔幻不同）、开篇倒置、结尾的'永航'。"
   ],
   "influence": [
-    {"text": "Britannica（García Márquez 条目）：Love in the Time of Cholera (1985) 为其后《百年孤独》最重要的作品。", "source": "B053"},
-    {"text": "Britannica：2007年电影改编（Javier Bardem 主演）。", "source": "B053"},
-    {"text": "世界销量与课选：被译成数十种语言（通说待核）。", "source": "B053"},
-    {"text": "中文出版：杨玲译本（南海出版公司，通说待核）。", "source": "B053"}
+    {
+      "text": "Britannica（García Márquez 条目）：Love in the Time of Cholera (1985) 为其后《百年孤独》最重要的作品。",
+      "source": "B053"
+    },
+    {
+      "text": "Britannica：2007年电影改编（Javier Bardem 主演）。",
+      "source": "B053"
+    },
+    {
+      "text": "世界销量与课选：被译成数十种语言（通说待核）。",
+      "source": "B053"
+    },
+    {
+      "text": "中文出版：杨玲译本（南海出版公司，通说待核）。",
+      "source": "B053"
+    }
   ],
   "reading": {
     "difficulties": [
@@ -61,21 +93,47 @@
     "杨玲译本信息待核。",
     "2007电影改编细节待核。"
   ],
-  "sources": ["B053"],
+  "sources": [
+    "B053"
+  ],
   "year_source": "B053",
   "author_source": "B053",
-  "related_works": ["bainian", "zhuiyi", "aoman"],
+  "related_works": [
+    "bainian",
+    "zhuiyi",
+    "aoman"
+  ],
   "svg": {
     "type": "flow",
     "width": 680,
     "height": 240,
     "caption": "《霍乱时期的爱情》半个世纪爱情结构图",
     "steps": [
-      {"title": "情书年代", "text": "电报员与富商之女", "color": "family"},
-      {"title": "退婚", "text": "'看清了'——嫁医生", "color": "antagonist"},
-      {"title": "51年等待", "text": "622段备用情史", "color": "plain"},
-      {"title": "体面婚姻", "text": "乌尔比诺夫妇半世纪", "color": "gold"},
-      {"title": "永航", "text": "挂霍乱旗·'永远'", "color": "main"}
+      {
+        "title": "情书年代",
+        "text": "电报员与富商之女",
+        "color": "family"
+      },
+      {
+        "title": "退婚",
+        "text": "'看清了'——嫁医生",
+        "color": "antagonist"
+      },
+      {
+        "title": "51年等待",
+        "text": "622段备用情史",
+        "color": "plain"
+      },
+      {
+        "title": "体面婚姻",
+        "text": "乌尔比诺夫妇半世纪",
+        "color": "gold"
+      },
+      {
+        "title": "永航",
+        "text": "挂霍乱旗·'永远'",
+        "color": "main"
+      }
     ]
   }
 }

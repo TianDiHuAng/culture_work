@@ -1,0 +1,196 @@
+{
+  "id": "xifuhui",
+  "title": "喜福会",
+  "original_title": "The Joy Luck Club（喜福会）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（多声部）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "tan",
+  "author_name": "谭恩美",
+  "year_display": "1989年出版（Britannica）",
+  "year_sort": 1989,
+  "background": [
+    "结构：四位中国母亲（1940s移民）与四位美国女儿——16章交替叙事——'喜福会'为母亲们在旧金山创立的麻将俱乐部（通说）。",
+    "Britannica（Tan 条）：'The Joy Luck Club (1989)——inspired by her 1987 China trip with her mother, spent 40+ weeks on the NYT bestseller list and was a 1993 film'（灵感来自1987年与母回中国行，NYT畅销榜40余周，1993年电影——Britannica：1993 film, she co-wrote the screenplay with Ron Bass）。"
+  ],
+  "outline": [
+    "四位母亲：Suyuan Woo（喜福会创始者，在中国丢失双胞胎女儿）、An-Mei Hsu（'脸'的创伤——通说细节）、Lindo Jong（包办婚姻的逃离）、Ying-Ying St. Clair（'消失的女人'——通说）。",
+    "四位女儿：June（斯司·胡）、Rose Hsu Jordan、Waverly Jong（象棋神童）、Lena St. Clair——美国成长的中国女儿（通说）。",
+    "结局：June 赴中国寻找失散的双胞胎姐姐——代际与文化的'抵达'（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "吴素云（Suyuan Woo）",
+      "identity": "母亲",
+      "note": "喜福会创始者——'双桥'的记忆"
+    },
+    {
+      "name": "钟林多（Lindo Jong）",
+      "identity": "母亲",
+      "note": "包办婚姻的'逃离者'"
+    },
+    {
+      "name": "许安梅（An-Mei Hsu）",
+      "identity": "母亲",
+      "note": "'脸'的伤痕"
+    },
+    {
+      "name": "映映·圣克莱尔",
+      "identity": "母亲",
+      "note": "'消失的女人'"
+    },
+    {
+      "name": "吴精美（June Woo）",
+      "identity": "女儿",
+      "note": "'喜福会'的新成员——母亲故事的接棒者"
+    },
+    {
+      "name": "钟韦弗利（Waverly Jong）",
+      "identity": "女儿",
+      "note": "象棋神童——母女战争的焦点"
+    }
+  ],
+  "themes": [
+    "母女冲突：中国母亲的'牺牲'vs 美国女儿的'自我'——'我们之间隔着语言与海洋'（通说）。",
+    "'翻译'中国：麻将/风水/中秋节——英文世界理解'中国'的方式（通说）。",
+    "创伤的代际传递：母亲的战时苦难投射到女儿生活（通说）。",
+    "艺术特点：16章交替（母/女）的多声部结构、'中国故事'嵌入现代叙事。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Tan 条）：The Joy Luck Club (1989)——'inspired by her 1987 China trip with her mother'；'40+ weeks on the NYT bestseller list'；'1993 film'。",
+      "source": "B163"
+    },
+    {
+      "text": "华裔美国文学的里程碑：'亚裔文学'进入主流（通说待核）。",
+      "source": "B163"
+    },
+    {
+      "text": "中译：程乃珊译《喜福会》（上海译文出版社，通说待核）。",
+      "source": "B163"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "16个叙述者——记住'四母四女'的对应关系。",
+      "中国文化术语（喜福会/麻将/风水）——翻译的选择。"
+    ],
+    "editions": [
+      "程乃珊、严映薇译《喜福会》（上海译文出版社，通说待核）。",
+      "英文本：Penguin（通说待核）。"
+    ],
+    "order": "通读四部 → 精读 June 的'羽毛扇'与 Waverley 的'象棋' → 对照1993年电影。"
+  },
+  "pending": [
+    "1989年 Putnam 出版与首印数待核。",
+    "程乃珊译本信息待核。",
+    "1993年电影 Wayne Wang 导演细节待核。"
+  ],
+  "sources": [
+    "B163"
+  ],
+  "year_source": "B163",
+  "author_source": "B163",
+  "related_works": [
+    "nvvongshi",
+    "jia",
+    "nuoweide"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《喜福会》四母四女关系图",
+    "nodes": [
+      {
+        "id": "suyuan",
+        "label": "吴素云",
+        "x": 340,
+        "y": 70,
+        "color": "gold",
+        "sub": "母亲"
+      },
+      {
+        "id": "lindo",
+        "label": "钟林多",
+        "x": 130,
+        "y": 70,
+        "color": "gold",
+        "sub": "母亲"
+      },
+      {
+        "id": "anmei",
+        "label": "许安梅",
+        "x": 520,
+        "y": 70,
+        "color": "gold",
+        "sub": "母亲"
+      },
+      {
+        "id": "yingying",
+        "label": "映映",
+        "x": 520,
+        "y": 130,
+        "color": "gold",
+        "sub": "母亲"
+      },
+      {
+        "id": "june",
+        "label": "吴精美",
+        "x": 340,
+        "y": 200,
+        "color": "main",
+        "sub": "女儿"
+      },
+      {
+        "id": "waverly",
+        "label": "钟韦弗利",
+        "x": 130,
+        "y": 200,
+        "color": "main",
+        "sub": "女儿"
+      },
+      {
+        "id": "rose",
+        "label": "许罗斯",
+        "x": 520,
+        "y": 200,
+        "color": "main",
+        "sub": "女儿"
+      },
+      {
+        "id": "lena",
+        "label": "圣克莱尔·琳娜",
+        "x": 520,
+        "y": 200,
+        "color": "main",
+        "sub": "女儿"
+      }
+    ],
+    "edges": [
+      {
+        "a": "suyuan",
+        "b": "june",
+        "label": "母女"
+      },
+      {
+        "a": "lindo",
+        "b": "waverly",
+        "label": "母女"
+      },
+      {
+        "a": "anmei",
+        "b": "rose",
+        "label": "母女"
+      },
+      {
+        "a": "yingying",
+        "b": "lena",
+        "label": "母女"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "allende",
+  "name": "阿连德",
+  "foreign_name": "Isabel Allende（伊莎贝尔·阿连德，1942-08-02 — ）",
+  "country": "智利",
+  "birth": "1942-08-02",
+  "death": null,
+  "birth_year": 1942,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "阿连德，生于秘鲁利马的智利作家，'Chilean American writer in the magic realist tradition'（魔幻现实主义传统的智利美国作家——Britannica）。首作《幽灵之家》（1982）源于1981年给临终外祖父的信（Britannica：her first novel, The House of the Spirits (1982), grew out of a 1981 letter to her dying grandfather）；《关于爱与阴影》《埃娃·卢娜》《城市野兽》《宝拉》《漫长的海菊瓣》《紫罗兰》《我的名字叫艾米莉亚·德尔·瓦莱》（2025）；2010智利国家文学奖、2014美国自由勋章、2016 PEN Center USA 终身成就奖（Britannica）；1996年以《宝拉》利润创立伊莎贝尔·阿连德基金会（Britannica：founded the Isabel Allende Foundation in 1996 using profits from Paula）。",
+  "timeline": [
+    {"year": "1942-08-02", "text": "生于秘鲁利马（Britannica：born August 2, 1942, in Lima, Peru），智利外交官家庭（通说待核）。", "src": "B158"},
+    {"year": "1981—1982", "text": "1981年给临终外祖父写信→扩展为《幽灵之家》（Britannica：grew out of a 1981 letter to her dying grandfather）——1982年出版。", "src": "B158"},
+    {"year": "1982—2010", "text": "《关于爱与阴影》(1984)《埃娃·卢娜》(1987)《城市野兽》(1990)《宝拉》(1994)《漫长的海菊瓣》(2001)《紫罗兰》(2007)（Britannica 列举）；1973年皮诺切特政变后流亡委内瑞拉（通说待核）。", "src": "B158"},
+    {"year": "2010—2025", "text": "2010智利国家文学奖（Britannica：Chilean National Prize in Literature (2010)）；2014美国总统自由勋章（Britannica：U.S. Presidential Medal of Freedom (2014)）；2016 PEN Center USA 终身成就奖（Britannica）；《紫罗兰》(2024)与《我的名字叫艾米莉亚·德尔·瓦莱》(2025)（Britannica 列举）。", "src": "B158"}
+  ],
+  "major_works": [
+    {"work_id": "youlingzhijia", "note": "1982；代表作"},
+    {"title": "宝拉（1994）", "note": "女儿的回忆录（通说待核）"},
+    {"title": "埃娃·卢娜（1987）、城市野兽（1990）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "魔幻现实主义：Britannica——'realistic settings blended with fantastic episodes'——家族史诗+女性视角（通说）。",
+    "政治与家族的交织：1973智利政变作为小说核心（通说）。",
+    "'女性三部'：母女三代（通说）。"
+  ],
+  "status": "Britannica 定位阿连德为'Chilean American writer in the magic realist tradition'（魔幻现实主义传统的智利美国作家）——2010智利国家文学奖、2014美国自由勋章（Britannica）。",
+  "sources": ["B158"],
+  "dates_source": "B158",
+  "pending": [
+    "1982年 Plaza & Janés 出版（Barcelona，通说）细节待核。",
+    "与萨尔瓦多·阿连德（总统）的亲族关系待核。",
+    "宝拉基金会细节待核。"
+  ]
+}

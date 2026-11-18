@@ -1,0 +1,161 @@
+{
+  "id": "banlunhuangri",
+  "title": "半轮黄日",
+  "original_title": "Half of a Yellow Sun（半轮黄日）",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说（历史小说）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "adichie",
+  "author_name": "奇玛曼达·恩戈兹·阿迪契",
+  "year_display": "2006年出版（Britannica）",
+  "year_sort": 2006,
+  "background": [
+    "题材：1967—1970年比夫拉战争（伊博分离战争——Britannica 语境：Adichie 是伊博人——通说待核）——'半轮黄日'为比夫拉国旗标志（通说待核）。",
+    "荣誉（Britannica）：'won the Orange Broadband Prize'（Orange Broadband Prize 2007——Britannica）。"
+  ],
+  "outline": [
+    "三人物：Olanna（富家双胞胎姐姐）、Kainene（双胞胎妹妹）、Ugwu（乡间男仆）——1960s尼日利亚的知识分子与战争的交织（通说）。",
+    "比夫拉战争：饥饿、空袭、难民——'白人的红十字会也走了'（通说待核）——战争的残酷与日常的对照。",
+    "结局：战后——Olanna 与 Odenigbo 的婚姻、Ugwu 成为作家、Kainene 的失踪（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "Olanna",
+      "identity": "社会学教授之女",
+      "note": "'双胞胎'之一——与 Odenigbo 的知识分子爱情"
+    },
+    {
+      "name": "Kainene",
+      "identity": "孪生姐姐",
+      "note": "'冷淡的实干家'——战争中失踪（通说）"
+    },
+    {
+      "name": "Ugwu",
+      "identity": "男仆→士兵→作家",
+      "note": "'从乡下到战争'的成长"
+    },
+    {
+      "name": "Odenigbo",
+      "identity": "数学教授·革命者",
+      "note": "比夫拉的知识分子（通说）"
+    }
+  ],
+  "themes": [
+    "比夫拉战争： Britânica 语境中 Adichie 的'伊博身份'——战争的个人化书写（通说）。",
+    "阶级与种族：'精英知识分子的浪漫主义'与现实的碰撞（通说）。",
+    "艺术特点：多视角叙事、1960s时尚与战争细节的'文献感'（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Adichie 条）：Half of a Yellow Sun (2006, won the Orange Broadband Prize)——比夫拉战争的文学化。",
+      "source": "B162"
+    },
+    {
+      "text": "2013年电影（Chiwetel Ejiofor/Thandiwe Newton——通说待核）。",
+      "source": "B162"
+    },
+    {
+      "text": "中译：石平萍译《半轮黄日》（人民文学出版社，通说待核）。",
+      "source": "B162"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "比夫拉战争（1967—70）史——需要注释。",
+      "伊博文化（名字、谚语、食物）——配注释本。"
+    ],
+    "editions": [
+      "石平萍译《半轮黄日》（人民文学出版社，通说待核）。",
+      "英文本：Fourth Estate（通说待核）。"
+    ],
+    "order": "通读四部分 → 精读饥荒与'难民'段 → 对照纪录片（通说待核）。"
+  },
+  "pending": [
+    "2006年 Fourth Estate/Knopf 出版（通说）细节待核。",
+    "石平萍译本信息待核。",
+    "2013年电影 Biyi Bandele 导演待核。"
+  ],
+  "sources": [
+    "B162"
+  ],
+  "year_source": "B162",
+  "author_source": "B162",
+  "related_works": [
+    "wajie",
+    "chi",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《半轮黄日》三人物关系图",
+    "nodes": [
+      {
+        "id": "olanna",
+        "label": "Olanna",
+        "x": 340,
+        "y": 120,
+        "color": "main",
+        "sub": "知识分子"
+      },
+      {
+        "id": "kainene",
+        "label": "Kainene",
+        "x": 120,
+        "y": 120,
+        "color": "plain",
+        "sub": "孪生姐姐"
+      },
+      {
+        "id": "ugwu",
+        "label": "Ugwu",
+        "x": 340,
+        "y": 330,
+        "color": "family",
+        "sub": "男仆→士兵"
+      },
+      {
+        "id": "odenigbo",
+        "label": "Odenigbo",
+        "x": 550,
+        "y": 120,
+        "color": "main",
+        "sub": "数学教授"
+      },
+      {
+        "id": "biafra",
+        "label": "比夫拉战争",
+        "x": 340,
+        "y": 395,
+        "color": "antagonist",
+        "sub": "1967—1970"
+      }
+    ],
+    "edges": [
+      {
+        "a": "olanna",
+        "b": "odenigbo",
+        "label": "恋人"
+      },
+      {
+        "a": "olanna",
+        "b": "kainene",
+        "label": "双胞胎"
+      },
+      {
+        "a": "ugwu",
+        "b": "odenigbo",
+        "label": "仆人"
+      },
+      {
+        "a": "biafra",
+        "b": "ugwu",
+        "label": "战争的洗礼"
+      }
+    ]
+  }
+}

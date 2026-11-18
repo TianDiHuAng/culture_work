@@ -22,10 +22,26 @@
     "结局：数年后回京，塔季扬娜已嫁将军成社交女王——奥涅金狂热追求被拒：'但我已嫁给了别人，我将一辈子忠于他'（原文意，公有领域）——以塔季扬娜的拒绝收束（通说）。"
   ],
   "characters": [
-    {"name": "奥涅金", "identity": "纨绔青年", "note": "'多余人'原型（通说待核）"},
-    {"name": "塔季扬娜", "identity": "乡间少女→贵妇", "note": "普希金'最亲爱的'形象（通说待核）"},
-    {"name": "连斯基", "identity": "浪漫诗人", "note": "被奥涅金杀死的友人"},
-    {"name": "奥丽嘉", "identity": "塔季扬娜妹妹", "note": "连斯基未婚妻"}
+    {
+      "name": "奥涅金",
+      "identity": "纨绔青年",
+      "note": "'多余人'原型（通说待核）"
+    },
+    {
+      "name": "塔季扬娜",
+      "identity": "乡间少女→贵妇",
+      "note": "普希金'最亲爱的'形象（通说待核）"
+    },
+    {
+      "name": "连斯基",
+      "identity": "浪漫诗人",
+      "note": "被奥涅金杀死的友人"
+    },
+    {
+      "name": "奥丽嘉",
+      "identity": "塔季扬娜妹妹",
+      "note": "连斯基未婚妻"
+    }
   ],
   "themes": [
     "'多余人'：俄国文学的原型人物（通说待核）。",
@@ -33,10 +49,22 @@
     "艺术特点：'奥涅金诗节'、抒情插笔与讽刺（通说待核）。"
   ],
   "influence": [
-    {"text": "Britannica（Pushkin 条）：Yevgeny Onegin (begun 1823)——'first Russian work to take contemporary society as its subject'。", "source": "B143"},
-    {"text": "Britannica：语言风格塑造屠格涅夫冈察洛夫托尔斯泰。", "source": "B143"},
-    {"text": "柴可夫斯基歌剧（1879，通说待核）。", "source": "B143"},
-    {"text": "中译：冯春/智量译本（通说待核）。", "source": "B143"}
+    {
+      "text": "Britannica（Pushkin 条）：Yevgeny Onegin (begun 1823)——'first Russian work to take contemporary society as its subject'。",
+      "source": "B143"
+    },
+    {
+      "text": "Britannica：语言风格塑造屠格涅夫冈察洛夫托尔斯泰。",
+      "source": "B143"
+    },
+    {
+      "text": "柴可夫斯基歌剧（1879，通说待核）。",
+      "source": "B143"
+    },
+    {
+      "text": "中译：冯春/智量译本（通说待核）。",
+      "source": "B143"
+    }
   ],
   "reading": {
     "difficulties": [
@@ -56,28 +84,90 @@
     "Nabokov 英译四卷（1964，通说）待核。",
     "1879柴可夫斯基歌剧细节待核。"
   ],
-  "sources": ["B143"],
+  "sources": [
+    "B143"
+  ],
   "year_source": "B143",
   "author_source": "B143",
-  "related_works": ["dangdaiyingxiong", "zhanzheng", "chuci"],
+  "related_works": [
+    "dangdaiyingxiong",
+    "zhanzheng",
+    "chuci"
+  ],
   "svg": {
     "type": "graph",
     "width": 680,
     "height": 440,
     "caption": "《叶甫盖尼·奥涅金》人物关系图",
     "nodes": [
-      {"id": "onegin", "label": "奥涅金", "x": 340, "y": 130, "color": "main", "sub": "'多余人'"},
-      {"id": "tatyana", "label": "塔季扬娜", "x": 550, "y": 130, "color": "main", "sub": "乡间少女→贵妇"},
-      {"id": "lensky", "label": "连斯基", "x": 120, "y": 130, "color": "family", "sub": "诗人"},
-      {"id": "olga", "label": "奥丽嘉", "x": 120, "y": 330, "color": "plain", "sub": "连斯基未婚妻"},
-      {"id": "gremin", "label": "格列敏公爵", "x": 550, "y": 330, "color": "plain", "sub": "塔季扬娜之夫"}
+      {
+        "id": "onegin",
+        "label": "奥涅金",
+        "x": 340,
+        "y": 130,
+        "color": "main",
+        "sub": "'多余人'"
+      },
+      {
+        "id": "tatyana",
+        "label": "塔季扬娜",
+        "x": 530,
+        "y": 130,
+        "color": "main",
+        "sub": "乡间少女→贵妇"
+      },
+      {
+        "id": "lensky",
+        "label": "连斯基",
+        "x": 120,
+        "y": 130,
+        "color": "family",
+        "sub": "诗人"
+      },
+      {
+        "id": "olga",
+        "label": "奥丽嘉",
+        "x": 120,
+        "y": 330,
+        "color": "plain",
+        "sub": "连斯基未婚妻"
+      },
+      {
+        "id": "gremin",
+        "label": "格列敏公爵",
+        "x": 530,
+        "y": 330,
+        "color": "plain",
+        "sub": "塔季扬娜之夫"
+      }
     ],
     "edges": [
-      {"a": "onegin", "b": "tatyana", "label": "拒绝→追求→被拒"},
-      {"a": "tatyana", "b": "olga", "label": "姐妹"},
-      {"a": "lensky", "b": "olga", "label": "未婚夫妻"},
-      {"a": "onegin", "b": "lensky", "label": "决斗杀死", "style": "dashed"},
-      {"a": "tatyana", "b": "gremin", "label": "婚姻"}
+      {
+        "a": "onegin",
+        "b": "tatyana",
+        "label": "拒绝→追求→被拒"
+      },
+      {
+        "a": "tatyana",
+        "b": "olga",
+        "label": "姐妹"
+      },
+      {
+        "a": "lensky",
+        "b": "olga",
+        "label": "未婚夫妻"
+      },
+      {
+        "a": "onegin",
+        "b": "lensky",
+        "label": "决斗杀死",
+        "style": "dashed"
+      },
+      {
+        "a": "tatyana",
+        "b": "gremin",
+        "label": "婚姻"
+      }
     ]
   }
 }

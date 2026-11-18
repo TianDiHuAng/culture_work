@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="120.0" x2="550.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="429.0" y="111.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">恋人</text>
+<line x1="340.0" y1="120.0" x2="120.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="208.0" y="111.0" width="44.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">双胞胎</text>
+<line x1="340.0" y1="330.0" x2="550.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="429.0" y="216.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">仆人</text>
+<line x1="340.0" y1="395.0" x2="340.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="306.0" y="353.5" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="366.5" font-size="12" fill="#555" text-anchor="middle">战争的洗礼</text>
+<rect x="301.0" y="102.5" width="78.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">Olanna</text>
+<rect x="314.0" y="139.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">知识分子</text>
+<rect x="76.5" y="102.5" width="87.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="120.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">Kainene</text>
+<rect x="94.0" y="139.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">孪生姐姐</text>
+<rect x="310.0" y="312.5" width="60.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="340.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">Ugwu</text>
+<rect x="310.7" y="349.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">男仆→士兵</text>
+<rect x="502.0" y="102.5" width="96.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="550.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">Odenigbo</text>
+<rect x="524.0" y="139.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">数学教授</text>
+<rect x="290.5" y="377.5" width="99.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="340.0" y="400.4" font-size="15" fill="#fff" text-anchor="middle">比夫拉战争</text>
+<rect x="306.3" y="414.5" width="67.4" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="425.5" font-size="11" fill="#333" text-anchor="middle">1967—1970</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">《半轮黄日》三人物关系图</text>
+</svg>

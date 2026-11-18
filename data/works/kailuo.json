@@ -1,0 +1,117 @@
+{
+  "id": "kailuo",
+  "title": "开罗三部曲",
+  "original_title": "The Cairo Trilogy（宫间街·思宫街·甘露街，Cairo Trilogy）",
+  "region": "埃及",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（三部曲）",
+  "genre_group": "小说",
+  "language": "阿拉伯语",
+  "author_id": "mahfouz",
+  "author_name": "纳吉布·马哈福兹",
+  "year_display": "1956—1957年出版（Britannica）",
+  "year_sort": 1957,
+  "background": [
+    "三部曲（Britannica）：'Palace Walk,' 'Palace of Desire,' and 'Sugar Street' (1956–57)——traces three generations of Cairene families and captures 20th-century Egyptian social change（三代开罗家族与20世纪埃及社会变迁——Britannica）。",
+    "父权Ahmad Abd al-Jawad：商人——外面虔诚、家里暴君——妻子Amina的'沉默顺从'（通说）。"
+  ],
+  "outline": [
+    "第一卷《宫间街》：1920s开罗——Ahmad的专制家庭（两个妻子、五子二女）——长子Fahmy参加民族运动被杀（通说细节待核）。",
+    "第二卷《思宫街》：Ahmad的晚年与'秘密生活'（音乐与情妇）；革命与儿子们的分歧（通说）。",
+    "第三卷《甘露街》：1940s——孙子辈的共产主义者与伊斯兰主义者——'家'的最终崩解（通说细节待核）。"
+  ],
+  "characters": [
+    {
+      "name": "Ahmad Abd al-Jawad",
+      "identity": "商人·家长",
+      "note": "'外面虔诚、家里暴君'——父权的全面肖像"
+    },
+    {
+      "name": "Amina",
+      "identity": "妻子",
+      "note": "'沉默的顺从者'——但有自己的'秘密'（通说待核）"
+    },
+    {
+      "name": "Fahmy",
+      "identity": "长子",
+      "note": "民族主义者·被杀"
+    },
+    {
+      "name": "Yasin/Kamal",
+      "identity": "儿子们",
+      "note": "不同道路（通说）"
+    }
+  ],
+  "themes": [
+    "父权与家族：'家庭=国家'的微观（通说）。",
+    "埃及百年史：英国占领→独立→革命（通说）。",
+    "艺术特点：现实主义全景+心理深描（Britannica 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Mahfouz 条）：开罗三部曲——'traces three generations...captures 20th-century Egyptian social change'；1988诺奖。",
+      "source": "B160"
+    },
+    {
+      "text": "阿拉伯文学的世界化（通说待核）。",
+      "source": "B160"
+    },
+    {
+      "text": "中译：朱威烈等译（通说待核）。",
+      "source": "B160"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部曲篇幅大（约100万字）——按代分卷。",
+      "阿拉伯-埃及文化（伊斯兰、婚俗）——注释。"
+    ],
+    "editions": [
+      "开罗三部曲中译（上海译文/译林等，通说待核）。",
+      "英译：William Maynard Hutchins 等（通说待核）。"
+    ],
+    "order": "通读三部 → 精读第一卷 Ahmad 家训段与第三卷'崩解' → 对照《百年孤独》看'家族史诗'东西方路径。"
+  },
+  "pending": [
+    "三卷出版（1956/1957 Dar al-Ma'arif，通称）细节待核。",
+    "中译本信息待核。",
+    "1988诺奖授奖词待核。"
+  ],
+  "sources": [
+    "B160"
+  ],
+  "year_source": "B160",
+  "author_source": "B160",
+  "related_works": [
+    "honglou",
+    "youlingzhijia",
+    "bainian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《开罗三部曲》三卷结构图",
+    "cards": [
+      {
+        "title": "宫间街",
+        "sub": "Palace Walk (1956)",
+        "text": "父权与民族运动",
+        "color": "main"
+      },
+      {
+        "title": "思宫街",
+        "sub": "Palace of Desire (1957)",
+        "text": "父的晚年与秘密",
+        "color": "gold"
+      },
+      {
+        "title": "甘露街",
+        "sub": "Sugar Street (1957)",
+        "text": "孙辈的分裂与崩解",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
