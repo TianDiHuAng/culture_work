@@ -1,0 +1,74 @@
+{
+  "id": "taiyangshi",
+  "title": "太阳石",
+  "original_title": "Piedra de sol / Sunstone（太阳石）",
+  "region": "墨西哥",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "paz",
+  "author_name": "奥克塔维奥·帕斯",
+  "year_display": "1957年出版（通说待核）",
+  "year_sort": 1957,
+  "background": [
+    "结构：584行（阿兹特克历法一年——通说待核）——单句流动的环形诗，首尾相接（通说待核）。",
+    "Britannica（Paz 条）：Piedra de sol (Sun Stone) 为其 notable works；受超现实主义、佛教与印度教影响（Britannica：Influenced by Marxism, Surrealism, existentialism, Buddhism, and Hinduism）。"
+  ],
+  "outline": [
+    "单一长句：584行以冒号连接——'一株柳树生长着，一颗水珠滑落'（原文意，通说待核）——从夏日恋人的意象出发，流经记忆、战争、城市，回到起点：'一切在一朵花中'（原文意，待核）——环形闭合。"
+  ],
+  "characters": [
+    {"name": "'我'", "identity": "诗人·恋人·见证者", "note": "以'我'贯穿584行的沉思"},
+    {"name": "'她'", "identity": "恋人", "note": "夏季与'流逝'的化身（通说）"}
+  ],
+  "themes": [
+    "时间的环形：过去-现在-未来在一行诗中循环（通说）。",
+    "爱的消失与重现：'她走了……一切又回来了'（通说）。",
+    "艺术特点：584行单句的'呼吸'节奏、超现实意象与墨西哥神话的交融。"
+  ],
+  "influence": [
+    {"text": "Britannica（Paz 条）：Piedra de sol (Sun Stone) 列于 notable works。", "source": "B157"},
+    {"text": "20世纪长诗的代表作（通说待核）。", "source": "B157"},
+    {"text": "中译：赵振江译（通说待核）。", "source": "B157"}
+  ],
+  "reading": {
+    "difficulties": [
+      "584行单句——'一口气'读完的效果最佳。",
+      "阿兹特克历法与阿兹特克'太阳石'（历法石盘）的知识——注释。"
+    ],
+    "editions": [
+      "赵振江译《太阳石》（人民文学出版社，通说待核）。",
+      "英译：Eliot Weinberger（通说待核）。"
+    ],
+    "order": "通读（'一口气'）→ 重读头尾两行（环形闭合）→ 配《孤独的迷宫》。"
+  },
+  "pending": [
+    "1957年出版（Los Libros del Balancín，通说待核）细节待核。",
+    "赵振江译本信息待核。",
+    "584行数字与阿兹特克历法对应（通说待核）待核。"
+  ],
+  "sources": ["B157"],
+  "year_source": "B157",
+  "author_source": "B157",
+  "related_works": ["ershishou", "huangyuan", "daluolaiwei"],
+  "svg": {
+    "type": "ring",
+    "width": 680,
+    "height": 440,
+    "radius": 150,
+    "caption": "《太阳石》584行环形结构图",
+    "center": {"label": "太阳石"},
+    "nodes": [
+      {"label": "恋人", "color": "main"},
+      {"label": "记忆", "color": "family"},
+      {"label": "战争", "color": "antagonist"},
+      {"label": "城市", "color": "plain"},
+      {"label": "河流", "color": "family"},
+      {"label": "语言", "color": "gold"},
+      {"label": "时间", "color": "plain"},
+      {"label": "花朵", "color": "gold"}
+    ]
+  }
+}
