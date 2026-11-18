@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="550.0" y2="240.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="413.4" y="176.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="189.0" font-size="12" fill="#555" text-anchor="middle">夫妻·渐远</text>
+<line x1="340.0" y1="130.0" x2="130.0" y2="240.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="219.0" y="176.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="189.0" font-size="12" fill="#555" text-anchor="middle">母子</text>
+<line x1="130.0" y1="240.0" x2="550.0" y2="240.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="312.0" y="231.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="244.0" font-size="12" fill="#555" text-anchor="middle">婆媳战争</text>
+<line x1="550.0" y1="240.0" x2="560.0" y2="60.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="527.0" y="141.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="555.0" y="154.0" font-size="12" fill="#555" text-anchor="middle">同行离渝</text>
+<line x1="120.0" y1="60.0" x2="340.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="202.0" y="86.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="99.0" font-size="12" fill="#555" text-anchor="middle">时代挤压</text>
+<rect x="305.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">汪文宣</text>
+<rect x="305.2" y="149.5" width="69.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">校对员·肺病</text>
+<rect x="515.5" y="222.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="550.0" y="245.4" font-size="15" fill="#fff" text-anchor="middle">曾树生</text>
+<rect x="509.7" y="259.5" width="80.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="270.5" font-size="11" fill="#333" text-anchor="middle">妻子·银行职员</text>
+<rect x="103.0" y="222.5" width="54.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="130.0" y="245.4" font-size="15" fill="#fff" text-anchor="middle">汪母</text>
+<rect x="115.0" y="259.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="270.5" font-size="11" fill="#333" text-anchor="middle">婆婆</text>
+<rect x="525.5" y="42.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="65.4" font-size="15" fill="#fff" text-anchor="middle">陈主任</text>
+<rect x="521.9" y="79.5" width="76.2" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="90.5" font-size="11" fill="#333" text-anchor="middle">兰州的'出路'</text>
+<rect x="313.0" y="382.5" width="54.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="340.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">小宣</text>
+<rect x="325.0" y="419.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">儿子</text>
+<rect x="78.0" y="42.5" width="84.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="120.0" y="65.4" font-size="15" fill="#fff" text-anchor="middle">战时重庆</text>
+<rect x="76.4" y="79.5" width="87.2" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="90.5" font-size="11" fill="#333" text-anchor="middle">物价·疾病·寒夜</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">《寒夜》家庭三角关系图</text>
+</svg>

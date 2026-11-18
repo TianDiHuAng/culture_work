@@ -1,0 +1,87 @@
+{
+  "id": "hanye",
+  "title": "寒夜",
+  "original_title": "寒夜（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "bajin",
+  "author_name": "巴金",
+  "year_display": "1947年出版（Britannica：Hanye (1947; Cold Nights)）",
+  "year_sort": 1947,
+  "background": [
+    "Britannica（Ba Jin 条）：Qiyuan (1944; 'Pleasure Garden') and Hanye (1947; Cold Nights) 为其1940年代作品——'in the 1940s his tone grew more pessimistic and less radical, with sharper, truer insight into human relationships'（1940年代其笔调更悲观、更不激进，对人际关系的洞察更敏锐真实）。",
+    "时代背景：抗战末期的重庆——小职员家庭在物价飞涨、疾病与婆媳矛盾中的崩解（通说）。",
+    "创作缘起：巴金自述以友人万家宝（曹禺？不对——是其熟人）……实为以其周围小知识分子的生活为底本（创作谈《谈〈寒夜〉》——通说待核）。"
+  ],
+  "outline": [
+    "重庆，1944年冬：图书公司校对汪文宣（肺结核）与妻子曾树生（银行'花瓶'职员）——曾经的教育理想主义者沦为柴米油盐的困兽；母亲从上海来同住，婆媳战争（通说）。",
+    "撕裂：树生与婆婆无法共处；汪文宣夹在中间无能为力——'我是个老好人'（原文意，待核）；树生跟随陈主任去兰州（为生计与逃离），留下丈夫与儿子（通说细节）。",
+    "崩溃：文宣肺病加重而死；母亲带孙儿离渝；树生抗战胜利后返渝寻夫——只见坟墓与'寒夜'（通说细节）；结尾她在寒夜中独自走向未知的黑暗（通说）。"
+  ],
+  "characters": [
+    {"name": "汪文宣", "identity": "校对员", "note": "善良、懦弱、'老好人'——巴金笔下最压抑的男性形象"},
+    {"name": "曾树生", "identity": "银行职员·妻子", "note": "追求'活着'的权利——被婆媳战争与贫困逼走的现代女性（通说）"},
+    {"name": "汪母", "identity": "婆婆", "note": "'我是你的母亲'——旧式母爱与家庭战争的火种（通说）"},
+    {"name": "小宣", "identity": "儿子", "note": "沉默的孩子——家庭的第三代"},
+    {"name": "陈主任", "identity": "树生上司", "note": "带树生去兰州的'出路'提供者"}
+  ],
+  "themes": [
+    "'好人无好报'的控诉：没有坏人却人人受损——制度与时代的恶（巴金创作谈意，通说待核）。",
+    "婆媳战争的现代解剖：新旧伦理、经济依附与情感竞争（通说）。",
+    "小知识分子的失败：教育理想在战时经济中的破产（通说）。",
+    "艺术特点：与《家》的青春呼喊相反——冷峻的白描、日常琐碎的心理细节、'寒夜'意象的全书统摄。"
+  ],
+  "influence": [
+    {"text": "Britannica（Ba Jin 条）：Hanye (1947; Cold Nights) 列为主要作品——'sharper, truer insight into human relationships'。", "source": "B079"},
+    {"text": "Britannica：1940年代'更悲观更少激进'——本作为其文学成熟期的代表。", "source": "B079"},
+    {"text": "批评史：《寒夜》地位在1980年代后被大幅重估（'巴金最好的小说'说——通说待核）。", "source": "B079"},
+    {"text": "改编：1955年香港电影（通说待核）与电视剧（通说待核）。", "source": "B079"}
+  ],
+  "reading": {
+    "difficulties": [
+      "没有'事件'——全靠日常细节与心理（物价、咳嗽、信件）推进。",
+      "婆媳各自的'有理'——不要简单站队。",
+      "结尾的开放与黑暗——巴金式的'寒夜'意象。"
+    ],
+    "editions": [
+      "《巴金全集》（人民文学出版社）含《寒夜》：标准。",
+      "《寒夜》单行本（人民文学出版社'巴金选集'）：通行。"
+    ],
+    "order": "通读 → 精读婆媳冲突两场与结尾寻夫段 → 对照《家》看巴金从青春到沉郁的转变。"
+  },
+  "pending": [
+    "初版（1947年3月晨光出版公司说，通称）细节待核。",
+    "巴金《谈〈寒夜〉》的创作谈出处待核。",
+    "影视改编年表（1955/1984等）待核。",
+    "曾树生原型讨论（学界）待核。"
+  ],
+  "sources": ["B079"],
+  "year_source": "B079",
+  "author_source": "B079",
+  "related_works": ["jia", "ziye", "baofali"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《寒夜》家庭三角关系图",
+    "nodes": [
+      {"id": "wenxuan", "label": "汪文宣", "x": 340, "y": 130, "color": "main", "sub": "校对员·肺病"},
+      {"id": "shusheng", "label": "曾树生", "x": 550, "y": 240, "color": "main", "sub": "妻子·银行职员"},
+      {"id": "mother", "label": "汪母", "x": 130, "y": 240, "color": "antagonist", "sub": "婆婆"},
+      {"id": "chen", "label": "陈主任", "x": 560, "y": 60, "color": "plain", "sub": "兰州的'出路'"},
+      {"id": "xiao", "label": "小宣", "x": 340, "y": 400, "color": "plain", "sub": "儿子"},
+      {"id": "war", "label": "战时重庆", "x": 120, "y": 60, "color": "gold", "sub": "物价·疾病·寒夜"}
+    ],
+    "edges": [
+      {"a": "wenxuan", "b": "shusheng", "label": "夫妻·渐远"},
+      {"a": "wenxuan", "b": "mother", "label": "母子"},
+      {"a": "mother", "b": "shusheng", "label": "婆媳战争", "style": "dashed"},
+      {"a": "shusheng", "b": "chen", "label": "同行离渝", "style": "dashed"},
+      {"a": "war", "b": "wenxuan", "label": "时代挤压"}
+    ]
+  }
+}
