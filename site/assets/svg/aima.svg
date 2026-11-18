@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="130.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="201.0" y="121.0" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">操控感情线</text>
+<line x1="130.0" y1="130.0" x2="130.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="108.0" y="221.0" width="44.0" height="18" rx="3" fill="#fdf9f1"/><text x="130.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">误配一</text>
+<line x1="130.0" y1="330.0" x2="340.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="207.0" y="221.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">醉翁之意</text>
+<line x1="340.0" y1="130.0" x2="550.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="417.0" y="221.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">暧昧谣言</text>
+<line x1="550.0" y1="330.0" x2="340.0" y2="420.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="417.0" y="366.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="379.0" font-size="12" fill="#555" text-anchor="middle">秘密订婚</text>
+<line x1="340.0" y1="130.0" x2="550.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="413.4" y="121.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">批评→相恋</text>
+<line x1="340.0" y1="130.0" x2="90.0" y2="420.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="175.0" y="266.0" width="80.0" height="18" rx="3" fill="#fdf9f1"/><text x="215.0" y="279.0" font-size="12" fill="#555" text-anchor="middle">博克斯山嘲讽</text>
+<rect x="313.0" y="112.5" width="54.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">爱玛</text>
+<rect x="314.0" y="149.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">自封媒人</text>
+<rect x="88.0" y="112.5" width="84.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="130.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">哈丽叶特</text>
+<rect x="109.5" y="149.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">实验品</text>
+<rect x="515.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="550.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">奈特利</text>
+<rect x="509.7" y="149.5" width="80.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">道德标尺→丈夫</text>
+<rect x="95.5" y="312.5" width="69.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="130.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">埃尔顿</text>
+<rect x="115.0" y="349.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">牧师</text>
+<rect x="515.5" y="312.5" width="69.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="550.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">弗兰克</text>
+<rect x="518.5" y="349.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">秘密订婚者</text>
+<rect x="278.5" y="402.5" width="123.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="340.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">简·费尔法克斯</text>
+<rect x="314.0" y="439.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">钢琴才女</text>
+<rect x="48.0" y="402.5" width="84.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="90.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">贝茨小姐</text>
+<rect x="64.0" y="439.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="90.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">被嘲讽者</text>
+<rect x="290.5" y="22.5" width="99.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="340.0" y="45.4" font-size="15" fill="#fff" text-anchor="middle">韦斯顿夫妇</text>
+<rect x="301.9" y="59.5" width="76.2" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="70.5" font-size="11" fill="#333" text-anchor="middle">第一次'成功'</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《爱玛》'做媒'误配关系图</text>
+</svg>

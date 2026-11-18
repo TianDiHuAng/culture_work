@@ -1,0 +1,94 @@
+{
+  "id": "aima",
+  "title": "爱玛",
+  "original_title": "Emma（爱玛）",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "长篇小说（风尚小说）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "austen",
+  "author_name": "简·奥斯汀",
+  "year_display": "1815年出版（题献摄政王，Britannica）",
+  "year_sort": 1815,
+  "background": [
+    "出版：1815年12月出版，扉页题献摄政王（奥斯汀不情愿地接受，Britannica 提及 dedicated to the prince regent）；1816年瓦尔特·司各特在《评论季刊》发表书评——奥斯汀生前少有的重要评论（Britannica：Walter Scott praised Emma in the Quarterly Review (1816)）。",
+    "人物设计：奥斯汀自述'我要写一个除我之外无人会喜欢的女主角'（'a heroine whom no one but myself will much like'——其书信，通说待核）：有钱、聪明、自以为是的爱玛。",
+    "结构与《傲慢与偏见》的镜像：P&P 是'偏见被纠正'，爱玛是'干预他人者被教育'——配错对的喜剧机器。"
+  ],
+  "outline": [
+    "爱玛·伍德豪斯——海伯里'无与伦比'的女主人——刚促成女伴泰勒小姐嫁给奈特利姐夫韦斯顿，自信心爆棚，决定继续'做媒'。",
+    "误配连环：她把新朋友哈丽叶特（私生女出身）依次'匹配'给农夫马丁（阻挠成功）、牧师埃尔顿（对方看中的是爱玛自己——'埃尔顿求婚'车厢羞辱一场）、再给弗兰克·丘吉尔——哈丽叶特的感情目标随爱玛的指挥棒起舞，最后竟指向奈特利本人。",
+    "博克斯山野餐：爱玛当众嘲讽贫嘴的贝茨小姐——被奈特利痛斥：'It was badly done, indeed!'（原文，公有领域）——爱玛的'成长时刻'。",
+    "真相与结局：弗兰克与简·费尔法克斯的秘密订婚曝光；爱玛发现自己早已爱着奈特利（'哈丽叶特指向奈特利'的恐慌使其自察——通说）；奈特利求婚，哈丽叶特回归马丁——'完美的安排'结束全书。"
+  ],
+  "characters": [
+    {"name": "爱玛·伍德豪斯", "identity": "海伯里女主人", "note": "'漂亮、聪明、有钱'三样全占（开篇原文意，待核）却以自我中心的'好心'害人——奥斯汀最'难喜欢'的女主角"},
+    {"name": "奈特利先生", "identity": "唐威尔庄园主", "note": "爱玛的姐夫之友与道德标尺：唯一敢当面批评她的人"},
+    {"name": "哈丽叶特·史密斯", "identity": "寄宿学校学生", "note": "出身不明的'漂亮笨姑娘'——爱玛的实验品"},
+    {"name": "弗兰克·丘吉尔", "identity": "韦斯顿之子", "note": "以隐瞒订婚为乐的'优雅骗子'"},
+    {"name": "简·费尔法克斯", "identity": "贝茨小姐的侄女", "note": "才艺、贫困与秘密的承担者"},
+    {"name": "贝茨小姐", "identity": "贫嘴老小姐", "note": "唠叨到令人忽视的善良人——爱玛的嘲讽对象"}
+  ],
+  "themes": [
+    "干预他人命运的自负：'做媒'即权力的行使——爱玛把阶级、出身当作可操纵的游戏（通说解读）。",
+    "看不见的情感真相：全书是一场'误读'的连锁——读者与爱玛一起被误导（'爱玛式的不可靠'）。",
+    "阶级的柔软边界：哈丽叶特的私生女身世、贝茨小姐的贫穷——慈善与势利的一线之隔（通说）。",
+    "艺术特点：全书无'外部事件'，冲突全在对话的细微处；'自由间接引语'反讽的巅峰（读者知而爱玛不知）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Austen 条目）：Emma（1815）为其生前出版四部之一、题献摄政王；司各特1816年书评。", "source": "B037"},
+    {"text": "Britannica（A&P 条目）：约15部电影改编——其中1996/2020年《爱玛》改编（通说待核）。", "source": "B012"},
+    {"text": "学术地位：'Nobody, I think, has ever found Emma likable'（Jane Austen 批评史的名断——出处待核）与其持续流行的悖论。", "source": "B037"},
+    {"text": "Clueless（1995）现代化改编为经典（通说待核）。", "source": "B037"}
+  ],
+  "reading": {
+    "difficulties": [
+      "没有'外部情节'，全部戏剧性在对话潜台词——需要慢读。",
+      "人物十余位且称谓复杂（伍德豪斯/奈特利/唐威尔），先画关系图。",
+      "爱玛的'讨厌'是有意设计——读完全书再回看开篇。"
+    ],
+    "editions": [
+      "孙致礼译《爱玛》（译林出版社）：通行译本。",
+      "刘东译本（人民文学出版社，通说待核）：另一选择。",
+      "英文本：Penguin Classics 或 Cambridge Edition（通说待核）。"
+    ],
+    "order": "通读三卷 → 精读'埃尔顿车厢求婚'与'博克斯山'两场 → 对照《傲慢与偏见》看奥斯汀'自察教育'的两种设计。"
+  },
+  "pending": [
+    "1815年12月出版（Murray 书局说，通称）细节与初印数（2000册说，通说）待核。",
+    "'无人会喜欢的女主角'书信出处（致侄女 Anna 或 John Murray 函，通说）待核。",
+    "《爱玛》影视改编年表（1996/2020）待核。",
+    "司各特书评原文待核。"
+  ],
+  "sources": ["B037", "B012"],
+  "year_source": "B037",
+  "author_source": "B037",
+  "related_works": ["aoman", "weicheng", "jia"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《爱玛》'做媒'误配关系图",
+    "nodes": [
+      {"id": "emma", "label": "爱玛", "x": 340, "y": 130, "color": "main", "sub": "自封媒人"},
+      {"id": "harriet", "label": "哈丽叶特", "x": 130, "y": 130, "color": "family", "sub": "实验品"},
+      {"id": "knightley", "label": "奈特利", "x": 550, "y": 130, "color": "main", "sub": "道德标尺→丈夫"},
+      {"id": "elton", "label": "埃尔顿", "x": 130, "y": 330, "color": "antagonist", "sub": "牧师"},
+      {"id": "frank", "label": "弗兰克", "x": 550, "y": 330, "color": "antagonist", "sub": "秘密订婚者"},
+      {"id": "jane", "label": "简·费尔法克斯", "x": 340, "y": 420, "color": "plain", "sub": "钢琴才女"},
+      {"id": "bates", "label": "贝茨小姐", "x": 90, "y": 420, "color": "plain", "sub": "被嘲讽者"},
+      {"id": "weston", "label": "韦斯顿夫妇", "x": 340, "y": 40, "color": "plain", "sub": "第一次'成功'"}
+    ],
+    "edges": [
+      {"a": "emma", "b": "harriet", "label": "操控感情线"},
+      {"a": "harriet", "b": "elton", "label": "误配一", "style": "dashed"},
+      {"a": "elton", "b": "emma", "label": "醉翁之意", "style": "dashed"},
+      {"a": "emma", "b": "frank", "label": "暧昧谣言"},
+      {"a": "frank", "b": "jane", "label": "秘密订婚"},
+      {"a": "emma", "b": "knightley", "label": "批评→相恋"},
+      {"a": "emma", "b": "bates", "label": "博克斯山嘲讽", "style": "dashed"}
+    ]
+  }
+}
