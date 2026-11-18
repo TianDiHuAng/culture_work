@@ -1,0 +1,66 @@
+{
+  "id": "piaoliangpengyou",
+  "title": "漂亮朋友",
+  "original_title": "Bel-Ami（漂亮朋友）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（讽刺）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "maupassant",
+  "author_name": "基·德·莫泊桑",
+  "year_display": "1885年出版（通说待核）",
+  "year_sort": 1885,
+  "background": [
+    "新闻界的'野心家'小说（Britannica Maupassant 条：novels include...Bel-Ami——'he is regarded as a major figure of the modern short story'）——杜洛瓦以'漂亮朋友'之名攀附上流（通说）。"
+  ],
+  "outline": [
+    "退役兵乔治·杜洛瓦入《法兰西生活报》——借情妇们（克勒维尔、玛德莱娜、瓦尔特夫人、苏珊）步步高升（通说）。",
+    "结局：与苏珊（报业老板之女）结婚、获荣誉勋章——'教堂婚礼上他望向圣奥古斯丁教堂（议会）'（结尾原文意，通说待核）。"
+  ],
+  "characters": [
+    {"name": "乔治·杜洛瓦", "identity": "记者→政客", "note": "'漂亮朋友'——以女性与新闻为梯"},
+    {"name": "玛德莱娜·福雷斯蒂埃", "identity": "记者遗孀", "note": "'笔杆子'的妻子（通说）"},
+    {"name": "瓦尔特夫人", "identity": "报业老板之妻", "note": "阶梯之一"}
+  ],
+  "themes": [
+    "新闻与权力的共谋（通说）。",
+    "第三共和国的'攀升'社会（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Maupassant 条）：Bel-Ami 列于 novels。", "source": "B136"},
+    {"text": "'漂亮朋友'成为汉语词汇（通说待核）。", "source": "B136"}
+  ],
+  "reading": {
+    "difficulties": [
+      "第三共和国新闻政治背景——注释。"
+    ],
+    "editions": [
+      "郑永慧译《漂亮朋友》（人民文学出版社，通说待核）。",
+      "英文本：Penguin（Robert Lethbridge 导论——通说待核）。"
+    ],
+    "order": "通读 → 精读开头与结尾教堂段 → 对照《红与黑》的'于连'。"
+  },
+  "pending": [
+    "1885年出版（Flammarion）细节待核。",
+    "郑永慧译本信息待核。",
+    "报纸原型（《法兰西生活》=《法兰西时报》影射——通说）待核。"
+  ],
+  "sources": ["B136"],
+  "year_source": "B136",
+  "author_source": "B136",
+  "related_works": ["mauposangxuan", "hongyuhei", "qingzhong"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《漂亮朋友》'攀升'结构图",
+    "steps": [
+      {"title": "入报馆", "text": "福雷斯蒂埃引荐", "color": "plain"},
+      {"title": "娶寡妇", "text": "玛德莱娜·政论", "color": "gold"},
+      {"title": "勾引老板娘", "text": "瓦尔特夫人", "color": "antagonist"},
+      {"title": "娶苏珊", "text": "爵位·勋章·政客", "color": "main"}
+    ]
+  }
+}

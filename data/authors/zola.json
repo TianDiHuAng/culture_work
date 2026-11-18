@@ -1,0 +1,38 @@
+{
+  "id": "zola",
+  "name": "左拉",
+  "foreign_name": "Émile Zola（埃米尔·左拉，1840-04-02 — 1902-09-28）",
+  "country": "法国",
+  "birth": "1840-04-02",
+  "death": "1902-09-28",
+  "birth_year": 1840,
+  "death_year": 1902,
+  "era": "近代",
+  "summary": "左拉，巴黎人（在普罗旺斯艾克斯长大、与塞尚同窗——Britannica：raised partly in Aix-en-Provence, where he was schoolmates with painter Paul Cézanne），法国自然主义奠基人（Britannica：Founder of the naturalist movement, applying determinism and the experimental method to literature, as explained in Le Roman expérimental (1880)）。二十卷《卢贡-马卡尔家族》（1871—93）——'The Natural and Social History of a Family Under the Second Empire'（Britannica），含《小酒店》《娜娜》《萌芽》《崩溃》。1898年1月13日《我控诉》为德雷福斯案发声（Britannica：accusing the army of covering up Alfred Dreyfus's wrongful treason conviction）——诽谤罪定罪流亡英国（Britannica），1902年9月28日死于煤气窒息（'officially an accident, though some suspect anti-Dreyfusard involvement'——Britannica），1908年迁葬先贤祠（Britannica）。",
+  "timeline": [
+    {"year": "1840-04-02", "text": "生于巴黎（Britannica），七岁丧父、与塞尚为同窗（Britannica）。", "src": "B135"},
+    {"year": "1862—1865", "text": "哈谢特出版社职员转记者（Britannica：Worked as a clerk at the Hachette publishing firm before turning to journalism and fiction）；1865首作《克洛德的忏悔》引警方注意（Britannica：his first novel, La Confession de Claude (1865), drew police attention）。", "src": "B135"},
+    {"year": "1867—1893", "text": "《泰蕾丝·拉甘》（1867）与《玛德莱娜·菲拉》（1868）转自然主义（通说待核）；1871—93《卢贡-马卡尔家族》二十卷（Britannica：the 20-novel cycle (1871–1893)）。", "src": "B135"},
+    {"year": "1880", "text": "《实验小说论》（Britannica：Le Roman expérimental (1880)）——自然主义理论。", "src": "B135"},
+    {"year": "1898-01-13", "text": "《我控诉》（J'accuse，刊于《曙光报》L'Aurore——Britannica）——德雷福斯案；1899年流亡英国后返国（Britannica：fled to England in 1899 before returning when the case was reopened）。", "src": "B135"},
+    {"year": "1902-09-28", "text": "煤气窒息死于巴黎（Britannica：from coal gas asphyxiation via a blocked chimney flue）；1908年迁葬先贤祠（Britannica：moved to the Panthéon in 1908）。", "src": "B135"}
+  ],
+  "major_works": [
+    {"work_id": "mengya", "note": "1885；代表作之一"},
+    {"title": "小酒店（1877）、娜娜（1880）", "note": "卢贡-马卡尔家族（Britannica：including L'Assommoir, Nana, Germinal, and La Débâcle）"},
+    {"title": "我控诉（1898）", "note": "德雷福斯案（Britannica）"}
+  ],
+  "style": [
+    "自然主义：'applying determinism and the experimental method to literature'（Britannica）——遗传与环境决定论。",
+    "工人阶级的全景：《萌芽》矿工罢工（通说）。",
+    "'文献小说'：矿场/交易所/菜市场的'科学'调查（通说待核）。"
+  ],
+  "status": "Britannica 定位左拉为'自然主义运动奠基人'（Founder of the naturalist movement）——影响整个欧洲小说（通说待核）。'左拉式'成为'社会调查小说'的代称（通说待核）。",
+  "sources": ["B135"],
+  "dates_source": "B135",
+  "pending": [
+    "《萌芽》1885年出版细节待核。",
+    "1902年'谋杀说'疑案待核。",
+    "《卢贡-马卡尔家族》书目与家族谱系图待核。"
+  ]
+}

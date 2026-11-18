@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="240" fill="#fdf9f1" rx="10"/>
+<line x1="224.33333333333334" y1="94" x2="234.33333333333334" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="234.33333333333334,90 240.33333333333334,94 234.33333333333334,98" fill="#b9b0a3"/>
+<rect x="16.0" y="60" width="205.3" height="68" rx="8" fill="#fff" stroke="#55606b" stroke-width="1.6"/>
+<text x="118.7" y="84.0" font-size="13" fill="#55606b" text-anchor="middle">入境</text>
+<text x="118.7" y="104.0" font-size="12" fill="#555" text-anchor="middle">科隆·圣髑讽刺</text>
+<line x1="445.6666666666667" y1="94" x2="455.6666666666667" y2="94" stroke="#b9b0a3" stroke-width="1.8"/>
+<polygon points="455.6666666666667,90 461.6666666666667,94 455.6666666666667,98" fill="#b9b0a3"/>
+<rect x="237.3" y="60" width="205.3" height="68" rx="8" fill="#fff" stroke="#9a7b2f" stroke-width="1.6"/>
+<text x="340.0" y="84.0" font-size="13" fill="#9a7b2f" text-anchor="middle">红胡子对话</text>
+<text x="340.0" y="104.0" font-size="12" fill="#555" text-anchor="middle">沉睡的帝国</text>
+<rect x="458.7" y="60" width="205.3" height="68" rx="8" fill="#fff" stroke="#8c3b3b" stroke-width="1.6"/>
+<text x="561.3" y="84.0" font-size="13" fill="#8c3b3b" text-anchor="middle">预言</text>
+<text x="561.3" y="104.0" font-size="12" fill="#555" text-anchor="middle">'收割'的警告</text>
+<text x="340.0" y="230" font-size="12" fill="#8a8378" text-anchor="middle">《德国，一个冬天的童话》归途结构图</text>
+</svg>

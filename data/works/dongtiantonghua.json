@@ -1,0 +1,68 @@
+{
+  "id": "dongtiantonghua",
+  "title": "德国，一个冬天的童话",
+  "original_title": "Deutschland. Ein Wintermärchen / Germany, A Winter's Tale（德国，一个冬天的童话）",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇讽刺叙事诗",
+  "genre_group": "诗歌",
+  "language": "德语",
+  "author_id": "heine",
+  "author_name": "海因里希·海涅",
+  "year_display": "1844年出版（汉堡遭禁——通说待核）",
+  "year_sort": 1844,
+  "background": [
+    "写作缘起：1843年海涅从巴黎返乡探母——沿途所见'分裂的三十六邦'德国——以'冬天的童话'讽刺（通说待核）。",
+    "出版：1844年汉堡出版即遭普鲁士与奥地利禁（通说待核）。"
+  ],
+  "outline": [
+    "归途：科隆—红胡子大帝传说（'皇帝在山里睡着了'的传说——通说）；科隆大教堂的三王圣髑讽刺（通说）。",
+    "红胡子大帝对话：'如果他醒来，我们会怎样'——海涅的'告别浪漫'（通说）。",
+    "结局：'德国人向上帝祈祷，我会向魔鬼祈祷'式的讽刺与'行吟诗人的预言'：'伪善的老世界……总会有人来收割'（结尾原文意，通说待核——'红胡子'预言）。"
+  ],
+  "characters": [
+    {"name": "'我'（诗人）", "identity": "流亡诗人", "note": "'在德国走了一遭'的讽刺之眼"},
+    {"name": "红胡子大帝", "identity": "传说皇帝", "note": "'沉睡的帝国'象征"}
+  ],
+  "themes": [
+    "对分裂德国的讽刺（通说）。",
+    "浪漫主义传统的自我清算（通说）。",
+    "艺术特点：长诗以讽刺对白+叙事推进（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Heine 条）：Germany, a Winter's Tale (1844) — political satire。", "source": "B139"},
+    {"text": "马克思推许（《西里西亚织工之歌》并评——通说待核）。", "source": "B139"}
+  ],
+  "reading": {
+    "difficulties": [
+      "19世纪德意志邦国分裂背景（维也纳体系）——注释。",
+      "讽刺的互文（红胡子传说、《尼伯龙根之歌》）——注释。"
+    ],
+    "editions": [
+      "钱春绮译《德国，一个冬天的童话》（人民文学/上海译文，通说待核）。",
+      "英译：T.G. Karns（通说待核）。"
+    ],
+    "order": "通读（长诗可分段）→ 精读'红胡子对话'与结尾'预言' → 对照《诗歌集》。"
+  },
+  "pending": [
+    "1844年汉堡 Campe 出版与禁售细节待核。",
+    "钱春绮译本信息待核。",
+    "结尾预言原文逐字核对。"
+  ],
+  "sources": ["B139"],
+  "year_source": "B139",
+  "author_source": "B139",
+  "related_works": ["fushide", "hongyuhei", "nahan"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《德国，一个冬天的童话》归途结构图",
+    "steps": [
+      {"title": "入境", "text": "科隆·圣髑讽刺", "color": "plain"},
+      {"title": "红胡子对话", "text": "沉睡的帝国", "color": "gold"},
+      {"title": "预言", "text": "'收割'的警告", "color": "main"}
+    ]
+  }
+}

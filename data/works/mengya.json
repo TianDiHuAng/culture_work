@@ -1,0 +1,73 @@
+{
+  "id": "mengya",
+  "title": "萌芽",
+  "original_title": "Germinal / 萌芽",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（自然主义）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "zola",
+  "author_name": "埃米尔·左拉",
+  "year_display": "1885年出版（通说待核）",
+  "year_sort": 1885,
+  "background": [
+    "《卢贡-马卡尔家族》第十三卷（通说待核）——矿工罢工：1884年法国北部安赞矿区罢工为底本（通说待核）。",
+    "左拉实地下矿调查（通说待核）——'文献小说'（documentary fiction）。"
+  ],
+  "outline": [
+    "失业机器工艾蒂安·朗蒂埃到蒙苏矿区（Voreux 矿场）当推车工——马赫家族三代矿工（通说）。",
+    "罢工与镇压：工资削减引发大罢工（' buried alive'的矿难——通说细节待核）；艾蒂安鼓动国际工联（通说细节）；军队开枪镇压罢工者（通说）。",
+    "结局：苏瓦林（无政府主义者）破坏矿井排水致洪水；艾蒂安与卡特琳困矿中——获救后南下；'播种的人们'——结尾以'一支黑色复仇大军正在田野里生长……未来的萌芽'（原文意，通说待核）。"
+  ],
+  "characters": [
+    {"name": "艾蒂安·朗蒂埃", "identity": "机器工→鼓动者", "note": "《小酒店》之子的续传（人物复现——通说）"},
+    {"name": "凯瑟琳·马赫", "identity": "矿工女儿", "note": "艾蒂安之爱与苏瓦林之恨的焦点"},
+    {"name": "苏瓦林", "identity": "无政府主义者", "note": "'毁灭一切'的虚无（通说）"},
+    {"name": "马赫嫂", "identity": "矿工妻子", "note": "女性群像"},
+    {"name": "埃纳博经理", "identity": "公司代表", "note": "'资本'的化身"}
+  ],
+  "themes": [
+    "矿工的'地下'生活与阶级战争（通说）。",
+    "'萌芽'的希望：结尾的黑色大军=未来工人阶级（通说）。",
+    "自然主义的'环境决定'与浪漫的反抗并存（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Zola 条）：Germinal 列于《卢贡-马卡尔家族》名著之中。", "source": "B135"},
+    {"text": "法国矿工小说的原典（通说待核）；'Zola'成为罢工文学代称（通说待核）。", "source": "B135"}
+  ],
+  "reading": {
+    "difficulties": [
+      "采矿术语与19世纪法国劳资史——注释。",
+      "自然主义细节（矿内场景）——慢读。"
+    ],
+    "editions": [
+      "符锦勇译《萌芽》（人民文学出版社，通说待核）。",
+      "英文本：Penguin Classics（Leonard Tancock 译——通说待核）。"
+    ],
+    "order": "通读 → 精读'矿难'与结尾 → 对照《小酒店》看卢贡家族。"
+  },
+  "pending": [
+    "1885年 Charpentier 出版（通称）与连载（《Gil Blas》）细节待核。",
+    "符锦勇译本信息待核。",
+    "1884年安赞罢工史实待核。"
+  ],
+  "sources": ["B135"],
+  "year_source": "B135",
+  "author_source": "B135",
+  "related_works": ["gaolaotou", "hongyuhei", "fenwangyu"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《萌芽》罢工结构图",
+    "steps": [
+      {"title": "下矿", "text": "艾蒂安入马赫家", "color": "plain"},
+      {"title": "罢工", "text": "工资削减·'埋葬'矿难", "color": "antagonist"},
+      {"title": "镇压", "text": "军队开枪", "color": "antagonist"},
+      {"title": "洪水", "text": "苏瓦林毁矿井", "color": "gold"},
+      {"title": "萌芽", "text": "'黑色大军在生长'", "color": "main"}
+    ]
+  }
+}

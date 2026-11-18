@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="400" fill="#fdf9f1" rx="10"/>
+<rect x="14" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="40" width="200" height="6" rx="3" fill="#55606b"/>
+<text x="114.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">出版者序</text>
+<text x="114.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">框架</text>
+<text x="24" y="104.0" font-size="12" fill="#555">'为狂人'的手稿</text>
+<rect x="228" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="40" width="200" height="6" rx="3" fill="#8c3b3b"/>
+<text x="328.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">手稿·人性/狼性</text>
+<text x="328.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">哈勒尔自述</text>
+<text x="238" y="104.0" font-size="12" fill="#555">'一千个灵魂'</text>
+<rect x="442" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="442" y="40" width="200" height="6" rx="3" fill="#9a7b2f"/>
+<text x="542.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">魔剧院</text>
+<text x="542.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">千百扇门</text>
+<text x="452" y="104.0" font-size="12" fill="#555">重组自我·学会笑</text>
+<text x="340.0" y="390" font-size="12" fill="#8a8378" text-anchor="middle">《荒原狼》三层文本结构图</text>
+</svg>

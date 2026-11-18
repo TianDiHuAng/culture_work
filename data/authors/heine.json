@@ -1,0 +1,38 @@
+{
+  "id": "heine",
+  "name": "海涅",
+  "foreign_name": "Heinrich Heine（海因里希·海涅，1797-12-13 — 1856-02-17）",
+  "country": "德国",
+  "birth": "1797-12-13",
+  "death": "1856-02-17",
+  "birth_year": 1797,
+  "death_year": 1856,
+  "era": "近代",
+  "summary": "海涅，杜塞尔多夫犹太富商家庭出身（叔父银行家所罗门资助——Britannica：largely financed by his wealthy uncle Salomon, a Hamburg banker），德国诗人与讽刺作家。波恩柏林哥廷根学法律、1825年改宗新教（Britannica：converting to Protestantism in 1825 to qualify for civil service—but never practiced law）。《诗歌集》（1827）成名——'many poems were later set to music'（多被谱曲，Britannica）；1831年七月革命后定居巴黎至死（Britannica：He moved to Paris in 1831...remaining until death）；《德国，一个冬天的童话》（1844）政治讽刺（Britannica：political satire like Germany, a Winter's Tale (1844)）；1848年起瘫痪失明、'mattress-grave'（床垫坟墓——Britannica）中写《罗曼采罗》（1851）——'widely considered among his finest work'（Britannica）。1856年卒于巴黎（Britannica）。",
+  "timeline": [
+    {"year": "1797-12-13", "text": "生于杜塞尔多夫犹太家庭（Britannica）。", "src": "B139"},
+    {"year": "1825—1827", "text": "改宗新教（1825，Britannica）；1827年《诗歌集》成名（Britannica）。", "src": "B139"},
+    {"year": "1826—1831", "text": "《旅行画面》四卷——'fiction, autobiography, and social criticism'（Britannica：blended fiction, autobiography, and social criticism）。", "src": "B139"},
+    {"year": "1831", "text": "七月革命后定居巴黎（Britannica），写法国政论与德国文化。", "src": "B139"},
+    {"year": "1844", "text": "《德国，一个冬天的童话》——讽刺德国分裂与落后（Britannica：political satire）。", "src": "B139"},
+    {"year": "1848—1856", "text": "瘫痪失明（Britannica：Paralyzed and partially blind from 1848）；《罗曼采罗》（1851）——'widely considered among his finest work'（Britannica）；1856-02-17卒于巴黎（Britannica），葬蒙马特（Britannica：buried in Montmartre Cemetery）。", "src": "B139"}
+  ],
+  "major_works": [
+    {"work_id": "dongtiantonghua", "note": "1844；政治讽刺长诗"},
+    {"title": "诗歌集（1827）", "note": "抒情诗（Britannica）"},
+    {"title": "罗曼采罗（1851）", "note": "晚期诗集（Britannica）"}
+  ],
+  "style": [
+    "浪漫与讽刺的融合：'blending Romantic style with irony and skepticism about Romantic ideals'（Britannica）。",
+    "'刀剑与诗歌'：抒情与政治并置（通说）。",
+    "流亡者的德国批判（通说）。"
+  ],
+  "status": "Britannica 称海涅为'德国后浪漫主义危机的主要声音'（the major voice of Germany's post-Romantic crisis）。《西里西亚织工之歌》被马克思推崇（'海涅的预言'——通说待核）；其诗'多被谱曲'（舒曼、舒伯特——通说待核）。",
+  "sources": ["B139"],
+  "dates_source": "B139",
+  "pending": [
+    "《德国，一个冬天的童话》1844年出版（汉堡被禁）细节待核。",
+    "马克思与海涅交往（1843—44巴黎）待核。",
+    "钱春绮译本信息待核。"
+  ]
+}

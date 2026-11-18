@@ -1,0 +1,71 @@
+{
+  "id": "huangyuanlang",
+  "title": "荒原狼",
+  "original_title": "Der Steppenwolf（荒原狼）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "hesse",
+  "author_name": "赫尔曼·黑塞",
+  "year_display": "1927年出版（Britannica）",
+  "year_sort": 1927,
+  "background": [
+    "主人公哈利·哈勒尔——'荒原狼'：'每个人都是一千个灵魂的混合体'——'人性与狼性'的二元（通说）。",
+    "文化背景：1920s德国——战争阴影、爵士时代与资产阶级文明的黄昏（通说）。"
+  ],
+  "outline": [
+    "手稿框架：出版者序——哈勒尔留下的手稿《哈利·哈勒尔自述——只为狂人》（通说）。",
+    "哈勒尔：年约五十的隐士学者——厌恶市民生活、赞歌与莫扎特、'狼性'（通说）；遇'魔剧院'小册子《论荒原狼——只为狂人》。",
+    "魔剧院：赫米娜与爵士萨克斯手巴勃罗——'魔剧院'的千百扇门：教育与战争、爱情与性的'重组'（通说）。",
+    "结局：'永生者'（莫扎特与歌德）的嘲笑与'绞刑幽默'——哈勒尔学'笑'（结尾原文意，通说待核）。"
+  ],
+  "characters": [
+    {"name": "哈利·哈勒尔", "identity": "隐士学者", "note": "'人性/狼性'的二元者"},
+    {"name": "赫米娜", "identity": "赫米娜", "note": "哈勒尔'镜像'的女性（通说）"},
+    {"name": "巴勃罗", "identity": "萨克斯手", "note": "魔剧院的引路人"},
+    {"name": "莫扎特", "identity": "'永生者'", "note": "结尾的'导师'形象（通说）"}
+  ],
+  "themes": [
+    "二元与'一千个灵魂'：超越'人性/狼性'的多元自我（通说）。",
+    "'市民世界'的批判（通说）。",
+    "'幽默'与'永生者'：'幽默'是'达到自由的途径'（通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Hesse 条）：Der Steppenwolf (1927) 列于 major works。", "source": "B137"},
+    {"text": "1960s—70s英语青年'cult'（Britannica：cult figure——书名成为Steppenwolf乐队名——通说待核）。", "source": "B137"}
+  ],
+  "reading": {
+    "difficulties": [
+      "三层文本（出版者序/手稿/魔剧院）——结构读法。",
+      "'魔剧院'的超现实段——卡夫卡式（通说待核）。"
+    ],
+    "editions": [
+      "谢莹莹译《荒原狼》（上海译文出版社，通说待核）。",
+      "英译：Basil Creighton（通说待核）。"
+    ],
+    "order": "通读 → 精读'魔剧院'章与结尾'莫扎特与笑' → 对照《悉达多》。"
+  },
+  "pending": [
+    "1927年 S. Fischer 出版细节待核。",
+    "谢莹莹译本信息待核。",
+    "Steppenwolf 乐队（1967）书名借用待核。"
+  ],
+  "sources": ["B137"],
+  "year_source": "B137",
+  "author_source": "B137",
+  "related_works": ["xidamuo", "fushide", "bianxingji"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《荒原狼》三层文本结构图",
+    "cards": [
+      {"title": "出版者序", "sub": "框架", "text": "'为狂人'的手稿", "color": "plain"},
+      {"title": "手稿·人性/狼性", "sub": "哈勒尔自述", "text": "'一千个灵魂'", "color": "main"},
+      {"title": "魔剧院", "sub": "千百扇门", "text": "重组自我·学会笑", "color": "gold"}
+    ]
+  }
+}
