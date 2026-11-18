@@ -1,0 +1,79 @@
+{
+  "id": "aeneid",
+  "title": "埃涅阿斯纪",
+  "original_title": "Aeneis / Aeneid（埃涅阿斯纪）",
+  "region": "古罗马",
+  "era": "古代",
+  "era_detail": "上古",
+  "genre": "史诗（长篇叙事诗，12卷）",
+  "genre_group": "诗歌",
+  "language": "拉丁语",
+  "author_id": "virgil",
+  "author_name": "维吉尔",
+  "year_display": "约前30—前19年（奉奥古斯都而作，殁时未定稿）",
+  "year_sort": -19,
+  "background": [
+    "创作（Britannica）：约前30—19年间奉奥古斯都之命写作，以拉丁文六音步写成12卷；作者去世时约60行未完成（'about 60 lines were left unfinished at Virgil's death'）。",
+    "政治语境：亚克兴海战（前31）后，奥古斯都需要为'罗马的天命'提供神话——维吉尔的史诗把内战创伤转写为神意的实现（通说解读）。",
+    "罗马起源传说：特洛伊英雄埃涅阿斯携父携神逃亡、娶拉丁公主拉维尼娅——尤利乌斯家族（Iulus）由此上溯维纳斯血脉（通说待核）。"
+  ],
+  "outline": [
+    "第一至六卷（'漂流'，应《奥德赛》）：特洛伊城破之夜，埃涅阿斯肩扛父亲、手携神像出海——'命运'（fatum）与神意引导其寻新家园（Britannica：guided by fate and the gods）；风暴把他吹到迦太基，女王狄多（Dido）与之相恋，但神命他继续前行——狄多自焚而死，'the poem's most tragic episode'（Britannica）；第六卷埃涅阿斯下冥府，见狄多亡灵与父亲安喀塞斯，罗马的荣耀未来一一展示（Britannica：Book VI...Rome's destiny is revealed）。",
+    "第七至十二卷（'战争'，应《伊利亚特》）：抵拉丁姆后婚约风波引发与图尔努斯（Turnus）的战争；埃涅阿斯联伊特鲁里亚人决战，终杀图尔努斯、娶拉维尼娅，建立拉维尼姆——阿尔巴·隆加与罗马的祖先之城（Britannica：Books VII–XII: wars in Latium...founding Lavinium, ancestor town of Alba Longa and Rome）。",
+    "结尾的争议：史诗以埃涅阿斯在怒火中杀死求饶的图尔努斯收束——'文明奠基者'身上的原始暴力，两千年来争论不休（通说）。"
+  ],
+  "characters": [
+    {"name": "埃涅阿斯", "identity": "特洛伊王子、罗马先祖", "note": "'虔诚者'（pius Aeneas）：以责任压倒私人幸福——Britannica 称其为'the founder of Roman greatness'"},
+    {"name": "狄多", "identity": "迦太基女王", "note": "爱而遭弃、自焚立咒——罗马与迦太基三百年布匿战争的神话说辞"},
+    {"name": "图尔努斯", "identity": "鲁图利亚王、情敌", "note": "史诗的'赫克托耳'：骄傲而最终求饶被杀的失败英雄"},
+    {"name": "拉维尼娅", "identity": "拉丁公主", "note": "战争的理由与罗马之母（全书几乎无台词——学界讨论的'沉默'人物）"},
+    {"name": "安喀塞斯", "identity": "埃涅阿斯之父", "note": "冥府演说：罗马使命的神学纲领"},
+    {"name": "维纳斯与尤诺", "identity": "对立的守护神", "note": "母神助子、天后害之——神界的政治"}
+  ],
+  "themes": [
+    "天命与牺牲：个人幸福（狄多之爱）必须为'历史使命'让路——史诗为帝国的代价立传，也为它哀悼（通说解读）。",
+    "帝国奠基的神话：从特洛伊之火到拉丁姆之斧——罗马天命的谱系学（Britannica：Rome's national epic）。",
+    "仿史诗的自我意识：对荷马的'翻译与改写'本身成为主题——罗马文化对希腊遗产的承接与超越（Britannica：modeled it on Homer）。",
+    "怜悯的政治：图尔努斯之死的道德暧昧——胜利者史诗的裂缝（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica：'Rome's national epic and one of the most influential works of Latin literature'（罗马民族史诗、拉丁文学最有影响作品之一）。", "source": "B118"},
+    {"text": "接受链：中世纪'维吉尔先知'传说、但丁《神曲》的向导、斯宾塞《仙后》与弥尔顿《失乐园》的范本、当代重写（ Ursula Le Guin《Lavinia》等——通说待核）。", "source": "B118"},
+    {"text": "拉丁语教育的核心文本：欧洲文法学校的千年必读书（通说待核）。", "source": "B118"}
+  ],
+  "reading": {
+    "difficulties": [
+      "拉丁语原文门槛高，宜读译本并配注释（神话与历史指涉密集）。",
+      "前六卷'漂流'与后六卷'战争'文体不同，注意节奏。",
+      "结尾杀图尔努斯的道德争议需要对照各家解读。"
+    ],
+    "editions": [
+      "中译：杨周翰译《埃涅阿斯纪》（人民文学出版社）——通行经典译本。",
+      "英译：Robert Fitzgerald 或 David West（Penguin）/ Sarah Ruden（Yale，通说待核）。"
+    ],
+    "order": "先读第1—2卷（风暴与特洛伊陷落回忆）与第4卷（狄多之死）→ 第6卷（冥府）→ 第12卷（杀图尔努斯）→ 通读其余。对照《奥德赛》与《伊利亚特》的对应卷。"
+  },
+  "pending": [
+    "《牧歌》《农事诗》年份待核。",
+    "'焚稿遗嘱'与奥古斯都保存令的原始记载（Donatus/Suetonius 式维吉尔传）待核。",
+    "拉维尼娅'沉默'的研究史（通说）待核。",
+    "杨周翰译本出版信息待核。"
+  ],
+  "sources": ["B118"],
+  "year_source": "B118",
+  "author_source": "B118",
+  "related_works": ["iliad", "odyssey", "shenqu"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《埃涅阿斯纪》'漂流—战争'双卷结构图",
+    "steps": [
+      {"title": "特洛伊陷落", "text": "肩父携神·出海（卷1—3）", "color": "antagonist"},
+      {"title": "迦太基", "text": "狄多之恋与自焚（卷4）", "color": "gold"},
+      {"title": "冥府", "text": "罗马命运的展示（卷6）", "color": "family"},
+      {"title": "拉丁姆战争", "text": "杀图尔努斯（卷7—12）", "color": "main"},
+      {"title": "建拉维尼姆", "text": "罗马的起点", "color": "main"}
+    ]
+  }
+}

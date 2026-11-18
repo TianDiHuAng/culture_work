@@ -1,0 +1,43 @@
+{
+  "id": "milton",
+  "name": "弥尔顿",
+  "foreign_name": "John Milton（约翰·弥尔顿，1608-12-09 — 1674-11-08?）",
+  "country": "英国",
+  "birth": "1608-12-09",
+  "death": "1674-11-08",
+  "birth_year": 1608,
+  "death_year": 1674,
+  "era": "近代",
+  "summary": "弥尔顿，伦敦公证人之子，剑桥毕业，'莎士比亚之后最重要的英国作家'（Britannica：the most significant English writer after William Shakespeare）。1640年代投身清教革命，任克伦威尔共和国政府外文秘书（拉丁文书信），为弑君辩护；王政复辟后被捕险遭处决。1667年在双目失明、政治失势的晚年口述完成《失乐园》——'英语中最伟大的史诗'（Britannica）。《论出版自由》（Areopagitica）为言论自由经典文献（Britannica）。",
+  "timeline": [
+    {"year": "1608-12-09", "text": "生于伦敦（Britannica：Born December 9, 1608, in London）；圣保罗学校与剑桥基督学院（BA 1629、MA 1632，Britannica）。", "src": "B090"},
+    {"year": "1638—1639", "text": "意大利之行，在佛罗伦萨拜访被软禁的伽利略（Britannica：meeting Galileo under house arrest in Florence）。", "src": "B090"},
+    {"year": "1642—1645", "text": "与玛丽·鲍威尔闪婚分离复合（家庭悲剧题材通说待核）；写离婚论辩小册子。", "src": "B090"},
+    {"year": "1644", "text": "《论出版自由》——对长老会审查制度的演说，言论自由的奠基文献（Britannica：a defense of free speech）。", "src": "B090"},
+    {"year": "1649—1660", "text": "任共和国政府外文秘书（Latin Secretary，Britannica：handling foreign correspondence）；为弑君政权辩护（《为英国人民声辩》1651，通说待核）；1652年双目失明。", "src": "B090"},
+    {"year": "1660", "text": "王政复辟后一度入狱，经友人（马维尔等，通说待核）斡旋获释；转入地下写作史诗。", "src": "B090"},
+    {"year": "1667", "text": "《失乐园》出版（10卷；1674年再版12卷——版本史通说待核）：'the greatest epic poem in English'（英语中最伟大的史诗，Britannica）。", "src": "B090"},
+    {"year": "1671", "text": "《复乐园》与《斗士参孙》合刊出版（Britannica 列举 Paradise Regained, Samson Agonistes）。", "src": "B090"},
+    {"year": "1674-11-08?", "text": "卒于伦敦（Britannica：died November 8?, 1674——卒日带问号），年六十六。", "src": "B090"}
+  ],
+  "major_works": [
+    {"work_id": "shiloyuan", "note": "1667；'the greatest epic poem in English'（Britannica）"},
+    {"title": "论出版自由（1644）", "note": "言论自由经典（Britannica）"},
+    {"title": "复乐园、斗士参孙（1671）", "note": "晚年双璧（Britannica 列举）"}
+  ],
+  "style": [
+    "拉丁化的崇高素体诗：《失乐园》以仿拉丁语法的英语素体诗行制造'史诗的重量'（通说）。",
+    "撒旦的雄辩：革命斗士的经验写进了堕落天使的演说——'宁在地狱称王，不在天堂为奴'（原文意，公有领域）。",
+    "神学的戏剧化：堕落的因果、自由意志与预知的关系——全书是神学论辩的叙事化（通说）。",
+    "失明者的内在视觉：'内在的光'（原文意）——口述写作的通感风格。"
+  ],
+  "status": "Britannica 定位弥尔顿为'莎士比亚之后最重要的英国作家'。《失乐园》影响从德莱顿改编、蒲柏戏仿到雪莱《解放了的普罗米修斯》（Britannica：Shelley modeled Prometheus on Milton's Satan）；撒旦作为'革命者还是恶棍'的双重形象成为浪漫主义的核心争论（'弥尔顿的撒旦党'——Blake/ Shelley 传统，通说待核）。《论出版自由》则是现代出版自由观念的源头文本之一。",
+  "sources": ["B090"],
+  "dates_source": "B090",
+  "pending": [
+    "卒日（11月8日?）Britannica 带问号。",
+    "《失乐园》1667年10卷初版与1674年12卷再版的版本细节待核。",
+    "外文秘书任期（1649—1652失明）与《为英国人民声辩》1651出版待核。",
+    "第三任妻子伊丽莎白·明舒尔（口述记录者）角色待核。"
+  ]
+}
