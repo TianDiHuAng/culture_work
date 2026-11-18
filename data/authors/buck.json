@@ -1,0 +1,38 @@
+{
+  "id": "buck",
+  "name": "赛珍珠",
+  "foreign_name": "Pearl S. Buck（赛珍珠，本名 Pearl Comfort Sydenstricker，1892-06-26 — 1973-03-06）",
+  "country": "美国",
+  "birth": "1892-06-26",
+  "death": "1973-03-06",
+  "birth_year": 1892,
+  "death_year": 1973,
+  "era": "近代",
+  "summary": "赛珍珠，西弗吉尼亚州希尔斯伯勒人（本名 Pearl Comfort Sydenstricker，Britannica），在中国镇江由长老会传教士父母抚养、由母亲与中国家庭教师教育后赴美求学（Britannica：Raised in Zhenjiang by Presbyterian missionary parents, educated by her mother and a Chinese tutor before studying in the U.S.）。在中国大学教授英语文学（1925—30，Britannica）。《大地》（1931，Britannica）——中国农民与其妻——1932年普利策奖并改编舞台与银幕（Britannica：won the Pulitzer Prize in 1932 and was adapted for stage and screen）；1938年诺贝尔文学奖（Britannica：Awarded the Nobel Prize for Literature in 1938）。1973年3月6日卒（Britannica）。",
+  "timeline": [
+    {"year": "1892-06-26", "text": "生于西弗吉尼亚州希尔斯伯勒（Britannica：born Pearl Comfort Sydenstricker in Hillsboro, West Virginia），镇江长大（Britannica：Raised in Zhenjiang）。", "src": "B165"},
+    {"year": "1925—1930", "text": "在中国大学教授英语文学（Britannica：Taught English literature in Chinese universities (1925–30)）；首作《东风·西风》(1930，Britannica：East Wind, West Wind, appeared in 1930)。", "src": "B165"},
+    {"year": "1931", "text": "《大地》出版（Britannica：The Good Earth (1931)，1932普利策奖——Britannica：won the Pulitzer Prize in 1932）。", "src": "B165"},
+    {"year": "1938", "text": "诺贝尔文学奖（Britannica：Awarded the Nobel Prize for Literature in 1938）。", "src": "B165"},
+    {"year": "1949—1973", "text": "1949年创立 Welcome House（混血儿童收养——Britannica：founding Welcome House (1949) for mixed-race children）；1964年赛珍珠基金会（Britannica：Pearl S. Buck Foundation (1964)），捐逾700万美元（Britannica：donated over $7 million）；1973-03-06卒（Britannica）。", "src": "B165"}
+  ],
+  "major_works": [
+    {"work_id": "dadi", "note": "1931；代表作"},
+    {"title": "儿子们（Sons）、分家（A House Divided）", "note": "大地三部曲（Britannica：It began a trilogy completed with Sons and A House Divided）"},
+    {"title": "龙种（Dragon Seed）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'向西方写中国'：以英语写中国农民——'经典'与'争议'并存（赛珍珠的中国书写在两国接受——通说待核）。",
+    "'土地'的宗教：'他爱土地，土地也爱他'（通说待核）。",
+    "现实主义叙事（通说）。"
+  ],
+  "status": "Britannica 定位赛珍珠为'美国作家'（American author）——1938诺奖；《大地》'关于一个中国农民和他的妻子'获1932普利策奖（Britannica）。其'向西方写中国'使其成为中美文学桥梁（通说待核）；鲁迅对赛珍珠的批评（通说待核）反映复杂接受史。",
+  "sources": ["B165"],
+  "dates_source": "B165",
+  "pending": [
+    "1931年 John Day 出版与普利策奖细节待核。",
+    "1938诺奖授奖词（'for rich and truly epic descriptions of peasant life in China'——通说待核）逐字核对待完成。",
+    "中译本（王逢振等——通说待核）信息待核。",
+    "鲁迅对赛珍珠批评原文待核。"
+  ]
+}

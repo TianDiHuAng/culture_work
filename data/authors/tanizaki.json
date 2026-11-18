@@ -1,0 +1,39 @@
+{
+  "id": "tanizaki",
+  "name": "谷崎润一郎",
+  "foreign_name": "Tanizaki Jun'ichirō（谷崎潤一郎，1886-07-24 — 1965-07-30）",
+  "country": "日本",
+  "birth": "1886-07-24",
+  "death": "1965-07-30",
+  "birth_year": 1886,
+  "death_year": 1965,
+  "era": "近代",
+  "summary": "谷崎润一郎，东京人（Britannica），日本小说家——'known for writing marked by eroticism and ironic wit'（以情色与反讽机智著称——Britannica）。早期《刺青》（1910）与爱伦·坡及法国颓废派接近（Britannica：early stories like 'The Tattooer' (1910) show ties to Poe and the French Decadents）；1923年移居关西后转向传统日本美学——《卍》（Some Prefer Nettles, 1929，Britannica）；1932年起将《源氏物语》译成现代日语（Britannica：He translated The Tale of Genji into modern Japanese starting in 1932, which shaped his lyrical 1930s prose）；《细雪》（1943—48）、《钥匙》（1956）、《疯癫老人日记》（1961—62）——Britannica 列举重要晚期作品。'永恒女性'的追求（Britannica：His career is often described as a literary pursuit of 'the eternal female'）。1965年7月30日卒于汤河原（Britannica）。",
+  "timeline": [
+    {"year": "1886-07-24", "text": "生于东京（Britannica：Born July 24, 1886, in Tokyo）。", "src": "B168"},
+    {"year": "1910", "text": "《刺青》发表于《新思潮》——受坡与法国颓废派影响（Britannica）。", "src": "B168"},
+    {"year": "1923", "text": "关东大地震后迁关西（Britannica：After relocating to the Ōsaka area in 1923），转向传统日本审美（Britannica）。", "src": "B168"},
+    {"year": "1929—1932", "text": "《卍》（Some Prefer Nettles, 1929，Britannica）；1932年始译《源氏物语》（Britannica）。", "src": "B168"},
+    {"year": "1943—1948", "text": "《细雪》——'makioka sisters'（Britannica 列举 The Makioka Sisters (1943–48)）——四姐妹的没落贵族生活。", "src": "B168"},
+    {"year": "1956—1962", "text": "《钥匙》（The Key，1956，Britannica）与《疯癫老人日记》（Diary of a Mad Old Man，1961—62，Britannica）。", "src": "B168"},
+    {"year": "1965-07-30", "text": "卒于汤河原（Britannica：died July 30, 1965, in Yugawara），年七十九。", "src": "B168"}
+  ],
+  "major_works": [
+    {"work_id": "xixue", "note": "1943—48；代表作"},
+    {"title": "钥匙（1956）、疯癫老人日记（1961—62）", "note": "晚期（Britannica 列举）"},
+    {"title": "春琴抄（1933）、卍（1929）", "note": "中期名作（通说待核）"}
+  ],
+  "style": [
+    "'情色与反讽'：Britannica——'eroticism and ironic wit'（情色与反讽机智）。",
+    "'关西转向'：从东京颓废派到关西古典美学的转变（Britannica 语境）。",
+    "'永恒女性'：'His career is often described as a literary pursuit of the eternal female'（Britannica）。"
+  ],
+  "status": "Britannica 定位谷崎润一郎为'以情色与反讽著称'的日本小说家；《细雪》为代表作之一。'谷崎美学'（耽美/女体/关西）影响了三岛由纪夫等（通说待核）。",
+  "sources": ["B168"],
+  "dates_source": "B168",
+  "pending": [
+    "《细雪》1943—48年出版（中央公论社，被军检删节——通说待核）细节待核。",
+    "于雷译《细雪》（人民文学出版社，通说待核）信息待核。",
+    "'源氏物语现代译'版本（1934—41）待核。"
+  ]
+}

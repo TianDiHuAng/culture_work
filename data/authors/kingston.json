@@ -1,0 +1,38 @@
+{
+  "id": "kingston",
+  "name": "汤亭亭",
+  "foreign_name": "Maxine Hong Kingston（汤婷婷/汤亭亭，1940-10-27 — ）",
+  "country": "美国",
+  "birth": "1940-10-27",
+  "death": null,
+  "birth_year": 1940,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "汤亭亭，加州斯托克顿人，六名美籍华人子女之首（Britannica），华裔美国作家——'writing rooted in her experience as a first-generation Chinese American, blending myth, family history, and folktales'（以第一代华人美国人经历写作，融合神话、家族史与民间故事——Britannica）。《女勇士》（1976，获全国书评人协会奖——Britannica：won the National Book Critics' Circle Award）；《中国佬》（1980，美国图书奖——Britannica：winner of the American Book Award）；《孙行者》（1989）、《做个诗人》（2002）、《第五和平之书》（2003）——Britannica 列举。2014年国家艺术勋章（Britannica：National Medal of Arts (2014)）。1962年伯克利毕业、同年嫁 Earll Kingston，加州与夏威夷任教后全职写作（Britannica）。",
+  "timeline": [
+    {"year": "1940-10-27", "text": "生于加州斯托克顿（Britannica：Born October 27, 1940, in Stockton, California）。", "src": "B164"},
+    {"year": "1962", "text": "加州大学伯克利分校毕业（Britannica：Graduated from UC Berkeley in 1962）；同年嫁 Earll Kingston（Britannica）。", "src": "B164"},
+    {"year": "1976", "text": "《女勇士》出版——获全国书评人协会奖（Britannica：The Woman Warrior (1976), which won the National Book Critics' Circle Award）。", "src": "B164"},
+    {"year": "1980", "text": "《中国佬》获美国图书奖（Britannica：China Men (1980), winner of the American Book Award）。", "src": "B164"},
+    {"year": "1989—2003", "text": "《孙行者：他的伪书》(1989, Britânica)、《做个诗人》(2002)、《第五和平之书》(2003)（Britannica 列举）。", "src": "B164"},
+    {"year": "2014", "text": "国家艺术勋章（Britannica：National Medal of Arts (2014)）。", "src": "B164"}
+  ],
+  "major_works": [
+    {"work_id": "nvvongshi", "note": "1976；代表作"},
+    {"title": "中国佬（1980）", "note": "美国图书奖（Britannica）"},
+    {"title": "孙行者：他的伪书（1989）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'神话+家族史+民间故事'的融合：Britannica——'blending myth, family history, and folktales'——自传/小说/神话的边界消融。",
+    "'无名女子'与'花木兰'的交替：中国传说与美国生活的'双写'（通说）。",
+    "'发言的沉默'：中国女性'被沉默'与美国'开口'的张力（通说）。"
+  ],
+  "status": "Britannica 定位汤亭亭为华裔美国作家——'rooted in her experience as a first-generation Chinese American'（以第一代华人美国人经历为根）；2014年国家艺术勋章（Britannica）。",
+  "sources": ["B164"],
+  "dates_source": "B164",
+  "pending": [
+    "《女勇士》1976年 Alfred A. Knopf 出版细节待核。",
+    "《女勇士》与《中国佬》的'姐妹篇'关系待核。",
+    "李亚萍等中文研究著作待核。"
+  ]
+}

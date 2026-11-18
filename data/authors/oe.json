@@ -1,0 +1,39 @@
+{
+  "id": "oe",
+  "name": "大江健三郎",
+  "foreign_name": "Ōe Kenzaburō（大江健三郎，1935-01-31 — 2023-03-03）",
+  "country": "日本",
+  "birth": "1935-01-31",
+  "death": "2023-03-03",
+  "birth_year": 1935,
+  "death_year": 2023,
+  "era": "现当代",
+  "summary": "大江健三郎，爱媛县四国人，1994年诺贝尔文学奖得主（Britannica：the 1994 Nobel Prize for Literature）。东京大学求学时成名（Britannica：He rose to prominence while studying at the University of Tokyo），'called the most promising young writer since Mishima Yukio'（被称为自三岛以来最有前途的年轻作家——Britannica）；'The Catch'（Shiiku）获芥川奖（Britannica：He won the Akutagawa Prize for 'Shiiku' ('The Catch')）。《个人的体验》（1964）——'widely seen as his finest novel'（广认为其最佳小说——Britannica）；《万延元年的足球队》（The Silent Cry）等（Britannica 列举）。'his writing channeled postwar disillusionment and rebellion, and was shaped by his son's birth in 1963 with a brain hernia and by a visit to Hiroshima'（写作反映战后幻灭与反叛，受1963年脑疝儿子出生与广岛之行塑造——Britannica）。2023年3月3日卒（Britannica）。",
+  "timeline": [
+    {"year": "1935-01-31", "text": "生于爱媛县四国（Britannica：Born January 31, 1935, in Ehime prefecture, Shikoku）。", "src": "B167"},
+    {"year": "1957—1958", "text": "东京大学求学时成名（Britannica：He rose to prominence while studying at the University of Tokyo）；'Shiiku'获芥川奖（Britannica：He won the Akutagawa Prize for 'Shiiku'）。", "src": "B167"},
+    {"year": "1963", "text": "长子大江光出生（脑疝——Britannica：his son's birth in 1963 with a brain hernia）；广岛访问（Britannica：a visit to Hiroshima）。", "src": "B167"},
+    {"year": "1964", "text": "《个人的体验》出版（Britannica：'A Personal Matter' (1964)——'widely seen as his finest novel'）。", "src": "B167"},
+    {"year": "1967", "text": "《万延元年的足球队》（The Silent Cry，Britannica 列举）。", "src": "B167"},
+    {"year": "1994", "text": "诺贝尔文学奖（Britannica：the 1994 Nobel Prize for Literature）。", "src": "B167"},
+    {"year": "2023-03-03", "text": "卒于爱媛（通说待核），年八十八。", "src": "B167"}
+  ],
+  "major_works": [
+    {"work_id": "gerende", "note": "1964；代表作"},
+    {"title": "万延元年的足球队（The Silent Cry，1967）", "note": "（Britannica 列举）"},
+    {"title": "广岛札记（Hiroshima Notes）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'战后幻灭与反叛'：Britannica——'channeled postwar disillusionment and rebellion'（表现战后幻灭与反叛）。",
+    "'残障'与'边缘'：智力障碍儿童的父亲身份贯穿写作（通说）。",
+    "'村庄=宇宙=小世界的木'（其自创概念，通说待核）。"
+  ],
+  "status": "Britannica 定位大江为1994年诺贝尔文学奖得主；'A Personal Matter'(1964)——'widely seen as his finest novel'（通说待核）；'His writing channeled postwar disillusionment and rebellion'（Britannica）。",
+  "sources": ["B167"],
+  "dates_source": "B167",
+  "pending": [
+    "卒地（爱媛县内子町——通说待核）与日期（3月3日——通说）待核。",
+    "长子大江光（作曲家）的角色待核。",
+    "1994诺奖授奖词待核。"
+  ]
+}

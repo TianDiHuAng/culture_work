@@ -1,0 +1,38 @@
+{
+  "id": "soseki",
+  "name": "夏目漱石",
+  "foreign_name": "Natsume Sōseki（夏目漱石，本名夏目金之助，1867-02-09 — 1916-12-09）",
+  "country": "日本",
+  "birth": "1867-02-09",
+  "death": "1916-12-09",
+  "birth_year": 1867,
+  "death_year": 1916,
+  "era": "近代",
+  "summary": "夏目漱石，江户（今东京）人，明治时代著名小说家（Britannica：the celebrated Japanese novelist of the Meiji era, born in Edo (now Tokyo)），本名夏目金之助（Britannica：Writing under his real name Natsume Kinnosuke）。东京大学英文学位1893（Britannica）；1900年政府奖学金赴英研究（Britannica：studied in England on a government scholarship from 1900）。1905—06年《我是猫》与《哥儿》两部讽刺喜剧成名（Britannica：His early fame came from two satirical comic novels: I Am a Cat (1905–06) and Botchan (1906)）。1907年辞教专写后'作品转向阴暗'——'exploring loneliness and isolation among educated middle-class men'（探索受教育中产阶级男性的孤独与疏离——Britannica）：《门》(1910)《行人》(1912—13)《心》(1914)与自传性《道草》(1915)（Britannica 列举）。'确立了日本现代写实小说'（Britannica：he is credited with establishing the modern realistic novel in Japan）。1916年12月9日卒（Britannica）。",
+  "timeline": [
+    {"year": "1867-02-09", "text": "生于江户（今东京）（Britannica：Born February 9, 1867, in Edo (now Tokyo)）。", "src": "B166"},
+    {"year": "1893", "text": "东京大学英文学位（Britannica：earned an English degree from the University of Tokyo (1893)）。", "src": "B166"},
+    {"year": "1900—1903", "text": "政府奖学金赴英研究（Britannica：studied in England on a government scholarship from 1900）；回国后 lectured in English（Britannica）。", "src": "B166"},
+    {"year": "1905—1906", "text": "《我是猫》(1905—06)与《哥儿》(1906)——'satirical comic novels'成名（Britannica：His early fame came from two satirical comic novels）。", "src": "B166"},
+    {"year": "1907", "text": "辞去教职专事写作（Britannica：After abandoning teaching in 1907 to write full-time）。", "src": "B166"},
+    {"year": "1910—1916", "text": "晚期：《门》(1910)《行人》(1912—13)《心》(1914)《道草》(1915)——'loneliness and isolation among educated middle-class men'（Britannica）；1916-12-09卒（Britannica）。", "src": "B166"}
+  ],
+  "major_works": [
+    {"work_id": "woshimao", "note": "1905—06；成名作"},
+    {"work_id": "xin", "note": "1914；代表作"},
+    {"title": "哥儿（1906）、道草（1915）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'讽刺'的早期：《我是猫》以猫眼观察人类（通说）；《哥儿》的少年气（通说）。",
+    "后期的'孤独与疏离'：《心》的'罪与忏悔'（通说待核）。",
+    "'学者小说'与'私小说'的融合（通说待核）。"
+  ],
+  "status": "Britannica 称夏目漱石为'明治时代著名小说家'（the celebrated Japanese novelist of the Meiji era），'credited with establishing the modern realistic novel in Japan'（确立了日本现代写实小说——Britannica）。'国民作家'之号（通说待核）；头像曾印于1000日元纸币（通说待核）。",
+  "sources": ["B166"],
+  "dates_source": "B166",
+  "pending": [
+    "伦敦留学（1900—03）的心理创伤（'Soseki and Mental Illness'——通说待核）待核。",
+    "《心》'先生与我'的双部结构细节待核。",
+    "于雷/林少华译本信息待核。"
+  ]
+}
