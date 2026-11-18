@@ -1,0 +1,42 @@
+{
+  "id": "camus",
+  "name": "加缪",
+  "foreign_name": "Albert Camus（阿尔贝·加缪，1913-11-07 — 1960-01-04）",
+  "country": "法国",
+  "birth": "1913-11-07",
+  "death": "1960-01-04",
+  "birth_year": 1913,
+  "death_year": 1960,
+  "era": "现当代",
+  "summary": "加缪，生于法属阿尔及利亚蒙多维的贫苦家庭（父卒于一战，Britannica），'荒诞'与'反抗'哲学的文学化身。结核病中断其足球与学业（Britannica），哲学毕业于阿尔及尔大学；记者（《阿尔及尔共和报》揭露殖民地不公，Britannica：reporting on colonial injustices in Kabylie）、抵抗运动《战斗报》主编（至1947，Britannica）。《局外人》《西西弗神话》《鼠疫》《反抗者》《堕落》；1957年44岁获诺贝尔文学奖（Britannica）；与萨特因《反抗者》公开决裂（Britannica：a famous break with Jean-Paul Sartre）。1960年1月4日车祸身亡（Britannica）。",
+  "timeline": [
+    {"year": "1913-11-07", "text": "生于阿尔及利亚蒙多维（Britannica：Born November 7, 1913, in Mondovi, Algeria），贫苦法国家庭；父死于一战，母亲佣工且失聪——巴科尔贫民区成长（Britannica：grew up in a working-class Algiers neighborhood）。", "src": "B092"},
+    {"year": "1930", "text": "肺结核结束其足球生涯与学业（Britannica：Tuberculosis ended his athletic pursuits and studies in 1930）；1936年获阿尔及尔大学哲学学位，受教师让·格勒尼埃影响（Britannica：influenced by teacher Jean Grenier）。", "src": "B092"},
+    {"year": "1937—1940", "text": "《阿尔及尔共和报》记者，报道卡比利地区殖民不公（Britannica：reporting on colonial injustices in Kabylie）；因政局报纸被查封（通说待核）。", "src": "B092"},
+    {"year": "1942—1944", "text": "《局外人》与《西西弗神话》同年出版（1942，Britannica 列举）；参加抵抗运动，创办劳动剧团；主编抵抗运动报纸《战斗报》至1947（Britannica：edited the Resistance paper Combat until 1947）。", "src": "B092"},
+    {"year": "1947", "text": "《鼠疫》出版——'反抗'阶段的开端（Britannica：The Plague (1947)）。", "src": "B092"},
+    {"year": "1951—1952", "text": "《反抗者》（1951，Britannica：The Rebel (1951)）主张界限与反抗而非革命暴力——1952年与萨特及《现代》杂志公开决裂（Britannica：a stance that caused a famous break with Jean-Paul Sartre）。", "src": "B092"},
+    {"year": "1956—1957", "text": "《堕落》（1956，Britannica）；1957年10月获诺贝尔文学奖——44岁，'以明朗严肃阐明当代人良心问题'（授奖词大意，通说待核）。", "src": "B092"},
+    {"year": "1960-01-04", "text": "死于桑讷附近车祸（出版商米歇尔·伽利马驾驶失控——Britannica：died in a car crash near Sens, France, on January 4, 1960, at 46, when his publisher Michel Gallimard lost control of the vehicle）；衣袋中未用火车票（通说轶事待核）。", "src": "B092"}
+  ],
+  "major_works": [
+    {"work_id": "juwairen", "note": "1942；荒诞三部曲之一"},
+    {"work_id": "shuyi", "note": "1947；'反抗'阶段代表作"},
+    {"title": "西西弗神话（1942）、反抗者（1951）、堕落（1956）", "note": "哲学随笔与小说（Britannica 列举）"}
+  ],
+  "style": [
+    "'荒诞'的文学化：《局外人》以零度叙述写'世界的无意义与人的执拗'（通说概括）；《西西弗神话》以'必须想象西西弗是幸福的'（原文意，公有领域）收束。",
+    "'反抗'的伦理：从荒诞（接受）到反抗（'我反抗，故我们在'——《反抗者》原文意，待核）——加缪与萨特之争的分水岭。",
+    "白描的句子艺术：句短、节俭、阳光下 metals 气味——'地中海的古典主义'（其自述'我的哲学在太阳里'大意，通说待核）。",
+    "象征的透明：《鼠疫》的奥兰城=占领下的法国（作者自述式的寓言，通说待核）。"
+  ],
+  "status": "Britannica 记加缪1957年获诺贝尔文学奖、'themes centered on absurdity, alienation, and later rebellion'（主题围绕荒诞、异化与后来的反抗）。与萨特的决裂使他在左翼阵营中孤立——1960年车祸身亡时是'被左右同时攻击的人'（通说待核）。《局外人》被译成世界几乎所有主要语言，是20世纪最畅销的法国小说之一（通说待核）；'局外人''鼠疫'已成为汉语日常隐喻。",
+  "sources": ["B092"],
+  "dates_source": "B092",
+  "pending": [
+    "1957年诺奖授奖辞原文（'以明澈而认真的态度阐明了我们时代人类的良心问题'通行译文）逐字待核。",
+    "衣袋车票轶事（Gallimard 车祸）的传记出处待核。",
+    "《战斗报》主编任期（1944—47）细节待核。",
+    "阿尔及利亚问题的晚年立场（1958《阿尔及利亚编年史》）与其被左派攻击的细节待核。"
+  ]
+}
