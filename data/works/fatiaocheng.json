@@ -1,0 +1,77 @@
+{
+  "id": "fatiaocheng",
+  "title": "发条橙",
+  "original_title": "A Clockwork Orange（发条橙）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（反乌托邦/语言实验）",
+  "genre_group": "小说",
+  "language": "英语（Nadsat 发明俚语）",
+  "author_id": "burgess",
+  "author_name": "安东尼·伯吉斯",
+  "year_display": "1962年出版（Britannica）",
+  "year_sort": 1962,
+  "background": [
+    "语言（Britannica）：'written in an invented slang mixing British, American, and Russian elements'（混合英、美、俄元素的发明俚语 Nadsat——'Alex'的叙述语言）。",
+    "21章/20章：英国版21章（' redemption'结尾），美国版删去末章——伯吉斯不满（通说待核）。",
+    "改编：库布里克1971年电影（'especially after the 1971 film'——Britannica）——伯吉斯对电影'神化'的复杂态度（通说待核）。"
+  ],
+  "outline": [
+    "第一部分：15岁流氓阿列克斯（Alex）与三同伙（droogs）夜晚'ultra-violence'——打劫、强奸、斗殴；入狱判14年（通说细节）。",
+    "第二部分：'路德维科技术'（Ludovico）——强迫看暴力影片以'治疗'暴力（'a real horrorshow piece of ultra-violence'——通说待核）；出狱后被'受害'、无暴力能力也无自护能力。",
+    "第三部分：被昔日同伙（已成警察）毒打、被'革命者'利用；遇作家 F. Alexander（其妻曾遭阿列克斯施暴——通说细节）；自杀未遂后'治愈'——21章结尾：阿列克斯长大、'意象中自己的儿子'——'暴力像青春期会过去'（通说解读；美国版删章无此段）。"
+  ],
+  "characters": [
+    {"name": "阿列克斯", "identity": "15岁流氓头目", "note": "贝多芬 lover + ultraviolent——'审美化暴力'的反英雄"},
+    {"name": "F. Alexander", "identity": "作家", "note": "'复仇的伪善者'——'把人当发条橙'（通说）"},
+    {"name": "监狱牧师", "identity": "监狱牧师", "note": "'善必须是选择的善'（原文意，待核）——与'治疗'的伦理对立"},
+    {"name": "P.R. Deltoid", "identity": "'矫正官'", "note": "'后青春期'官僚"}
+  ],
+  "themes": [
+    "自由意志 vs 国家改造：'善必须是选择的善'（牧师论——原文意，待核）——反'行为主义乌托邦'。",
+    "语言与暴力：Nadsat 使暴力'审美化'又被'疏离化'（通说）。",
+    "'发条橙'：'有机体被机械驱动'（Burgess 语意，通说待核）——被国家发条化的'有机'人。",
+    "艺术特点：Nadsat 语言、21章结构、音乐（贝多芬第九）与暴力的并置。"
+  ],
+  "influence": [
+    {"text": "Britannica（Burgess 条）：A Clockwork Orange (1962)——'invented slang'使其成名（1971电影后尤甚——Britannica：especially after the 1971 film）。", "source": "B127"},
+    {"text": "库布里克电影（1971）——英国禁映至1999（通说待核）。", "source": "B127"},
+    {"text": "'发条橙'进入语言（通说待核）；文化影响（朋克、电影暴力史）。", "source": "B127"}
+  ],
+  "reading": {
+    "difficulties": [
+      "Nadsat 俚语（俄语词根）——先读词汇表。",
+      "21章 vs 20章版本——务必读英国版末章。",
+      "暴力描写的'音乐性'——勿当成单纯的暴力小说。"
+    ],
+    "editions": [
+      "王之光译《发条橙》（译林出版社，通说待核）：通行本。",
+      "英文本：Penguin 版（含作者导言——通说待核）。"
+    ],
+    "order": "通读三部分 → 精读第21章（美国版删章）→ 对照库布里克电影。"
+  },
+  "pending": [
+    "1962年 Heinemann 出版细节待核。",
+    "美国版删章（W.W. Norton 1986 含末章）待核。",
+    "王之光译本信息待核。",
+    "1971年电影英国禁映年份待核。"
+  ],
+  "sources": ["B127"],
+  "year_source": "B127",
+  "author_source": "B127",
+  "related_works": ["yijiubasi", "meilixinshijie", "shinv"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《发条橙》三段结构图",
+    "steps": [
+      {"title": "ultra-violence", "text": "Nadsat·贝多芬·施暴", "color": "antagonist"},
+      {"title": "入狱", "text": "14年判刑", "color": "plain"},
+      {"title": "路德维科", "text": "'治疗'——剥夺选择", "color": "antagonist"},
+      {"title": "被'受害'", "text": "无自护力·被利用", "color": "gold"},
+      {"title": "第21章", "text": "'长大'与自我选择", "color": "main"}
+    ]
+  }
+}

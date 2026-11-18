@@ -1,0 +1,38 @@
+{
+  "id": "ishiguro",
+  "name": "石黑一雄",
+  "foreign_name": "Kazuo Ishiguro（石黒一雄，1954-11-08 — ）",
+  "country": "英国",
+  "birth": "1954-11-08",
+  "death": null,
+  "birth_year": 1954,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "石黑一雄，长崎出生（Britannica：Japanese-born British novelist, b. November 8, 1954, Nagasaki；1960年迁英），日裔英国小说家。肯特大学与东英吉利亚大学创意写作硕士（Malcolm Bradbury 门下——通说待核）。2017年诺贝尔文学奖——'uncovered the abyss beneath our illusory sense of connection with the world'（'揭示了我们与世界虚幻联系之下的深渊'——Britannica 引授奖词）；1989年布克奖《长日留痕》（Britannica）；《远山淡影》《浮世画家》《莫失莫忘》《被掩埋的巨人》《克拉拉与太阳》皆名作（Britannica 列举）。2019年封爵（Britannica：Knighted in 2019）；2022年《生之欲》剧本获奥斯卡提名（Britannica：Oscar-nominated for the Living (2022) screenplay）。",
+  "timeline": [
+    {"year": "1954-11-08", "text": "生于长崎（Britannica：b. November 8, 1954, Nagasaki），1960年随海洋学家父亲迁英（通说待核）。", "src": "B130"},
+    {"year": "1979—1982", "text": "东英吉利亚大学创意写作硕士（Malcolm Bradbury——通说待核）；1982年《远山淡影》出版（通说待核）。", "src": "B130"},
+    {"year": "1986—1989", "text": "《浮世画家》（1986，通说待核）获惠特布莱德奖；1989年《长日留痕》获布克奖（Britannica：1989 Booker Prize for The Remains of the Day）。", "src": "B130"},
+    {"year": "1995—2017", "text": "《莫失莫忘》（2005，通说待核）；1995年 OBE（Britannica：OBE in 1995）；2017年诺贝尔文学奖（Britannica）。", "src": "B130"},
+    {"year": "2019—2025", "text": "2019年封爵（Britannica：Knighted in 2019）；《被掩埋的巨人》（2015，通说待核）、《克拉拉与太阳》（2021，通说待核）；2022年《生之欲》剧本奥斯卡提名（Britannica：Oscar-nominated for the Living (2022) screenplay）。", "src": "B130"}
+  ],
+  "major_works": [
+    {"work_id": "changri", "note": "1989；布克奖"},
+    {"title": "莫失莫忘（2005）、克拉拉与太阳（2021）", "note": "科幻题材（Britannica：Never Let Me Go, Klara and the Sun）"},
+    {"title": "被掩埋的巨人（2015）", "note": "记忆与遗忘（Britannica 列举）"}
+  ],
+  "style": [
+    "不可靠叙述者：Britannica——'unreliable narrators'（不可靠叙述者）——'克制'文体下隐藏情感（通说）。",
+    "'记忆与悔恨'：Britannica——'Common themes: memory, regret, identity...ethics of technology'（常见主题：记忆、悔恨、身份、技术伦理）。",
+    "英语的'翻译腔'：以非英语人物叙事的英语（通说待核）。"
+  ],
+  "status": "Britannica 定位石黑一雄为2017年诺奖得主——'uncovered the abyss beneath our illusory sense of connection with the world'（揭示我们与世界虚幻联系下的深渊——Britannica 引授奖词）。1989布克奖、2019封爵（Britannica）；《莫失莫忘》与《克拉拉与太阳》改编影视（通说待核）。",
+  "sources": ["B130"],
+  "dates_source": "B130",
+  "pending": [
+    "1960年迁英（父亲为海洋学家）细节待核。",
+    "《莫失莫忘》克隆题材与2005年出版细节待核。",
+    "《克拉拉与太阳》2021年出版（Faber，通说）待核。",
+    "2017诺奖授奖词原文待核。"
+  ]
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="110.0" x2="550.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="417.0" y="111.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">权力争夺</text>
+<line x1="340.0" y1="110.0" x2="130.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="219.0" y="111.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">同盟</text>
+<line x1="550.0" y1="130.0" x2="240.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="379.0" y="221.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="395.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">误杀</text>
+<line x1="550.0" y1="330.0" x2="130.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="324.0" y="221.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">砸杀</text>
+<line x1="340.0" y1="300.0" x2="240.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="266.8" y="306.0" width="46.4" height="18" rx="3" fill="#fdf9f1"/><text x="290.0" y="319.0" font-size="12" fill="#555" text-anchor="middle">'对话'</text>
+<line x1="340.0" y1="420.0" x2="340.0" y2="110.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="306.0" y="256.0" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="269.0" font-size="12" fill="#555" text-anchor="middle">秩序的象征</text>
+<rect x="305.5" y="92.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="115.4" font-size="15" fill="#fff" text-anchor="middle">拉尔夫</text>
+<rect x="310.7" y="129.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="140.5" font-size="11" fill="#333" text-anchor="middle">海螺·秩序</text>
+<rect x="523.0" y="112.5" width="54.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="550.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">杰克</text>
+<rect x="520.7" y="149.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">涂彩·狩猎</text>
+<rect x="95.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="130.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">猪崽子</text>
+<rect x="100.7" y="149.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">眼镜·理性</text>
+<rect x="213.0" y="312.5" width="54.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="240.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">西蒙</text>
+<rect x="210.7" y="349.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="240.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">先知·被杀</text>
+<rect x="523.0" y="312.5" width="54.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="550.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">罗杰</text>
+<rect x="524.0" y="349.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">恶的执行</text>
+<rect x="283.0" y="282.5" width="114.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">蝇王（猪头）</text>
+<rect x="290.9" y="319.5" width="98.2" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">'我是你的一部分'</text>
+<rect x="298.0" y="402.5" width="84.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="340.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">火与海螺</text>
+<rect x="308.5" y="439.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">文明的象征</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《蝇王》孤岛权力结构图</text>
+</svg>

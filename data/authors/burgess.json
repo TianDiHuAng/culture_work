@@ -1,0 +1,39 @@
+{
+  "id": "burgess",
+  "name": "伯吉斯",
+  "foreign_name": "Anthony Burgess（安东尼·伯吉斯，1917-02-25 — 1993-11-22）",
+  "country": "英国",
+  "birth": "1917-02-25",
+  "death": "1993-11-22",
+  "birth_year": 1917,
+  "death_year": 1993,
+  "era": "现当代",
+  "summary": "伯吉斯，曼彻斯特人（本名 John Anthony Burgess Wilson），'发明俚语 Nadsat'的《发条橙》（1962）作者（Britannica：written in an invented slang mixing British, American, and Russian elements）。伯明翰大学与 Banbury 文法学校任教；1954—59年任马来亚与婆罗洲教育官，写下三部马来亚背景小说（Britannica）。《大地权柄》（Earthly Powers, 1980）、《Among the Wand》（通说待核）；50余本书（Britannica：He wrote more than 50 books）、乔伊斯研究、莎士比亚/劳伦斯/海明威传记（Britannica：biographies of Shakespeare, D.H. Lawrence, and Hemingway）、影视剧本、翻译与数十首音乐作品（Britannica：dozens of musical compositions）。1993年11月22日卒于伦敦，年七十六（Britannica）。",
+  "timeline": [
+    {"year": "1917-02-25", "text": "生于曼彻斯特（Britannica：Born February 25, 1917, in Manchester, England），本名 John Anthony Burgess Wilson；亦用笔名'Joseph Kell'（Britannica）。", "src": "B127"},
+    {"year": "1940s—1953", "text": "英语文学与语音学训练；伯明翰大学与 Banbury 文法学校任教（Britannica：taught at Birmingham University and Banbury Grammar School）。", "src": "B127"},
+    {"year": "1954—1959", "text": "马来亚与婆罗洲教育官（Britannica：worked as an education officer in Malaya and Borneo (1954–59)），写三部马来亚背景小说（Britannica：wrote three novels with Malayan settings）。", "src": "B127"},
+    {"year": "1962", "text": "《发条橙》（Britannica：A Clockwork Orange (1962)）——1971年库布里克电影后成名（Britannica：especially after the 1971 film）。", "src": "B127"},
+    {"year": "1980", "text": "《大地权柄》（Earthly Powers，Britannica：Earthly Powers (1980)）——国际畅销。", "src": "B127"},
+    {"year": "1993-11-22", "text": "卒于伦敦（Britannica：died November 22, 1993, in London, aged 76）；身后出版《死亡中的诗》（通说待核）。", "src": "B127"}
+  ],
+  "major_works": [
+    {"work_id": "fatiaocheng", "note": "1962；代表作"},
+    {"title": "大地权柄（1980）", "note": "国际畅销（Britannica）"},
+    {"title": "《莎士比亚传》《D.H.劳伦斯传》等", "note": "传记系列（Britannica）"}
+  ],
+  "style": [
+    "发明语言：Nadsat——'invented slang mixing British, American, and Russian elements'（Britannica）——语言本身是叙事主角。",
+    "音乐性的小说：'a Dead Man in Deptford'与贝多芬（通说待核）。",
+    "双写虚构与批评：小说+批评+传记+翻译+音乐（Britannica：TV scripts, translations, a two-volume autobiography, and dozens of musical compositions）。"
+  ],
+  "status": "Britannica 定位伯吉斯为'发明俚语的《发条橙》'作者（written in an invented slang...），50余部著作（Britannica：He wrote more than 50 books）——多栖的'文人全才'。'发条橙'与 Nadsat 语言成为20世纪文学的标志性语言实验（通说待核）。",
+  "sources": ["B127"],
+  "dates_source": "B127",
+  "pending": [
+    "《发条橙》美国版删去末章（Burgess 反对——通说待核）细节待核。",
+    "1971年库布里克电影与伯吉斯态度（'mythologized'——通说待核）待核。",
+    "马来亚三部曲名（《长臂≫等）待核。",
+    "《大地权柄》细节待核。"
+  ]
+}
