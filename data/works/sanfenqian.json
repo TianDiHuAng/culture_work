@@ -1,0 +1,178 @@
+{
+  "id": "sanfenqian",
+  "title": "三分钱歌剧",
+  "original_title": "Die Dreigroschenoper / The Threepenny Opera（三分钱歌剧）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "音乐剧（三幕）",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "brecht",
+  "author_name": "贝托尔特·布莱希特（音乐 Kurt Weill 库特·魏尔）",
+  "year_display": "1928年柏林首演（Britannica）",
+  "year_sort": 1928,
+  "background": [
+    "改编自约翰·盖伊《乞丐歌剧》（1728）（Britannica：The Beggar's Opera 原型——通说待核）；与魏尔合作（Britannica：Collaborated with Kurt Weill on The Threepenny Opera (1928) and Mahagonny (1930)）——音乐剧的里程碑。",
+    "角色：强盗'尖刀'麦基（Macheath）、乞丐头目皮彻姆、女儿波莉——'底层'的权力与'上层'的犯罪互为镜像（通说）。"
+  ],
+  "outline": [
+    "第一幕：麦基与波莉秘密成婚——乞丐王皮彻姆（波莉之父）告发（通说）。",
+    "第二、三幕：麦基两次入狱逃脱——最终上绞架又被'皇家赦免'（通说细节）——'世界是黑暗的，答案是模糊的'（通说）。",
+    "名曲：《尖刀麦基》（Mack the Knife，'哦，鲨鱼有牙'——原文意，公有领域）与《波莉的歌》（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "尖刀麦基",
+      "identity": "强盗·花花公子",
+      "note": "'文明'的罪犯——上层的镜像"
+    },
+    {
+      "name": "波莉·皮彻姆",
+      "identity": "乞丐王之女",
+      "note": "'低层的公主'"
+    },
+    {
+      "name": "皮彻姆",
+      "identity": "乞丐王",
+      "note": "'乞丐'的企业家（通说）"
+    },
+    {
+      "name": "老虎布朗",
+      "identity": "警长",
+      "note": "麦基的'老战友'——执法与犯罪共生"
+    }
+  ],
+  "themes": [
+    "'犯罪'与'经商'的等式：'首先得养活人，然后才能讲道德'（原文意，待核）——资本主义讽刺。",
+    "'间离'的开端：歌队直接对观众说话（通说）。",
+    "艺术特点：爵士乐/香颂配乐、标语式歌词、镜像结构。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Brecht 条）：The Threepenny Opera (1928) 与魏尔合作——音乐剧史里程碑。",
+      "source": "B138"
+    },
+    {
+      "text": "Mack the Knife 成为爵士标准曲（Louis Armstrong/Bobby Darin 等——通说待核）。",
+      "source": "B138"
+    },
+    {
+      "text": "中译：李健鸣等译本（通说待核）。",
+      "source": "B138"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "魏尔的音乐与布莱希特的歌词不可分——听原版录音。",
+      "《乞丐歌剧》原型——对照 Gay 原作。"
+    ],
+    "editions": [
+      "《布莱希特戏剧选》（人民文学出版社/中国对外翻译，通说待核）。",
+      "英译：Ralph Manheim & John Willett（通说待核）。"
+    ],
+    "order": "读剧本+听 1954 柏林剧团录音（通说待核）→ 对照《乞丐歌剧》→ 读'史诗剧场'理论（《戏剧小工具篇》通说待核）。"
+  },
+  "pending": [
+    "1928年8月31日 Theater am Schiffbauerdamm 首演（通说）细节待核。",
+    "中译本信息待核。",
+    "Mack the Knife 录音史待核。"
+  ],
+  "sources": [
+    "B138"
+  ],
+  "year_source": "B138",
+  "author_source": "B138",
+  "related_works": [
+    "richu",
+    "zhuiyi",
+    "fushide"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《三分钱歌剧》'底层与上层'关系图",
+    "nodes": [
+      {
+        "id": "macheath",
+        "label": "尖刀麦基",
+        "x": 340,
+        "y": 140,
+        "color": "main",
+        "sub": "强盗"
+      },
+      {
+        "id": "polly",
+        "label": "波莉",
+        "x": 340,
+        "y": 320,
+        "color": "family",
+        "sub": "乞丐王之女"
+      },
+      {
+        "id": "peachum",
+        "label": "皮彻姆",
+        "x": 120,
+        "y": 230,
+        "color": "antagonist",
+        "sub": "乞丐王"
+      },
+      {
+        "id": "brown",
+        "label": "老虎布朗",
+        "x": 560,
+        "y": 230,
+        "color": "plain",
+        "sub": "警长"
+      },
+      {
+        "id": "lucy",
+        "label": "露西",
+        "x": 340,
+        "y": 395,
+        "color": "plain",
+        "sub": "布朗之女"
+      },
+      {
+        "id": "jenny",
+        "label": "珍妮",
+        "x": 120,
+        "y": 395,
+        "color": "plain",
+        "sub": "妓女·旧情"
+      }
+    ],
+    "edges": [
+      {
+        "a": "macheath",
+        "b": "polly",
+        "label": "私奔成婚"
+      },
+      {
+        "a": "polly",
+        "b": "peachum",
+        "label": "父女·告发",
+        "style": "dashed"
+      },
+      {
+        "a": "macheath",
+        "b": "brown",
+        "label": "共生",
+        "style": "dashed"
+      },
+      {
+        "a": "peachum",
+        "b": "brown",
+        "label": "交易",
+        "style": "dashed"
+      },
+      {
+        "a": "macheath",
+        "b": "jenny",
+        "label": "旧情·告发",
+        "style": "dashed"
+      }
+    ]
+  }
+}

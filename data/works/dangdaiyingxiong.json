@@ -1,0 +1,74 @@
+{
+  "id": "dangdaiyingxiong",
+  "title": "当代英雄",
+  "original_title": "Герой нашего времени / A Hero of Our Time（当代英雄）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（五章乱序）",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "lermontov",
+  "author_name": "米哈伊尔·尤里耶维奇·莱蒙托夫",
+  "year_display": "1840年出版（Britannica）",
+  "year_sort": 1840,
+  "background": [
+    "人物：'cynical officer Pechorin'（玩世不恭的军官毕巧林）——'a portrait of the vices of our whole generation'（我们整整一代人的恶习的肖像——Britannica 引莱蒙托夫自语）。",
+    "结构：五章乱序（'Bela'—'Maxim Maximych'—'Taman'—'Princess Mary'—'The Fatalist'——通说待核）——非线性的'心理拼图'（通说）。"
+  ],
+  "outline": [
+    "'贝拉'：哥萨克老兵马克西姆·马克西梅奇讲述毕巧林以交换方式夺走贝拉、后因厌倦致其被杀（通说）。",
+    "'马克西姆·马克西梅奇'：老军人重逢毕巧林却被冷落——毕巧林冷漠的'肖像'（通说）。",
+    "'塔曼'：叙述者'我'的冒险（通说）。",
+    "'梅丽公爵小姐'与'宿命论者'：毕巧林与格鲁希尼茨基决斗、 kills 情敌；'宿命'实验（通说细节待核）。"
+  ],
+  "characters": [
+    {"name": "毕巧林", "identity": "军官", "note": "'整整一代人的恶习的肖像'（Britannica 引）——'多余人'原型（通说待核）"},
+    {"name": "贝拉", "identity": "车臣少女", "note": "被'交易'的爱情"},
+    {"name": "马克西姆·马克西梅奇", "identity": "老兵", "note": "忠诚与被冷落（通说）"},
+    {"name": "梅丽公爵小姐", "identity": "贵妇少女", "note": "'游戏'的对象"}
+  ],
+  "themes": [
+    "'多余人'：才智与虚无——普希金奥涅金传统的延伸（通说待核）。",
+    "高加索与浪漫主义：流放地与战争的浪漫想象（通说）。",
+    "艺术特点：五章乱序、多重叙述（日记/口述/自述）（通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Lermontov 条）：A Hero of Our Time (1840)——'a portrait of the vices of our whole generation'。", "source": "B142"},
+    {"text": "'多余人'与俄国心理小说的源头（通说待核）。", "source": "B142"},
+    {"text": "中译：草婴译《当代英雄》（人民文学出版社，通说待核）。", "source": "B142"}
+  ],
+  "reading": {
+    "difficulties": [
+      "乱序结构——先理清时间线。",
+      "高加索战争史背景——注释。"
+    ],
+    "editions": [
+      "草婴译《当代英雄》（人民文学出版社，通说待核）。",
+      "英译：Vladimir Nabokov & Dmitri Nabokov 译（通说待核）。"
+    ],
+    "order": "通读五章 → 精读'梅丽公爵小姐'与'宿命论者' → 对照奥涅金。"
+  },
+  "pending": [
+    "1840年出版细节待核。",
+    "草婴译本信息待核。",
+    "Nabokov 父子合译（1958，通说）待核。"
+  ],
+  "sources": ["B142"],
+  "year_source": "B142",
+  "author_source": "B142",
+  "related_works": ["aonijin", "zuiyufa", "jiangshiji"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《当代英雄》五章乱序结构图",
+    "cards": [
+      {"title": "贝拉", "sub": "第1章", "text": "老兵讲述毕巧林", "color": "family"},
+      {"title": "马克西姆·马克西梅奇", "sub": "第2章", "text": "重逢被冷落", "color": "plain"},
+      {"title": "塔曼", "sub": "第3章", "text": "叙述者冒险", "color": "plain"},
+      {"title": "梅丽公爵小姐", "sub": "第4章", "text": "毕巧林日记·决斗", "color": "main"},
+      {"title": "宿命论者", "sub": "第5章", "text": "'宿命'实验", "color": "gold"}
+    ]
+  }
+}

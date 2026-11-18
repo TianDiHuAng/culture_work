@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="400" fill="#fdf9f1" rx="10"/>
+<rect x="14" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="40" width="200" height="6" rx="3" fill="#3b6b8c"/>
+<text x="114.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">贝拉</text>
+<text x="114.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">第1章</text>
+<text x="24" y="104.0" font-size="12" fill="#555">老兵讲述毕巧林</text>
+<rect x="228" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="40" width="200" height="6" rx="3" fill="#55606b"/>
+<text x="328.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">马克西姆·马克西梅奇</text>
+<text x="328.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">第2章</text>
+<text x="238" y="104.0" font-size="12" fill="#555">重逢被冷落</text>
+<rect x="442" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="442" y="40" width="200" height="6" rx="3" fill="#55606b"/>
+<text x="542.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">塔曼</text>
+<text x="542.0" y="84.0" font-size="11" fill="#8a8378" text-anchor="middle">第3章</text>
+<text x="452" y="104.0" font-size="12" fill="#555">叙述者冒险</text>
+<rect x="14" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="174" width="200" height="6" rx="3" fill="#8c3b3b"/>
+<text x="114.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">梅丽公爵小姐</text>
+<text x="114.0" y="218.0" font-size="11" fill="#8a8378" text-anchor="middle">第4章</text>
+<text x="24" y="238.0" font-size="12" fill="#555">毕巧林日记·决斗</text>
+<rect x="228" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="174" width="200" height="6" rx="3" fill="#9a7b2f"/>
+<text x="328.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">宿命论者</text>
+<text x="328.0" y="218.0" font-size="11" fill="#8a8378" text-anchor="middle">第5章</text>
+<text x="238" y="238.0" font-size="12" fill="#555">'宿命'实验</text>
+<text x="340.0" y="390" font-size="12" fill="#8a8378" text-anchor="middle">《当代英雄》五章乱序结构图</text>
+</svg>

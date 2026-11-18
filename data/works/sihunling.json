@@ -1,0 +1,70 @@
+{
+  "id": "sihunling",
+  "title": "死魂灵",
+  "original_title": "Мёртвые души / Dead Souls（死魂灵）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（计划三部，只成第一部）",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "gogol",
+  "author_name": "尼古拉·果戈理",
+  "year_display": "1842年第一部出版（Britannica）",
+  "year_sort": 1842,
+  "background": [
+    "创意（Britannica）：普希金提供——'the swindler Chichikov buys deceased serfs whose deaths were unregistered in the census, intending to pawn them at a bank'（骗子乞乞科夫收购户口册上未注销的死农奴、欲向银行抵押——Britannica）。",
+    "结构：'planned Dead Souls as a prose Divine Comedy, with the published part as the 'Inferno' of Russian life'（计划以散文《神曲》，已出版部分是'俄国生活的地狱'——Britannica）。"
+  ],
+  "outline": [
+    "乞乞科夫走访五位地主：马尼洛夫（空想）、科罗博奇卡（多疑）、诺兹德廖夫（赌棍）、索巴凯维奇（熊）、普柳什金（守财奴——通说）——每个'死魂灵'女主人的性格即俄国社会的切片。",
+    "结局：骗局败露（诺兹德廖夫告发），乞乞科夫逃离——第一部在'三驾马车'的抒情中收束（'俄罗斯，你这三驾马车'——原文意，通说待核）。"
+  ],
+  "characters": [
+    {"name": "乞乞科夫", "identity": "骗子收购者", "note": "'体面'的骗徒"},
+    {"name": "普柳什金", "identity": "守财奴地主", "note": "'人类最堕落的形象'之一（通说）"},
+    {"name": "五地主群像", "identity": "马尼洛夫等", "note": "俄国地主性格五种（通说）"}
+  ],
+  "themes": [
+    "'死魂灵'的讽刺：死亡的农奴在册上是'活的'——社会与制度的虚假（通说）。",
+    "三驾马车抒情：结尾的祖国预言（通说待核）。",
+    "艺术特点：地主肖像的'文档式'细节、抒情与讽刺并置（通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Gogol 条）：Dead Souls (1842) 与《外套》'foundations of 19th-century Russian realism'（19世纪俄国现实主义奠基）。", "source": "B140"},
+    {"text": "中译：满涛译《死魂灵》（人民文学出版社，通说待核）。", "source": "B140"}
+  ],
+  "reading": {
+    "difficulties": [
+      "五位地主各章——按性格对照读。",
+      "'抒情插笔'（三驾马车）与叙事的交替。"
+    ],
+    "editions": [
+      "满涛译《死魂灵》（人民文学出版社，通说待核）。",
+      "英译：Pevear & Volokhonsky（通说待核）。"
+    ],
+    "order": "通读第一部11章 → 精读普柳什金章与结尾三驾马车 → 对照《钦差大臣》。"
+  },
+  "pending": [
+    "1842年第一部出版与第二部焚稿（1852）细节待核。",
+    "满涛译本信息待核。",
+    "'三驾马车'抒情段原文逐字核对。"
+  ],
+  "sources": ["B140"],
+  "year_source": "B140",
+  "author_source": "B140",
+  "related_works": ["zuiyufa", "dawei", "fuyuzi"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《死魂灵》五位地主结构图",
+    "cards": [
+      {"title": "马尼洛夫", "text": "空想甜腻", "color": "plain"},
+      {"title": "科罗博奇卡", "text": "多疑小气", "color": "plain"},
+      {"title": "诺兹德廖夫", "text": "赌棍撒谎", "color": "antagonist"},
+      {"title": "索巴凯维奇", "text": "熊般笨拙贪婪", "color": "antagonist"},
+      {"title": "普柳什金", "text": "守财奴极致", "color": "antagonist"}
+    ]
+  }
+}

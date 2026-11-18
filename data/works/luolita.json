@@ -1,0 +1,76 @@
+{
+  "id": "luolita",
+  "title": "洛丽塔",
+  "original_title": "Lolita（洛丽塔）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（自白体）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "nabokov",
+  "author_name": "弗拉基米尔·纳博科夫",
+  "year_display": "1955年巴黎 Olympia Press 出版（Britannica）",
+  "year_sort": 1955,
+  "background": [
+    "出版（Britannica）：Lolita (1955) 列于 famous works——1955年巴黎 Olympia Press 出版（通说待核）、1958年美国 Putnam 版（通说待核）后成国际畅销。",
+    "争议与经典化：'淫秽'争议→文学经典（通说待核）；纳博科夫以'自白体'加'预序'（亨伯特狱中自白）写成（通说）。"
+  ],
+  "outline": [
+    "自白：亨伯特·亨伯特——'文学气质的恋童癖者'——受'海边天使'少年爱（安妮贝尔之死——通说）驱动，租房于寡妇夏洛特，为接近其女多洛蕾丝（洛丽塔）娶其母——母车祸死（通说）。",
+    "公路漫游：带洛丽塔驾车游历美国旅馆——'小妖精'（nymphet）的'天使与兽'（通说）；洛丽塔逃离（与剧作家奎尔蒂——通说）。",
+    "结局：数年后洛丽塔已婚贫病求助——亨伯特枪杀奎尔蒂，入狱——以'回忆'完成'自白'：'洛丽塔，我生命之光，我欲念之火。我的罪恶，我的灵魂。洛-丽-塔'（开篇原文，公有领域）。"
+  ],
+  "characters": [
+    {"name": "亨伯特·亨伯特", "identity": "欧洲侨民学者", "note": "'迷人的恶'——不可靠叙述者的教科书（通说）"},
+    {"name": "多洛蕾丝·黑兹（洛丽塔）", "identity": "12岁女孩", "note": "'被剥夺声音的受害者'（当代批评——通说待核）"},
+    {"name": "奎尔蒂", "identity": "剧作家", "note": "亨伯特的'镜像'恶（通说）"},
+    {"name": "夏洛特·黑兹", "identity": "寡妇", "note": "'母亲的悲剧'（通说）"}
+  ],
+  "themes": [
+    "叙述者的谎言：'自白'的修辞——读者被'美文'诱惑又被提醒（通说）。",
+    "'美国'的公路与旅馆（通说）。",
+    "艺术的伦理：'审美狂喜'与道德的冲突（纳博科夫'审美狂喜'说——通说待核）。",
+    "艺术特点：双关、法国诗歌引用、'预序'与'附录'的元文本（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Nabokov 条）：Lolita (1955) 列于 famous works——'best-known'。", "source": "B145"},
+    {"text": "电影：库布里克1962与Adrian Lyne 1997（通说待核）。", "source": "B145"},
+    {"text": "中译：主万译《洛丽塔》（上海译文出版社，通说待核）与于晓丹译本。", "source": "B145"}
+  ],
+  "reading": {
+    "difficulties": [
+      "伦理阅读与审美阅读的冲突——以'不可靠叙述者'警惕亨伯特。",
+      "英语双关与法语句——选注释本。"
+    ],
+    "editions": [
+      "主万译《洛丽塔》（上海译文出版社，通说待核）。",
+      "于晓丹译本（人民日报出版社，通说待核）。",
+      "英文本：Vintage International（含作者后记——通说待核）。"
+    ],
+    "order": "通读 → 精读开篇与'追忆'章 → 读作者后记（'On a Book Entitled Lolita'）→ 讨论'洛丽塔的声音缺失'。"
+  },
+  "pending": [
+    "1955年 Olympia Press（Paris）出版细节待核。",
+    "主万/于晓丹译本信息待核。",
+    "1958美国版与查禁史待核。",
+    "1995电影改编（Lyne）待核。"
+  ],
+  "sources": ["B145"],
+  "year_source": "B145",
+  "author_source": "B145",
+  "related_works": ["luolita2", "zuiyufa", "luoshengmen"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《洛丽塔》公路漫游结构图",
+    "steps": [
+      {"title": "租房", "text": "娶寡妇接近洛丽塔", "color": "antagonist"},
+      {"title": "母死", "text": "车祸——'自由'", "color": "antagonist"},
+      {"title": "公路漫游", "text": "旅馆·'小妖精'", "color": "gold"},
+      {"title": "逃离", "text": "洛丽塔与奎尔蒂", "color": "plain"},
+      {"title": "枪杀与自白", "text": "狱中回忆", "color": "main"}
+    ]
+  }
+}

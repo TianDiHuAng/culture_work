@@ -1,0 +1,38 @@
+{
+  "id": "pushkin",
+  "name": "普希金",
+  "foreign_name": "Aleksandr Sergeyevich Pushkin（亚历山大·谢尔盖耶维奇·普希金，1799-05-26 — 1837-01-29）",
+  "country": "俄国",
+  "birth": "1799-05-26",
+  "death": "1837-01-29",
+  "birth_year": 1799,
+  "death_year": 1837,
+  "era": "近代",
+  "summary": "普希金，莫斯科人，'常被视为其国家最伟大的诗人、现代俄国文学的奠基人'（Britannica：often been considered his country's greatest poet and the founder of modern Russian literature）。外曾祖父 Abram Hannibal 为彼得大帝的黑人教子（Britannica）。1814年首诗发表、皇村中学；《鲁斯兰与柳德米拉》（1820）成名；1820年因政治诗流放（'southern cycle'），再放米哈伊洛夫斯科耶写《鲍里斯·戈都诺夫》（1831，Britannica）；《叶甫盖尼·奥涅金》（1823始）、《青铜骑士》《黑桃皇后》《上尉的女儿》（Britannica 列举）。'他的语言风格塑造了屠格涅夫、冈察洛夫与托尔斯泰'（Britannica：His language style shaped later novelists like Turgenev, Goncharov, and Tolstoy）。1837年1月29日决斗死（Britannica）。",
+  "timeline": [
+    {"year": "1799-05-26", "text": "生于莫斯科（Britannica：Born May 26, 1799, in Moscow；儒略历——通说待核）。", "src": "B143"},
+    {"year": "1811—1817", "text": "皇村学校（Imperial Lyceum at Tsarskoye Selo，Britannica）；1814年首诗发表（Britannica：First poem published in 1814）。", "src": "B143"},
+    {"year": "1820", "text": "《鲁斯兰与柳德米拉》(1820)成名（Britannica）；'His political verses led to exile from St. Petersburg in 1820'（政治诗致流放，Britannica）——南方流放写'南方组诗'。", "src": "B143"},
+    {"year": "1824—1826", "text": "放逐米哈伊洛夫斯科耶（Britannica：then to his estate at Mikhaylovskoye），写《鲍里斯·戈都诺夫》(1831，Britannica)。", "src": "B143"},
+    {"year": "1823—1837", "text": "《叶甫盖尼·奥涅金》（1823始，Britannica）；《青铜骑士》《黑桃皇后》《茨冈》《上尉的女儿》（Britannica 列举）。", "src": "B143"},
+    {"year": "1837-01-29", "text": "决斗死于圣彼得堡（Britannica：died January 29, 1837, in St. Petersburg, aged 37）——与丹特士决斗（妻子娜塔莉亚，通说待核）。", "src": "B143"}
+  ],
+  "major_works": [
+    {"work_id": "aonijin", "note": "1823始；诗体长篇小说"},
+    {"title": "鲍里斯·戈都诺夫（1831）、青铜骑士", "note": "（Britannica 列举）"},
+    {"title": "黑桃皇后、上尉的女儿", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "语言的奠基：Britannica——'His language style shaped later novelists like Turgenev, Goncharov, and Tolstoy'（语言风格塑造后世小说家）。",
+    "'多文体'：史诗、诗体小说、戏剧、短篇、童话（通说）。",
+    "'民间'与'古典'的融合：保姆 Arina Rodionovna 的民间故事（Britannica：he also absorbed Russian folktales from his nurse, Arina Rodionovna）。"
+  ],
+  "status": "Britannica 定位普希金为'俄国最伟大的诗人、现代俄国文学奠基人'（often been considered his country's greatest poet and the founder of modern Russian literature）；《叶甫盖尼·奥涅金》为'俄国现实主义小说铺路'（Britannica：paving the way for the Russian realistic novel）。'俄罗斯诗歌的太阳'（通说待核）。",
+  "sources": ["B143"],
+  "dates_source": "B143",
+  "pending": [
+    "生日儒略历（5月26日 O.S.=6月6日 N.S.）待核。",
+    "决斗（丹特士/维克多利亚·赫克恩）细节待核。",
+    "皇村中学'校友'与十二月党人关系待核。"
+  ]
+}

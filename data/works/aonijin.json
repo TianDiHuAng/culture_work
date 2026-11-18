@@ -1,0 +1,83 @@
+{
+  "id": "aonijin",
+  "title": "叶甫盖尼·奥涅金",
+  "original_title": "Евгений Онегин / Eugene Onegin（叶甫盖尼·奥涅金，诗体长篇小说）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "诗体长篇小说（十四行诗节）",
+  "genre_group": "诗歌",
+  "language": "俄语（'奥涅金诗节'）",
+  "author_id": "pushkin",
+  "author_name": "亚历山大·普希金",
+  "year_display": "1823年始写、1833年完整出版（Britannica：Yevgeny Onegin (begun 1823)）",
+  "year_sort": 1833,
+  "background": [
+    "地位（Britannica）：'the first Russian work to take contemporary society as its subject, paving the way for the Russian realistic novel'（首部以当代社会为题材的俄国作品，为俄国现实主义小说铺路）。",
+    "'奥涅金诗节'：十四行诗节（AbAbCCddEffEgg——通说待核）——普希金发明的俄语诗节（通说待核）。"
+  ],
+  "outline": [
+    "奥涅金：圣彼得堡纨绔子弟——继承叔父庄园，在乡间与青年诗人连斯基为友；拒绝塔季扬娜的求爱信（通说）。",
+    "决斗与悲剧：在塔季扬娜命名日调戏奥丽嘉，激怒连斯基决斗并杀死好友（通说）——漫游。",
+    "结局：数年后回京，塔季扬娜已嫁将军成社交女王——奥涅金狂热追求被拒：'但我已嫁给了别人，我将一辈子忠于他'（原文意，公有领域）——以塔季扬娜的拒绝收束（通说）。"
+  ],
+  "characters": [
+    {"name": "奥涅金", "identity": "纨绔青年", "note": "'多余人'原型（通说待核）"},
+    {"name": "塔季扬娜", "identity": "乡间少女→贵妇", "note": "普希金'最亲爱的'形象（通说待核）"},
+    {"name": "连斯基", "identity": "浪漫诗人", "note": "被奥涅金杀死的友人"},
+    {"name": "奥丽嘉", "identity": "塔季扬娜妹妹", "note": "连斯基未婚妻"}
+  ],
+  "themes": [
+    "'多余人'：俄国文学的原型人物（通说待核）。",
+    "爱情与'忠诚'：塔季扬娜的拒绝——道德的自我（通说）。",
+    "艺术特点：'奥涅金诗节'、抒情插笔与讽刺（通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Pushkin 条）：Yevgeny Onegin (begun 1823)——'first Russian work to take contemporary society as its subject'。", "source": "B143"},
+    {"text": "Britannica：语言风格塑造屠格涅夫冈察洛夫托尔斯泰。", "source": "B143"},
+    {"text": "柴可夫斯基歌剧（1879，通说待核）。", "source": "B143"},
+    {"text": "中译：冯春/智量译本（通说待核）。", "source": "B143"}
+  ],
+  "reading": {
+    "difficulties": [
+      "'奥涅金诗节'韵律——中译难以复制（通说待核）。",
+      "抒情的'插笔'（作者与读者对话）——注意叙述者。"
+    ],
+    "editions": [
+      "冯春译《叶甫盖尼·奥涅金》（上海译文出版社，通说待核）。",
+      "智量译本（人民文学出版社，通说待核）。",
+      "英译：Vladimir Nabokov 四卷本（Bollingen，通说待核）。"
+    ],
+    "order": "通读八章 → 精读'塔季扬娜的信'与结尾拒信 → 对照歌剧（柴可夫斯基）。"
+  },
+  "pending": [
+    "1825年首章出版与1833年完整版细节待核。",
+    "冯春/智量译本信息待核。",
+    "Nabokov 英译四卷（1964，通说）待核。",
+    "1879柴可夫斯基歌剧细节待核。"
+  ],
+  "sources": ["B143"],
+  "year_source": "B143",
+  "author_source": "B143",
+  "related_works": ["dangdaiyingxiong", "zhanzheng", "chuci"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《叶甫盖尼·奥涅金》人物关系图",
+    "nodes": [
+      {"id": "onegin", "label": "奥涅金", "x": 340, "y": 130, "color": "main", "sub": "'多余人'"},
+      {"id": "tatyana", "label": "塔季扬娜", "x": 550, "y": 130, "color": "main", "sub": "乡间少女→贵妇"},
+      {"id": "lensky", "label": "连斯基", "x": 120, "y": 130, "color": "family", "sub": "诗人"},
+      {"id": "olga", "label": "奥丽嘉", "x": 120, "y": 330, "color": "plain", "sub": "连斯基未婚妻"},
+      {"id": "gremin", "label": "格列敏公爵", "x": 550, "y": 330, "color": "plain", "sub": "塔季扬娜之夫"}
+    ],
+    "edges": [
+      {"a": "onegin", "b": "tatyana", "label": "拒绝→追求→被拒"},
+      {"a": "tatyana", "b": "olga", "label": "姐妹"},
+      {"a": "lensky", "b": "olga", "label": "未婚夫妻"},
+      {"a": "onegin", "b": "lensky", "label": "决斗杀死", "style": "dashed"},
+      {"a": "tatyana", "b": "gremin", "label": "婚姻"}
+    ]
+  }
+}

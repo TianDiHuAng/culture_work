@@ -1,0 +1,81 @@
+{
+  "id": "fuyuzi",
+  "title": "父与子",
+  "original_title": "Отцы и дети / Fathers and Sons（父与子）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "turgenev",
+  "author_name": "伊万·谢尔盖耶维奇·屠格涅夫",
+  "year_display": "1862年出版（Britannica）",
+  "year_sort": 1862,
+  "background": [
+    "人物：'featuring the nihilist Bazarov'（以虚无主义者巴扎罗夫为主角——Britannica）——'nihilist'一词经此书进入俄语政治词汇（通说待核）。",
+    "接受（Britannica）：'drew criticism from both radicals and conservatives, prompting his self-exile in Western Europe'（激进派与保守派两头批评，促其自我流放西欧）。"
+  ],
+  "outline": [
+    "1859年：大学生阿尔卡季携'朋友'巴扎罗夫回乡——巴扎罗夫以'虚无主义'（否定一切权威与艺术）冲击贵族家庭（通说）。",
+    "巴扎罗夫与帕维尔（阿尔卡季伯父，贵族自由派）'决斗'；巴扎罗夫爱上寡妇奥金佐娃又被拒（通说）。",
+    "结局：解剖伤寒尸体划伤感染而死——巴扎罗夫临终'父母'场景；'父与子'的和解与永别（通说）。"
+  ],
+  "characters": [
+    {"name": "巴扎罗夫", "identity": "医学生·虚无主义者", "note": "'否定一切'的青年——Britannica：the nihilist Bazarov"},
+    {"name": "阿尔卡季", "identity": "大学生", "note": "'追随者'——最终回归传统"},
+    {"name": "帕维尔·基尔萨诺夫", "identity": "伯父", "note": "贵族自由派——与巴扎罗夫决斗"},
+    {"name": "奥金佐娃", "identity": "寡妇", "note": "'冷静'的贵妇——巴扎罗夫的失败爱情"},
+    {"name": "父辈", "identity": "两家父母", "note": "'父'的温柔与无奈（通说）"}
+  ],
+  "themes": [
+    "'虚无主义'：否定艺术、爱情、权威——19世纪俄国思想的命名（通说）。",
+    "代际冲突：'父与子'= 旧与新（通说）。",
+    "爱情与死亡：巴扎罗夫之死——'虚无主义'的自我超越（通说解读）。",
+    "艺术特点：决斗、双线爱情、死亡场景的克制（通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Turgenev 条）：'His masterpiece Fathers and Sons, featuring the nihilist Bazarov, drew criticism from both radicals and conservatives'。", "source": "B141"},
+    {"text": "'虚无主义'进入俄语与政治史（通说待核）。", "source": "B141"},
+    {"text": "中译：巴金译《父与子》（人民文学出版社，通说待核）。", "source": "B141"}
+  ],
+  "reading": {
+    "difficulties": [
+      "1860s俄国思想界（虚无主义/西方派/斯拉夫派）背景——注释。",
+      "巴扎罗夫之死的宗教语调——细读。"
+    ],
+    "editions": [
+      "巴金译《父与子》（人民文学出版社，通说待核）。",
+      "英译：Constance Garnett（通说待核）。"
+    ],
+    "order": "通读28章 → 精读决斗与巴扎罗夫之死 → 对照《罪与罚》。"
+  },
+  "pending": [
+    "1862年《俄国导报》连载与单行本细节待核。",
+    "巴金译本信息待核。",
+    "'nihilist'术语史待核。"
+  ],
+  "sources": ["B141"],
+  "year_source": "B141",
+  "author_source": "B141",
+  "related_works": ["zuiyufa", "sihunling", "riwage"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《父与子》代际冲突关系图",
+    "nodes": [
+      {"id": "bazarov", "label": "巴扎罗夫", "x": 340, "y": 140, "color": "main", "sub": "虚无主义者"},
+      {"id": "arkady", "label": "阿尔卡季", "x": 550, "y": 140, "color": "plain", "sub": "大学生"},
+      {"id": "pavel", "label": "帕维尔", "x": 560, "y": 330, "color": "antagonist", "sub": "贵族伯父"},
+      {"id": "odintsova", "label": "奥金佐娃", "x": 130, "y": 140, "color": "family", "sub": "寡妇"},
+      {"id": "fathers", "label": "两家父亲", "x": 340, "y": 400, "color": "plain", "sub": "'父'"}
+    ],
+    "edges": [
+      {"a": "bazarov", "b": "arkady", "label": "师友"},
+      {"a": "bazarov", "b": "pavel", "label": "决斗", "style": "dashed"},
+      {"a": "bazarov", "b": "odintsova", "label": "失败的爱", "style": "dashed"},
+      {"a": "fathers", "b": "bazarov", "label": "'父'的哀伤"}
+    ]
+  }
+}

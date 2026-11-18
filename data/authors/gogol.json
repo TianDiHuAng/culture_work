@@ -1,0 +1,37 @@
+{
+  "id": "gogol",
+  "name": "果戈理",
+  "foreign_name": "Nikolay Gogol（尼古拉·瓦西里耶维奇·果戈理，1809-04-01 — 1852-03-04）",
+  "country": "俄国",
+  "birth": "1809-04-01",
+  "death": "1852-03-04",
+  "birth_year": 1809,
+  "death_year": 1852,
+  "era": "近代",
+  "summary": "果戈理，波尔塔瓦附近的索罗钦齐人（乌克兰裔，Britannica：A Ukrainian-born humorist, dramatist, and novelist (1809–1852)...Born in Sorochintsy near Poltava），'写俄语并塑造俄国文学进程'（Britannica：wrote in Russian and shaped the course of Russian literature）。《死魂灵》（1842）与《外套》被视为'19世纪俄国现实主义的奠基'（Britannica：foundations of 19th-century Russian realism）。《钦差大臣》（首演1836，沙皇特令——Britannica）、《狄康卡近乡夜话》。1852年3月4日卒于莫斯科，年四十二（Britannica）。'陀思妥耶夫斯基名言：俄国现实主义者都出自果戈理的大衣之下'（Britannica：Dostoyevsky later remarked that all Russian realists had come 'from under Gogol's greatcoat'）。",
+  "timeline": [
+    {"year": "1809-04-01", "text": "生于索罗钦齐（Britannica：Born in Sorochintsy near Poltava），乌克兰哥萨克传统民间风味滋养早期故事（Britannica：His boyhood amid Cossack traditions and folklore fueled his early stories）。", "src": "B140"},
+    {"year": "1831—1832", "text": "《狄康卡近乡夜话》两部（Britannica：Evenings on a Farm near Dikanka）——乌克兰词语与民间风味。", "src": "B140"},
+    {"year": "1836", "text": "《钦差大臣》首演——由沙皇特令（Britannica：first performed 1836 by the tsar's special order）； backlash 后'he lived mainly in Rome until 1842'（居罗马至1842，Britannica）。", "src": "B140"},
+    {"year": "1842", "text": "《死魂灵》第一部出版（Britannica：Dead Souls (1842)）；'the swindler Chichikov buys deceased serfs...intending to pawn them'（乞乞科夫收购未注销死农奴抵押——Britannica）。", "src": "B140"},
+    {"year": "1852-03-04", "text": "卒于莫斯科，年四十二（Britannica：he died in Moscow at age 42）——焚稿事件（《死魂灵》二部，通说待核）。", "src": "B140"}
+  ],
+  "major_works": [
+    {"work_id": "sihunling", "note": "1842；代表作"},
+    {"title": "钦差大臣（1836）、外套（1842）", "note": "喜剧与短篇（Britannica 列举）"},
+    {"title": "狄康卡近乡夜话（1831—32）", "note": "早期故事集（Britannica）"}
+  ],
+  "style": [
+    "'怪诞'的喜剧：'humorist'（Britannica）——钦差大臣的讽刺与《外套》的哀怜并存。",
+    "'死魂灵'的结构：普希金提供的创意（Britannica：Pushkin gave him the ideas for his two chief works）。",
+    "语言与细节的'文献式'堆积（通说待核）。"
+  ],
+  "status": "Britannica 定位果戈理为'乌克兰裔幽默家、戏剧家与小说家'，'塑造俄国文学进程'（shaped the course of Russian literature）；《死魂灵》与《外套》为'19世纪俄国现实主义奠基'（Britannica）。",
+  "sources": ["B140"],
+  "dates_source": "B140",
+  "pending": [
+    "《死魂灵》第一部1842年出版（通说）与第二部焚稿（1852）待核。",
+    "'外套'篇名与'小人物'传统待核。",
+    "满涛等中译本信息待核。"
+  ]
+}

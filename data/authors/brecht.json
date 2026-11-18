@@ -1,0 +1,38 @@
+{
+  "id": "brecht",
+  "name": "布莱希特",
+  "foreign_name": "Bertolt Brecht（贝托尔特·布莱希特，1898-02-10 — 1956-08-14）",
+  "country": "德国",
+  "birth": "1898-02-10",
+  "death": "1956-08-14",
+  "birth_year": 1898,
+  "death_year": 1956,
+  "era": "现当代",
+  "summary": "布莱希特，奥格斯堡人，德国诗人、剧作家与戏剧改革家（Britannica）。'史诗剧场'（epic theatre）与'陌生化效果'（Verfremdungseffekt）——'rejected theatrical illusion and asked audiences to watch plays with critical detachment'（拒绝剧场幻觉、要求观众以批判的疏离观看，Britannica）。《三分钱歌剧》（与魏尔合作1928）、《母亲》（1932）、《伽利略传》《四川好人》《高加索灰阑记》（Britannica 列举）。1933年起流亡（斯堪的纳维亚、好莱坞，Britannica）；1947年众议院非美活动委员会作证后离美（Britannica）；与妻 Helene Weigel 创立东柏林柏林剧团（Britannica：Founded the Berliner Ensemble in East Berlin with his wife Helene Weigel）。1955年斯大林和平奖（Britannica）；1956年8月14日心脏病卒（Britannica）。",
+  "timeline": [
+    {"year": "1898-02-10", "text": "生于奥格斯堡（Britannica：born in Augsburg）。", "src": "B138"},
+    {"year": "1922", "text": "《夜半鼓声》获克莱斯特奖（Britannica：Kleist Prize, 1922）；《巴尔》与《夜半鼓声》早期成功（Britannica：Early success with Baal and Drums in the Night）。", "src": "B138"},
+    {"year": "1928", "text": "《三分钱歌剧》与魏尔合作（Britannica：Collaborated with Kurt Weill on The Threepenny Opera (1928)）；《马哈哥尼》（1930，Britannica）。", "src": "B138"},
+    {"year": "1920s末", "text": "成为马克思主义者（Britannica：Became a Marxist in the late 1920s, taught by Karl Korsch）。", "src": "B138"},
+    {"year": "1933—1947", "text": "1933年希特勒上台后流亡（Britannica：Went into exile in 1933 (Scandinavia, then Hollywood)）；流亡时期写《母亲》《伽利略传》《四川好人》等名剧（Britannica：wrote major plays including Mother Courage and Her Children, The Life of Galileo, and The Good Woman of Setzuan）；1947年非美听证后离美（Britannica：Testified before the House Un-American Activities Committee before leaving the U.S. in 1947）。", "src": "B138"},
+    {"year": "1949—1956", "text": "东柏林柏林剧团（Britannica：Founded the Berliner Ensemble in East Berlin with his wife Helene Weigel）；1955年斯大林和平奖（Britannica：Received the Stalin Peace Prize in 1955）；1956年8月14日心脏病卒（Britannica：died of a heart attack the following year）。", "src": "B138"}
+  ],
+  "major_works": [
+    {"work_id": "sanfenqian", "note": "1928；与魏尔合作"},
+    {"title": "母亲（1932）、伽利略传（1939）、四川好人（1940）", "note": "流亡期名剧（Britannica）"},
+    {"title": "高加索灰阑记（1945）", "note": "（通说待核）"}
+  ],
+  "style": [
+    "'史诗剧场'与'陌生化'：'rejected theatrical illusion'（Britannica）——'间离'使观众批判性观看（Britannica：'critical detachment'）。",
+    "歌与叙事的插入（singing narrator——通说待核）。",
+    "'辩证'剧本：人物在矛盾中（伽利略——通说）。"
+  ],
+  "status": "Britannica 定位布莱希特为'德国诗人、剧作家与戏剧改革家'（German poet, playwright, and theatrical reformer）——其'史诗剧场'重塑20世纪戏剧（通说待核）。'布莱希特式'（Brechtian）进入剧场语言（通说待核）。",
+  "sources": ["B138"],
+  "dates_source": "B138",
+  "pending": [
+    "《三分钱歌剧》1928年首演（柏林，通说）与《乞丐歌剧》原型（Gay）待核。",
+    "1947年 HUAC 作证细节（'are you now or have you ever been'——通说）待核。",
+    "《伽利略传》两版（1939/1955）差异待核。"
+  ]
+}
