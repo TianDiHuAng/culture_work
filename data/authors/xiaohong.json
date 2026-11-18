@@ -1,0 +1,41 @@
+{
+  "id": "xiaohong",
+  "name": "萧红",
+  "foreign_name": "Xiao Hong（萧红，本名张乃莹，1911—1942）",
+  "country": "中国",
+  "birth": "1911",
+  "death": "1942-02-22",
+  "birth_year": 1911,
+  "death_year": 1942,
+  "era": "现当代",
+  "summary": "萧红，黑龙江呼兰人，中国现代文学最独特的女作家之一。Britannica 记其1930年为逃包办婚姻离家漂泊（left home in 1930 to escape an arranged marriage and lived a drifting life）；1932年与萧军结合（partnering with writer Xiao Jun in 1932）；首篇《王阿嫂的死》（1933，Britannica：'Wang asao de si' ('The Death of Sister Wang'), came in 1933）；1935年《生死场》经鲁迅帮助在上海出版（Britannica：published in Shanghai in 1935 with Lu Xun's help）。1940年移居香港，完成《呼兰河传》（Tales of Hulan River, 1942，Britannica）——'her best-known work, developing a lyric-style fiction blending fiction and nonfiction, prose and verse'（发展出融合虚构与非虚构、散文与诗的'抒情体小说'——Britannica）。1942年2月22日病逝香港，年三十（Britannica）。",
+  "timeline": [
+    {"year": "1911", "text": "生于黑龙江呼兰县（Britannica：born Zhang Naiying in Hulan county, Heilongjiang province——出生年月1911年6月通说待核）。", "src": "B110"},
+    {"year": "1930", "text": "逃婚离家赴北平、哈尔滨（Britannica：left home in 1930 to escape an arranged marriage）。", "src": "B110"},
+    {"year": "1932—1934", "text": "与萧军结合（Britannica：partnering with writer Xiao Jun in 1932）；1933年首篇《王阿嫂的死》发表（Britannica）；1934年赴青岛写《生死场》。", "src": "B110"},
+    {"year": "1935", "text": "《生死场》经鲁迅作序在上海出版（Britannica：The Field of Life and Death...with Lu Xun's help; he praised its depiction of northeasterners' lives）。", "src": "B110"},
+    {"year": "1936—1938", "text": "东渡日本（通说待核）；1938年与萧军分开、与端木蕻良结合（Britannica：After she and Xiao Jun split in 1938, she married the writer Duanmu Hongliang）。", "src": "B110"},
+    {"year": "1940", "text": "移居香港（Britannica：She moved to Hong Kong that year）；写《呼兰河传》与《马伯乐》（Britannica：She wrote the satirical novel Ma Bole during illness in 1940）。", "src": "B110"},
+    {"year": "1942-02-22", "text": "香港沦陷期病逝（Britannica：died of respiratory problems on February 22, 1942, shortly after Hong Kong fell to Japan, at age 30）。", "src": "B110"}
+  ],
+  "major_works": [
+    {"work_id": "hulanhe", "note": "1942；代表作"},
+    {"title": "生死场（1935）", "note": "成名作（Britannica 语境）"},
+    {"title": "马伯乐（1940）、商市街", "note": "讽刺小说与散文（Britannica 列举马伯乐）"}
+  ],
+  "style": [
+    "'抒情体小说'：Britannica——'developing a lyric-style fiction blending fiction and nonfiction, prose and verse'（融合虚构与非虚构、散文与诗的抒情体小说）。",
+    "散点透视：无主人公的群像与童年视角（通说）。",
+    "东北方言与儿童语：天真语调下的残酷（通说）。",
+    "'越轨的笔致'：鲁迅《生死场》序评语（'叙述的细致……越轨的笔致'——通说待核）。"
+  ],
+  "status": "Britannica 定位萧红为以《呼兰河传》闻名的中国作家——'lyric-style fiction'的创造者。'萧红热'（1980s以来中国学界与传记电影《黄金时代》——通说待核）使其成为现代文学最受关注的女性作家；'三十年代文学洛神'之号（通说待核）。",
+  "sources": ["B110"],
+  "dates_source": "B110",
+  "pending": [
+    "出生月份（1911年6月1日说，通称）待核。",
+    "鲁迅《生死场》序原文（'叙事和写景，胜于人物的描写'）逐字待核。",
+    "端木蕻良婚姻（1938年武汉说）细节待核。",
+    "香港思豪酒店/圣士提反女校疗养与葬地（浅水湾——通说）细节待核。"
+  ]
+}

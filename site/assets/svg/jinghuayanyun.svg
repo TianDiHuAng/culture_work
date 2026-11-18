@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="560.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="422.0" y="121.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">代妹出嫁</text>
+<line x1="130.0" y1="80.0" x2="340.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="219.0" y="96.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="235.0" y="109.0" font-size="12" fill="#555" text-anchor="middle">父女</text>
+<line x1="120.0" y1="300.0" x2="240.0" y2="400.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="164.0" y="341.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="180.0" y="354.0" font-size="12" fill="#555" text-anchor="middle">婚姻</text>
+<line x1="560.0" y1="400.0" x2="560.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="532.0" y="256.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="560.0" y="269.0" font-size="12" fill="#555" text-anchor="middle">官场倾轧</text>
+<line x1="240.0" y1="400.0" x2="340.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="268.0" y="256.0" width="44.0" height="18" rx="3" fill="#fdf9f1"/><text x="290.0" y="269.0" font-size="12" fill="#555" text-anchor="middle">心上人</text>
+<rect x="305.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">姚木兰</text>
+<rect x="314.0" y="149.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">道家女儿</text>
+<rect x="95.5" y="62.5" width="69.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="130.0" y="85.4" font-size="15" fill="#fff" text-anchor="middle">姚思安</text>
+<rect x="104.0" y="99.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="110.5" font-size="11" fill="#333" text-anchor="middle">道家家长</text>
+<rect x="525.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">曾孙亚</text>
+<rect x="528.5" y="149.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">儒家三少爷</text>
+<rect x="93.0" y="282.5" width="54.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="120.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">莫愁</text>
+<rect x="105.0" y="319.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">妹妹</text>
+<rect x="205.5" y="382.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="240.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">孔立夫</text>
+<rect x="225.0" y="419.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="240.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">学者</text>
+<rect x="525.5" y="382.5" width="69.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="560.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">牛怀瑜</text>
+<rect x="534.0" y="419.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">牛家恶少</text>
+<rect x="413.0" y="22.5" width="54.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="440.0" y="45.4" font-size="15" fill="#fff" text-anchor="middle">红玉</text>
+<rect x="403.0" y="59.5" width="74.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="440.0" y="70.5" font-size="11" fill="#333" text-anchor="middle">林黛玉式少女</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《京华烟云》姚曾牛三家关系图</text>
+</svg>
