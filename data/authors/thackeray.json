@@ -1,0 +1,40 @@
+{
+  "id": "thackeray",
+  "name": "萨克雷",
+  "foreign_name": "William Makepeace Thackeray（威廉·梅克比斯·萨克雷，1811-07-18 — 1863-12-24）",
+  "country": "英国",
+  "birth": "1811-07-18",
+  "death": "1863-12-24",
+  "birth_year": 1811,
+  "death_year": 1863,
+  "era": "近代",
+  "summary": "萨克雷，加尔各答人（东印度公司行政官之子，Britannica），狄更斯的对手、英国讽刺小说大家。剑桥未毕业；1832年继承2万镑遗产却'gambling and unlucky speculations and investments'（赌博与失败投资——Britannica）挥霍殆尽，为养家成为记者与漫画家。《名利场》（1847—48）副题'没有英雄的小说'（A Novel without a Hero——通说待核）确立其反情节剧的写实立场；1857年竞选议会失败、1860年创办《康希尔杂志》（Britannica）。1863年卒于伦敦，西敏寺立半身像（Britannica）。",
+  "timeline": [
+    {"year": "1811-07-18", "text": "生于加尔各答（Britannica：Born July 18, 1811, in Calcutta, India）；1816年父死后被送回英国（Britannica）。", "src": "B121"},
+    {"year": "1829—1832", "text": "查特豪斯公学与剑桥三一学院（未获学位，Britannica）。", "src": "B121"},
+    {"year": "1832—1836", "text": "继承遗产并挥霍殆尽（Britannica：Inherited £20,000 in 1832 but lost it）；1836年与'penniless Irish girl'结婚（Britannica：married a 'penniless Irish girl' in 1836），转行记者。", "src": "B121"},
+    {"year": "1840—1846", "text": "妻子1840年精神失常（Britannica：his wife went insane in 1840），成'effectively a widower raising three daughters'（事实上的鳏夫养三女，Britannica）。", "src": "B121"},
+    {"year": "1847—1848", "text": "《名利场》连载带来'fame and prosperity'（名利与富足，Britannica）。", "src": "B121"},
+    {"year": "1849—1860", "text": "《潘登尼斯》（1849—50）、《亨利·埃斯蒙德》（1852）、《纽可谟一家》（1853—55）；1852年《亨利·埃斯蒙德》历史小说（Britannica）；1857年竞选议会失败；'加里克俱乐部之争'与狄更斯决裂（1858，Britannica）；1860年创办《康希尔杂志》（Britannica）。", "src": "B121"},
+    {"year": "1863-12-24", "text": "卒于伦敦，年五十二（Britannica）；死后西敏寺半身像纪念（Britannica：Commemorated with a bust in Westminster Abbey）。", "src": "B121"}
+  ],
+  "major_works": [
+    {"work_id": "minglichang", "note": "1847—48；代表作"},
+    {"title": "亨利·埃斯蒙德（1852）、潘登尼斯（1850）", "note": "其他名作（Britannica 列举）"},
+    {"title": "势利者集", "note": "讽刺小品（通说）"}
+  ],
+  "style": [
+    "反情节剧的写实：'he favored realism over melodrama, satirized snobbery and social hypocrisy'（Britannica——偏爱写实而非情节剧，讽刺势利与社会伪善）。",
+    "'没有英雄的小说'：全人物皆'势利者'（通说）。",
+    "叙述者的闲谈体：佯装'sportsman'的漫画家叙述者（通说）。",
+    "中上阶级全景：Britannica——'wrote about middle- and upper-class life'。"
+  ],
+  "status": "Britannica 定位萨克雷为与狄更斯并列的维多利亚小说巨头（'A rival to Dickens'），以讽刺'势利与社会虚伪'著称。其《名利场》' Vanity Fair'语出《天路历程》——把社会比作'名利市场'。",
+  "sources": ["B121"],
+  "dates_source": "B121",
+  "pending": [
+    "《名利场》副题'A Novel without a Hero'出处待核。",
+    "加里克俱乐部之争细节待核。",
+    "笔名（George Fitz-Boodle 等，Britannica：Early pen names included 'Mr. Michael Angelo Titmarsh, Fitz-Boodle...'）待核。"
+  ]
+}

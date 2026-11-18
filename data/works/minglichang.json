@@ -1,0 +1,207 @@
+{
+  "id": "minglichang",
+  "title": "名利场",
+  "original_title": "Vanity Fair: A Novel without a Hero（名利场：没有英雄的小说）",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（讽刺）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "thackeray",
+  "author_name": "威廉·梅克比斯·萨克雷",
+  "year_display": "1847—1848年连载出版（Britannica）",
+  "year_sort": 1848,
+  "background": [
+    "书名：'Vanity Fair'出自班扬《天路历程》——'名利市场'：一切商品中包括'荣誉、领地、王国'等（通说待核）。",
+    "副题：'A Novel without a Hero'（没有英雄的小说，通说待核）——与狄更斯式英雄叙事对立。",
+    "背景：拿破仑时代（Britannica：set in the Napoleonic era）的英国社会——滑铁卢前后的'名利场'。"
+  ],
+  "outline": [
+    "两个女孩：孤儿蓓基·夏普（画匠之女，机敏无情）与爱米丽亚·赛特笠（富商之女，柔弱善良）同出平克顿女校——离开时蓓基说'我不相信人是好东西'（原文意，待核）。",
+    "蓓基的攀升：应聘毕脱·克劳莱家家庭教师——以'谦卑'与'手段'征服克劳莱家、嫁老男爵（通说）；进入伦敦上流沙龙，与斯丹恩勋爵暧昧（通说）；罗登（克劳莱次子）与之私奔成婚。",
+    "爱米丽亚的沉浮：与乔治·奥斯本订婚——乔治战死于滑铁卢（都宾少校暗恋她二十年——通说）；破产、寡居、被罗登夫妇暗中接济（通说）。",
+    "结局：滑铁卢后蓓基风流生活被罗登撞破而决裂；晚年以小旅馆身份隐居，爱米丽亚终于嫁都宾——'谁在名利场得胜？'——萨克雷的答案：'来吧，孩子们，都到名利场来吧'（开篇原文意，待核）——讽刺的邀请。"
+  ],
+  "characters": [
+    {
+      "name": "蓓基·夏普",
+      "identity": "孤女→上流贵妇→落魄",
+      "note": "文学最著名的'女冒险家'：无道德原则的社会攀登者（通说）"
+    },
+    {
+      "name": "爱米丽亚·赛特笠",
+      "identity": "富商之女",
+      "note": "'柔弱'的对照：萨克雷对女性的双重讽刺（通说）"
+    },
+    {
+      "name": "罗登·克劳莱",
+      "identity": "赌徒军官",
+      "note": "'好心的坏蛋'——被蓓基利用的丈夫（通说）"
+    },
+    {
+      "name": "都宾少校",
+      "identity": "军人·暗恋者",
+      "note": "'体面'的忠厚人——萨克雷的'无英雄'中的准英雄（通说）"
+    },
+    {
+      "name": "斯丹恩勋爵",
+      "identity": "老权贵",
+      "note": "上流社会的腐败之巅（通说）"
+    },
+    {
+      "name": "毕脱·克劳莱爵士",
+      "identity": "乡绅",
+      "note": "从男爵的吝啬与算计（通说）"
+    }
+  ],
+  "themes": [
+    "'势利'的全景：Britannica——'satirized snobbery and social hypocrisy'（讽刺势利与社会伪善）。",
+    "没有英雄：所有人物都有'虚荣'——道德相对化的叙事（通说）。",
+    "金钱与婚姻：婚姻=交易的'名利市场'（通说）。",
+    "艺术特点：叙述者的闲谈与漫画式插图（萨克雷自绘——通说待核）、双女对照结构。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Thackeray 条）：Vanity Fair (1847–48) 使萨克雷成名（'Vanity Fair's serial publication brought him fame and prosperity'）。",
+      "source": "B121"
+    },
+    {
+      "text": "Britannica：'A rival to Dickens'（狄更斯的对手）——英国小说的'双峰'格局。",
+      "source": "B121"
+    },
+    {
+      "text": "改编：电影与剧集多次（1935/2004年电影、1998剧集——通说待核）。",
+      "source": "B121"
+    },
+    {
+      "text": "中译：杨必译《名利场》（人民文学出版社，通说待核）——杨必译本被推为经典。",
+      "source": "B121"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "67章（含'没有英雄'的序）长卷——按'蓓基线/爱米丽亚线'分读。",
+      "拿破仑时代背景（滑铁卢）需要注释。",
+      "叙述者的反讽（佯装天真）——识别其语气。"
+    ],
+    "editions": [
+      "杨必译《名利场》（人民文学出版社）：通行经典译本。",
+      "英文本：Penguin Classics 或 Norton（通说待核）。"
+    ],
+    "order": "通读 → 精读开篇与'滑铁卢前后'几章 → 对照狄更斯《远大前程》看两种维多利亚叙事。"
+  },
+  "pending": [
+    "连载（《笨拙》1847年1月—1848年7月，Punch 杂志，通称）细节待核。",
+    "杨必译本出版信息待核。",
+    "萨克雷自绘插画确认待核。",
+    "副题原文'A Novel without a Hero'逐字核对。"
+  ],
+  "sources": [
+    "B121"
+  ],
+  "year_source": "B121",
+  "author_source": "B121",
+  "related_works": [
+    "dawei",
+    "aima",
+    "gaolaotou"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《名利场》双女对照关系图",
+    "nodes": [
+      {
+        "id": "becky",
+        "label": "蓓基·夏普",
+        "x": 340,
+        "y": 130,
+        "color": "antagonist",
+        "sub": "孤女·攀登者"
+      },
+      {
+        "id": "amelia",
+        "label": "爱米丽亚",
+        "x": 120,
+        "y": 130,
+        "color": "main",
+        "sub": "富商之女"
+      },
+      {
+        "id": "rodon",
+        "label": "罗登·克劳莱",
+        "x": 560,
+        "y": 130,
+        "color": "plain",
+        "sub": "赌徒丈夫"
+      },
+      {
+        "id": "dobbin",
+        "label": "都宾少校",
+        "x": 120,
+        "y": 330,
+        "color": "main",
+        "sub": "暗恋二十年"
+      },
+      {
+        "id": "steyne",
+        "label": "斯丹恩勋爵",
+        "x": 560,
+        "y": 330,
+        "color": "antagonist",
+        "sub": "老权贵"
+      },
+      {
+        "id": "george",
+        "label": "乔治·奥斯本",
+        "x": 340,
+        "y": 395,
+        "color": "plain",
+        "sub": "爱米丽亚之夫·滑铁卢阵亡"
+      },
+      {
+        "id": "crawley",
+        "label": "毕脱爵士",
+        "x": 90,
+        "y": 395,
+        "color": "plain",
+        "sub": "吝啬乡绅"
+      }
+    ],
+    "edges": [
+      {
+        "a": "becky",
+        "b": "amelia",
+        "label": "同窗·利用"
+      },
+      {
+        "a": "becky",
+        "b": "rodon",
+        "label": "私奔成婚"
+      },
+      {
+        "a": "becky",
+        "b": "steyne",
+        "label": "暧昧",
+        "style": "dashed"
+      },
+      {
+        "a": "amelia",
+        "b": "george",
+        "label": "寡居"
+      },
+      {
+        "a": "dobbin",
+        "b": "amelia",
+        "label": "二十年终成眷属"
+      },
+      {
+        "a": "becky",
+        "b": "crawley",
+        "label": "家庭教师出身"
+      }
+    ]
+  }
+}
