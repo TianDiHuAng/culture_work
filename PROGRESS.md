@@ -87,4 +87,4 @@
 - 同一问题连续失败 3 次 → 记入 BLOCKERS.md 并跳过。
 
 ## 收尾
-**ALL_DONE** —— 全部四阶段于 2026-11-18 完成：60 作品页 / 55 作家页 / 60 SVG / sources.json 100 条(99 verified) / check 全部通过 / REPORT.md 已交付。
+**ALL_DONE** —— v1 四阶段于 2026-11-18 完成（60 作品/55 作家/来源100条）；**v2 扩充于 2026-11-19 完成：新增 41 部作品（中国 11 · 外国 30）+ 27 位新作家 → 总计 101 作品 / 82 作家 / 60+41 SVG / sources.json 130 条(129 verified) / check 全部通过 / 已推送 GitHub（TianDiHuAng/culture_work）。**
