@@ -1,0 +1,40 @@
+{
+  "id": "lee",
+  "name": "哈珀·李",
+  "foreign_name": "Harper Lee（哈珀·李，1926-04-28 — 2016-02-19）",
+  "country": "美国",
+  "birth": "1926-04-28",
+  "death": "2016-02-19",
+  "birth_year": 1926,
+  "death_year": 2016,
+  "era": "现当代",
+  "summary": "哈珀·李，阿拉巴马州蒙罗维尔人，'best known for To Kill a Mockingbird (1960)'（以《杀死一只知更鸟》最为著名——Britannica）。1961年普利策奖（Britannica：Won the Pulitzer Prize in 1961）、2007年总统自由勋章（Britannica：Presidential Medal of Freedom in 2007）；小说售逾4000万册（Britannica：has sold over 40 million copies）；1962年电影（派克——Britannica：adapted into a 1962 film starring Gregory Peck）与2018年百老汇剧（Aaron Sorkin 改编——Britannica）。童年好友卡波特（《冷血》研究协助——Britannica：childhood friends with Truman Capote and helped him research In Cold Blood in Kansas）。《设立守望者》（2015出版为先写续集式作品——Britannica：Go Set a Watchman, written before her famous novel but published in 2015 as a sequel）。2016年2月19日卒于蒙罗维尔（Britannica）。",
+  "timeline": [
+    {"year": "1926-04-28", "text": "生于阿拉巴马州蒙罗维尔（Britannica：Born and died in Monroeville, Alabama），律师之家（通说待核）。", "src": "B151"},
+    {"year": "1945—1949", "text": "阿拉巴马大学法学院（含牛津一学期——Britannica：with a stint at Oxford），未毕业赴纽约（Britannica：left for New York without a degree）。", "src": "B151"},
+    {"year": "1960", "text": "《杀死一只知更鸟》出版（Britannica：To Kill a Mockingbird (1960)）。", "src": "B151"},
+    {"year": "1961", "text": "普利策奖（Britannica：Won the Pulitzer Prize in 1961）。", "src": "B151"},
+    {"year": "1960s—2016", "text": "淡出公众生活（Britannica：largely withdrew from public life after her novel's success）；协助卡波特《冷血》（Britannica：helped him research In Cold Blood in Kansas）；2007年总统自由勋章（Britannica）。", "src": "B151"},
+    {"year": "2015", "text": "《设立守望者》出版——写成在先但2015年作为'续集'出版（Britannica：written before her famous novel but published in 2015 as a sequel）——描绘老年 Atticus 的种族主义观点（Britannica：portrays an older Atticus Finch with racist views）——争议。", "src": "B151"},
+    {"year": "2016-02-19", "text": "卒于蒙罗维尔，年八十九（Britannica）。", "src": "B151"}
+  ],
+  "major_works": [
+    {"work_id": "shasi", "note": "1960；唯一生前出版的小说（Britannica：The only book published in her lifetime——1960年《杀死一只知更鸟》为唯一出版小说，Britannica）"},
+    {"title": "设立守望者（2015）", "note": "（Britannica）"},
+    {"title": "身后集《Sweet Forever之地》", "note": "2025年出版（Britannica：A posthumous collection, The Land of Sweet Forever, was published in 2025）"}
+  ],
+  "style": [
+    "儿童视角看成人种族主义：Scout 的天真叙述（通说）。",
+    "'知更鸟'象征：'杀死知更鸟是一种罪'（通说待核）——无辜者的毁灭。",
+    "南方小镇的法律与道德：Atticus Finch——'conscience'（通说）。"
+  ],
+  "status": "Britannica 记哈珀·李为《杀死一只知更鸟》作者——1961普利策、2007总统自由勋章；小说'has sold over 40 million copies'（Britannica）。'Atticus Finch'成为美国法律与良知的象征（通说待核）；《设立守望者》出版争议（2015——Britannica）反映了著作权的伦理（通说待核）。",
+  "sources": ["B151"],
+  "dates_source": "B151",
+  "pending": [
+    "生日（4月28日）与卒日（2月19日）Britannica 确认。",
+    "《设立守望者》出版争议（老年 Atticus 种族观——Britannica）各方说法待核。",
+    "2025年《Sweet Forever之地》出版细节待核。",
+    "卡波特《冷血》协作细节待核。"
+  ]
+}

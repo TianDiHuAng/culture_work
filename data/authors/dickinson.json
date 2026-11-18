@@ -1,0 +1,35 @@
+{
+  "id": "dickinson",
+  "name": "狄金森",
+  "foreign_name": "Emily Dickinson（艾米莉·狄金森，1830-12-10 — 1886-05-15）",
+  "country": "美国",
+  "birth": "1830-12-10",
+  "death": "1886-05-15",
+  "birth_year": 1830,
+  "death_year": 1886,
+  "era": "近代",
+  "summary": "狄金森，马萨诸塞州阿默斯特人，美国抒情诗人（Britannica：American lyric poet）。'wrote nearly 1,800 poems, but only 10 were published in her lifetime, all anonymously'（写了近1800首诗，生前仅10首匿名发表——Britannica）。赞美诗体诗节、斜韵、破折号与首字母大写（Britannica：hymn-like verse forms, slant rhymes, and her liberal use of dashes and capitalization）。主题：死亡、不朽、自然、信仰与怀疑、孤立（Britannica：themes include death, immortality, nature, faith and doubt, and isolation）。名诗《因为我不能停下等待死神》《希望是有羽毛的东西》（Britannica：famous poems include 'Because I could not stop for Death' and 'Hope is the thing with feathers'）。'隐居渐深，her full greatness was only recognized well into the 20th century'（20世纪才充分认可其伟大——Britannica）。1886年5月15日卒于阿默斯特（Britannica）。",
+  "timeline": [
+    {"year": "1830-12-10", "text": "生于阿默斯特，卒于同地（Britannica：Born and died in Amherst, Massachusetts）。", "src": "B153"},
+    {"year": "1840s—1850s", "text": "阿默斯特学院（Britannica：Educated at Amherst Academy）——'she excelled in composition, Latin, and science, and assembled a botanical herbarium'（作文拉丁科学优异、植物标本册——Britannica）；Mount Holyoke 短期（Britannica）。", "src": "B153"},
+    {"year": "1850s—1886", "text": "'与未明'Master'通信及'与法官洛德恋情'（Britannica：intense relationships, including correspondence with an unidentified 'Master' and a later romance with judge Otis Phillips Lord）；隐居渐深（Britannica：She lived increasingly in seclusion）。", "src": "B153"},
+    {"year": "1886-05-15", "text": "卒于阿默斯特（Britannica：Born and died in Amherst）；妹妹 Lavinia 发现诗稿（通说待核）。", "src": "B153"}
+  ],
+  "major_works": [
+    {"work_id": "dijinshenshixuan", "note": "通行选集（本库立目）"},
+    {"title": "近1800首诗", "note": "Britannica：wrote nearly 1,800 poems"}
+  ],
+  "style": [
+    "赞美诗体诗节、斜韵、破折号与首字母大写（Britannica：hymn-like verse forms, slant rhymes, and her liberal use of dashes and capitalization）。",
+    "格言式简练与意象的突变（通说）。",
+    "'定义诗'（《希望是有羽毛的东西》——'Hope is the thing with feathers'——原文，公有领域）。"
+  ],
+  "status": "Britannica 定位狄金森为'美国抒情诗人'，生前仅发表10首匿名诗（Britannica：only 10 were published in her lifetime, all anonymously）——20世纪才充分认可（Britannica：her full greatness was only recognized well into the 20th century）。'狄金森式'的破折号与斜韵成为现代诗歌的形式遗产（通说待核）。",
+  "sources": ["B153"],
+  "dates_source": "B153",
+  "pending": [
+    "诗稿发现（1886年 Lavinia 发现——通说待核）与出版史（1890首集/1955 Johnson 全集）待核。",
+    "'Master'书信（三个草稿说——通说待核）待核。",
+    "《因为我不能停下等待死神》原文逐字核对照通行译本。"
+  ]
+}

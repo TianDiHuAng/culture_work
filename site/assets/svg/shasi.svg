@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="230.0" x2="560.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="434.0" y="221.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">辩护</text>
+<line x1="340.0" y1="230.0" x2="340.0" y2="110.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="161.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="174.0" font-size="12" fill="#555" text-anchor="middle">父女教育</text>
+<line x1="550.0" y1="400.0" x2="560.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="539.0" y="306.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="555.0" y="319.0" font-size="12" fill="#555" text-anchor="middle">诬告</text>
+<line x1="120.0" y1="230.0" x2="340.0" y2="110.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="214.0" y="161.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="174.0" font-size="12" fill="#555" text-anchor="middle">守护</text>
+<line x1="550.0" y1="400.0" x2="340.0" y2="110.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="417.0" y="246.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="259.0" font-size="12" fill="#555" text-anchor="middle">报复袭击</text>
+<rect x="305.5" y="92.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="115.4" font-size="15" fill="#fff" text-anchor="middle">斯库特</text>
+<rect x="319.5" y="129.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="140.5" font-size="11" fill="#333" text-anchor="middle">叙述者</text>
+<rect x="298.0" y="212.5" width="84.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="235.4" font-size="15" fill="#fff" text-anchor="middle">阿蒂克斯</text>
+<rect x="310.7" y="249.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="260.5" font-size="11" fill="#333" text-anchor="middle">律师·父亲</text>
+<rect x="506.0" y="212.5" width="108.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="560.0" y="235.4" font-size="15" fill="#fff" text-anchor="middle">汤姆·鲁滨逊</text>
+<rect x="545.0" y="249.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="260.5" font-size="11" fill="#333" text-anchor="middle">被告</text>
+<rect x="73.5" y="212.5" width="93.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="120.0" y="235.4" font-size="15" fill="#fff" text-anchor="middle">布·拉德利</text>
+<rect x="98.4" y="249.5" width="43.2" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="260.5" font-size="11" fill="#333" text-anchor="middle">'怪人'</text>
+<rect x="213.0" y="382.5" width="54.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="240.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">杰姆</text>
+<rect x="225.0" y="419.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="240.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">哥哥</text>
+<rect x="496.0" y="382.5" width="108.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="550.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">鲍勃·尤厄尔</text>
+<rect x="529.5" y="419.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">诬告者</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">《杀死一只知更鸟》人物关系图</text>
+</svg>

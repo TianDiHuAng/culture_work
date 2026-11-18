@@ -1,0 +1,120 @@
+{
+  "id": "dijinshenshixuan",
+  "title": "狄金森诗选",
+  "original_title": "狄金森诗选（通行选集）",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "dickinson",
+  "author_name": "艾米莉·狄金森",
+  "year_display": "诗作于1858—1886年间；1955年 Johnson 全集出版（通说待核）",
+  "year_sort": 1860,
+  "background": [
+    "本库以'选集'立目：通行选本篇目大体含《因为我不能停下等待死神》《希望是有羽毛的东西》《我为美而死》《灵魂选择自己的伴侣》《我听到一只苍蝇嗡嗡——当我在死》等（选目因版本而异，逐版本待核）。",
+    "Britannica（Dickinson 条）：'Because I could not stop for Death' and 'Hope is the thing with feathers' 为名诗（Britannica 列举）。"
+  ],
+  "outline": [
+    "死亡与不朽：《因为我不能停下等待死神》——死与永生的马车同行（原文意，公有领域）；《我为美而死》——墓中对话（通说）。",
+    "希望：《希望是有羽毛的东西》——'Hope is the thing with feathers / That perches in the soul'（原文，公有领域）。",
+    "自然与信仰：'成功的滋味最甜'（原文意，公有领域）；信仰与怀疑的张力（Britannica：faith and doubt）。",
+    "孤独：'灵魂选择自己的伴侣'（原文意，公有领域）——封闭的选择（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "'我'（灵魂）",
+      "identity": "隐居的自我",
+      "note": "'破折号'背后的灵魂"
+    },
+    {
+      "name": "死神",
+      "identity": "绅士马车夫",
+      "note": "'因为我不能停下等待死神，他好意停车接我'（原文意，公有领域）"
+    }
+  ],
+  "themes": [
+    "死亡的'亲近'：死亡不是终结而是'探索'（通说）。",
+    "斜韵（slant rhyme）与破折号：Britannica——'slant rhymes, and her liberal use of dashes and capitalization'——形式即意义（通说）。",
+    "格言式简练：'Split the Lark'式的'看见即杀死'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Dickinson 条）：'her full greatness was only recognized well into the 20th century'——现代诗歌的先声。",
+      "source": "B153"
+    },
+    {
+      "text": "对现代诗歌（庞德/艾略特后）的形式遗产（通说待核）。",
+      "source": "B153"
+    },
+    {
+      "text": "中译：江枫译《狄金森诗选》（通说待核）。",
+      "source": "B153"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "破折号与省略——理解其'停顿'的意义。",
+      "赞美诗体与'反赞美诗'的内容张力。"
+    ],
+    "editions": [
+      "江枫译《狄金森诗选》（人民文学/湖南文艺，通说待核）。",
+      "英文本：The Poems of Emily Dickinson（Harvard/T. H. Johnson 编——通说待核）。"
+    ],
+    "order": "先读《因为我不能停下等待死神》《希望是有羽毛的东西》→ 死亡组 → 自然与信仰组 → 孤独组。"
+  },
+  "pending": [
+    "选本篇目因版本而异（Johnson 1955三卷/Werner 1998——通说待核）。",
+    "江枫译本信息待核。",
+    "破折号的不同版本处理（Manuscript Books——通说待核）待核。"
+  ],
+  "sources": [
+    "B153"
+  ],
+  "year_source": "B153",
+  "author_source": "B153",
+  "related_works": [
+    "huangyuan",
+    "yecao",
+    "aiqing-xuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "狄金森诗歌主题图",
+    "cards": [
+      {
+        "title": "死神",
+        "sub": "Death",
+        "text": "'因为他好意停车'",
+        "color": "antagonist"
+      },
+      {
+        "title": "希望",
+        "sub": "Hope",
+        "text": "'有羽毛的东西'",
+        "color": "gold"
+      },
+      {
+        "sub": "Faith/Doubt",
+        "text": "'我从未在教堂找到家'",
+        "color": "plain",
+        "title": "信仰与怀疑"
+      },
+      {
+        "sub": "Nature",
+        "text": "蛇、蜂、日落",
+        "color": "family",
+        "title": "自然"
+      },
+      {
+        "sub": "Isolation",
+        "text": "'灵魂选择自己的伴侣'",
+        "color": "main",
+        "title": "孤立"
+      }
+    ]
+  }
+}

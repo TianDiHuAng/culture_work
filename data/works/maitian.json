@@ -1,0 +1,71 @@
+{
+  "id": "maitian",
+  "title": "麦田里的守望者",
+  "original_title": "The Catcher in the Rye（麦田里的守望者）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语（口语）",
+  "author_id": "salinger",
+  "author_name": "J.D.塞林格",
+  "year_display": "1951年出版（Britannica）",
+  "year_sort": 1951,
+  "background": [
+    "霍尔顿·考尔菲德——被开除的16岁预备学校学生——在纽约三天两夜的'流浪'（Britannica：featuring Holden Caulfield，resonated especially with post-WWII college students——Britannica）。",
+    "书名意象：'catcher in the rye'——麦田里接住坠崖的孩子（彭德尔顿·科尔·菲尔比斯颂诗——通说待核）。"
+  ],
+  "outline": [
+    "逃离彭菲尔德：被开除——在纽约游荡：旅馆、酒吧、 taxis、旧女友萨莉、修女（通说）。",
+    "'伪君子'（phonies）：霍尔顿对'成人世界'的全面鄙视——'我要当麦田守望者，接住每个孩子'（原文意，公有领域——通说待核）。",
+    "结局：妹妹菲比与旋转木马——霍尔顿看菲比乘木马而'高兴得几乎流泪'（原文意，待核）——精神的微光。"
+  ],
+  "characters": [
+    {"name": "霍尔顿·考尔菲德", "identity": "16岁学生", "note": "'青春的反叛者'——口语第一人称"},
+    {"name": "菲比", "identity": "妹妹", "note": "纯真的锚"},
+    {"name": "安托利尼先生", "identity": "前英文教师", "note": "'成熟'的暧昧建议（通说待核）"}
+  ],
+  "themes": [
+    "'青春期'的 alienation：'成人世界的虚伪'——phonies（通说）。",
+    "纯真的守护：麦田守望者的理想（通说）。",
+    "艺术特点：口语、重复（'和/该死的'）、未完成的精神分析框架（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Salinger 条）：The Catcher in the Rye (1951)...'resonated especially with post-WWII college students'。", "source": "B148"},
+    {"text": "Britannica：'Influential on later writers like Plath, Roth, and Updike'。", "source": "B148"},
+    {"text": "中译：施咸荣译本（译林出版社，通说待核）。", "source": "B148"}
+  ],
+  "reading": {
+    "difficulties": [
+      "口语/俚语/重复——中译需捕捉'少年语气'。",
+      "叙述者的'不可靠'——撒谎与矛盾。"
+    ],
+    "editions": [
+      "施咸荣译《麦田里的守望者》（译林出版社，通说待核）。",
+      "英文本：Little, Brown（通说待核）。"
+    ],
+    "order": "通读 → 精读'守望者宣言'与旋转木马结尾 → 讨论'霍尔顿是否真的疯了'。"
+  },
+  "pending": [
+    "1951年7月16日 Little, Brown 出版（通说）细节待核。",
+    "施咸荣译本信息待核。",
+    "'catcher'意象出自 Burns 诗（Comin' Thro' the Rye——通说待核）待核。"
+  ],
+  "sources": ["B148"],
+  "year_source": "B148",
+  "author_source": "B148",
+  "related_works": ["wuhao", "chonger", "hakebei"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《麦田里的守望者》纽约三天结构图",
+    "steps": [
+      {"title": "被开除", "text": "彭菲尔德之夜", "color": "plain"},
+      {"title": "纽约", "text": "旅馆·酒吧· Taxi", "color": "gold"},
+      {"title": "约会与失望", "text": "萨莉·修女·安托利尼", "color": "antagonist"},
+      {"title": "回家", "text": "菲比·旋转木马", "color": "main"}
+    ]
+  }
+}

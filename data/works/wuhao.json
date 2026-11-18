@@ -1,0 +1,75 @@
+{
+  "id": "wuhao",
+  "title": "五号屠场",
+  "original_title": "Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death（五号屠场）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（黑色幽默/反战）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "vonnegut",
+  "author_name": "库尔特·冯内古特",
+  "year_display": "1969年出版（Britannica）",
+  "year_sort": 1969,
+  "background": [
+    "取材（Britannica）：冯内古特本人二战被德俘、'the 1945 firebombing of Dresden'（1945年德累斯顿轰炸）——'the basis for Slaughterhouse-Five'（本作素材——Britannica）——写作历时约25年（通说待核）。",
+    "结构：'Billy Pilgrim has come unstuck in time'（比利·皮尔格林在时间中脱落——原文意，公有领域）——非线性时间、特拉法玛多星的'四维'视角。"
+  ],
+  "outline": [
+    "比利：眼科配镜师→二战战俘→德累斯顿轰炸幸存者（藏于'五号屠场'屠宰场地下——通说）→战后'正常'生活的崩溃→被外星人特拉法玛多人劫走（通说）。",
+    "特拉法玛多人：'时间是'所有时刻同时存在'——'只发生一次的死亡不重要'（原文意，待核）——'so it goes'（原文，公有领域）。",
+    "结局：比利预言自己的死（用广播预告——通说）；'鸽子似的咕咕声'——结尾'Poo-tee-weet?'（原文，公有领域）——'关于大屠杀没有智慧可说'（引言原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "比利·皮尔格林", "identity": "配镜师·战俘·时间旅人", "note": "'时间脱落'者——'optometry'式的美国普通人"},
+    {"name": "凯绥·施尔菲（引用）", "text": "凯绥·施尔菲（Stalin Prize 类比——通说待核）", "note": "凯绥的'母亲'？——通说"},
+    {"name": "特拉法玛多人", "identity": "外星人", "note": "'四维'时间观的传达者（通说）"},
+    {"name": "瓦兰西娅", "identity": "妻子", "note": "死亡加速比的讽刺（通说）"}
+  ],
+  "themes": [
+    "反战：德累斯顿轰炸'无军事价值'的杀戮——'Children's Crusade'副题（Britannica：The Children's Crusade）。",
+    "时间的非线性：创伤记忆的非线性结构（通说待核）。",
+    "'so it goes'：每次死亡的重复——'既然如此'的宿命与荒诞（原文，公有领域）。",
+    "艺术特点：黑色幽默、非线性结构、自传插入（第1章——通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Vonnegut 条）：Slaughterhouse-Five (1969)...'a modern-day classic'获全国图书奖。", "source": "B149"},
+    {"text": "反战经典：越南战争时期的'反战'文学标志（通说待核）。", "source": "B149"},
+    {"text": "中译：云彩译《五号屠场》（译林出版社，通说待核）。", "source": "B149"}
+  ],
+  "reading": {
+    "difficulties": [
+      "非线性结构——读者需适应'时间碎片'。",
+      "'so it goes'的重复——理解其'宿命/黑色幽默'的双重性。"
+    ],
+    "editions": [
+      "云彩译《五号屠场》（译林出版社，通说待核）。",
+      "英文本：Dell/Delta 版（通说待核）。"
+    ],
+    "order": "通读 → 精读第1章（自传框架）与德累斯顿段 → 对照真实轰炸史。"
+  },
+  "pending": [
+    "1969年 Delacorte Press/Seymour Lawrence 出版（通说）细节待核。",
+    "云彩译本信息待核。",
+    "德累斯顿轰炸人数（25万说 vs 13.5万——通说待核）争议待核。",
+    "1972电影改编（George Roy Hill）待核。"
+  ],
+  "sources": ["B149"],
+  "year_source": "B149",
+  "author_source": "B149",
+  "related_works": ["maitian", "gulage", "riwage"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《五号屠场》时间脱落结构图",
+    "steps": [
+      {"title": "二战", "text": "战俘·德累斯顿轰炸", "color": "antagonist"},
+      {"title": "特拉法玛多", "text": "外星人·时间观", "color": "gold"},
+      {"title": "战后", "text": "配镜师·婚姻·'正常'", "color": "plain"},
+      {"title": "'so it goes'", "text": "每次死亡", "color": "family"},
+      {"title": "'Poo-tee-weet?'", "text": "结尾的沉默", "color": "main"}
+    ]
+  }
+}

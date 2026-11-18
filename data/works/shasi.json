@@ -1,0 +1,85 @@
+{
+  "id": "shasi",
+  "title": "杀死一只知更鸟",
+  "original_title": "To Kill a Mockingbird（杀死一只知更鸟）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lee",
+  "author_name": "哈珀·李",
+  "year_display": "1960年出版（Britannica）",
+  "year_sort": 1960,
+  "background": [
+    "设定：大萧条时期阿拉巴马州梅岗镇——白人律师阿蒂克斯·芬奇为黑人汤姆·鲁滨逊辩护强奸案——以Scout（斯库特）儿童视角叙述（通说）。",
+    "书名（通说待核）：'杀死知更鸟是一种罪'——知更鸟只唱歌不害人——无辜者的毁灭。",
+    "人物原型：阿蒂克斯以作者父亲为原型（通说待核）；迪尔=卡波特（Britannica：childhood friends with Truman Capote (the model for Dill in the novel)）。"
+  ],
+  "outline": [
+    "斯库特、杰姆与迪尔：夏日小镇、'怪人'拉德利之谜（通说）。",
+    "审判：汤姆·鲁滨逊被诬强奸白女——阿蒂克斯辩护、法庭 segregated、判决有罪（通说）——汤姆试图越狱被枪杀。",
+    "结局：鲍勃·尤厄尔（败诉者）报复儿童——'怪人'拉德利出手相救—— Scout终于'看见'了怪人（通说）。"
+  ],
+  "characters": [
+    {"name": "斯库特", "identity": "女孩叙述者", "note": "天真的儿童视角"},
+    {"name": "阿蒂克斯·芬奇", "identity": "律师·父亲", "note": "'道德的律师'——'在你真正了解一个人之前，不要评判他'（原文意，待核）"},
+    {"name": "汤姆·鲁滨逊", "identity": "黑人被告", "note": "'知更鸟'——无辜者"},
+    {"name": "布·拉德利", "identity": "'怪人'邻居", "note": "另一个'知更鸟'"},
+    {"name": "杰姆", "identity": "哥哥", "note": "'从天真到觉醒'的成长"}
+  ],
+  "themes": [
+    "种族不公正：1930s南方Jim Crow（通说）。",
+    "'站在他人鞋里'：同理心（阿蒂克斯教育——原文意，待核）。",
+    "成长与'纯真的丧失'（通说）。",
+    "艺术特点：儿童视角+双线（拉德利/审判）结构（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Lee 条）：1961普利策奖；'sold over 40 million copies'；1962年电影（Gregory Peck）与2018年百老汇剧（Aaron Sorkin 改编）。", "source": "B151"},
+    {"text": "Britannica：2007总统自由勋章。", "source": "B151"},
+    {"text": "阿蒂克斯成为美国'良知'符号（ABA 律师榜——通说待核）。", "source": "B151"}
+  ],
+  "reading": {
+    "difficulties": [
+      "儿童语言与南方方言——译本需捕捉。",
+      "Jim Crow 法与1930s大萧条背景——注释。"
+    ],
+    "editions": [
+      "李育超译《杀死一只知更鸟》（译林出版社，通说待核）。",
+      "英文本：Harper Perennial（通说待核）。"
+    ],
+    "order": "通读 → 精读法庭辩护段与结尾 → 对照1962电影与《设立守望者》争议。"
+  },
+  "pending": [
+    "1960年7月11日 J.B. Lippincott 出版（通说）细节待核。",
+    "李育超译本信息待核。",
+    "2018年百老汇剧（Sorkin 改编）细节待核。",
+    "2015《设立守望者》争议各方说法待核。"
+  ],
+  "sources": ["B151"],
+  "year_source": "B151",
+  "author_source": "B151",
+  "related_works": ["chonger", "wajie", "dawei"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《杀死一只知更鸟》人物关系图",
+    "nodes": [
+      {"id": "scout", "label": "斯库特", "x": 340, "y": 110, "color": "main", "sub": "叙述者"},
+      {"id": "atticus", "label": "阿蒂克斯", "x": 340, "y": 230, "color": "main", "sub": "律师·父亲"},
+      {"id": "tom", "label": "汤姆·鲁滨逊", "x": 560, "y": 230, "color": "gold", "sub": "被告"},
+      {"id": "boo", "label": "布·拉德利", "x": 120, "y": 230, "color": "family", "sub": "'怪人'"},
+      {"id": "jem", "label": "杰姆", "x": 240, "y": 400, "color": "family", "sub": "哥哥"},
+      {"id": "ewell", "label": "鲍勃·尤厄尔", "x": 550, "y": 400, "color": "antagonist", "sub": "诬告者"}
+    ],
+    "edges": [
+      {"a": "atticus", "b": "tom", "label": "辩护"},
+      {"a": "atticus", "b": "scout", "label": "父女教育"},
+      {"a": "ewell", "b": "tom", "label": "诬告", "style": "dashed"},
+      {"a": "boo", "b": "scout", "label": "守护"},
+      {"a": "ewell", "b": "scout", "label": "报复袭击", "style": "dashed"}
+    ]
+  }
+}

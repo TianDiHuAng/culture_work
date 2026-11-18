@@ -1,0 +1,85 @@
+{
+  "id": "chonger",
+  "title": "宠儿",
+  "original_title": "Beloved（宠儿）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "morrison",
+  "author_name": "托妮·莫里森",
+  "year_display": "1987年出版（Britannica）；1988年普利策奖（Britannica）",
+  "year_sort": 1987,
+  "background": [
+    "灵感（Britannica）：Margaret Garner 案——1856年逃奴 Garner 杀死自己的女儿以避免其被重新奴役（Britannica：inspired by the Margaret Garner story）。",
+    "结构：'Beloved, she is mine'献词——过去以'鬼魂/宠儿'的形体重返（通说）。"
+  ],
+  "outline": [
+    "赛丝——前逃奴——在'124号'与女儿丹芙独居，'宠儿'（被她杀死的两岁女儿）以18岁少女之形'重返'（通说）。",
+    "回忆：'甜蜜之家'庄园、逃亡、'林间空房'的杀女——赛丝与 Paul D 的记忆重构（通说）。",
+    "结局：社区女性集体'驱鬼'（通说细节待核）——宠儿消失；保罗 D 回到赛丝身旁：'你最好的东西是你自己'（原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "赛丝", "identity": "逃奴·母亲", "note": "'杀死女儿'的母亲——记忆的重负（通说）"},
+    {"name": "宠儿", "identity": "鬼魂·归来者", "note": "以身体存在具象化的创伤"},
+    {"name": "保罗 D", "identity": "'甜蜜之家'同伴", "note": "'铁箱心'——最后的和解"},
+    {"name": "丹芙", "identity": "女儿", "note": "走出孤立寻求社区"}
+  ],
+  "themes": [
+    "奴隶制的创伤与记忆（Britannica：explored Black American experience and identity）。",
+    "'母爱'的极端：杀女=保护（通说）。",
+    "社区与治疗：集体驱鬼=集体疗愈（通说）。",
+    "艺术特点：多声部（赛丝/塞丝/丹芙/宠儿）、'rememory'（重记忆）的概念、诗歌化散文（Britannica：poetic style）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Morrison 条）：Beloved (1987)——1988普利策奖；'inspired by the Margaret Garner story'；1998年电影（Oprah Winfrey——Britannica）。", "source": "B150"},
+    {"text": "Britannica：1993诺贝尔——'first Black woman'。", "source": "B150"},
+    {"text": "中译：潘岳/雷格译《宠儿》（南海出版公司/新经典，通说待核）。", "source": "B150"}
+  ],
+  "reading": {
+    "difficulties": [
+      "非线性叙事+多声部——按'人物分章'梳理。",
+      "'rememory'（重记忆）——理解莫里森的记忆观。",
+      "奴隶制历史（Fugitive Slave Act 1850）背景——注释。"
+    ],
+    "editions": [
+      "潘岳、雷格译《宠儿》（南海出版公司，通说待核）。",
+      "英文本：Vintage International（通说待核）。"
+    ],
+    "order": "通读 → 精读'林间空房'杀女段与结尾 → 对照电影（1998）与 Margaret Garner 史实。"
+  },
+  "pending": [
+    "1987年 Knopf 出版细节待核。",
+    "潘岳/雷格译本信息待核。",
+    "Margaret Garner 案（1856）史实细节待核。",
+    "1998电影 Jonathan Demme 导演待核。"
+  ],
+  "sources": ["B150"],
+  "year_source": "B150",
+  "author_source": "B150",
+  "related_works": ["bainian", "riwage", "maitian"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《宠儿》人物创伤关系图",
+    "nodes": [
+      {"id": "sethe", "label": "赛丝", "x": 340, "y": 130, "color": "main", "sub": "母亲"},
+      {"id": "beloved", "label": "宠儿", "x": 560, "y": 230, "color": "gold", "sub": "归来的女儿"},
+      {"id": "pauld", "label": "保罗 D", "x": 120, "y": 230, "color": "family", "sub": "'甜蜜之家'同伴"},
+      {"id": "denver", "label": "丹芙", "x": 340, "y": 320, "color": "family", "sub": "活着的女儿"},
+      {"id": "baby", "label": "贝比·萨格斯", "x": 120, "y": 400, "color": "plain", "sub": "婆婆·牧师"},
+      {"id": "slavery", "label": "'甜蜜之家'", "x": 560, "y": 400, "color": "antagonist", "sub": "庄园·创伤源头"}
+    ],
+    "edges": [
+      {"a": "sethe", "b": "beloved", "label": "杀女·归来"},
+      {"a": "sethe", "b": "pauld", "label": "重逢"},
+      {"a": "sethe", "b": "denver", "label": "母女"},
+      {"a": "beloved", "b": "pauld", "label": "三角纠缠", "style": "dashed"},
+      {"a": "baby", "b": "sethe", "label": "精神导师"},
+      {"a": "slavery", "b": "sethe", "label": "创伤源头"}
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "hongzi",
+  "title": "红字",
+  "original_title": "The Scarlet Letter（红字）",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（象征罗曼司）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hawthorne",
+  "author_name": "纳撒尼尔·霍桑",
+  "year_display": "1850年出版（Britannica）",
+  "year_sort": 1850,
+  "background": [
+    "清教背景：1650年前后马萨诸塞湾殖民地波士顿——通奸的耻辱标记：'the scarlet letter A'（通说）。",
+    "作者（Britannica）：霍桑家族清教后裔——先祖参与1692年巫审（'one ancestor judged in the 1692 witch trials'）——家族衰败或为报应的猜想（Britannica）。"
+  ],
+  "outline": [
+    "海丝特·白兰因通奸被判终身佩戴红字'A'（Adultery）；丈夫（罗杰·齐灵渥斯）隐姓埋名出现，追查情人（通说）。",
+    "牧师丁梅斯代尔——情人——内疚与自我折磨（通说）；齐灵渥斯以'医生'身份 psychological 折磨（通说）。",
+    "结局：丁梅斯代尔当众揭露红字（胸前纹印——通说）后死去；海丝特继续佩字行善成为' Sister of Mercy'——死后墓碑仅一个'A'（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "海丝特·白兰",
+      "identity": "通奸者·独母",
+      "note": "耻辱标记佩戴者——以行动重新定义'A'（通说）"
+    },
+    {
+      "name": "丁梅斯代尔",
+      "identity": "牧师·情人",
+      "note": "内疚与公开忏悔"
+    },
+    {
+      "name": "罗杰·齐灵渥斯",
+      "identity": "丈夫·医生",
+      "note": "'复仇者'——心理折磨"
+    },
+    {
+      "name": "珠儿",
+      "identity": "私生女",
+      "note": "'活的红字'（通说）"
+    }
+  ],
+  "themes": [
+    "罪与耻的公共标记（通说）。",
+    "清教社会的伪善与人性（通说）。",
+    "象征主义：红字/珠儿/森林/白天黑夜（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Hawthorne 条）：The Scarlet Letter (1850) 列于 famous works；'widely considered among the greatest fiction writers of 19th-century America'。",
+      "source": "B147"
+    },
+    {
+      "text": "与梭罗/爱默生的康科德交往（Britannica：Knew Emerson and Thoreau in Concord）。",
+      "source": "B147"
+    },
+    {
+      "text": "中译：韩侍桁/姚乃强译本（通说待核）。",
+      "source": "B147"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "17世纪清教殖民地背景——注释。",
+      "'罗曼司'（romance）文体的边界——霍桑自序《海关》中界定。"
+    ],
+    "editions": [
+      "韩侍桁译《红字》（上海译文出版社，通说待核）。",
+      "英文本：Norton Critical（通说待核）。"
+    ],
+    "order": "通读24章 → 精读'市场刑台'三场 → 对照爱默生/梭罗的超验主义。"
+  },
+  "pending": [
+    "1850年出版（Ticknor, Reed & Fields）细节待核。",
+    "韩侍桁译本信息待核。",
+    "《海关》序与'罗曼司'定义待核。"
+  ],
+  "sources": [
+    "B147"
+  ],
+  "year_source": "B147",
+  "author_source": "B147",
+  "related_works": [
+    "honglou",
+    "middenma",
+    "weicheng"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《红字》三角关系与红字",
+    "nodes": [
+      {
+        "id": "hester",
+        "label": "海丝特·白兰",
+        "x": 340,
+        "y": 110,
+        "color": "main",
+        "sub": "佩红字者"
+      },
+      {
+        "id": "dimmesdale",
+        "label": "丁梅斯代尔",
+        "x": 550,
+        "y": 230,
+        "color": "plain",
+        "sub": "牧师·情人"
+      },
+      {
+        "id": "chillingworth",
+        "label": "齐灵渥斯",
+        "x": 120,
+        "y": 230,
+        "color": "antagonist",
+        "sub": "丈夫·复仇者"
+      },
+      {
+        "id": "pearl",
+        "label": "珠儿",
+        "x": 340,
+        "y": 320,
+        "color": "gold",
+        "sub": "'活的红字'"
+      },
+      {
+        "id": "letter",
+        "label": "红字 A",
+        "x": 340,
+        "y": 395,
+        "color": "antagonist",
+        "sub": "耻辱的标记"
+      }
+    ],
+    "edges": [
+      {
+        "a": "hester",
+        "b": "dimmesdale",
+        "label": "通奸"
+      },
+      {
+        "a": "hester",
+        "b": "chillingworth",
+        "label": "名义夫妻"
+      },
+      {
+        "a": "chillingworth",
+        "b": "dimmesdale",
+        "label": " psychological 折磨",
+        "style": "dashed"
+      },
+      {
+        "a": "hester",
+        "b": "pearl",
+        "label": "母女"
+      },
+      {
+        "a": "letter",
+        "b": "hester",
+        "label": "终身佩戴"
+      }
+    ]
+  }
+}

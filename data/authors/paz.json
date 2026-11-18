@@ -1,0 +1,37 @@
+{
+  "id": "paz",
+  "name": "帕斯",
+  "foreign_name": "Octavio Paz（奥克塔维奥·帕斯，1914-03-31 — 1998-04-19）",
+  "country": "墨西哥",
+  "birth": "1914-03-31",
+  "death": "1998-04-19",
+  "birth_year": 1914,
+  "death_year": 1998,
+  "era": "现当代",
+  "summary": "帕斯，墨西哥城人，墨西哥诗人、作家与外交家，1990年诺贝尔文学奖得主（Britannica）。'Influenced by Marxism, Surrealism, existentialism, Buddhism, and Hinduism'（受马克思主义、超现实主义、存在主义、佛教和印度教影响——Britannica）。《太阳石》（Piedra de sol）与《孤独的迷宫》（El laberinto de la soledad——检视墨西哥身份与文化——Britannica）为核心作品。1962—1968年驻印度大使——1968年因政府镇压学生而辞职（Britannica：resigning in protest over his government's treatment of student radicals）；创办文学评论《台阶》与《回归》（Britannica：founded several literary reviews, including Taller and Vuelta）。1981年塞万提斯奖（Britannica）。1998年4月19日卒（Britannica）。",
+  "timeline": [
+    {"year": "1914-03-31", "text": "生于墨西哥城（Britannica：Born in Mexico City）。", "src": "B157"},
+    {"year": "1931", "text": "19岁发表首部诗集《野月亮》（Luna silvestre，Britannica：published his first poetry collection, Luna silvestre, at age 19）。", "src": "B157"},
+    {"year": "1937—1945", "text": "赴西班牙参加反法西斯作家大会（通说待核）；创办《台阶》（Taller）杂志（Britannica）；《孤独的迷宫》(1950，通说待核)。", "src": "B157"},
+    {"year": "1962—1968", "text": "驻印度大使（Britannica：served as Mexico's ambassador to India (1962–1968)），1968年因特拉特洛尔科大屠杀辞职（Britannica：resigning in protest over his government's treatment of student radicals）。", "src": "B157"},
+    {"year": "1971—1998", "text": "创办《回归》（Vuelta，Britannica）；1981塞万提斯奖（Britannica：Cervantes Prize in 1981）；1990诺贝尔文学奖（Britannica）；1998-04-19卒（Britannica）。", "src": "B157"}
+  ],
+  "major_works": [
+    {"work_id": "taiyangshi", "note": "1957；代表作"},
+    {"title": "孤独的迷宫（1950）", "note": "文化随笔（Britannica）"},
+    {"title": "狂暴之土（1949）、火种", "note": "诗集（通说待核）"}
+  ],
+  "style": [
+    "超现实主义与东方：'influenced by Surrealism, Buddhism, and Hinduism'（Britannica）。",
+    "《太阳石》：584行环形诗——阿兹特克历法年份=金星循环（通说待核）——'单一长句'的循环。",
+    "'孤独'的哲学：《孤独的迷宫》——墨西哥人的孤独与面具（通说）。"
+  ],
+  "status": "Britannica 定位帕斯为墨西哥诗人作家与外交家、1990年诺贝尔文学奖得主；'his notable works include Piedra de sol (Sun Stone) and the influential essay El laberinto de la soledad'（代表作含《太阳石》与《孤独的迷宫》——Britannica）。'拉美最重要思想家之一'（通说待核）。",
+  "sources": ["B157"],
+  "dates_source": "B157",
+  "pending": [
+    "《太阳石》584行与阿兹特克历法的对应（通说待核）待核。",
+    "1968年特拉特洛尔科大屠杀与帕斯辞职细节待核。",
+    "赵振江译本信息待核。"
+  ]
+}

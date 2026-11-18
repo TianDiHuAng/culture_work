@@ -1,0 +1,38 @@
+{
+  "id": "vonnegut",
+  "name": "冯内古特",
+  "foreign_name": "Kurt Vonnegut（库尔特·冯内古特，1922-11-11 — 2007-04-11）",
+  "country": "美国",
+  "birth": "1922-11-11",
+  "death": "2007-04-11",
+  "birth_year": 1922,
+  "death_year": 2007,
+  "era": "现当代",
+  "summary": "冯内古特，印第安纳波利斯人，美国黑色幽默作家。'satirical, postmodern works blending fantasy and science fiction'（讽刺性后现代作品融合幻想与科幻——Britannica）。二战被德俘、经历1945年德累斯顿轰炸——'the basis for Slaughterhouse-Five (1969)'（《五号屠场》的素材——Britannica：the 1945 firebombing of Dresden — the basis for Slaughterhouse-Five (1969), which the article calls a 'modern-day classic'）。《猫的摇篮》《冠军早餐》《夜母》《钢琴手》《时震》（Britannica 列举）。1973年入选美国艺术与科学院、2015年科幻名人堂（Britannica）。2007年4月11日卒于纽约（Britannica）。",
+  "timeline": [
+    {"year": "1922-11-11", "text": "生于印第安纳波利斯（Britannica：Born November 11, 1922, in Indianapolis）。", "src": "B149"},
+    {"year": "1944—1945", "text": "二战入伍被德俘、德累斯顿轰炸幸存（Britannica：Served in WWII, was captured by the Germans, and survived the 1945 firebombing of Dresden）。", "src": "B149"},
+    {"year": "1952", "text": "《自动钢琴》（Player Piano，Britannica 列举）——科幻首作（通说待核）。", "src": "B149"},
+    {"year": "1969", "text": "《五号屠场》出版——'a modern-day classic'获全国图书奖（Britannica：Slaughterhouse-Five (1969)...won a National Book Award）。", "src": "B149"},
+    {"year": "1984", "text": "自杀未遂（Britannica：struggled with depression and attempted suicide in 1984）。", "src": "B149"},
+    {"year": "2007-04-11", "text": "卒于纽约，年八十四（Britannica：died April 11, 2007, in New York）。", "src": "B149"}
+  ],
+  "major_works": [
+    {"work_id": "wuhao", "note": "1969；代表作"},
+    {"title": "猫的摇篮（1963）、冠军早餐（1973）", "note": "（Britannica 列举 Cat's Cradle, Breakfast of Champions）"},
+    {"title": "夜母（Mother Night）、钢琴手（Player Piano）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "黑色幽默：'satirical, postmodern works blending fantasy and science fiction'（Britannica）。",
+    "'既然如此'：全书反复出现——'so it goes'（原文，公有领域）。",
+    "自传与虚构的杂交：《五号屠场》'Kilgore Trout'与作者自传并行（通说）。"
+  ],
+  "status": "Britannica 称冯内古特为'American novelist known for satirical, postmodern works'（以讽刺性后现代作品著称的美国小说家）——《五号屠场》为'modern-day classic'。'冯内古特式'（Vonnegutian）的幽默与绝望并置成为20世纪后期美国文学标记（通说待核）。",
+  "sources": ["B149"],
+  "dates_source": "B149",
+  "pending": [
+    "德累斯顿轰炸（1945年2月13—14日）与《五号屠场》写作的间隔（25年——通说待核）待核。",
+    "全国图书奖细节（Best Paperback SF——通说待核）待核。",
+    "《冠军早餐》插图（作者自绘——通说待核）待核。"
+  ]
+}

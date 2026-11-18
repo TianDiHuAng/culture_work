@@ -1,0 +1,39 @@
+{
+  "id": "frost",
+  "name": "弗罗斯特",
+  "foreign_name": "Robert Frost（罗伯特·弗罗斯特，1874-03-26 — 1963-01-29）",
+  "country": "美国",
+  "birth": "1874-03-26",
+  "death": "1963-01-29",
+  "birth_year": 1874,
+  "death_year": 1963,
+  "era": "现当代",
+  "summary": "弗罗斯特，旧金山人，美国最著名的诗人之一。四次普利策奖（1924/1931/1937/1943），1958—59年任国会图书馆诗歌顾问，1961年在肯尼迪就职典礼上朗诵《全心全意的奉献》（Britannica）。名诗包括《未选择的路》《修墙》《雪夜林边小驻》《摘苹果后》等（Britannica 列举）。生于旧金山，在马萨诸塞州劳伦斯长大；未完成达特茅斯和哈佛学业；在新罕布什尔州德里务农和任教；1912年移居伦敦，《少年的意志》（A Boy's Will, 1913）和《波士顿以北》（North of Boston, 1914）在庞德和艾米·洛威尔帮助下成名（Britannica）。1963年1月29日卒于波士顿，年八十八（Britannica）。",
+  "timeline": [
+    {"year": "1874-03-26", "text": "生于旧金山（Britannica：Born March 26, 1874, in San Francisco）；在劳伦斯长大。", "src": "B154"},
+    {"year": "1892—1897", "text": "达特茅斯和哈佛未获学位（Britannica：attended Dartmouth and Harvard without finishing degrees）。", "src": "B154"},
+    {"year": "1900—1912", "text": "在新罕布什尔州德里务农和教书（Britannica：farmed and taught in Derry, New Hampshire）。", "src": "B154"},
+    {"year": "1912", "text": "移居伦敦（Britannica：moved to London in 1912），《少年的意志》(1913)与《波士顿以北》(1914)成名，受庞德与艾米·洛威尔帮助（Britannica）。", "src": "B154"},
+    {"year": "1924—1943", "text": "四次获普利策奖（Britannica：Won the Pulitzer Prize four times (1924, 1931, 1937, 1943)）。", "src": "B154"},
+    {"year": "1961", "text": "在肯尼迪就职典礼上朗诵《全心全意的奉献》（Britannica：recited 'The Gift Outright' at JFK's 1961 inauguration）。", "src": "B154"},
+    {"year": "1963-01-29", "text": "卒于波士顿，年八十八（Britannica：died January 29, 1963, in Boston at age 88）。", "src": "B154"}
+  ],
+  "major_works": [
+    {"work_id": "frosite", "note": "通行选集（本库立目）"},
+    {"title": "少年的意志（1913）、波士顿以北（1914）", "note": "伦敦成名作（Britannica）"},
+    {"title": "新罕布什尔（1923）、西流（1936）", "note": "普利策获奖诗集（Britannica 口径）"}
+  ],
+  "style": [
+    "'以日常语言写深刻'：口语与新英格兰乡村意象并存——表面简单而内涵深邃（通说）。",
+    "格律与自由并行：素体诗、双韵体——'playing solos'（'以旧方式独奏'——Britannica 语境，通说待核）。",
+    "自然与人的哲学边界：墙/林/雪/路——新英格兰景观承载存在之问（通说）。"
+  ],
+  "status": "Britannica 称弗罗斯特为'four-time Pulitzer winner'（四届普利策奖得主）。'美国诗歌的普通话'——以日常语言承载哲学深度；'The Road Not Taken'被广泛（有时错误地）读作独立精神的赞歌（误读研究——David Orr 2016 同名书，通说待核）。",
+  "sources": ["B154"],
+  "dates_source": "B154",
+  "pending": [
+    "四次普利策获奖诗集名（New Hampshire 1923, Collected Poems 1930, A Further Range 1936, A Witness Tree 1942）待核。",
+    "'playing solos'自述出处待核。",
+    "《设计》《熄灭》等黑暗短诗的评价（通说待核）待核。"
+  ]
+}

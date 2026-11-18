@@ -1,0 +1,38 @@
+{
+  "id": "morrison",
+  "name": "莫里森",
+  "foreign_name": "Toni Morrison（托妮·莫里森，1931-02-18 — 2019-08-05）",
+  "country": "美国",
+  "birth": "1931-02-18",
+  "death": "2019-08-05",
+  "birth_year": 1931,
+  "death_year": 2019,
+  "era": "现当代",
+  "summary": "莫里森，俄亥俄州洛林人（本名 Chloe Ardelia Wofford，Britannica），美国小说家——'the first Black woman to win the Nobel Prize for Literature (1993)'（首位获诺贝尔文学奖的黑人女性——Britannica）。兰登书屋编辑15年（Britannica：worked as a Random House editor for over 15 years — the first female African American editor there）；《最蓝的眼睛》（1970）、《所罗门之歌》（1977）、《宠儿》（1987，1988普利策奖——Britannica）、《爵士》（1992）等（Britannica 列举）。2010年法国荣誉军团勋章、2012年总统自由勋章（Britannica）。2019年8月5日卒于纽约（Britannica 语境）。",
+  "timeline": [
+    {"year": "1931-02-18", "text": "生于俄亥俄州洛林（Britannica：born Chloe Ardelia Wofford in Lorain, Ohio）。", "src": "B150"},
+    {"year": "1965—1985", "text": "兰登书屋高级编辑15年（Britannica：worked as a Random House editor for over 15 years — the first female African American editor there, championing writers like Toni Cade Bambara and Angela Davis）；后教于 SUNY Albany 与普林斯顿（Britannica）。", "src": "B150"},
+    {"year": "1970", "text": "《最蓝的眼睛》出版（Britannica：The Bluest Eye (1970)）。", "src": "B150"},
+    {"year": "1977—1987", "text": "《所罗门之歌》（1977，国家图书奖——通说待核）；《宠儿》（1987，Britannica：Beloved (1987)——1988普利策奖，Britannica：Pulitzer Prize for Beloved (1988)）。", "src": "B150"},
+    {"year": "1993", "text": "诺贝尔文学奖——首位黑人女性获奖者（Britannica：the first Black woman to win the Nobel Prize for Literature (1993)）。", "src": "B150"},
+    {"year": "2012—2019", "text": "2010法国荣誉军团勋章、2012总统自由勋章（Britannica：French Legion of Honor (2010) and the Presidential Medal of Freedom (2012)）；《上帝帮助孩子》（2015，通说待核）；2019-08-05卒于纽约（Britannica 语境）。", "src": "B150"}
+  ],
+  "major_works": [
+    {"work_id": "chonger", "note": "1987；普利策奖"},
+    {"title": "最蓝的眼睛（1970）、所罗门之歌（1977）", "note": "（Britannica 列举）"},
+    {"title": "爵士（1992）、恩惠（A Mercy，2008）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'诗性的散文'：Britannica——'praised for its poetic style and use of fantasy and myth'（诗性风格与幻想神话的运用）。",
+    "非裔美国人的经验：Britannica——'explored Black American experience and identity'（探索黑人美国经验与身份）。",
+    "'重记忆'（rememory）：宠儿中发明的概念（通说待核）。"
+  ],
+  "status": "Britannica 定位莫里森为'美国小说家、1993年诺贝尔文学奖得主'——首位黑人女性诺奖得主（Britannica）。'莫里森式'的散文与历史书写影响了整个美国文学（通说待核）。",
+  "sources": ["B150"],
+  "dates_source": "B150",
+  "pending": [
+    "《宠儿》灵感来源 Margaret Garner 案（Britannica 已述：inspired by the Margaret Garner story）细节待核。",
+    "1998年电影（Oprah Winfrey——Britannica：adapted into a 1998 film starring Oprah Winfrey）待核。",
+    "《宠儿》1988普利策奖细节待核。"
+  ]
+}

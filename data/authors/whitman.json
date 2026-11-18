@@ -1,0 +1,39 @@
+{
+  "id": "whitman",
+  "name": "惠特曼",
+  "foreign_name": "Walt Whitman（沃尔特·惠特曼，1819-05-31 — 1892-03-26）",
+  "country": "美国",
+  "birth": "1819-05-31",
+  "death": "1892-03-26",
+  "birth_year": 1819,
+  "death_year": 1892,
+  "era": "近代",
+  "summary": "惠特曼，长岛西岗人，美国诗人，'a symbol of American democracy'（美国民主的象征——Britannica）。12岁起当印刷工（Britannica：Worked from age 12 as a printer），后教师、记者；布鲁克林《每日鹰报》编辑（1848年因支持自由土地党被解雇——Britannica：He edited the Brooklyn Daily Eagle but was fired in 1848 for supporting the Free Soil Party）；新奥尔良《新月报》短暂工作（Britannica）。1855年自费出版《草叶集》——'sold a house to fund it'（卖房筹资——Britannica）；一生修订再版九版（Britannica：ultimately producing nine editions）。内战后华盛顿医院看护伤兵（Britannica：He was dismissed from the Department of the Interior in 1865 because the secretary considered Leaves of Grass indecent——因'不体面'被内政部解雇）。1865年《桴鼓集》含林肯挽歌《当紫丁香在庭院中开放时》（Britannica 列举）。1892年3月26日卒于卡姆登（Britannica）。",
+  "timeline": [
+    {"year": "1819-05-31", "text": "生于长岛西岗（Britannica：Born May 31, 1819, in West Hills, Long Island, New York）。", "src": "B152"},
+    {"year": "1831—1848", "text": "印刷工→教师→记者；布鲁克林《每日鹰报》编辑（1848年被解雇——Britannica）；新奥尔良《新月报》短暂（Britannica）。", "src": "B152"},
+    {"year": "1855", "text": "《草叶集》第一版自费出版（Britannica：Published the first edition in 1855 at his own expense (he sold a house to fund it)）。", "src": "B152"},
+    {"year": "1862—1865", "text": "内战华盛顿医院看护伤兵（Britannica：visited wounded soldiers in Washington hospitals）；1865年因内政部秘书认为《草叶集》'indecent'被解雇（Britannica：dismissed from the Department of the Interior in 1865）——William O'Connor《好灰色诗人》(1866)辩护（Britannica）。", "src": "B152"},
+    {"year": "1865", "text": "《桴鼓集》与续编含林肯挽歌（Britannica：His war poems appeared in Drum-Taps (May 1865) and Sequel to Drum-Taps, which included 'When Lilacs Last in the Dooryard Bloom'd'）。", "src": "B152"},
+    {"year": "1873—1892", "text": "中风后移居卡姆登；1881年最终版《草叶集》；1892-03-26卒（Britannica）。", "src": "B152"}
+  ],
+  "major_works": [
+    {"work_id": "caoyeji", "note": "1855年起；一生九版"},
+    {"title": "桴鼓集（1865）", "note": "内战诗（Britannica）"},
+    {"title": "当紫丁香在庭院中开放时", "note": "林肯挽歌（Britannica 列举）"}
+  ],
+  "style": [
+    "自由诗（free verse）：Britannica——'The poems used free verse and controversial subject matter'（自由诗与争议题材）。",
+    "'民主的' catalogue：列举与排比（通说）。",
+    "'自我'（Self）：'我赞美我自己，歌唱我自己'（《自己之歌》原文，公有领域）。"
+  ],
+  "status": "Britannica 称惠特曼为'美国民主的象征'（a symbol of American democracy），'whose verse style and challenge to convention reshaped American literature'（其诗风与对传统的挑战重塑了美国文学——Britannica）。爱默生赞'美国贡献的最非凡的智慧与机智之作'（Britannica：Ralph Waldo Emerson called it 'the most extraordinary piece of wit and wisdom' America had produced）。",
+  "sources": ["B152"],
+  "dates_source": "B152",
+  "pending": [
+    "《草叶集》1855年7月4日初版（通说）细节待核。",
+    "九版演变（1855—1892）与增删细节待核。",
+    "1865年内政部解雇的文件待核。",
+    "《自己之歌》原文逐字核对。"
+  ]
+}

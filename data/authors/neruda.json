@@ -1,0 +1,38 @@
+{
+  "id": "neruda",
+  "name": "聂鲁达",
+  "foreign_name": "Pablo Neruda（巴勃罗·聂鲁达，1904-07-12 — 1973-09-23）",
+  "country": "智利",
+  "birth": "1904-07-12",
+  "death": "1973-09-23",
+  "birth_year": 1904,
+  "death_year": 1973,
+  "era": "现当代",
+  "summary": "聂鲁达，智利帕拉尔人（本名 Neftalí Ricardo Reyes Basoalto，Britannica），'widely considered the most important Latin American poet of the 20th century'（公认为20世纪最重要的拉美诗人——Britannica）。1946年因父反对而合法化笔名（Britannica）。《二十首情诗和一支绝望的歌》（1924）成名（Britannica）；外交官（亚洲西班牙墨西哥等地——Britannica）；西班牙内战推向共产主义与社会主题（Britannica：The Spanish Civil War pushed him toward communism and social themes, seen in Spain in My Heart (1937)）。《住所》超现实主义苦闷诗与《一般之歌》（1950）拉丁美洲史诗——'controversially, also praised Stalin'（争议性地也赞斯大林——Britannica）。1945年当选参议员、后被逐翻越安第斯流亡（Britannica）。1971年诺贝尔文学奖（Britannica）。1973年9月23日卒于圣地亚哥——阿连德政变后不久（Britannica：He died in Santiago on September 23, 1973, shortly after the coup against Salvador Allende）。",
+  "timeline": [
+    {"year": "1904-07-12", "text": "生于智利帕拉尔（Britannica：Born July 12, 1904, in Parral, Chile）。", "src": "B156"},
+    {"year": "1923—1924", "text": "《黄昏之书》(Crepusculario, 1923) 与《二十首情诗和一支绝望的歌》(1924)——'made him famous'（成名，Britannica）。", "src": "B156"},
+    {"year": "1927—1935", "text": "外交官：亚洲（仰光等）、西班牙、墨西哥（Britannica：served as consul in Asia, Spain, Mexico, and elsewhere）。", "src": "B156"},
+    {"year": "1937—1950", "text": "西班牙内战后转向共产主义与社会主题（Britannica：Spain in My Heart (1937)）；《住所》(Residence on Earth)、《一般之歌》(Canto general, 1950——拉丁美洲史诗——Britannica：an epic celebrating Latin America)。", "src": "B156"},
+    {"year": "1945—1973", "text": "1945年当选参议员（Britannica：Elected senator in 1945），后被逐翻越安第斯流亡（Britannica：he was later expelled and fled over the Andes into exile）；1971年诺贝尔文学奖（Britannica：Nobel Prize for Literature in 1971）；1973-09-23卒于圣地亚哥—— shortly after the coup against Salvador Allende（Britannica）。", "src": "B156"}
+  ],
+  "major_works": [
+    {"work_id": "ershishou", "note": "1924；成名作"},
+    {"title": "一般之歌（Canto general, 1950）", "note": "拉丁美洲史诗（Britannica）"},
+    {"title": "住所（Residence on Earth）", "note": "超现实主义苦闷诗（Britannica）"}
+  ],
+  "style": [
+    "情诗与政治诗的双轨：'twenty love poems'的青春激情 → 'Canto general'的社会史诗（Britannica 语境）。",
+    "超现实主义与意象：'surrealist, anguished verse'（Residence on Earth——Britannica）。",
+    "'自然-身体-政治'的三重叙事（通说）。"
+  ],
+  "status": "Britannica 称聂鲁达为'公认为20世纪最重要的拉美诗人'（widely considered the most important Latin American poet of the 20th century）；《一般之歌》'controversially, also praised Stalin'（争议性地也赞斯大林——Britannica）——诗人与政治的复杂关系。1973年卒于阿连德政变后不久（Britannica）；死后争议（遗孀与政治遗产——通说待核）。",
+  "sources": ["B156"],
+  "dates_source": "B156",
+  "pending": [
+    "1924年《二十首情诗》出版（Santiago：Nascimento 说，通称）与初版年龄（19岁——通说）细节待核。",
+    "1973年死因争议（自然死亡/暗杀说）待核。",
+    "《一般之歌》Canto general 主题与结构待核。",
+    "赵振江译《二十首情诗》（北京大学出版社，通说待核）信息待核。"
+  ]
+}
