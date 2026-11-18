@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340" y1="220" x2="340.0" y2="70.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="288.0" y="57.0" width="104.0" height="26.0" rx="6" fill="#3b6b8c" opacity="0.9"/>
+<text x="340.0" y="75.0" font-size="14" fill="#fff" text-anchor="middle">茵尼斯弗利岛</text>
+<line x1="340" y1="220" x2="446.1" y2="113.9" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="410.9" y="100.9" width="70.4" height="26.0" rx="6" fill="#8c3b3b" opacity="0.9"/>
+<text x="446.1" y="119.0" font-size="14" fill="#fff" text-anchor="middle">茅德·冈</text>
+<line x1="340" y1="220" x2="490.0" y2="220.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="452.0" y="207.0" width="76.0" height="26.0" rx="6" fill="#9a7b2f" opacity="0.9"/>
+<text x="490.0" y="225.0" font-size="14" fill="#fff" text-anchor="middle">一九一六</text>
+<line x1="340" y1="220" x2="446.1" y2="326.1" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="415.1" y="313.1" width="62.0" height="26.0" rx="6" fill="#3b6b8c" opacity="0.9"/>
+<text x="446.1" y="331.1" font-size="14" fill="#fff" text-anchor="middle">野天鹅</text>
+<line x1="340" y1="220" x2="340.0" y2="370.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="295.0" y="357.0" width="90.0" height="26.0" rx="6" fill="#a8642a" opacity="0.9"/>
+<text x="340.0" y="375.0" font-size="14" fill="#fff" text-anchor="middle">第二次降临</text>
+<line x1="340" y1="220" x2="233.9" y2="326.1" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="202.9" y="313.1" width="62.0" height="26.0" rx="6" fill="#9a7b2f" opacity="0.9"/>
+<text x="233.9" y="331.1" font-size="14" fill="#fff" text-anchor="middle">拜占庭</text>
+<line x1="340" y1="220" x2="190.0" y2="220.0" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="166.0" y="207.0" width="48.0" height="26.0" rx="6" fill="#55606b" opacity="0.9"/>
+<text x="190.0" y="225.0" font-size="14" fill="#fff" text-anchor="middle">学童</text>
+<line x1="340" y1="220" x2="233.9" y2="113.9" stroke="#c4bcaa" stroke-width="1.4"/>
+<rect x="209.9" y="100.9" width="48.0" height="26.0" rx="6" fill="#8c3b3b" opacity="0.9"/>
+<text x="233.9" y="119.0" font-size="14" fill="#fff" text-anchor="middle">螺旋</text>
+<rect x="317.0" y="200" width="46.0" height="40" rx="9" fill="#8c3b3b"/>
+<text x="340" y="225.0" font-size="16" fill="#fff" text-anchor="middle">塔</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">叶芝诗歌主题环</text>
+</svg>

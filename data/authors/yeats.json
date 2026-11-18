@@ -1,0 +1,42 @@
+{
+  "id": "yeats",
+  "name": "叶芝",
+  "foreign_name": "W.B. Yeats（威廉·巴特勒·叶芝，1865-06-13 — 1939-01-28）",
+  "country": "爱尔兰",
+  "birth": "1865-06-13",
+  "death": "1939-01-28",
+  "birth_year": 1865,
+  "death_year": 1939,
+  "era": "近代",
+  "summary": "叶芝，都柏林人（少年斯利戈——Britannica：boyhood summers in Sligo shaped his imagery and folklore），爱尔兰诗人、剧作家与散文家，'widely considered one of the greatest 20th-century English-language poets'（公认为20世纪最伟大的英语诗人之一——Britannica）。1923年诺贝尔文学奖——首位爱尔兰获奖者（Britannica：the first Irish writer to do so）。爱尔兰文学复兴领袖：1899年创爱尔兰文学剧院、1904年艾比剧院（Britannica：Cofounded the Irish Literary Theatre (1899), which became the Abbey Theatre in 1904）；1922—28年任爱尔兰参议员（Britannica）。名诗《茵尼斯弗利岛》《一九一六年》《库尔的野天鹅》《第二次降临》（'万物崩解；中心无法维系'——'Things fall apart; the centre cannot hold'，Britannica 引）《驶向拜占庭》（Britannica）。晚年最伟大：'greatest work came late — written between ages 50 and 75, including The Tower (1928) and The Winding Stair (1929)'（Britannica）。1939年卒于法国，1948年迁葬斯利戈 Drumcliff（Britannica：remains moved to Drumcliff, Sligo, in 1948 under his self-written epitaph）。",
+  "timeline": [
+    {"year": "1865-06-13", "text": "生于都柏林（Britannica）；1867年家庭迁伦敦、少年斯利戈夏日（Britannica）。", "src": "B133"},
+    {"year": "1889", "text": "恋茅德·冈（Maud Gonne，Britannica：Fell hopelessly in love with Maud Gonne in 1889）——终身求婚被拒（Britannica：proposed to her (and later her daughter Iseult) and was rejected）。", "src": "B133"},
+    {"year": "1899—1904", "text": "创爱尔兰文学剧院（1899，Britannica）→艾比剧院（1904，Britannica）。", "src": "B133"},
+    {"year": "1917", "text": "婚 George Hyde-Lees（Britannica：Married George Hyde-Lees in 1917）；子女 Anne（1919）与 Michael（1921）（Britannica）。", "src": "B133"},
+    {"year": "1922—1928", "text": "爱尔兰参议员（Britannica：Served in the Irish Senate (1922–28)）。", "src": "B133"},
+    {"year": "1923", "text": "诺贝尔文学奖（Britannica：Nobel Prize for Literature in 1923）。", "src": "B133"},
+    {"year": "1928—1929", "text": "《塔》（1928）与《盘旋的楼梯》（1929）——Britannica：his greatest work came late，written between ages 50 and 75。", "src": "B133"},
+    {"year": "1939-01-28", "text": "卒于法国（Britannica：Died in France in 1939）；1948年迁葬斯利戈 Drumcliff，墓志铭自撰（Britannica：under his self-written epitaph——'Cast a cold eye...'原文意，待核）。", "src": "B133"}
+  ],
+  "major_works": [
+    {"work_id": "yezhishixuan", "note": "通行选集（本库立目）"},
+    {"title": "塔（1928）、盘旋的楼梯（1929）", "note": "晚年双璧（Britannica）"},
+    {"title": "《凯瑟琳伯爵小姐》等剧", "note": "艾比剧院剧作（通说待核）"}
+  ],
+  "style": [
+    "象征与神秘：凯尔特传说、玫瑰与塔、'拜占庭'（通说）。",
+    "政治诗：《一九一六》'一种可怕的美已经诞生'（原文意，公有领域）。",
+    "晚年'粗粝'诗风：'激情的老年'（通说待核）。",
+    "神话-历史循环理论（《幻象》A Vision——通说待核）。"
+  ],
+  "status": "Britannica 称叶芝为'公认为20世纪最伟大的英语诗人之一'（widely considered one of the greatest 20th-century English-language poets）。'《第二次降临》的'万物崩解'是20世纪政治语言的通用引用（Britannica）。作为爱尔兰文学复兴与艾比剧院的奠基者（Britannica），他定义了现代爱尔兰的文化身份。",
+  "sources": ["B133"],
+  "dates_source": "B133",
+  "pending": [
+    "墓志铭（'Cast a cold eye on life, on death. / Horseman, pass by!'）原文逐字核对。",
+    "《幻象》（A Vision, 1925/1937）体系待核。",
+    "茅德·冈书信集出版史待核。",
+    "1923诺奖授奖词待核。"
+  ]
+}

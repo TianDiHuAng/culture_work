@@ -1,0 +1,37 @@
+{
+  "id": "mantel",
+  "name": "曼特尔",
+  "foreign_name": "Hilary Mantel（希拉里·曼特尔，1952-07-06 — 2022-09-22）",
+  "country": "英国",
+  "birth": "1952-07-06",
+  "death": "2022-09-22",
+  "birth_year": 1952,
+  "death_year": 2022,
+  "era": "现当代",
+  "summary": "曼特尔，德比郡哈德菲尔德人，英国作家，以托马斯·克伦威尔三部曲著称——'Wolf Hall (2009), Bring Up the Bodies (2012), and The Mirror & the Light (2020)'（Britannica）；前两部均获布克奖（Britannica：Won the Booker Prize for both Wolf Hall and Bring Up the Bodies）。LSE 与谢菲尔德学法律、社工出身（Britannica：Studied law at LSE and the University of Sheffield, then worked as a social worker），博茨瓦纳与沙特时期转向小说（Britannica）。2006年 CBE、2014年 DBE（Britannica）。2022年9月22日卒于埃克塞特（Britannica）。",
+  "timeline": [
+    {"year": "1952-07-06", "text": "生于德比郡哈德菲尔德（Britannica）。", "src": "B131"},
+    {"year": "1970s—1985", "text": "LSE 与谢菲尔德学法律、社工（Britannica）；博茨瓦纳、沙特（Britannica），沙特时期开始写小说。", "src": "B131"},
+    {"year": "1985—1992", "text": "首作《每天是母亲节》（Every Day Is Mother's Day，Britannica 列举）；《一个更安全的地方》法国大革命小说（通说待核）；回忆录《放弃幽灵》（Giving Up the Ghost，Britannica）。", "src": "B131"},
+    {"year": "2009—2020", "text": "都铎三部曲：《狼厅》（2009）、《提堂》（2012）、《镜与光》（2020）（Britannica）；两次布克奖。", "src": "B131"},
+    {"year": "2013—2022", "text": "皇家莎士比亚公司舞台剧（2013）与电视迷你剧（2015、2024——Britannica）；短篇集《撒切尔夫人遇刺记》（Britannica 列举 The Assassination of Margaret Thatcher）；2022年卒。", "src": "B131"}
+  ],
+  "major_works": [
+    {"work_id": "langting", "note": "2009；布克奖"},
+    {"title": "提堂（2012）、镜与光（2020）", "note": "三部曲（Britannica）"},
+    {"title": "一个更安全的地方（1992）", "note": "法国大革命（通说待核）"}
+  ],
+  "style": [
+    "'现在时'的历史小说：以'现在时'进入克伦威尔意识（通说待核）——历史小说的语法革命。",
+    "'视角'的改写：从'反派'托马斯·克伦威尔视角重写都铎史（通说）。",
+    "冷峻的文体与权力的物质细节（通说）。"
+  ],
+  "status": "Britannica 定位曼特尔为'以托马斯·克伦威尔三部曲著称的英国作家'（best known for her Thomas Cromwell trilogy），两次布克奖（Britannica）；改编舞台剧与电视剧（Britannica）。",
+  "sources": ["B131"],
+  "dates_source": "B131",
+  "pending": [
+    "两次布克奖（2009/2012）细节待核。",
+    "'Mantel effect'（都铎旅游热——通说）待核。",
+    "《提堂》与《镜与光》出版年（2012/2020）待核。"
+  ]
+}

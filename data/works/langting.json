@@ -1,0 +1,80 @@
+{
+  "id": "langting",
+  "title": "狼厅",
+  "original_title": "Wolf Hall（狼厅）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "历史小说（都铎三部曲之一）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mantel",
+  "author_name": "希拉里·曼特尔",
+  "year_display": "2009年出版（Britannica）",
+  "year_sort": 2009,
+  "background": [
+    "题材：亨利八世与托马斯·克伦威尔（都铎权臣）——曼特尔以'反派'克伦威尔的视角重写英国宗教改革（通说）。",
+    "三部曲：Wolf Hall (2009)、Bring Up the Bodies (2012)、The Mirror & the Light (2020)（Britannica）；前两部均获布克奖（Britannica：Won the Booker Prize for both Wolf Hall and Bring Up the Bodies）。"
+  ],
+  "outline": [
+    "克伦威尔的起点：铁匠之子——从红衣主教沃尔西的仆从到亨利八世的'右手'（通说）。",
+    "第一卷：沃尔西倒台、亨利离婚（与阿拉贡的凯瑟琳）与安妮·博林登场的宫廷博弈（通说）。",
+    "第二、三部：《提堂》写安·博林倒台处决；《镜与光》写克伦威尔1540年被处决——'都铎三部曲'以主角之死收束（通说）。"
+  ],
+  "characters": [
+    {"name": "托马斯·克伦威尔", "identity": "铁匠之子→权臣", "note": "曼特尔'改写'的正面主角：精明、隐忍、务实（通说）"},
+    {"name": "亨利八世", "identity": "国王", "note": "离婚与宗教改革（通说）"},
+    {"name": "安妮·博林", "identity": "第二王后", "note": "被处决的王后（通说）"},
+    {"name": "托马斯·莫尔", "identity": "《乌托邦》作者", "note": "传统史学中的'圣人'——曼特尔笔下的'迫害者'（通说）"}
+  ],
+  "themes": [
+    "'视角'改写历史：历史的'胜者书写'与'反派重审'（通说）。",
+    "权力的运作：宫廷、账目、契约（通说）。",
+    "宗教改革的社会史（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica：两次布克奖（Wolf Hall 与 Bring Up the Bodies——Britannica）；皇家莎士比亚公司舞台剧（2013）与电视剧（2015、2024——Britannica）。", "source": "B131"},
+    {"text": "'Mantel effect'：都铎旅游与历史写作热（通说待核）。", "source": "B131"}
+  ],
+  "reading": {
+    "difficulties": [
+      "现在时叙事+人物指称（'he, Cromwell'——通说）需适应。",
+      "都铎史背景（亨利八世婚姻与宗教改革）需要注释。"
+    ],
+    "editions": [
+      "刘凯译《狼厅》（上海译文出版社，通说待核）：通行本。",
+      "英文本：Fourth Estate（通说待核）。"
+    ],
+    "order": "通读三部曲（或先读首卷）→ 对照罗伯特·哈钦森等史学著作（通说待核）→ 观看 BBC 剧。"
+  },
+  "pending": [
+    "2009年 Fourth Estate 出版与布克奖细节待核。",
+    "刘凯译本信息待核。",
+    "'Mantel effect'报道出处待核。"
+  ],
+  "sources": ["B131"],
+  "year_source": "B131",
+  "author_source": "B131",
+  "related_works": ["langting2", "dawei", "shuangchengji"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《狼厅》都铎宫廷关系图",
+    "nodes": [
+      {"id": "cromwell", "label": "托马斯·克伦威尔", "x": 340, "y": 140, "color": "main", "sub": "铁匠之子→权臣"},
+      {"id": "henry", "label": "亨利八世", "x": 560, "y": 140, "color": "gold", "sub": "国王"},
+      {"id": "anne", "label": "安妮·博林", "x": 560, "y": 320, "color": "plain", "sub": "第二王后"},
+      {"id": "more", "label": "托马斯·莫尔", "x": 120, "y": 140, "color": "plain", "sub": "'圣人'大臣"},
+      {"id": "wolsey", "label": "沃尔西红衣主教", "x": 120, "y": 320, "color": "plain", "sub": "克伦威尔旧主"},
+      {"id": "catherine", "label": "阿拉贡的凯瑟琳", "x": 340, "y": 400, "color": "plain", "sub": "第一王后"}
+    ],
+    "edges": [
+      {"a": "cromwell", "b": "henry", "label": "服务于王"},
+      {"a": "cromwell", "b": "wolsey", "label": "旧主"},
+      {"a": "cromwell", "b": "more", "label": "对立·处决", "style": "dashed"},
+      {"a": "henry", "b": "catherine", "label": "离婚", "style": "dashed"},
+      {"a": "henry", "b": "anne", "label": "再婚·处决", "style": "dashed"}
+    ]
+  }
+}

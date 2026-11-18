@@ -1,0 +1,74 @@
+{
+  "id": "daolian",
+  "title": "道连·格雷的画像",
+  "original_title": "The Picture of Dorian Gray（道连·格雷的画像）",
+  "region": "爱尔兰",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（哥特/哲学小说）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "wilde",
+  "author_name": "奥斯卡·王尔德",
+  "year_display": "1890年《利平科特杂志》连载、1891年扩写出版（通说待核）",
+  "year_sort": 1891,
+  "background": [
+    "唯美主义宣言：序言——'书中没有道德或不道德的书。书只有写得好或写得坏之分'（原文意，公有领域）——回应出版风波（通说待核）。",
+    "王尔德唯一长篇小说（Britannica：The Picture of Dorian Gray (1891) 列于 famous works）。"
+  ],
+  "outline": [
+    "画像的许诺：美貌青年道连·格雷画像完成——他许愿'画像替我老去，我永远年轻'——愿望成真（通说）。",
+    "亨利勋爵的'毒'：享乐主义哲学（'抵御诱惑的唯一方法是屈服于诱惑'——原文意，公有领域）——道连的'新享乐主义'堕落（通说）。",
+    "罪与画像：抛弃并导致西碧尔·韦恩自杀；画像'变丑'而人不变——他藏起画像（通说）；18年堕落（通说细节）。",
+    "结局：道连刺杀画像，被发现死去的是道连本人，画像恢复'灿烂青春'（结尾原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "道连·格雷", "identity": "美貌青年", "note": "'以灵魂换青春'——浮士德母题（通说）"},
+    {"name": "亨利·沃登勋爵", "identity": "享乐主义哲人", "note": "'毒'的言说者——不发一言行动而'影响'一切（通说）"},
+    {"name": "贝泽尔·霍尔沃德", "identity": "画家", "note": "'艺术家'——画中藏有'灵魂'（通说）"},
+    {"name": "西碧尔·韦恩", "identity": "演员少女", "note": "'艺术与生命'的牺牲者"}
+  ],
+  "themes": [
+    "艺术与生命：画像'承担'了道德——唯美主义的自我反驳（通说）。",
+    "青春与堕落：维多利亚道德的'表象/本质'分裂（通说）。",
+    "同性情欲的隐写（通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Wilde 条）：The Picture of Dorian Gray (1891) 列于 famous works。", "source": "B132"},
+    {"text": "哥特与唯美主义的交汇点（通说待核）。", "source": "B132"},
+    {"text": "中译：荣如德/黄源深译本（上海译文/人民文学，通说待核）。", "source": "B132"}
+  ],
+  "reading": {
+    "difficulties": [
+      "序言与亨利勋爵的警句——唯美主义语境。",
+      "哥特情节的象征读法（画像=灵魂）。"
+    ],
+    "editions": [
+      "荣如德译《道连·格雷的画像》（上海译文出版社，通说待核）。",
+      "英文本：Oxford World's Classics（通说待核）。"
+    ],
+    "order": "通读20章 → 精读序言与亨利勋爵语录 → 对照《浮士德》。"
+  },
+  "pending": [
+    "1890年杂志版与1891年扩写版（'six new chapters'）待核。",
+    "荣如德译本信息待核。",
+    "序言警句逐字核对照通行本。"
+  ],
+  "sources": ["B132"],
+  "year_source": "B132",
+  "author_source": "B132",
+  "related_works": ["fushide", "huangyuan", "wajie"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《道连·格雷的画像》堕落结构图",
+    "steps": [
+      {"title": "画像完成", "text": "许愿画像老去", "color": "plain"},
+      {"title": "亨利的'毒'", "text": "享乐主义洗脑", "color": "gold"},
+      {"title": "西碧尔之死", "text": "画像开始变丑", "color": "antagonist"},
+      {"title": "十八年堕落", "text": "画像藏起·罪 accumulates", "color": "antagonist"},
+      {"title": "刺杀画像", "text": "死去的是自己", "color": "main"}
+    ]
+  }
+}

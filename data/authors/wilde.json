@@ -1,0 +1,40 @@
+{
+  "id": "wilde",
+  "name": "王尔德",
+  "foreign_name": "Oscar Wilde（奥斯卡·王尔德，1854-10-16 — 1900-11-30）",
+  "country": "爱尔兰",
+  "birth": "1854-10-16",
+  "death": "1900-11-30",
+  "birth_year": 1854,
+  "death_year": 1900,
+  "era": "近代",
+  "summary": "王尔德，都柏林人，'爱尔兰的机智大师、诗人与戏剧家'（Britannica：Irish wit, poet, and dramatist）。唯美主义'为艺术而艺术'的代言人（Britannica：spokesman for the Aesthetic movement ('art for art's sake')）。《道连·格雷的画像》（1891）、《温德米尔尔夫人的扇子》（1892）、《不可儿戏》（1895）、《莎乐美》、《深渊书简》（De Profundis）、《雷丁监狱之歌》（Britannica 列举）。1895年与昆斯伯里侯爵诽谤案败诉、被判'gross indecency'苦役两年（Britannica），1900年死于巴黎急性脑膜炎（Britannica），2017年'图灵法'追赦（Britannica）。",
+  "timeline": [
+    {"year": "1854-10-16", "text": "生于都柏林（Britannica）；三一学院与牛津莫德林学院（通说待核）。", "src": "B132"},
+    {"year": "1881—1884", "text": "美国讲学之旅（通说待核）；1884年婚康斯坦斯·劳埃德（通说待核）。", "src": "B132"},
+    {"year": "1891", "text": "《道连·格雷的画像》出版（Britannica）；《莎乐美》（法文，通说待核）。", "src": "B132"},
+    {"year": "1892—1895", "text": "《温德米尔尔夫人的扇子》（1892）与《不可儿戏》（1895，Britannica）——喜剧巅峰。", "src": "B132"},
+    {"year": "1895", "text": "与昆斯伯里侯爵（其情人阿尔弗雷德·道格拉斯之父——Britannica：his lover Lord Alfred Douglas's father）诽谤案败诉；被判 gross indecency 苦役两年（Britannica）。", "src": "B132"},
+    {"year": "1897—1900", "text": "狱中写《深渊书简》（De Profundis，Britannica 列举）；出狱后化名流亡巴黎；1900年死于急性脑膜炎（Britannica：died in 1900 of acute meningitis following an ear infection）。", "src": "B132"},
+    {"year": "2017", "text": "'图灵法'追赦（Britannica：Posthumously pardoned in January 2017 under the 'Turing Law'）。", "src": "B132"}
+  ],
+  "major_works": [
+    {"work_id": "daolian", "note": "1891；唯一长篇小说"},
+    {"title": "不可儿戏（1895）、温德米尔尔夫人的扇子（1892）", "note": "喜剧（Britannica 列举）"},
+    {"title": "深渊书简、雷丁监狱之歌", "note": "狱中作品（Britannica 列举）"}
+  ],
+  "style": [
+    "警句美学：'世界上只有两种悲剧'类警句（通说）。",
+    "'为艺术而艺术'（Britannica：art for art's sake）——唯美主义宣言。",
+    "喜剧的语言艺术：《不可儿戏》'Bunburying'（通说）。"
+  ],
+  "status": "Britannica 定位王尔德为'爱尔兰的机智大师、诗人与戏剧家'（Irish wit, poet, and dramatist），唯美主义代言人；《不可儿戏》为英语喜剧巅峰之一（通说待核）。其审判与流亡成为维多利亚道德虚伪的'历史注脚'（通说）——2017年追赦（Britannica）。",
+  "sources": ["B132"],
+  "dates_source": "B132",
+  "pending": [
+    "《道连·格雷》1891年扩写版与1890杂志版差异待核。",
+    "审判细节（1895年4—5月两次庭审）待核。",
+    "道格拉斯《雷丁监狱之歌》关系待核。",
+    "'Turing Law'（2017）细节待核。"
+  ]
+}
