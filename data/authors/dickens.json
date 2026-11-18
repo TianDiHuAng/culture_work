@@ -1,0 +1,43 @@
+{
+  "id": "dickens",
+  "name": "狄更斯",
+  "foreign_name": "Charles Dickens（查尔斯·狄更斯，1812-02-07 — 1870-06-09）",
+  "country": "英国",
+  "birth": "1812-02-07",
+  "death": "1870-06-09",
+  "birth_year": 1812,
+  "death_year": 1870,
+  "era": "近代",
+  "summary": "狄更斯，朴茨茅斯人，'公认维多利亚时代最伟大的英国小说家'（Britannica）。1824年父亲因债入狱，12岁的他被送进鞋油厂做工——这段创伤塑造其全部小说。1833年起发表故事；1836年《博兹札记》与《匹克威克外传》'almost overnight'（一夜成名——Britannica）。《雾都孤儿》《圣诞颂歌》（1843年数周写成、6000册首印平安夜售罄——Britannica）《荒凉山庄》《双城记》《远大前程》《我们共同的朋友》；另以记者身份热爱新闻、蔑视法律与议会（Britannica）。1870年6月9日卒于盖茨山庄，年五十八。",
+  "timeline": [
+    {"year": "1812-02-07", "text": "生于汉普郡朴茨茅斯（Britannica：Born February 7, 1812, in Portsmouth, Hampshire, England）。", "src": "B120"},
+    {"year": "1824", "text": "父因债入马夏尔西监狱、狄更斯被拉出学校进鞋油厂做工——'deeply shaped his fiction'（深刻塑造其小说，Britannica）。", "src": "B120"},
+    {"year": "1827—1836", "text": "律师事务所书记员→记者（Britannica：court and parliamentary reporter）。", "src": "B120"},
+    {"year": "1833—1837", "text": "1833年发表首篇故事（Britannica：Began publishing stories in 1833）；《博兹札记》(1836)与《匹克威克外传》成名（Britannica）。", "src": "B120"},
+    {"year": "1838—1843", "text": "《雾都孤儿》《尼古拉斯·尼克尔贝》《老古玩店》；《圣诞颂歌》1843年数周写成、'first printing of 6,000 copies sold out by Christmas Eve'（Britannica）。", "src": "B120"},
+    {"year": "1842", "text": "美国之行失望——部分因缺乏版权保护，影响《美国札记》与《马丁·朱述尔维特》（Britannica）。", "src": "B120"},
+    {"year": "1849—1859", "text": "《大卫·科波菲尔》（半自传，父亲原型即米考伯——Britannica）《荒凉山庄》《小杜丽》《双城记》《远大前程》。", "src": "B120"},
+    {"year": "1857—1859", "text": "与妻子凯瑟琳分居（1858）、结识演员埃伦·特南（通说待核）；创办周刊《一年四季》连载《双城记》《远大前程》（通说待核）。", "src": "B120"},
+    {"year": "1865—1870", "text": "《我们共同的朋友》；1865年斯泰普尔赫斯特铁路事故受创（通说待核）；巡回朗诵损害健康；1870年6月9日卒于盖茨山庄，葬西敏寺'诗人角'（通说待核）。", "src": "B120"}
+  ],
+  "major_works": [
+    {"work_id": "dawei", "note": "1849—50；半自传代表作"},
+    {"work_id": "shuangchengji", "note": "1859"},
+    {"title": "匹克威克外传（1836—37）、雾都孤儿（1838）、圣诞颂歌（1843）、荒凉山庄（1853）、远大前程（1861）", "note": "主要小说（Britannica 列举）"}
+  ],
+  "style": [
+    "人物漫画化与名字的艺术：米考伯、Uriah Heep——名字即性格（通说）。",
+    "连载技巧：32期月停悬念（通说待核）——'每个 installment 末尾留钩子'。",
+    "善良与幽默的道德热情：讽刺社会不公（济贫院、债务监狱、法律——Britannica 提及 contempt for the law and Parliament）。",
+    "多线情节与巧合：维多利亚式长篇的全景织体（通说）。"
+  ],
+  "status": "Britannica 定位狄更斯为'generally regarded as the greatest English novelist of the Victorian era'（公认维多利亚时代最伟大的英国小说家）。'狄更斯式'（Dickensian）成为语言词——形容苦难中的城市贫民与夸张人物（通说待核）。其对圣诞的塑造（《圣诞颂歌》）、对童年的书写与对慈善改革的影响（通说待核）超出文学本身。",
+  "sources": ["B120"],
+  "dates_source": "B120",
+  "pending": [
+    "《匹克威克外传》连载期（1836年4月—1837年11月，通称）与 Chapman & Hall 版细节待核。",
+    "西敏寺'诗人角'葬礼（1870）待核。",
+    " Ellen Ternan 关系（1857—）与铁路事故细节待核。",
+    "每月刊册数（约4000册《匹克威克》—30000册《库德鲁》说，通称）待核。"
+  ]
+}
