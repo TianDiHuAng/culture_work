@@ -1,0 +1,93 @@
+{
+  "id": "jingjingdedunhe",
+  "title": "静静的顿河",
+  "original_title": "Тихий Дон / And Quiet Flows the Don（静静的顿河，四部曲）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇史诗小说（四部曲）",
+  "genre_group": "小说",
+  "language": "俄语（顿河方言）",
+  "author_id": "sholokhov",
+  "author_name": "米哈伊尔·肖洛霍夫",
+  "year_display": "1928—1940年四部陆续出版（Britannica）",
+  "year_sort": 1940,
+  "background": [
+    "出版史（Britannica）：四部于1928—1940年间出版；第一部出版时作者仅22岁，'剽窃'质疑随之而起——后经挪威统计分析与手稿发现澄清（Britannica：Plagiarism accusations...persisted despite Norwegian statistical analysis and the recovery of his manuscript supporting his authorship）。",
+    "题材背景：1912—1922年——一战、二月革命、十月革命、内战中的顿河哥萨克：他们有土地、有旧制度传统，在红军与白军之间被反复'翻转'（通说）。",
+    "体制内的异端：Britannica 称其为'objective portrayal of the Don Cossacks' struggle against the Bolsheviks'（对哥萨克反对布尔什维克斗争的客观描写）——在苏联文学中几乎孤例。"
+  ],
+  "outline": [
+    "第一部（1912—1916）：鞑靼村——葛利高里·麦列霍夫爱上邻居司契潘之妻阿克西妮亚；与娜塔莉亚成婚后仍回归阿克西妮亚；一战征兵入伍，战争中负伤受勋——哥萨克荣誉与战争现实的裂缝。",
+    "第二部（1916—1918）：革命与哥萨克的动摇；葛利高里先随哥萨克'拯救顿河'委员会，又加入红军（布琼尼骑兵），因滥杀被逐——立场在他与历史之间反复摇摆。",
+    "第三部（1919）：顿河暴动——哥萨克全村反抗红军的'清除'政策；葛利高里在暴动军中升为师长；阿克西妮亚被敌对双方争夺、妻子娜塔莉亚之死（通说细节）。",
+    "第四部（1920—1922）：白军败退、佛明匪帮的末路；葛利高里回到鞑靼村——女儿已死、家破人亡；他在黎明前把枪弹沉入顿河，走向'他还不知道的'河口的十字路口——最后看见'黑色的天空与一轮耀眼的黑太阳'（结尾原文意，公有领域）。"
+  ],
+  "characters": [
+    {"name": "葛利高里·麦列霍夫", "identity": "哥萨克·军官·漂泊者", "note": "'悲剧性中间人物'：忠诚于土地而无法忠诚于任何旗帜（通说）"},
+    {"name": "阿克西妮亚", "identity": "邻居之妻→情人", "note": "被丈夫与父亲虐待的'烈火女人'——与葛利高里生死相随"},
+    {"name": "娜塔莉亚", "identity": "葛利高里之妻", "note": "贤妇：以自残控诉丈夫的背叛（通说细节）"},
+    {"name": "彼得罗", "identity": "葛利高里之兄", "note": "白军军官——兄弟分道"},
+    {"name": "米什卡·科舍沃伊", "identity": "红军·后来者", "note": "杀死葛利高里之弟、强娶其妹——'胜利者'的残酷（通说）"},
+    {"name": "伊莉妮奇娜、潘苔莱", "identity": "麦列霍夫夫妇", "note": "旧哥萨克家庭的两极"}
+  ],
+  "themes": [
+    "中间人物的悲剧：葛利高里'在红军与白军之间'找不到真理——肖洛霍夫以同情写'被历史碾碎的人'（通说）。",
+    "哥萨克文明的挽歌：土地、马匹、家庭与村社——革命对'旧俄国'乡村的最终清算（通说）。",
+    "爱情与战争的双螺旋：阿克西妮亚线与战争线互相剪接——'顿河的水静静流，人的血汹涌流'（通说概括）。",
+    "客观性：不粉饰红军的暴行、也不美化白军——Britannica 称其'客观描写'（Britannica：objective portrayal）。",
+    "艺术特点：四部曲百万字、顿河方言与民歌嵌入、草原意象（黑太阳、割草场）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Sholokhov 条目）：'became the most widely read novel in the USSR'（苏联最广泛阅读的小说）、1941斯大林奖、1965诺奖。", "source": "B098"},
+    {"text": "Britannica：剽窃之争与手稿澄清——文学鉴定学的经典案例。", "source": "B098"},
+    {"text": "国际影响：好莱坞与欧洲的改编（通说待核）；'静静的顿河'为汉语世界对苏联文学的入口之一（通说待核）。", "source": "B098"},
+    {"text": "中译：金人译本（人民文学出版社，通说待核）与草婴译本（通说待核）。", "source": "B098"}
+  ],
+  "reading": {
+    "difficulties": [
+      "百万字四部曲——按'战争—爱情—暴动—结局'四块推进。",
+      "哥萨克制度与词汇（阿塔曼、村社、军功十字）需注释。",
+      "政治立场的反复——跟随葛利高里的视角而非党的视角。"
+    ],
+    "editions": [
+      "金人译《静静的顿河》（人民文学出版社）：通行经典译本。",
+      "草婴译本（人民文学/上海译文，通说待核）：另一选择。",
+      "英译：Stephen Garry（1934起）/ Robert Daglish（通说待核）。"
+    ],
+    "order": "先读第一部（阿克西妮亚线与征兵）→ 第三部（暴动）与第四部结尾 → 回读第二部补内战全貌。"
+  },
+  "pending": [
+    "四部出版年份与出版社（Госиздат 等）待核。",
+    "金人/草婴译本出版信息待核。",
+    "剽窃案文献（1974小册子、1999手稿）待核。",
+    "结尾'黑太阳'原文逐字核对照金人译本。"
+  ],
+  "sources": ["B098"],
+  "year_source": "B098",
+  "author_source": "B098",
+  "related_works": ["riwage", "zhanzheng", "bailuyuan"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《静静的顿河》麦列霍夫家族与顿河关系图",
+    "nodes": [
+      {"id": "grigory", "label": "葛利高里", "x": 340, "y": 150, "color": "main", "sub": "哥萨克·漂泊者"},
+      {"id": "aksinya", "label": "阿克西妮亚", "x": 140, "y": 120, "color": "main", "sub": "情人"},
+      {"id": "natalya", "label": "娜塔莉亚", "x": 540, "y": 120, "color": "family", "sub": "妻子"},
+      {"id": "petro", "label": "彼得罗", "x": 110, "y": 300, "color": "plain", "sub": "兄·白军"},
+      {"id": "mishka", "label": "米什卡", "x": 570, "y": 300, "color": "antagonist", "sub": "红军·仇人"},
+      {"id": "dunyashka", "label": "杜尼娅希卡", "x": 340, "y": 300, "color": "family", "sub": "妹妹"},
+      {"id": "parents", "label": "麦列霍夫老夫妇", "x": 340, "y": 430, "color": "plain"}
+    ],
+    "edges": [
+      {"a": "grigory", "b": "aksinya", "label": "生死之恋"},
+      {"a": "grigory", "b": "natalya", "label": "婚姻·愧疚"},
+      {"a": "aksinya", "b": "natalya", "label": "两个女人的战争", "style": "dashed"},
+      {"a": "petro", "b": "grigory", "label": "兄弟·分道"},
+      {"a": "mishka", "b": "dunyashka", "label": "强娶", "style": "dashed"},
+      {"a": "parents", "b": "grigory", "label": "家"}
+    ]
+  }
+}

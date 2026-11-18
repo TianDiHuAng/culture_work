@@ -1,0 +1,42 @@
+{
+  "id": "pasternak",
+  "name": "帕斯捷尔纳克",
+  "foreign_name": "Boris Pasternak（鲍里斯·列昂尼多维奇·帕斯捷尔纳克，1890-02-10 — 1960-05-30）",
+  "country": "俄国",
+  "birth": "1890-02-10",
+  "death": "1960-05-30",
+  "birth_year": 1890,
+  "death_year": 1960,
+  "era": "现当代",
+  "summary": "帕斯捷尔纳克，莫斯科人，俄国20世纪最重要的诗人之一与《日瓦戈医生》的作者。父亲列昂尼德是给托尔斯泰、里尔克画过像的画家（Britannica：his father was a portraitist of Tolstoy, Rilke, and Rachmaninoff），母亲是钢琴家。先学音乐后转哲学（莫斯科—马堡，Britannica）；1922年《生活，我的姊妹》成名（Britannica：breakthrough came with My Sister—Life (1922)）。1957年《日瓦戈医生》在意大利出版，1958年诺贝尔文学奖——被迫拒奖（Britannica：declined the prize），1960年郁郁而死。1987年恢复名誉、1988年小说在苏联出版（Britannica）。",
+  "timeline": [
+    {"year": "1890-02-10", "text": "生于莫斯科艺术家庭（Britannica），父列昂尼德·帕斯捷尔纳克为画家、母罗莎·考夫曼为钢琴家。", "src": "B097"},
+    {"year": "1908—1913", "text": "莫斯科大学学音乐转哲学；马堡马尔堡新康德主义学派（Cohen 门下，通说待核）——1913年决定以文学为业（Britannica 语境：before turning to poetry）。", "src": "B097"},
+    {"year": "1917", "text": "在革命月份写成《生活，我的姊妹》——1922年出版后成名（Britannica：written during the revolutionary months of 1917）。", "src": "B097"},
+    {"year": "1920s—1930s", "text": "先锋诗歌（受象征主义与未来主义影响——Britannica：shaped by Symbolist and Futurist influences）；翻译莎士比亚与歌德《浮士德》（Britannica：notable translations of Shakespeare and Goethe's Faust）；30年代受批判（通说待核）。", "src": "B097"},
+    {"year": "1946—1955", "text": "秘密写作《日瓦戈医生》近十年（通说待核）；1956年书稿投《新世界》被拒。", "src": "B097"},
+    {"year": "1957", "text": "意大利出版商 Feltrinelli 出版《日瓦戈医生》——'rejected by Soviet publishers as 'a libelous manner' of representing the October Revolution, then published in Italy in 1957'（Britannica）。", "src": "B097"},
+    {"year": "1958", "text": "10月获诺贝尔文学奖——苏联发起大批判、被开除出作家协会（Britannica：faced a campaign of abuse, was expelled from the Union of Soviet Writers）；被迫致电拒奖：'Leaving the motherland will equal death for me'（'离开祖国等于我的死亡'——Britannica 引）。", "src": "B097"},
+    {"year": "1960-05-30", "text": "卒于佩雷杰尔金诺（Britannica：He died in Peredelkino in 1960）；葬礼万人送行（通说待核）。", "src": "B097"},
+    {"year": "1987—1988", "text": "1987年作协追复名誉（Britannica：after his 1987 posthumous reinstatement in the writers' union）；1988年小说在苏联《新世界》连载出版（Britannica：the novel was finally published in the USSR in 1988）。", "src": "B097"}
+  ],
+  "major_works": [
+    {"work_id": "riwage", "note": "1957（意大利）；身后苏联出版"},
+    {"title": "生活，我的姊妹（1922）", "note": "成名诗集（Britannica）"},
+    {"title": "莎士比亚译本、浮士德译本", "note": "重要译作（Britannica）"}
+  ],
+  "style": [
+    "'多声部'抒情诗：把日常、自然与历史瞬间熔为音乐性诗节（Britannica：avant-garde yet resonated deeply with Russian readers）。",
+    "'日瓦戈式'的散文诗化：小说夹17首日瓦戈诗（通说）。",
+    "对细节的'记忆式'描写：童年与革命初期的莫斯科（通说）。"
+  ],
+  "status": "Britannica 称帕斯捷尔纳克的风格'受象征主义与未来主义塑造'，'先锋却深得俄国读者共鸣'。《日瓦戈医生》风波是冷战文学史上最著名的迫害公案：诺奖—拒奖—去世—32年后恢复名誉（Britannica）。'帕斯捷尔纳克事件'成为文艺与政治关系的通用案例。",
+  "sources": ["B097"],
+  "dates_source": "B097",
+  "pending": [
+    "马堡留学（1912年，Cohen 指导）细节待核。",
+    "《日瓦戈医生》写作年份（1946—1955，通说）待核。",
+    "葬礼规模与自发送行（通说待核）待核。",
+    "菲莉帕/欧尔佳·伊文斯卡娅（日瓦戈'拉拉'原型）角色待核。"
+  ]
+}

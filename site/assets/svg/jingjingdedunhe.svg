@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="150.0" x2="140.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="212.0" y="126.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="240.0" y="139.0" font-size="12" fill="#555" text-anchor="middle">生死之恋</text>
+<line x1="340.0" y1="150.0" x2="540.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="408.4" y="126.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="440.0" y="139.0" font-size="12" fill="#555" text-anchor="middle">婚姻·愧疚</text>
+<line x1="140.0" y1="120.0" x2="540.0" y2="120.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="294.0" y="111.0" width="92.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="124.0" font-size="12" fill="#555" text-anchor="middle">两个女人的战争</text>
+<line x1="110.0" y1="300.0" x2="340.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="193.4" y="216.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="225.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">兄弟·分道</text>
+<line x1="570.0" y1="300.0" x2="340.0" y2="300.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="439.0" y="291.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="455.0" y="304.0" font-size="12" fill="#555" text-anchor="middle">强娶</text>
+<line x1="340.0" y1="430.0" x2="340.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="330.0" y="281.0" width="20.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="294.0" font-size="12" fill="#555" text-anchor="middle">家</text>
+<rect x="298.0" y="132.5" width="84.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">葛利高里</text>
+<rect x="299.7" y="169.5" width="80.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">哥萨克·漂泊者</text>
+<rect x="90.5" y="102.5" width="99.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="140.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">阿克西妮亚</text>
+<rect x="125.0" y="139.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="140.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">情人</text>
+<rect x="498.0" y="102.5" width="84.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="540.0" y="125.4" font-size="15" fill="#fff" text-anchor="middle">娜塔莉亚</text>
+<rect x="525.0" y="139.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="540.0" y="150.5" font-size="11" fill="#333" text-anchor="middle">妻子</text>
+<rect x="75.5" y="282.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="110.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">彼得罗</text>
+<rect x="86.2" y="319.5" width="47.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="110.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">兄·白军</text>
+<rect x="535.5" y="282.5" width="69.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="570.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">米什卡</text>
+<rect x="540.7" y="319.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="570.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">红军·仇人</text>
+<rect x="290.5" y="282.5" width="99.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="340.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">杜尼娅希卡</text>
+<rect x="325.0" y="319.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">妹妹</text>
+<rect x="275.5" y="412.5" width="129.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="340.0" y="435.4" font-size="15" fill="#fff" text-anchor="middle">麦列霍夫老夫妇</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《静静的顿河》麦列霍夫家族与顿河关系图</text>
+</svg>

@@ -1,0 +1,42 @@
+{
+  "id": "sholokhov",
+  "name": "肖洛霍夫",
+  "foreign_name": "Mikhail Aleksandrovich Sholokhov（米哈伊尔·肖洛霍夫，1905-05-24 — 1984-02-21）",
+  "country": "俄国",
+  "birth": "1905-05-24",
+  "death": "1984-02-21",
+  "birth_year": 1905,
+  "death_year": 1984,
+  "era": "现当代",
+  "summary": "肖洛霍夫，顿河维申斯卡亚人，哥萨克作家，1965年诺贝尔文学奖得主——'for works about the Cossacks of southern Russia'（因其写南俄哥萨克的作品获奖，Britannica）。16岁参加红军（Britannica：Joined the Red Army in 1920），1923年起发表作品；《静静的顿河》四部（1928—40）成为'苏联最广泛阅读的小说'（Britannica）并获1941年斯大林奖。其政治立场（支持卡赞审判、反对索尔仁尼琴）与'剽窃疑云'（克留科夫说）都曾被长期争议，Britannica 记录了挪威统计分析与手稿发现的澄清。",
+  "timeline": [
+    {"year": "1905-05-24", "text": "生于顿河维申斯卡亚（Britannica：born and died in Veshenskaya, Russia），哥萨克与俄罗斯混血，外祖母为土耳其裔（通说待核）。", "src": "B098"},
+    {"year": "1920—1923", "text": "16岁参加红军，在顿河地区与白军作战（Britannica：Joined the Red Army in 1920）；兼粮食征收工作（通说待核）。", "src": "B098"},
+    {"year": "1923—1926", "text": "以笔名发表幽默短篇；1926年《顿河故事》出版（Britannica：Tales from the Don (1926) — his first published book）。", "src": "B098"},
+    {"year": "1928—1940", "text": "《静静的顿河》四部出版（1928、1929、1933、1940——Britannica：The Silent Don (1928–40)）：'objective portrayal of the Don Cossacks' struggle against the Bolsheviks'（客观描写顿河哥萨克反对布尔什维克的斗争）；'became the most widely read novel in the USSR'；1941年斯大林奖（Britannica）。", "src": "B098"},
+    {"year": "1932—1960", "text": "1932年入党、1961年进入苏共中央（Britannica）；《被开垦的处女地》（1932—60）写集体化（Britannica：Virgin Soil Upturned (1932–60) — on collectivization in the Don region）。", "src": "B098"},
+    {"year": "1941—1945", "text": "二战战地记者；《他们为祖国而战》（1942）与《一个人的遭遇》（1957）写战争创伤（Britannica：They Fought for Their Country (1942) and The Fate of a Man (1957) — on WWII's impact）。", "src": "B098"},
+    {"year": "1965", "text": "诺贝尔文学奖——'for works about the Cossacks of southern Russia'（Britannica）。", "src": "B098"},
+    {"year": "1966—1984", "text": "1966年公开支持对西尼亚夫斯基与达尼埃尔的判决、批评索尔仁尼琴（Britannica：approved the 1966 sentencing of Sinyavsky and Daniel and the persecution of Solzhenitsyn）；1984-02-21卒于维申斯卡亚（Britannica）。", "src": "B098"}
+  ],
+  "major_works": [
+    {"work_id": "jingjingdedunhe", "note": "1928—40；四部曲"},
+    {"title": "被开垦的处女地（1932—60）", "note": "集体化小说（Britannica）"},
+    {"title": "一个人的遭遇（1957）", "note": "二战短篇经典（Britannica 列举）"}
+  ],
+  "style": [
+    "史诗全景：战争、爱情、家庭与顿河草原的'多声部'编年（通说）。",
+    "哥萨克民俗与方言：顿河的歌曲、婚俗、军规（通说）。",
+    "双重视角的勇气：写'反布尔什维克的哥萨克'为正面主人公——苏联体制内的异端书写（Britannica：objective portrayal...struggle against the Bolsheviks）。",
+    "战争创伤的短篇浓缩：《一个人的遭遇》为'社会主义现实主义'的新方向（通说待核）。"
+  ],
+  "status": "Britannica 称肖洛霍夫为'苏联最难以捉摸的作家之一'（one of the most enigmatic Soviet writers）：既为顿河同胞向斯大林求情，又支持对异见作家的判决（Britannica 详述）。'剽窃疑云'（常引 Fyodor Kryukov 为源）在挪威统计分析与《静静的顿河》手稿被发现（Britannica：despite Norwegian statistical analysis and the recovery of his manuscript supporting his authorship）后基本澄清。1965年诺奖——苏联作家最后一次获奖（通说待核）。",
+  "sources": ["B098"],
+  "dates_source": "B098",
+  "pending": [
+    "剽窃之争的学术史（1974年《静静的顿河的激流》匿名小册子等）待核。",
+    "手稿（1930s 丢失、1999年寻回说）的发现经过待核。",
+    "与斯大林通信（1931年信件）细节待核。",
+    "《一个人的遭遇》改编（1959电影，通说待核）待核。"
+  ]
+}
