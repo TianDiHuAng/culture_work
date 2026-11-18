@@ -1,0 +1,37 @@
+{
+  "id": "sushi",
+  "name": "苏轼",
+  "foreign_name": "Su Shi / Su Dongpo（苏轼/苏东坡，1037-01-08 — 1101-08-24）",
+  "country": "中国",
+  "birth": 1037,
+  "death": 1101,
+  "birth_year": 1037,
+  "death_year": 1101,
+  "era": "古代",
+  "summary": "苏轼，字子瞻，号东坡居士，眉山人，宋代诗人、散文家、书法家与画家（Britannica：a Song Dynasty poet, essayist, calligrapher, and official from Meishan, Sichuan）。'excelled in the civil service examinations'（科举及第——Britannica）；'held many posts, though he was banished to Huangzhou in 1079 by Wang Anshi over opposition to reforms, and later to Hainan Island in 1094'（1079年贬黄州、1094年贬海南——Britannica）；'Known for his optimism, he mastered shi, ci, fu, and essays'（精通诗词赋文——Britannica），'became known as the founder of the haofang ('heroic abandon') school of writing'（豪放派开创者——Britannica）。1101年卒（Britannica：died 1101）。",
+  "timeline": [
+    {"year": 1037, "text": "生于眉山，四川（Britannica：from Meishan, Sichuan）。", "src": "B113"},
+    {"year": 1057, "text": "进士及第（Britannica：excelled in the civil service examinations）。", "src": "B113"},
+    {"year": 1079, "text": "乌台诗案贬黄州（Britannica：banished to Huangzhou in 1079 by Wang Anshi over opposition to reforms）。", "src": "B113"},
+    {"year": 1094, "text": "贬海南岛（Britannica：later to Hainan Island in 1094）。", "src": "B113"},
+    {"year": 1101, "text": "卒（Britannica：died 1101）。", "src": "B113"}
+  ],
+  "major_works": [
+    {"work_id": "sushixuan", "note": "通行选集（本库立目）"},
+    {"title": "赤壁赋（前后）、水调歌头", "note": "名篇（通说）"},
+    {"title": "念奴娇·赤壁怀古", "note": "词（通说）"}
+  ],
+  "style": [
+    "诗词赋文书法全才（Britannica：mastered shi, ci, fu, and essays；Britannica 补充：calligraphy）。",
+    "'豪放派'创始（Britannica：founder of the haofang school of writing——Britannica）。",
+    "'乐观'（Britannica：Known for his optimism）。"
+  ],
+  "status": "Britannica 定位苏轼为'宋代诗人散文家书法家画家官员'——'the founder of the haofang (heroic abandon) school of writing'（豪放派开创者——Britannica）。'唐宋八大家'之一（B173 欧阳修提拔——通说待核）。",
+  "sources": ["B113", "B173"],
+  "dates_source": "B113",
+  "pending": [
+    "《水调歌头》'明月几时有'原文逐字核对。",
+    "'唐宋八大家'的宋六家名单（苏轼苏辙曾巩王安石欧阳修苏洵——通说待核）待核。",
+    "苏轼与王安石关系（政敌而非私敌——通说待核）待核。"
+  ]
+}

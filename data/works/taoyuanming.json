@@ -1,0 +1,100 @@
+{
+  "id": "taoyuanming",
+  "title": "陶渊明诗选",
+  "original_title": "陶渊明集（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "魏晋",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "汉语（文言）",
+  "author_id": "taoqian",
+  "author_name": "陶渊明（陶潜）",
+  "year_display": "诗作于约400—427年间；通行选本百余首",
+  "year_sort": 410,
+  "background": [
+    "Britannica：陶潜为田园诗第一位伟大诗人（the first great poet of tianyuan pastoral poetry——Britannica）；朴素不雕饰的风格生前不受重视、唐代始获推崇（plain, unadorned style was underappreciated in his lifetime but gained recognition during the Tang dynasty——Britannica）。"
+  ],
+  "outline": [
+    "《归园田居》：『少无适俗韵，性本爱丘山』（原文，公有领域）。",
+    "《饮酒》：『采菊东篱下，悠然见南山』（原文，公有领域）。",
+    "《桃花源记》：『不知有汉，无论魏晋』（原文，公有领域）——乌托邦。",
+    "《归去来兮辞》：『悟已往之不谏，知来者之可追』（原文，公有领域）——辞官宣言。"
+  ],
+  "characters": [
+    {
+      "name": "五柳先生",
+      "identity": "隐者自况",
+      "note": "采菊东篱下的隐者形象"
+    }
+  ],
+  "themes": [
+    "平淡美学：Britannica——plain, unadorned style（朴素不雕饰——Britannica）。",
+    "田园：Britannica——田园诗第一位伟大诗人。",
+    "思想：以道为主、融合儒佛（Britannica：blended Daoism with selected Confucian and Buddhist elements——Britannica）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：田园诗第一位伟大诗人（the first great poet of tianyuan pastoral poetry）。",
+      "source": "B178"
+    },
+    {
+      "text": "Britannica：生前不受重视、唐代始获推崇（gained recognition during the Tang dynasty）。",
+      "source": "B178"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "平淡中见深邃——不可一读即过。",
+      "《桃花源记》的乌托邦解读。"
+    ],
+    "editions": [
+      "《陶渊明集》（中华书局，通说待核）。",
+      "《陶渊明诗选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先读《归园田居》其一与《饮酒》其五 →《桃花源记》《归去来兮辞》→ 通读。"
+  },
+  "pending": [
+    "生年365与卒年427 Britannica 确认。",
+    "《桃花源记》原文逐字核对。",
+    "萧统《陶渊明集序》评语待核。"
+  ],
+  "sources": [
+    "B178"
+  ],
+  "year_source": "B178",
+  "author_source": "B178",
+  "related_works": [
+    "chuci",
+    "wangweishixuan",
+    "tangshi300"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "陶渊明作品结构图",
+    "cards": [
+      {
+        "title": "归园田居",
+        "text": "少无适俗韵",
+        "color": "main"
+      },
+      {
+        "title": "饮酒",
+        "text": "采菊东篱下",
+        "color": "gold"
+      },
+      {
+        "title": "桃花源记",
+        "text": "不知有汉",
+        "color": "family"
+      },
+      {
+        "title": "归去来兮辞",
+        "text": "知来者之可追",
+        "color": "plain"
+      }
+    ]
+  }
+}

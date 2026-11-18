@@ -1,0 +1,39 @@
+{
+  "id": "ouyangxiu",
+  "name": "欧阳修",
+  "foreign_name": "Ouyang Xiu（欧阳修，字永叔，号醉翁，1007-08-06? — 1072-09-22）",
+  "country": "中国",
+  "birth": "1007",
+  "death": "1072",
+  "birth_year": 1007,
+  "death_year": 1072,
+  "era": "古代",
+  "summary": "欧阳修，吉州庐陵人，宋代诗人、史家与政治家（Britannica：a Song dynasty poet, historian, and statesman）。1030年进士第一（Britannica：Placed first in the 1030 doctoral exams）；历任推官、校勘、翰林学士与主考官——'twice banished for defending Fan Zhongyan and backing reforms'（两次被贬——Britannica）；'championed plain ancient-style guwen prose, mentored Su Dongpo, Su Zhe, and Zeng Gong, and ranks among the Eight Great Masters of Tang and Song'（倡导古文、提拔苏轼苏辙曾巩、唐宋八大家之一——Britannica）；《新五代史》《新唐书》《醉翁亭记》《集古录》；'over 150 chapters of writings survive'（150+卷存世——Britannica）。晚年反对王安石变法、1071年退休（Britannica）——1072年卒（Britannica：retired in 1071 and died soon after in Anhui）。",
+  "timeline": [
+    {"year": "1007", "text": "生于吉州庐陵（今江西永丰）（Britannica 记1007——庐陵通说待核）。", "src": "B173"},
+    {"year": "1030", "text": "进士第一（Britannica：Placed first in the 1030 doctoral exams）。", "src": "B173"},
+    {"year": "1044/1045", "text": "两次被贬（Britannica：twice banished for defending Fan Zhongyan and backing reforms）——滁州写《醉翁亭记》（通说待核）。", "src": "B173"},
+    {"year": "1056—1065", "text": "嘉祐年间任主考官——'mentored Su Dongpo, Su Zhe, and Zeng Gong'（提拔苏轼苏辙曾巩——Britannica）；《新五代史》(通说待核)。", "src": "B173"},
+    {"year": "1071—1072", "text": "反对王安石变法（Britannica：Opposed Wang Anshi's farmer-loan reforms）、1071年退休（Britannica）；1072年卒于颍州（Britannica：died soon after in Anhui）。", "src": "B173"}
+  ],
+  "major_works": [
+    {"work_id": "ouyangxiuwenxuan", "note": "通行文选（本库立目）"},
+    {"title": "醉翁亭记、秋声赋", "note": "散文名篇（通说）"},
+    {"title": "新五代史、新唐书", "note": "史著（Britannica 列举 Xin Wudai shi, Xintangshu）"},
+    {"title": "集古录", "note": "金石学（Britannica 列举）"}
+  ],
+  "style": [
+    "'古文'倡导者：Britannica——'Championed the plain ancient-style (guwen) of prose'（倡导朴素'古文'——Britannica）。",
+    "'平易'与'简括'：'六一风神'（通说待核）。",
+    "诗、词、散文、史学、金石学全才（Britannica：poet, historian, and statesman）。"
+  ],
+  "status": "Britannica 称欧阳修为'宋代诗人、史家与政治家'——'championed plain ancient-style guwen prose'（倡导古文）；'ranks among the Eight Great Masters of Tang and Song'（唐宋八大家之一——Britannica）。",
+  "sources": ["B173"],
+  "dates_source": "B173",
+  "pending": [
+    "生年（1007）Britannica 确认。",
+    "《醉翁亭记》'醉翁之意不在酒'原文逐字核对。",
+    "嘉祐二年（1057）进士科举变革（'欧阳修主考'——通说待核）待核。",
+    "《新五代史》与《集古录》出版/成书年待核。"
+  ]
+}

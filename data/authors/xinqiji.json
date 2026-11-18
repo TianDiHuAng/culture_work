@@ -1,0 +1,37 @@
+{
+  "id": "xinqiji",
+  "name": "辛弃疾",
+  "foreign_name": "Xin Qiji（辛弃疾，字幼安，号稼轩，1140—1207）",
+  "country": "中国",
+  "birth": 1140,
+  "death": 1207,
+  "birth_year": 1140,
+  "death_year": 1207,
+  "era": "古代",
+  "summary": "辛弃疾，历城（今济南）人，南宋词人（Britannica：a Chinese poet of the Southern Song dynasty）。'He became a soldier hoping to avenge the Jin victory over the Song, but after moving south in 1162 he found no chance to carry out his great ambitions'（士兵出身志复金占宋土、1162年南归后'没有机会实现大志'——Britannica）；'After a military career of nearly 20 years, he retired to Shangrao, where he read and wrote poetry'（近20年军旅后退隐上饶读书写诗——Britannica）。'He wrote 623 ci (poems set to existing musical patterns), praised by many critics as the finest of the Southern Song, notable for expanding the form's emotional depth'（623首词——许多批评家赞为南宋最佳、拓展词的情感深度——Britannica）。1207年卒于上饶（Britannica：died in Shangrao, Jiangxi, aged 67）。",
+  "timeline": [
+    {"year": 1140, "text": "生于历城（今济南）（Britannica：Born in Licheng (now Jinan), Shandong）。", "src": "B115"},
+    {"year": 1162, "text": "南归（Britannica：after moving south in 1162）。", "src": "B115"},
+    {"year": "1181—1207", "text": "退隐上饶（Britannica：retired to Shangrao），写词（Britannica：read and wrote poetry）。", "src": "B115"},
+    {"year": "1207", "text": "卒于上饶，年六十七（Britannica：died in Shangrao, Jiangxi, aged 67）。", "src": "B115"}
+  ],
+  "major_works": [
+    {"work_id": "xinqijicixuan", "note": "通行选集（本库立目）"},
+    {"title": "稼轩长短句", "note": "623首（Britannica：He wrote 623 ci）"},
+    {"title": "永遇乐·京口北固亭怀古", "note": "名篇（通说）"}
+  ],
+  "style": [
+    "'豪放'继承苏轼（通说待核）——'以气节自负，以功业自许'（通说待核）。",
+    "'用典'：大量用典——辛弃疾词的典型争议（通说待核）。",
+    "'词'的情感拓展：Britannica——'notable for expanding the form's emotional depth'（拓展词的情感深度——Britannica）。"
+  ],
+  "status": "Britannica 记辛弃疾'wrote 623 ci, praised by many critics as the finest of the Southern Song, notable for expanding the form's emotional depth'（623首——许多批评家赞为南宋最佳、拓展词的情感深度——Britannica）；号稼轩、字幼安、也称 Hsin Ch'i-chi（Britannica）。",
+  "sources": ["B115", "B176"],
+  "dates_source": "B115",
+  "pending": [
+    "1162年南归细节（擒叛徒张安国——通说待核）待核。",
+    "《永遇乐》'千古江山，英雄无觅孙仲谋处'原文逐字核对。",
+    "稼轩词623首（Britannica：623 ci——通说待核）与存世数核对。",
+    "邓广铭《稼轩词编年笺注》待核。"
+  ]
+}

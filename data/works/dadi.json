@@ -1,0 +1,73 @@
+{
+  "id": "dadi",
+  "title": "大地",
+  "original_title": "The Good Earth（大地）",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（大地三部曲之一）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "buck",
+  "author_name": "赛珍珠（Pearl S. Buck）",
+  "year_display": "1931年出版（Britannica）",
+  "year_sort": 1931,
+  "background": [
+    "三部曲：'It began a trilogy completed with Sons and A House Divided'（《大地》《儿子们》《分家》——Britannica）。",
+    "通说：以安徽宿州（镇江附近？——待核）农民王龙为原型——'他爱土地'（通说待核）。"
+  ],
+  "outline": [
+    "王龙与阿兰：穷佃农娶'大宅门'使女阿兰——以劳动与'土地'逐渐致富（通说）。",
+    "饥荒与南迁：旱灾、南下讨饭、抢劫致富回乡买地（通说）——土地=生命=命运。",
+    "结局：王龙晚年娶妾、衰落——'土地'仍是他最后的归宿（通说待核）。"
+  ],
+  "characters": [
+    {"name": "王龙", "identity": "农民", "note": "'土地=生命'的化身"},
+    {"name": "阿兰", "identity": "妻子", "note": "'沉默的力量'——洗衣/做饭/生儿/种地（通说）"},
+    {"name": "荷花", "identity": "妓女→妾", "note": "'城市'的诱惑"}
+  ],
+  "themes": [
+    "'土地=生命'：中国农民与土地的关系（通说）。",
+    "女性：阿兰——'沉默的力量'（通说）。",
+    "西方'发现中国'：以英语写中国农民——1938诺奖（Britannica：Awarded the Nobel Prize for Literature in 1938——'for rich and truly epic descriptions of peasant life in China'类授奖词——通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Buck 条）：The Good Earth (1931)...won the Pulitzer Prize in 1932；1938诺奖。", "source": "B165"},
+    {"text": "1937年电影（Luise Rainer奥斯卡影后——通说待核）。", "source": "B165"},
+    {"text": "鲁迅等中国作家对赛珍珠的批评（通说待核）——中西接受的差异。", "source": "B165"}
+  ],
+  "reading": {
+    "difficulties": [
+      "以英语写中国农民——'翻译感'的语言。",
+      "中国农村社会（宗族、饥荒）——注释。"
+    ],
+    "editions": [
+      "王逢振等译《大地》（人民文学/漓江，通说待核）。",
+      "英文本：Washington Square Press（通说待核）。"
+    ],
+    "order": "通读《大地》→ 精读饥荒段与结尾 → 对照中国乡村小说（平凡的世界）。"
+  },
+  "pending": [
+    "1931年 John Day 公司出版细节待核。",
+    "王逢振等译本信息待核。",
+    "1938诺奖授奖词原文逐字核对。",
+    "鲁迅批评原文待核。"
+  ],
+  "sources": ["B165"],
+  "year_source": "B165",
+  "author_source": "B165",
+  "related_works": ["pingfan", "xifuhui", "nvvongshi"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《大地》'土地'命运结构图",
+    "steps": [
+      {"title": "娶妻", "text": "王龙娶阿兰", "color": "plain"},
+      {"title": "丰收", "text": "土地=生命", "color": "family"},
+      {"title": "饥荒", "text": "旱灾·南下", "color": "antagonist"},
+      {"title": "回乡", "text": "买地·致富", "color": "gold"},
+      {"title": "衰落", "text": "儿子卖地？", "color": "antagonist"}
+    ]
+  }
+}

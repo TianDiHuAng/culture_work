@@ -1,0 +1,39 @@
+{
+  "id": "baijuyi",
+  "name": "白居易",
+  "foreign_name": "Bai Juyi（白居易，字乐天，号香山居士，772—846）",
+  "country": "中国",
+  "birth": "772",
+  "death": "846",
+  "birth_year": 772,
+  "death_year": 846,
+  "era": "古代",
+  "summary": "白居易，河南新郑人，唐代最丰产的诗人（Britannica：The most prolific Tang poet）。字乐天，号香山居士。'He prized his satirical and allegorical ballads and his 'new yuefu' — free verse built on old folk ballads'（最珍视讽刺寓言诗与'新乐府'——Britannica）；'informal leader of poets who rejected courtly style and insisted literature carry moral and social purpose'（非正式领袖：拒绝宫廷风格、主张文学承担道德与社会目的——Britannica）；'wrote in deliberately simple language, criticizing corruption and militarism while sympathizing with the poor (in the spirit of his admired predecessor Du Fu)'（刻意浅白语言、批评腐败与军国主义、承杜甫精神同情贫者——Britannica）；'His poems were widely quoted in Japan's The Tale of Genji'（诗被《源氏物语》广泛引用——Britannica）。772年生于新郑—846年卒于洛阳（Britannica）。",
+  "timeline": [
+    {"year": "772", "text": "生于新郑（Britannica：Born 772 in Xinzheng, Henan）。", "src": "B179"},
+    {"year": "794", "text": "父死（Britannica：delayed civil service exams until 28 due to his father's death (794)）。", "src": "B179"},
+    {"year": "800", "text": "28岁进士及第（Britannica：passed with distinction），入翰林（807——Britannica：joined the Hanlin Academy in 807）；与元稹为友——'perhaps the most famous in Chinese history'（最著名友谊，Britannica）。", "src": "B179"},
+    {"year": "814—815", "text": "814年贬九江（Britannica：banished to Jiujiang in 814 after rivals' slander）——《琵琶行》与《长恨歌》。", "src": "B179"},
+    {"year": "818—829", "text": "忠州刺史（818，Britannica）→杭州刺史（822，Britannica）→苏州→洛阳（829）。", "src": "B179"},
+    {"year": "842—846", "text": "842年因病退休（Britannica：retiring due to illness in 842）；846年卒于洛阳，年七十四（Britannica：died 846 in Luoyang at age 74）。", "src": "B179"}
+  ],
+  "major_works": [
+    {"work_id": "baijuyishixuan", "note": "通行选集（本库立目）"},
+    {"title": "长恨歌（806）、琵琶行（816）", "note": "叙事诗双璧（通说）"},
+    {"title": "新乐府（秦中吟等）", "text": "讽喻诗（通说待核）"}
+  ],
+  "style": [
+    "'新乐府'：Britannica——'new yuefu' — free verse built on old folk ballads（旧乐府曲牌的新体——Britannica）。",
+    "'刻意浅白'：Britannica——'wrote in deliberately simple language, criticizing corruption'（语言刻意浅白，批评腐败）——'老妪能解'（通说待核）。",
+    "'讽喻'与'感伤'：Britannica——'satirical and allegorical ballads'（讽刺寓言叙事歌——Britannica）。"
+  ],
+  "status": "Britannica 称白居易为'The most prolific Tang poet'（唐代最丰产诗人），'informal leader of poets who rejected courtly style and insisted literature carry moral and social purpose'（拒宫廷风格领袖、主张文学道德与社会目的——Britannica）；'His poems were widely quoted in Japan's The Tale of Genji'（《源氏物语》引用——Britannica）。",
+  "sources": ["B179"],
+  "dates_source": "B179",
+  "pending": [
+    "《长恨歌》806年写作（盩厔——通说待核）细节待核。",
+    "'老妪能解'典故出处（宋惠洪《冷斋夜话》——通说待核）待核。",
+    "《琵琶行》816年浔阳江头待核。",
+    "《白氏长庆集》75卷（通说待核）版本待核。"
+  ]
+}

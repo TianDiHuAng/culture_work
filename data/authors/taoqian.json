@@ -1,0 +1,36 @@
+{
+  "id": "taoqian",
+  "name": "陶渊明",
+  "foreign_name": "Tao Qian / Tao Yuanming（陶潜/陶渊明，365—427）",
+  "country": "中国",
+  "birth": "365",
+  "death": "427",
+  "birth_year": 365,
+  "death_year": 427,
+  "era": "古代",
+  "summary": "陶潜（陶渊明），浔阳人（今江西九江——Britannica：Born in Xunyang (modern Jiujiang, Jiangxi province)），'a major Chinese poet and recluse'（中国重要诗人与隐士——Britannica）。'the first great poet of tianyuan ('fields and gardens') pastoral poetry'（田园诗第一位伟大诗人——Britannica）。出身没落士族（Britannica：Born...into an impoverished aristocratic family），二十余岁任小官（Britannica：held a minor official post in his 20s to support his parents），约十年官场后辞彭泽令（Britannica：After roughly a decade in office and a short stint as county magistrate, he resigned），'put off by bureaucratic formality and corruption, and retired to a farming village south of the Yangtze'（归隐江南乡村——Britannica）。'Despite poverty and food shortages, he found contentment in poetry, chrysanthemum cultivation, and wine'（贫而乐于诗、菊与酒——Britannica）。'His plain, unadorned style was underappreciated in his lifetime but gained recognition during the Tang dynasty'（生前不被重视、唐代始获推崇——Britannica）。427年卒（Britannica）。",
+  "timeline": [
+    {"year": "365", "text": "生于浔阳柴桑（Britannica：Born in Xunyang (modern Jiujiang, Jiangxi province)），没落士族（Britannica：impoverished aristocratic family）。", "src": "B178"},
+    {"year": "约393—405", "text": "出仕十年（Britannica：held a minor official post in his 20s），405年辞彭泽令（Britannica：After roughly a decade in office and a short stint as county magistrate, he resigned）。", "src": "B178"},
+    {"year": "405—427", "text": "归隐田园——'found contentment in poetry, chrysanthemum cultivation, and wine'（Britannica）；427年卒（Britannica）。", "src": "B178"}
+  ],
+  "major_works": [
+    {"work_id": "taoyuanming", "note": "通行选集（本库立目）"},
+    {"title": "归去来兮辞、桃花源记", "note": "散文（通说）"},
+    {"title": "饮酒二十首、归园田居五首", "note": "诗组（通说）"}
+  ],
+  "style": [
+    "'平淡'：Britannica——'His plain, unadorned style'（朴素不雕饰的风格——Britannica）。",
+    "'田园'：Britannica——'the first great poet of tianyuan (fields and gardens) pastoral poetry'（田园诗第一位伟大诗人——Britannica）。",
+    "'道'为主，融合儒家与佛教元素（Britannica：his outlook blended Daoism with selected Confucian and Buddhist elements——Britannica）。"
+  ],
+  "status": "Britannica 称陶潜为'田园诗第一位伟大诗人'（the first great poet of tianyuan pastoral poetry）；'plain, unadorned style was underappreciated in his lifetime but gained recognition during the Tang dynasty'（平淡风格生前不被重视、唐代始获推崇——Britannica）。",
+  "sources": ["B178"],
+  "dates_source": "B178",
+  "pending": [
+    "生年（365）与卒年（427）Britannica 确认。",
+    "《桃花源记》'不知有汉，无论魏晋'原文逐字核对。",
+    "《归园田居》'少无适俗韵'逐字核对。",
+    "萧统《陶渊明集》序（'其文章不群'——通说待核）待核。"
+  ]
+}

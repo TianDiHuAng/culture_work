@@ -1,0 +1,99 @@
+{
+  "id": "hanyuwenxuan",
+  "title": "韩愈文选",
+  "original_title": "韩愈文选（通行文选）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "唐",
+  "genre": "散文选集",
+  "genre_group": "散文",
+  "language": "汉语（文言）",
+  "author_id": "hanyu",
+  "author_name": "韩愈",
+  "year_display": "文作于约790—824年间；通行文选数十篇",
+  "year_sort": 800,
+  "background": [
+    "Britannica：韩愈为唐代散文大家（a Tang dynasty master of Chinese prose），被推为唐宋八大家之首（regarded as the first of the Eight Masters——Britannica）；倡导古文（guwen）对抗骈文（pianwen）——championed guwen, a simple prose style, over the ornate pianwen style（Britannica）。"
+  ],
+  "outline": [
+    "《师说》：『师者，所以传道受业解惑也』（原文，公有领域）——论从师学习；《进学解》：『业精于勤，荒于嬉』（原文，公有领域）。",
+    "《论佛骨表》——谏迎佛骨被贬潮州（原文意，公有领域；史实通说）。",
+    "《祭十二郎文》——悼侄文，祭文中的千古绝调（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "韩愈",
+      "identity": "士大夫·道统捍卫者",
+      "note": "以文载道的实践者"
+    }
+  ],
+  "themes": [
+    "古文运动：以朴素散文对抗骈文（Britannica）。",
+    "道统论：《原道》捍卫儒道（Britannica）。",
+    "艺术特点：雄健奇崛（Britannica：unconventional prose style）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：被推为唐宋八大家之首（regarded as the first of the Eight Masters of the Tang and Song）。",
+      "source": "B172"
+    },
+    {
+      "text": "Britannica：其政论反对苛政与国教，影响后世改革者（influencing later revolutions）。",
+      "source": "B172"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "唐代文体（古文vs骈文）的区别——需要注释。",
+      "儒家道统概念——需要注释。"
+    ],
+    "editions": [
+      "《韩昌黎文集校注》（上海古籍出版社，通说待核）。",
+      "《韩愈文选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先读《师说》《进学解》→《论佛骨表》《祭十二郎文》→《原道》→ 通读。"
+  },
+  "pending": [
+    "《师说》原文逐字核对。",
+    "《祭十二郎文》原文核对。",
+    "韩愈文选篇目因版本而异待核。"
+  ],
+  "sources": [
+    "B172"
+  ],
+  "year_source": "B172",
+  "author_source": "B172",
+  "related_works": [
+    "lunyu",
+    "shiji",
+    "tangshi300"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "韩愈散文结构图",
+    "cards": [
+      {
+        "title": "师说",
+        "text": "传道受业解惑",
+        "color": "main"
+      },
+      {
+        "title": "进学解",
+        "text": "业精于勤",
+        "color": "family"
+      },
+      {
+        "title": "论佛骨表",
+        "text": "谏迎佛骨·贬潮州",
+        "color": "antagonist"
+      },
+      {
+        "title": "祭十二郎文",
+        "text": "悼侄文·千古绝调",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "wangweishixuan",
+  "title": "王维诗选",
+  "original_title": "王维诗选（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "唐",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "汉语（文言诗体）",
+  "author_id": "wangwei",
+  "author_name": "王维",
+  "year_display": "诗作于约720—761年间；通行选本百余首",
+  "year_sort": 750,
+  "background": [
+    "Britannica：王维为唐代著名诗人、画家与音乐家（a famed Tang dynasty poet, painter, and musician）；与李白杜甫并列（ranked alongside Li Bai and Du Fu——Britannica）；17世纪董其昌尊其为南宗文人画之祖（Dong Qichang named him founder of the Southern school of painter-poets——Britannica）。"
+  ],
+  "outline": [
+    "《鹿柴》：『空山不见人，但闻人语响』（原文，公有领域）。",
+    "《送元二使安西》：『劝君更尽一杯酒，西出阳关无故人』（原文，公有领域）。",
+    "《山居秋暝》：『空山新雨后，天气晚来秋』（原文，公有领域）。"
+  ],
+  "characters": [
+    {
+      "name": "辋川隐者",
+      "identity": "诗人自况",
+      "note": "晚年唯好静（《酬张少府》原文，公有领域）"
+    }
+  ],
+  "themes": [
+    "诗中有画：苏轼评语——味摩诘之诗，诗中有画（通说待核）。",
+    "禅意：辋川隐居习佛（Britannica：withdrew to a villa on the Wang River to study Buddhism——Britannica）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：与李白杜甫并列为唐代最伟大诗人（ranked alongside Li Bai and Du Fu）。",
+      "source": "B177"
+    },
+    {
+      "text": "Britannica：董其昌尊其为南宗文人画之祖（founder of the Southern school of painter-poets）。",
+      "source": "B177"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "禅诗的空与静——需要佛教背景。",
+      "山水意象的哲学化——不要当风景诗读。"
+    ],
+    "editions": [
+      "《王维诗选》（人民文学出版社，通说待核）。",
+      "《王右丞集笺注》（中华书局，通说待核）。"
+    ],
+    "order": "先读《鹿柴》《鸟鸣涧》《山居秋暝》→《送元二使安西》→ 辋川集组诗 → 编年通读。"
+  },
+  "pending": [
+    "《鹿柴》原文逐字核对。",
+    "苏轼诗中有画评语出处待核。",
+    "辋川集二十首（与裴迪唱和——通说）待核。"
+  ],
+  "sources": [
+    "B177"
+  ],
+  "year_source": "B177",
+  "author_source": "B177",
+  "related_works": [
+    "tangshi300",
+    "libaishixuan",
+    "dufushixuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "王维诗歌结构图",
+    "cards": [
+      {
+        "title": "鹿柴",
+        "text": "空山不见人",
+        "color": "main"
+      },
+      {
+        "title": "山居秋暝",
+        "text": "明月松间照",
+        "color": "family"
+      },
+      {
+        "title": "送元二使安西",
+        "text": "西出阳关无故人",
+        "color": "gold"
+      },
+      {
+        "title": "水墨画",
+        "text": "南宗画祖（Britannica）",
+        "color": "plain"
+      }
+    ]
+  }
+}

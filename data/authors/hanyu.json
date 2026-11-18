@@ -1,0 +1,37 @@
+{
+  "id": "hanyu",
+  "name": "韩愈",
+  "foreign_name": "Han Yu（韩愈，字退之，768—824）",
+  "country": "中国",
+  "birth": "768",
+  "death": "824",
+  "birth_year": 768,
+  "death_year": 824,
+  "era": "古代",
+  "summary": "韩愈，字退之，河南河阳人，唐代散文大师、重要诗人与早期新儒家（Britannica：a Tang dynasty master of Chinese prose, notable poet, and early proponent of Neo-Confucianism）。'civil service exams initially failed due to his unconventional prose style'（科举因散文风格不合考官而屡败——Britannica：failed his civil service exams initially due to his unconventional prose style but later held high government posts）；'defended Confucianism against Daoism and Buddhism—even criticizing the emperor'（捍卫儒教——因谏迎佛骨被贬潮州一年——Britannica）；'championed guwen, a simple prose style, over ornate pianwen'（倡导'古文'——Britannica）；'regarded as the first of the Eight Masters of the Tang and Song'（唐宋八大家之首——Britannica：he is regarded as the first of the 'Eight Masters of the Tang and Song'）。",
+  "timeline": [
+    {"year": "768", "text": "生于河阳（Britannica 记768年——河南河阳，通说待核）。", "src": "B172"},
+    {"year": "792", "text": "进士及第（通说待核）；'civil service exams initially failed'（Britannica——三次落第后第四次中）。", "src": "B172"},
+    {"year": "803", "text": "《论佛骨表》谏迎佛骨——'criticizing the emperor for honoring a relic of the Buddha'被贬潮州（Britannica：got him banished to South China for a year）。", "src": "B172"},
+    {"year": "819—824", "text": "回朝后任国子祭酒等；'championed guwen, a simple prose style, over the ornate pianwen style'（Britannica）；'regarded as the first of the Eight Masters'（Britannica）；824年卒（通说待核）。", "src": "B172"}
+  ],
+  "major_works": [
+    {"work_id": "hanyuwenxuan", "note": "通行文选（本库立目）"},
+    {"title": "师说、进学解、论佛骨表", "note": "散文名篇（通说）"},
+    {"title": "南山诗、山石", "note": "诗（通说待核）"}
+  ],
+  "style": [
+    "'古文'运动领袖：Britannica——'championed guwen, a simple prose style, over the ornate pianwen style of his era'（以朴素古文对抗浮华骈文——Britannica）。",
+    "'雄健'的文风：Britannica——'unconventional prose style'（非常规散文风格——科举屡败的原因）。",
+    "'道统'论：《原道》——捍卫儒教反对道佛（Britannica：He defended Confucianism against Daoism and Buddhism）。"
+  ],
+  "status": "Britannica 定位韩愈为'唐代散文大师、重要诗人与早期新儒家'（a Tang dynasty master of Chinese prose, notable poet, and early proponent of Neo-Confucianism），'唐宋八大家之首'（Britannica：regarded as the first of the 'Eight Masters of the Tang and Song'）。",
+  "sources": ["B172"],
+  "dates_source": "B172",
+  "pending": [
+    "生年（768）与卒年（824）Britannica 确认。",
+    "《师说》'传道受业解惑'原文逐字核对。",
+    "《论佛骨表》与'一封朝奏九重天'（《左迁至蓝关》）诗的对应待核。",
+    "韩愈河南河阳（今孟州）籍贯考订待核。"
+  ]
+}

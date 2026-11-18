@@ -1,0 +1,94 @@
+{
+  "id": "liqingzhaocixuan",
+  "title": "李清照词选",
+  "original_title": "李清照词选（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "宋",
+  "genre": "词选集",
+  "genre_group": "诗歌",
+  "language": "汉语（文言词体）",
+  "author_id": "liqingzhao",
+  "author_name": "李清照",
+  "year_display": "词作于约1100—1155年间；通行选本数十首",
+  "year_sort": 1130,
+  "background": [
+    "Britannica：李清照为中国最伟大的女诗人（China's greatest woman poet——Britannica）；字句惊人、以个人经验入词（known for striking word choices and drawing on personal experience——Britannica）；前期活泼、南渡后凄怆（Earlier pieces show carefree vitality, while post-exile work carries a sombre, grieving quality——Britannica）。"
+  ],
+  "outline": [
+    "前期：《如梦令》——『知否，知否？应是绿肥红瘦』（原文，公有领域）；《一剪梅》——『此情无计可消除』（原文，公有领域）。",
+    "后期：《声声慢》——『寻寻觅觅，冷冷清清，凄凄惨惨戚戚』（原文，公有领域）；《武陵春》——『物是人非事事休，欲语泪先流』（原文，公有领域）。"
+  ],
+  "characters": [
+    {
+      "name": "易安居士",
+      "identity": "词人·南渡者",
+      "note": "前期活泼后期凄怆（Britannica）"
+    }
+  ],
+  "themes": [
+    "婉约：以女性视角写情感——词别是一家（《词论》观点，通说待核）。",
+    "国破家亡的晚期风格：南渡后的凄怆（Britannica）。",
+    "艺术特点：口语入词、叠字运用、情感真挚。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：中国最伟大的女诗人（China's greatest woman poet）。",
+      "source": "B114"
+    },
+    {
+      "text": "Britannica：其《词论》为最早的词学研究之一（one of the earliest scholarly studies of the form）。",
+      "source": "B114"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "词的音乐性——需要朗读。",
+      "前期后期风格差异——南渡分界。"
+    ],
+    "editions": [
+      "王仲闻《李清照集校注》（人民文学出版社，通说待核）。",
+      "《李清照词选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先读《如梦令》《一剪梅》→《声声慢》《武陵春》→ 对照《词论》。"
+  },
+  "pending": [
+    "卒年1155后的精确年份待核。",
+    "《声声慢》原文逐字核对。",
+    "王仲闻校注本信息待核。"
+  ],
+  "sources": [
+    "B114",
+    "B175"
+  ],
+  "year_source": "B114",
+  "author_source": "B114",
+  "related_works": [
+    "songci300",
+    "xinqijicixuan",
+    "hulanhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "李清照词前后期结构图",
+    "cards": [
+      {
+        "title": "前期活泼",
+        "text": "如梦令·点绛唇",
+        "color": "family"
+      },
+      {
+        "title": "后期凄怆",
+        "text": "声声慢·武陵春",
+        "color": "antagonist"
+      },
+      {
+        "title": "南渡分界",
+        "text": "1129年夫亡（Britannica）",
+        "color": "gold"
+      }
+    ]
+  }
+}

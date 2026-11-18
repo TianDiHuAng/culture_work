@@ -1,0 +1,101 @@
+{
+  "id": "sushixuan",
+  "title": "苏轼诗词文选",
+  "original_title": "苏轼诗词文选（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "宋",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "汉语（文言）",
+  "author_id": "sushi",
+  "author_name": "苏轼",
+  "year_display": "诗词文作于约1057—1101年间",
+  "year_sort": 1082,
+  "background": [
+    "Britannica：苏轼为宋代诗人、散文家、书法家与官员（a Song Dynasty poet, essayist, calligrapher, and official）；精通诗、词、赋、文（mastered shi, ci, fu, and essays——Britannica）；豪放派开创者（founder of the haofang school——Britannica）；以乐观著称（Known for his optimism——Britannica）。"
+  ],
+  "outline": [
+    "《水调歌头·明月几时有》：『人有悲欢离合，月有阴晴圆缺，此事古难全』（原文，公有领域）。",
+    "《念奴娇·赤壁怀古》：『大江东去，浪淘尽，千古风流人物』（原文，公有领域）。",
+    "《前赤壁赋》：『清风徐来，水波不兴』（原文，公有领域）。",
+    "《记承天寺夜游》：『庭下如积水空明』（原文，公有领域）。"
+  ],
+  "characters": [
+    {
+      "name": "东坡居士",
+      "identity": "诗人·官员·被贬者",
+      "note": "一蓑烟雨任平生（《定风波》原文，公有领域）"
+    }
+  ],
+  "themes": [
+    "豪放：Britannica——haofang school 开创者。",
+    "乐观：Britannica——Known for his optimism——多次被贬而不改。",
+    "多文体：Britannica——mastered shi, ci, fu, and essays。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：豪放派开创者（the founder of the haofang school of writing）。",
+      "source": "B113"
+    },
+    {
+      "text": "Britannica：精通诗、词、赋、文（mastered shi, ci, fu, and essays）。",
+      "source": "B113"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "诗、词、赋、散文四种文体的切换。",
+      "宋代政治（王安石变法、乌台诗案）背景。"
+    ],
+    "editions": [
+      "《苏轼选集》（人民文学出版社，通说待核）。",
+      "《苏轼文集》（中华书局，通说待核）。"
+    ],
+    "order": "先读《水调歌头》《念奴娇·赤壁怀古》→《前赤壁赋》《记承天寺夜游》→ 通读。"
+  },
+  "pending": [
+    "《水调歌头》原文逐字核对。",
+    "苏轼选本篇目因版本而异待核。",
+    "唐宋八大家中的宋六家名单待核。"
+  ],
+  "sources": [
+    "B113",
+    "B173"
+  ],
+  "year_source": "B113",
+  "author_source": "B113",
+  "related_works": [
+    "tangshi300",
+    "ouyangxiuwenxuan",
+    "waerdenghu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "苏轼作品结构图",
+    "cards": [
+      {
+        "title": "水调歌头",
+        "text": "明月几时有",
+        "color": "main"
+      },
+      {
+        "title": "念奴娇·赤壁怀古",
+        "text": "大江东去",
+        "color": "main"
+      },
+      {
+        "title": "前赤壁赋",
+        "text": "清风徐来",
+        "color": "family"
+      },
+      {
+        "title": "记承天寺夜游",
+        "text": "积水空明",
+        "color": "gold"
+      }
+    ]
+  }
+}

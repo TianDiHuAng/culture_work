@@ -1,0 +1,103 @@
+{
+  "id": "baijuyishixuan",
+  "title": "白居易诗选",
+  "original_title": "白居易诗选（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "唐",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "汉语（文言诗体）",
+  "author_id": "baijuyi",
+  "author_name": "白居易",
+  "year_display": "诗作于800—846年间；通行选本百余首",
+  "year_sort": 816,
+  "background": [
+    "Britannica：白居易为唐代最丰产诗人、以刻意浅白的语言批判腐败同情贫者（deliberately simple language——Britannica），精神承杜甫。"
+  ],
+  "outline": [
+    "叙事诗双璧：《长恨歌》——『天长地久有时尽，此恨绵绵无绝期』（原文，公有领域）；《琵琶行》——『同是天涯沦落人，相逢何必曾相识』（原文，公有领域）。",
+    "讽喻诗：《卖炭翁》《观刈麦》——『新乐府』系列（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "李隆基与杨玉环",
+      "identity": "帝妃",
+      "note": "《长恨歌》主人公"
+    },
+    {
+      "name": "江州司马",
+      "identity": "贬官",
+      "note": "《琵琶行》叙述者"
+    }
+  ],
+  "themes": [
+    "浅白语言：传说『老妪能解』（通说待核）。",
+    "新乐府：讽喻时事（通说）。",
+    "叙事诗：《长恨歌》《琵琶行》为唐叙事诗双璧（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：唐代最丰产诗人（The most prolific Tang poet）。",
+      "source": "B179"
+    },
+    {
+      "text": "Britannica：非正式领袖——率领拒绝宫廷风格的诗人（informal leader of poets who rejected courtly style）。",
+      "source": "B179"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长恨歌的叙事结构。",
+      "新乐府的历史背景。"
+    ],
+    "editions": [
+      "《白居易诗选》（人民文学出版社，通说待核）。",
+      "朱金城《白居易集笺校》（上海古籍，通说待核）。"
+    ],
+    "order": "先读《长恨歌》《琵琶行》→ 新乐府组 → 编年通读。"
+  },
+  "pending": [
+    "《长恨歌》806年写作细节待核。",
+    "朱金城笺校出版信息待核。",
+    "『老妪能解』典故出处待核。"
+  ],
+  "sources": [
+    "B179"
+  ],
+  "year_source": "B179",
+  "author_source": "B179",
+  "related_works": [
+    "tangshi300",
+    "dufushixuan",
+    "honglou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "白居易诗歌结构图",
+    "cards": [
+      {
+        "title": "长恨歌",
+        "text": "帝妃之恋",
+        "color": "main"
+      },
+      {
+        "title": "琵琶行",
+        "text": "浔阳江头",
+        "color": "main"
+      },
+      {
+        "title": "新乐府",
+        "text": "讽喻时事",
+        "color": "family"
+      },
+      {
+        "title": "闲适诗",
+        "text": "晚年香山居士",
+        "color": "gold"
+      }
+    ]
+  }
+}

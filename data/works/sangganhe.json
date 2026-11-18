@@ -1,0 +1,113 @@
+{
+  "id": "sangganhe",
+  "title": "太阳照在桑干河上",
+  "original_title": "太阳照在桑干河上（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "dingling",
+  "author_name": "丁玲",
+  "year_display": "1948年出版（Britannica）；1951年获斯大林文学奖（Britannica）",
+  "year_sort": 1948,
+  "background": [
+    "Britannica（Ding Ling 条）：The Sun Shines over the Sanggan River（1948）为 first Chinese novel to win the Soviet Stalin Prize (1951)（首部获斯大林奖的中国小说——Britannica）。",
+    "题材：1946年华北解放区暖水屯土地改革（通说）。"
+  ],
+  "outline": [
+    "暖水屯土改：工作组进村——斗地主、分田地——农民的犹豫与斗争（通说）。",
+    "人物：张裕民、程仁（农会主任）、黑妮、钱文贵（地主）——阶级分析的人物群（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "张裕民",
+      "identity": "村支书",
+      "note": "土改领导者"
+    },
+    {
+      "name": "程仁",
+      "identity": "农会主任",
+      "note": "与地主侄女的情感纠葛（通说）"
+    },
+    {
+      "name": "黑妮",
+      "identity": "地主侄女",
+      "note": "被阶级身份困扰的少女"
+    },
+    {
+      "name": "钱文贵",
+      "identity": "地主",
+      "note": "被斗争对象"
+    }
+  ],
+  "themes": [
+    "土改的复杂性：翻身的理想与现实（通说）。",
+    "阶级与情感的冲突（通说）。",
+    "艺术特点：心理描写超出当时一般水平（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：first Chinese novel to win the Soviet Stalin Prize (1951)（首部获斯大林奖的中国小说——Britannica）。",
+      "source": "B170"
+    },
+    {
+      "text": "Britannica：作者1957年被开除党籍（censured and expelled from the party as a rightist in 1957）——作者命运与作品的复杂性。",
+      "source": "B170"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "土改运动的历史背景——需要注释。",
+      "人物众多——先画人物表。"
+    ],
+    "editions": [
+      "《太阳照在桑干河上》（人民文学出版社，通说待核）。"
+    ],
+    "order": "通读 → 精读斗争大会一章 → 对照周立波《暴风骤雨》（通说待核）。"
+  },
+  "pending": [
+    "1948年出版细节待核。",
+    "1951年斯大林奖细节待核。",
+    "人物原名与原型考订待核。"
+  ],
+  "sources": [
+    "B170"
+  ],
+  "year_source": "B170",
+  "author_source": "B170",
+  "related_works": [
+    "nahan",
+    "pingfan",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《太阳照在桑干河上》土改结构图",
+    "cards": [
+      {
+        "title": "工作组进村",
+        "text": "土改开始",
+        "color": "family"
+      },
+      {
+        "title": "斗地主",
+        "text": "钱文贵被斗",
+        "color": "antagonist"
+      },
+      {
+        "title": "翻身",
+        "text": "分田地",
+        "color": "main"
+      },
+      {
+        "title": "黑妮",
+        "text": "阶级与情感的冲突",
+        "color": "gold"
+      }
+    ]
+  }
+}

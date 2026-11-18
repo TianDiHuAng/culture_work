@@ -1,0 +1,98 @@
+{
+  "id": "caocaoshixuan",
+  "title": "曹操诗选",
+  "original_title": "曹操诗选（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "东汉",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "汉语（乐府）",
+  "author_id": "caocao",
+  "author_name": "曹操",
+  "year_display": "诗作于约196—220年间",
+  "year_sort": 200,
+  "background": [
+    "曹操为建安文学领袖——『三曹』之一（通说）。Britannica 记其政治军事身份——skilled general and pragmatic politician（善战的将领与务实的政治家——Britannica）。"
+  ],
+  "outline": [
+    "《短歌行》：『对酒当歌，人生几何……周公吐哺，天下归心』（原文，公有领域）。",
+    "《观沧海》：『东临碣石，以观沧海』（原文，公有领域）。",
+    "《蒿里行》：『白骨露于野，千里无鸡鸣』（原文，公有领域）。"
+  ],
+  "characters": [
+    {
+      "name": "曹操",
+      "identity": "政治家·诗人",
+      "note": "建安风骨代表"
+    }
+  ],
+  "themes": [
+    "慷慨悲凉：统一天下的雄心与人生短暂的感伤（通说）。",
+    "乐府旧题写时事（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Cao Cao 条）：现代史家视其为善战的将领与务实的政治家（Modern historians see him as a skilled general）。",
+      "source": "B171"
+    },
+    {
+      "text": "建安风骨为后世诗歌标准（通说待核）。",
+      "source": "B171"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "乐府旧题与史实关系。",
+      "三曹与建安七子。"
+    ],
+    "editions": [
+      "《曹操集》（中华书局，通说待核）。",
+      "余冠英《汉魏六朝诗选》（通说待核）。"
+    ],
+    "order": "先读《短歌行》《观沧海》→《蒿里行》《龟虽寿》→ 通读选本。"
+  },
+  "pending": [
+    "曹操诗存世数待核。",
+    "三曹与建安七子名单待核。",
+    "《短歌行》原文逐字核对。"
+  ],
+  "sources": [
+    "B171"
+  ],
+  "year_source": "B171",
+  "author_source": "B171",
+  "related_works": [
+    "sanguo",
+    "tangshi300",
+    "honglou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "曹操诗结构图",
+    "cards": [
+      {
+        "title": "短歌行",
+        "text": "对酒当歌·周公吐哺",
+        "color": "main"
+      },
+      {
+        "title": "观沧海",
+        "text": "东临碣石·星汉灿烂",
+        "color": "family"
+      },
+      {
+        "title": "蒿里行",
+        "text": "白骨露于野",
+        "color": "antagonist"
+      },
+      {
+        "title": "龟虽寿",
+        "text": "老骥伏枥·志在千里",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "caocao",
+  "name": "曹操",
+  "foreign_name": "Cao Cao（曹操，155—220）",
+  "country": "中国",
+  "birth": "155",
+  "death": "220",
+  "birth_year": 155,
+  "death_year": 220,
+  "era": "古代",
+  "summary": "曹操，字孟德，谯县（今安徽亳州——Britannica：Born 155 CE in Qiaoxian (modern Bozhou, Anhui)）人，东汉末政治家、军事家与建安诗人。镇压黄巾起义起家（Britannica）；汉室衰微后控制北方（Britannica：took control of the north around Luoyang），迁都许、'挟天子以令诸侯'（Britannica：by invoking the emperor's name），封魏王（Britannica）。'儒家史家与传说（尤其14世纪《三国演义》）塑造典型狡猾大胆不择手段的恶棍形象'；'现代史家视其为能干将领与务实政治家'（Britannica：Modern historians instead see him as a skilled general and pragmatic politician）。子曹丕代汉建魏（Britannica：After his death, his son Cao Pi took the throne, founding the Wei dynasty (220–265/266)）。也是建安文学领袖——'对酒当歌，人生几何'（《短歌行》原文，公有领域）。",
+  "timeline": [
+    {"year": "155", "text": "生于谯县（Britannica：Born 155 CE in Qiaoxian (modern Bozhou, Anhui)）。", "src": "B171"},
+    {"year": "184", "text": "镇压黄巾起义崭露头角（Britannica：gained prominence by suppressing the Yellow Turban Rebellion）。", "src": "B171"},
+    {"year": "196", "text": "迁都许（Britannica：moved the capital to Xuchang）、'挟天子以令诸侯'（Britannica：by invoking the emperor's name）。", "src": "B171"},
+    {"year": "220", "text": "卒于洛阳，年六十五（Britannica：died 220 in Luoyang, aged 65）；曹丕称帝建魏（Britannica：his son Cao Pi took the throne, founding the Wei dynasty (220–265/266)）。", "src": "B171"}
+  ],
+  "major_works": [
+    {"work_id": "caocaoshixuan", "note": "通行选集（本库立目）"},
+    {"title": "短歌行、观沧海、蒿里行", "note": "乐府诗名篇（通说）"}
+  ],
+  "style": [
+    "建安风骨：'慷慨悲凉'——以乐府旧题写时事（通说）。",
+    "'对酒当歌，人生几何'（《短歌行》原文，公有领域）——'老骥伏枥，志在千里'（《龟虽寿》原文，公有领域）。",
+    "'悲凉'中的统一雄心（通说待核）。"
+  ],
+  "status": "Britannica 记曹操为三国演义中'被写成彻底的反面人物'（depicted as a thoroughgoing villain）——'现代史家视其为能干将领与务实政治家'（Modern historians instead see him as a skilled general and pragmatic politician——Britannica）。作为建安文学领袖（'三曹'之一——通说待核），其诗为建安风骨的代表。",
+  "sources": ["B171"],
+  "dates_source": "B171",
+  "pending": [
+    "曹操诗存世数（约20首——通说待核）待核。",
+    "'三曹'（曹操/曹丕/曹植）与建安七子待核。",
+    "《蒿里行》'白骨露于野'原文待核。",
+    "Britannica 对其文学身份的描述（本条未展开——通说待核）待核。"
+  ]
+}

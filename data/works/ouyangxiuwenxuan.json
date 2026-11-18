@@ -1,0 +1,98 @@
+{
+  "id": "ouyangxiuwenxuan",
+  "title": "欧阳修文选",
+  "original_title": "欧阳修文选（通行文选）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "宋",
+  "genre": "散文选集",
+  "genre_group": "散文",
+  "language": "汉语（文言）",
+  "author_id": "ouyangxiu",
+  "author_name": "欧阳修",
+  "year_display": "文作于约1040—1072年间",
+  "year_sort": 1050,
+  "background": [
+    "Britannica：欧阳修为宋代诗人、史家与政治家（poet, historian, and statesman）；倡导平易的古文（plain ancient-style guwen prose），提拔苏轼、苏辙、曾巩（mentored Su Dongpo, Su Zhe, and Zeng Gong——Britannica）；唐宋八大家之一（ranks among the Eight Great Masters——Britannica）。"
+  ],
+  "outline": [
+    "《醉翁亭记》：『醉翁之意不在酒，在乎山水之间也』（原文，公有领域）。",
+    "《秋声赋》：『欧阳子方夜读书，闻有声自西南来者』（原文，公有领域）。",
+    "《泷冈阡表》：祭父文（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "醉翁",
+      "identity": "太守·作者自号",
+      "note": "醉翁之意不在酒（原文，公有领域）"
+    }
+  ],
+  "themes": [
+    "古文的平易：Britannica——plain ancient-style guwen prose（朴素古文——Britannica）。",
+    "六一风神：欧阳修散文的独特风致（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：唐宋八大家之一（ranks among the Eight Great Masters of Tang and Song）。",
+      "source": "B173"
+    },
+    {
+      "text": "Britannica：提拔苏轼、苏辙、曾巩（mentored Su Dongpo, Su Zhe, and Zeng Gong）。",
+      "source": "B173"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "宋代散文文体——较唐文更平易。",
+      "《醉翁亭记》的21个也字句——修辞分析。"
+    ],
+    "editions": [
+      "《欧阳修全集》（中华书局，通说待核）。",
+      "《欧阳修文选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先读《醉翁亭记》《秋声赋》→《朋党论》《泷冈阡表》→ 通读。"
+  },
+  "pending": [
+    "《醉翁亭记》原文逐字核对。",
+    "欧阳修文选篇目因版本而异待核。",
+    "宋六家与唐宋八大家关系待核。"
+  ],
+  "sources": [
+    "B173"
+  ],
+  "year_source": "B173",
+  "author_source": "B173",
+  "related_works": [
+    "hanyuwenxuan",
+    "sushixuan",
+    "lunyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "欧阳修散文结构图",
+    "cards": [
+      {
+        "title": "醉翁亭记",
+        "text": "醉翁之意不在酒",
+        "color": "main"
+      },
+      {
+        "title": "秋声赋",
+        "text": "悲秋之声",
+        "color": "gold"
+      },
+      {
+        "title": "朋党论",
+        "text": "论君子朋与小人群",
+        "color": "family"
+      },
+      {
+        "title": "泷冈阡表",
+        "text": "祭父文",
+        "color": "plain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "xin",
+  "title": "心",
+  "original_title": "こころ / Kokoro（心）",
+  "region": "日本",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "soseki",
+  "author_name": "夏目漱石",
+  "year_display": "1914年出版（Britannica：Kokoro (1914)）",
+  "year_sort": 1914,
+  "background": [
+    "Britannica：'exploring loneliness and isolation among educated middle-class men — notably Mon (1910), Kōjin (1912–13), Kokoro (1914)'.（'探索受过教育的中产阶级男性的孤独与疏离'——Britannica 列举）。",
+    "结构：三部——'先生与我''双亲与我''先生与遗书'（通说）。",
+    "背景：明治末年（明治天皇1912年驾崩、乃木希典夫妇殉死——通说待核）——'旧时代结束与新时代开始'的过渡。"
+  ],
+  "outline": [
+    "'先生与我'：大学生'我'在海滨遇'先生'——先生的'神秘'与'孤独'（通说）。",
+    "'双亲与我'：父病重，'先生'来信——'我已经到了该死的年纪'（原文意，待核）。",
+    "'先生的遗书'：先生的自白——青年时被叔父欺骗、好友K为爱情自杀——'我'背负的'罪'——明治天皇死、先生殉死（通说待核）——'罪与忏悔'的主题。"
+  ],
+  "characters": [
+    {"name": "'我'（学生）", "identity": "大学生", "note": "'倾听者'——先生的下一代"},
+    {"name": "'先生'", "identity": "隐居学者", "note": "'背负秘密'的孤独者——明治精神的'殉葬者'（通说）"},
+    {"name": "K", "identity": "先生之友", "note": "'真宗信徒之子'——爱情与信仰的冲突"},
+    {"name": "小姐", "identity": "先生夫人（未与先生'结合'——通说）", "note": "沉默的'爱'的化身"}
+  ],
+  "themes": [
+    "'利己'与'罪'：先生的自我控诉（通说）。",
+    "明治精神的'殉死'：乃木希典殉死与先生的自杀——'旧道德'的终结（通说待核）。",
+    "孤独：'人世间的孤独是无法消除的'（原文意，待核）。",
+    "艺术特点：三部结构（视角递进——从'我'到'先生'）、遗书的'告解'体。"
+  ],
+  "influence": [
+    {"text": "Britannica（Soseki 条）：Kokoro (1914) 列于晚期小说（'exploring loneliness and isolation'）。", "source": "B166"},
+    {"text": "日本国民级小说：'最有名的日本小说'之一（通说待核）。", "source": "B166"},
+    {"text": "中译：于雷/林少华译本（通说待核）。", "source": "B166"}
+  ],
+  "reading": {
+    "difficulties": [
+      "第三部'遗书'占全书一半——慢读。",
+      "乃木希典殉死（1912-09-13）的历史背景——注释。"
+    ],
+    "editions": [
+      "于雷译《心》（人民文学出版社，通说待核）。",
+      "林少华译本（中国社会科学出版社，通说待核）。",
+      "英译：Meredith McKinney（Penguin，通说待核）。"
+    ],
+    "order": "通读三部 → 精读'遗书'（K 自杀段与殉死段）→ 讨论'明治精神的殉死'。"
+  },
+  "pending": [
+    "1914年4月岩波书店出版（通说）细节待核。",
+    "于雷/林少华译本信息待核。",
+    "乃木希典殉死事件与本书的互文待核。"
+  ],
+  "sources": ["B166"],
+  "year_source": "B166",
+  "author_source": "B166",
+  "related_works": ["woshimao", "nuoweide", "zuiyufa"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《心》三部结构图",
+    "steps": [
+      {"title": "先生与我", "text": "海滨·神秘·孤独", "color": "plain"},
+      {"title": "双亲与我", "text": "父病·先生来信", "color": "family"},
+      {"title": "先生的遗书", "text": "叔父·K·殉死", "color": "antagonist"}
+    ]
+  }
+}

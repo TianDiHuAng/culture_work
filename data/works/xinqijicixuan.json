@@ -1,0 +1,100 @@
+{
+  "id": "xinqijicixuan",
+  "title": "辛弃疾词选",
+  "original_title": "辛弃疾词选（通行选集）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "宋",
+  "genre": "词选集",
+  "genre_group": "诗歌",
+  "language": "汉语（文言词体）",
+  "author_id": "xinqiji",
+  "author_name": "辛弃疾",
+  "year_display": "词作于约1162—1207年间；存词623首（Britannica）",
+  "year_sort": 1180,
+  "background": [
+    "Britannica：辛弃疾存词623首，许多批评家赞为南宋最佳（praised by many critics as the finest of the Southern Song），以拓展词的情感深度著称（notable for expanding the form's emotional depth——Britannica）。"
+  ],
+  "outline": [
+    "《永遇乐·京口北固亭怀古》：『千古江山，英雄无觅孙仲谋处』（原文，公有领域）。",
+    "《破阵子》：『醉里挑灯看剑，梦回吹角连营』（原文，公有领域）。",
+    "《青玉案·元夕》：『众里寻他千百度，蓦然回首，那人却在灯火阑珊处』（原文，公有领域）。"
+  ],
+  "characters": [
+    {
+      "name": "稼轩",
+      "identity": "军人·词人",
+      "note": "以气节自负（通说待核）"
+    }
+  ],
+  "themes": [
+    "豪放继承苏轼：以气节自负（通说待核）。",
+    "用典：大量用典——辛词的典型争议（通说待核）。",
+    "Britannica——拓展词的情感深度（expanding the form's emotional depth）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：623首——许多批评家赞为南宋最佳（the finest of the Southern Song）。",
+      "source": "B115"
+    },
+    {
+      "text": "Britannica：以拓展词的情感深度著称（expanding the form's emotional depth）。",
+      "source": "B115"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "大量用典——注释不可缺。",
+      "豪放与婉约并存。"
+    ],
+    "editions": [
+      "邓广铭《稼轩词编年笺注》（上海古籍出版社，通说待核）。",
+      "《辛弃疾词选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先读《永遇乐》《破阵子》《青玉案》→ 编年通读选本。"
+  },
+  "pending": [
+    "《永遇乐》原文逐字核对。",
+    "邓广铭笺注本信息待核。",
+    "623首统计口径待核。"
+  ],
+  "sources": [
+    "B115",
+    "B176"
+  ],
+  "year_source": "B115",
+  "author_source": "B115",
+  "related_works": [
+    "songci300",
+    "sushixuan",
+    "shiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "辛弃疾词结构图",
+    "cards": [
+      {
+        "title": "永遇乐",
+        "text": "京口北固亭怀古",
+        "color": "main"
+      },
+      {
+        "title": "破阵子",
+        "text": "醉里挑灯看剑",
+        "color": "family"
+      },
+      {
+        "title": "青玉案·元夕",
+        "text": "灯火阑珊处",
+        "color": "gold"
+      },
+      {
+        "title": "稼轩词623首",
+        "text": "南宋最佳（Britannica）",
+        "color": "plain"
+      }
+    ]
+  }
+}

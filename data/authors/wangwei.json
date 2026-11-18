@@ -1,0 +1,37 @@
+{
+  "id": "wangwei",
+  "name": "王维",
+  "foreign_name": "Wang Wei（王维，字摩诘，701—761）",
+  "country": "中国",
+  "birth": "701",
+  "death": "761",
+  "birth_year": 701,
+  "death_year": 761,
+  "era": "古代",
+  "summary": "王维，祁县人（Britannica：born in Qi county, Shanxi），唐代诗人、画家与音乐家（Britannica：a famed Tang dynasty poet, painter, and musician）。721年进士（Britannica：earned the jinshi degree in 721）；安史之乱被俘（756——Britannica：later captured during An Lushan's rebellion in 756）；因《凝碧池》诗与弟王缙获救（Britannica：spared punishment after the rebellion thanks to a poem showing his loyalty and his brother's intervention）。晚年辋川别墅隐居研究佛教（Britannica：Late in life, after losing his wife and mother, he withdrew to a villa on the Wang River to study Buddhism, where the landscape inspired many of his finest poems）。尤以水墨单色山水著称（Britannica：especially known for ink monochrome landscapes, particularly snowscapes, using the 'breaking the ink' (pomo) technique）；17世纪董其昌尊为南宗画祖（Britannica：In the 17th century, Dong Qichang named him founder of the Southern school of painter-poets）；'ranked alongside Li Bai and Du Fu among the Tang dynasty's greatest poets'（与李白杜甫并列唐代最伟大诗人——Britannica）。761年卒（Britannica）。",
+  "timeline": [
+    {"year": "701", "text": "生于祁县（Britannica：born in Qi county, Shanxi）。", "src": "B177"},
+    {"year": "721", "text": "进士及第（Britannica：earned the jinshi degree in 721）。", "src": "B177"},
+    {"year": "756", "text": "安史之乱被俘（Britannica：captured during An Lushan's rebellion in 756）——因诗获救（Britannica）。", "src": "B177"},
+    {"year": "761", "text": "卒（Britannica：died 761），年六十一。", "src": "B177"}
+  ],
+  "major_works": [
+    {"work_id": "wangweishixuan", "note": "通行选集（本库立目）"},
+    {"title": "辋川集（与裴迪唱和）", "note": "山水诗（通说）"},
+    {"title": "鸟鸣涧、鹿柴、送别", "note": "名篇（通说）"}
+  ],
+  "style": [
+    "'诗中有画，画中有诗'（苏轼评——通说待核）。",
+    "'空'与'静'的禅意：Britannica——'the landscape inspired many of his finest poems'（辋川佛教与山水——Britannica）。",
+    "水墨'破墨'山水画（Britannica：ink monochrome landscapes, particularly snowscapes, using the pomo technique）。"
+  ],
+  "status": "Britannica 称王维为'唐代诗人画家音乐家'（a famed Tang dynasty poet, painter, and musician），'ranked alongside Li Bai and Du Fu'（与李白杜甫并列——Britannica）；'In the 17th century, Dong Qichang named him founder of the Southern school of painter-poets'（董其昌尊为南宗画祖——Britannica）。",
+  "sources": ["B177"],
+  "dates_source": "B177",
+  "pending": [
+    "生年（701）与籍贯（祁县/蒲州）考订待核。",
+    "《鹿柴》'空山不见人'原文逐字核对。",
+    "苏轼'诗中有画'评语出处（《书摩诘蓝田烟雨图》）待核。",
+    "辋川集二十首（与裴迪唱和——通说待核）待核。"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "gerende",
+  "title": "个人的体验",
+  "original_title": "個人的な体験 / A Personal Matter（个人的体验）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "oe",
+  "author_name": "大江健三郎",
+  "year_display": "1964年出版（Britannica）",
+  "year_sort": 1964,
+  "background": [
+    "自传性（Britannica）：'shaped by his son's birth in 1963 with a brain hernia and by a visit to Hiroshima'（受1963年脑疝儿子出生与广岛之行塑造——Britannica）——大江光=书中'鸟'之子的原型。",
+    "'widely seen as his finest novel'（广认为其最佳小说——Britannica）。"
+  ],
+  "outline": [
+    "鸟——27岁的青年——妻子产下脑疝婴儿；他陷入恐惧与逃避：欲望非洲、与旧情人火见子（通说）。",
+    "堕胎与选择：'把婴儿交给堕胎医生'还是'接受他'——鸟的'逃避'与'责任'的辩证（通说）。",
+    "结局：鸟'接受'孩子——拆除非洲地图，选择婴儿手术（通说细节待核）——'逃避'终结、'选择'开始（通说解读）。"
+  ],
+  "characters": [
+    {"name": "'鸟'（Bird）", "identity": "青年·梦想非洲者", "note": "'逃避'的化身——'非洲'是幻想的出口"},
+    {"name": "火见子", "identity": "旧情人·通灵者", "note": "'逃避'的诱惑者"},
+    {"name": "妻子", "identity": "产房中的母亲", "note": "'沉默'与'等待'"},
+    {"name": "婴儿", "identity": "脑疝婴儿", "note": "'命运'——不可逃避"}
+  ],
+  "themes": [
+    "'个人的体验'：面对'不可逃避'的现实——残疾儿童的父亲身份（通说）。",
+    "'逃避'与'接受'的辩证：非洲（远方）vs 婴儿（眼前）——通说）。",
+    "艺术特点：'鸟'的隐喻（'鸟'=名字=自由的想象——通说待核）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Oe 条）：'A Personal Matter' (1964)——'widely seen as his finest novel'。", "source": "B167"},
+    {"text": "Britannica：'shaped by his son's birth in 1963 with a brain hernia and by a visit to Hiroshima'——自传性。", "source": "B167"},
+    {"text": "中译：王新新译《个人的体验》（人民文学出版社，通说待核）。", "source": "B167"}
+  ],
+  "reading": {
+    "difficulties": [
+      "'个人的体验'=作者的体验——自传性需要背景。",
+      "'鸟'的名字与非洲的隐喻——理解其'逃避'的语言。"
+    ],
+    "editions": [
+      "王新新译《个人的体验》（人民文学出版社，通说待核）。",
+      "英译：William Currie（通说待核）。"
+    ],
+    "order": "通读 → 精读产房段与结尾'选择'段 → 对照《广岛札记》。"
+  },
+  "pending": [
+    "1964年新潮社出版（通说）细节待核。",
+    "王新新译本信息待核。",
+    "大江光的后来（作曲家）与大江的'共写'待核。"
+  ],
+  "sources": ["B167"],
+  "year_source": "B167",
+  "author_source": "B167",
+  "related_works": ["nuoweide", "huozhe", "maitian"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《个人的体验》'逃避与选择'结构图",
+    "steps": [
+      {"title": "产房", "text": "脑疝婴儿出生", "color": "antagonist"},
+      {"title": "逃避", "text": "非洲幻想·旧情人", "color": "gold"},
+      {"title": "堕胎医生", "text": "'解决'的诱惑", "color": "antagonist"},
+      {"title": "选择", "text": "拆除地图·面对婴儿", "color": "main"}
+    ]
+  }
+}

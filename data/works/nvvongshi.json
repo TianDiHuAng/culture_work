@@ -1,0 +1,73 @@
+{
+  "id": "nvvongshi",
+  "title": "女勇士",
+  "original_title": "The Woman Warrior: Memoirs of a Girlhood Among Ghosts（女勇士：一个女孩的童年回忆）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "回忆录/小说（混合文体）",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "kingston",
+  "author_name": "汤亭亭（Maxine Hong Kingston）",
+  "year_display": "1976年出版（Britannica）",
+  "year_sort": 1976,
+  "background": [
+    "文体（Britannica 语境）：'blending myth, family history, and folktales'（融合神话、家族史与民间故事）——自传/小说/神话的边界消融。",
+    "五篇结构：《无名女子》《白虎》《巫医》《西宫门外》《羌笛野曲》——中国传说与美国生活的'双写'（通说）。"
+  ],
+  "outline": [
+    "'无名女子'：被家族抹去的姑姑——'你不许告诉任何人'与'我们'的沉默（通说）。",
+    "'白虎'：花木兰故事的重写——'我们继承了战神韩信'（通说待核）——'女勇士'的神话化。",
+    "'羌笛野曲'：以蔡琰《胡笳十八拍》收束——'把两种声音翻译成一种'（通说待核）。"
+  ],
+  "characters": [
+    {"name": "'我'（Maxine）", "identity": "华裔美国女孩", "note": "'双重身份'的叙述者"},
+    {"name": "勇兰（Brave Orchid）", "identity": "母亲", "note": "'巫医'与'讲鬼故事者'——中国的'幽灵'传统"},
+    {"name": "花木兰/无名女子", "identity": "神话与现实", "note": "'女勇士'的两面"}
+  ],
+  "themes": [
+    "沉默与开口：中国女性'被沉默'与美国'开口'的张力（通说）。",
+    "'鬼'的多义：中国人（'鬼佬'）与美国华裔的'双鬼'——他者化（通说）。",
+    "神话与现实：花木兰的'改写'作为女性力量的赋予（通说）。",
+    "艺术特点：五篇独立而呼应、'真实/虚构/神话'的边界消融。"
+  ],
+  "influence": [
+    {"text": "Britannica（Kingston 条）：The Woman Warrior (1976) won the National Book Critics' Circle Award。", "source": "B164"},
+    {"text": "亚裔美国文学的经典：与谭恩美、赵健秀并列（通说待核）。", "source": "B164"},
+    {"text": "中译：张子清译《女勇士》（漓江出版社，通说待核）。", "source": "B164"}
+  ],
+  "reading": {
+    "difficulties": [
+      "'真实/虚构'的边界——理解'创造性非虚构'。",
+      "中国民间故事与传说的嵌入——注释。"
+    ],
+    "editions": [
+      "张子清译《女勇士》（漓江出版社，通说待核）。",
+      "英文本：Vintage International（通说待核）。"
+    ],
+    "order": "通读五篇 → 精读'无名女子'与'白虎' → 讨论'沉默与开口'。"
+  },
+  "pending": [
+    "1976年 Knopf 出版细节待核。",
+    "张子清译本信息待核。",
+    "五篇原题与中译对照待核。"
+  ],
+  "sources": ["B164"],
+  "year_source": "B164",
+  "author_source": "B164",
+  "related_works": ["xifuhui", "dadi", "nahan"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《女勇士》五篇结构图",
+    "cards": [
+      {"title": "无名女子", "sub": "No Name Woman", "text": "被抹去的姑姑", "color": "antagonist"},
+      {"title": "白虎", "sub": "White Tigers", "text": "花木兰的重写", "color": "main"},
+      {"title": "巫医", "sub": "Shaman", "text": "母亲·医术·'鬼'", "color": "family"},
+      {"title": "西宫门外", "sub": "At the Western Palace", "text": "勇兰vs月兰", "color": "gold"},
+      {"title": "羌笛野曲", "sub": "A Song for a Barbarian Reed Pipe", "text": "蔡琰的'双声'", "color": "gold"}
+    ]
+  }
+}

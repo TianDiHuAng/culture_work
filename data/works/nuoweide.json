@@ -1,0 +1,78 @@
+{
+  "id": "nuoweide",
+  "title": "挪威的森林",
+  "original_title": "ノルウェイの森 / Norwegian Wood（挪威的森林）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "murakami",
+  "author_name": "村上春树",
+  "year_display": "1987年出版（Britannica）",
+  "year_sort": 1987,
+  "background": [
+    "Britannica：Norwegian Wood (1987)—— Beatles 歌名为题（'Norwegian Wood (This Bird Has Flown)'——通说待核）——'现实主义'青春小说（非超现实——Britannica 语境）。",
+    "销量：日本千万册（通说待核）——'从消遣到经典'（Britannica：Ōe Kenzaburō初斥为纯娱乐——B169）。"
+  ],
+  "outline": [
+    "37岁的渡边在汉堡机场听到《挪威的森林》——回忆1960s：直子（木月前女友，疗养院）、绿子（活泼的同伴）之间的青春与死（通说）。",
+    "结局：直子自杀；渡边'在哪里也不知道的某个地方呼唤着直子'（结尾原文意，通说待核）。"
+  ],
+  "characters": [
+    {"name": "渡边", "identity": "大学生", "note": "'叙述者'——'I'的第一人称"},
+    {"name": "直子", "identity": "木月前女友", "note": "'精神疾病'的少女——死亡"},
+    {"name": "绿子", "text": "'活着的颜色'", "note": "'现实'的恋人"},
+    {"name": "木月", "identity": "17岁自杀", "note": "'青春之死'的起点"}
+  ],
+  "themes": [
+    "青春与死：'死不是生的对立，而是作为生的一部分永存'（原文意，公有领域）。",
+    "'现实'爱情：非超现实的'现实主义'（Britannica 语境：区别于奇鸟行状录等——通说待核）。",
+    "艺术特点：Beatles 歌曲、回忆叙事、'抒情'与'冷淡'并存。"
+  ],
+  "influence": [
+    {"text": "Britannica（Murakami 条）：Norwegian Wood (1987)——'best-known'（通说待核）。", "source": "B169"},
+    {"text": "东亚'村上热'（通说待核）——林少华译本（通说待核）。", "source": "B169"}
+  ],
+  "reading": {
+    "difficulties": [
+      "青春爱情的'现实感'——区别于村上其他作品。",
+      "'死'的主题——理解'生的一部分永存'。"
+    ],
+    "editions": [
+      "林少华译《挪威的森林》（上海译文出版社，通说待核）。",
+      "英译：Jay Rubin（通说待核）。"
+    ],
+    "order": "通读 → 精读'直子'与'绿子'两段 → 对照《海边的卡夫卡》看村上的超现实/现实两轨。"
+  },
+  "pending": [
+    "1987年讲谈社出版（上下册）细节待核。",
+    "林少华译本信息待核。",
+    "Jay Rubin 英译（1997/2000）待核。",
+    "销量（千万册说）待核。"
+  ],
+  "sources": ["B169"],
+  "year_source": "B169",
+  "author_source": "B169",
+  "related_works": ["xixue", "chonger", "biancheng"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《挪威的森林》三角关系图",
+    "nodes": [
+      {"id": "watanabe", "label": "渡边", "x": 340, "y": 130, "color": "main", "sub": "叙述者"},
+      {"id": "naoko", "label": "直子", "x": 130, "y": 130, "color": "family", "sub": "疗养院"},
+      {"id": "midori", "label": "绿子", "x": 550, "y": 130, "color": "main", "sub": "绿"},
+      {"id": "kinzuki", "label": "木月", "x": 120, "y": 320, "color": "plain", "sub": "17岁自杀"},
+      {"id": "reiko", "label": "玲子", "x": 550, "y": 320, "color": "plain", "sub": "直子的音乐教师"}
+    ],
+    "edges": [
+      {"a": "watanabe", "b": "naoko", "label": "承诺"},
+      {"a": "watanabe", "b": "midori", "label": "现实"},
+      {"a": "naoko", "b": "kinzuki", "label": "初恋人·亡"},
+      {"a": "naoko", "b": "reiko", "label": "疗养院"}
+    ]
+  }
+}

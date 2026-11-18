@@ -1,0 +1,72 @@
+{
+  "id": "xixue",
+  "title": "细雪",
+  "original_title": "細雪 / The Makioka Sisters（细雪）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（家族小说）",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "tanizaki",
+  "author_name": "谷崎润一郎",
+  "year_display": "1943—1948年出版（Britannica）",
+  "year_sort": 1945,
+  "background": [
+    "Britannica：The Makioka Sisters (1943–48) 列于'important late works'——大阪没落旧家族四姐妹的'婚事'编年（通说）。",
+    "背景：1936—1941年——战争阴影下的关西日常生活（通说）。"
+  ],
+  "outline": [
+    "四姐妹：鹤子（长姐·继承家业）、幸子（二姐·叙述中心）、雪子（三妹·'最美的'——'嫁不出去'）、妙子（四妹·最叛逆）——'雪子相亲'为全书主线（通说）。",
+    "日常：大阪四季（樱花、萤火虫、赏雪）、蜉蝣目昆虫收集、关西上方文化（通说）。",
+    "结局：雪子终于相亲成功——'远嫁'东京，小说以火车窗外风景收束（通说待核）。"
+  ],
+  "characters": [
+    {"name": "鹤子", "identity": "长姐", "note": "'继承'正家"},
+    {"name": "幸子", "identity": "二姐", "note": "'叙事中心'——雪子的'监护人'"},
+    {"name": "雪子", "identity": "三妹", "note": "'最美'——'相亲'的焦点（通说）"},
+    {"name": "妙子", "identity": "四妹", "note": "'叛逆'——人偶师/摄影师（通说）"}
+  ],
+  "themes": [
+    "'日常'的史诗：无重大事件的四姐妹生活（通说）。",
+    "'旧'与'新'：大阪旧家族在现代化中的衰微（通说）。",
+    "'相亲'作为'命运'：雪子之美与'嫁不出去'的悖论（通说）。",
+    "艺术特点：四季意象、上方文化（关西腔）、'细雪'的轻盈。"
+  ],
+  "influence": [
+    {"text": "Britannica（Tanizaki 条）：The Makioka Sisters (1943–48) 列于 important late works。", "source": "B168"},
+    {"text": "中译：于雷译《细雪》（人民文学出版社，通说待核）。", "source": "B168"}
+  ],
+  "reading": {
+    "difficulties": [
+      "无重大事件——'日常'就是主题。",
+      "关西方言与上方文化（茶道、人偶、和服）——注释。"
+    ],
+    "editions": [
+      "于雷译《细雪》（人民文学出版社，通说待核）。",
+      "英译：Edward Seidensticker（通说待核）。"
+    ],
+    "order": "通读 → 精读赏花段与雪子相亲段 → 对照《源氏物语》的'女性群像'。"
+  },
+  "pending": [
+    "连载与单行本细节（1943年删节版、1948—49年全本，通称）待核。",
+    "于雷译本信息待核。",
+    "Edward Seidensticker 英译（Knopf，通说待核）待核。"
+  ],
+  "sources": ["B168"],
+  "year_source": "B168",
+  "author_source": "B168",
+  "related_works": ["honglou", "middenma", "nuoweide"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《细雪》四姐妹结构图",
+    "cards": [
+      {"title": "鹤子", "sub": "长姐", "text": "继承正家", "color": "plain"},
+      {"title": "幸子", "sub": "二姐", "text": "叙事中心", "color": "family"},
+      {"title": "雪子", "sub": "三妹", "text": "'最美的'相亲焦点", "color": "main"},
+      {"title": "妙子", "sub": "四妹", "text": "'最叛逆'", "color": "gold"}
+    ]
+  }
+}

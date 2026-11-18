@@ -1,0 +1,73 @@
+{
+  "id": "woshimao",
+  "title": "我是猫",
+  "original_title": "吾輩は猫である / I Am a Cat（我是猫）",
+  "region": "日本",
+  "era": "近代",
+  "era_detail": "19世纪末—20世纪初",
+  "genre": "长篇小说（讽刺喜剧）",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "soseki",
+  "author_name": "夏目漱石",
+  "year_display": "1905—1906年连载（Britannica：I Am a Cat (1905–06)）",
+  "year_sort": 1906,
+  "background": [
+    "Britannica：'His early fame came from two satirical comic novels: I Am a Cat (1905–06) and Botchan (1906)'（成名于两部讽刺喜剧小说——Britannica）。",
+    "结构：无名猫的'观察'——教师苦沙弥之家与'邻居'（美学家迷亭、资本家金田）的讽刺群像（通说）。"
+  ],
+  "outline": [
+    "猫的诞生：'咱家是猫，名字嘛……还没有'（原文意，公有领域）——无名猫的讽刺视角（通说）。",
+    "知识分子群像：苦沙弥（胃病教师）、迷亭（美学家）、寒月（理学士）、东风（诗人）——明治知识分子的'无所事事'（通说）。",
+    "金田夫人与'社会'：资本家的入侵——猫从'书房'被推到'社会'（通说）。",
+    "结局：猫喝啤酒醉后落入水缸——'南无阿弥陀佛，南无阿弥陀佛'（结尾原文意，公有领域）——'死的解脱'。"
+  ],
+  "characters": [
+    {"name": "猫（无名）", "identity": "猫·叙述者", "note": "'非人'视角——人类的讽刺之镜"},
+    {"name": "苦沙弥", "identity": "中学英语教师", "note": "'胃病+假发'的主人——漱石自画像（通说待核）"},
+    {"name": "迷亭", "identity": "美学家", "note": "'瞎扯'的大师"},
+    {"name": "金田夫人", "identity": "资本家夫人", "note": "'鼻子大'——金钱的化身（通说）"}
+  ],
+  "themes": [
+    "明治知识分子的'无能'：'有学问却无用'（通说）。",
+    "'猫眼'看人类：人类的'虚伪'与'滑稽'（通说）。",
+    "艺术特点：幽默+讽刺+忧郁、文言与口语混合、'猫语'的叙事距离。"
+  ],
+  "influence": [
+    {"text": "Britannica（Soseki 条）：I Am a Cat (1905–06)——'satirical comic novels'成名作。", "source": "B166"},
+    {"text": "中译：于雷译《我是猫》（人民文学出版社，通说待核）。", "source": "B166"}
+  ],
+  "reading": {
+    "difficulties": [
+      "明治时代知识分子生活——注释。",
+      "猫语的幽默——理解其'距离感'。"
+    ],
+    "editions": [
+      "于雷译《我是猫》（人民文学出版社，通说待核）。",
+      "英译：Ito & Wilson（通说待核）。"
+    ],
+    "order": "通读11章 → 精读开篇'无名猫'段与结尾水缸段 → 对照《哥儿》。"
+  },
+  "pending": [
+    "连载（1905年1月—1906年8月《ホトトギス》说，通称）细节待核。",
+    "于雷译本信息待核。",
+    "'咱家是猫'原文逐字核对照于雷译本。"
+  ],
+  "sources": ["B166"],
+  "year_source": "B166",
+  "author_source": "B166",
+  "related_works": ["xin", "nuoweide", "gogol2"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《我是猫》'猫眼看人'结构图",
+    "cards": [
+      {"title": "猫（无名）", "sub": "叙述者", "text": "'咱家是猫'", "color": "main"},
+      {"title": "苦沙弥", "sub": "教师", "text": "胃病与假发", "color": "family"},
+      {"title": "迷亭", "sub": "美学家", "text": "瞎扯大师", "color": "family"},
+      {"title": "金田夫人", "sub": "资本家", "text": "大鼻子·金钱", "color": "antagonist"},
+      {"title": "水缸", "sub": "结尾", "text": "'南无阿弥陀佛'", "color": "gold"}
+    ]
+  }
+}
