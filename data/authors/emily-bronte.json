@@ -1,0 +1,41 @@
+{
+  "id": "emily-bronte",
+  "name": "艾米莉·勃朗特",
+  "foreign_name": "Emily Brontë（艾米莉·简·勃朗特，1818-07-30 — 1848-12-19）",
+  "country": "英国",
+  "birth": "1818-07-30",
+  "death": "1848-12-19",
+  "birth_year": 1818,
+  "death_year": 1848,
+  "era": "近代",
+  "summary": "艾米莉·勃朗特，约克郡哈沃斯牧师之女，艾米莉·简·勃朗特，以'埃利斯·贝尔'（Ellis Bell）笔名发表，一生只出版一部小说《呼啸山庄》（1847）——'now considered a Gothic masterpiece'（如今被视为哥特杰作，Britannica），出版当时却被评'too savage, too animal-like, and clumsy in construction'（太野蛮、太兽性、结构笨拙——Britannica）。害羞、孤僻、深爱荒原；与姊妹合出诗集（《诗集》1846年只售两册——Britannica），但其诗'后获真正诗才之誉'（Britannica：Emily's verse was later recognized as showing true poetic genius）。1848年12月19日死于肺结核，年仅30岁（Britannica）。",
+  "timeline": [
+    {"year": "1818-07-30", "text": "生于约克郡桑顿（Britannica：Born July 30, 1818, in Thornton, Yorkshire）；1820年全家迁哈沃斯。", "src": "B102"},
+    {"year": "1821—1825", "text": "1821年丧母（Britannica：Her mother died in 1821）、1825年两位长姊夭折（Britannica）；此后居家自学，与安妮共创'冈达尔'（Gondal）幻想王国（Britannica）。", "src": "B102"},
+    {"year": "1835—1842", "text": "罗海德短暂就读三月、劳希尔教书六月（Britannica：taught for six months at Law Hill）、1842年布鲁塞尔求学后归哈沃斯（Britannica）。", "src": "B102"},
+    {"year": "1846", "text": "《柯勒、埃利斯、阿克顿·贝尔诗集》自费出版——'只卖两册'（Britannica：The book sold only two copies），男性化笔名以防性别偏见（Britannica：The pseudonyms used masculine names so their work wouldn't be judged by gender）。", "src": "B102"},
+    {"year": "1845—1847", "text": "27岁起写《呼啸山庄》（Britannica：began Wuthering Heights around 1845 at age 27），1847年12月出版（Britannica：published in December 1847, when she was 29）。", "src": "B102"},
+    {"year": "1848-12-19", "text": "出版后健康状况崩溃，'died within a year'（Britannica）——1848年12月19日死于肺结核，年30（Britannica）。", "src": "B102"},
+    {"year": "身后", "text": "'勃兰韦尔代笔说'被夏洛蒂的声明驳倒（Britannica：claims that her brother Branwell wrote the novel...doesn't outweigh Charlotte's statement）；诗名后来居上（Britannica：her verse was later recognized as showing true poetic genius）。", "src": "B102"}
+  ],
+  "major_works": [
+    {"work_id": "huxiaoshanzhuang", "note": "1847；唯一小说"},
+    {"title": "柯勒、埃利斯、阿克顿·贝尔诗集（1846）", "note": "三姐妹合集（Britannica）"},
+    {"title": "冈达尔诗篇", "note": "幻想王国的诗（通说待核）"}
+  ],
+  "style": [
+    "荒原的意志与风：约克郡旷野既是布景又是'神'（通说）。",
+    "二元结构的叙事：洛克伍德与奈莉的双重讲述、两代人的镜像（通说）。",
+    "'太野蛮'的暴力美学：恨与爱的同源——'他比我更像我自己'（原文意，公有领域）。",
+    "诗歌的凝练与神秘：《夜风》《忆》等被20世纪批评追认为英语最好的诗之一（通说待核）。"
+  ],
+  "status": "Britannica 定位艾米莉为'害羞、孤僻、私密'的作家（shy, reserved, and private），《呼啸山庄》从恶评到哥特杰作的评价翻转是文学接受史的经典案例。勃朗特家'牧师住宅的天才'（Patrick Brontë family，通说待核）——夏洛蒂、艾米莉、安妮三姐妹同年出版小说而终身皆未过40岁，是世界文学史的奇观。",
+  "sources": ["B102"],
+  "dates_source": "B102",
+  "pending": [
+    "《呼啸山庄》与《艾格妮丝·格雷》同卷出版（1847年12月 Thomas Cautley Newby 说，通称）细节待核。",
+    "冈达尔（Gondal）诗篇与小说的关系待核。",
+    "'太野蛮'书评的原始出处（《帕特森杂志》1848评论？）待核。",
+    "艾米莉诗选（如《忆》《夜风》）的名篇清单待核。"
+  ]
+}

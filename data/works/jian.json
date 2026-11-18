@@ -1,0 +1,94 @@
+{
+  "id": "jian",
+  "title": "简·爱",
+  "original_title": "Jane Eyre: An Autobiography（简·爱：一部自传）",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（成长小说/哥特罗曼司）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "charlotte-bronte",
+  "author_name": "夏洛蒂·勃朗特（笔名柯勒·贝尔）",
+  "year_display": "1847年10月16日出版（Britannica）",
+  "year_sort": 1847,
+  "background": [
+    "出版（Britannica）：1847年10月16日由 Smith, Elder & Co. 出版，'an immediate success, outshining Emily's Wuthering Heights and Anne's Agnes Grey'（一举成功，盖过《呼啸山庄》与《艾格妮丝·格雷》）——署名'柯勒·贝尔'。",
+    "自传性（Britannica）：洛伍德慈善学校即考恩桥学校的原型；家庭教师经历（罗海德与布鲁塞尔）为主业素材——'gave new truthfulness to Victorian fiction'（Britannica）。",
+    "接受与争议：维多利亚读者惊于其'直白的激情'与宗教质疑；1848年评论称其'反基督教'倾向（通说待核）；20世纪女性主义与后殖民批评的焦点文本（'阁楼上的疯女人'——Gilbert & Gubar；伯莎·梅森=殖民他者——Spivak，通说待核）。"
+  ],
+  "outline": [
+    "盖茨黑德与洛伍德：孤儿简·爱在舅妈家受虐（红房间——通说）；慈善学校十年（挚友海伦死于肺病——Britannica 口径），毕业留校后登报应聘。",
+    "桑菲尔德庄园：任家庭教师，与学生瓦朗之女阿黛尔为伴；与主人罗切斯特——'阴郁而傲慢'的庄园主——在炉火边、花园里、雨夜中相爱（'你以为我贫穷、低微、不美，就没有灵魂没有心吗？'原文意——公有领域）。",
+    "婚礼中断：婚礼被罗切斯特的疯妻伯莎·梅森（阁楼上的'疯女人'）的存在打断——简出逃荒野几乎饿死。",
+    "沼泽居与遗产：圣约翰兄妹收留；叔父遗产两万镑使她与表兄妹均分（通说）；圣约翰求婚（以传教为由）——简听到罗切斯特的超自然呼唤：'简！简！简！'（原文意，待核）。",
+    "结局：重返桑菲尔德——庄园已毁于伯莎纵火（通说细节）；罗切斯特致盲残臂；简以平等独立之身与他结婚——'读者，我嫁给了他'（原文，公有领域）。"
+  ],
+  "characters": [
+    {"name": "简·爱", "identity": "孤儿→家庭教师", "note": "英国文学第一个以'自尊与平等'为主张的女性叙述者（通说）"},
+    {"name": "罗切斯特", "identity": "桑菲尔德主人", "note": "拜伦式的阴郁庄园主：隐婚与忏悔"},
+    {"name": "伯莎·梅森", "identity": "被囚的疯妻", "note": "'阁楼上的疯女人'——被视为简·爱黑暗自我的镜像（Gilbert & Gubar 论，通说待核）与殖民他者（通说待核）"},
+    {"name": "海伦·彭斯", "identity": "洛伍德挚友", "note": "'忍耐与天国'的殉道少女（通说）"},
+    {"name": "圣约翰·里弗斯", "identity": "传教士求婚者", "note": "'冰'的极端：以神召压抑人性（通说）"},
+    {"name": "里德舅妈与约翰里德", "identity": "盖茨黑德施虐者", "note": "'红房间'的制造者"}
+  ],
+  "themes": [
+    "平等与尊严的爱情：'灵魂对话'宣言——婚姻必须建立在平等上（通说）。",
+    "女性独立的经济基础：家庭教师职业、遗产、'自食其力'——维多利亚女性的现实路径（通说）。",
+    "宗教的三种形态：布罗克赫斯特的伪善、海伦的忍耐、圣约翰的冷酷——简自身的'有温度的信仰'（通说）。",
+    "哥特与殖民的暗面：阁楼、疯女人、西印度财富——20世纪批评的重估对象（通说待核）。",
+    "艺术特点：第一人称自传体、五段成长结构、超自然呼叫与写实融合。"
+  ],
+  "influence": [
+    {"text": "Britannica（Charlotte Brontë 条目）：Jane Eyre 'gave new truthfulness to Victorian fiction'且 immediate success。", "source": "B101"},
+    {"text": "Britannica：考恩桥学校=洛伍德原型——自传性确认。", "source": "B101"},
+    {"text": "改编：电影与电视剧本数十次（1943/1970/2011版与 BBC 1983/2006剧集——通说待核）；《简·爱》衍生重写《藻海无边》（里斯1966——通说待核）。", "source": "B101"},
+    {"text": "女性主义与后殖民批评的双焦点地位（Gilbert & Gubar；Spivak——通说待核）。", "source": "B101"}
+  ],
+  "reading": {
+    "difficulties": [
+      "维多利亚英语的敬语与句式——选现代译本入门。",
+      "38章的成长编年——按地点（盖茨黑德/洛伍德/桑菲尔德/沼泽居/芬丁庄园）分段。",
+      "后殖民批评的再读（伯莎视角）——推荐《藻海无边》对照。"
+    ],
+    "editions": [
+      "吴钧燮译《简·爱》（人民文学出版社）：通行译本。",
+      "黄源深译本（上海译文/译林）：另一选择。",
+      "英文本：Penguin Classics 或 Norton Critical（含批评文选，通说待核）。"
+    ],
+    "order": "通读38章 → 精读'红房间''婚礼中断''沼泽居求婚'三场 → 读《藻海无边》对照伯莎 → 讨论'疯女人'的两种读法。"
+  },
+  "pending": [
+    "初版日期（1847-10-16 Britannica）与三卷册数（3卷，通说）待核。",
+    "'红房间'章节定位与细节逐字核对。",
+    "Gilbert & Gubar 1979《阁楼上的疯女人》与 Spivak 论文出处待核。",
+    "吴钧燮/黄源深译本出版信息待核。"
+  ],
+  "sources": ["B101"],
+  "year_source": "B101",
+  "author_source": "B101",
+  "related_works": ["huxiaoshanzhuang", "aoman", "baofali"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《简·爱》成长五站人物关系图",
+    "nodes": [
+      {"id": "jane", "label": "简·爱", "x": 340, "y": 130, "color": "main", "sub": "孤女→家庭教师"},
+      {"id": "rochester", "label": "罗切斯特", "x": 560, "y": 160, "color": "main", "sub": "桑菲尔德主人"},
+      {"id": "bertha", "label": "伯莎·梅森", "x": 620, "y": 330, "color": "antagonist", "sub": "阁楼上的疯妻"},
+      {"id": "helen", "label": "海伦·彭斯", "x": 120, "y": 90, "color": "family", "sub": "洛伍德挚友"},
+      {"id": "reed", "label": "里德舅妈", "x": 120, "y": 300, "color": "antagonist", "sub": "盖茨黑德"},
+      {"id": "stjohn", "label": "圣约翰", "x": 120, "y": 420, "color": "plain", "sub": "传教士"},
+      {"id": "adele", "label": "阿黛尔", "x": 340, "y": 420, "color": "plain", "sub": "学生"}
+    ],
+    "edges": [
+      {"a": "jane", "b": "rochester", "label": "师生→恋人"},
+      {"a": "rochester", "b": "bertha", "label": "被隐瞒的婚姻", "style": "dashed"},
+      {"a": "jane", "b": "helen", "label": "洛伍德生死之谊"},
+      {"a": "reed", "b": "jane", "label": "虐待·红房间"},
+      {"a": "stjohn", "b": "jane", "label": "求婚（神召）", "style": "dashed"},
+      {"a": "jane", "b": "adele", "label": "师生"}
+    ]
+  }
+}

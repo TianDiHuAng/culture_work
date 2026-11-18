@@ -1,0 +1,95 @@
+{
+  "id": "huxiaoshanzhuang",
+  "title": "呼啸山庄",
+  "original_title": "Wuthering Heights（呼啸山庄）",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（哥特罗曼司）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "emily-bronte",
+  "author_name": "艾米莉·勃朗特（笔名埃利斯·贝尔）",
+  "year_display": "1847年12月出版（Britannica）",
+  "year_sort": 1847,
+  "background": [
+    "出版与恶评（Britannica）：1847年12月出版（与安妮《艾格妮丝·格雷》合卷），当时被评'too savage, too animal-like, and clumsy in construction'——20世纪被追认为哥特杰作（'now considered a Gothic masterpiece'——Britannica）。",
+    "叙事装置：双重讲述——外来者洛克伍德的日记与女管家奈莉·迪恩的口述（通说）；两代人的镜像结构（通说）。",
+    "时代背景：1771—1802年的约克郡——工业革命前夜的乡绅社会与婚姻财产制（通说）。"
+  ],
+  "outline": [
+    "第一代：呼啸山庄主人恩肖捡回吉普赛弃儿希斯克利夫；他与山庄女儿凯瑟琳在荒原上一同长大、形影不离——'我就是希斯克利夫'（'Nelly, I am Heathcliff'原文，公有领域）。凯瑟琳为'体面'嫁画眉山庄的林顿，希斯克利夫出走。",
+    "复仇：三年后希斯克利夫以财富归来——娶伊莎贝拉（林顿之妹）以复仇；凯瑟琳难产而死（生下小凯茜）；希斯克利夫对两个家庭进行长达十八年的'系统性毁灭'（通说）：霸占山庄、逼婚、虐待下一代。",
+    "第二代：小凯茜与小林顿（体弱儿子）被强迫成婚，林顿死、山庄被夺——第二代在希斯克利夫的阴影下同样彼此相爱却互相折磨。",
+    "结局：希斯克利夫在'与死者相会'的执念中绝食而死——葬在凯瑟琳墓旁；小凯茜与哈里顿（辛德雷之子）的结合抚平了两家的仇恨；洛克伍德路过三座墓——'世界上没有人会想象，长眠于此的人曾有过不平静的睡眠'（结尾原文意，公有领域）。"
+  ],
+  "characters": [
+    {"name": "希斯克利夫", "identity": "弃儿→复仇者→山庄主人", "note": "'撒旦式英雄'：被侮辱者变成侮辱者——爱恨同一（通说）"},
+    {"name": "凯瑟琳·恩肖", "identity": "山庄女儿", "note": "'我就是希斯克利夫'——身份认同先于爱情观（通说解读）"},
+    {"name": " Edgar Linton（埃德加·林顿）", "identity": "画眉山庄主人", "note": "'文明与柔弱'的化身"},
+    {"name": "辛德雷·恩肖", "identity": "山庄长子", "note": "压迫希斯克利夫→被其毁灭——复仇链的起点"},
+    {"name": "伊莎贝拉·林顿", "identity": "被诱拐的妻子", "note": "浪漫想象的受害者（通说）"},
+    {"name": "奈莉·迪恩", "identity": "女管家·讲述者", "note": "'可靠的不可靠叙述者'——偏见与记忆的滤镜（通说）"},
+    {"name": "洛克伍德", "identity": "外来的房客", "note": "'文明人'的天真视角——双重叙述的外层"},
+    {"name": "小凯茜与哈里顿", "identity": "第二代", "note": "'读字识人'的救赎（通说：凯茜教哈里顿读书）"}
+  ],
+  "themes": [
+    "爱与恨的同源：'他比我更像我自己。不管我们俩的灵魂是什么做的，他的和我的是一模一样的'（原文，公有领域）——超越社会契约的'存在之爱'。",
+    "文明与野性：呼啸山庄（风暴）vs 画眉田庄（花园）——二元空间的对立与互渗（通说）。",
+    "复仇的代际传递：'我要用他们的孩子报复他们'（原文意，待核）——仇恨的遗传。",
+    "叙述的迷宫：双层讲述+两代重复——'笨拙的结构'恶评背后的精密设计（通说反拨）。",
+    "超自然：幽灵、噩梦与通灵——哥特元素的克制使用（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Emily Brontë 条目）：从'too savage, too animal-like, and clumsy in construction'的恶评到'now considered a Gothic masterpiece'——接受史的翻转。", "source": "B102"},
+    {"text": "Britannica：勃兰韦尔代笔说被夏洛蒂声明驳倒（Britannica：the evidence doesn't outweigh Charlotte's statement that Emily was the author）——著作权公案。", "source": "B102"},
+    {"text": "跨媒介：1939年电影（Olivier/Oberon，通说待核）、Kate Bush 1978同名歌曲（通说待核）——'呼啸山庄'进入大众文化。", "source": "B102"},
+    {"text": "批评史：从'道德污点'到'爱情原型'——20世纪女性主义与结构主义的重估（通说待核）。", "source": "B102"}
+  ],
+  "reading": {
+    "difficulties": [
+      "双层叙述+两代人+重复命名（凯瑟琳/凯茜、林顿父子）——先画家系图。",
+      "约克郡方言（Joseph 的台词几乎不可译）——选带注释的译本。",
+      "时间跨度（1771—1802）与讲述层级——列时间线。"
+    ],
+    "editions": [
+      "方平译《呼啸山庄》（上海译文出版社）：通行译本。",
+      "杨苡译本（江苏人民出版社/译林，通说待核）：经典译名来源。",
+      "英文本：Oxford World's Classics 或 Penguin（含两版差异注释，通说待核）。"
+    ],
+    "order": "先读第1—3章（洛克伍德噩梦）→ 第7—9章（凯瑟琳自白）→ 通读 → 精读第15章（诀别）与结尾三页 → 讨论希斯克利夫复仇的正当性。"
+  },
+  "pending": [
+    "合卷出版（1847年12月 Newby 版三卷册）细节待核。",
+    "'太野蛮'书评原始出处待核。",
+    "杨苡译本（1955年初版）信息待核。",
+    "1939电影与 Kate Bush 歌曲细节待核。"
+  ],
+  "sources": ["B102"],
+  "year_source": "B102",
+  "author_source": "B102",
+  "related_works": ["jian", "aoman", "hongyuhei"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《呼啸山庄》两代人物镜像关系图",
+    "nodes": [
+      {"id": "heathcliff", "label": "希斯克利夫", "x": 340, "y": 130, "color": "main", "sub": "弃儿→复仇者"},
+      {"id": "catherine", "label": "凯瑟琳", "x": 140, "y": 130, "color": "main", "sub": "山庄女儿"},
+      {"id": "edgar1", "label": "埃德加·林顿", "x": 540, "y": 130, "color": "plain", "sub": "画眉山庄"},
+      {"id": "hindley", "label": "辛德雷", "x": 120, "y": 300, "color": "antagonist", "sub": "兄·施虐者"},
+      {"id": "isabella", "label": "伊莎贝拉", "x": 560, "y": 300, "color": "plain", "sub": "被诱娶"},
+      {"id": "cathy2", "label": "小凯茜", "x": 240, "y": 420, "color": "family", "sub": "第二代"},
+      {"id": "harry", "label": "哈里顿", "x": 440, "y": 420, "color": "family", "sub": "辛德雷之子"}
+    ],
+    "edges": [
+      {"a": "heathcliff", "b": "catherine", "label": "'我就是他'"},
+      {"a": "catherine", "b": "edgar1", "label": "体面婚姻"},
+      {"a": "heathcliff", "b": "isabella", "label": "诱娶复仇", "style": "dashed"},
+      {"a": "hindley", "b": "heathcliff", "label": "虐待→毁灭", "style": "dashed"},
+      {"a": "cathy2", "b": "harry", "label": "读字识人"},
+      {"a": "heathcliff", "b": "cathy2", "label": "强迫成婚", "style": "dashed"}
+    ]
+  }
+}
