@@ -1,0 +1,41 @@
+{
+  "id": "hardy",
+  "name": "哈代",
+  "foreign_name": "Thomas Hardy（托马斯·哈代，1840-06-02 — 1928-01-11）",
+  "country": "英国",
+  "birth": "1840-06-02",
+  "death": "1928-01-11",
+  "birth_year": 1840,
+  "death_year": 1928,
+  "era": "近代",
+  "summary": "哈代，多切斯特 higher Bockhampton 人，英国小说家与诗人。建筑师出身（John Hicks 学徒与 Arthur Blomfield 伦敦事务所——Britannica）；首作《穷人与贵妇》未出版，梅雷迪思劝其写'少些观念'的书——《绝望的补救》（1871，Britannica）；《远离尘嚣》（1874）引入'威塞克斯'（Wessex，Britannica：his name for the counties of southwestern England）而闻名。《还乡》《卡斯特桥市长》《林中人》《德伯家的苔丝》《无名的裘德》'generally considered his finest'（被公认为其最佳，Britannica）。'因诗不能出版而写小说、晚年回归诗'（Britannica：He began as a poet, turned to novels when poetry failed to publish, and returned to verse late in life, with most poetry appearing after 1898）。1928年1月11日卒（骨灰葬西敏寺、心脏葬斯汀斯福德——通说待核）。",
+  "timeline": [
+    {"year": "1840-06-02", "text": "生于多切斯特 higher Bockhampton（Britannica：Born June 2, 1840, in Higher Bockhampton, Dorset），石匠之子。", "src": "B123"},
+    {"year": "1856—1862", "text": "建筑师学徒（John Hicks，Britannica）与伦敦 Arthur Blomfield 事务所（Britannica）。", "src": "B123"},
+    {"year": "1867—1871", "text": "回多切斯特；首作《穷人与贵妇》遭拒，梅雷迪思建议改写——《绝望的补救》(1871，Britannica：leading to Desperate Remedies (1871))。", "src": "B123"},
+    {"year": "1874", "text": "《远离尘嚣》引入威塞克斯、'made him famous'（成名，Britannica）；同年与 Emma Lavinia Gifford 结婚（在康沃尔评估教堂时相识——Britannica：whom he met while assessing a church in Cornwall）。", "src": "B123"},
+    {"year": "1878—1887", "text": "《还乡》(1878)《卡斯特桥市长》(1886)《林中人》(1887)（Britannica 列举）；1883年迁多切斯特马克斯门（通说待核）。", "src": "B123"},
+    {"year": "1891—1895", "text": "《德伯家的苔丝》与《无名的裘德》——'generally considered his finest'（Britannica）；《裘德》遭猛烈抨击（'Jude the Obscene'讥称——通说待核）后弃小说。", "src": "B123"},
+    {"year": "1898—1928", "text": "韦塞克斯诗集（1898）起——'most poetry appearing after 1898'（Britannica）；《列王》史诗剧（通说待核）；1912年 Emma 死后写悼亡诗（通说待核）；1928-01-11卒于多切斯特。", "src": "B123"}
+  ],
+  "major_works": [
+    {"work_id": "tabosi", "note": "1891；代表作"},
+    {"title": "远离尘嚣（1874）、还乡（1878）、卡斯特桥市长（1886）、无名的裘德（1895）", "note": "'威塞克斯小说'（Britannica 列举）"},
+    {"title": "韦塞克斯诗集（1898）等", "note": "晚年八部诗集（通说待核）"}
+  ],
+  "style": [
+    "'威塞克斯'的地理神话：以西南诸郡为统一文学疆域（Britannica：Wessex, his name for the counties of southwestern England）。",
+    "'性格与环境'悲剧：命运与环境的压迫（其小说副题'A Pure Woman'等——通说待核）。",
+    "乡土语言的镶嵌与哥特式巧合（通说）。",
+    "'反'维多利亚道德：宗教怀疑与性道德的坦率（通说）。"
+  ],
+  "status": "Britannica 称哈代以'威塞克斯'命名英格兰西南诸郡（Wessex, his name for the counties of southwestern England），其小说与诗歌并峙——《苔丝》与《裘德》'generally considered his finest'。'哈代式'（Hardyesque）宿命感进入语言（通说待核）。",
+  "sources": ["B123"],
+  "dates_source": "B123",
+  "pending": [
+    "《苔丝》1891年出版（James R. Osgood 三卷本——通称）细节待核。",
+    "Emma 死后悼亡诗（1912—13, 'Poems of 1912–13'）待核。",
+    "'威塞克斯'地理的制图（1887地图——通说）待核。",
+    "骨灰西敏寺/心脏斯汀斯福德的双葬（通说）待核。"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tabosi",
+  "title": "德伯家的苔丝",
+  "original_title": "Tess of the d'Urbervilles: A Pure Woman Faithfully Presented（德伯家的苔丝：一个纯洁的女人）",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说（'性格与环境'悲剧）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hardy",
+  "author_name": "托马斯·哈代",
+  "year_display": "1891年出版（Britannica 语境；三卷本，通说待核）",
+  "year_sort": 1891,
+  "background": [
+    "副题：'A Pure Woman Faithfully Presented'（一个纯洁的女人如实呈现，通说待核）——'纯洁'的定义挑战维多利亚道德（通说）。",
+    "取材：'the d'Urberville family legend and a local woman's seduction and tragic end'（德伯维尔家族传说与当地女子被诱奸的悲剧结局——Britannica 相关内容：Tess of the d'Urbervilles and Jude the Obscure are 'generally considered his finest'）。",
+    "出版波折：因'不道德'内容多次遭拒/删改（通说待核： graphic 情节被出版商要求删改）。"
+  ],
+  "outline": [
+    "德伯菲尔家的'贵族血统'：穷马夫约翰·德比菲尔被告知是古老贵族德伯维尔的后裔——让女儿苔丝去'认亲'：实为冒牌暴发户斯托克·德伯维尔家。",
+    "亚雷克·德伯维尔：富家少爷亚雷克诱奸了苔丝——她回家生下'悲哀儿'，婴儿夭折（'苦楚儿'——通说）——社会却视她为堕落。",
+    "塔尔勃塞与安吉尔·克莱尔：去奶牛场做工，与牧师之子安吉尔相爱成婚——新婚夜互白'过错'：安吉尔自认曾与荡妇同居，苔丝坦白被奸——安吉尔无法原谅，'同样的罪，为何宽己严她'（原文意，待核）——远走巴西。",
+    "亚雷克再临：苔丝家破人亡（父亲死、全家流离）沦为'苦工'；亚雷克'改邪归正'的传教士复来纠缠，苔丝再被其'收留'（通说）。",
+    "结局：安吉尔悔悟归来寻苔丝；苔丝杀死亚雷克，与安吉尔亡命荒原数日；在巨石阵（悬石坛）被捕——'那位古代太阳神祭祀的祭坛'（原文意，待核）；死刑执行——'黑旗升起'（结尾原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "苔丝·德比菲尔", "identity": "贫苦马夫之女", "note": "'一个纯洁的女人'——被社会与男人双重毁灭（通说）"},
+    {"name": "亚雷克·德伯维尔", "identity": "暴发户少爷", "note": "'毁人的肉欲之剑'（原文意，待核）——后为伪善传教士"},
+    {"name": "安吉尔·克莱尔", "identity": "牧师之子·农夫", "note": "'观念的奴隶'：口称解放却用双重道德审判苔丝（通说解读）"},
+    {"name": "约翰·德比菲尔", "identity": "苔丝之父", "note": "'贵族血统'醉话的始作俑者"},
+    {"name": "琼·德比菲尔", "identity": "苔丝之母", "note": "天真随俗——间接促成女儿悲剧（通说）"}
+  ],
+  "themes": [
+    "'纯洁'的重新定义：副题即抗议——被奸不是堕落（通说）。",
+    "'性格与环境'的悲剧：阶级、宗教、道德——三层绞索（通说）。",
+    "自然与异教：四季、巨石阵、'太阳神祭坛'——哈代的异教宇宙（通说）。",
+    "艺术特点：乡村风景的心理化（'塔尔勃塞的牛场'）、哥特巧合（通说）、'黑旗'式结尾。"
+  ],
+  "influence": [
+    {"text": "Britannica（Hardy 条）：Tess of the d'Urbervilles 与 Jude the Obscure 'generally considered his finest'（公认为其最佳）。", "source": "B123"},
+    {"text": "Britannica：'威塞克斯'地理与建筑师出身的背景。", "source": "B123"},
+    {"text": "改编：1924默片、1979 Polanski 电影（《苔丝》获奥斯卡摄影奖——通说待核）与1998电视版。", "source": "B123"},
+    {"text": "中译：张谷若译《德伯家的苔丝》（人民文学/上海译文，通说待核）——张谷若译本以齐鲁方言著称。", "source": "B123"}
+  ],
+  "reading": {
+    "difficulties": [
+      "维多利亚道德语境（'失贞'的后果）需要历史注释。",
+      "威塞克斯方言（约克夏/多塞特混合）与农村用语——张谷若译本处理独具特色。",
+      "结尾巨石阵场景的异教意涵——配哈代《列王》背景。"
+    ],
+    "editions": [
+      "张谷若译《德伯家的苔丝》（人民文学出版社）：通行经典译本。",
+      "郑大民译本（上海译文，通说待核）：另一选择。",
+      "英文本：Penguin Classics 或 Norton（通说待核）。"
+    ],
+    "order": "通读七阶段（59章分期——通说待核）→ 精读'悬崖结婚互白''悬石坛被捕'两场 → 对照《无名的裘德》→ 讨论安吉尔的'双重标准'。"
+  },
+  "pending": [
+    "1891年三卷本（James R. Osgood, McIlvaine & Co.）与删改史（'the maiden'段落，通说）待核。",
+    "张谷若译本（1935/1957/1980s）版本信息待核。",
+    "1979 Polanski 电影奥斯卡摄影奖确认待核。",
+    "副题原文逐字核对。"
+  ],
+  "sources": ["B123"],
+  "year_source": "B123",
+  "author_source": "B123",
+  "related_works": ["jian", "huxiaoshanzhuang", "middenma"],
+  "svg": {
+    "type": "flow",
+    "width": 680,
+    "height": 240,
+    "caption": "《德伯家的苔丝》'纯洁的女人'命运结构图",
+    "steps": [
+      {"title": "认亲", "text": "假贵族德伯维尔家", "color": "plain"},
+      {"title": "失身", "text": "亚雷克·'悲哀儿'夭折", "color": "antagonist"},
+      {"title": "爱与弃", "text": "安吉尔新婚夜的审判", "color": "gold"},
+      {"title": "再入虎口", "text": "亚雷克'传教士'", "color": "antagonist"},
+      {"title": "杀与捕", "text": "巨石阵·黑旗升起", "color": "main"}
+    ]
+  }
+}

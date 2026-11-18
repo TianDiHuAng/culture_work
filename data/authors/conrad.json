@@ -1,0 +1,40 @@
+{
+  "id": "conrad",
+  "name": "康拉德",
+  "foreign_name": "Joseph Conrad（约瑟夫·康拉德，本名 Józef Teodor Konrad Korzeniowski，1857-12-03 — 1924-08-03）",
+  "country": "英国",
+  "birth": "1857-12-03",
+  "death": "1924-08-03",
+  "birth_year": 1857,
+  "death_year": 1924,
+  "era": "近代",
+  "summary": "康拉德，生于俄占波兰（Berdychiv——Britannica），英国小说家：波兰流放者之子（父 Apollo Korzeniowski 为被流放的波兰爱国者——Britannica），11岁父母双亡；1874年自马赛出海、1878年入英国商船队16年升至船长（Britannica），成为英国臣民并获船长证书（Britannica）。1895年以《阿尔迈耶的愚蠢》开始用第三语言（英语）写作——《吉姆爷》（1900）、《黑暗的心》（1902）、《诺斯特罗莫》（1904）、《间谍》（1907）。'主题是孤独、自然的冷漠与善恶斗争'（Britannica：Themes: loneliness, nature's indifference, and struggles between good and evil）。1924年8月3日卒于坎特伯雷（Britannica）。",
+  "timeline": [
+    {"year": "1857-12-03", "text": "生于乌克兰别尔迪奇夫（Berdychev，当时属俄罗斯帝国；Britannica：Born...in Berdychiv, Ukraine (then Russian Empire)）。", "src": "B124"},
+    {"year": "1865—1869", "text": "母（1865）父（1869）先后病亡（Britannica：Orphaned at 11 after both parents died of tuberculosis）。", "src": "B124"},
+    {"year": "1874—1878", "text": "马赛出海（Britannica：Went to sea in 1874 from Marseille）；1878年入英国商船队（Britannica：joined the British merchant navy in 1878）。", "src": "B124"},
+    {"year": "1886—1894", "text": "船长证书与英国籍（1886，Britannica）；1889—90刚果河航行（《黑暗的心》素材——通说待核）；1894年脱离海员生涯。", "src": "B124"},
+    {"year": "1895—1904", "text": "《阿尔迈耶的愚蠢》（1895，Britannica：adopted the pen name Joseph Conrad in 1895 with Almayer's Folly）；《吉姆爷》（1900）《黑暗的心》（1902）《诺斯特罗莫》（1904，Britannica 列举 famous works）。", "src": "B124"},
+    {"year": "1907—1924", "text": "《间谍》（1907，Britannica 列举）；《在西方眼睛下》（1911，通说待核）；1919年婚 Jessie George（通说待核）；1924-08-03卒于坎特伯雷（Britannica：Died August 3, 1924, in Canterbury, Kent, England）。", "src": "B124"}
+  ],
+  "major_works": [
+    {"work_id": "heianddixin", "note": "1902；代表作"},
+    {"title": "吉姆爷（1900）、诺斯特罗莫（1904）、间谍（1907）", "note": "名作（Britannica 列举）"},
+    {"title": "在西方眼睛下（1911）", "note": "政治小说（通说待核）"}
+  ],
+  "style": [
+    "多重框叙述（Marlow 的讲述——通说）。",
+    "'看见'的哲学：黑暗中的'狞笑'——文明假面的崩解（通说）。",
+    "英语作为'第三语言'的异质感文体：法语借句与俄语节奏（通说待核）。",
+    "'海军小说'与政治小说的合流（Britannica：main works 列举）。"
+  ],
+  "status": "Britannica 定位康拉德为'在海上写作波兰-英国小说家'（polish-born British novelist），其主题为'孤独、自然的冷漠与善恶斗争'（Britannica：loneliness, nature's indifference, and struggles between good and evil）。《黑暗的心》成为20世纪'文明批判'的通用文本——阿契贝1975年演讲斥其为'彻头彻尾的种族主义者'（通说待核——v3 已有 B106 阿契贝来源支撑）。",
+  "sources": ["B124"],
+  "dates_source": "B124",
+  "pending": [
+    "刚果之行（1890年，Société Anonyme Belge）与《刚果日记》待核。",
+    "'波兰-英国'身份与俄国占波兰的历史语境待核。",
+    "1924年死后葬（Canterbury cemetery，通说）待核。",
+    "阿契贝演讲原文（1975年马萨诸塞大学）待核。"
+  ]
+}
