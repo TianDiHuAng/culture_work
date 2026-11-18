@@ -1,0 +1,42 @@
+{
+  "id": "eliot",
+  "name": "艾略特",
+  "foreign_name": "T.S. Eliot（托马斯·斯特恩斯·艾略特，1888-09-26 — 1965-01-04）",
+  "country": "英国",
+  "birth": "1888-09-26",
+  "death": "1965-01-04",
+  "birth_year": 1888,
+  "death_year": 1965,
+  "era": "现当代",
+  "summary": "艾略特，圣路易斯人，英美现代主义诗歌的立法者：'The Love Song of J. Alfred Prufrock'（1915）被称为'英语现代主义的第一部杰作'（Britannica：《荒原》条目语境），《荒原》（1922）以庞德删削的433行改写战后西方的精神图景；1927年入英国籍并改宗英国国教（Britannica），此后《四个四重奏》（1943）被视为其杰作（Britannica）。1948年诺贝尔文学奖（Britannica）。批评家身份同样重要：《神圣的树林》（1920）的'传统与个人才能'与'客观对应物'（Britannica）塑造了20世纪批评（'新批评'的直接源头之一，通说待核）。",
+  "timeline": [
+    {"year": "1888-09-26", "text": "生于密苏里州圣路易斯（Britannica），新英格兰清教世家；史密斯学院、米尔顿学院、哈佛（BA 1909，Britannica）。", "src": "B100"},
+    {"year": "1910—1914", "text": "索邦一年（Britannica）；哈佛博士论文（论布拉德雷，因一战未答辩——Britannica）；1914年移居伦敦。", "src": "B100"},
+    {"year": "1915", "text": "《普鲁弗洛克的情歌》刊于《诗歌》杂志（Poetry，庞德发表——Britannica：'called the first masterpiece of Modernism in English'）；同年与薇薇安·黑格-伍德仓促成婚（通说待核）。", "src": "B100"},
+    {"year": "1917—1922", "text": "劳埃德银行职员（Britannica：worked as a bank clerk at Lloyds）；《普鲁弗洛克及其他观察》（1917）、《诗》1919含'Gerontion'（Britannica）；1922年《荒原》刊于《标准》创刊号（Britannica：founded the journal The Criterion）。", "src": "B100"},
+    {"year": "1925—1930", "text": "费伯出版社（Faber & Faber）董事（通说待核）；《空心人》（1925，通说待核）；1927年入英国籍、皈依英国国教（Britannica：converting to Anglo-Catholicism in 1927, the year he also became a British citizen）；《灰星期三》（1930，Britannica）。", "src": "B100"},
+    {"year": "1932—1943", "text": "哈佛诺顿讲座（通说待核）；《四个四重奏》四篇（1936—42）1943年合集（Britannica：Four Quartets (1943)）；剧作《大教堂凶杀案》（1935，通说待核）。", "src": "B100"},
+    {"year": "1948", "text": "诺贝尔文学奖（Britannica：won the Nobel Prize for Literature in 1948）；同年获功勋勋章（通说待核）。", "src": "B100"},
+    {"year": "1957—1965", "text": "与第二任妻子瓦莱丽·弗莱彻结婚（1957，通说待核）；诗剧《政界元老》（1959，通说待核）；1965-01-04卒于伦敦（Britannica）。", "src": "B100"}
+  ],
+  "major_works": [
+    {"work_id": "huangyuan", "note": "1922；'his most famous poem'（Britannica）"},
+    {"title": "四个四重奏（1943）", "note": "'considered his masterpiece'（Britannica）"},
+    {"title": "神圣的树林（1920）", "note": "批评文集（Britannica：The Sacred Wood (1920)）"}
+  ],
+  "style": [
+    "意象拼贴与互文：《荒原》引用梵文、但丁、莎士比亚、瓦格纳——'这些片段我用来支撑我的废墟'（原文，公有领域）。",
+    "'客观对应物'（objective correlative，Britannica：which introduced the 'objective correlative' concept）——情感须由外物呈现的批评法则。",
+    "'非个人化'理论：'传统与个人才能'主张诗歌是'逃避个性'（通说）。",
+    "后期'沉思剧诗'：四重奏的时间-永恒哲学（Britannica 语境）。"
+  ],
+  "status": "Britannica 称艾略特为现代主义英语诗歌的立法者（'his experiments in diction and versification revitalized English-language poetry'——Britannica：credited with revitalizing English-language poetry）。《荒原》'five sections expressing post-WWI disillusionment'（Britannica）成为战后文明的通用诊断书。作为出版人与批评家，他定义了'谁是现代经典'（通说待核）。",
+  "sources": ["B100"],
+  "dates_source": "B100",
+  "pending": [
+    "《荒原》手稿与庞德删削的对照（Valentine Eliot《荒原手稿》1994——通说待核）。",
+    "薇薇安婚姻与1957年瓦莱丽婚姻细节待核。",
+    "1948年功勋勋章（Order of Merit）确认待核。",
+    "'荒原'注释自注（作者自附注）真伪之争（艾略特自嘲'填页数'说——通说）待核。"
+  ]
+}

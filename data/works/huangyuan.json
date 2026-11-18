@@ -1,0 +1,80 @@
+{
+  "id": "huangyuan",
+  "title": "荒原",
+  "original_title": "The Waste Land（荒原）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长诗（五部分，433行）",
+  "genre_group": "诗歌",
+  "language": "英语（多语拼贴）",
+  "author_id": "eliot",
+  "author_name": "T.S.艾略特",
+  "year_display": "1922年10月《标准》创刊号刊出，同年12月 Hogarth Press 单行本（通说待核）",
+  "year_sort": 1922,
+  "background": [
+    "创作（Britannica）：一战后精神崩溃期的作品——'cut from ~800 lines to 433 at Ezra Pound's suggestion'（庞德大刀阔斧删至433行——Britannica），庞德题献其为'il miglior fabbro'（更卓越的匠人——原文，公有领域）。",
+    "出版：1922年10月《标准》创刊号与《日晷》同步刊出、12月伍尔芙的 Hogarth Press 印单行本（通说待核）；1922年与《尤利西斯》同年——现代主义的'双子年'（通说）。",
+    "结构：五部——《死者的葬礼》《弈棋》《火诫》《水里的死亡》《雷霆的话》；'四月是最残忍的月份'（原文，公有领域）开篇颠覆乔叟的四月颂歌（Britannica Canterbury 条：deliberately subverted by T.S. Eliot in The Waste Land）。"
+  ],
+  "outline": [
+    "《死者的葬礼》：四月、荒地、回忆与碎片化独白——战后的伦敦是'虚幻的城'（原文意，待核）。",
+    "《弈棋》：上流社会的闺房与下等酒馆并置——'河的女儿们'与'好 precipice'（原文意）——欲望的荒原化。",
+    "《火诫》：泰晤士河畔的青春已逝；圣奥古斯丁与佛陀的双重'焚戒'引文——欲望之火。",
+    "《水里的死亡》：腓尼基水手弗莱巴斯之死——10行独立成章（通说）——水的双重性（生命/死亡）。",
+    "《雷霆的话》：荒原上的寻找——'有没有水？'；雷霆的梵语咒语'Datta. Dayadhvam. Damyata'（施舍、同情、克制——原文）与结尾'这些片段我用来支撑我的废墟'（原文，公有领域）——Fragment 的救法。"
+  ],
+  "characters": [
+    {"name": "无名说话者（泰瑞西亚斯合体）", "identity": "多重视角", "note": "艾略特注：泰瑞西亚斯'两性合体'是全诗'最重要的'人格（作者自注，原文待核）——众人皆是他者幻影"},
+    {"name": "特里斯坦与伊索尔德、狄多、菲洛梅尔", "identity": "神话-文学引用群", "note": "爱情悲剧的引用链（通说）"},
+    {"name": "雷霆（梵语）", "identity": "自然-神性的声音", "note": "'Datta Dayadhvam Damyata Shantih shantih shantih'——结尾的咒语"}
+  ],
+  "themes": [
+    "战后文明的'荒原化'：宗教真空、欲望机械、语言失效——一次文明的X光（Britannica：five sections expressing post-WWI disillusionment）。",
+    "水的双重象征：缺水（荒原）与淹死（死亡）——救赎与毁灭同一元素。",
+    "传统作为废墟的支架：碎片引用本身成为结构——'这些片段我用来支撑我的废墟'（Britannica 语境）。",
+    "艺术特点：自由体与格律句的拼接、七种语言引用、作者自附注（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Eliot 条目）：The Waste Land (1922) — 'his most famous poem'；庞德删改史。", "source": "B100"},
+    {"text": "Britannica：开篇四月意象'刻意颠覆'乔叟《坎特伯雷故事》（Britannica Canterbury 条）。", "source": "B008"},
+    {"text": "诗歌史地位：'《荒原》之后英语诗歌再不一样'（通说概括）——艾略特用其批评与出版塑造了'荒原之后'的准则。", "source": "B100"},
+    {"text": "中译：查良铮（穆旦）译《荒原》（通说待核）与赵萝蕤1937年首译。", "source": "B100"}
+  ],
+  "reading": {
+    "difficulties": [
+      "433行引用十余种语言与文本——必须配注释本逐行读。",
+      "'碎片结构'没有连贯叙事——按意象与声音读。",
+      "作者自注的'真伪'（半开玩笑说）——注释当作第五声部读。"
+    ],
+    "editions": [
+      "赵萝蕤译本（1937年首译，通说待核）：中国首译。",
+      "查良铮（穆旦）译《英国现代诗选》（通说待核）：通行。",
+      "英文本：The Waste Land（Norton Critical Edition 含手稿影印，通说待核）。"
+    ],
+    "order": "先读全诗一遍（不求全懂）→ 对照注释重读 → 配读《传统与个人才能》 → 听艾略特本人朗诵录音（通说待核）。"
+  },
+  "pending": [
+    "《标准》创刊号与 Hogarth 单行本日期（1922年10—12月）待核。",
+    "赵萝蕤1937年译本（北平）出版细节待核。",
+    "泰瑞西亚斯作者自注的逐字核对。",
+    "手稿（Bodleian 收藏）研究文献待核。"
+  ],
+  "sources": ["B100", "B008"],
+  "year_source": "B100",
+  "author_source": "B100",
+  "related_works": ["youlisisi", "shenqu", "nahan"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《荒原》五部结构图",
+    "cards": [
+      {"title": "I 死者的葬礼", "text": "四月·荒地·虚幻的城", "color": "antagonist"},
+      {"title": "II 弈棋", "text": "闺房与酒馆的欲望", "color": "gold"},
+      {"title": "III 火诫", "text": "泰晤士河·焚戒", "color": "main"},
+      {"title": "IV 水里的死亡", "text": "弗莱巴斯·十行", "color": "family"},
+      {"title": "V 雷霆的话", "text": "Datta·Dayadhvam·Damyata", "color": "main"}
+    ]
+  }
+}
