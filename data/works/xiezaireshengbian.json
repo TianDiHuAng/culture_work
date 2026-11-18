@@ -1,0 +1,99 @@
+{
+  "id": "xiezaireshengbian",
+  "title": "写在人生边上",
+  "original_title": "写在人生边上（散文集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "汉语（白话·文言点缀）",
+  "author_id": "qianzhongshu",
+  "author_name": "钱锺书",
+  "year_display": "1941年出版（通说待核；开明书店说）",
+  "year_sort": 1941,
+  "background": [
+    "Britannica（Qian Zhongshu 条）确认其为学者型作家（与《围城》并列的本库作者——见 weicheng 条 B082 核对记录）。",
+    "书名自序：人生是一部大书，本书文字是写在书边空白上的零星批注（自述意，通说待核）。"
+  ],
+  "outline": [
+    "十篇随笔：《魔鬼夜访钱锺书先生》《窗》《论快乐》《说笑》《谈教训》《一个偏见》《释文盲》《论文人》等（篇目通说待核）。",
+    "以魔鬼夜访开篇——借魔口说人事（通说）。",
+    "《论快乐》：快乐在过程而非目的——『一切快乐的享受都属于精神的』（名句通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "钱锺书",
+      "identity": "学者·随笔作者",
+      "note": "以智性反讽观照人生"
+    }
+  ],
+  "themes": [
+    "智性反讽：对人性弱点的显微镜（通说）。",
+    "中西互证：随笔中随手援引中西典籍（通说）。",
+    "『写在人生边上』的态度：不写大书，写批注——谦逊而锋利（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：钱锺书为中国最重要的学者—作家之一（作者级定位，见 B082 weicheng 条核对）。",
+      "source": "B082"
+    },
+    {
+      "text": "《写在人生边上》与《围城》并列为钱锺书散文与小说双峰（通说）。",
+      "source": "B082"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "中西典故密集——注释与耐心。",
+      "反讽语气的识别。"
+    ],
+    "editions": [
+      "《写在人生边上》（辽宁人民出版社/三联书店版本，通说待核）。"
+    ],
+    "order": "可与《围城》互读；先读《论快乐》《窗》。"
+  },
+  "pending": [
+    "1941年初版细节待核。",
+    "篇目逐篇核对（十篇说）。",
+    "《论快乐》名句原文逐字核对。"
+  ],
+  "sources": [
+    "B082"
+  ],
+  "year_source": "B082",
+  "author_source": "B082",
+  "related_works": [
+    "weicheng",
+    "rulin",
+    "zhuangzi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《写在人生边上》篇目结构图",
+    "cards": [
+      {
+        "title": "魔鬼夜访",
+        "text": "借魔说人（篇名通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "窗",
+        "text": "门窗之辨（篇名通说）",
+        "color": "family"
+      },
+      {
+        "title": "论快乐",
+        "text": "快乐属于精神（名句通说）",
+        "color": "main"
+      },
+      {
+        "title": "谈教训",
+        "text": "讽刺说教者（篇名通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

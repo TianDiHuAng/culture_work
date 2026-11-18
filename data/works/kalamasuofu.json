@@ -1,0 +1,169 @@
+{
+  "id": "kalamasuofu",
+  "title": "卡拉马佐夫兄弟",
+  "original_title": "Братья Карамазовы（The Brothers Karamazov）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "dostoevsky",
+  "author_name": "费奥多尔·陀思妥耶夫斯基",
+  "year_display": "1879—1880年连载发表（Britannica：first published as Bratya Karamazovy）",
+  "year_sort": 1880,
+  "background": [
+    "Britannica（B202）：The novel tells the story of Fyodor Karamazov and his sons Alyosha, Dmitry, and Ivan，围绕一桩弑父案展开（Britannica）。",
+    "It is generally regarded as Dostoyevsky's masterpiece（被普遍视为陀思妥耶夫斯基的巅峰之作——Britannica）。"
+  ],
+  "outline": [
+    "老卡拉马佐夫被杀，长子德米特里因情财纠葛受审——真凶另有其人（Britannica 语境+通说）。",
+    "伊万的『一切都被允许』与宗教大法官传说——信仰与理性的大辩论（通说；Britannica 确认 search for faith 为核心）。",
+    "阿辽沙的圣徒式成长线——修道院与人间之间（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "费奥多尔·卡拉马佐夫",
+      "identity": "父亲",
+      "note": "荒淫贪婪，被弑（Britannica）"
+    },
+    {
+      "name": "德米特里",
+      "identity": "长子",
+      "note": "情欲与荣誉，被误控"
+    },
+    {
+      "name": "伊万",
+      "identity": "次子",
+      "note": "无神论者（Britannica 语境）"
+    },
+    {
+      "name": "阿辽沙",
+      "identity": "幼子",
+      "note": "见习修士（Britannica 语境）"
+    },
+    {
+      "name": "斯麦尔佳科夫",
+      "identity": "私生子·仆人",
+      "note": "真凶（通说）"
+    }
+  ],
+  "themes": [
+    "寻找信仰，寻找上帝——贯穿全书的核心主题（Britannica：Throughout the novel there persists a search for faith, for God—the central idea of the work）。",
+    "自由与责任：伊万之问与宗教大法官（通说）。",
+    "弑父的象征：旧俄秩序的崩塌（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：generally regarded as Dostoyevsky's masterpiece（普遍视为其巅峰之作）。",
+      "source": "B202"
+    },
+    {
+      "text": "Britannica 转引书中之句：the secret of universal harmony is not achieved by the mind but by the heart（普遍和谐的奥秘不在头脑而在心——文中转引，本库不另译定本）。",
+      "source": "B202"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "宗教大法官一章的哲学密度——可先读导读。",
+      "俄国人名体系。",
+      "案件时间线——先画人物表。"
+    ],
+    "editions": [
+      "荣如德译本（上海译文出版社，通说待核）。",
+      "耿济之译本（人民文学出版社，公有领域早期译本）。"
+    ],
+    "order": "第一遍顺情节（弑父案）→ 第二遍专读伊万线（叛逆·宗教大法官）→ 第三遍阿辽沙线。"
+  },
+  "pending": [
+    "连载与单行本年表（1879—1880《俄罗斯信使》连载说）待核。",
+    "宗教大法官章节细节待核。",
+    "各中文译本信息待核。"
+  ],
+  "sources": [
+    "B202",
+    "B042"
+  ],
+  "year_source": "B202",
+  "author_source": "B202",
+  "related_works": [
+    "zuiyufa",
+    "sihunling",
+    "shenpan"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《卡拉马佐夫兄弟》人物关系图",
+    "nodes": [
+      {
+        "id": "fyodor",
+        "label": "老卡拉马佐夫",
+        "x": 340,
+        "y": 115,
+        "color": "antagonist",
+        "sub": "被弑之父"
+      },
+      {
+        "id": "dmitry",
+        "label": "德米特里",
+        "x": 120,
+        "y": 115,
+        "color": "main",
+        "sub": "长子·被控"
+      },
+      {
+        "id": "ivan",
+        "label": "伊万",
+        "x": 565,
+        "y": 115,
+        "color": "family",
+        "sub": "次子·怀疑神"
+      },
+      {
+        "id": "alyosha",
+        "label": "阿辽沙",
+        "x": 180,
+        "y": 330,
+        "color": "main",
+        "sub": "幼子·修士"
+      },
+      {
+        "id": "smerdyakov",
+        "label": "斯麦尔佳科夫",
+        "x": 500,
+        "y": 330,
+        "color": "plain",
+        "sub": "仆人·真凶"
+      }
+    ],
+    "edges": [
+      {
+        "a": "fyodor",
+        "b": "dmitry",
+        "label": "争产"
+      },
+      {
+        "a": "fyodor",
+        "b": "ivan",
+        "label": "论神"
+      },
+      {
+        "a": "fyodor",
+        "b": "alyosha",
+        "label": "调和"
+      },
+      {
+        "a": "fyodor",
+        "b": "smerdyakov",
+        "label": "私生子"
+      },
+      {
+        "a": "smerdyakov",
+        "b": "ivan",
+        "label": "执行其念"
+      }
+    ]
+  }
+}

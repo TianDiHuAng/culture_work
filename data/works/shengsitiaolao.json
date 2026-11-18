@@ -1,0 +1,115 @@
+{
+  "id": "shengsitiaolao",
+  "title": "生死疲劳",
+  "original_title": "生死疲劳（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·章回体）",
+  "author_id": "moyan",
+  "author_name": "莫言",
+  "year_display": "2006年出版（Britannica：Shengsi pilao (2006; Life and Death Are Wearing Me Out)）",
+  "year_sort": 2006,
+  "background": [
+    "Britannica（Mo Yan 条）：later works included the novels Tanxiang xing (2001; Sandalwood Death), Shengsi pilao (2006; Life and Death Are Wearing Me Out), and Wa (2009; Frog)——本作即其中之一。",
+    "题名出自佛经『生死疲劳，从贪欲起』（通说待核）。"
+  ],
+  "outline": [
+    "西门闹在土改中被枪毙，不服而六度轮回：驴、牛、猪、狗、猴，最后为大头婴儿蓝千岁（通说）。",
+    "以动物之眼观1950—2000年中国农村土地关系变迁——从土改、合作社到改革开放（通说）。",
+    "叙事者轮换（蓝千岁、蓝解放、莫言），章回体目录（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "西门闹",
+      "identity": "地主·轮回者",
+      "note": "六道轮回的冤魂"
+    },
+    {
+      "name": "蓝解放",
+      "identity": "西门闹之子（随母姓）",
+      "note": "叙事者之一"
+    },
+    {
+      "name": "洪泰岳",
+      "identity": "村支书",
+      "note": "坚定的合作社带头人（通说）"
+    },
+    {
+      "name": "蓝脸",
+      "identity": "单干户",
+      "note": "全国唯一单干户（通说）"
+    }
+  ],
+  "themes": [
+    "农民与土地：50年土地制度变迁（通说）。",
+    "轮回视角：以畜生之眼看人世——降低姿态的观察（通说）。",
+    "章回体与说书传统的当代复活（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：列为莫言后期代表作之一（Shengsi pilao (2006; Life and Death Are Wearing Me Out)）。",
+      "source": "B087"
+    },
+    {
+      "text": "Britannica：2012年诺贝尔文学奖；其小说 always marked by an impassioned humanism（始终带着炽热的人道主义——Britannica）。",
+      "source": "B087"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "章回体回目与说书腔。",
+      "轮回视角的叙事者切换。",
+      "高密东北乡地理与人物世系——先画谱系图。"
+    ],
+    "editions": [
+      "《生死疲劳》（作家出版社，通说待核）。"
+    ],
+    "order": "先读《红高粱家族》建立高密东北乡印象 → 本作 →《蛙》（通说对照）。"
+  },
+  "pending": [
+    "题名佛经出处（『生死疲劳，从贪欲起。少欲无为，身心自在』——《佛说八大人觉经》通说）待核。",
+    "红楼层奖等获奖记录待核。",
+    "六道轮回的动物顺序细节待核。"
+  ],
+  "sources": [
+    "B087"
+  ],
+  "year_source": "B087",
+  "author_source": "B087",
+  "related_works": [
+    "honggaoliang",
+    "huozhe",
+    "bailuyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《生死疲劳》六道轮回图",
+    "cards": [
+      {
+        "title": "西门闹",
+        "text": "被枪毙·不服",
+        "color": "antagonist"
+      },
+      {
+        "title": "驴·牛·猪·狗",
+        "text": "四世畜生观人世",
+        "color": "main"
+      },
+      {
+        "title": "猴",
+        "text": "第五世",
+        "color": "family"
+      },
+      {
+        "title": "蓝千岁",
+        "text": "大头婴儿·讲述者",
+        "color": "gold"
+      }
+    ]
+  }
+}

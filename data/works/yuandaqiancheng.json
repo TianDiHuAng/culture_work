@@ -1,0 +1,122 @@
+{
+  "id": "yuandaqiancheng",
+  "title": "远大前程",
+  "original_title": "Great Expectations",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "维多利亚时代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dickens",
+  "author_name": "查尔斯·狄更斯",
+  "year_display": "1860—1861年在《一年到头》周刊连载，1861年成书（Britannica）",
+  "year_sort": 1861,
+  "background": [
+    "Britannica（B204）：serialized in All the Year Round 1860–61; issued in book form in 1861。",
+    "萧伯纳盛赞其为狄更斯 most compactly perfect book（结构最紧凑完美的书——Britannica 转述）。"
+  ],
+  "outline": [
+    "孤儿皮普在肯特沼泽地由姐夫乔抚养；帮助过逃犯马格维奇（Britannica：The orphan Pip, raised in the Kent marshes……）。",
+    "获神秘资助赴伦敦成为绅士——以为出自郝薇香小姐，实为马格维奇（Britannica）。",
+    "马格维奇之死与皮普的跌落——'he matures into a humbler man'（Britannica：皮普成长为更谦卑的人），最终与艾丝黛拉重逢（Britannica）。"
+  ],
+  "characters": [
+    {
+      "name": "皮普（Pip）",
+      "identity": "孤儿→绅士",
+      "note": "叙述者"
+    },
+    {
+      "name": "马格维奇",
+      "identity": "逃犯·恩人",
+      "note": "真相的翻转点"
+    },
+    {
+      "name": "郝薇香小姐",
+      "identity": "隐居贵妇",
+      "note": "停滞的新娘（通说）"
+    },
+    {
+      "name": "艾丝黛拉",
+      "identity": "养女",
+      "note": "皮普的爱慕对象"
+    },
+    {
+      "name": "乔",
+      "identity": "铁匠姐夫",
+      "note": "善良的底色"
+    }
+  ],
+  "themes": [
+    "Britannica：a critique of Victorian society and as an exploration of memory and writing……perhaps more importantly a search for true identity（对维多利亚社会的批判、对记忆与书写的探索，而更重要的是对真实自我的寻找——Britannica）。",
+    "忠诚与同情高于财富地位：Pip learns loyalty and compassion outweigh wealth and status（Britannica 意译）。",
+    "『远大前程』的反讽：幻灭即成长（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：萧伯纳评 most compactly perfect book（结构最紧凑完美之书）。",
+      "source": "B204"
+    },
+    {
+      "text": "Britannica（B120，Dickens 条）：与《大卫·科波菲尔》并列的后期成熟之作（作者级定位）。",
+      "source": "B120"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "第一人称成人回望儿童视角。",
+      "维多利亚阶层与『绅士』观念。",
+      "两个结局（原版与修订版）的取舍。"
+    ],
+    "editions": [
+      "王科一译本（上海译文出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "可与《大卫·科波菲尔》对照：成长小说的两种笔法。"
+  },
+  "pending": [
+    "1861年单行本三卷细节待核。",
+    "两个结局的版本史细节待核。",
+    "王科一译本信息待核。"
+  ],
+  "sources": [
+    "B204",
+    "B120"
+  ],
+  "year_source": "B204",
+  "author_source": "B204",
+  "related_works": [
+    "dawei",
+    "shuangchengji",
+    "tabosi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《远大前程》皮普成长结构图",
+    "cards": [
+      {
+        "title": "沼泽孤儿",
+        "text": "肯特乡村",
+        "color": "family"
+      },
+      {
+        "title": "神秘恩主",
+        "text": "赴伦敦当绅士",
+        "color": "main"
+      },
+      {
+        "title": "真相翻转",
+        "text": "恩主是逃犯",
+        "color": "antagonist"
+      },
+      {
+        "title": "谦卑归来",
+        "text": "与艾丝黛拉重逢",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "annakaleni",
+  "title": "安娜·卡列尼娜",
+  "original_title": "Анна Каренина（Anna Karenina）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "tolstoy",
+  "author_name": "列夫·托尔斯泰",
+  "year_display": "1875—1877年连载发表（Britannica）",
+  "year_sort": 1876,
+  "background": [
+    "Britannica（B201）：Published in installments between 1875 and 1877——被认为 considered one of the pinnacles of world literature（世界文学的巅峰之一——Britannica）。",
+    "双线结构：安娜—渥伦斯基情事与列文—吉提婚事并行（Britannica：the parallel story……is thought to reflect Tolstoy's own marital experience）。"
+  ],
+  "outline": [
+    "The narrative centres on the adulterous affair between Anna, wife of Aleksey Karenin, and Count Vronsky, a young bachelor（Britannica：叙事围绕卡列宁之妻安娜与青年伯爵渥伦斯基的婚外情展开）。",
+    "列文线：庄园改革、婚姻与信仰求索——一般认为带托尔斯泰自传色彩（Britannica）。",
+    "结局：安娜在火车站 impulsively throws herself in front of the incoming train（冲向驶来的列车——Britannica）；列文线以信仰的顿悟收束（Britannica）。"
+  ],
+  "characters": [
+    {
+      "name": "安娜·卡列尼娜",
+      "identity": "贵妇",
+      "note": "追求爱情与真实"
+    },
+    {
+      "name": "卡列宁",
+      "identity": "丈夫",
+      "note": "官僚式体面（Britannica 语境）"
+    },
+    {
+      "name": "渥伦斯基",
+      "identity": "伯爵",
+      "note": "年轻军官"
+    },
+    {
+      "name": "列文",
+      "identity": "地主",
+      "note": "托尔斯泰的代言人（通说）"
+    },
+    {
+      "name": "吉提",
+      "identity": "公爵小姐",
+      "note": "列文之妻"
+    }
+  ],
+  "themes": [
+    "社会虚伪与个人真实：安娜受惩罚不是因为破坏道德本身，而是无视上流社会的双重规则（Britannica 意译：Anna is punished not for breaking the moral code itself but for ignoring the proprieties demanded by hypocritical high society）。",
+    "庄园改革与信仰求索（列文线，通说）。",
+    "题词：Vengeance is mine; I will repay（伸冤在我，我必报应——《罗马书》，Britannica 确认为题词）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：considered one of the pinnacles of world literature（世界文学巅峰之一）。",
+      "source": "B201"
+    },
+    {
+      "text": "Britannica（B043，Tolstoy 条）：托尔斯泰两大名作为 War and Peace 与 Anna Karenina（作者级定位）。",
+      "source": "B043"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双线并行结构——两线交替阅读法。",
+      "俄国人名（名字+父称+姓）——先记简称。",
+      "农事改革讨论段（列文线）。"
+    ],
+    "editions": [
+      "草婴译本（上海译文出版社，通说待核）。",
+      "周扬/谢素台译本（人民文学出版社，通说待核）。",
+      "马特尔（Constance Garnett）英译本（公有领域）。"
+    ],
+    "order": "先安娜线通读 → 回看列文线 → 再并读两线收束章。"
+  },
+  "pending": [
+    "初版单行本1878年（圣彼得堡说）待核。",
+    "各中文译本出版信息待核。",
+    "题词俄文原文与出处（罗马书12:19）核对。"
+  ],
+  "sources": [
+    "B201",
+    "B043"
+  ],
+  "year_source": "B201",
+  "author_source": "B201",
+  "related_works": [
+    "zhanzheng",
+    "fuzhan",
+    "baofali"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《安娜·卡列尼娜》双线结构图",
+    "nodes": [
+      {
+        "id": "anna",
+        "label": "安娜",
+        "x": 340,
+        "y": 120,
+        "color": "main",
+        "sub": "女主角"
+      },
+      {
+        "id": "karenin",
+        "label": "卡列宁",
+        "x": 120,
+        "y": 120,
+        "color": "plain",
+        "sub": "丈夫"
+      },
+      {
+        "id": "vronsky",
+        "label": "渥伦斯基",
+        "x": 560,
+        "y": 120,
+        "color": "family",
+        "sub": "伯爵"
+      },
+      {
+        "id": "levin",
+        "label": "列文",
+        "x": 170,
+        "y": 330,
+        "color": "main",
+        "sub": "自传色彩"
+      },
+      {
+        "id": "kitty",
+        "label": "吉提",
+        "x": 510,
+        "y": 330,
+        "color": "family",
+        "sub": "公爵小姐"
+      }
+    ],
+    "edges": [
+      {
+        "a": "anna",
+        "b": "karenin",
+        "label": "夫妻"
+      },
+      {
+        "a": "anna",
+        "b": "vronsky",
+        "label": "婚外情"
+      },
+      {
+        "a": "levin",
+        "b": "kitty",
+        "label": "婚姻"
+      },
+      {
+        "a": "vronsky",
+        "b": "kitty",
+        "label": "曾被倾慕"
+      }
+    ]
+  }
+}

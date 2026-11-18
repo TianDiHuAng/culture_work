@@ -1,0 +1,116 @@
+{
+  "id": "tanxiangxing",
+  "title": "檀香刑",
+  "original_title": "檀香刑（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·戏曲腔）",
+  "author_id": "moyan",
+  "author_name": "莫言",
+  "year_display": "2001年出版（Britannica：Tanxiang xing (2001; Sandalwood Death)）",
+  "year_sort": 2001,
+  "background": [
+    "Britannica（Mo Yan 条）：later works included the novels Tanxiang xing (2001; Sandalwood Death)……——本作即其中之一。",
+    "背景：1900年前后山东高密，义和团运动与德国殖民铁路（通说）。"
+  ],
+  "outline": [
+    "戏班班主孙丙因妻被德人辱杀而率猫腔班起义，被擒（通说）。",
+    "刽子手赵甲为孙丙设计『檀香刑』——以檀香木从身体贯入的极刑（通说）。",
+    "眉娘（孙丙之女、赵甲之儿媳）多方奔走；最后刑台上猫腔悲歌（通说）。",
+    "叙事者轮换：眉娘、赵甲、孙丙、钱丁等多声部（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "孙丙",
+      "identity": "猫腔班主",
+      "note": "抗德被刑者"
+    },
+    {
+      "name": "眉娘",
+      "identity": "孙丙之女",
+      "note": "县令情人"
+    },
+    {
+      "name": "赵甲",
+      "identity": "刽子手",
+      "note": "刑术的『匠人』（通说）"
+    },
+    {
+      "name": "钱丁",
+      "identity": "县令",
+      "note": "眉娘情人·良知挣扎（通说）"
+    }
+  ],
+  "themes": [
+    "酷刑与看客：刑罚成为表演——国民性批判的延续（通说）。",
+    "民间戏曲（猫腔）与叙事结构互文（通说）。",
+    "暴力的美学化及其危险（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：列为莫言后期代表作之一（Tanxiang xing (2001; Sandalwood Death)）。",
+      "source": "B087"
+    },
+    {
+      "text": "Britannica：莫言的笔法 from myth to realism, from satire to love story——本作是神话—历史—戏曲混合的典型。",
+      "source": "B087"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多声部叙事（凤头—猪肚—豹尾结构，通说待核）。",
+      "猫腔戏词穿插。",
+      "历史背景：义和团与德国殖民。"
+    ],
+    "editions": [
+      "《檀香刑》（作家出版社，通说待核）。"
+    ],
+    "order": "可先读《生死疲劳》或《红高粱家族》入门莫言语言，再读本作。"
+  },
+  "pending": [
+    "凤头猪肚豹尾结构说待核。",
+    "檀香刑刑名与情节细节待核。",
+    "猫腔是否实有此戏种（地方戏考订）待核。"
+  ],
+  "sources": [
+    "B087"
+  ],
+  "year_source": "B087",
+  "author_source": "B087",
+  "related_works": [
+    "honggaoliang",
+    "shengsitiaolao",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《檀香刑》人物与刑台结构图",
+    "cards": [
+      {
+        "title": "孙丙",
+        "text": "猫腔班主·抗德",
+        "color": "main"
+      },
+      {
+        "title": "眉娘",
+        "text": "女儿·奔走",
+        "color": "family"
+      },
+      {
+        "title": "赵甲",
+        "text": "刽子手·行刑",
+        "color": "antagonist"
+      },
+      {
+        "title": "钱丁",
+        "text": "县令·良知",
+        "color": "gold"
+      }
+    ]
+  }
+}

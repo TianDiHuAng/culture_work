@@ -1,0 +1,116 @@
+{
+  "id": "bielmerangzou",
+  "title": "别让我走",
+  "original_title": "Never Let Me Go",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "ishiguro",
+  "author_name": "石黑一雄",
+  "year_display": "2005年出版（Britannica）；石黑一雄2017年诺贝尔文学奖（B130 作者页核对）",
+  "year_sort": 2005,
+  "background": [
+    "Britannica（B205）：Kazuo Ishiguro's Never Let Me Go takes place in an alternative late-20th-century England in which human clones are created to serve as organ donors for non-clones（架空20世纪晚期英格兰：克隆人被制造出来为常人捐献器官——Britannica）。",
+    "Britannica（B130）：2005年出版；through the story of three human clones warns of the ethical quandaries raised by genetic engineering（借三个克隆人的故事警示基因工程的伦理困境——Britannica）。"
+  ],
+  "outline": [
+    "凯西·H 回忆黑尔舍姆寄宿学校岁月：与汤姆、露丝的三角友情与爱情（Britannica 语境：Kathy H. works as a carer for donors+通说）。",
+    "『捐献』制度渐次揭开：黑尔舍姆背后的目的——艺术的『证明』实验（通说）。",
+    "凯西最终成为看护者（carer），在诺福克面对即将开始的捐献（Britannica 语境+通说）。"
+  ],
+  "characters": [
+    {
+      "name": "凯西·H",
+      "identity": "看护者",
+      "note": "叙述者"
+    },
+    {
+      "name": "汤姆",
+      "identity": "捐赠者",
+      "note": "凯西的爱人"
+    },
+    {
+      "name": "露丝",
+      "identity": "捐赠者",
+      "note": "凯西密友"
+    },
+    {
+      "name": "露西小姐等",
+      "identity": "黑尔舍姆教师",
+      "note": "良知不安的旁观者（通说）"
+    }
+  ],
+  "themes": [
+    "克隆伦理：Britannica——warns of the ethical quandaries raised by genetic engineering（警示基因工程的伦理困境）。",
+    "记忆与叙述：石黑一雄一贯的『不可靠的平静』（B130 作者级风格定位）。",
+    "生命长度与意义：有限的寿命如何被度过（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2005年出版，2010年改编电影（B130/B205 语境）。",
+      "source": "B205"
+    },
+    {
+      "text": "Britannica（B130）：石黑一雄2017年获诺贝尔文学奖——本作为其代表作之一（作者级定位）。",
+      "source": "B130"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "克制的语调与巨大的黑暗——读出『平静下的恐怖』。",
+      "架空设定（1990s 英国）与现实边界。"
+    ],
+    "editions": [
+      "《别让我走》（译林出版社等版本，通说待核）。",
+      "英文原版（Faber and Faber，通说待核）。"
+    ],
+    "order": "先《长日留痕》再本作：石黑一雄式叙述者的进阶。"
+  },
+  "pending": [
+    "黑尔舍姆『证明』实验细节待核。",
+    "各中文译本信息待核。",
+    "电影2010年（Mark Romanek 导演——通说待核）。"
+  ],
+  "sources": [
+    "B205",
+    "B130"
+  ],
+  "year_source": "B205",
+  "author_source": "B205",
+  "related_works": [
+    "changri",
+    "shinv",
+    "meilixinshijie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《别让我走》三人结构图",
+    "cards": [
+      {
+        "title": "黑尔舍姆",
+        "text": "寄宿学校·秘密",
+        "color": "family"
+      },
+      {
+        "title": "凯西·H",
+        "text": "叙述者·看护者",
+        "color": "main"
+      },
+      {
+        "title": "汤姆与露丝",
+        "text": "友情与爱情",
+        "color": "main"
+      },
+      {
+        "title": "捐献制度",
+        "text": "器官·宿命",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "dongwunongchang",
+  "title": "动物农场",
+  "original_title": "Animal Farm（动物庄园/动物农场）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "政治寓言小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "orwell",
+  "author_name": "乔治·奥威尔",
+  "year_display": "1944年写毕，1945年8月出版（Britannica：In 1944 Orwell finished writing Animal Farm……when it appeared in August 1945, Animal Farm made him famous）",
+  "year_sort": 1945,
+  "background": [
+    "Britannica（B203）：Animal Farm 为 a political fable based on the story of the Russian Revolution and its betrayal by Joseph Stalin（以俄国革命及斯大林对其背叛为底本的政治寓言——Britannica）。",
+    "简单寓言体是刻意的：to broaden its audience（为扩大读者面——Britannica）。"
+  ],
+  "outline": [
+    "动物驱逐庄园主琼斯，建立平等社会（Britannica：farm animals overthrow their human owners and establish their own egalitarian society）。",
+    "猪（拿破仑与雪球）成为新统治者；七诫被逐条篡改（Britannica 语境+通说）。",
+    "结局：猪与人无异——the pigs become dictators more oppressive than the humans they replaced（猪成为比人类更压迫的独裁者——Britannica）。"
+  ],
+  "characters": [
+    {
+      "name": "拿破仑（猪）",
+      "identity": "独裁者",
+      "note": "斯大林的影射（Britannica 语境）"
+    },
+    {
+      "name": "雪球（猪）",
+      "identity": "革命理论家",
+      "note": "被放逐（托洛茨基影射，通说）"
+    },
+    {
+      "name": "拳师（马）",
+      "identity": "劳工",
+      "note": "『我要更努力』的悲剧（通说）"
+    },
+    {
+      "name": "本杰明（驴）",
+      "identity": "怀疑者",
+      "note": "冷眼旁观者（通说）"
+    }
+  ],
+  "themes": [
+    "革命被背叛：理想如何变成新的压迫（Britannica 语境）。",
+    "语言与宣传：口号与戒律的篡改即权力的篡改（通说）。",
+    "原文名句：All animals are equal, but some animals are more equal than others.（所有动物一律平等，但有些动物比其他动物更平等——原文名句，Britannica 引用；中译为本库试译）"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：出版即成名——when it appeared in August 1945, Animal Farm made him famous。",
+      "source": "B203"
+    },
+    {
+      "text": "Britannica（B052，Orwell 条）：与《一九八四》并列其两部传世之作（作者级定位）。",
+      "source": "B052"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "苏联史影射对照表（斯大林/托洛茨基/季诺维也夫等——通说）。",
+      "寓言与史实的对应尺度——不宜逐字比附。"
+    ],
+    "editions": [
+      "《动物农场》（上海译文出版社译文经典，通说待核）。",
+      "英文原版（公有领域渐近，澳大利亚等地已入公版）。"
+    ],
+    "order": "先本作后《一九八四》：寓言入门，反乌托邦进阶。"
+  },
+  "pending": [
+    "1945年8月17日英国初版细节待核。",
+    "各中文译本信息待核。",
+    "七诫逐条原文核对。"
+  ],
+  "sources": [
+    "B203",
+    "B052"
+  ],
+  "year_source": "B203",
+  "author_source": "B203",
+  "related_works": [
+    "yijiubasi",
+    "wuhao",
+    "meilixinshijie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《动物农场》革命变质四步图",
+    "cards": [
+      {
+        "title": "起义",
+        "text": "驱逐琼斯",
+        "color": "family"
+      },
+      {
+        "title": "内斗",
+        "text": "拿破仑逐雪球",
+        "color": "antagonist"
+      },
+      {
+        "title": "篡改",
+        "text": "七诫逐步修改",
+        "color": "main"
+      },
+      {
+        "title": "终局",
+        "text": "猪脸与人无异",
+        "color": "gold"
+      }
+    ]
+  }
+}
