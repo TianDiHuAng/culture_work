@@ -1,0 +1,42 @@
+{
+  "id": "proust",
+  "name": "普鲁斯特",
+  "foreign_name": "Marcel Proust（马塞尔·普鲁斯特，1871-07-10 — 1922-11-18）",
+  "country": "法国",
+  "birth": "1871-07-10",
+  "death": "1922-11-18",
+  "birth_year": 1871,
+  "death_year": 1922,
+  "era": "现当代",
+  "summary": "普鲁斯特，巴黎人（父为天主教医生、母为犹太富商之女，Britannica），20世纪最具革命性的小说家。哮喘终生，自1905年起闭门写作；以七卷《追忆似水年华》（1913—27）把'时间'变成小说的真正主角，'吉尼斯最长小说'（逾130万词，Britannica）。1919年《在如花少女们身旁》获龚古尔奖（Britannica）。'玛德莱娜'与'普鲁斯特式'（ involuntary recall）进入世界语言（Britannica：the adjective 'Proustian'）。",
+  "timeline": [
+    {"year": "1871-07-10", "text": "生于巴黎近郊欧特伊（Britannica：Born July 10, 1871, in Auteuil near Paris）；哮喘伴随终生（Britannica：he suffered lifelong asthma）。", "src": "B091"},
+    {"year": "1889—1890", "text": "入伍一年（通说待核）；后入索邦与法学院旁听，出入沙龙。", "src": "B091"},
+    {"year": "1896", "text": "首著《欢乐与时日》出版（通说待核）。", "src": "B091"},
+    {"year": "1900—1905", "text": "翻译、评论罗斯金（通说待核）；1903父、1905母相继去世（Britannica 语境）——写作的转折。", "src": "B091"},
+    {"year": "1906—1913", "text": "闭门于 cork-lined（软木贴壁）房间写作（通说待核）；1909年'玛德莱娜事件'触发全书结构（Britannica：The famous madeleine scene was inspired by a real 1909 incident）。", "src": "B091"},
+    {"year": "1913", "text": "《去斯万家那边》自费出版（Grasset，因出版社拒绝——通说待核）；《在花季少女影下》被《新法兰西评论》拒绝（通说待核）。", "src": "B091"},
+    {"year": "1919", "text": "《在如花少女们身旁》获龚古尔奖（Britannica：Won the Prix Goncourt in 1919）；移居路易吉要塞街。", "src": "B091"},
+    {"year": "1920—1922", "text": "《盖尔芒特那边》《所多玛与蛾摩拉》陆续出版；1922-11-18死于肺炎（Britannica：died November 18, 1922, Paris of pneumonia），未完成的最后三卷身后出版至1927年（通说待核）。", "src": "B091"}
+  ],
+  "major_works": [
+    {"work_id": "zhuiyi", "note": "1913—27；七卷巨著"},
+    {"title": "欢乐与时日（1896）", "note": "首著（通说）"},
+    {"title": "驳圣伯夫（身后出版）", "note": "写作观（通说待核）"}
+  ],
+  "style": [
+    "'普鲁斯特式'（Proustian，Britannica）：非自主记忆（involuntary recall）——感官（玛德莱娜的味觉）瞬间唤醒完整的过去；'与其说是怀旧不如说是时间研究'（通说概括）。",
+    "超长句与嵌套从句：一个句子是一个'心理时间'的完整曲线（通说）。",
+    "社交世界的讽刺：沙龙、势利、同性恋题材的大胆处理（Britannica 语境：活跃于德雷福斯案——'helping organize petitions despite risking social ostracism'）。",
+    "'寓言式的求真'：Britannica 称小说为'an 'allegorical search for truth' with a circular structure ending in 'time regained'（以'重现的时光'收束的圆形结构）。"
+  ],
+  "status": "Britannica 记《追忆似水年华》被吉尼斯列为最长小说（逾130万词，Britannica：listed by Guinness as the longest novel, exceeding 1,300,000 words），并称普鲁斯特以'不自觉记忆'开创的小说美学重塑了20世纪文学——伍尔夫、乔伊斯并列的现代主义三峰（通说待核）。'普鲁斯特式'成为世界语言（Britannica：gave rise to the adjective 'Proustian'）。",
+  "sources": ["B091"],
+  "dates_source": "B091",
+  "pending": [
+    "《去斯万家那边》1913年11月自费出版（Grasset 版600册说，通称）细节待核。",
+    "NRF 拒稿（法雷/加尔芒争议）的往来信件待核。",
+    "身后三卷（《女囚》《女逃亡者》《重现的时光》）出版年份（1923/1925/1927）待核。",
+    "罗斯金翻译书目（《亚眠的圣经》等）待核。"
+  ]
+}

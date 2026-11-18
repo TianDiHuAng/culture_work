@@ -1,0 +1,90 @@
+{
+  "id": "zhuiyi",
+  "title": "追忆似水年华",
+  "original_title": "À la recherche du temps perdu / In Search of Lost Time（追忆似水年华，七卷）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（意识流/时间小说，七卷）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "proust",
+  "author_name": "马塞尔·普鲁斯特",
+  "year_display": "1913—1927年（首卷1913自费出版；末三卷身后出版至1927——Britannica 记1913–27）",
+  "year_sort": 1920,
+  "background": [
+    "体量与地位：Britannica——七卷本，'listed by Guinness as the longest novel, exceeding 1,300,000 words'（逾130万词，吉尼斯认证最长小说）；被普遍视为现代主义文学的奠基之作（通说）。",
+    "结构起源（Britannica）：1909年真实事件——茶与玛德莱娜点心触发的非自主记忆——成为全书的'开关'（'The famous madeleine scene was inspired by a real 1909 incident where tea and a rusk biscuit triggered involuntary memory'）。",
+    "出版史：1913年首卷遭出版社拒绝后自费出版；1919年第二卷获龚古尔奖（Britannica）；1922年作者死于肺炎，最后三卷身后出版至1927年（Britannica 语境：1913–27）。"
+  ],
+  "outline": [
+    "第一卷《去斯万家那边》：贡布雷的童年——玛德莱娜点心把'贡布雷的全部'从茶杯中升起（原文意，公有领域）；斯万的恋情（奥黛特）与'我'对吉尔贝特的初恋；盖尔芒特远方的想象。",
+    "第二、三卷《在如花少女们身旁》《盖尔芒特那边》：巴尔贝克海滨的少女群、进入贵族沙龙世界——叙述者的社交教育与幻灭。",
+    "第四、五卷《所多玛与蛾摩拉》《女囚》：夏吕斯的同性恋世界（'所多玛'）与阿尔贝蒂娜的神秘——'我'把她'囚禁'在家中，嫉妒成为认知方式。",
+    "第六卷《女逃亡者》：阿尔贝蒂娜骑马出走、坠马而死——死后才真正占有（通说解读）。",
+    "第七卷《重现的时光》：一战后的巴黎沙龙——昔日人物衰老变形的'化装舞会'；'我'在雨天踩石板的瞬间找回时间：决定写作这部小说——全书由此成为'已写成之书'的预言（Britannica：circular structure ending in 'time regained'）。"
+  ],
+  "characters": [
+    {"name": "叙述者'我'（马塞尔）", "identity": "作家 aspirant", "note": "'将成为作家的人'——全书的自我教育与失败史"},
+    {"name": "斯万", "identity": "犹太裔收藏家", "note": "'为奥黛特吃苦'的恋爱标本——其悲剧预言叙述者的情史"},
+    {"name": "奥黛特·德·克雷西", "identity": "交际花", "note": "'一点玫瑰色的性感'（通说）——欲望的客体与幻灭"},
+    {"name": "夏吕斯男爵", "identity": "盖尔芒特家亲王", "note": "文学最深刻的同性恋人物之一：傲慢、残忍与悲剧（通说）"},
+    {"name": "阿尔贝蒂娜", "identity": "巴尔贝克少女", "note": "'捉不住的逃亡者'——嫉妒叙事的核心"},
+    {"name": "盖尔芒特公爵夫人、维尔迪兰夫人", "identity": "沙龙女主人", "note": "两个'社交宇宙'的太阳——势利的神学与物理学"},
+    {"name": "巴尔贝克、贡布雷", "identity": "地点即人物", "note": "全书最稳定的'角色'是地点与时间（通说）"}
+  ],
+  "themes": [
+    "时间即主角：物理时间（钟表）与心理时间（记忆）的分离——'重拾的时间'是唯一真实（Britannica：allegorical search for truth）。",
+    "非自主记忆：玛德莱娜/石板/勺声——'感官钉子'唤醒的过去才是过去（Britannica：involuntary recall）。",
+    "爱情的认识论：我们爱的不是对方而是自己的幻想（斯万—奥黛特=叙述者—阿尔贝蒂娜的镜像）——嫉妒作为'阅读术'（通说）。",
+    "社交势力的天体物理：沙龙的升降、姓名的贬值——贵族文化的世纪末解剖（通说）。",
+    "艺术特点：超长句的呼吸节奏、隐喻的数学（'钟楼像麦秆'）、悲剧与滑稽的不可区分（Britannica 语境）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Proust 条目）：吉尼斯最长小说；'Proustian'一词；德雷福斯案的参与者。", "source": "B091"},
+    {"text": "Britannica：圆形结构终于'重现的时光'——对后世长篇结构（贝克特、布尔加科夫、莫言《生死疲劳》轮回——通说待核）的启示。", "source": "B091"},
+    {"text": "学术工业：'普鲁斯特学'（Proust studies）的国际规模（通说待核）。", "source": "B091"},
+    {"text": "中译：李恒基/徐继曾等合译《追忆似水年华》（译林出版社，通说待核）与周克希独译卷。", "source": "B091"}
+  ],
+  "reading": {
+    "difficulties": [
+      "七卷260万字——以'年'为单位的阅读，建议按卷推进、做人物笔记。",
+      "超长句（法语句法）中译会断成短句——接受'慢'是本书的节奏。",
+      "沙龙人名姓氏（盖尔芒特、维尔迪兰）的升降是暗线——注意'姓名的贬值'主题。"
+    ],
+    "editions": [
+      "译林出版社《追忆似水年华》（十五人合译，通说待核）：通行全译。",
+      "周克希卷（《在少女们身边》等，通说待核）：独立译笔。",
+      "英译：C.K. Scott Moncrieff 旧译修订版（Modern Library）或 Lydia Davis 新译卷一（Penguin，通说待核）。"
+    ],
+    "order": "先读卷一《贡布雷》开篇至玛德莱娜段（约60页）建立方法 → 卷二巴尔贝克 → 卷五《女囚》（嫉妒巅峰）→ 最后卷七《重现的时光》。其余卷按兴趣。"
+  },
+  "pending": [
+    "首卷自费出版（1913年11月14日，Grasset，600册说）待核。",
+    "NRF 拒稿信（法雷）与加尔芒 controversy 待核。",
+    "身后卷出版年（1923/1925/1927）待核。",
+    "李恒基、周克希等译本的分工与出版年待核。"
+  ],
+  "sources": ["B091"],
+  "year_source": "B091",
+  "author_source": "B091",
+  "related_works": ["juwairen", "youlisisi", "qikefuxuan"],
+  "svg": {
+    "type": "ring",
+    "width": 680,
+    "height": 440,
+    "radius": 150,
+    "caption": "《追忆似水年华》七卷与记忆环结构图",
+    "center": {"label": "玛德莱娜"},
+    "nodes": [
+      {"label": "卷一 斯万", "color": "family"},
+      {"label": "卷二 少女们", "color": "family"},
+      {"label": "卷三 盖尔芒特", "color": "family"},
+      {"label": "卷四 所多玛", "color": "plain"},
+      {"label": "卷五 女囚", "color": "antagonist"},
+      {"label": "卷六 女逃亡者", "color": "antagonist"},
+      {"label": "卷七 重现时光", "color": "main"},
+      {"label": "贡布雷", "color": "gold"}
+    ]
+  }
+}
