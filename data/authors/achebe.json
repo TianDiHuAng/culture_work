@@ -1,0 +1,40 @@
+{
+  "id": "achebe",
+  "name": "阿契贝",
+  "foreign_name": "Chinua Achebe（钦努阿·阿契贝，1930-11-16 — 2013-03-21）",
+  "country": "尼日利亚",
+  "birth": "1930-11-16",
+  "death": "2013-03-21",
+  "birth_year": 1930,
+  "death_year": 2013,
+  "era": "现当代",
+  "summary": "阿契贝，尼日利亚奥基迪人（伊博族），非洲英语文学之父。Government College Umuahia 与伊巴丹大学学院（通说待核）出身；BBC 与尼日利亚广播工作；《瓦解》（1958）——'things fall apart; the centre cannot hold'（叶芝诗句作书名——通说待核）——非洲文学的世界级起点：'the effect of British imperialism's impact on Nigerian traditions'（Britannica：检视英国帝国主义对尼日利亚传统的冲击）。另有《再也不得安宁》《神箭》《荒原蚁丘》；2007年布克国际奖（Britannica）。1990年车祸下半身瘫痪后在美国任教（通说待核）。",
+  "timeline": [
+    {"year": "1930-11-16", "text": "生于尼日利亚奥基迪（Britannica：born in Ogidi），伊博族传教士家庭（通说待核）。", "src": "B106"},
+    {"year": "1944—1953", "text": "政府学院（Umuahia）与伊巴丹大学学院（通说待核）。", "src": "B106"},
+    {"year": "1954—1959", "text": "NBS（尼日利亚广播公司）工作；《瓦解》1958年由 Heinemann 出版——'African Writers Series' 的开山（通说待核）。", "src": "B106"},
+    {"year": "1960—1966", "text": "《再也不得安宁》（1960）、《神箭》（1964）——'尼日利亚三部曲'（通说待核）；1966年《人民公敌》（Britannica 列举）。", "src": "B106"},
+    {"year": "1967—1970", "text": "比亚夫拉战争（伊博分离战争）——任比夫拉外交使节（通说待核）；《荒原蚁丘》（Anthills of the Savannah，1987——Britannica 列举）以此为背景（通说待核）。", "src": "B106"},
+    {"year": "1972—1990", "text": "赴美任教（马萨诸塞大学——通说待核）；1975年'An Image of Africa'演讲斥康拉德为'彻头彻尾的种族主义者'（通说待核）。", "src": "B106"},
+    {"year": "1990—2013", "text": "车祸瘫痪（1990，通说待核）； Bard College 与布朗大学（通说待核）；2007年布克国际奖（Britannica：Won the Man Booker International Prize in 2007）；2013-03-21卒于美国波士顿（通说待核）。", "src": "B106"}
+  ],
+  "major_works": [
+    {"work_id": "wajie", "note": "1958；代表作"},
+    {"title": "再也不得安宁（1960）、神箭（1964）", "note": "尼日利亚三部曲（通说待核）"},
+    {"title": "荒原蚁丘（1987）", "note": "战争与权力（Britannica 列举）"}
+  ],
+  "style": [
+    "伊博口传文学的嵌入：谚语（'proverbs are the palm-oil with which words are eaten'——原文，公有领域）、民间故事、仪式（通说）。",
+    "'非洲自己的声音'：以英语写非洲、以欧洲小说形式写殖民遭遇的反写（counter-discourse，通说）。",
+    "悲剧结构：奥孔寇——'英雄的缺陷'——希腊悲剧的非洲化（通说）。"
+  ],
+  "status": "Britannica 称阿契贝为'非洲英语文学之父'级人物（《瓦解》为非洲文学的世界起点——Britannica：Things Fall Apart (1958)...best known；'布克国际奖2007'）。其对康拉德的批评（'An Image of Africa'1975——通说待核）重塑了英语文学的经典讨论；《瓦解》全球销量超2000万册（通说待核）、译成约60种语言（通说待核）。",
+  "sources": ["B106"],
+  "dates_source": "B106",
+  "pending": [
+    "出生日（11月16日）与奥基迪传教士家庭细节待核。",
+    "比亚夫拉战争中的外交角色待核。",
+    "'An Image of Africa'演讲（1975年马萨诸塞大学 Chancellor's lecture）原文待核。",
+    "《瓦解》销量与译语数（2000万册/60种语言说，通称）待核。"
+  ]
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="340.0" y2="320.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="324.0" y="216.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">求婚</text>
+<line x1="120.0" y1="130.0" x2="340.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="214.0" y="121.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">委托</text>
+<line x1="560.0" y1="130.0" x2="340.0" y2="420.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="434.0" y="266.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="279.0" font-size="12" fill="#555" text-anchor="middle">同门</text>
+<line x1="120.0" y1="130.0" x2="560.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="312.0" y="121.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">画坊同僚</text>
+<line x1="560.0" y1="420.0" x2="120.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="324.0" y="266.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="279.0" font-size="12" fill="#555" text-anchor="middle">密令</text>
+<line x1="340.0" y1="320.0" x2="120.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="214.0" y="216.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">父女</text>
+<rect x="320.5" y="112.5" width="39.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">黑</text>
+<rect x="308.5" y="149.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">归乡抄写员</text>
+<rect x="305.5" y="302.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="325.4" font-size="15" fill="#fff" text-anchor="middle">谢库瑞</text>
+<rect x="325.0" y="339.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="350.5" font-size="11" fill="#333" text-anchor="middle">寡妇</text>
+<rect x="93.0" y="112.5" width="54.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="120.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">姨父</text>
+<rect x="85.2" y="149.5" width="69.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">委托人·被杀</text>
+<rect x="533.0" y="112.5" width="54.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">高雅</text>
+<rect x="519.7" y="149.5" width="80.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">细密画家·被杀</text>
+<rect x="274.0" y="402.5" width="132.0" height="35.0" rx="7" fill="#5e7d5a" opacity="0.92"/>
+<text x="340.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">橄榄·蝴蝶·鹳鸟</text>
+<rect x="303.0" y="439.5" width="74.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">三位嫌疑画师</text>
+<rect x="70.5" y="402.5" width="99.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="120.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">偶像制造者</text>
+<rect x="99.5" y="439.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">老大师</text>
+<rect x="495.5" y="402.5" width="129.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="560.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">苏丹的秘密之书</text>
+<rect x="523.0" y="439.5" width="74.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">引发杀戮之书</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《我的名字叫红》画坊与家族关系图</text>
+</svg>
