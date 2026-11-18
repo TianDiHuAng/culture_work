@@ -1,0 +1,93 @@
+{
+  "id": "dengdaigou",
+  "title": "等待戈多",
+  "original_title": "En attendant Godot / Waiting for Godot（等待戈多，两幕剧）",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "话剧（两幕剧，荒诞派戏剧）",
+  "genre_group": "戏剧",
+  "language": "法语原作（作者自译英文）",
+  "author_id": "beckett",
+  "author_name": "塞缪尔·贝克特",
+  "year_display": "1953年1月5日巴黎首演（泰阿特罗·德·巴比伦剧院，通说待核）",
+  "year_sort": 1953,
+  "background": [
+    "创作（Britannica）：贝克特——英法双语写作的爱尔兰剧作家（1906—1989）——以法语写成此剧（其自述'用法语写作因为简单'大意，通说待核），自译英语。1953年1月巴黎首演（Britannica：first staged in Paris in January 1953）。",
+    "荒诞派戏剧：Esslin（Britannica 撰稿人）以本书为'荒诞派戏剧'（Theatre of the Absurd）的命名性代表作——首演之初观众离席、批评界哗然，数年后成为经典（通说待核）。",
+    "旧金山监狱首演（1957年圣昆廷监狱为1400名囚犯演出——通说待核）成为'最懂这出戏的观众'的著名公案。"
+  ],
+  "outline": [
+    "两幕结构完全对称：黄昏的乡间路口，一棵秃树（第二幕长出几片叶子）。流浪汉弗拉基米尔（狄狄）与爱斯特拉冈（戈戈）在等一个叫戈多的人——'戈多来了咱们就有救了'（原文意，公有领域）。",
+    "波卓与幸运儿：地主波卓用绳子牵着'幸运儿'上场——幸运儿负重、听命、'思想'（一段令人崩溃的长篇独白剧——通说待核）；次日再来时波卓失明、幸运儿失语。",
+    "小男孩：每幕结尾一个男孩来传话——'戈多先生今晚不来，明晚准来'（原文意，待核）。男孩是否同一个孩子？'我从来没有见过他'——两位老人甚至怀疑起自己的记忆。",
+    "结尾：'咱们走吧？'（他们不动。）'嗯？咱们走不走？'（他们不动。）——幕落。观众等待的'行动'永远不来：'什么也没发生，发生了两次'（评论家 Vivian Mercier 的著名评语——通说待核）。"
+  ],
+  "characters": [
+    {"name": "弗拉基米尔（狄狄）", "identity": "流浪汉", "note": "'保持清醒者'：记住昨天、思考、维护约定——'我们是有觉悟的'（原文意，待核）"},
+    {"name": "爱斯特拉冈（戈戈）", "identity": "流浪汉", "note": "靴子、萝卜与睡意——身体性的人"},
+    {"name": "波卓", "identity": "地主", "note": "第二幕'失明'——时间与暴力的报应（通说解读）"},
+    {"name": "幸运儿", "identity": "奴隶", "note": "'思想'独白：以最学术的语言说最荒诞的话（通说待核）"},
+    {"name": "小男孩", "identity": "信使", "note": "戈多的不来的证明者"},
+    {"name": "戈多", "identity": "从未出现", "note": "'God'与'Godot'的关系是最大悬案（贝克特本人拒绝解释：'如果我知道，早在剧中说了'——通说待核）"}
+  ],
+  "themes": [
+    "等待的结构：人类境况的极简模型——'希望'与'打发时间'的辩证；两幕的重复=生活本身（通说）。",
+    "对话的崩解：两人对话常在'嗯？'与矛盾中折返——语言不再是交流工具（Britannica：minimalist, stripped-down writing focused on existential themes）。",
+    "贫困与依附：波卓—幸运儿、狄狄—戈戈的主奴镜像（通说解读）。",
+    "不确定性的伦理：连'是不是昨天的树'都不确定——记忆与存在的不稳（通说）。",
+    "艺术特点：对称结构、循环对话、沉默与动作的记谱法（贝克特后期的'精确舞台'）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Beckett 条目）：'his most celebrated play'（其最受赞颂的剧本）；贝克特1969年获诺贝尔奖但拒绝赴斯德哥尔摩演讲（Britannica）。", "source": "B094"},
+    {"text": "Britannica（Esslin 撰）：荒诞派戏剧的命名与经典化——本剧为教科书案例。", "source": "B094"},
+    {"text": "全球上演：从圣昆廷监狱到战争前线的演出史（通说待核）；'Waiting for Godot'成为日常习语（本条为语言事实，词典待核）。", "source": "B094"},
+    {"text": "中文接受：1960s台湾《剧场》杂志引介、1980s施咸荣译本与高行健的推动（通说待核）。", "source": "B094"}
+  ],
+  "reading": {
+    "difficulties": [
+      "'没有情节'——两幕几乎重复：对照细节的微小变化（树的叶子、波卓的失明）是关键。",
+      "对话的'废话'是节奏设计——朗读体验比默读有效。",
+      "戈多是谁？——贝克特拒绝回答，保持开放是唯一正确的读法。"
+    ],
+    "editions": [
+      "施咸荣译《等待戈多》（人民文学出版社《荒诞派戏剧选》，通说待核）：通行译本。",
+      "《贝克特选集》（湖南文艺出版社，通说待核）：研究型。",
+      "英文本：Grove Press 版（含 Beckett 自注，通说待核）。"
+    ],
+    "order": "通读两幕 → 对照两幕差异清单 → 观看录像（1988年 Beckett 自导法兰西喜剧院版等，通说待核）→ 讨论戈多谜题与波卓的'失明'。"
+  },
+  "pending": [
+    "首演日期与场地（1953-01-05 Théâtre de Babylone，导演 Roger Blin 说）待核。",
+    "圣昆廷监狱演出（1957 SF Actor's Workshop）细节待核。",
+    "施咸荣译本信息待核。",
+    "Vivian Mercier 'nothing happens, twice'评语出处（《爱尔兰时报》1956书评，通说）待核。"
+  ],
+  "sources": ["B094"],
+  "year_source": "B094",
+  "author_source": "B094",
+  "related_works": ["youlisisi", "bianxingji", "juwairen"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《等待戈多》人物关系图（等待的几何）",
+    "nodes": [
+      {"id": "vladimir", "label": "弗拉基米尔", "x": 240, "y": 150, "color": "main", "sub": "狄狄"},
+      {"id": "estragon", "label": "爱斯特拉冈", "x": 440, "y": 150, "color": "main", "sub": "戈戈"},
+      {"id": "godot", "label": "戈多", "x": 340, "y": 40, "color": "gold", "sub": "永不来"},
+      {"id": "pozzo", "label": "波卓", "x": 130, "y": 330, "color": "plain", "sub": "主人"},
+      {"id": "lucky", "label": "幸运儿", "x": 130, "y": 420, "color": "plain", "sub": "奴隶"},
+      {"id": "boy", "label": "小男孩", "x": 550, "y": 400, "color": "plain", "sub": "信使"},
+      {"id": "tree", "label": "树", "x": 340, "y": 300, "color": "gold", "sub": "唯一的布景"}
+    ],
+    "edges": [
+      {"a": "vladimir", "b": "estragon", "label": "相依·斗嘴"},
+      {"a": "vladimir", "b": "godot", "label": "等待"},
+      {"a": "estragon", "b": "godot", "label": "等待"},
+      {"a": "pozzo", "b": "lucky", "label": "绳子主奴"},
+      {"a": "boy", "b": "godot", "label": "传话", "style": "dashed"},
+      {"a": "tree", "b": "vladimir", "label": "时间坐标"}
+    ]
+  }
+}

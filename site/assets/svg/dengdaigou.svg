@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="240.0" y1="150.0" x2="440.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="308.4" y="141.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="154.0" font-size="12" fill="#555" text-anchor="middle">相依·斗嘴</text>
+<line x1="240.0" y1="150.0" x2="340.0" y2="40.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="274.0" y="86.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="290.0" y="99.0" font-size="12" fill="#555" text-anchor="middle">等待</text>
+<line x1="440.0" y1="150.0" x2="340.0" y2="40.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="374.0" y="86.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="390.0" y="99.0" font-size="12" fill="#555" text-anchor="middle">等待</text>
+<line x1="130.0" y1="330.0" x2="130.0" y2="420.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="102.0" y="366.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="130.0" y="379.0" font-size="12" fill="#555" text-anchor="middle">绳子主奴</text>
+<line x1="550.0" y1="400.0" x2="340.0" y2="40.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="429.0" y="211.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="445.0" y="224.0" font-size="12" fill="#555" text-anchor="middle">传话</text>
+<line x1="340.0" y1="300.0" x2="240.0" y2="150.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="262.0" y="216.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="290.0" y="229.0" font-size="12" fill="#555" text-anchor="middle">时间坐标</text>
+<rect x="190.5" y="132.5" width="99.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="240.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">弗拉基米尔</text>
+<rect x="225.0" y="169.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="240.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">狄狄</text>
+<rect x="390.5" y="132.5" width="99.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="440.0" y="155.4" font-size="15" fill="#fff" text-anchor="middle">爱斯特拉冈</text>
+<rect x="425.0" y="169.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="440.0" y="180.5" font-size="11" fill="#333" text-anchor="middle">戈戈</text>
+<rect x="313.0" y="22.5" width="54.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="45.4" font-size="15" fill="#fff" text-anchor="middle">戈多</text>
+<rect x="319.5" y="59.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="70.5" font-size="11" fill="#333" text-anchor="middle">永不来</text>
+<rect x="103.0" y="312.5" width="54.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="130.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">波卓</text>
+<rect x="115.0" y="349.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">主人</text>
+<rect x="95.5" y="402.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="130.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">幸运儿</text>
+<rect x="115.0" y="439.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="130.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">奴隶</text>
+<rect x="515.5" y="382.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="550.0" y="405.4" font-size="15" fill="#fff" text-anchor="middle">小男孩</text>
+<rect x="535.0" y="419.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="550.0" y="430.5" font-size="11" fill="#333" text-anchor="middle">信使</text>
+<rect x="320.5" y="282.5" width="39.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="305.4" font-size="15" fill="#fff" text-anchor="middle">树</text>
+<rect x="308.5" y="319.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="330.5" font-size="11" fill="#333" text-anchor="middle">唯一的布景</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《等待戈多》人物关系图（等待的几何）</text>
+</svg>
