@@ -1,0 +1,94 @@
+{
+  "id": "shinv",
+  "title": "使女的故事",
+  "original_title": "The Handmaid's Tale（使女的故事）",
+  "region": "加拿大",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（反乌托邦）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "atwood",
+  "author_name": "玛格丽特·阿特伍德",
+  "year_display": "1985年出版（Britannica）",
+  "year_sort": 1985,
+  "background": [
+    "设定（Britannica）：'a dystopian novel set in a Christian fundamentalist theocracy'——基列共和国（Gilead）：美国政变后建立的基督教原教旨神权国家，有生育能力的女性被编为'使女'（Handmaid）分配给指挥官家庭作为生育工具。",
+    "历史原型（作者自述大意，通说待核）：清教马萨诸塞、罗马尼亚生育政策、伊朗革命、巴尔干、奴隶制——'没有一件是发明的'（其自述，通说待核）。",
+    "接受（Britannica）：1986年总督奖（Britannica）；Hulu 剧集（2017—，通说待核）使其成为全球抗议符号（通说待核）。"
+  ],
+  "outline": [
+    "第一视角：使女奥芙弗雷德（Offred——'Of Fred'：属于弗雷德指挥官之名，通说）在基列的'家'中记录日常——购物、授精仪式（'仪式'Ceremony）、派对、墙上的尸体。",
+    "记忆的闪回：丈夫卢克与女儿的被拆散、穿越边境失败的'红色中心'（Red Center）训练——'别让那些混蛋把你碾碎'（ Aunt Lydia 语，原文意，待核）。",
+    "反抗的微光：与指挥官的秘密棋局与杂志（违规）、与司机尼克的爱情（'Nolite te bastardes carborundorum'——'别让混蛋们磨碎你'——伪拉丁文刻语，原文）。",
+    "结尾（'夜'章）：出逃（或被捕？）的悬念——'历史会议'章节（2195年基列学研讨会）以学术口吻追认其录音为'手稿'——叙述本身成为历史文物（通说）。"
+  ],
+  "characters": [
+    {"name": "奥芙弗雷德（June/Offred）", "identity": "使女·叙述者", "note": "'姓名=所有权'的政治：以第一人称录音对抗抹除"},
+    {"name": "指挥官弗雷德", "identity": "上层男权", "note": "'文字的走私者'——特权与伪善"},
+    {"name": "塞尔娜·乔伊", "identity": "指挥官夫人", "note": "'圣经_quote'与不孕——同为制度囚徒（通说）"},
+    {"name": "奥芙格伦", "identity": "另一使女", "note": "'我以前不是这样的'——地下抵抗网（Mayday，通说）"},
+    {"name": "丽迪亚嬷嬷", "identity": "红色中心教官", "note": "'别让混蛋们碾碎你'——体制内'慈爱'的暴力（通说）"},
+    {"name": "尼克", "identity": "司机", "note": "眼线？同盟？——暧昧的爱情线"}
+  ],
+  "themes": [
+    "身体的政治：生育作为国家资源——子宫的'国有化'（通说）。",
+    "语言的抵抗：'Nolite te bastardes carborundorum'（伪拉丁语）、地下拼字游戏——文字作为反抗（通说）。",
+    "记忆的档案化：录音=历史的'证词'（末章学术框架——通说）。",
+    "'推测'而非'预言'：一切皆有历史先例（作者立场，通说待核）。",
+    "艺术特点：现在-过去双线、未解释的专有名词（渐进式披露）、'夜'章的断裂式结尾。"
+  ],
+  "influence": [
+    {"text": "Britannica（Atwood 条目）：The Handmaid's Tale (1985) 为其 most celebrated work——'Christian fundamentalist theocracy'反乌托邦；1986总督奖。", "source": "B107"},
+    {"text": "Britannica：Hulu 剧集（2017—）与2019《证言》布克奖续章——IP 的跨媒介生命（剧集细节通说待核）。", "source": "B107"},
+    {"text": "符号化：红袍白帽成为全球女性权利抗议的通用视觉（通说待核）。", "source": "B107"},
+    {"text": "中译：陈小慰译《使女的故事》（上海译文出版社，通说待核）。", "source": "B107"}
+  ],
+  "reading": {
+    "difficulties": [
+      "未解释的基列术语（使女/嬷嬷/仪式/安置）——渐进披露是设计。",
+      "闪回与现实的双线时序——注意'夜'章的每部结尾。",
+      "录音的'转写'立场（2195年学者注释）——末章必须读。"
+    ],
+    "editions": [
+      "陈小慰译《使女的故事》（上海译文出版社，通说待核）：通行本。",
+      "英文本：Anchor/Vintage 版（含作者新序——2017年序，通说待核）。"
+    ],
+    "order": "通读15章 → 精读'仪式'与'夜'章 → 读2017作者序（'没有一件是发明的'）→ 对照剧集第1—3季。"
+  },
+  "pending": [
+    "1985年 McClelland & Stewart 出版细节待核。",
+    "Hulu 剧集获奖（艾美奖等）清单待核。",
+    "陈小慰译本信息待核。",
+    "2017年作者序原文待核。"
+  ],
+  "sources": ["B107"],
+  "year_source": "B107",
+  "author_source": "B107",
+  "related_works": ["yijiubasi", "qingzhong", "honggaoliang"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《使女的故事》基列权力关系图",
+    "nodes": [
+      {"id": "offred", "label": "奥芙弗雷德", "x": 340, "y": 140, "color": "main", "sub": "使女·叙述者"},
+      {"id": "commander", "label": "指挥官弗雷德", "x": 560, "y": 140, "color": "antagonist", "sub": "'丈夫'"},
+      {"id": "serena", "label": "塞尔娜·乔伊", "x": 560, "y": 320, "color": "plain", "sub": "夫人"},
+      {"id": "oglen", "label": "奥芙格伦", "x": 120, "y": 140, "color": "family", "sub": "同伴·抵抗网"},
+      {"id": "lydia", "label": "丽迪亚嬷嬷", "x": 120, "y": 320, "color": "antagonist", "sub": "红色中心"},
+      {"id": "nick", "label": "尼克", "x": 340, "y": 330, "color": "other", "sub": "司机"},
+      {"id": "luke", "label": "卢克与女儿", "x": 340, "y": 405, "color": "gold", "sub": "闪回的过去"},
+      {"id": "gilead", "label": "基列共和国", "x": 340, "y": 40, "color": "antagonist", "sub": "神权国家"}
+    ],
+    "edges": [
+      {"a": "gilead", "b": "offred", "label": "支配"},
+      {"a": "offred", "b": "commander", "label": "'仪式'与走私"},
+      {"a": "offred", "b": "serena", "label": "主妇与使女"},
+      {"a": "offred", "b": "nick", "label": "禁忌之爱"},
+      {"a": "lydia", "b": "offred", "label": "规训", "style": "dashed"},
+      {"a": "oglen", "b": "offred", "label": "Mayday"},
+      {"a": "luke", "b": "offred", "label": "记忆中的家"}
+    ]
+  }
+}

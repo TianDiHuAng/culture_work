@@ -1,0 +1,41 @@
+{
+  "id": "mishima",
+  "name": "三岛由纪夫",
+  "foreign_name": "Mishima Yukio（三島由紀夫，本名平冈公威，1925-01-14 — 1970-11-25）",
+  "country": "日本",
+  "birth": "1925-01-14",
+  "death": "1970-11-25",
+  "birth_year": 1925,
+  "death_year": 1970,
+  "era": "现当代",
+  "summary": "三岛由纪夫，东京人，'许多人视为日本20世纪最重要的小说家'（Britannica：regarded by many as Japan's most important 20th-century novelist）。1949年《假面的告白》一举成名（Britannica）；《金阁寺》（1956）、《潮骚》与四部曲《丰饶之海》（1965—70）为其主要成就（Britannica）。三度入围诺奖（通说待核）；创立私人军事团体'盾会'（Tate no Kai，Britannica）；1970年11月25日交付《丰饶之海》终卷手稿后率盾会成员占领自卫队市谷驻地，发表'兵变演说'后切腹自尽（Britannica：he and followers seized a Tokyo military headquarters...then committed seppuku）。",
+  "timeline": [
+    {"year": "1925-01-14", "text": "生于东京（本名平冈公威，通说待核）；祖母贵族出身、严格隔离式养育（通说待核）。", "src": "B108"},
+    {"year": "1941—1947", "text": "学习院高等科在户部银一郎指导下以'三岛由纪夫'发表（通说待核）；东京帝国大学法学部；大藏省短暂任职后辞职专事写作（通说待核）。", "src": "B108"},
+    {"year": "1949", "text": "《假面的告白》出版——'partly autobiographical'（半自传性，Britannica）——'immediate acclaim'（Britannica）。", "src": "B108"},
+    {"year": "1956", "text": "《金阁寺》出版（Britannica：The Temple of the Golden Pavilion (1956)）——'美与毁灭'的极致；同年《潮骚》（Britannica：The Sound of Waves——注意 Britannica 将其译为 The Sound of Waves）。", "src": "B108"},
+    {"year": "1965—1970", "text": "四部曲《丰饶之海》（《春雪》《奔马》《晓寺》《天人五衰》）连载至终卷（Britannica：the four-volume epic The Sea of Fertility (1965–70), which many consider his lasting achievement）。", "src": "B108"},
+    {"year": "1966—1970", "text": "拍摄《憂國》（自导自演，通说待核）；剑道与健身、创立'盾会'（Britannica：he formed the Tate no Kai (Shield Society)）。", "src": "B108"},
+    {"year": "1970-11-25", "text": "交付《天人五衰》手稿后，与四名盾会成员以参观名义占领自卫队东部方面总监部，阳台演说号召'兵变'未果（Britannica：urged soldiers to overthrow Japan's postwar constitution），随即切腹自尽（Britannica：committed seppuku when the response proved unsympathetic）。", "src": "B108"}
+  ],
+  "major_works": [
+    {"work_id": "jinbgesi", "note": "1956；代表作"},
+    {"title": "丰饶之海四部曲（1965—70）", "note": "'许多视为其恒久成就'（Britannica：which many consider his lasting achievement）"},
+    {"title": "假面的告白（1949）", "note": "成名作（Britannica）"}
+  ],
+  "style": [
+    "'文语'的古典之美：和文汉语调、金阁的'语言之殿'（通说）。",
+    "美与毁灭的同构：'美是诅咒'（其美学主旨，通说待核）——烧毁金阁的哲学。",
+    "肉体与文字的双写：健身、剑道、电影（通说待核）。",
+    "轮回与转生：《丰饶之海》四部四人一世（本多见证——通说）。"
+  ],
+  "status": "Britannica 定位三岛为'许多人视为日本20世纪最重要的小说家'，其人物'被肉体或心理问题折磨、执念于不可得理想、着迷于血与死、拒斥现代生活'（Britannica：characters tormented by physical or psychological problems, obsessed with unattainable ideals, and preoccupied with blood, death, and rejection of modern life）。其死与作品构成'行动的文学'之终极案例；'三岛由纪夫'至今是日本文学与政治美学的争议符号。",
+  "sources": ["B108"],
+  "dates_source": "B108",
+  "pending": [
+    "出生日（1925-01-14，通说）与平冈公威本名待核。",
+    "三度诺奖入围（1965/1967/1968——通说）细节待核。",
+    "盾会与'市谷事件'的完整年表待核。",
+    "《丰饶之海》四卷副题与转生设定待核。"
+  ]
+}

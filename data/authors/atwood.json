@@ -1,0 +1,39 @@
+{
+  "id": "atwood",
+  "name": "阿特伍德",
+  "foreign_name": "Margaret Atwood（玛格丽特·阿特伍德，1939-11-18 — ）",
+  "country": "加拿大",
+  "birth": "1939-11-18",
+  "death": null,
+  "birth_year": 1939,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "阿特伍德，渥太华人，加拿大最重要的作家，以'prose fiction and her feminist perspective'（散文虚构与女性主义视角）著称（Britannica）。《使女的故事》（1985）为'基督教原教旨主义神权统治下的反乌托邦'（Britannica：dystopian novel set in a Christian fundamentalist theocracy）；两次总督奖（1966、1986——Britannica）、布克奖（2000《盲刺客》；2019《证言》与伯纳德·埃韦利斯托共享——Britannica）、2016 PEN 品特奖（Britannica）。发明远程签名装置 LongPen（Britannica）。《纸船》诗集（2024）与回忆录《Book of Lives》（2025）近期出版（Britannica）。",
+  "timeline": [
+    {"year": "1939-11-18", "text": "生于渥太华（Britannica：born November 18, 1939, in Ottawa）；昆虫学家父亲与营养学家母亲——北方森林童年（通说待核）。", "src": "B107"},
+    {"year": "1961—1965", "text": "维多利亚学院（多伦多大学）与拉德克利夫学院（哈佛，通说待核）；1966年诗集《圆圈游戏》获总督奖（Britannica：Governor General's Literary Awards (1966...)）。", "src": "B107"},
+    {"year": "1969—1985", "text": "《可食的女人》（1969，通说待核）、《浮现》（1972，通说待核）、《人生配件》（ Survival 1972批评，通说待核）；1985《使女的故事》（Britannica）与1986总督奖（Britannica）。", "src": "B107"},
+    {"year": "1988—2005", "text": "《猫眼》（1988，通说待核）；《盲刺客》（2000）获布克奖（Britannica：the Booker Prize (2000 for The Blind Assassin)）；2004年发明 LongPen（Britannica：Invented the LongPen...）。", "src": "B107"},
+    {"year": "2016—2025", "text": "2016年 PEN 品特奖（Britannica：the PEN Pinter Prize (2016)）；《证言》（2019）与伯纳德·埃韦利斯托共享布克奖（Britannica：2019 shared for The Testaments）；诗集《纸船》（2024，Britannica）；回忆录《Book of Lives》（2025，Britannica）。", "src": "B107"}
+  ],
+  "major_works": [
+    {"work_id": "shinv", "note": "1985；代表作"},
+    {"title": "盲刺客（2000）、证言（2019）", "note": "布克双奖（Britannica）"},
+    {"title": "猫眼（1988）", "note": "女性友谊与记忆（通说）"}
+  ],
+  "style": [
+    "'推测虚构'（speculative fiction）而非'科幻'（其自我定位，通说待核）——'一切都有历史原型'（使女的每项制度皆有先例，其自述大意，通说待核）。",
+    "多文本拼贴：手稿、口述、档案、新闻报道（《盲刺客》《证言》）。",
+    "冷幽默与哥特：加拿大荒野意象（通说）。",
+    "诗歌与散文的双栖（Britannica：Paper Boat 2024诗集）。"
+  ],
+  "status": "Britannica 定位阿特伍德为'best known for prose fiction and her feminist perspective'的加拿大作家；《使女的故事》成为全球政治抗议的通用符号（'Handmaid'红袍白帽——通说待核）。她是'活着的最伟大作家'讨论中的常客（通说待核），Hulu 剧集（2017起，通说待核）使其影响力跨世代。",
+  "sources": ["B107"],
+  "dates_source": "B107",
+  "pending": [
+    "出生日期（1939-11-18，Britannica 口径）确认。",
+    "《圆圈游戏》1966总督奖细节待核。",
+    "Hulu《使女的故事》剧集（2017—2025）获奖记录待核。",
+    "《盲刺客》2000布克奖细节待核。"
+  ]
+}
