@@ -1,0 +1,210 @@
+{
+  "id": "meilixinshijie",
+  "title": "美丽新世界",
+  "original_title": "Brave New World（美丽新世界）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（反乌托邦）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "huxley",
+  "author_name": "奥尔德斯·赫胥黎",
+  "year_display": "1932年出版（Britannica）",
+  "year_sort": 1932,
+  "background": [
+    "设定（Britannica）：'a future society controlled by psychological conditioning and a fixed caste system'（由心理条件反射与固定种姓制度控制的未来社会）——'世界国'（World State）：胚胎克隆分级（阿尔法至艾普西龙）、'睡眠教学法'、'苏摩'（soma）快乐药、'消费即美德'。",
+    "书名：莎士比亚《暴风雨》'O brave new world / That has such people in't!'（原文，公有领域）——米兰达的天真欢呼（通说待核）。",
+    "与《一九八四》的对照（通说）：奥威尔以禁书与恐惧统治，赫胥黎以快乐与消费统治——'使人娱乐至死'（《娱乐至死》波兹曼引——通说待核）。"
+  ],
+  "outline": [
+    "孵化与条件设置中心：伦敦孵化条件中心的'制造人类'之旅——波卡诺夫斯基流程、新巴甫洛夫条件反射（婴儿电击嫌花嫌书——通说）、睡眠教育（'cubicle'里夜夜循环）——'稳定'高于一切。",
+    "伯纳德·马克思与琳娜：阿尔法'矮个'的异类感与'丽娜'（Lenina Crowne）的'标准化女性'；'保留区'（Savage Reservation）之行——遇见'野人'约翰及其母琳达（流落保留地的'世界国女人'）。",
+    "'野人'约翰：以莎士比亚养育长大的'文明外人'（'O brave new world'是其欢呼——原文，公有领域）；被带回伦敦成为'展品'——目睹'文明'的苏摩、感官电影（'feely'）、情绪工程与死亡训练（通说细节）。",
+    "结局：约翰与穆斯塔法·蒙德（世界国主宰者）的哲学辩论（'艺术与科学、幸福与自由不可兼得'——通说）；约翰隐居灯塔、以鞭笞自罚（自虐表演被围观——通说细节）；'中段'——他上吊自尽，双腿'像指南针般'转动（结尾原文意，待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约翰（'野人'）",
+      "identity": "保留区出生的'文明外人'",
+      "note": "莎士比亚的信徒——'文明'的真与假的双重见证者"
+    },
+    {
+      "name": "伯纳德·马克思",
+      "identity": "异类阿尔法",
+      "note": "'矮个的不满'——反抗者还是势利者（通说）"
+    },
+    {
+      "name": "琳娜·克罗恩",
+      "identity": "标准女性",
+      "note": "'我的衣服很绿'式标准化——欲望与羞耻的矛盾（通说）"
+    },
+    {
+      "name": "穆斯塔法·蒙德",
+      "identity": "世界国主宰者之一",
+      "note": "读过莎士比亚与圣经的'知情者'——与约翰辩论'幸福与自由的取舍'（通说）"
+    },
+    {
+      "name": "琳达",
+      "identity": "约翰之母",
+      "note": "'文明'流落保留地的悲剧（通说）"
+    },
+    {
+      "name": "赫姆霍尔兹·华生",
+      "identity": "情感工程师",
+      "note": "约翰在'世界国'的唯一朋友——'情绪工程'的天才与异端（通说）"
+    }
+  ],
+  "themes": [
+    "'幸福'对自由的替代：'人们是快乐的；他们得到了他们想要的，而且永远不想要他们得不到的'（原文意，待核）——'快乐的奴役'。",
+    "技术统治：基因分级、条件反射、药物（soma）——'心理条件反射与固定种姓制度'（Britannica）。",
+    "莎士比亚的废墟：约翰引用莎剧的每一次'失效'——'文明'对情感的清洗（通说）。",
+    "科学与社会：赫胥黎科学世家的'科学批判'视角（Britannica 家世语境）。",
+    "艺术特点：'灾难性讽刺'（通说待核）、未来术语的发明（'soma''feely'）、辩论体的终章。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Huxley 条）：'best known for Brave New World (1932)'——'a dystopian novel presenting a future society controlled by psychological conditioning and a fixed caste system'。",
+      "source": "B126"
+    },
+    {
+      "text": "与《一九八四》并列为20世纪两大反乌托邦（通说待核）。",
+      "source": "B126"
+    },
+    {
+      "text": "'美丽新世界'与'苏摩'进入汉语批评语汇（通说待核）。",
+      "source": "B126"
+    },
+    {
+      "text": "中译：孙法理/陈超译本（译林等，通说待核）。",
+      "source": "B126"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "前三章'技术导览'密集——坚持后进入人物线。",
+      "莎士比亚引文的互文——需要莎剧背景。",
+      "穆斯塔法·蒙德的辩论（第16—17章）是全书哲学核心——慢读。"
+    ],
+    "editions": [
+      "孙法理译《美丽新世界》（译林出版社，通说待核）：通行本。",
+      "陈超译本（上海译文，通说待核）：另一选择。",
+      "英文本：Harper Perennial Modern Classics（含 forward 与 footnotes——通说待核）。"
+    ],
+    "order": "通读18章 → 精读第1—2章（孵化中心）与第16—17章（辩论）→ 对照《一九八四》与《使女的故事》三种'统治术'。"
+  },
+  "pending": [
+    "1932年 Chatto & Windus 出版细节待核。",
+    "书名莎剧出处（《暴风雨》第五幕第一场）逐字核对。",
+    "孙法理/陈超译本信息待核。",
+    "'soma'与波兹曼《娱乐至死》引文待核。"
+  ],
+  "sources": [
+    "B126"
+  ],
+  "year_source": "B126",
+  "author_source": "B126",
+  "related_works": [
+    "yijiubasi",
+    "shinv",
+    "youlisisi"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《美丽新世界》'世界国'结构图",
+    "nodes": [
+      {
+        "id": "john",
+        "label": "约翰（野人）",
+        "x": 340,
+        "y": 140,
+        "color": "main",
+        "sub": "莎剧信徒"
+      },
+      {
+        "id": "mond",
+        "label": "穆斯塔法·蒙德",
+        "x": 560,
+        "y": 140,
+        "color": "antagonist",
+        "sub": "主宰者"
+      },
+      {
+        "id": "bernard",
+        "label": "伯纳德·马克思",
+        "x": 120,
+        "y": 140,
+        "color": "plain",
+        "sub": "异类阿尔法"
+      },
+      {
+        "id": "lenina",
+        "label": "琳娜",
+        "x": 120,
+        "y": 330,
+        "color": "family",
+        "sub": "标准化女性"
+      },
+      {
+        "id": "linda",
+        "label": "琳达",
+        "x": 340,
+        "y": 395,
+        "color": "plain",
+        "sub": "流落保留地"
+      },
+      {
+        "id": "soma",
+        "label": "苏摩",
+        "x": 560,
+        "y": 330,
+        "color": "gold",
+        "sub": "快乐的药"
+      },
+      {
+        "id": "worldstate",
+        "label": "世界国",
+        "x": 340,
+        "y": 40,
+        "color": "antagonist",
+        "sub": "心理条件反射+种姓"
+      }
+    ],
+    "edges": [
+      {
+        "a": "worldstate",
+        "b": "john",
+        "label": "'展览品'"
+      },
+      {
+        "a": "john",
+        "b": "mond",
+        "label": "哲学辩论",
+        "style": "dashed"
+      },
+      {
+        "a": "bernard",
+        "b": "john",
+        "label": "带其入'文明'"
+      },
+      {
+        "a": "lenina",
+        "b": "john",
+        "label": "情欲错位",
+        "style": "dashed"
+      },
+      {
+        "a": "soma",
+        "b": "lenina",
+        "label": "快乐的依赖"
+      },
+      {
+        "a": "linda",
+        "b": "john",
+        "label": "母子"
+      }
+    ]
+  }
+}

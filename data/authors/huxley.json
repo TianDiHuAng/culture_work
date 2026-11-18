@@ -1,0 +1,37 @@
+{
+  "id": "huxley",
+  "name": "赫胥黎",
+  "foreign_name": "Aldous Huxley（奥尔德斯·赫胥黎，1894-07-26 — 1963-11-22）",
+  "country": "英国",
+  "birth": "1894-07-26",
+  "death": "1963-11-22",
+  "birth_year": 1894,
+  "death_year": 1963,
+  "era": "现当代",
+  "summary": "赫胥黎，萨里郡戈达尔明人，英国小说家与批评家，'best known for Brave New World (1932)'（以《美丽新世界》最为著名——Britannica：a dystopian novel presenting a future society controlled by psychological conditioning and a fixed caste system）。祖父为生物学家 T.H.赫胥黎、兄弟 Julian 与 Andrew 亦为科学家（Britannica）；角膜炎致部分失明终结科学志向、'redirecting him to writing'（转向写作——Britannica）。《克鲁姆庄园》（1921）、《旋律与对位》（1928）、《加数加》（1936）、《感知之门》（1954）、《岛》（1962）（Britannica 列举）。1963年11月22日卒（与肯尼迪遇刺同日，通说待核）。",
+  "timeline": [
+    {"year": "1894-07-26", "text": "生于萨里郡戈达尔明（通说待核），赫胥黎科学世家（Britannica：His grandfather was biologist Thomas Henry Huxley）。", "src": "B126"},
+    {"year": "1908—1913", "text": "伊顿求学、角膜炎致部分失明（Britannica：Partial blindness from keratitis ended his plans for a science career, redirecting him to writing）。", "src": "B126"},
+    {"year": "1919—1932", "text": "《雅典娜神殿》编辑（通说待核）；《克鲁姆庄园》（1921）、《旋律与对位》（1928）（Britannica 列举）；1932《美丽新世界》（Britannica）。", "src": "B126"},
+    {"year": "1937—1963", "text": "定居加州（好莱坞编剧——通说待核）；《感知之门》（1954，麦斯卡林实验——通说待核）；《岛》（1962，Britannica 列举）；1963-11-22卒于加州（Britannica 记 died 1963）。", "src": "B126"}
+  ],
+  "major_works": [
+    {"work_id": "meilixinshijie", "note": "1932；代表作"},
+    {"title": "旋律与对位（1928）、加数加（1936）", "note": "小说（Britannica 列举）"},
+    {"title": "感知之门（1954）", "note": "迷幻药实验（Britannica 列举）"}
+  ],
+  "style": [
+    "'悲观地审视美国梦'：Britannica——盖茨比被解读为'a pessimistic examination of the American Dream'（对美国梦的悲观审视）。",
+    "'新钱/旧钱'地理：西卵/东卵=new money vs old money（Britannica：the West/East Egg divide embodying the 'new money' vs 'old money' tension）。",
+    "抒情与讽刺平衡：盖茨比的浪漫想象与尼克的道德观察（通说）。",
+    "绿光象征：'the green light at the end of Daisy's dock symbolizes Gatsby's unreachable dream'（Britannica——码头尽头的绿灯象征盖茨比无法企及的梦）。"
+  ],
+  "status": "Britannica 记《了不起的盖茨比》'often been called the Great American Novel'（常被称为'伟大的美国小说'），与菲茨杰拉德'爵士时代的预言者'定位相接（B050 Fitzgerald 条：depicting the Jazz Age）。菲茨杰拉德生前滞销（B023：first printing ~20,000 copies）、二战后重估为经典、'became standard high-school reading in the 1950s'（1950年代成为标准高中读物——Britannica）。",
+  "sources": ["B126"],
+  "dates_source": "B126",
+  "pending": [
+    "出生地确认（戈达尔明说，通称）。",
+    "1963-11-22卒日与肯尼迪同日（通说轶事）待核。",
+    "《岛》与《美丽新世界》的'反面对照'设计待核。"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "erzisonai",
+  "title": "儿子与情人",
+  "original_title": "Sons and Lovers（儿子与情人）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（半自传）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lawrence",
+  "author_name": "D.H.劳伦斯",
+  "year_display": "1913年出版（Britannica）",
+  "year_sort": 1913,
+  "background": [
+    "半自传（Britannica）：'a quasi-autobiographical novel about Paul Morel's struggle for independence from his mother, drawing on Lawrence's youth and Jessie Chambers'（关于保罗·莫瑞尔挣脱母亲束缚的半自传小说，取材劳伦斯青年与杰西·钱伯斯）。",
+    "主题（Britannica）：'explored English provincial family life, the Oedipus complex, industrialization's impact on the psyche'（探索英国省城家庭生活、俄狄浦斯情结与工业化对心灵的影响）——'俄狄浦斯'一词在此书语境中广为流传（弗洛伊德学派解读——通说待核）。",
+    "文体：'drew on Lawrence's youth'（取材青年时代）——诺丁汉矿区生活。"
+  ],
+  "outline": [
+    "莫瑞尔夫妇：矿工瓦尔特·莫瑞尔与中产出身的格特鲁德·莫瑞尔婚姻破裂（丈夫的粗鲁与酗酒）——她把感情转向儿子（通说）。",
+    "长子威廉之死：威廉——'母亲最爱的儿子'——赴伦敦与'交际花'订婚、病死（通说）——母亲把'一切'转移到保罗。",
+    "保罗与两位女性：与米丽亚姆（杰西·钱伯斯原型）的'精神之恋'（母亲反对——'她会把我挤出去'原文意，待核）；与克拉拉（分居妇）的'肉体之恋'——两段都不能使其独立。",
+    "结局：母亲癌症晚期，保罗喂以过量吗啡安乐死（通说细节待核）——'生命之灯熄灭'后，保罗拒绝黑暗的诱惑（自杀念头），'转身走向城市金色的雾霭'（结尾原文意，待核）。"
+  ],
+  "characters": [
+    {
+      "name": "保罗·莫瑞尔",
+      "identity": "画家兼电报员",
+      "note": "'俄狄浦斯式'的儿子——无法建立独立爱情（通说）"
+    },
+    {
+      "name": "格特鲁德·莫瑞尔",
+      "identity": "保罗之母",
+      "note": "'把全部生命注入儿子'的中产出身主妇（通说）"
+    },
+    {
+      "name": "瓦尔特·莫瑞尔",
+      "identity": "矿工父亲",
+      "note": "粗鲁而有活力的'失败者'（通说）"
+    },
+    {
+      "name": "米丽亚姆",
+      "identity": "农庄少女",
+      "note": "'灵魂之恋'的恋人（杰西·钱伯斯原型——Britannica：drawing on...Jessie Chambers）"
+    },
+    {
+      "name": "克拉拉·道斯",
+      "identity": "分居妇人",
+      "note": "'肉体之恋'（通说）"
+    },
+    {
+      "name": "威廉",
+      "identity": "长兄",
+      "note": "母亲的第一'爱子'——死亡为保罗让位（通说）"
+    }
+  ],
+  "themes": [
+    "俄狄浦斯情结的文学化：母爱的'占有'与儿子的挣扎（通说）。",
+    "阶级与精神：矿工家庭中'母亲的体面'与'父亲的血性'——阶级分裂的家庭内化（通说）。",
+    "灵肉分裂的失败：米丽亚姆（灵）与克拉拉（肉）——劳伦斯'灵肉合一'观念的'未完成'（通说）。",
+    "艺术特点：矿区意象（矿灯、花树）、母亲之死的写实（通说待核）、'雾中金城'结尾。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（Lawrence 条）：Sons and Lovers (1913) ——'a quasi-autobiographical novel'且主题含'Oedipus complex'。",
+      "source": "B125"
+    },
+    {
+      "text": "Britannica：劳伦斯'once among the most influential 20th-century English writers'——此书为其起点。",
+      "source": "B125"
+    },
+    {
+      "text": "弗洛伊德主义解读史（20世纪批评——通说待核）。",
+      "source": "B125"
+    },
+    {
+      "text": "中译：陈良廷/刘文澜等译本（人民文学/译林，通说待核）。",
+      "source": "B125"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "心理小说的'慢'——注意母亲与保罗的每一次'挤压'。",
+      "矿区方言（莫瑞尔父亲的台词）——选注释本。",
+      "女性主义批评（格特鲁德与米丽亚姆）——双向阅读。"
+    ],
+    "editions": [
+      "陈良廷、刘文澜译《儿子与情人》（人民文学出版社，通说待核）：通行本。",
+      "英文本：Penguin Classics 或 Cambridge Edition（通说待核）。"
+    ],
+    "order": "通读 → 精读开篇（婚姻崩解）与结尾（母亲之死与'金雾'）→ 对照《虹》看劳伦斯的成长。"
+  },
+  "pending": [
+    "1913年出版（Duckworth，爱德华·加内特建议删改——通说待核）细节待核。",
+    "陈良廷译本信息待核。",
+    "加内特（Edward Garnett）编辑删减内容待核。",
+    "结尾'golden fog'原文核对。"
+  ],
+  "sources": [
+    "B125"
+  ],
+  "year_source": "B125",
+  "author_source": "B125",
+  "related_works": [
+    "hongyuhei",
+    "baofali",
+    "dawei"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《儿子与情人》莫瑞尔家关系图",
+    "nodes": [
+      {
+        "id": "paul",
+        "label": "保罗",
+        "x": 340,
+        "y": 130,
+        "color": "main",
+        "sub": "次子·画家"
+      },
+      {
+        "id": "mother",
+        "label": "格特鲁德",
+        "x": 340,
+        "y": 40,
+        "color": "gold",
+        "sub": "'把生命注入他'"
+      },
+      {
+        "id": "father",
+        "label": "瓦尔特",
+        "x": 560,
+        "y": 120,
+        "color": "plain",
+        "sub": "矿工父亲"
+      },
+      {
+        "id": "william",
+        "label": "威廉",
+        "x": 120,
+        "y": 120,
+        "color": "plain",
+        "sub": "长子·早逝"
+      },
+      {
+        "id": "miriam",
+        "label": "米丽亚姆",
+        "x": 130,
+        "y": 330,
+        "color": "family",
+        "sub": "灵魂之恋"
+      },
+      {
+        "id": "clara",
+        "label": "克拉拉",
+        "x": 550,
+        "y": 330,
+        "color": "family",
+        "sub": "肉体之恋"
+      },
+      {
+        "id": "baxter",
+        "label": "巴克斯特·道斯",
+        "x": 340,
+        "y": 395,
+        "color": "plain",
+        "sub": "克拉拉之夫"
+      }
+    ],
+    "edges": [
+      {
+        "a": "mother",
+        "b": "paul",
+        "label": "'占有式母爱'"
+      },
+      {
+        "a": "father",
+        "b": "mother",
+        "label": "破裂婚姻",
+        "style": "dashed"
+      },
+      {
+        "a": "william",
+        "b": "mother",
+        "label": "'第一爱子'之死"
+      },
+      {
+        "a": "paul",
+        "b": "miriam",
+        "label": "灵之恋·受阻"
+      },
+      {
+        "a": "paul",
+        "b": "clara",
+        "label": "肉之恋"
+      },
+      {
+        "a": "mother",
+        "b": "miriam",
+        "label": "反对",
+        "style": "dashed"
+      },
+      {
+        "a": "clara",
+        "b": "baxter",
+        "label": "分居"
+      }
+    ]
+  }
+}

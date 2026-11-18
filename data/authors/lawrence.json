@@ -1,0 +1,41 @@
+{
+  "id": "lawrence",
+  "name": "劳伦斯",
+  "foreign_name": "D.H. Lawrence（戴维·赫伯特·劳伦斯，1885-09-11 — 1930-03-02）",
+  "country": "英国",
+  "birth": "1885-09-11",
+  "death": "1930-03-02",
+  "birth_year": 1885,
+  "death_year": 1930,
+  "era": "现当代",
+  "summary": "劳伦斯，诺丁汉郡伊斯特伍德矿工之子，英国小说家、诗人、剧作家、散文家与旅行作家（Britannica：English novelist, poet, playwright, essayist, and travel writer）。获诺丁汉高中奖学金、当过工厂职员与教师后专事写作。《儿子与情人》（1913）——保罗·莫瑞尔挣脱母亲束缚的'半自传'小说（Britannica：a quasi-autobiographical novel about Paul Morel's struggle for independence from his mother, drawing on Lawrence's youth and Jessie Chambers）；《虹》1915年'因淫秽在英国被压制'（suppressed for obscenity——Britannica）；《恋爱中的女人》（1920）；《查泰莱夫人的情人》（1928）私印、'its full English text wasn't available until 1960, when it faced an obscenity trial'（完整英文文本直到1960年淫秽审判才可用——Britannica）。1930年3月2日死于法国旺斯肺结核（Britannica）。",
+  "timeline": [
+    {"year": "1885-09-11", "text": "生于伊斯特伍德（Britannica），矿工与'有教养的母亲'（Britannica：son of a coal miner and an educated mother）。", "src": "B125"},
+    {"year": "1902—1908", "text": "工厂职员3个月→诺丁汉大学学院教师培训（通说待核）→1908年任克罗伊登教师（通说待核）。", "src": "B125"},
+    {"year": "1912—1914", "text": "与弗里达·威克利（德籍教授之妻）私奔欧陆，1914年结婚（通说待核）——终身'流浪的婚姻'（通说）。", "src": "B125"},
+    {"year": "1913—1915", "text": "《儿子与情人》（1913）；《虹》（1915）遭禁（Britannica：was suppressed in Britain for obscenity）。", "src": "B125"},
+    {"year": "1920—1928", "text": "《恋爱中的女人》（1920）；1922年环球旅行（澳洲、墨西哥——通说待核）；《羽蛇》（1926，通说待核）；1928年私印《查泰莱》（Britannica：privately published）。", "src": "B125"},
+    {"year": "1930-03-02", "text": "死于法国旺斯（Britannica：died March 2, 1930, in Vence, France），年四十四。", "src": "B125"},
+    {"year": "1960", "text": "《查泰莱》 Penguin 全文本在伦敦中央刑事法庭受淫秽审判后无罪开释——'英国出版自由'里程碑（通说待核）。", "src": "B125"},
+    {"year": "身后", "text": "Britannica：'Once among the most influential 20th-century English writers, his critical reputation has declined since the 1960s amid feminist critiques, though he remains important'（曾是最有影响的20世纪英国作家之一，1960s后因女性主义批评声誉下滑但仍然重要——'important to understanding Anglo-American Modernism's break from Victorian norms'）。", "src": "B125"}
+  ],
+  "major_works": [
+    {"work_id": "erzisonai", "note": "1913；成名作"},
+    {"title": "虹（1915）、恋爱中的女人（1920）", "note": "布兰文家族两曲（Britannica）"},
+    {"title": "查泰莱夫人的情人（1928）", "note": "争议巅峰（Britannica）"}
+  ],
+  "style": [
+    "'血性意识'：对抗'脑性'文明——性爱与自然为救赎（通说）。",
+    "方言与意象：诺丁汉矿工语言+自然象征（通说）。",
+    "主题四部：俄狄浦斯、工业对心理的破坏、'男女新关系'（Britannica：the relationship between sexuality and feeling）、文明批判。"
+  ],
+  "status": "Britannica 定位劳伦斯为探索'英格兰省城家庭生活、俄狄浦斯情结、工业化对心灵的影响与性与感觉的关系'的作家，'坦率的性描写使其既有争议又有开创性'（Britannica：frank treatments of sexuality made him both controversial and pioneering）。'曾被列为最具影响力的20世纪英语作家之一'（Britannica：Once among the most influential），1960s后遭女性主义批评（Britannica：amid feminist critiques）——本库列各方说法。",
+  "sources": ["B125"],
+  "dates_source": "B125",
+  "pending": [
+    "弗里达·威克利婚姻（1914）与 детей（通说待核）细节待核。",
+    "《查泰莱》1960年审判（R v Penguin Books，辩护引 35 位专家证词——通说待核）细节待核。",
+    "Jessie Chambers（'米丽亚姆'原型）的《记忆》回忆录待核。",
+    "澳大利亚/墨西哥/新墨西哥旅居年份待核。"
+  ]
+}
