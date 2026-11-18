@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="560.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="418.4" y="121.0" width="63.2" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">旧情·重逢</text>
+<line x1="340.0" y1="130.0" x2="560.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="434.0" y="221.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">婚姻</text>
+<line x1="340.0" y1="130.0" x2="120.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="202.0" y="121.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="134.0" font-size="12" fill="#555" text-anchor="middle">青春之吻</text>
+<line x1="120.0" y1="330.0" x2="340.0" y2="395.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="206.8" y="353.5" width="46.4" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="366.5" font-size="12" fill="#555" text-anchor="middle">'治疗'</text>
+<line x1="120.0" y1="330.0" x2="120.0" y2="395.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="104.0" y="353.5" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="120.0" y="366.5" font-size="12" fill="#555" text-anchor="middle">夫妻</text>
+<line x1="340.0" y1="395.0" x2="560.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6" stroke-dasharray="6,4"/><rect x="422.0" y="353.5" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="450.0" y="366.5" font-size="12" fill="#555" text-anchor="middle">晚宴同席</text>
+<rect x="298.0" y="112.5" width="84.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">克拉丽莎</text>
+<rect x="319.5" y="149.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">女主人</text>
+<rect x="70.5" y="312.5" width="99.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="120.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">赛普蒂默斯</text>
+<rect x="99.5" y="349.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">退伍兵</text>
+<rect x="506.0" y="112.5" width="108.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">彼得·沃尔什</text>
+<rect x="539.5" y="149.5" width="41.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">旧恋人</text>
+<rect x="525.5" y="312.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">理查德</text>
+<rect x="545.0" y="349.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">丈夫</text>
+<rect x="73.5" y="112.5" width="93.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="120.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">萨莉·赛顿</text>
+<rect x="105.0" y="149.5" width="30.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">旧爱</text>
+<rect x="283.0" y="377.5" width="114.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="340.0" y="400.4" font-size="15" fill="#fff" text-anchor="middle">布拉德肖医生</text>
+<rect x="307.4" y="414.5" width="65.2" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="425.5" font-size="11" fill="#333" text-anchor="middle">'均衡'医生</text>
+<rect x="85.5" y="377.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="120.0" y="400.4" font-size="15" fill="#fff" text-anchor="middle">雷齐亚</text>
+<rect x="83.0" y="414.5" width="74.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="425.5" font-size="11" fill="#333" text-anchor="middle">赛普蒂默斯妻</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《达洛维夫人》双线人物关系图</text>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "id": "woolf",
+  "name": "伍尔夫",
+  "foreign_name": "Virginia Woolf（弗吉尼亚·伍尔夫，1882-01-25 — 1941-03-28）",
+  "country": "英国",
+  "birth": "1882-01-25",
+  "death": "1941-03-28",
+  "birth_year": 1882,
+  "death_year": 1941,
+  "era": "现当代",
+  "summary": "伍尔夫，伦敦人，英国现代主义作家，以'非线性叙事'的小说著称（Britannica：novels with 'nonlinear approaches to narrative'）。父 Leslie Stephen（《英国传记词典》首任编辑——Britannica）、姐画家凡妮莎·贝尔；布卢姆斯伯里团体成员（与 Strachey、凯恩斯等——Britannica：participated in the Bloomsbury group alongside figures like Lytton Strachey and John Maynard Keynes）。1912年婚伦纳德、1917年创荷加斯出版社（Britannica：《达洛维夫人》1925《到灯塔去》1927《奥兰多》1928《海浪》1931与随笔《一间自己的房间》1929——Britannica 列举）。1895丧母、1904丧父、1913自杀未遂（Britannica）；1941年3月28日投河自尽，'writing to capture what she called 'the flight of the mind''（书写'心灵的飞翔'——Britannica）。",
+  "timeline": [
+    {"year": "1882-01-25", "text": "生于伦敦（Britannica：Born Adeline Virginia Stephen on January 25, 1882, in London）。", "src": "B128"},
+    {"year": "1895—1904", "text": "母死（1895）、父死（1904，Britannica）——两次精神崩溃。", "src": "B128"},
+    {"year": "1912—1917", "text": "婚伦纳德·伍尔夫（1912，Britannica）；1917年创荷加斯出版社（Britannica：they founded the Hogarth Press in 1917）。", "src": "B128"},
+    {"year": "1915—1922", "text": "首作《远航》（1915）、《夜与日》（1919）、《雅各的房间》（1922，Britannica 列举）。", "src": "B128"},
+    {"year": "1925—1931", "text": "《达洛维夫人》（1925）《到灯塔去》（1927）《奥兰多》（1928）《海浪》（1931）（Britannica 列举）；《一间自己的房间》（1929，Britannica）。", "src": "B128"},
+    {"year": "1941-03-28", "text": "投河自尽于罗德梅尔（Britannica：died by suicide on March 28, 1941, near Rodmell, Sussex, at age 59）。", "src": "B128"}
+  ],
+  "major_works": [
+    {"work_id": "daluolaiwei", "note": "1925"},
+    {"work_id": "daotadengqu", "note": "1927"},
+    {"title": "奥兰多（1928）、海浪（1931）、一间自己的房间（1929）", "note": "（Britannica 列举）"}
+  ],
+  "style": [
+    "'心灵的飞翔'：Britannica——'worked to capture what she called the flight of the mind'（捕捉'心灵的飞翔'）。",
+    "意识流与'存在的瞬间'（moments of being——通说待核）。",
+    "女性主义随笔：《一间自己的房间》——'女人要有钱与自己的房间'（原文意，通说待核）。",
+    "布卢姆斯伯里的美学（Britannica：also part of the Post-Impressionist art moment in London）。"
+  ],
+  "status": "Britannica 定位伍尔夫为'以非线性叙事著称的英国现代主义作家'。她的'意识流'与心理时间成为现代小说的分水岭；女性主义批评（《一间自己的房间》）与'布卢姆斯伯里'文化（Britannica）使其成为20世纪文化与性别讨论的核心人物。",
+  "sources": ["B128"],
+  "dates_source": "B128",
+  "pending": [
+    "《远航》1915年出版（Duckworth，通说待核）细节待核。",
+    "精神疾病史（1895/1904/1913/1941）的医学讨论待核。",
+    "《奥兰多》 Vita Sackville-West 情侣关系待核。"
+  ]
+}

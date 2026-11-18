@@ -1,0 +1,74 @@
+{
+  "id": "daotadengqu",
+  "title": "到灯塔去",
+  "original_title": "To the Lighthouse（到灯塔去）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（意识流）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "woolf",
+  "author_name": "弗吉尼亚·伍尔夫",
+  "year_display": "1927年出版（Britannica）",
+  "year_sort": 1927,
+  "background": [
+    "原型：作者父母与苏格兰赫布里底（圣艾夫斯）度假屋——'To the Lighthouse'以塔斯克与拉姆齐夫妇为原型（Britannica 相关条：Leslie Stephen；通说待核）。",
+    "三部结构：'窗'（The Window）——'时光流逝'（Time Passes）——'灯塔'（The Lighthouse）（通说）。"
+  ],
+  "outline": [
+    "'窗'：苏格兰度假屋——拉姆齐夫妇（哲学家与'美丽而自私'的妻子，通说）与八个孩子、画家莉丽·布里斯科、追求'客观真实'的查尔斯特兰斯利：'明天到灯塔去'的许诺因风雨落空；拉姆齐夫人安慰儿子詹姆斯（通说）。",
+    "'时光流逝'：空屋十年——战争、死亡（母亲、女儿、儿子战死——通说）、房屋荒芜——全章以'时间'为主语（通说）。",
+    "'灯塔'：十年后重返——拉姆齐先生与儿女'终于'到灯塔去；莉丽·布里斯科在岸上完成那幅画（'I have had my vision'原文意，公有领域）——绘画与'到达'的同一（通说）。"
+  ],
+  "characters": [
+    {"name": "拉姆齐先生", "identity": "哲学家（原型 Leslie Stephen）", "note": "'理智的暴政'（通说）与晚年的哀伤"},
+    {"name": "拉姆齐夫人", "identity": "主妇", "note": "'把一切聚拢'的女性——通说)"},
+    {"name": "莉丽·布里斯科", "identity": "画家", "note": "'我看懂了'（I have had my vision——原文意，公有领域）——艺术的完成"},
+    {"name": "詹姆斯", "identity": "儿子", "note": "恨父亲又认同父亲（通说）"},
+    {"name": "查尔斯特兰斯利", "identity": "哲学家", "note": "'客观真实'的傲慢（通说）"}
+  ],
+  "themes": [
+    "时间与永恒：'时光流逝'以'时间'为主语（通说）——人事之短暂与物之永恒。",
+    "艺术的完成：莉丽的'vision'——画与'到灯塔去'同义（通说）。",
+    "父母与孩子的拉锯：'理性'与'情感'的婚姻（通说）。",
+    "艺术特点：三部不对称结构（'时光流逝'以括号压缩）、意识流（通说）。"
+  ],
+  "influence": [
+    {"text": "Britannica（Woolf 条）：To the Lighthouse (1927) 列于 major works。", "source": "B128"},
+    {"text": "'时光流逝'章被认为是英国文学处理时间的巅峰之一（通说待核）。", "source": "B128"},
+    {"text": "中译：瞿世镜译《到灯塔去》（上海译文，通说待核）。", "source": "B128"}
+  ],
+  "reading": {
+    "difficulties": [
+      "'时光流逝'章以'时间'为主语——不能当作'遗漏'。",
+      "拉姆齐夫妇的原型（Leslie Stephen）——Britannica 相关条已载。"
+    ],
+    "editions": [
+      "瞿世镜译《到灯塔去》（上海译文出版社，通说待核）：通行本。",
+      "英文本：Hogarth Press 原版与 Oxford World's Classics（通说待核）。"
+    ],
+    "order": "通读三部 → 精读'时光流逝'与结尾莉丽完成画 → 对照《达洛维夫人》。"
+  },
+  "pending": [
+    "1927年5月5日 Hogarth Press 出版（通说）细节待核。",
+    "瞿世镜译本信息待核。",
+    "原型对应（拉姆齐=Leslie Stephen）待核。",
+    "'I have had my vision'逐字核对。"
+  ],
+  "sources": ["B128"],
+  "year_source": "B128",
+  "author_source": "B128",
+  "related_works": ["daluolaiwei", "middenma", "chuci"],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 400,
+    "caption": "《到灯塔去》三部结构图",
+    "cards": [
+      {"title": "窗", "sub": "第一天", "text": "'明天去灯塔'的许诺", "color": "main"},
+      {"title": "时光流逝", "sub": "空屋十年", "text": "战争·死亡·荒芜", "color": "antagonist"},
+      {"title": "灯塔", "sub": "十年后", "text": "莉丽完成'vision'", "color": "gold"}
+    ]
+  }
+}
