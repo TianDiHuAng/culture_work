@@ -1,0 +1,41 @@
+{
+  "id": "calvino",
+  "name": "卡尔维诺",
+  "foreign_name": "Italo Calvino（伊塔洛·卡尔维诺，1923-10-15 — 1985-09-19）",
+  "country": "意大利",
+  "birth": "1923-10-15",
+  "death": "1985-09-19",
+  "birth_year": 1923,
+  "death_year": 1985,
+  "era": "现当代",
+  "summary": "卡尔维诺，生于古巴的意大利作家，'20世纪最重要的意大利小说家之一'（Britannica：one of the most important 20th-century Italian fiction writers）。二战参加抵抗运动（Britannica），在都灵为共产党报纸《团结报》与埃伊纳乌迪出版社工作；从新现实主义（通向蜘蛛巢的小路，1947）转向寓言幻想（1950s三部曲），再以《宇宙奇趣》《看不见的城市》《寒冬夜行人》探索'chance, coincidence, and change'（偶然、巧合与变化——Britannica）。1985年脑溢血猝逝于锡耶纳（Britannica）。",
+  "timeline": [
+    {"year": "1923-10-15", "text": "生于古巴圣地亚哥·德·拉斯维加斯（Britannica：born in Santiago de las Vegas, Cuba），植物学家父母之子；幼年回意大利圣雷莫（Britannica 语境）。", "src": "B096"},
+    {"year": "1943—1945", "text": "参加意大利抵抗运动（Britannica：joined the Italian Resistance in WWII）；父母被德军短暂扣押（通说待核）。", "src": "B096"},
+    {"year": "1947", "text": "《通向蜘蛛巢的小路》出版——抵抗运动的新现实主义小说（Britannica：the Neorealist novel The Path to the Nest of Spiders (1947)）；都灵大学文学学位与《团结报》工作（Britannica）。", "src": "B096"},
+    {"year": "1949—1959", "text": "幻想寓言三部曲：《分成两半的子爵》（1952）、《树上的男爵》（1957）、《不存在的骑士》（1959）（Britannica：acclaimed tales with dates）。", "src": "B096"},
+    {"year": "1956—1967", "text": "退出意共（1957，匈苏事件后，通说待核）；《意大利童话》（1956，通说待核）；1965《宇宙奇趣》（Britannica）；1967年迁巴黎。", "src": "B096"},
+    {"year": "1972—1979", "text": "《看不见的城市》（1972）、《命运交叉的城堡》（1973）、《如果在冬夜，一个旅人》（1979）——'inventive structures to explore chance, coincidence, and change'（Britannica）。", "src": "B096"},
+    {"year": "1983—1985", "text": "《帕洛马尔》（1983，通说待核）；1985年9月19日因脑溢血卒于锡耶纳——'诺奖热'未遂年（通说待核）；遗稿《美国讲稿》1988年出版（通说待核）。", "src": "B096"}
+  ],
+  "major_works": [
+    {"work_id": "kanbujian", "note": "1972；代表作"},
+    {"title": "寒冬夜行人（1979）", "note": "元小说的百科（Britannica 列举）"},
+    {"title": "树上的男爵（1957）", "note": "寓言三部曲之巅（Britannica 列举）"}
+  ],
+  "style": [
+    "'轻逸'的诗学：《美国讲稿》首讲'轻'（Lightness——通说待核）——把哲学负载交给寓言与想象。",
+    "几何学式的结构：《看不见的城市》以55个城市+对话框架的黄金分割布局（通说待核）。",
+    "童话与科学的融合：宇宙学（宇宙奇趣）与家谱树（男爵）——百科全书式幻想（Britannica：whimsical and imaginative fables）。",
+    "乌托邦的忧郁：'树上的生活'既自由又孤独（通说）。"
+  ],
+  "status": "Britannica 称卡尔维诺为'20世纪最重要的意大利小说家之一'，以'奇想与想象力'的寓言著称（whimsical and imaginative fables）。其《美国讲稿》（Six Memos，通说待核）是关于文学的遗嘱式讲义。生前多次'诺奖热门'（通说待核）——1985年猝逝常被视为诺奖憾事。",
+  "sources": ["B096"],
+  "dates_source": "B096",
+  "pending": [
+    "《意大利童话》1956年出版的选编规模（200篇说，通说）待核。",
+    "1957年退出意共的公开信（对苏联镇压匈牙利事件）待核。",
+    "《美国讲稿》1988年出版（Six Memos for the Next Millennium 英译名）待核。",
+    "1985年猝逝与'诺奖热门'报道待核。"
+  ]
+}

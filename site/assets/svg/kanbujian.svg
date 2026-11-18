@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="420" fill="#fdf9f1" rx="10"/>
+<rect x="14" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="40" width="200" height="6" rx="3" fill="#3b6b8c"/>
+<text x="114.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">记忆之城</text>
+<text x="24" y="104.0" font-size="12" fill="#555">佐伊等：差异是镜像</text>
+<rect x="228" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="40" width="200" height="6" rx="3" fill="#8c3b3b"/>
+<text x="328.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">欲望之城</text>
+<text x="238" y="104.0" font-size="12" fill="#555">多罗泰亚等</text>
+<rect x="442" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="442" y="40" width="200" height="6" rx="3" fill="#55606b"/>
+<text x="542.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">符号之城</text>
+<text x="452" y="104.0" font-size="12" fill="#555">欧罗巴等：城市即铭文</text>
+<rect x="14" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="174" width="200" height="6" rx="3" fill="#9a7b2f"/>
+<text x="114.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">轻盈之城</text>
+<text x="24" y="238.0" font-size="12" fill="#555">奥克塔维亚：蛛网悬城</text>
+<rect x="228" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="174" width="200" height="6" rx="3" fill="#a8642a"/>
+<text x="328.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">死者之城</text>
+<text x="238" y="238.0" font-size="12" fill="#555">阿德拉玛：生死同城</text>
+<rect x="442" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="442" y="174" width="200" height="6" rx="3" fill="#9a7b2f"/>
+<text x="542.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">天空与隐藏</text>
+<text x="452" y="238.0" font-size="12" fill="#555">贝尔萨贝阿等：上下双城</text>
+<text x="340.0" y="410" font-size="12" fill="#8a8378" text-anchor="middle">《看不见的城市》11类城市结构图</text>
+</svg>

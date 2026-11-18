@@ -1,0 +1,43 @@
+{
+  "id": "borges",
+  "name": "博尔赫斯",
+  "foreign_name": "Jorge Luis Borges（豪尔赫·路易斯·博尔赫斯，1899-08-24 — 1986-06-14）",
+  "country": "阿根廷",
+  "birth": "1899-08-24",
+  "death": "1986-06-14",
+  "birth_year": 1899,
+  "death_year": 1986,
+  "era": "现当代",
+  "summary": "博尔赫斯，布宜诺斯艾利斯人，阿根廷诗人、随笔作家与短篇小说家，'20世纪世界文学经典'（Britannica）。父亲的英式图书馆使其'先学英语后学西语'（Britannica）；1938年头部重伤后写就《虚构集》（1944）——'which he felt unlocked his creative powers'（他觉得解锁了创造力的钥匙，Britannica）。1955年庇隆倒台后任国家图书馆馆长——'天堂应是图书馆的模样'（其名句，通说待核）；晚年失明、口授写作。卡夫卡、爱伦·坡、切斯特顿的传人，博尔赫斯又成为拉丁美洲'boom'的精神源头（Britannica：moved Latin American literature from academic circles to a broad global readership）。",
+  "timeline": [
+    {"year": "1899-08-24", "text": "生于布宜诺斯艾利斯（Britannica），有英国血统。", "src": "B095"},
+    {"year": "1914—1921", "text": "随父赴日内瓦求学（通说待核），掌握德语法语；西班牙极端主义诗潮接触（通说待核）。", "src": "B095"},
+    {"year": "1923", "text": "首部诗集《布宜诺斯艾利斯的热情》自费出版（Britannica：Fervor de Buenos Aires (1923)）。", "src": "B095"},
+    {"year": "1938", "text": "圣诞前后头部重伤（梯子事故+感染，通说待核）；康复期'feeling unlocked his creative powers'（Britannica），写《特隆、乌克巴尔、奥比斯·特蒂乌斯》。", "src": "B095"},
+    {"year": "1941—1944", "text": "《小径分岔的花园》（1941）、扩充为《虚构集》（1944，Britannica）。", "src": "B095"},
+    {"year": "1955", "text": "庇隆倒台后任阿根廷国家图书馆馆长（Britannica：directed Argentina's national library after Perón's fall in 1955）；同年完全失明进程（'hereditary blindness'——Britannica），转向口授。", "src": "B095"},
+    {"year": "1961", "text": "与贝克特分享首届福门托国际文学奖——国际声誉的起点（Britannica：After sharing the Formentor Prize with Samuel Beckett in 1961）。", "src": "B095"},
+    {"year": "1967—1972", "text": "哈佛讲座（通说待核）；与玛丽亚·儿玉同行（晚年伴侣，通说待核）；1979年获塞万提斯奖（Britannica：Cervantes Prize (1979)）。", "src": "B095"},
+    {"year": "1986-06-14", "text": "在日内瓦结婚并于当地逝世（通说：6月26日结婚、14日逝世——卒年月日 Britannica 记 1986；细节待核）。", "src": "B095"}
+  ],
+  "major_works": [
+    {"work_id": "xiaojing", "note": "《虚构集》（1944）通行中文版含《小径分岔的花园》诸篇"},
+    {"title": "阿莱夫（1949）、沙之书（1975）", "note": "后期短篇集（通说）"},
+    {"title": "布宜诺斯艾利斯的热情（1923）", "note": "首部诗集（Britannica）"}
+  ],
+  "style": [
+    "'图书馆与镜子'的宇宙：无限（图书馆/巴别塔/沙之书）、分岔的时间、循环与重复——观念先于情节的小说（通说）。",
+    "伪学术装置：虚构书目、注释与'史家'口吻——以博学写虚构（Britannica 语境：essayist and short-story writer）。",
+    "短的几何学：'短篇小说以结尾见真章'（其信条大意，通说待核）——篇篇短而余味无限。",
+    "与比奥伊·卡萨雷斯合著（H. Bustos Domecq 笔名的侦探小说——Britannica）。"
+  ],
+  "status": "Britannica 定位博尔赫斯的小说与随笔'如今被视为20世纪世界文学的经典'；他与博尔赫斯式的'元小说'是后现代叙事的源头之一（通说待核）。马尔克斯与博尔赫斯并列'史上最知名的拉美作家'（Britannica García Márquez 条）。未获诺奖（多次提名落选）成为诺奖史最著名的'缺席者'公案之一（通说待核）。",
+  "sources": ["B095"],
+  "dates_source": "B095",
+  "pending": [
+    "1938年头部重伤的具体日期与经过（自述《我，犹太人》等）待核。",
+    "国家图书馆馆长任期（1955—1973）与政治立场细节待核。",
+    "1986年日内瓦婚姻（6月26日）与逝世（6月14日）日期顺序待核。",
+    "'天堂应是图书馆的模样'名句的原始出处（《关于天赐的诗》）待核。"
+  ]
+}
