@@ -1,0 +1,41 @@
+{
+  "id": "kundera",
+  "name": "昆德拉",
+  "foreign_name": "Milan Kundera（米兰·昆德拉，1929-04-01 — 2023-07-11）",
+  "country": "捷克",
+  "birth": "1929-04-01",
+  "death": "2023-07-11",
+  "birth_year": 1929,
+  "death_year": 2023,
+  "era": "现当代",
+  "summary": "昆德拉，布尔诺人（父为钢琴家与音乐学家路德维克·昆德拉——Britannica），捷克小说家、剧作家、随笔作家与诗人。学音乐而转文学（Britannica：studied music before turning to writing and teaching literature in Prague starting in 1952）；1968年苏联入侵后'拒绝收回政治观点'被禁、解雇、开除党籍（Britannica），1975年流亡法国，1979年被褫夺捷克国籍（2019年恢复——Britannica）。《玩笑》（1967）为其奠基首作（Britannica：landmark first novel）；《不能承受的生命之轻》（1984）以布拉格之春为背景探讨轻与重（Britannica）。晚年改用法语写作（Britannica：He later wrote in French）。2023年7月11日卒于巴黎，年九十四（Britannica）。",
+  "timeline": [
+    {"year": "1929-04-01", "text": "生于捷克斯洛伐克布尔诺（Britannica：born in Brno, Czechoslovakia；出生日期4月1日为通说，Britannica 条目未直书），父为钢琴家、音乐学家。", "src": "B104"},
+    {"year": "1948—1952", "text": "查理大学（布拉格音乐学院电影系，通说待核）；1952年起在布拉格影视学院任教（Britannica：teaching literature in Prague starting in 1952）。", "src": "B104"},
+    {"year": "1950s—1960s", "text": "诗集、短篇与剧作《钥匙的主人们》（1962，Britannica：the one-act play Majitelé klíčů (1962)）；1967年《玩笑》出版（Britannica：landmark first novel The Joke (1967)）。", "src": "B104"},
+    {"year": "1968—1975", "text": "布拉格之春与苏军入侵；'refusing to recant his political views'被禁、解雇、开除出党（Britannica）；《生活在别处》《告别圆舞曲》在西方出版（通说待核）；1975年移居法国（Britannica：he emigrated to France in 1975）。", "src": "B104"},
+    {"year": "1979—1984", "text": "《笑忘书》（1979）出版后1979年被褫夺捷克国籍（Britannica：lost his Czech citizenship in 1979）；《不能承受的生命之轻》（1984，Britannica：The Unbearable Lightness of Being (1984)）。", "src": "B104"},
+    {"year": "1985—1995", "text": "1985年耶路撒冷奖演说'小说与欧洲'（通说待核）；改用法语写作：《慢》《身份》《无知》（Britannica：Slowness, Identity, Ignorance）与《小说的艺术》（Britannica：The Art of the Novel）。", "src": "B104"},
+    {"year": "2019", "text": "捷克国籍恢复（Britannica：restored in 2019, per a linked NPR article）；2023-07-11卒于巴黎（Britannica：died in Paris at age 94）。", "src": "B104"}
+  ],
+  "major_works": [
+    {"work_id": "qingzhong", "note": "1984；'blends erotic comedy with political criticism and philosophical speculation'（Britannica）"},
+    {"title": "玩笑（1967）", "note": "奠基首作（Britannica：landmark first novel）"},
+    {"title": "小说的艺术（1986）", "note": "小说理论随笔（Britannica 列举）"}
+  ],
+  "style": [
+    "音乐化的小说结构：'对位''变奏'（《笑忘书》七部——通说）；'小说不是研究现实，而是研究存在'（《小说的艺术》大意，通说待核）。",
+    "七章式的'轻与重'：尼采'永恒轮回'开篇——'重'与'轻'的辩证（通说）。",
+    "政治与情爱的双重变奏：'erotic comedy with political criticism and philosophical speculation'（Britannica）。",
+    "作者介入的' definitional '旁白：编号小节与定义（'表面是不可拒绝的'类——通说）。"
+  ],
+  "status": "Britannica 称昆德拉的小说'将情爱喜剧与政治批判、哲学思辨熔于一炉'（blends 'erotic comedy with political criticism and philosophical speculation'）。《不能承受的生命之轻》全球畅销、1988年考夫曼电影（Juliette Binoche/Daniel Day-Lewis，通说待核）使其成为冷战文学的世界符号。'不能承受的生命之轻'与'媚俗'（Kitsch）成为汉语思想界的通用词（通说待核）。",
+  "sources": ["B104"],
+  "dates_source": "B104",
+  "pending": [
+    "出生日期（1929-04-01）Britannica 条目未直书，本页从通说待核。",
+    "2008年告密指控（Hrádek 事件）的双方说法（Britannica 已记 disputed）待核。",
+    "《不朽》《缓慢》等法语作品的出版年待核。",
+    "韩少功译《生命中不能承受之轻》（1987）与许钧译本信息待核。"
+  ]
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 460" width="100%" role="img" font-family=""Segoe UI","Microsoft YaHei","PingFang SC",sans-serif">
+<rect x="0" y="0" width="680" height="460" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="130.0" x2="340.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="300.0" y="221.0" width="80.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">轻与重的婚姻</text>
+<line x1="340.0" y1="130.0" x2="120.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="214.0" y="171.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="230.0" y="184.0" font-size="12" fill="#555" text-anchor="middle">知己</text>
+<line x1="120.0" y1="230.0" x2="560.0" y2="230.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="221.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="234.0" font-size="12" fill="#555" text-anchor="middle">错位之恋</text>
+<line x1="340.0" y1="330.0" x2="100.0" y2="420.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="186.0" y="366.0" width="68.0" height="18" rx="3" fill="#fdf9f1"/><text x="220.0" y="379.0" font-size="12" fill="#555" text-anchor="middle">最后的温柔</text>
+<line x1="340.0" y1="40.0" x2="340.0" y2="130.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="76.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="89.0" font-size="12" fill="#555" text-anchor="middle">不能承受</text>
+<line x1="340.0" y1="420.0" x2="340.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="312.0" y="366.0" width="56.0" height="18" rx="3" fill="#fdf9f1"/><text x="340.0" y="379.0" font-size="12" fill="#555" text-anchor="middle">必须承受</text>
+<rect x="305.5" y="112.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="135.4" font-size="15" fill="#fff" text-anchor="middle">托马斯</text>
+<rect x="305.2" y="149.5" width="69.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="160.5" font-size="11" fill="#333" text-anchor="middle">轻·外科医生</text>
+<rect x="305.5" y="312.5" width="69.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">特蕾莎</text>
+<rect x="310.7" y="349.5" width="58.6" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">重·摄影师</text>
+<rect x="85.5" y="212.5" width="69.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="120.0" y="235.4" font-size="15" fill="#fff" text-anchor="middle">萨宾娜</text>
+<rect x="88.5" y="249.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="120.0" y="260.5" font-size="11" fill="#333" text-anchor="middle">背叛的画家</text>
+<rect x="525.5" y="212.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="560.0" y="235.4" font-size="15" fill="#fff" text-anchor="middle">弗兰茨</text>
+<rect x="528.5" y="249.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="560.0" y="260.5" font-size="11" fill="#333" text-anchor="middle">媚俗的教授</text>
+<rect x="320.5" y="22.5" width="39.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="45.4" font-size="15" fill="#fff" text-anchor="middle">轻</text>
+<rect x="308.5" y="59.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="70.5" font-size="11" fill="#333" text-anchor="middle">只发生一次</text>
+<rect x="320.5" y="402.5" width="39.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="340.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">重</text>
+<rect x="314.0" y="439.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">永恒轮回</text>
+<rect x="65.5" y="402.5" width="69.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="100.0" y="425.4" font-size="15" fill="#fff" text-anchor="middle">卡列宁</text>
+<rect x="74.0" y="439.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="100.0" y="450.5" font-size="11" fill="#333" text-anchor="middle">狗的微笑</text>
+<text x="340.0" y="450" font-size="12" fill="#8a8378" text-anchor="middle">《不能承受的生命之轻》四人物概念关系图</text>
+</svg>

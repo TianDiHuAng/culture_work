@@ -1,0 +1,92 @@
+{
+  "id": "qingzhong",
+  "title": "不能承受的生命之轻",
+  "original_title": "Nesnesitelná lehkost bytí / The Unbearable Lightness of Being（不能承受的生命之轻）",
+  "region": "捷克",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（哲理小说）",
+  "genre_group": "小说",
+  "language": "捷克语",
+  "author_id": "kundera",
+  "author_name": "米兰·昆德拉",
+  "year_display": "1984年出版（Britannica）",
+  "year_sort": 1984,
+  "background": [
+    "背景（Britannica）：'exploring lightness and weight against the backdrop of the Prague Spring'（以布拉格之春为背景探讨轻与重）——1968年苏军入侵后的捷克流亡知识分子群像。",
+    "哲学起点：尼采的'永恒轮回'（eternal recurrence）——若一切无限重复，则每个选择都'重'；但'只发生一次'的历史如同没有彩排的戏——'轻'（通说）。",
+    "出版：1984年法语先出（法译本先行，通说待核）与英语版（Heim 译，通说待核）同年；1988年电影改编（Philip Kaufman，Britannica 语境——通说待核）。"
+  ],
+  "outline": [
+    "托马斯：布拉格外科医生——'人永远无法知道自己该要什么'（原文意，待核）；因发表《俄狄浦斯》随笔拒签悔过书，被降职为擦窗工——'轻'的政治化。",
+    "特蕾莎：小镇酒吧女侍——以'六个偶然'（书、贝多芬、数字6）遇上托马斯；她的'重'（忠诚、噩梦、摄影的见证）与托马斯的'轻'（性与承诺的分离——Es muss sein?）反复拉锯。",
+    "萨宾娜：画家，'背叛的反叛者'——一生背叛家庭、学院、祖国；'背叛的尽头是虚无'（原文意，待核）——'轻'的极致样本；弗兰茨（教授）以'伟大的进军'式的媚俗殉难。",
+    "结局：托马斯与特蕾莎移居乡下，死于车祸（'轻'与'重'在天平上归于尘土，通说）；萨宾娜在美国收到特蕾莎与托马斯的死讯——'一个蓝绿色窗棂的画面'（原文意，待核）。"
+  ],
+  "characters": [
+    {"name": "托马斯", "identity": "外科医生", "note": "'轻'的化身：伦理上是'分离性与爱情'的两难（其'Es muss sein'的反复——原文意，待核）"},
+    {"name": "特蕾莎", "identity": "酒吧女侍→摄影者", "note": "'重'的化身：以镜头见证入侵（她的'苏俄入侵'照片——通说）"},
+    {"name": "萨宾娜", "identity": "画家", "note": "'美是一个被背弃的世界'（原文意，待核）——背叛的形而上学家"},
+    {"name": "弗兰茨", "identity": "日内瓦教授", "note": "'媚俗的殉道者'：以'伟大的进军'死于曼谷街头抢劫（通说）"},
+    {"name": "卡列宁", "identity": "狗", "note": "'卡列宁的微笑'末章：动物之爱无'重'亦无'轻'——小说最温柔处（通说）"}
+  ],
+  "themes": [
+    "轻与重：永恒轮回之重 vs 一次性生命之轻——'只有一次的生命轻得像灰尘'（原文意，待核）。",
+    "媚俗（Kitsch）：昆德拉的核心概念——'媚俗是对生命的绝对认同的谎言'（《小说的艺术》大意，通说待核）；弗兰茨与'伟大的进军'是其标本。",
+    "政治的浅薄化：坦克与游行如何把个人变成'修辞'（通说）。",
+    "身体的两种书写：托马斯的'性友谊清单'与特蕾莎的'身体'焦虑——灵肉的错位（通说）。",
+    "艺术特点：七部对位结构、定义与故事交替、'叙述者'的哲学旁白。"
+  ],
+  "influence": [
+    {"text": "Britannica（Kundera 条目）：The Unbearable Lightness of Being (1984)——布拉格之春背景的代表作；'erotic comedy with political criticism'。", "source": "B104"},
+    {"text": "Britannica：2019年捷克国籍恢复（NPR 链接报道）——流亡者与祖国的和解尾声。", "source": "B104"},
+    {"text": "1988年电影（Kaufman 导演，Binoche/Lewis 主演——通说待核）扩大世界影响。", "source": "B104"},
+    {"text": "中译：韩少功《生命中不能承受之轻》（1987，作家出版社——通说待核）与许钧《不能承受的生命之轻》（上海译文2003——通说待核）。", "source": "B104"}
+  ],
+  "reading": {
+    "difficulties": [
+      "哲学旁白与故事的交替——旁白是'小说的思想乐器'，不可跳读。",
+      "四人物四概念（轻/重/媚俗/背叛）的对位——先理清概念表。",
+      "性描写的'定义性'（每个场景都是概念的例证）——勿以寻常情爱小说读之。"
+    ],
+    "editions": [
+      "许钧译《不能承受的生命之轻》（上海译文出版社，2003，通说待核）：通行本。",
+      "韩少功、韩刚译《生命中不能承受之轻》（作家出版社，1987，通说待核）：最早中译。",
+      "英译：Michael Henry Heim（1984，通说待核）。"
+    ],
+    "order": "通读七部 → 精读第一部的'轻与重'与第六部'伟大的进军'（媚俗论）→ 读末部'卡列宁的微笑' → 对照电影（1988）。"
+  },
+  "pending": [
+    "1984年出版细节（法/英/捷克语三种版本先后）待核。",
+    "韩少功/许钧译本出版信息待核。",
+    "1988年电影改编细节待核。",
+    "2008年告密事件双方说法（Britannica disputed 口径）的展开待核。"
+  ],
+  "sources": ["B104"],
+  "year_source": "B104",
+  "author_source": "B104",
+  "related_works": ["shinv", "yijiubasi", "riwage"],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 460,
+    "caption": "《不能承受的生命之轻》四人物概念关系图",
+    "nodes": [
+      {"id": "tomas", "label": "托马斯", "x": 340, "y": 130, "color": "main", "sub": "轻·外科医生"},
+      {"id": "teresa", "label": "特蕾莎", "x": 340, "y": 330, "color": "main", "sub": "重·摄影师"},
+      {"id": "sabina", "label": "萨宾娜", "x": 120, "y": 230, "color": "family", "sub": "背叛的画家"},
+      {"id": "franz", "label": "弗兰茨", "x": 560, "y": 230, "color": "plain", "sub": "媚俗的教授"},
+      {"id": "light", "label": "轻", "x": 340, "y": 40, "color": "gold", "sub": "只发生一次"},
+      {"id": "weight", "label": "重", "x": 340, "y": 420, "color": "gold", "sub": "永恒轮回"},
+      {"id": "kalinin", "label": "卡列宁", "x": 100, "y": 420, "color": "plain", "sub": "狗的微笑"}
+    ],
+    "edges": [
+      {"a": "tomas", "b": "teresa", "label": "轻与重的婚姻"},
+      {"a": "tomas", "b": "sabina", "label": "知己"},
+      {"a": "sabina", "b": "franz", "label": "错位之恋"},
+      {"a": "teresa", "b": "kalinin", "label": "最后的温柔"},
+      {"a": "light", "b": "tomas", "label": "不能承受"},
+      {"a": "weight", "b": "teresa", "label": "必须承受"}
+    ]
+  }
+}
