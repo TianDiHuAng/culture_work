@@ -1,0 +1,103 @@
+{
+  "id": "xiaobaozhuang",
+  "title": "小鲍庄",
+  "original_title": "小鲍庄（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "wanganyi",
+  "author_name": "王安忆",
+  "year_display": "1985年出版（英文维基 B216：Baotown (1985)）；获第四届全国中篇小说奖（B216）",
+  "year_sort": 1985,
+  "background": [
+    "英文维基（B216）：'In Baotown (1985), Wang focused on the culture of rural China, drawing from her own experience'——转向乡土中国文化；获第四届全国中篇小说奖（B216 获奖列表）。",
+    "英文名著（B216 转述评论）：仁善的孩童主角与'自私、偏见的残酷和封闭的成年村民'的对照（'benevolent child protagonist is contrasted with selfish, prejudicial, cruel and close-minded adult villagers'）。"
+  ],
+  "outline": [
+    "小鲍庄的'仁义'传统与涝渣（鲍仁文）之死（人物名与情节通说待核）。",
+    "'仁义'神话的解构（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "捞渣（鲍仁文）",
+      "identity": "孩童",
+      "note": "仁义的化身（通说待核）"
+    },
+    {
+      "name": "鲍彦山一家",
+      "identity": "村民",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'仁义'文化的审视（B216：rural China culture）。",
+    "孩童与成人的对照（B216：benevolent child protagonist）。",
+    "寻根文学的乡土书写（B216 语境：王安忆'写于中国'的决定）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：获第四届全国中篇小说奖（1987年颁奖）（B216）。",
+      "source": "B216"
+    },
+    {
+      "text": "英文维基：转引评论——'words that carry not the least hint of subjectivity'（不以主观色彩的语言）（B216 转引 Ying Hong）。",
+      "source": "B216"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'仁义'话语的反讽。",
+      "多人物群像。"
+    ],
+    "editions": [
+      "《小鲍庄》（人民文学出版社/上海文艺出版社版本，通说待核）。"
+    ],
+    "order": "对照《爸爸爸》（韩少功——通说）：寻根文学的两幅面孔。"
+  },
+  "pending": [
+    "捞渣/鲍仁文人名与情节核对。",
+    "第四届全国中篇小说奖颁奖年份核对。",
+    "'寻根'标签与作者的疏离待核。"
+  ],
+  "sources": [
+    "B216"
+  ],
+  "year_source": "B216",
+  "author_source": "B216",
+  "related_works": [
+    "huozhe",
+    "pingfan",
+    "qiqiechengqun"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小鲍庄》仁义结构图",
+    "cards": [
+      {
+        "title": "小鲍庄",
+        "text": "'仁义'之庄",
+        "color": "family"
+      },
+      {
+        "title": "捞渣",
+        "text": "孩童的仁义（B216）",
+        "color": "main"
+      },
+      {
+        "title": "洪水",
+        "text": "牺牲与神话",
+        "color": "gold"
+      },
+      {
+        "title": "解构",
+        "text": "仁义的背面",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

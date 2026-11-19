@@ -1,0 +1,103 @@
+{
+  "id": "qiqiechengqun",
+  "title": "妻妾成群",
+  "original_title": "妻妾成群（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "sutong",
+  "author_name": "苏童",
+  "year_display": "发表年份待核（《收获》1988年说——通说待核）；苏童代表作之一（中国作家网 C015）",
+  "year_sort": 1988,
+  "background": [
+    "中国作家网（C015）：'其代表作包括《妻妾成群》《红粉》等中篇'——本作为苏童代表作（C015 官方口径）。",
+    "改编（通说待核）：1991年张艺谋电影《大红灯笼高高挂》。"
+  ],
+  "outline": [
+    "颂莲嫁入陈家：四房姨太太的庭院战争（通说待核）。",
+    "雁儿、毓如、卓云与'死人井'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "颂莲",
+      "identity": "四姨太",
+      "note": "女大学生嫁入（通说待核）"
+    },
+    {
+      "name": "陈佐千",
+      "identity": "老爷",
+      "note": "封建家长（通说待核）"
+    }
+  ],
+  "themes": [
+    "旧式庭院的女人们（通说）。",
+    "阴冷的意象主义笔法（通说）。",
+    "先锋与写实的中间形态（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：列为苏童代表作（C015）。",
+      "source": "C015"
+    },
+    {
+      "text": "改编电影获威尼斯银狮奖与奥斯卡提名（1991年——通说待核）。",
+      "source": "C015"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "庭院空间的心理化。",
+      "先锋笔法与旧白话的杂糅。"
+    ],
+    "editions": [
+      "《妻妾成群》（上海译文出版社/人民文学出版社版本，通说待核）。"
+    ],
+    "order": "对照《黄雀记》：香椿树街内外。"
+  },
+  "pending": [
+    "初刊（《收获》1988年第6期说）与发表年份核对。",
+    "颂莲人名与情节细节核对。",
+    "电影改编获奖细节待核。"
+  ],
+  "sources": [
+    "C015"
+  ],
+  "year_source": "C015",
+  "author_source": "C015",
+  "related_works": [
+    "huangqueji",
+    "hongzi",
+    "jinsuoji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《妻妾成群》庭院结构图",
+    "cards": [
+      {
+        "title": "颂莲",
+        "text": "第四房太太",
+        "color": "main"
+      },
+      {
+        "title": "陈家花园",
+        "text": "井的恐惧",
+        "color": "antagonist"
+      },
+      {
+        "title": "雁儿",
+        "text": "丫头的敌意",
+        "color": "gold"
+      },
+      {
+        "title": "点灯",
+        "text": "捶脚与点灯",
+        "color": "family"
+      }
+    ]
+  }
+}
