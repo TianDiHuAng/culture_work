@@ -1,0 +1,104 @@
+{
+  "id": "kuailederizi",
+  "title": "快乐的日子",
+  "original_title": "Happy Days",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "beckett",
+  "author_name": "塞缪尔·贝克特",
+  "year_display": "1961年（作者页 B094 口径：快乐的日子（1961））",
+  "year_sort": 1961,
+  "background": [
+    "作者页（B094）：贝克特 major_works 载'快乐的日子（1961）'（B094 作者页定位，详见 dengdaigou 条核对）。",
+    "场景（通说待核）：温妮半埋土丘中——第一幕到腰，第二幕到颈，仍'快乐'地刷牙与说话。"
+  ],
+  "outline": [
+    "温妮的日常仪式：从腰埋到颈（通说待核）。",
+    "威利的缺席与呻吟（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "温妮",
+      "identity": "女人",
+      "note": "半埋土中（通说待核）"
+    },
+    {
+      "name": "威利",
+      "identity": "丈夫",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'快乐'的反讽（通说）。",
+    " buried 的存在状态（通说待核）。",
+    "日常仪式的坚持（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：贝克特戏剧谱系（B094 作者页口径）。",
+      "source": "B094"
+    },
+    {
+      "text": "与《终局》并立的晚期双作（通说）。",
+      "source": "B094"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "身体禁锢的舞台想象。",
+      "独白的循环。"
+    ],
+    "editions": [
+      "《快乐的日子》（湖南文艺出版社《贝克特选集》，通说待核）。",
+      "英文/法文原版。"
+    ],
+    "order": "《终局》后读。"
+  },
+  "pending": [
+    "1961年出版（Grove说）核对。",
+    "温妮/威利人名核对。",
+    "两幕埋土程度核对。"
+  ],
+  "sources": [
+    "B094"
+  ],
+  "year_source": "B094",
+  "author_source": "B094",
+  "related_works": [
+    "zhongju",
+    "dengdaigou",
+    "moluyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《快乐的日子》埋土结构图",
+    "cards": [
+      {
+        "title": "土丘",
+        "text": "半埋的温妮",
+        "color": "main"
+      },
+      {
+        "title": "仪式",
+        "text": "刷牙与说话",
+        "color": "gold"
+      },
+      {
+        "title": "威利",
+        "text": "缺席的丈夫",
+        "color": "family"
+      },
+      {
+        "title": "快乐",
+        "text": "题目的反讽",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

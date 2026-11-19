@@ -1,0 +1,103 @@
+{
+  "id": "shijiemori",
+  "title": "世界末日之战",
+  "original_title": "La guerra del fin del mundo（The War of the End of the World）",
+  "region": "秘鲁",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "llosa",
+  "author_name": "马里奥·巴尔加斯·略萨",
+  "year_display": "1981年（作者页 B159 口径：世界末日之战（1981））",
+  "year_sort": 1981,
+  "background": [
+    "作者页（B159）：略萨 major_works 载'世界末日之战（1981）'（B159 作者页定位，详见 chengshiyugou 条核对）。",
+    "题材（通说待核）：1896—97年巴西卡努杜斯农民起义——'劝世者'的千年王国与共和国军队的围剿。"
+  ],
+  "outline": [
+    "'劝世者'与卡努杜斯共和国——四次围剿与屠城（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "劝世者",
+      "identity": "传教者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "近卫军?",
+      "identity": "政府军",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "千年王国运动的兴亡（通说待核）。",
+    "历史的暴力回声（通说）。",
+    "群像史诗（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：略萨历史巨作（B159 作者页口径）。",
+      "source": "B159"
+    },
+    {
+      "text": "以欧仁·苏？——不：以达·库尼亚《腹地》为史料基础（通说待核）。",
+      "source": "B159"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "巴西卡努杜斯史。",
+      "群像人物表。"
+    ],
+    "editions": [
+      "《世界末日之战》（人民文学出版社/上海译文版本，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "略萨历史小说之首。"
+  },
+  "pending": [
+    "1981年出版（Editorial Plaza & Janés说）核对。",
+    "'劝世者'人名与史实（Antônio Conselheiro）待核。",
+    "达·库尼亚《腹地》史源待核。"
+  ],
+  "sources": [
+    "B159"
+  ],
+  "year_source": "B159",
+  "author_source": "B159",
+  "related_works": [
+    "chengshiyugou",
+    "lüfangzi",
+    "niwanghechuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《世界末日之战》千年王国图",
+    "cards": [
+      {
+        "title": "劝世者",
+        "text": "卡努杜斯的先知",
+        "color": "main"
+      },
+      {
+        "title": "围剿",
+        "text": "四次远征",
+        "color": "antagonist"
+      },
+      {
+        "title": "屠城",
+        "text": "末日的实现",
+        "color": "gold"
+      },
+      {
+        "title": "腹地",
+        "text": "史源的沙漠（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

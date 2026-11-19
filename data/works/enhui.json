@@ -1,0 +1,103 @@
+{
+  "id": "enhui",
+  "title": "恩惠",
+  "original_title": "A Mercy",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "morrison",
+  "author_name": "托妮·莫里森",
+  "year_display": "2008年（作者页 B150 口径：恩惠（A Mercy，2008））",
+  "year_sort": 2008,
+  "background": [
+    "作者页（B150）：莫里森 major_works 载'恩惠（A Mercy，2008）'（B150 作者页定位，详见 chonger 条核对）。",
+    "题材（通说待核）：1690年前后北美殖民地——弗洛伦斯的'恩惠'：被卖与被救的双义。"
+  ],
+  "outline": [
+    "弗洛伦斯被雅各布买下——'恩惠'的灾难与慰藉（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "弗洛伦斯",
+      "identity": "女奴",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "雅各布",
+      "identity": "商人",
+      "note": "买主（通说待核）"
+    }
+  ],
+  "themes": [
+    "殖民早期的奴役谱系（通说待核）。",
+    "'恩惠'的双义（通说）。",
+    "女性多声部（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莫里森晚年之作（B150 作者页口径）。",
+      "source": "B150"
+    },
+    {
+      "text": "作者页：莫里森1993年诺奖（B150 作者级）。",
+      "source": "B150"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "17世纪北美殖民语境。",
+      "多声部视角。"
+    ],
+    "editions": [
+      "《恩惠》（南海出版公司？——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "莫里森晚年收官。"
+  },
+  "pending": [
+    "2008年出版（Knopf说）核对。",
+    "弗洛伦斯/雅各布人名核对。",
+    "'恩惠'题解待核。"
+  ],
+  "sources": [
+    "B150"
+  ],
+  "year_source": "B150",
+  "author_source": "B150",
+  "related_works": [
+    "chonger",
+    "suoluomanzhige",
+    "zuiLandeyanjing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恩惠》殖民结构图",
+    "cards": [
+      {
+        "title": "被卖",
+        "text": "弗洛伦斯",
+        "color": "main"
+      },
+      {
+        "title": "恩惠",
+        "text": "救赎的双义",
+        "color": "gold"
+      },
+      {
+        "title": "殖民地",
+        "text": "1690年的北美",
+        "color": "family"
+      },
+      {
+        "title": "女声",
+        "text": "多声部（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

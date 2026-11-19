@@ -1,0 +1,98 @@
+{
+  "id": "fafenjia",
+  "title": "分家",
+  "original_title": "A House Divided",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "buck",
+  "author_name": "赛珍珠（Pearl S. Buck）",
+  "year_display": "1935年（作者页 B165 口径：分家（A House Divided））",
+  "year_sort": 1935,
+  "background": [
+    "作者页（B165）：赛珍珠 major_works 载'分家（A House Divided）'——《大地》三部曲第三部（B165 作者页定位，详见 dadi 条核对）。",
+    "题材（通说待核）：王源留学归国——'分裂的房子'（传统与革命）。"
+  ],
+  "outline": [
+    "王源（王虎之子）留学归国——新旧中国的'分裂'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "王源",
+      "identity": "留学生",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'分裂的房子'：美国的回望（书名通说——A House Divided）。",
+    "留学生的精神撕裂（通说待核）。",
+    "三部曲收官（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：赛珍珠'大地三部曲'之三（B165 作者页口径）。",
+      "source": "B165"
+    },
+    {
+      "text": "作者页：赛珍珠1938诺奖（B165 作者级）。",
+      "source": "B165"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部曲世系。",
+      "革命史背景。"
+    ],
+    "editions": [
+      "《分家》（漓江出版社等版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "三部曲之末。"
+  },
+  "pending": [
+    "1935年出版（John Day说）核对。",
+    "王源人名核对。",
+    "书名出自林肯'分裂之家'说待核。"
+  ],
+  "sources": [
+    "B165"
+  ],
+  "year_source": "B165",
+  "author_source": "B165",
+  "related_works": [
+    "dadi",
+    "erzimen",
+    "renshijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《分家》分裂结构图",
+    "cards": [
+      {
+        "title": "留学",
+        "text": "王源的美国",
+        "color": "family"
+      },
+      {
+        "title": "归国",
+        "text": "分裂的房子",
+        "color": "main"
+      },
+      {
+        "title": "革命",
+        "text": "新旧中国",
+        "color": "gold"
+      },
+      {
+        "title": "三部曲",
+        "text": "大地之三（B165）",
+        "color": "plain"
+      }
+    ]
+  }
+}

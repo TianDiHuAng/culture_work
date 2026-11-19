@@ -1,0 +1,109 @@
+{
+  "id": "baofengyu",
+  "title": "暴风雨",
+  "original_title": "The Tempest",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "传奇剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "shakespeare",
+  "author_name": "威廉·莎士比亚",
+  "year_display": "约1611年（通说待核；作者页 B033/B007 口径：major_works 载'暴风雨'）",
+  "year_sort": 1611,
+  "background": [
+    "作者页（B033/B007）：莎士比亚 major_works 载'暴风雨'（B033 作者页定位，详见 hamlet 条核对）。",
+    "题材（通说待核）：被篡位的米兰公爵普洛斯彼罗的荒岛魔法——宽恕与' 我们的 little life'。"
+  ],
+  "outline": [
+    "风暴沉船→凯列班的岛上统治→ Ferdinand 与米兰达的婚约→'释放'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "普洛斯彼罗",
+      "identity": "魔法师",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "凯列班",
+      "identity": "岛上原住民",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "爱丽儿",
+      "identity": "精灵",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "宽恕的终曲（通说）。",
+    "殖民主义的先声（凯列班——通说待核）。",
+    "'Our revels now are ended'（名句通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莎翁传奇剧代表作（B033/B007 作者页口径）。",
+      "source": "B033"
+    },
+    {
+      "text": "后殖民批评的经典文本（凯列班——通说待核）。",
+      "source": "B033"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "魔法与舞台机关。",
+      "传奇剧的宽恕结构。"
+    ],
+    "editions": [
+      "《暴风雨》（朱生豪译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "莎翁晚期收官。"
+  },
+  "pending": [
+    "1611年宫廷演出说核对。",
+    "普洛斯彼罗/凯列班/爱丽儿人名核对。",
+    "'Our revels now are ended'原文核对。"
+  ],
+  "sources": [
+    "B033",
+    "B007"
+  ],
+  "year_source": "B033",
+  "author_source": "B033",
+  "related_works": [
+    "zhongxiayezhimeng",
+    "aosailuo",
+    "luomiou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《暴风雨》荒岛结构图",
+    "cards": [
+      {
+        "title": "风暴",
+        "text": "沉船的复仇",
+        "color": "antagonist"
+      },
+      {
+        "title": "普洛斯彼罗",
+        "text": "荒岛的魔法师",
+        "color": "main"
+      },
+      {
+        "title": "凯列班",
+        "text": "岛上原住民",
+        "color": "gold"
+      },
+      {
+        "title": "宽恕",
+        "text": "释放与归还",
+        "color": "family"
+      }
+    ]
+  }
+}

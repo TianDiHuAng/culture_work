@@ -1,0 +1,104 @@
+{
+  "id": "hailang",
+  "title": "海浪",
+  "original_title": "The Waves",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "woolf",
+  "author_name": "弗吉尼亚·伍尔夫",
+  "year_display": "1931年（作者页 B128 口径：海浪（1931））",
+  "year_sort": 1931,
+  "background": [
+    "作者页（B128）：伍尔夫 major_works 载'海浪（1931）'（B128 作者页定位，详见 daluolaiwei 条核对）。",
+    "文体（通说待核）：六位人物的独白诗剧——从童年到老年的日升日落。"
+  ],
+  "outline": [
+    "伯纳德、苏珊、 Jin、奈维尔、路易、罗达——六个声部（人物名通说待核）。",
+    "波西弗之死为转折（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "伯纳德",
+      "identity": "讲述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "罗达",
+      "identity": "恐惧者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "独白诗剧：'海浪'式意识（通说）。",
+    "死亡的浪头（通说待核）。",
+    "散文诗的极限（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：伍尔夫最实验之作（B128 作者页口径）。",
+      "source": "B128"
+    },
+    {
+      "text": "被视为伍尔夫的杰作之巅（通说待核）。",
+      "source": "B128"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "六声部独白。",
+      "散文诗节奏。"
+    ],
+    "editions": [
+      "《海浪》（上海译文出版社曹元勇译本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "伍尔夫实验之巅（先读《达洛维》）。"
+  },
+  "pending": [
+    "六位人物名（Bernard/Susan/Jin/Neville/Louis/Rhoda）核对。",
+    "1931年出版（Hogarth说）核对。",
+    "波西弗之死细节待核。"
+  ],
+  "sources": [
+    "B128"
+  ],
+  "year_source": "B128",
+  "author_source": "B128",
+  "related_works": [
+    "daluolaiwei",
+    "daotadengqu",
+    "ershou shijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《海浪》六声部图",
+    "cards": [
+      {
+        "title": "日出—日落",
+        "text": "一天的循环",
+        "color": "family"
+      },
+      {
+        "title": "六声部",
+        "text": "独白的诗剧",
+        "color": "main"
+      },
+      {
+        "title": "波西弗",
+        "text": "死亡的浪头（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "海浪",
+        "text": "意识的起伏",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "aolando",
+  "title": "奥兰多",
+  "original_title": "Orlando: A Biography",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "woolf",
+  "author_name": "弗吉尼亚·伍尔夫",
+  "year_display": "1928年（作者页 B128 口径：奥兰多（1928））",
+  "year_sort": 1928,
+  "background": [
+    "作者页（B128）：伍尔夫 major_works 载'奥兰多（1928）、海浪（1931）、一间自己的房间（1929）'（B128 作者页定位，详见 daluolaiwei 条核对）。",
+    "题材（通说待核）：奥兰多跨越四百年与性别转换——'传记'形式的幻想。"
+  ],
+  "outline": [
+    "伊丽莎白时代少年→性别转换→20世纪诗人——四百年的不老（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥兰多",
+      "identity": "贵族",
+      "note": "跨越性别与世纪（通说待核）"
+    },
+    {
+      "name": "薇塔?",
+      "identity": "原型",
+      "note": "薇塔·萨克维尔-韦斯特（通说待核）"
+    }
+  ],
+  "themes": [
+    "性别的流动（通说）。",
+    "'传记'的反讽（书副题——通说待核）。",
+    "献给薇塔的情书（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：伍尔夫代表作谱系（B128 作者页口径）。",
+      "source": "B128"
+    },
+    {
+      "text": "女性主义与酷儿理论经典（通说待核）。",
+      "source": "B128"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "四百年跨度。",
+      "'传记'体的反讽。"
+    ],
+    "editions": [
+      "《奥兰多》（上海译文出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《一间自己的房间》后本作。"
+  },
+  "pending": [
+    "1928年出版（Hogarth Press说）核对。",
+    "奥兰多人名与原型（薇塔）待核。",
+    "性别转换章节细节待核。"
+  ],
+  "sources": [
+    "B128"
+  ],
+  "year_source": "B128",
+  "author_source": "B128",
+  "related_works": [
+    "daluolaiwei",
+    "daotadengqu",
+    "dierxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《奥兰多》四百年结构图",
+    "cards": [
+      {
+        "title": "伊丽莎白时代",
+        "text": "少年的宫廷",
+        "color": "family"
+      },
+      {
+        "title": "性别转换",
+        "text": "君士坦丁堡之变",
+        "color": "main"
+      },
+      {
+        "title": "1928",
+        "text": "当代的诗人",
+        "color": "gold"
+      },
+      {
+        "title": "薇塔",
+        "text": "原型的情书（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

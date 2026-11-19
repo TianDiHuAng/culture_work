@@ -1,0 +1,109 @@
+{
+  "id": "jueshi",
+  "title": "爵士",
+  "original_title": "Jazz",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "morrison",
+  "author_name": "托妮·莫里森",
+  "year_display": "1992年（作者页 B150 口径：爵士（1992））",
+  "year_sort": 1992,
+  "background": [
+    "作者页（B150）：莫里森 major_works 载'爵士（1992）'（B150 作者页定位，详见 chonger 条核对）。",
+    "题材（通说待核）：1926年哈莱姆——乔枪杀少女薇奥莱特剪发——'爵士'时代的三角与城市。"
+  ],
+  "outline": [
+    "乔与紫丁香的婚变、少女多卡斯之死（通说待核）。",
+    "叙述者即'爵士乐'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "乔",
+      "identity": "化妆品推销员",
+      "note": "枪杀者（通说待核）"
+    },
+    {
+      "name": "紫丁香（Violet）",
+      "identity": "妻子",
+      "note": "剪发者（通说待核）"
+    },
+    {
+      "name": "多卡斯",
+      "identity": "少女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "爵士乐结构：即兴与复调（通说）。",
+    "哈莱姆的城市记忆（通说待核）。",
+    "三角暴力（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莫里森代表作谱系（B150 作者页口径）。",
+      "source": "B150"
+    },
+    {
+      "text": "作者页：莫里森1993年诺奖（B150 作者级）。",
+      "source": "B150"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "爵士结构的阅读。",
+      "哈莱姆史。"
+    ],
+    "editions": [
+      "《爵士》（南海出版公司新经典版？——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "《宠儿》《所罗门之歌》之后。"
+  },
+  "pending": [
+    "1992年出版（Knopf说）核对。",
+    "乔/紫丁香/多卡斯人名核对。",
+    "叙述者的'爵士'评论待核。"
+  ],
+  "sources": [
+    "B150"
+  ],
+  "year_source": "B150",
+  "author_source": "B150",
+  "related_works": [
+    "chonger",
+    "suoluomanzhige",
+    "zuiLandeyanjing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《爵士》哈莱姆结构图",
+    "cards": [
+      {
+        "title": "枪响",
+        "text": "三角的断裂",
+        "color": "antagonist"
+      },
+      {
+        "title": "哈莱姆",
+        "text": "1926年的城",
+        "color": "family"
+      },
+      {
+        "title": "爵士乐",
+        "text": "即兴的叙述（通说）",
+        "color": "main"
+      },
+      {
+        "title": "紫丁香",
+        "text": "剪发的妻子",
+        "color": "gold"
+      }
+    ]
+  }
+}

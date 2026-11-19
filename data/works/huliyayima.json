@@ -1,0 +1,103 @@
+{
+  "id": "huliyayima",
+  "title": "胡莉娅姨妈与作家",
+  "original_title": "La tía Julia y el escribidor（Aunt Julia and the Scriptwriter）",
+  "region": "秘鲁",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "llosa",
+  "author_name": "马里奥·巴尔加斯·略萨",
+  "year_display": "1977年（作者页 B159 口径：胡莉娅姨妈与作家（1977））",
+  "year_sort": 1977,
+  "background": [
+    "作者页（B159）：略萨 major_works 载'胡莉娅姨妈与作家（1977）'（B159 作者页定位，详见 chengshiyugou 条核对）。",
+    "题材（通说待核）：半自传——青年'略萨'（小说家）与小32岁的胡莉娅姨妈的婚事，与广播剧作家'卡马乔'的疯癫连载双线。"
+  ],
+  "outline": [
+    "婚事与广播剧：现实爱情与疯癫剧本的双线（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "胡莉娅",
+      "identity": "姨妈",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "卡马乔",
+      "identity": "广播剧作家",
+      "note": "疯癫的连载（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱情与写作的双线（通说）。",
+    "广播剧的疯狂（通说待核）。",
+    "自传与虚构的边界（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：略萨代表作（B159 作者页口径）。",
+      "source": "B159"
+    },
+    {
+      "text": "1983年电影改编（Tune in Tomorrow——通说待核）。",
+      "source": "B159"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双线交替的节奏。",
+      "自传伦理。"
+    ],
+    "editions": [
+      "《胡莉娅姨妈与作家》（人民文学出版社/上海译文版本，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "略萨轻松面之作。"
+  },
+  "pending": [
+    "1977年出版（Seix Barral说）核对。",
+    "胡莉娅/卡马乔人名核对。",
+    "离婚风波的自传事实待核。"
+  ],
+  "sources": [
+    "B159"
+  ],
+  "year_source": "B159",
+  "author_source": "B159",
+  "related_works": [
+    "chengshiyugou",
+    "shijiemori",
+    "fengsheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《胡莉娅姨妈》双线结构图",
+    "cards": [
+      {
+        "title": "爱情",
+        "text": "姨妈的婚事",
+        "color": "main"
+      },
+      {
+        "title": "广播剧",
+        "text": "卡马乔的疯连载",
+        "color": "gold"
+      },
+      {
+        "title": "自传",
+        "text": "青年作家（通说）",
+        "color": "family"
+      },
+      {
+        "title": "边界",
+        "text": "真实与虚构",
+        "color": "plain"
+      }
+    ]
+  }
+}

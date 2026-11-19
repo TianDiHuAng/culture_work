@@ -1,0 +1,98 @@
+{
+  "id": "longzhong",
+  "title": "龙种",
+  "original_title": "Dragon Seed",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "buck",
+  "author_name": "赛珍珠（Pearl S. Buck）",
+  "year_display": "1942年（作者页 B165 口径：龙种（Dragon Seed））",
+  "year_sort": 1942,
+  "background": [
+    "作者页（B165）：赛珍珠 major_works 载'龙种（Dragon Seed）'（B165 作者页定位，详见 dadi 条核对）。",
+    "题材（通说待核）：日军侵华下的中国村庄——农民的抵抗与'龙种'的延续。"
+  ],
+  "outline": [
+    "日军入侵下的村庄： Ling翁？——通说待核：林郯一家与'龙种'（抵抗的种子）。"
+  ],
+  "characters": [
+    {
+      "name": "林郯",
+      "identity": "农民",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "抗战中的农民史诗（通说）。",
+    "'龙种'：民族的延续（通说待核）。",
+    "以英语写中国抗战（通说——赛珍珠视角）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：赛珍珠作品谱系（《大地》作者——B165 作者级定位）。",
+      "source": "B165"
+    },
+    {
+      "text": "1942年出版后为美国读者理解中国抗战的窗口（通说待核）。",
+      "source": "B165"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "英语视角的中国书写。",
+      "抗战史背景。"
+    ],
+    "editions": [
+      "《龙种》（漓江出版社等版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "《大地》三部曲之后阅读。"
+  },
+  "pending": [
+    "1942年出版（John Day说）核对。",
+    "林郯人名核对。",
+    "1944年电影改编待核。"
+  ],
+  "sources": [
+    "B165"
+  ],
+  "year_source": "B165",
+  "author_source": "B165",
+  "related_works": [
+    "dadi",
+    "baofengzhouyu",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《龙种》抗战结构图",
+    "cards": [
+      {
+        "title": "入侵",
+        "text": "日军进村",
+        "color": "antagonist"
+      },
+      {
+        "title": "林郯",
+        "text": "农民的抵抗",
+        "color": "main"
+      },
+      {
+        "title": "龙种",
+        "text": "民族的延续",
+        "color": "gold"
+      },
+      {
+        "title": "大地",
+        "text": "作者的前作",
+        "color": "family"
+      }
+    ]
+  }
+}

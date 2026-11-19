@@ -1,0 +1,109 @@
+{
+  "id": "fu",
+  "title": "福",
+  "original_title": "Foe",
+  "region": "南非",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "coetzee",
+  "author_name": "J.M.库切",
+  "year_display": "1986年（作者页 B161 口径：福（1986））",
+  "year_sort": 1986,
+  "background": [
+    "作者页（B161）：库切 major_works 载'福（1986）'（B161 作者页定位，详见 chi 条核对）。",
+    "题材（通说待核）：笛福《鲁滨逊漂流记》的改写——克鲁索、苏珊·巴顿与'作家福'。"
+  ],
+  "outline": [
+    "苏珊的海岛故事与'作家福'的改写权之争（通说待核）。",
+    "失去 tongue 的星期五——沉默的核心（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "苏珊·巴顿",
+      "identity": "讲述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "星期五",
+      "identity": "失舌者",
+      "note": "沉默的中心（通说待核）"
+    },
+    {
+      "name": "福",
+      "identity": "作家",
+      "note": "笛福的影射（通说待核）"
+    }
+  ],
+  "themes": [
+    "经典的改写权（通说）。",
+    "星期五的沉默：他者的不可言说（通说待核）。",
+    "后殖民的元小说（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：库切代表作（B161 作者页口径）。",
+      "source": "B161"
+    },
+    {
+      "text": "对笛福《鲁滨逊漂流记》的后殖民改写（通说待核）。",
+      "source": "B161"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "元小说与改写。",
+      "笛福原典对照。"
+    ],
+    "editions": [
+      "《福》（浙江文艺出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "对照《鲁滨逊漂流记》。"
+  },
+  "pending": [
+    "1986年出版（Secker & Warburg说）核对。",
+    "苏珊/星期五/福人名核对。",
+    "星期五失去舌头的原因待核。"
+  ],
+  "sources": [
+    "B161"
+  ],
+  "year_source": "B161",
+  "author_source": "B161",
+  "related_works": [
+    "lubinxun",
+    "chi",
+    "dengdaiyemanren"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《福》改写结构图",
+    "cards": [
+      {
+        "title": "海岛",
+        "text": "鲁滨逊的改写",
+        "color": "main"
+      },
+      {
+        "title": "星期五",
+        "text": "沉默的他者",
+        "color": "gold"
+      },
+      {
+        "title": "福",
+        "text": "作家的权力",
+        "color": "antagonist"
+      },
+      {
+        "title": "追问",
+        "text": "故事属于谁",
+        "color": "family"
+      }
+    ]
+  }
+}

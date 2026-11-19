@@ -1,0 +1,98 @@
+{
+  "id": "erzimen",
+  "title": "儿子们",
+  "original_title": "Sons",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "buck",
+  "author_name": "赛珍珠（Pearl S. Buck）",
+  "year_display": "1932年（作者页 B165 口径：儿子们（Sons））",
+  "year_sort": 1932,
+  "background": [
+    "作者页（B165）：赛珍珠 major_works 载'儿子们（Sons）'——《大地》三部曲第二部（B165 作者页定位，详见 dadi 条核对）。",
+    "题材（通说待核）：王虎（王龙之子）的军阀之路——大地财富向权力的转化。"
+  ],
+  "outline": [
+    "王虎成为军阀：兄弟分家与儿子的野心（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "王虎",
+      "identity": "王龙之子",
+      "note": "军阀（通说待核）"
+    }
+  ],
+  "themes": [
+    "军阀时代的家族史（通说待核）。",
+    "土地→权力的转化（通说）。",
+    "三部曲中段（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：赛珍珠'大地三部曲'（B165 作者页口径）。",
+      "source": "B165"
+    },
+    {
+      "text": "作者页：赛珍珠1938年诺奖（B165 作者级）。",
+      "source": "B165"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部曲世系。",
+      "军阀史。"
+    ],
+    "editions": [
+      "《儿子们》（漓江出版社等版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "《大地》→《儿子们》→《分家》。"
+  },
+  "pending": [
+    "1932年出版（John Day说）核对。",
+    "王虎人名核对。",
+    "三部曲总名（The House of Wang说）待核。"
+  ],
+  "sources": [
+    "B165"
+  ],
+  "year_source": "B165",
+  "author_source": "B165",
+  "related_works": [
+    "dadi",
+    "fafenjia",
+    "baofengzhouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《儿子们》军阀结构图",
+    "cards": [
+      {
+        "title": "王虎",
+        "text": "军阀之路",
+        "color": "main"
+      },
+      {
+        "title": "分家",
+        "text": "兄弟的离散",
+        "color": "family"
+      },
+      {
+        "title": "权力",
+        "text": "土地的变形",
+        "color": "gold"
+      },
+      {
+        "title": "三部曲",
+        "text": "大地之二（B165）",
+        "color": "plain"
+      }
+    ]
+  }
+}
