@@ -1,0 +1,103 @@
+{
+  "id": "chuncan",
+  "title": "春蚕",
+  "original_title": "春蚕（短篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "maodun",
+  "author_name": "茅盾",
+  "year_display": "1932—33年发表（通说待核；作者页 B078 口径：major_works 载'林家铺子、春蚕'）",
+  "year_sort": 1932,
+  "background": [
+    "作者页（B078）：茅盾 major_works 载'林家铺子、春蚕'（B078 作者页定位，详见 ziye 条核对）。",
+    "'农村三部曲'（《春蚕》《秋收》《残冬》）之首（通说待核）。"
+  ],
+  "outline": [
+    "老通宝一家的养蚕丰收——丰收成灾（通说待核）。",
+    "蚕丝价格崩盘与'丰收破产'的经济怪圈（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "老通宝",
+      "identity": "蚕农",
+      "note": "勤劳而破产（通说待核）"
+    },
+    {
+      "name": "阿多",
+      "identity": "儿子",
+      "note": "新一代（通说待核）"
+    }
+  ],
+  "themes": [
+    "丰收成灾：帝国经济压榨的传导（通说）。",
+    "农村三部曲之首（通说待核）。",
+    "社会剖析派的农村面（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：茅盾短篇代表作（B078 作者页口径）。",
+      "source": "B078"
+    },
+    {
+      "text": "1933年程步高电影改编（通说待核）。",
+      "source": "B078"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "养蚕技术细节。",
+      "1930年代经济危机。"
+    ],
+    "editions": [
+      "《茅盾全集》（人民文学出版社，通说待核）。"
+    ],
+    "order": "与《林家铺子》《秋收》合读。"
+  },
+  "pending": [
+    "首刊（《现代》1932年11月说）核对。",
+    "老通宝/阿多人名核对。",
+    "农村三部曲说法出处待核。"
+  ],
+  "sources": [
+    "B078"
+  ],
+  "year_source": "B078",
+  "author_source": "B078",
+  "related_works": [
+    "linjiapuzi",
+    "ziye",
+    "baofengzhouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《春蚕》丰收破产图",
+    "cards": [
+      {
+        "title": "养蚕",
+        "text": "全家的大事",
+        "color": "family"
+      },
+      {
+        "title": "丰收",
+        "text": "蚕花大熟",
+        "color": "main"
+      },
+      {
+        "title": "破产",
+        "text": "丝价崩盘",
+        "color": "antagonist"
+      },
+      {
+        "title": "三部曲",
+        "text": "春蚕·秋收·残冬",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "yueji",
+  "title": "月迹",
+  "original_title": "月迹（散文集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "jiapingwa",
+  "author_name": "贾平凹",
+  "year_display": "1982年（英文维基 B217 口径：Yueji 月迹 (The trace of the moon, 1982)）",
+  "year_sort": 1982,
+  "background": [
+    "英文维基（B217）：'Essay collections: Yueji 月迹 (The trace of the moon, 1982)'——贾平凹早期散文集。",
+    "篇目（通说待核）：《月迹》《一棵小桃树》等。"
+  ],
+  "outline": [
+    "月亮的踪迹：孩童视角下的寻月（同名篇通说待核）。",
+    "乡土的静物画（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "孩童们",
+      "identity": "寻月者",
+      "note": "《月迹》篇（通说待核）"
+    }
+  ],
+  "themes": [
+    "童心与月光（同名篇通说）。",
+    "乡土的诗意散文（通说）。",
+    "早于商州三录的抒情（B217 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：贾平凹散文代表作（B217）。",
+      "source": "B217"
+    },
+    {
+      "text": "中国作家网：2004年获第三届鲁迅文学奖散文奖为《贾平凹长篇散文选》（B217 奖项列表）。",
+      "source": "B217"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "散文的诗意结构。",
+      "八十年代初的语境。"
+    ],
+    "editions": [
+      "《月迹》（人民文学出版社/陕西人民出版社版本，通说待核）。"
+    ],
+    "order": "先《月迹》后《商州三录》。"
+  },
+  "pending": [
+    "1982年出版（百花文艺出版社说）核对。",
+    "《月迹》《一棵小桃树》篇核对。",
+    "鲁迅文学奖散文奖（2004）核对。"
+  ],
+  "sources": [
+    "B217"
+  ],
+  "year_source": "B217",
+  "author_source": "B217",
+  "related_works": [
+    "shangzhousanlu",
+    "qinqiang",
+    "wenhuakulu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《月迹》寻月图",
+    "cards": [
+      {
+        "title": "寻月",
+        "text": "孩童的眼睛",
+        "color": "main"
+      },
+      {
+        "title": "月光",
+        "text": "每个人的月亮",
+        "color": "gold"
+      },
+      {
+        "title": "乡土",
+        "text": "静物与诗",
+        "color": "family"
+      },
+      {
+        "title": "1982",
+        "text": "早期散文集（B217）",
+        "color": "plain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "bingxishubi",
+  "title": "病隙碎笔",
+  "original_title": "病隙碎笔（随笔集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "随笔集",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "shitiesheng",
+  "author_name": "史铁生",
+  "year_display": "2002年（作者页 B218 口径：Fragments Written in the Hiatus of Illness (病隙碎笔, 2002)）",
+  "year_sort": 2002,
+  "background": [
+    "英文维基（B218）：'Fragments Written in the Hiatus of Illness (病隙碎笔, 2002), a collection of meditative essays composed during dialysis treatments'——透析期间写成的冥想随笔。",
+    "作者页（B218）：史铁生获老舍文学奖（2002）（B218 获奖列表——具体作品待核）。"
+  ],
+  "outline": [
+    "六编（编数通说待核）：生死、信仰、爱情、身份的碎片式思考。"
+  ],
+  "characters": [
+    {
+      "name": "史铁生",
+      "identity": "随笔作者",
+      "note": "透析间期的思考者（B218）"
+    }
+  ],
+  "themes": [
+    "'职业是生病'的写作（通说待核）。",
+    "信仰与神的追问（通说）。",
+    "碎片文体的完整性（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：透析期间写成的冥想随笔（B218）。",
+      "source": "B218"
+    },
+    {
+      "text": "作者页：2002年老舍文学奖（B218）。",
+      "source": "B218"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "碎片体的阅读节奏。",
+      "宗教追问的思想密度。"
+    ],
+    "editions": [
+      "《病隙碎笔》（陕西师范大学出版社/人民文学出版社版本，通说待核）。"
+    ],
+    "order": "先《我与地坛》后本作。"
+  },
+  "pending": [
+    "六编编名核对。",
+    "2002年老舍文学奖（B218 已载）具体作品核对。",
+    "'职业是生病'自述出处待核。"
+  ],
+  "sources": [
+    "B218"
+  ],
+  "year_source": "B218",
+  "author_source": "B218",
+  "related_works": [
+    "woyuditan",
+    "mingruoqinxian",
+    "wuxubiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《病隙碎笔》碎片结构图",
+    "cards": [
+      {
+        "title": "病",
+        "text": "透析的间隙（B218）",
+        "color": "antagonist"
+      },
+      {
+        "title": "碎笔",
+        "text": "碎片的冥想",
+        "color": "main"
+      },
+      {
+        "title": "信仰",
+        "text": "神的追问",
+        "color": "gold"
+      },
+      {
+        "title": "活着",
+        "text": "写作的继续",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "chuben",
+  "title": "出奔",
+  "original_title": "出奔（短篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "yudafu",
+  "author_name": "郁达夫",
+  "year_display": "1935年（Britannica：Chuben (1935; Flight)）",
+  "year_sort": 1935,
+  "background": [
+    "Britannica（B206）：郁达夫 works 谱系含'Chuben (1935; Flight)'（出奔）。",
+    "作者页（B206）：郁达夫'praised for its psychological depth'者为《过去》——本作为其后期短篇（通说待核）。"
+  ],
+  "outline": [
+    "通说待核：董玉林一家的'出奔'——县城小吏与家庭的经济崩溃。"
+  ],
+  "characters": [
+    {
+      "name": "董玉林",
+      "identity": "小吏",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "经济崩溃与小家庭（通说待核）。",
+    "'出奔'的收束（篇名通说）。",
+    "后期郁达夫的社会面（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：郁达夫作品谱系（Chuben (1935; Flight)）（B206）。",
+      "source": "B206"
+    },
+    {
+      "text": "作者页：郁达夫1935年创作（B206）。",
+      "source": "B206"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1930年代县镇经济。",
+      "郁达夫后期文体的收敛。"
+    ],
+    "editions": [
+      "《郁达夫全集》（浙江大学出版社，通说待核）。"
+    ],
+    "order": "郁达夫短篇收官之作。"
+  },
+  "pending": [
+    "1935年发表（《文学季刊》说？）待核。",
+    "董玉林人名核对。",
+    "情节细节待核。"
+  ],
+  "sources": [
+    "B206"
+  ],
+  "year_source": "B206",
+  "author_source": "B206",
+  "related_works": [
+    "chenlun",
+    "guoqu",
+    "rijijiuzhong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《出奔》出逃结构图",
+    "cards": [
+      {
+        "title": "董家",
+        "text": "小吏的困境",
+        "color": "family"
+      },
+      {
+        "title": "崩溃",
+        "text": "经济的绝路",
+        "color": "antagonist"
+      },
+      {
+        "title": "出奔",
+        "text": "最后的出逃",
+        "color": "main"
+      },
+      {
+        "title": "1935",
+        "text": "郁达夫晚期（B206）",
+        "color": "gold"
+      }
+    ]
+  }
+}

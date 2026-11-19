@@ -1,0 +1,103 @@
+{
+  "id": "zumuLü",
+  "title": "祖母绿",
+  "original_title": "祖母绿（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "zhangjie",
+  "author_name": "张洁",
+  "year_display": "发表年份待核（新华网 C024：正文所列张洁代表作包括'《祖母绿》'）",
+  "year_sort": 1986,
+  "background": [
+    "新华网（C024）：正文所列张洁代表作包括'《祖母绿》'。",
+    "题材（通说待核）：曾令儿为爱牺牲一生——'无穷思爱'的宽恕书写。"
+  ],
+  "outline": [
+    "曾令儿替恋人顶罪、独自抚养孩子——多年的牺牲（通说待核）。",
+    "'无穷思爱'：超越怨恨的爱（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "曾令儿",
+      "identity": "技术员",
+      "note": "牺牲者（通说待核）"
+    },
+    {
+      "name": "左葳",
+      "identity": "恋人",
+      "note": "被宽恕者（通说待核）"
+    }
+  ],
+  "themes": [
+    "'无穷思爱'（通说待核——篇末语）。",
+    "宽恕与自尊（通说）。",
+    "张洁的温情面（与《方舟》对照）。"
+  ],
+  "influence": [
+    {
+      "text": "新华网：列入张洁代表作（C024）。",
+      "source": "C024"
+    },
+    {
+      "text": "全国优秀中篇小说奖（1985—86说——通说待核）。",
+      "source": "C024"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "宽恕主题的情感强度。",
+      "道德的高标。"
+    ],
+    "editions": [
+      "《祖母绿》（收于张洁小说集，通说待核）。"
+    ],
+    "order": "与《方舟》对照：张洁的两种女性答案。"
+  },
+  "pending": [
+    "首刊（《钟山》1986年说）待核。",
+    "曾令儿/左葳人名核对。",
+    "'无穷思爱'原文核对。"
+  ],
+  "sources": [
+    "C024"
+  ],
+  "year_source": "C024",
+  "author_source": "C024",
+  "related_works": [
+    "fangzhou",
+    "ai_shibunengwangji",
+    "wuzi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《祖母绿》宽恕结构图",
+    "cards": [
+      {
+        "title": "顶罪",
+        "text": "一生的代价",
+        "color": "antagonist"
+      },
+      {
+        "title": "独养",
+        "text": "孩子的夭折",
+        "color": "plain"
+      },
+      {
+        "title": "宽恕",
+        "text": "无穷思爱（通说）",
+        "color": "main"
+      },
+      {
+        "title": "祖母绿",
+        "text": "宝石的坚贞",
+        "color": "gold"
+      }
+    ]
+  }
+}

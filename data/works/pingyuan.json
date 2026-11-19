@@ -1,0 +1,102 @@
+{
+  "id": "pingyuan",
+  "title": "平原",
+  "original_title": "平原（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "bifeiyu",
+  "author_name": "毕飞宇",
+  "year_display": "出版年份待核（中国作家网 C022：作品列表'长篇《上海往事》《平原》《推拿》《玉米》'——2005年说通说待核）",
+  "year_sort": 2005,
+  "background": [
+    "中国作家网（C022）：作品列表'长篇《上海往事》《平原》《推拿》《玉米》'。",
+    "评述（C022）：'《平原》的主人公端方在王家庄地位的确立靠的就是近似流氓无产者的民间方式'（C022）。"
+  ],
+  "outline": [
+    "端方在王家庄的崛起与坠落：1976年前后（C022 评述语境+通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "端方",
+      "identity": "回乡知青",
+      "note": "民间方式确立地位（C022）"
+    },
+    {
+      "name": "吴蔓玲",
+      "identity": "村支书",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "权力与身体的民间方式（C022）。",
+    "1976年转折的乡土面（通说）。",
+    "王家庄：与'玉米系列'同域（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：端方评述（C022）。",
+      "source": "C022"
+    },
+    {
+      "text": "中国作家网：毕飞宇作品谱系（C022）。",
+      "source": "C022"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1976年代背景。",
+      "民间暴力描写。"
+    ],
+    "editions": [
+      "《平原》（上海文艺出版社，通说待核）。"
+    ],
+    "order": "《玉米》系列后读。"
+  },
+  "pending": [
+    "2005年出版（上海文艺说）核对。",
+    "端方/吴蔓玲人名核对。",
+    "与《玉米》系列的地理关系待核。"
+  ],
+  "sources": [
+    "C022"
+  ],
+  "year_source": "C022",
+  "author_source": "C022",
+  "related_works": [
+    "yumi",
+    "tuina",
+    "baofengzhouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《平原》权力结构图",
+    "cards": [
+      {
+        "title": "端方",
+        "text": "民间方式（C022）",
+        "color": "main"
+      },
+      {
+        "title": "王家庄",
+        "text": "平原的村庄",
+        "color": "family"
+      },
+      {
+        "title": "吴蔓玲",
+        "text": "女支书",
+        "color": "gold"
+      },
+      {
+        "title": "1976",
+        "text": "历史的转折",
+        "color": "plain"
+      }
+    ]
+  }
+}

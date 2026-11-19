@@ -1,0 +1,102 @@
+{
+  "id": "fangzhou",
+  "title": "方舟",
+  "original_title": "方舟（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "zhangjie",
+  "author_name": "张洁",
+  "year_display": "发表年份待核（新华网 C024：正文所列代表作包括'《沉重的翅膀》《方舟》《祖母绿》《只有一个太阳》《知在》《灵魂是用来流浪的》等'）",
+  "year_sort": 1983,
+  "background": [
+    "新华网（C024）：正文所列张洁代表作包括'《方舟》'。",
+    "题材（通说待核）：三个离婚女性（曹荆华、柳泉、梁倩）的'方舟'——女性互助的漂泊。"
+  ],
+  "outline": [
+    "三位离婚女性的事业与屈辱——'做女人难'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "曹荆华",
+      "identity": "导演",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "柳泉/梁倩",
+      "identity": "伙伴",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性互助的'方舟'（书名通说）。",
+    "离婚女性的社会处境（通说）。",
+    "张洁女性书写的锋利面（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "新华网：列入张洁代表作（C024）。",
+      "source": "C024"
+    },
+    {
+      "text": "作者页：张洁'唯一两度获茅奖'（C024 作者级）。",
+      "source": "C024"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "女性处境的愤怒笔调。",
+      "1980年代语境。"
+    ],
+    "editions": [
+      "《方舟》（收于张洁小说集，通说待核）。"
+    ],
+    "order": "先《爱，是不能忘记的》后本作。"
+  },
+  "pending": [
+    "首刊年份（《收获》1983年说）待核。",
+    "曹荆华/柳泉/梁倩人名核对。",
+    "'方舟'题解待核。"
+  ],
+  "sources": [
+    "C024"
+  ],
+  "year_source": "C024",
+  "author_source": "C024",
+  "related_works": [
+    "wuzi",
+    "ai_shibunengwangji",
+    "chenzhongdechibang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《方舟》互助结构图",
+    "cards": [
+      {
+        "title": "三个女人",
+        "text": "离婚的漂泊",
+        "color": "main"
+      },
+      {
+        "title": "方舟",
+        "text": "互助的船",
+        "color": "gold"
+      },
+      {
+        "title": "屈辱",
+        "text": "社会的水域",
+        "color": "antagonist"
+      },
+      {
+        "title": "事业",
+        "text": "各自的挣扎",
+        "color": "family"
+      }
+    ]
+  }
+}
