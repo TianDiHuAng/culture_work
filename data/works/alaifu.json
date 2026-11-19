@@ -1,0 +1,99 @@
+{
+  "id": "alaifu",
+  "title": "阿莱夫",
+  "original_title": "El Aleph（The Aleph）",
+  "region": "阿根廷",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "borges",
+  "author_name": "豪尔赫·路易斯·博尔赫斯",
+  "year_display": "1949年（作者页 B095 口径：阿莱夫（1949））",
+  "year_sort": 1949,
+  "background": [
+    "作者页（B095）：博尔赫斯 major_works 载'阿莱夫（1949）、沙之书（1975）'（B095 作者页定位，详见 xiaojing 条核对）。",
+    "同名篇（通说待核）：'阿莱夫'——一个包含所有空间点的点，置于地下室。"
+  ],
+  "outline": [
+    "同名篇：卡洛斯·阿亨蒂诺的地下室与'阿莱夫'——博尔赫斯式的无限（通说待核）。",
+    "《永生》《神学家》等篇（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "博尔赫斯（'我'）",
+      "identity": "叙述者",
+      "note": "自嘲的作家（通说待核）"
+    }
+  ],
+  "themes": [
+    "无限与图书馆（通说）。",
+    "自我戏仿（通说待核）。",
+    "时间与永恒（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：博尔赫斯代表作谱系（B095 作者页口径）。",
+      "source": "B095"
+    },
+    {
+      "text": "博尔赫斯'虚构集'之后的集大成（通说待核）。",
+      "source": "B095"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "百科式的互文。",
+      "'阿莱夫'的空间想象。"
+    ],
+    "editions": [
+      "《阿莱夫》（上海译文出版社王永年译本，通说待核）。",
+      "西班牙文原版（Emecé）。"
+    ],
+    "order": "先《虚构集》后本作。"
+  },
+  "pending": [
+    "篇目核对。",
+    "1949年出版（Sur/Emecé说）核对。",
+    "'阿莱夫'意象出处（犹太卡巴拉）待核。"
+  ],
+  "sources": [
+    "B095"
+  ],
+  "year_source": "B095",
+  "author_source": "B095",
+  "related_works": [
+    "xiaojing",
+    "luoshengmen",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阿莱夫》无限结构图",
+    "cards": [
+      {
+        "title": "阿莱夫",
+        "text": "包含一切的点",
+        "color": "main"
+      },
+      {
+        "title": "地下室",
+        "text": "观看的位置",
+        "color": "gold"
+      },
+      {
+        "title": "永生",
+        "text": "时间的迷宫",
+        "color": "family"
+      },
+      {
+        "title": "自我戏仿",
+        "text": "博尔赫斯的'我'",
+        "color": "plain"
+      }
+    ]
+  }
+}

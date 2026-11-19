@@ -1,0 +1,105 @@
+{
+  "id": "qieerno",
+  "title": "切尔诺贝利的祭祷",
+  "original_title": "Чернобыльская молитва（Voices from Chernobyl）",
+  "region": "白俄罗斯",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "口述实录",
+  "genre_group": "散文",
+  "language": "俄语",
+  "author_id": "alexievich",
+  "author_name": "斯韦特兰娜·阿列克谢耶维奇",
+  "year_display": "1997年（作者页 B253 口径：Voices from Chernobyl (1997)）",
+  "year_sort": 1997,
+  "background": [
+    "作者页（B253）：阿列克谢耶维奇 works 载'Voices from Chernobyl (1997)'（B253 作者页定位）。",
+    "方法（B253）：'human voices were allowed to speak for themselves'（让人的声音自己讲述）——核灾幸存者、清理人、撤离者的独白。",
+    "诺奖授奖词（B253）：'for her polyphonic writings, a monument to suffering and courage in our time'。"
+  ],
+  "outline": [
+    "幸存者与清理人的独白：'我们不知道辐射是什么'（通说待核）。",
+    "被撤离的村庄与' radioactive love'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "清理人",
+      "identity": "消防员等",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "撤离者",
+      "identity": "村民",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "核灾的个人史（通说）。",
+    "'看不见的战争'（通说待核）。",
+    "复调：无作者评论（B253 方法）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿列克谢耶维奇作品谱系（B253 作者页口径）。",
+      "source": "B253"
+    },
+    {
+      "text": "作者页：2015年诺奖——复调书写（B253）。",
+      "source": "B253"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "核术语与单位。",
+      "独白的情感密度。"
+    ],
+    "editions": [
+      "《切尔诺贝利的祭祷》（中信出版社，通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "对照《二手时间》：阿列克谢耶维奇的两个'灾难'。"
+  },
+  "pending": [
+    "中译本信息核对。",
+    "独白人物数与结构待核。",
+    "'祭祷/祈祷'译名差异待核。"
+  ],
+  "sources": [
+    "B253"
+  ],
+  "year_source": "B253",
+  "author_source": "B253",
+  "related_works": [
+    "gulage",
+    "ershoushijian",
+    "anniriji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《切尔诺贝利》复调结构图",
+    "cards": [
+      {
+        "title": "清理人",
+        "text": "600架直升机（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "撤离者",
+        "text": "看不见的故乡",
+        "color": "main"
+      },
+      {
+        "title": "辐射",
+        "text": "无形的战争",
+        "color": "antagonist"
+      },
+      {
+        "title": "复调",
+        "text": "人的声音（B253）",
+        "color": "family"
+      }
+    ]
+  }
+}

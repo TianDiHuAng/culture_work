@@ -1,0 +1,104 @@
+{
+  "id": "hanshiye",
+  "title": "寒冬夜行人",
+  "original_title": "Se una notte d'inverno un viaggiatore（If on a winter's night a traveler）",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "calvino",
+  "author_name": "伊塔洛·卡尔维诺",
+  "year_display": "1979年（作者页 B096 口径：寒冬夜行人（1979））",
+  "year_sort": 1979,
+  "background": [
+    "作者页（B096）：卡尔维诺 major_works 载'寒冬夜行人（1979）'（B096 作者页定位，详见 kanbujian 条核对）。",
+    "结构（通说待核）：'你'（读者）的阅读框架 + 十个'开头'——每部小说都在最精彩处中断。"
+  ],
+  "outline": [
+    "读者'你'与'另一位读者'柳德米拉追寻被装订错乱的小说（通说待核）。",
+    "十个互不相干的小说开头（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "你（读者）",
+      "identity": "主人公",
+      "note": "第二人称叙事"
+    },
+    {
+      "name": "柳德米拉",
+      "identity": "读者",
+      "note": "另一位读者（通说待核）"
+    }
+  ],
+  "themes": [
+    "阅读的行为本身成为小说（通说）。",
+    "'开头'的收集与中断美学（通说待核）。",
+    "作者、读者、出版者的元小说三角（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：卡尔维诺晚期代表作（B096 作者页口径）。",
+      "source": "B096"
+    },
+    {
+      "text": "元小说的世界性经典（通说待核）。",
+      "source": "B096"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "元小说的自反结构。",
+      "十种文体的模仿。"
+    ],
+    "editions": [
+      "《寒冬夜行人》（译林出版社，通说待核）。",
+      "意大利文原版（Einaudi）。"
+    ],
+    "order": "先《看不见的城市》后本作。"
+  },
+  "pending": [
+    "十个开头篇名核对。",
+    "1979年出版（Einaudi说）核对。",
+    "中译本信息核对。"
+  ],
+  "sources": [
+    "B096"
+  ],
+  "year_source": "B096",
+  "author_source": "B096",
+  "related_works": [
+    "kanbujian",
+    "xiaojing",
+    "wuhao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《寒冬夜行人》框架结构图",
+    "cards": [
+      {
+        "title": "读者'你'",
+        "text": "第二人称",
+        "color": "main"
+      },
+      {
+        "title": "十个开头",
+        "text": "中断的小说",
+        "color": "gold"
+      },
+      {
+        "title": "柳德米拉",
+        "text": "另一位读者",
+        "color": "family"
+      },
+      {
+        "title": "追寻",
+        "text": "装订错的真相",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

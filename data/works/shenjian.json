@@ -1,0 +1,104 @@
+{
+  "id": "shenjian",
+  "title": "神箭",
+  "original_title": "Arrow of God",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "achebe",
+  "author_name": "钦努阿·阿契贝",
+  "year_display": "1964年（作者页 B106 口径：神箭（1964））",
+  "year_sort": 1964,
+  "background": [
+    "作者页（B106）：阿契贝 major_works 载'神箭（1964）'（B106 作者页定位，详见 wajie 条核对）。",
+    "题材（通说待核）：伊博族大祭司尤卢与殖民行政——神权与殖民的双重挤压。"
+  ],
+  "outline": [
+    "尤卢大祭司的失势：基督教与殖民税（通说待核）。",
+    "'神箭'的失射——神权的崩解（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "尤卢",
+      "identity": "大祭司",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "温特博顿?",
+      "identity": "区专员",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "殖民对信仰秩序的瓦解（通说）。",
+    "'瓦解'的前史：伊博社会的内部（通说）。",
+    "悲剧的反讽结构（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿契贝'尼日利亚三部曲'之二（B106 作者页口径——通说待核）。",
+      "source": "B106"
+    },
+    {
+      "text": "作者页：阿契贝为非洲文学之父级人物（B106 作者级定位）。",
+      "source": "B106"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "伊博宗教与殖民史。",
+      "谚语的密度。"
+    ],
+    "editions": [
+      "《神箭》（重庆出版社'非洲三部曲'，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "《瓦解》→《神箭》→《上帝之箭》三部曲。"
+  },
+  "pending": [
+    "1964年出版（Heinemann说）核对。",
+    "尤卢人名与情节核对。",
+    "'尼日利亚三部曲'总名待核。"
+  ],
+  "sources": [
+    "B106"
+  ],
+  "year_source": "B106",
+  "author_source": "B106",
+  "related_works": [
+    "wajie",
+    "banlunhuangri",
+    "chi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《神箭》神权殖民图",
+    "cards": [
+      {
+        "title": "尤卢",
+        "text": "大祭司",
+        "color": "main"
+      },
+      {
+        "title": "殖民税",
+        "text": "权力的挤压",
+        "color": "antagonist"
+      },
+      {
+        "title": "失箭",
+        "text": "神权的崩解",
+        "color": "gold"
+      },
+      {
+        "title": "伊博",
+        "text": "乌姆阿鲁村",
+        "color": "family"
+      }
+    ]
+  }
+}

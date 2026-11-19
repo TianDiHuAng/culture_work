@@ -1,0 +1,105 @@
+{
+  "id": "mangcike",
+  "title": "盲刺客",
+  "original_title": "The Blind Assassin",
+  "region": "加拿大",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "atwood",
+  "author_name": "玛格丽特·阿特伍德",
+  "year_display": "2000年（作者页 B107 口径：盲刺客（2000））",
+  "year_sort": 2000,
+  "background": [
+    "作者页（B107）：阿特伍德 major_works 载'盲刺客（2000）'（B107 作者页定位，详见 shinv 条核对）。",
+    "获奖（通说待核）：2000年布克奖。",
+    "结构（通说待核）：三层嵌套——回忆录+小说《盲刺客》+科幻传说。"
+  ],
+  "outline": [
+    "劳拉之死与艾丽丝的回忆：1930—40年代加拿大的家族秘史（通说待核）。",
+    "'盲刺客'科幻传说：席克星上的 sacrifice（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "艾丽丝",
+      "identity": "姐姐",
+      "note": "回忆者（通说待核）"
+    },
+    {
+      "name": "劳拉",
+      "identity": "妹妹",
+      "note": "车祸身亡（通说待核）"
+    }
+  ],
+  "themes": [
+    "三层嵌套的叙事迷宫（通说）。",
+    "女性记忆的修正（通说）。",
+    "'盲刺客'的隐喻（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿特伍德代表作（B107 作者页口径）。",
+      "source": "B107"
+    },
+    {
+      "text": "2000年布克奖（通说待核）。",
+      "source": "B107"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三层嵌套。",
+      "加拿大历史（战时）。"
+    ],
+    "editions": [
+      "《盲刺客》（译林出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《使女的故事》后本作。"
+  },
+  "pending": [
+    "2000年布克奖核对。",
+    "艾丽丝/劳拉人名核对。",
+    "科幻传说的星球设定待核。"
+  ],
+  "sources": [
+    "B107"
+  ],
+  "year_source": "B107",
+  "author_source": "B107",
+  "related_works": [
+    "shinv",
+    "chonger",
+    "banlunhuangri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《盲刺客》三层结构图",
+    "cards": [
+      {
+        "title": "回忆录",
+        "text": "艾丽丝的晚年",
+        "color": "family"
+      },
+      {
+        "title": "小说",
+        "text": "《盲刺客》连载",
+        "color": "main"
+      },
+      {
+        "title": "传说",
+        "text": "席克星的祭典",
+        "color": "gold"
+      },
+      {
+        "title": "真相",
+        "text": "谁开车坠桥",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

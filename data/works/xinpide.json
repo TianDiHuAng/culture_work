@@ -1,0 +1,98 @@
+{
+  "id": "xinpide",
+  "title": "锌皮娃娃兵",
+  "original_title": "Цинковые мальчики（Zinky Boys）",
+  "region": "白俄罗斯",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "口述实录",
+  "genre_group": "散文",
+  "language": "俄语",
+  "author_id": "alexievich",
+  "author_name": "斯韦特兰娜·阿列克谢耶维奇",
+  "year_display": "1990年（作者页 B253 口径：Zinky Boys (1990)）",
+  "year_sort": 1990,
+  "background": [
+    "作者页（B253）：阿列克谢耶维奇 works 载'Zinky Boys (1990)'——阿富汗战争苏联士兵的口述（B253 作者页定位）。",
+    "'锌皮'：阵亡者以锌皮棺材运回（书名通说待核）。"
+  ],
+  "outline": [
+    "士兵、母亲、寡妇的三重独白：阿富汗战争（1979—89）（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "士兵与母亲",
+      "identity": "口述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "被隐瞒的战争（通说）。",
+    "'锌皮棺材'：归来的死亡（书名通说待核）。",
+    "母亲的声音（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿列克谢耶维奇作品谱系（B253 作者页口径）。",
+      "source": "B253"
+    },
+    {
+      "text": "作者页：2015年诺奖授奖词（B253）。",
+      "source": "B253"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "阿富汗战争史。",
+      "口述的道德重量。"
+    ],
+    "editions": [
+      "《锌皮娃娃兵》（高莽译本？——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "阿列克谢耶维奇战 Trilogy 之一。"
+  },
+  "pending": [
+    "1990年出版与禁书风波核对。",
+    "高莽译本信息待核。",
+    "三重独白结构核对。"
+  ],
+  "sources": [
+    "B253"
+  ],
+  "year_source": "B253",
+  "author_source": "B253",
+  "related_works": [
+    "gulage",
+    "zhanzheng",
+    "wuhao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《锌皮娃娃兵》战争结构图",
+    "cards": [
+      {
+        "title": "锌皮棺材",
+        "text": "归来的死亡（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "士兵",
+        "text": "十八岁的战场",
+        "color": "main"
+      },
+      {
+        "title": "母亲",
+        "text": "寻尸的人",
+        "color": "gold"
+      },
+      {
+        "title": "阿富汗",
+        "text": "被隐瞒的战争",
+        "color": "family"
+      }
+    ]
+  }
+}

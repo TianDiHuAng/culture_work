@@ -1,0 +1,104 @@
+{
+  "id": "huangyanyiqiu",
+  "title": "荒原蚁丘",
+  "original_title": "Anthills of the Savannah",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "achebe",
+  "author_name": "钦努阿·阿契贝",
+  "year_display": "1987年（作者页 B106 口径：荒原蚁丘（1987））",
+  "year_sort": 1987,
+  "background": [
+    "作者页（B106）：阿契贝 major_works 载'荒原蚁丘（1987）'（B106 作者页定位，详见 wajie 条核对）。",
+    "题材（通说待核）：虚构卡根国的军政府时期——三位儿时好友的命运。"
+  ],
+  "outline": [
+    "军政权与媒体的三角：克里斯、伊肯、艾勒奥（人物通说待核）。",
+    "'蚁丘'：幸存的智慧（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "克里斯",
+      "identity": "专员",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "伊肯",
+      "identity": "编辑",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "后独立军政府（通说）。",
+    "友情的政治试炼（通说待核）。",
+    "讲故事者的见证（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿契贝晚期代表作（B106 作者页口径）。",
+      "source": "B106"
+    },
+    {
+      "text": "布克奖入围（1987年——通说待核）。",
+      "source": "B106"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "虚构国度的军政术语。",
+      "多视角叙事。"
+    ],
+    "editions": [
+      "《荒原蚁丘》（重庆出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "阿契贝晚期收官。"
+  },
+  "pending": [
+    "1987年出版（Doubleday说）核对。",
+    "克里斯/伊肯人名核对。",
+    "布克奖入围说待核。"
+  ],
+  "sources": [
+    "B106"
+  ],
+  "year_source": "B106",
+  "author_source": "B106",
+  "related_works": [
+    "wajie",
+    "shenjian",
+    "banlunhuangri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《荒原蚁丘》军政结构图",
+    "cards": [
+      {
+        "title": "卡根国",
+        "text": "虚构的军政（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "三友",
+        "text": "儿时的命运",
+        "color": "main"
+      },
+      {
+        "title": "蚁丘",
+        "text": "幸存的寓言",
+        "color": "gold"
+      },
+      {
+        "title": "讲故事",
+        "text": "见证的仪式",
+        "color": "family"
+      }
+    ]
+  }
+}

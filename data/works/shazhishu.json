@@ -1,0 +1,99 @@
+{
+  "id": "shazhishu",
+  "title": "沙之书",
+  "original_title": "El libro de arena（The Book of Sand）",
+  "region": "阿根廷",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "borges",
+  "author_name": "豪尔赫·路易斯·博尔赫斯",
+  "year_display": "1975年（作者页 B095 口径：沙之书（1975））",
+  "year_sort": 1975,
+  "background": [
+    "作者页（B095）：博尔赫斯 major_works 载'沙之书（1975）'（B095 作者页定位，详见 xiaojing 条核对）。",
+    "同名篇（通说待核）：'沙之书'——无始无终、页码无限的书。"
+  ],
+  "outline": [
+    "同名篇：售书人与'圣书'——书页无限增殖的噩梦（通说待核）。",
+    "《乌尔里卡》《另一份死亡》等篇（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "藏书者",
+      "note": "被书囚禁（通说待核）"
+    }
+  ],
+  "themes": [
+    "无限的书的噩梦（通说）。",
+    "占有与放手（通说待核——结尾藏于图书馆）。",
+    "晚期的简洁（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：博尔赫斯晚期集（B095 作者页口径）。",
+      "source": "B095"
+    },
+    {
+      "text": "博尔赫斯晚年盲后口述写作的集子（通说待核）。",
+      "source": "B095"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'无限书'的设定。",
+      "晚期文体的极简。"
+    ],
+    "editions": [
+      "《沙之书》（上海译文出版社，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "博尔赫斯收官阅读。"
+  },
+  "pending": [
+    "篇目核对。",
+    "1975年出版（Emecé说）核对。",
+    "'书页无限'设定待核。"
+  ],
+  "sources": [
+    "B095"
+  ],
+  "year_source": "B095",
+  "author_source": "B095",
+  "related_works": [
+    "xiaojing",
+    "alaifu",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《沙之书》无限之书图",
+    "cards": [
+      {
+        "title": "沙之书",
+        "text": "无始无终",
+        "color": "main"
+      },
+      {
+        "title": "售书人",
+        "text": "苏格兰的过客",
+        "color": "gold"
+      },
+      {
+        "title": "藏匿",
+        "text": "图书馆的书架",
+        "color": "family"
+      },
+      {
+        "title": "噩梦",
+        "text": "无限的重量",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

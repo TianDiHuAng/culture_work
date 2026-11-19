@@ -1,0 +1,104 @@
+{
+  "id": "zhengyan",
+  "title": "证言",
+  "original_title": "The Testaments",
+  "region": "加拿大",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "atwood",
+  "author_name": "玛格丽特·阿特伍德",
+  "year_display": "2019年（作者页 B107 口径：证言（2019））",
+  "year_sort": 2019,
+  "background": [
+    "作者页（B107）：阿特伍德 major_works 载'证言（2019）'（B107 作者页定位，详见 shinv 条核对）。",
+    "题材（通说待核）：《使女的故事》续篇——三个女性的'证言'揭示基列国崩溃。"
+  ],
+  "outline": [
+    "三条证言线：艾格尼丝、妮可、丽迪亚嬷嬷（通说待核）。",
+    "'使女'制度的内部记录（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "丽迪亚嬷嬷",
+      "identity": "嬷嬷",
+      "note": "权力档案（通说待核）"
+    },
+    {
+      "name": "艾格尼丝/妮可",
+      "identity": "女儿们",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "极权的档案化（通说）。",
+    "下一代的三种命运（通说待核）。",
+    "续写的合法性（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿特伍德晚年续作（B107 作者页口径）。",
+      "source": "B107"
+    },
+    {
+      "text": "2019年布克奖第二次获奖（通说待核）。",
+      "source": "B107"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "与前作的互文。",
+      "三线切换。"
+    ],
+    "editions": [
+      "《证言》（上海译文出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "必先读《使女的故事》。"
+  },
+  "pending": [
+    "2019年布克奖（与伯纳丁·埃瓦里斯托并列说）核对。",
+    "三线人名核对。",
+    "基列国档案设定待核。"
+  ],
+  "sources": [
+    "B107"
+  ],
+  "year_source": "B107",
+  "author_source": "B107",
+  "related_works": [
+    "shinv",
+    "mangcike",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《证言》三线结构图",
+    "cards": [
+      {
+        "title": "艾格尼丝",
+        "text": "基列的女儿",
+        "color": "family"
+      },
+      {
+        "title": "妮可",
+        "text": "异国的少女",
+        "color": "main"
+      },
+      {
+        "title": "丽迪亚嬷嬷",
+        "text": "档案的写作者",
+        "color": "gold"
+      },
+      {
+        "title": "崩溃",
+        "text": "基列的末日",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

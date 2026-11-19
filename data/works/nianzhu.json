@@ -1,0 +1,98 @@
+{
+  "id": "nianzhu",
+  "title": "念珠",
+  "original_title": "Чётки（Rosary）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "akhmatova",
+  "author_name": "安娜·阿赫玛托娃",
+  "year_display": "1914年（作者页 B144 口径：黄昏（1912）、念珠（1914））",
+  "year_sort": 1914,
+  "background": [
+    "作者页（B144）：阿赫玛托娃 major_works 载'黄昏（1912）、念珠（1914）'（B144 作者页定位，详见 anhunqu 条核对）。",
+    "阿赫玛托娃为阿克梅派代表（B144 作者页语境——通说待核）。"
+  ],
+  "outline": [
+    "爱情抒情诗：'我披上右手的手套'式的细节（诗风通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情女声",
+      "identity": "诗人",
+      "note": "阿克梅派的细节（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱情抒情：失去与等待（通说）。",
+    "细节的诗学（通说待核）。",
+    "阿克梅派的'清晰'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿赫玛托娃诗集谱系（B144 作者页口径）。",
+      "source": "B144"
+    },
+    {
+      "text": "作者页：阿赫玛托娃为俄罗斯白银时代代表（B144 作者级定位）。",
+      "source": "B144"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "俄语诗歌的形式感。",
+      "白银时代语境。"
+    ],
+    "editions": [
+      "《阿赫玛托娃诗文集》（人民文学出版社/上海译文版本，通说待核）。",
+      "俄文原版（公有领域渐近）。"
+    ],
+    "order": "先《黄昏》后《念珠》→《安魂曲》。"
+  },
+  "pending": [
+    "1914年出版细节核对。",
+    "阿克梅派（Acméism）定义核对。",
+    "名篇（《灰眼睛国王》等）待核。"
+  ],
+  "sources": [
+    "B144"
+  ],
+  "year_source": "B144",
+  "author_source": "B144",
+  "related_works": [
+    "anhunqu",
+    "xinishixuan",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《念珠》抒情结构图",
+    "cards": [
+      {
+        "title": "念珠",
+        "text": "爱情的计数",
+        "color": "main"
+      },
+      {
+        "title": "细节",
+        "text": "手套与披巾",
+        "color": "gold"
+      },
+      {
+        "title": "阿克梅",
+        "text": "清晰的诗学（通说）",
+        "color": "family"
+      },
+      {
+        "title": "白银时代",
+        "text": "俄罗斯的诗季",
+        "color": "plain"
+      }
+    ]
+  }
+}

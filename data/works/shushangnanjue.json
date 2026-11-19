@@ -1,0 +1,104 @@
+{
+  "id": "shushangnanjue",
+  "title": "树上的男爵",
+  "original_title": "Il barone rampante（The Baron in the Trees）",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "calvino",
+  "author_name": "伊塔洛·卡尔维诺",
+  "year_display": "1957年（作者页 B096 口径：树上的男爵（1957））",
+  "year_sort": 1957,
+  "background": [
+    "作者页（B096）：卡尔维诺 major_works 载'树上的男爵（1957）'（B096 作者页定位，详见 kanbujian 条核对）。",
+    "'我们的祖先'三部曲之一（与《分成两半的子爵》《不存在的骑士》——通说待核）。"
+  ],
+  "outline": [
+    "柯希莫因拒食蜗牛爬上树——一生不再下地（通说待核）。",
+    "树上的启蒙、恋爱、革命与 '消失'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "柯希莫",
+      "identity": "男爵",
+      "note": "树上的一生（通说待核）"
+    },
+    {
+      "name": "薇奥拉",
+      "identity": "贵族小姐",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'坚持'的寓言：树上即地上（通说）。",
+    "启蒙时代的家族讽刺（通说待核）。",
+    "轻逸的哲学（通说——卡尔维诺《新千年文学备忘》语境待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：卡尔维诺代表作（B096 作者页口径）。",
+      "source": "B096"
+    },
+    {
+      "text": "'我们的祖先'三部曲之一（通说待核）。",
+      "source": "B096"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓言性与历史（启蒙/雅各宾）的叠合。",
+      "树上的空间想象。"
+    ],
+    "editions": [
+      "《树上的男爵》（译林出版社，通说待核）。",
+      "意大利文原版（Einaudi）。"
+    ],
+    "order": "'我们的祖先'三部曲首选。"
+  },
+  "pending": [
+    "1957年出版（Einaudi说）核对。",
+    "柯希莫/薇奥拉人名核对。",
+    "三部曲总名核对。"
+  ],
+  "sources": [
+    "B096"
+  ],
+  "year_source": "B096",
+  "author_source": "B096",
+  "related_works": [
+    "kanbujian",
+    "mi",
+    "biancheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《树上的男爵》树上一生图",
+    "cards": [
+      {
+        "title": "爬树",
+        "text": "拒食蜗牛的抗争",
+        "color": "family"
+      },
+      {
+        "title": "树上",
+        "text": "一生的疆域",
+        "color": "main"
+      },
+      {
+        "title": "薇奥拉",
+        "text": "树下的爱情",
+        "color": "gold"
+      },
+      {
+        "title": "消失",
+        "text": "热气球上的终点（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}
