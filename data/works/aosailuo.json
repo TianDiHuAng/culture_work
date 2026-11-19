@@ -1,0 +1,111 @@
+{
+  "id": "aosailuo",
+  "title": "奥赛罗",
+  "original_title": "Othello",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "shakespeare",
+  "author_name": "威廉·莎士比亚",
+  "year_display": "约1604年（通说待核；作者页 B033/B007 口径：major_works 载'奥赛罗'）",
+  "year_sort": 1604,
+  "background": [
+    "作者页（B033/B007）：莎士比亚 major_works 载'李尔王、麦克白、奥赛罗、罗密欧与朱丽叶'（作者页定位，详见 hamlet 条核对）。",
+    "题材（通说待核）：摩尔人将军奥赛罗因伊阿古的谗言杀死妻子苔丝狄蒙娜。"
+  ],
+  "outline": [
+    "伊阿古的挑拨：手帕的'证据'（通说待核）。",
+    "'嫉妒是绿眼妖魔'（名句通说待核）。",
+    "结局：真相大白后的双双毁灭（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥赛罗",
+      "identity": "摩尔人将军",
+      "note": "嫉妒的悲剧（通说待核）"
+    },
+    {
+      "name": "伊阿古",
+      "identity": "旗官",
+      "note": "纯恶的谋士（通说待核）"
+    },
+    {
+      "name": "苔丝狄蒙娜",
+      "identity": "妻子",
+      "note": "无辜者（通说待核）"
+    }
+  ],
+  "themes": [
+    "嫉妒的修辞术（通说待核）。",
+    "种族与'他者'（通说）。",
+    "语言即凶器（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莎翁四大悲剧之一（B033/B007 作者页口径）。",
+      "source": "B033"
+    },
+    {
+      "text": "威尔第同名歌剧（1887——通说待核）。",
+      "source": "B033"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "伊阿古的'半真话'话术。",
+      "无韵诗行。"
+    ],
+    "editions": [
+      "《奥赛罗》（朱生豪译本《莎士比亚全集》，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "四大悲剧：哈姆雷特→奥赛罗→李尔王→麦克白。"
+  },
+  "pending": [
+    "1604年首演（Whitehall说）核对。",
+    "伊阿古/苔丝狄蒙娜人名核对。",
+    "'绿眼妖魔'原文核对。"
+  ],
+  "sources": [
+    "B033",
+    "B007"
+  ],
+  "year_source": "B033",
+  "author_source": "B033",
+  "related_works": [
+    "hamlet",
+    "luerwang",
+    "maikebai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《奥赛罗》谗言结构图",
+    "cards": [
+      {
+        "title": "手帕",
+        "text": "'证据'的编织",
+        "color": "antagonist"
+      },
+      {
+        "title": "伊阿古",
+        "text": "纯恶的话术",
+        "color": "gold"
+      },
+      {
+        "title": "奥赛罗",
+        "text": "嫉妒的将军",
+        "color": "main"
+      },
+      {
+        "title": "苔丝狄蒙娜",
+        "text": "无辜的妻子",
+        "color": "family"
+      }
+    ]
+  }
+}

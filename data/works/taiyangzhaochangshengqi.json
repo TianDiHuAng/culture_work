@@ -1,0 +1,109 @@
+{
+  "id": "taiyangzhaochangshengqi",
+  "title": "太阳照常升起",
+  "original_title": "The Sun Also Rises",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hemingway",
+  "author_name": "欧内斯特·海明威",
+  "year_display": "1926年（作者页 B051/B024 口径：太阳照常升起（1926））",
+  "year_sort": 1926,
+  "background": [
+    "作者页（B051/B024）：海明威 major_works 载'太阳照常升起（1926）、永别了武器（1929）、丧钟为谁而鸣（1940）'（作者页定位，详见 laorenhai 条核对）。",
+    "题材（通说待核）：'迷惘的一代'的巴黎与潘普洛纳奔牛节——杰克·巴恩斯与勃莱特。"
+  ],
+  "outline": [
+    "战伤的杰克与勃莱特无果的爱；西班牙奔牛节的狂欢与斗牛士罗梅罗（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "杰克·巴恩斯",
+      "identity": "记者",
+      "note": "战伤者（通说待核）"
+    },
+    {
+      "name": "勃莱特",
+      "identity": "贵妇",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "罗梅罗",
+      "identity": "斗牛士",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'迷惘的一代'（书内题词——通说待核）。",
+    "冰山文体（作者风格——通说）。",
+    "斗牛与尊严（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：海明威成名作（B051/B024 作者页口径）。",
+      "source": "B051"
+    },
+    {
+      "text": "'迷惘的一代'的命名之作（通说待核）。",
+      "source": "B051"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "对话之下的潜流。",
+      "1920年代巴黎地理。"
+    ],
+    "editions": [
+      "《太阳照常升起》（上海译文出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《太阳照常升起》后《永别了武器》。"
+  },
+  "pending": [
+    "1926年出版（Scribner说）核对。",
+    "杰克/勃莱特/罗梅罗人名核对。",
+    "'迷惘的一代'出处（格特鲁德·斯泰因）待核。"
+  ],
+  "sources": [
+    "B051",
+    "B024"
+  ],
+  "year_source": "B051",
+  "author_source": "B051",
+  "related_works": [
+    "laorenhai",
+    "gaicibi",
+    "fenwangyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《太阳照常升起》迷惘结构图",
+    "cards": [
+      {
+        "title": "巴黎",
+        "text": "咖啡馆的漂泊",
+        "color": "family"
+      },
+      {
+        "title": "奔牛节",
+        "text": "潘普洛纳的狂欢",
+        "color": "main"
+      },
+      {
+        "title": "战伤",
+        "text": "无果的爱",
+        "color": "antagonist"
+      },
+      {
+        "title": "太阳",
+        "text": "照常升起",
+        "color": "gold"
+      }
+    ]
+  }
+}

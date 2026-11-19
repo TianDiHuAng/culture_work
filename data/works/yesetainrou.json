@@ -1,0 +1,106 @@
+{
+  "id": "yesetainrou",
+  "title": "夜色温柔",
+  "original_title": "Tender Is the Night",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fitzgerald",
+  "author_name": "弗朗西斯·斯科特·菲茨杰拉德",
+  "year_display": "1934年（作者页 B050/B023 口径：夜色温柔（1934））",
+  "year_sort": 1934,
+  "background": [
+    "作者页（B050/B023）：菲茨杰拉德 major_works 载'夜色温柔（1934）'（作者页定位，详见 gaicibi 条核对）。",
+    "书名（通说待核）：出自济慈《夜莺颂》（'tender is the night'）。",
+    "题材（通说待核）：精神病医生迪克·戴弗与病人妮可的婚姻——里维埃拉的美国侨民世界。"
+  ],
+  "outline": [
+    "迪克从治疗者到被消耗者的滑落（通说待核）。",
+    "妮可的康复与'胜利'——婚姻的解体（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "迪克·戴弗",
+      "identity": "精神科医生",
+      "note": "滑落的主角（通说待核）"
+    },
+    {
+      "name": "妮可",
+      "identity": "病人→妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "美国梦的另一面：耗尽（通说）。",
+    "医生与病人的权力反转（通说待核）。",
+    "爵士时代的余晖（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：菲茨杰拉德代表作（B050/B023 作者页口径）。",
+      "source": "B050"
+    },
+    {
+      "text": "菲茨杰拉德自认的最佳小说（通说待核）。",
+      "source": "B050"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "非线性时序（前三部分）。",
+      "里维埃拉场景。"
+    ],
+    "editions": [
+      "《夜色温柔》（上海译文出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《了不起的盖茨比》后本作。"
+  },
+  "pending": [
+    "1934年出版（Scribner说）核对。",
+    "迪克/妮可人名核对。",
+    "济慈书名出处（《夜莺颂》）待核。"
+  ],
+  "sources": [
+    "B050",
+    "B023"
+  ],
+  "year_source": "B050",
+  "author_source": "B050",
+  "related_works": [
+    "gaicibi",
+    "renjianshi",
+    "taiyangzhaochangshengqi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《夜色温柔》耗尽结构图",
+    "cards": [
+      {
+        "title": "里维埃拉",
+        "text": "侨民的阳光",
+        "color": "family"
+      },
+      {
+        "title": "治疗者",
+        "text": "迪克的消耗",
+        "color": "main"
+      },
+      {
+        "title": "妮可",
+        "text": "康复与离开",
+        "color": "gold"
+      },
+      {
+        "title": "夜色",
+        "text": "济慈的温柔（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

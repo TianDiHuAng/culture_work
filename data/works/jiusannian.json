@@ -1,0 +1,110 @@
+{
+  "id": "jiusannian",
+  "title": "九三年",
+  "original_title": "Quatre-vingt-treize（Ninety-Three）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "hugo",
+  "author_name": "维克多·雨果",
+  "year_display": "1874年（作者页 B040/B015 口径：九三年（1874））",
+  "year_sort": 1874,
+  "background": [
+    "作者页（B040/B015）：雨果 major_works 载'九三年（1874）'——其最后一部长篇（B040 作者页定位，详见 balimingwuyuan/beican 条核对）。",
+    "题材（通说待核）：1793年旺代叛乱——革命与人性冲突的最后裁决。"
+  ],
+  "outline": [
+    "三个孩子的人质——朗德纳克侯爵返身救人被捕（通说待核）。",
+    "郭文的死刑与西穆尔丹的自尽（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "朗德纳克",
+      "identity": "叛军统帅",
+      "note": "救火中的人性（通说待核）"
+    },
+    {
+      "name": "郭文",
+      "identity": "革命军司令",
+      "note": "宽恕的选择（通说待核）"
+    },
+    {
+      "name": "西穆尔丹",
+      "identity": "政委",
+      "note": "铁的纪律（通说待核）"
+    }
+  ],
+  "themes": [
+    "革命与人性：'在绝对正确的革命之上，还有一个绝对正确的人道主义'（名句通说待核）。",
+    "旺代战争的史实（通说待核）。",
+    "雨果的裁决（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：雨果晚期代表作（B040/B015 作者页口径）。",
+      "source": "B040"
+    },
+    {
+      "text": "法国中学经典书目（通说待核）。",
+      "source": "B040"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "旺代战争史。",
+      "革命伦理的思辨。"
+    ],
+    "editions": [
+      "《九三年》（人民文学出版社郑永慧译本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "雨果三部曲：《巴黎圣母院》《悲惨世界》《九三年》。"
+  },
+  "pending": [
+    "1874年出版核对。",
+    "朗德纳克/郭文/西穆尔丹人名核对。",
+    "名句原文核对。"
+  ],
+  "sources": [
+    "B040",
+    "B015"
+  ],
+  "year_source": "B040",
+  "author_source": "B040",
+  "related_works": [
+    "balimingwuyuan",
+    "beican",
+    "zhanzheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《九三年》裁决结构图",
+    "cards": [
+      {
+        "title": "旺代",
+        "text": "叛乱的火",
+        "color": "antagonist"
+      },
+      {
+        "title": "救火",
+        "text": "侯爵的人性",
+        "color": "main"
+      },
+      {
+        "title": "死刑",
+        "text": "革命的铁律",
+        "color": "antagonist"
+      },
+      {
+        "title": "人道主义",
+        "text": "绝对之上（名句待核）",
+        "color": "gold"
+      }
+    ]
+  }
+}

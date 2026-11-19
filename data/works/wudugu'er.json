@@ -1,0 +1,109 @@
+{
+  "id": "wudugu'er",
+  "title": "雾都孤儿",
+  "original_title": "Oliver Twist; or, the Parish Boy's Progress",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dickens",
+  "author_name": "查尔斯·狄更斯",
+  "year_display": "1838年（作者页 B120 口径：雾都孤儿（1838））",
+  "year_sort": 1838,
+  "background": [
+    "作者页（B120）：狄更斯 major_works 载'匹克威克外传（1836—37）、雾都孤儿（1838）、圣诞颂歌（1843）、荒凉山庄（1853）、远大前程（1861）'（B120 作者页定位，详见 dawei 条核对）。",
+    "题材（通说待核）：济贫院孤儿奥利弗误入伦敦贼窟——费金与赛克斯的地下世界。"
+  ],
+  "outline": [
+    "奥利弗'再要一碗'的著名请求（通说待核）。",
+    "南希的告密与被杀（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥利弗",
+      "identity": "孤儿",
+      "note": "善良的幸存者（通说待核）"
+    },
+    {
+      "name": "费金",
+      "identity": "贼窝头目",
+      "note": "犹太人形象的争议（通说待核）"
+    },
+    {
+      "name": "南希",
+      "identity": "女贼",
+      "note": "告密者（通说待核）"
+    }
+  ],
+  "themes": [
+    "济贫法与童工（通说）。",
+    "伦敦地下世界（通说）。",
+    "南希形象与反犹争议（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：狄更斯代表作谱系（B120 作者页口径）。",
+      "source": "B120"
+    },
+    {
+      "text": "《雾都孤儿》音乐剧 Oliver!（1968年电影获奥斯卡——通说待核）。",
+      "source": "B120"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "济贫院制度（《新济贫法》）。",
+      "连载体结构。"
+    ],
+    "editions": [
+      "《雾都孤儿》（人民文学出版社黄雨石译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "狄更斯入门：《雾都孤儿》→《大卫·科波菲尔》。"
+  },
+  "pending": [
+    "1837—39连载与1838年三卷本核对。",
+    "奥利弗/费金/南希人名核对。",
+    "费金形象的反犹争议待核。"
+  ],
+  "sources": [
+    "B120"
+  ],
+  "year_source": "B120",
+  "author_source": "B120",
+  "related_works": [
+    "dawei",
+    "shuangchengji",
+    "beican"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《雾都孤儿》地下世界图",
+    "cards": [
+      {
+        "title": "济贫院",
+        "text": "'再要一碗'（通说）",
+        "color": "family"
+      },
+      {
+        "title": "贼窟",
+        "text": "费金的伦敦",
+        "color": "antagonist"
+      },
+      {
+        "title": "南希",
+        "text": "告密与牺牲",
+        "color": "gold"
+      },
+      {
+        "title": "奥利弗",
+        "text": "善的幸存",
+        "color": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+# -*- coding: utf-8 -*-
+"""v13B：复用已核来源直写 8 部"""
+import json, pathlib
+
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
+works = {
+"aosailuo": {
+  "id":"aosailuo","title":"奥赛罗","original_title":"Othello","region":"英国","era":"近代","era_detail":"文艺复兴",
+  "genre":"悲剧","genre_group":"戏剧","language":"英语","author_id":"shakespeare","author_name":"威廉·莎士比亚",
+  "year_display":"约1604年（通说待核；作者页 B033/B007 口径：major_works 载'奥赛罗'）","year_sort":1604,
+  "background":["作者页（B033/B007）：莎士比亚 major_works 载'李尔王、麦克白、奥赛罗、罗密欧与朱丽叶'（作者页定位，详见 hamlet 条核对）。","题材（通说待核）：摩尔人将军奥赛罗因伊阿古的谗言杀死妻子苔丝狄蒙娜。"],
+  "outline":["伊阿古的挑拨：手帕的'证据'（通说待核）。","'嫉妒是绿眼妖魔'（名句通说待核）。","结局：真相大白后的双双毁灭（通说待核）。"],
+  "characters":[{"name":"奥赛罗","identity":"摩尔人将军","note":"嫉妒的悲剧（通说待核）"},{"name":"伊阿古","identity":"旗官","note":"纯恶的谋士（通说待核）"},{"name":"苔丝狄蒙娜","identity":"妻子","note":"无辜者（通说待核）"}],
+  "themes":["嫉妒的修辞术（通说待核）。",
+   "种族与'他者'（通说）。",
+   "语言即凶器（通说待核）。"],
+  "influence":[{"text":"作者页：莎翁四大悲剧之一（B033/B007 作者页口径）。","source":"B033"},
+   {"text":"威尔第同名歌剧（1887——通说待核）。","source":"B033"}],
+  "reading":{"difficulties":["伊阿古的'半真话'话术。","无韵诗行。"],
+   "editions":["《奥赛罗》（朱生豪译本《莎士比亚全集》，通说待核）。","英文原版（公有领域）。"],
+   "order":"四大悲剧：哈姆雷特→奥赛罗→李尔王→麦克白。"},
+  "pending":["1604年首演（Whitehall说）核对。","伊阿古/苔丝狄蒙娜人名核对。","'绿眼妖魔'原文核对。"],
+  "sources":["B033","B007"],"year_source":"B033","author_source":"B033","related_works":["hamlet","luerwang","maikebai"],
+  "svg":G("《奥赛罗》谗言结构图",[{"title":"手帕","text":"'证据'的编织","color":"antagonist"},{"title":"伊阿古","text":"纯恶的话术","color":"gold"},{"title":"奥赛罗","text":"嫉妒的将军","color":"main"},{"title":"苔丝狄蒙娜","text":"无辜的妻子","color":"family"}])
+},
+"luomiou": {
+  "id":"luomiou","title":"罗密欧与朱丽叶","original_title":"Romeo and Juliet","region":"英国","era":"近代","era_detail":"文艺复兴",
+  "genre":"悲剧","genre_group":"戏剧","language":"英语","author_id":"shakespeare","author_name":"威廉·莎士比亚",
+  "year_display":"约1595年（通说待核；作者页 B033/B007 口径：major_works 载'罗密欧与朱丽叶'）","year_sort":1595,
+  "background":["作者页（B033/B007）：莎士比亚 major_works 载'罗密欧与朱丽叶'（作者页定位，详见 hamlet 条核对）。","题材（通说）：维罗纳两大家族世仇中的殉情故事——源自 Arthur Brooke 长诗（通说待核）。"],
+  "outline":["舞会一见钟情→阳台盟誓→秘密成婚→误杀与放逐→假死药与双重自杀（通说待核）。"],
+  "characters":[{"name":"罗密欧","identity":"蒙太古家之子","note":"（通说）"},{"name":"朱丽叶","identity":"凯普莱特家之女","note":"十四岁（通说）"},{"name":"劳伦斯神父","identity":"神父","note":"计划的失败者（通说待核）"}],
+  "themes":["世仇与爱情的冲突（通说）。",
+   "命运的'星象'（通说待核——star-cross'd lovers）。",
+   "青春的炽烈语言（通说）。"],
+  "influence":[{"text":"作者页：莎翁名剧（B033/B007 作者页口径）。","source":"B033"},
+   {"text":"无数改编：普罗科菲耶夫芭蕾、伯恩斯坦《西边故事》（通说待核）。","source":"B033"}],
+  "reading":{"difficulties":["十四行诗对白。","家族世仇背景。"],
+   "editions":["《罗密欧与朱丽叶》（朱生豪译本，通说待核）。","英文原版（公有领域）。"],
+   "order":"莎士比亚悲剧入门首选。"},
+  "pending":["1594—95年首演说核对。","Camelot？——不：Brooke 长诗（1562年说）待核。","阳台场景'罗密欧啊罗密欧'原文核对。"],
+  "sources":["B033","B007"],"year_source":"B033","author_source":"B033","related_works":["hamlet","aosailuo","mudanting"],
+  "svg":G("《罗密欧与朱丽叶》世仇结构图",[{"title":"舞会","text":"一见钟情","color":"family"},{"title":"阳台","text":"盟誓","color":"main"},{"title":"假死药","text":"错位的消息","color":"antagonist"},{"title":"殉情","text":"金像的和解","color":"gold"}])
+},
+"zhongxiayezhimeng": {
+  "id":"zhongxiayezhimeng","title":"仲夏夜之梦","original_title":"A Midsummer Night's Dream","region":"英国","era":"近代","era_detail":"文艺复兴",
+  "genre":"喜剧","genre_group":"戏剧","language":"英语","author_id":"shakespeare","author_name":"威廉·莎士比亚",
+  "year_display":"约1595年（通说待核；作者页 B033/B007 口径：major_works 载'仲夏夜之梦'）","year_sort":1595,
+  "background":["作者页（B033/B007）：莎士比亚 major_works 载'仲夏夜之梦、第十二夜、暴风雨'（作者页定位，详见 hamlet 条核对）。","题材（通说待核）：雅典森林中的花汁错点——两对恋人与仙王仙后的闹剧，织工波顿变驴。"],
+  "outline":["魔汁误点：错位的爱恋（通说待核）。","'戏中戏'：织工们排演《皮拉摩斯与提斯柏》（通说待核）。"],
+  "characters":[{"name":"帕克（迫克）","identity":"精灵","note":"魔汁的执行者（通说待核）"},{"name":"波顿","identity":"织工","note":"驴头主角（通说待核）"}],
+  "themes":["爱与梦幻的非理性（通说）。",
+   "'戏中戏'与元戏剧（通说待核）。",
+   "想象力的胜利（通说）。"],
+  "influence":[{"text":"作者页：莎翁喜剧代表作（B033/B007 作者页口径）。","source":"B033"},
+   {"text":"门德尔松同名序曲与戏剧配乐（1842——通说待核）。","source":"B033"}],
+  "reading":{"difficulties":["仙界与人间双线。","押韵对白的节奏。"],
+   "editions":["《仲夏夜之梦》（朱生豪译本，通说待核）。","英文原版（公有领域）。"],
+   "order":"莎翁喜剧首选入门。"},
+  "pending":["首演年份与场合（贵族婚礼说待核）。","帕克/波顿人名核对。","门德尔松配乐年份待核。"],
+  "sources":["B033","B007"],"year_source":"B033","author_source":"B033","related_works":["xixiangji","xianzhi","mudanting"],
+  "svg":G("《仲夏夜之梦》魔汁结构图",[{"title":"花汁","text":"错点的魔法","color":"antagonist"},{"title":"森林","text":"仙界与人间","color":"main"},{"title":"波顿","text":"驴头的演员","color":"gold"},{"title":"婚礼","text":"三重团圆","color":"family"}])
+},
+"jiusannian": {
+  "id":"jiusannian","title":"九三年","original_title":"Quatre-vingt-treize（Ninety-Three）","region":"法国","era":"近代","era_detail":"19世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"法语","author_id":"hugo","author_name":"维克多·雨果",
+  "year_display":"1874年（作者页 B040/B015 口径：九三年（1874））","year_sort":1874,
+  "background":["作者页（B040/B015）：雨果 major_works 载'九三年（1874）'——其最后一部长篇（B040 作者页定位，详见 balimingwuyuan/beican 条核对）。","题材（通说待核）：1793年旺代叛乱——革命与人性冲突的最后裁决。"],
+  "outline":["三个孩子的人质——朗德纳克侯爵返身救人被捕（通说待核）。","郭文的死刑与西穆尔丹的自尽（通说待核）。"],
+  "characters":[{"name":"朗德纳克","identity":"叛军统帅","note":"救火中的人性（通说待核）"},{"name":"郭文","identity":"革命军司令","note":"宽恕的选择（通说待核）"},{"name":"西穆尔丹","identity":"政委","note":"铁的纪律（通说待核）"}],
+  "themes":["革命与人性：'在绝对正确的革命之上，还有一个绝对正确的人道主义'（名句通说待核）。",
+   "旺代战争的史实（通说待核）。",
+   "雨果的裁决（通说）。"],
+  "influence":[{"text":"作者页：雨果晚期代表作（B040/B015 作者页口径）。","source":"B040"},
+   {"text":"法国中学经典书目（通说待核）。","source":"B040"}],
+  "reading":{"difficulties":["旺代战争史。","革命伦理的思辨。"],
+   "editions":["《九三年》（人民文学出版社郑永慧译本，通说待核）。","法文原版（公有领域）。"],
+   "order":"雨果三部曲：《巴黎圣母院》《悲惨世界》《九三年》。"},
+  "pending":["1874年出版核对。","朗德纳克/郭文/西穆尔丹人名核对。","名句原文核对。"],
+  "sources":["B040","B015"],"year_source":"B040","author_source":"B040","related_works":["balimingwuyuan","beican","zhanzheng"],
+  "svg":G("《九三年》裁决结构图",[{"title":"旺代","text":"叛乱的火","color":"antagonist"},{"title":"救火","text":"侯爵的人性","color":"main"},{"title":"死刑","text":"革命的铁律","color":"antagonist"},{"title":"人道主义","text":"绝对之上（名句待核）","color":"gold"}])
+},
+"wudugu'er": {
+  "id":"wudugu'er","title":"雾都孤儿","original_title":"Oliver Twist; or, the Parish Boy's Progress","region":"英国","era":"近代","era_detail":"19世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"dickens","author_name":"查尔斯·狄更斯",
+  "year_display":"1838年（作者页 B120 口径：雾都孤儿（1838））","year_sort":1838,
+  "background":["作者页（B120）：狄更斯 major_works 载'匹克威克外传（1836—37）、雾都孤儿（1838）、圣诞颂歌（1843）、荒凉山庄（1853）、远大前程（1861）'（B120 作者页定位，详见 dawei 条核对）。","题材（通说待核）：济贫院孤儿奥利弗误入伦敦贼窟——费金与赛克斯的地下世界。"],
+  "outline":["奥利弗'再要一碗'的著名请求（通说待核）。","南希的告密与被杀（通说待核）。"],
+  "characters":[{"name":"奥利弗","identity":"孤儿","note":"善良的幸存者（通说待核）"},{"name":"费金","identity":"贼窝头目","note":"犹太人形象的争议（通说待核）"},{"name":"南希","identity":"女贼","note":"告密者（通说待核）"}],
+  "themes":["济贫法与童工（通说）。",
+   "伦敦地下世界（通说）。",
+   "南希形象与反犹争议（通说待核）。"],
+  "influence":[{"text":"作者页：狄更斯代表作谱系（B120 作者页口径）。","source":"B120"},
+   {"text":"《雾都孤儿》音乐剧 Oliver!（1968年电影获奥斯卡——通说待核）。","source":"B120"}],
+  "reading":{"difficulties":["济贫院制度（《新济贫法》）。","连载体结构。"],
+   "editions":["《雾都孤儿》（人民文学出版社黄雨石译本？——通说待核）。","英文原版（公有领域）。"],
+   "order":"狄更斯入门：《雾都孤儿》→《大卫·科波菲尔》。"},
+  "pending":["1837—39连载与1838年三卷本核对。","奥利弗/费金/南希人名核对。","费金形象的反犹争议待核。"],
+  "sources":["B120"],"year_source":"B120","author_source":"B120","related_works":["dawei","shuangchengji","beican"],
+  "svg":G("《雾都孤儿》地下世界图",[{"title":"济贫院","text":"'再要一碗'（通说）","color":"family"},{"title":"贼窟","text":"费金的伦敦","color":"antagonist"},{"title":"南希","text":"告密与牺牲","color":"gold"},{"title":"奥利弗","text":"善的幸存","color":"main"}])
+},
+"taiyangzhaochangshengqi": {
+  "id":"taiyangzhaochangshengqi","title":"太阳照常升起","original_title":"The Sun Also Rises","region":"美国","era":"现当代","era_detail":"20世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"hemingway","author_name":"欧内斯特·海明威",
+  "year_display":"1926年（作者页 B051/B024 口径：太阳照常升起（1926））","year_sort":1926,
+  "background":["作者页（B051/B024）：海明威 major_works 载'太阳照常升起（1926）、永别了武器（1929）、丧钟为谁而鸣（1940）'（作者页定位，详见 laorenhai 条核对）。","题材（通说待核）：'迷惘的一代'的巴黎与潘普洛纳奔牛节——杰克·巴恩斯与勃莱特。"],
+  "outline":["战伤的杰克与勃莱特无果的爱；西班牙奔牛节的狂欢与斗牛士罗梅罗（通说待核）。"],
+  "characters":[{"name":"杰克·巴恩斯","identity":"记者","note":"战伤者（通说待核）"},{"name":"勃莱特","identity":"贵妇","note":"（通说待核）"},{"name":"罗梅罗","identity":"斗牛士","note":"（通说待核）"}],
+  "themes":["'迷惘的一代'（书内题词——通说待核）。",
+   "冰山文体（作者风格——通说）。",
+   "斗牛与尊严（通说待核）。"],
+  "influence":[{"text":"作者页：海明威成名作（B051/B024 作者页口径）。","source":"B051"},
+   {"text":"'迷惘的一代'的命名之作（通说待核）。","source":"B051"}],
+  "reading":{"difficulties":["对话之下的潜流。","1920年代巴黎地理。"],
+   "editions":["《太阳照常升起》（上海译文出版社，通说待核）。","英文原版（公有领域渐近）。"],
+   "order":"先《太阳照常升起》后《永别了武器》。"},
+  "pending":["1926年出版（Scribner说）核对。","杰克/勃莱特/罗梅罗人名核对。","'迷惘的一代'出处（格特鲁德·斯泰因）待核。"],
+  "sources":["B051","B024"],"year_source":"B051","author_source":"B051","related_works":["laorenhai","gaicibi","fenwangyu"],
+  "svg":G("《太阳照常升起》迷惘结构图",[{"title":"巴黎","text":"咖啡馆的漂泊","color":"family"},{"title":"奔牛节","text":"潘普洛纳的狂欢","color":"main"},{"title":"战伤","text":"无果的爱","color":"antagonist"},{"title":"太阳","text":"照常升起","color":"gold"}])
+},
+"yongbiewuqi": {
+  "id":"yongbiewuqi","title":"永别了，武器","original_title":"A Farewell to Arms","region":"美国","era":"现当代","era_detail":"20世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"hemingway","author_name":"欧内斯特·海明威",
+  "year_display":"1929年（作者页 B051/B024 口径：永别了武器（1929））","year_sort":1929,
+  "background":["作者页（B051/B024）：海明威 major_works 载'永别了武器（1929）'（作者页定位，详见 laorenhai 条核对）。","题材（通说待核）：一战意大利战线的美国救护车司机弗雷德里克·亨利与护士凯瑟琳——'告别武器'与'告别 arms（怀抱）'的双关。"],
+  "outline":["卡波雷托溃退→米兰的爱情→凯瑟琳死于难产——雨中的结局（通说待核）。"],
+  "characters":[{"name":"弗雷德里克·亨利","identity":"救护车司机","note":"（通说待核）"},{"name":"凯瑟琳","identity":"护士","note":"死于难产（通说待核）"}],
+  "themes":["'世界打断每一个人'（名句通说待核——The world breaks every one）。",
+   "战争的个人拒绝（通说）。",
+   "雨与死亡的意象（通说待核）。"],
+  "influence":[{"text":"作者页：海明威代表作（B051/B024 作者页口径）。","source":"B051"},
+   {"text":"反战文学的经典（通说待核）。","source":"B051"}],
+  "reading":{"difficulties":["冰山文体。","意大利战线史。"],
+   "editions":["《永别了，武器》（上海译文出版社，通说待核）。","英文原版（公有领域渐近）。"],
+   "order":"海明威三连读：《太阳》《武器》《丧钟》。"},
+  "pending":["1929年出版（Scribner说）核对。","亨利/凯瑟琳人名核对。","'世界打断每一个人'原文核对。"],
+  "sources":["B051","B024"],"year_source":"B051","author_source":"B051","related_works":["laorenhai","taiyangzhaochangshengqi","zhanzheng"],
+  "svg":G("《永别了武器》战争结构图",[{"title":"前线","text":"卡波雷托溃退","color":"antagonist"},{"title":"爱情","text":"米兰的暖","color":"family"},{"title":"雨中","text":"凯瑟琳之死","color":"main"},{"title":"告别","text":"武器与怀抱的双关","color":"gold"}])
+},
+"yesetainrou": {
+  "id":"yesetainrou","title":"夜色温柔","original_title":"Tender Is the Night","region":"美国","era":"现当代","era_detail":"20世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"fitzgerald","author_name":"弗朗西斯·斯科特·菲茨杰拉德",
+  "year_display":"1934年（作者页 B050/B023 口径：夜色温柔（1934））","year_sort":1934,
+  "background":["作者页（B050/B023）：菲茨杰拉德 major_works 载'夜色温柔（1934）'（作者页定位，详见 gaicibi 条核对）。","书名（通说待核）：出自济慈《夜莺颂》（'tender is the night'）。","题材（通说待核）：精神病医生迪克·戴弗与病人妮可的婚姻——里维埃拉的美国侨民世界。"],
+  "outline":["迪克从治疗者到被消耗者的滑落（通说待核）。","妮可的康复与'胜利'——婚姻的解体（通说待核）。"],
+  "characters":[{"name":"迪克·戴弗","identity":"精神科医生","note":"滑落的主角（通说待核）"},{"name":"妮可","identity":"病人→妻子","note":"（通说待核）"}],
+  "themes":["美国梦的另一面：耗尽（通说）。",
+   "医生与病人的权力反转（通说待核）。",
+   "爵士时代的余晖（通说）。"],
+  "influence":[{"text":"作者页：菲茨杰拉德代表作（B050/B023 作者页口径）。","source":"B050"},
+   {"text":"菲茨杰拉德自认的最佳小说（通说待核）。","source":"B050"}],
+  "reading":{"difficulties":["非线性时序（前三部分）。","里维埃拉场景。"],
+   "editions":["《夜色温柔》（上海译文出版社，通说待核）。","英文原版（公有领域渐近）。"],
+   "order":"先《了不起的盖茨比》后本作。"},
+  "pending":["1934年出版（Scribner说）核对。","迪克/妮可人名核对。","济慈书名出处（《夜莺颂》）待核。"],
+  "sources":["B050","B023"],"year_source":"B050","author_source":"B050","related_works":["gaicibi","renjianshi","taiyangzhaochangshengqi"],
+  "svg":G("《夜色温柔》耗尽结构图",[{"title":"里维埃拉","text":"侨民的阳光","color":"family"},{"title":"治疗者","text":"迪克的消耗","color":"main"},{"title":"妮可","text":"康复与离开","color":"gold"},{"title":"夜色","text":"济慈的温柔（通说）","color":"plain"}])
+}
+}
+
+for wid, d in works.items():
+    p = pathlib.Path(f"data/works/{wid}.json")
+    p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+    print("created work", wid)
+print(len(works), "works created")

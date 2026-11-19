@@ -1,0 +1,104 @@
+{
+  "id": "yongbiewuqi",
+  "title": "永别了，武器",
+  "original_title": "A Farewell to Arms",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hemingway",
+  "author_name": "欧内斯特·海明威",
+  "year_display": "1929年（作者页 B051/B024 口径：永别了武器（1929））",
+  "year_sort": 1929,
+  "background": [
+    "作者页（B051/B024）：海明威 major_works 载'永别了武器（1929）'（作者页定位，详见 laorenhai 条核对）。",
+    "题材（通说待核）：一战意大利战线的美国救护车司机弗雷德里克·亨利与护士凯瑟琳——'告别武器'与'告别 arms（怀抱）'的双关。"
+  ],
+  "outline": [
+    "卡波雷托溃退→米兰的爱情→凯瑟琳死于难产——雨中的结局（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "弗雷德里克·亨利",
+      "identity": "救护车司机",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "凯瑟琳",
+      "identity": "护士",
+      "note": "死于难产（通说待核）"
+    }
+  ],
+  "themes": [
+    "'世界打断每一个人'（名句通说待核——The world breaks every one）。",
+    "战争的个人拒绝（通说）。",
+    "雨与死亡的意象（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：海明威代表作（B051/B024 作者页口径）。",
+      "source": "B051"
+    },
+    {
+      "text": "反战文学的经典（通说待核）。",
+      "source": "B051"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "冰山文体。",
+      "意大利战线史。"
+    ],
+    "editions": [
+      "《永别了，武器》（上海译文出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "海明威三连读：《太阳》《武器》《丧钟》。"
+  },
+  "pending": [
+    "1929年出版（Scribner说）核对。",
+    "亨利/凯瑟琳人名核对。",
+    "'世界打断每一个人'原文核对。"
+  ],
+  "sources": [
+    "B051",
+    "B024"
+  ],
+  "year_source": "B051",
+  "author_source": "B051",
+  "related_works": [
+    "laorenhai",
+    "taiyangzhaochangshengqi",
+    "zhanzheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《永别了武器》战争结构图",
+    "cards": [
+      {
+        "title": "前线",
+        "text": "卡波雷托溃退",
+        "color": "antagonist"
+      },
+      {
+        "title": "爱情",
+        "text": "米兰的暖",
+        "color": "family"
+      },
+      {
+        "title": "雨中",
+        "text": "凯瑟琳之死",
+        "color": "main"
+      },
+      {
+        "title": "告别",
+        "text": "武器与怀抱的双关",
+        "color": "gold"
+      }
+    ]
+  }
+}

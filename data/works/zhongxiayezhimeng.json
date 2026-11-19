@@ -1,0 +1,105 @@
+{
+  "id": "zhongxiayezhimeng",
+  "title": "仲夏夜之梦",
+  "original_title": "A Midsummer Night's Dream",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "喜剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "shakespeare",
+  "author_name": "威廉·莎士比亚",
+  "year_display": "约1595年（通说待核；作者页 B033/B007 口径：major_works 载'仲夏夜之梦'）",
+  "year_sort": 1595,
+  "background": [
+    "作者页（B033/B007）：莎士比亚 major_works 载'仲夏夜之梦、第十二夜、暴风雨'（作者页定位，详见 hamlet 条核对）。",
+    "题材（通说待核）：雅典森林中的花汁错点——两对恋人与仙王仙后的闹剧，织工波顿变驴。"
+  ],
+  "outline": [
+    "魔汁误点：错位的爱恋（通说待核）。",
+    "'戏中戏'：织工们排演《皮拉摩斯与提斯柏》（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "帕克（迫克）",
+      "identity": "精灵",
+      "note": "魔汁的执行者（通说待核）"
+    },
+    {
+      "name": "波顿",
+      "identity": "织工",
+      "note": "驴头主角（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱与梦幻的非理性（通说）。",
+    "'戏中戏'与元戏剧（通说待核）。",
+    "想象力的胜利（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莎翁喜剧代表作（B033/B007 作者页口径）。",
+      "source": "B033"
+    },
+    {
+      "text": "门德尔松同名序曲与戏剧配乐（1842——通说待核）。",
+      "source": "B033"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "仙界与人间双线。",
+      "押韵对白的节奏。"
+    ],
+    "editions": [
+      "《仲夏夜之梦》（朱生豪译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "莎翁喜剧首选入门。"
+  },
+  "pending": [
+    "首演年份与场合（贵族婚礼说待核）。",
+    "帕克/波顿人名核对。",
+    "门德尔松配乐年份待核。"
+  ],
+  "sources": [
+    "B033",
+    "B007"
+  ],
+  "year_source": "B033",
+  "author_source": "B033",
+  "related_works": [
+    "xixiangji",
+    "xianzhi",
+    "mudanting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《仲夏夜之梦》魔汁结构图",
+    "cards": [
+      {
+        "title": "花汁",
+        "text": "错点的魔法",
+        "color": "antagonist"
+      },
+      {
+        "title": "森林",
+        "text": "仙界与人间",
+        "color": "main"
+      },
+      {
+        "title": "波顿",
+        "text": "驴头的演员",
+        "color": "gold"
+      },
+      {
+        "title": "婚礼",
+        "text": "三重团圆",
+        "color": "family"
+      }
+    ]
+  }
+}

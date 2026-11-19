@@ -1,0 +1,109 @@
+{
+  "id": "luomiou",
+  "title": "罗密欧与朱丽叶",
+  "original_title": "Romeo and Juliet",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "shakespeare",
+  "author_name": "威廉·莎士比亚",
+  "year_display": "约1595年（通说待核；作者页 B033/B007 口径：major_works 载'罗密欧与朱丽叶'）",
+  "year_sort": 1595,
+  "background": [
+    "作者页（B033/B007）：莎士比亚 major_works 载'罗密欧与朱丽叶'（作者页定位，详见 hamlet 条核对）。",
+    "题材（通说）：维罗纳两大家族世仇中的殉情故事——源自 Arthur Brooke 长诗（通说待核）。"
+  ],
+  "outline": [
+    "舞会一见钟情→阳台盟誓→秘密成婚→误杀与放逐→假死药与双重自杀（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "罗密欧",
+      "identity": "蒙太古家之子",
+      "note": "（通说）"
+    },
+    {
+      "name": "朱丽叶",
+      "identity": "凯普莱特家之女",
+      "note": "十四岁（通说）"
+    },
+    {
+      "name": "劳伦斯神父",
+      "identity": "神父",
+      "note": "计划的失败者（通说待核）"
+    }
+  ],
+  "themes": [
+    "世仇与爱情的冲突（通说）。",
+    "命运的'星象'（通说待核——star-cross'd lovers）。",
+    "青春的炽烈语言（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莎翁名剧（B033/B007 作者页口径）。",
+      "source": "B033"
+    },
+    {
+      "text": "无数改编：普罗科菲耶夫芭蕾、伯恩斯坦《西边故事》（通说待核）。",
+      "source": "B033"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "十四行诗对白。",
+      "家族世仇背景。"
+    ],
+    "editions": [
+      "《罗密欧与朱丽叶》（朱生豪译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "莎士比亚悲剧入门首选。"
+  },
+  "pending": [
+    "1594—95年首演说核对。",
+    "Camelot？——不：Brooke 长诗（1562年说）待核。",
+    "阳台场景'罗密欧啊罗密欧'原文核对。"
+  ],
+  "sources": [
+    "B033",
+    "B007"
+  ],
+  "year_source": "B033",
+  "author_source": "B033",
+  "related_works": [
+    "hamlet",
+    "aosailuo",
+    "mudanting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《罗密欧与朱丽叶》世仇结构图",
+    "cards": [
+      {
+        "title": "舞会",
+        "text": "一见钟情",
+        "color": "family"
+      },
+      {
+        "title": "阳台",
+        "text": "盟誓",
+        "color": "main"
+      },
+      {
+        "title": "假死药",
+        "text": "错位的消息",
+        "color": "antagonist"
+      },
+      {
+        "title": "殉情",
+        "text": "金像的和解",
+        "color": "gold"
+      }
+    ]
+  }
+}
