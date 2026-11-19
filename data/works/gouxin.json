@@ -1,0 +1,104 @@
+{
+  "id": "gouxin",
+  "title": "狗心",
+  "original_title": "Собачье сердце（Heart of a Dog）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "bulgakov",
+  "author_name": "米哈伊尔·布尔加科夫",
+  "year_display": "1925年写成（Britannica：Heart of a Dog written 1925——B225）",
+  "year_sort": 1925,
+  "background": [
+    "Britannica（B225）：'In the same year he wrote Sobachye serdtse (Heart of a Dog), a scathing comic satire on pseudoscience'（对伪科学的辛辣滑稽讽刺——B225）。",
+    "题材（通说待核）：流浪狗沙里科夫被移植人脑垂体——'人造人'的苏联讽刺。"
+  ],
+  "outline": [
+    "普列奥布拉任斯基教授的器官移植实验——狗变'新人'（通说待核）。",
+    "'恢复原状'的结局（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "沙里科夫",
+      "identity": "狗人",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "普列奥布拉任斯基",
+      "identity": "教授",
+      "note": "实验者（通说待核）"
+    }
+  ],
+  "themes": [
+    "伪科学的讽刺（B225）。",
+    "'新人'工程的荒诞（通说待核）。",
+    "公寓政治的微型戏（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a scathing comic satire on pseudoscience'（B225）。",
+      "source": "B225"
+    },
+    {
+      "text": "作者页：布尔加科夫讽刺谱系（B225 作者级定位）。",
+      "source": "B225"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "苏联医学术语戏仿。",
+      "'新经济政策'时代公寓。"
+    ],
+    "editions": [
+      "《狗心》（人民文学出版社/上海译文版本，通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "先《狗心》后《大师与玛格丽特》。"
+  },
+  "pending": [
+    "1925年写成、1987年苏联刊出说核对。",
+    "沙里科夫/普列奥布拉任斯基人名核对。",
+    "电影改编（1988年说）待核。"
+  ],
+  "sources": [
+    "B225"
+  ],
+  "year_source": "B225",
+  "author_source": "B225",
+  "related_works": [
+    "dashiyumageeligeta",
+    "ansuan",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《狗心》实验结构图",
+    "cards": [
+      {
+        "title": "垂体移植",
+        "text": "狗变人",
+        "color": "main"
+      },
+      {
+        "title": "沙里科夫",
+        "text": "'新人'的粗鄙",
+        "color": "antagonist"
+      },
+      {
+        "title": "公寓",
+        "text": "苏联的缩影",
+        "color": "family"
+      },
+      {
+        "title": "复原",
+        "text": "实验的撤销",
+        "color": "gold"
+      }
+    ]
+  }
+}

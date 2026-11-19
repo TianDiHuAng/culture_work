@@ -1,0 +1,103 @@
+{
+  "id": "maoyan",
+  "title": "猫眼",
+  "original_title": "Cat's Eye",
+  "region": "加拿大",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "atwood",
+  "author_name": "玛格丽特·阿特伍德",
+  "year_display": "1988年（作者页 B107 口径：猫眼（1988））",
+  "year_sort": 1988,
+  "background": [
+    "作者页（B107）：阿特伍德 major_works 载'猫眼（1988）'（B107 作者页定位，详见 shinv 条核对）。",
+    "题材（通说待核）：画家伊莱恩回多伦多办回顾展——童年友情的'战争'记忆。"
+  ],
+  "outline": [
+    "回顾展触发童年记忆：科迪莉亚与'猫眼'弹珠（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "伊莱恩",
+      "identity": "画家",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "科迪莉亚",
+      "identity": "童年玩伴",
+      "note": "压迫者（通说待核）"
+    }
+  ],
+  "themes": [
+    "童年霸凌的创伤记忆（通说）。",
+    "女性友谊的暗面（通说待核）。",
+    "'猫眼'弹珠的凝视（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿特伍德代表作（B107 作者页口径）。",
+      "source": "B107"
+    },
+    {
+      "text": "1989年布克奖入围（通说待核）。",
+      "source": "B107"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "记忆的时间跳跃。",
+      "女性友谊的复杂性。"
+    ],
+    "editions": [
+      "《猫眼》（河南大学出版社/译林版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《使女的故事》后本作。"
+  },
+  "pending": [
+    "1988年出版（McClelland & Stewart说）核对。",
+    "伊莱恩/科迪莉亚人名核对。",
+    "布克入围说待核。"
+  ],
+  "sources": [
+    "B107"
+  ],
+  "year_source": "B107",
+  "author_source": "B107",
+  "related_works": [
+    "mangcike",
+    "shinv",
+    "daluolaiwei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《猫眼》童年记忆图",
+    "cards": [
+      {
+        "title": "猫眼",
+        "text": "弹珠的凝视",
+        "color": "main"
+      },
+      {
+        "title": "科迪莉亚",
+        "text": "童年的压迫",
+        "color": "antagonist"
+      },
+      {
+        "title": "回顾展",
+        "text": "中年清算",
+        "color": "gold"
+      },
+      {
+        "title": "多伦多",
+        "text": "记忆的城",
+        "color": "family"
+      }
+    ]
+  }
+}

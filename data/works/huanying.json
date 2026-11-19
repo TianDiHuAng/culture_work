@@ -1,0 +1,105 @@
+{
+  "id": "huanying",
+  "title": "幻灭",
+  "original_title": "Illusions perdues（Lost Illusions）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "balzac",
+  "author_name": "奥诺雷·德·巴尔扎克",
+  "year_display": "1837—1843年（作者页 B039/B014 口径：幻灭（1837—43））",
+  "year_sort": 1837,
+  "background": [
+    "作者页（B039/B014）：巴尔扎克 major_works 载'幻灭（1837—43）'（B039 作者页定位，详见 gaolaotou 条核对）。",
+    "题材（通说待核）：外省青年吕西安巴黎闯荡——新闻界的'地狱'与纸张生意。"
+  ],
+  "outline": [
+    "吕西安的诗与堕落：报纸的'神圣的买卖'（通说待核）。",
+    "大卫·赛夏的印刷术发明与被窃（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "吕西安",
+      "identity": "诗人",
+      "note": "堕落的外省才子（通说待核）"
+    },
+    {
+      "name": "大卫·赛夏",
+      "identity": "发明家",
+      "note": "被背叛的兄弟（通说待核）"
+    }
+  ],
+  "themes": [
+    "新闻界的解剖（通说）。",
+    "'幻灭'：外省才子的巴黎（通说待核）。",
+    "发明与资本（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：巴尔扎克《人间喜剧》名作（B039/B014 作者页口径）。",
+      "source": "B039"
+    },
+    {
+      "text": "作者页：《人间喜剧》总目（B014 作者级定位）。",
+      "source": "B014"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1830年代法国新闻业。",
+      "《人间喜剧》人物复现。"
+    ],
+    "editions": [
+      "《幻灭》（人民文学出版社傅雷译本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "《人间喜剧》必读：与《高老头》《欧也妮》并列。"
+  },
+  "pending": [
+    "三部（两诗人/外省大人物在巴黎/发明家的苦难）核对。",
+    "吕西安/大卫人名核对。",
+    "傅雷译本信息待核。"
+  ],
+  "sources": [
+    "B039",
+    "B014"
+  ],
+  "year_source": "B039",
+  "author_source": "B039",
+  "related_works": [
+    "ouyeni",
+    "linjiapuzi",
+    "gaolaotou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《幻灭》巴黎结构图",
+    "cards": [
+      {
+        "title": "外省",
+        "text": "阿内西的诗人",
+        "color": "family"
+      },
+      {
+        "title": "新闻界",
+        "text": "神圣的买卖（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "发明",
+        "text": "被窃的纸张术",
+        "color": "gold"
+      },
+      {
+        "title": "幻灭",
+        "text": "理想的破产",
+        "color": "main"
+      }
+    ]
+  }
+}

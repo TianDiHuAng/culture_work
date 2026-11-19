@@ -1,0 +1,103 @@
+{
+  "id": "moluyi",
+  "title": "莫洛伊、马洛伊、不可名状的威廉（莫洛伊三部曲）",
+  "original_title": "Molloy / Malone Dies / The Unnamable",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "小说三部曲",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "beckett",
+  "author_name": "塞缪尔·贝克特",
+  "year_display": "1947—1950年（作者页 B094 口径：莫洛伊三部曲 (1947–50)）",
+  "year_sort": 1950,
+  "background": [
+    "作者页（B094）：贝克特 major_works 载'莫洛伊三部曲 (1947–50)'（B094 作者页定位，详见 dengdaigou 条核对）。",
+    "三部（通说待核）：莫洛伊的寻母→马洛伊的躺卧倒计时→'我'的不可名状独白。"
+  ],
+  "outline": [
+    "三部曲：从叙事到纯独白的坍缩（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "莫洛伊/马洛伊",
+      "identity": "流浪者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "'我'",
+      "identity": "独白者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "叙事的自我坍缩（通说）。",
+    "'我继续，不能继续，我继续'（名句通说待核）。",
+    "法语转向（B094 语境——贝克特战后改用法语写作）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：贝克特小说三部曲（B094 作者页口径）。",
+      "source": "B094"
+    },
+    {
+      "text": "与《等待戈多》并立的散文极点（通说待核）。",
+      "source": "B094"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "独白的坍缩结构。",
+      "'我继续'句法。"
+    ],
+    "editions": [
+      "《莫洛伊》（湖南文艺出版社《贝克特选集》，通说待核）。",
+      "法文原版（Minuit）。"
+    ],
+    "order": "先戏剧后小说三部曲。"
+  },
+  "pending": [
+    "三部书名与年份核对。",
+    "'我继续'原句核对。",
+    "法语转向（1946年后）细节待核。"
+  ],
+  "sources": [
+    "B094"
+  ],
+  "year_source": "B094",
+  "author_source": "B094",
+  "related_works": [
+    "zhongju",
+    "dengdaigou",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《莫洛伊三部曲》坍缩图",
+    "cards": [
+      {
+        "title": "莫洛伊",
+        "text": "寻母的流浪",
+        "color": "family"
+      },
+      {
+        "title": "马洛伊",
+        "text": "躺卧的倒计时",
+        "color": "main"
+      },
+      {
+        "title": "不可名状者",
+        "text": "纯独白",
+        "color": "gold"
+      },
+      {
+        "title": "我继续",
+        "text": "名句（待核）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

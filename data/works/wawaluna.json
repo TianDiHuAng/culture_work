@@ -1,0 +1,103 @@
+{
+  "id": "wawaluna",
+  "title": "埃娃·卢娜",
+  "original_title": "Eva Luna",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "allende",
+  "author_name": "伊莎贝尔·阿连德",
+  "year_display": "1987年（作者页 B158 口径：埃娃·卢娜（1987））",
+  "year_sort": 1987,
+  "background": [
+    "作者页（B158）：阿连德 major_works 载'埃娃·卢娜（1987）、城市野兽（1990）'（B158 作者页定位，详见 youlingzhijia 条核对）。",
+    "题材（通说待核）：会讲故事的埃娃·卢娜——拉美大陆的流浪与讲述。"
+  ],
+  "outline": [
+    "埃娃的出身与讲述天赋——'讲故事的人'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "埃娃·卢娜",
+      "identity": "讲述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "鲁尔夫·卡莱",
+      "identity": "摄影师",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "讲述即生存（通说）。",
+    "拉美百年群像（通说待核）。",
+    "女性讲述者的谱系（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿连德代表作谱系（B158 作者页口径）。",
+      "source": "B158"
+    },
+    {
+      "text": "作者页：阿连德'幽灵之家'作者定位（B158 作者级）。",
+      "source": "B158"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "拉美魔幻的密度。",
+      "讲述的嵌套。"
+    ],
+    "editions": [
+      "《埃娃·卢娜》（译林出版社，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "先《幽灵之家》后本作。"
+  },
+  "pending": [
+    "1987年出版（HarperCollins西语说）核对。",
+    "埃娃·卢娜/鲁尔夫人名核对。",
+    "姊妹篇《爱心故事》待核。"
+  ],
+  "sources": [
+    "B158"
+  ],
+  "year_source": "B158",
+  "author_source": "B158",
+  "related_works": [
+    "youlingzhijia",
+    "baola",
+    "bainian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《埃娃·卢娜》讲述结构图",
+    "cards": [
+      {
+        "title": "讲述者",
+        "text": "埃娃·卢娜",
+        "color": "main"
+      },
+      {
+        "title": "流浪",
+        "text": "拉美的大陆",
+        "color": "family"
+      },
+      {
+        "title": "讲故事",
+        "text": "生存的天赋",
+        "color": "gold"
+      },
+      {
+        "title": "爱情",
+        "text": "摄影师的镜头",
+        "color": "plain"
+      }
+    ]
+  }
+}

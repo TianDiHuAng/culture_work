@@ -1,0 +1,104 @@
+{
+  "id": "beiyi",
+  "title": "贝姨",
+  "original_title": "La Cousine Bette（Cousin Bette）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "balzac",
+  "author_name": "奥诺雷·德·巴尔扎克",
+  "year_display": "1846年（作者页 B039/B014 口径：贝姨（1846））",
+  "year_sort": 1846,
+  "background": [
+    "作者页（B039/B014）：巴尔扎克 major_works 载'贝姨（1846）'（B039 作者页定位，详见 gaolaotou 条核对）。",
+    "题材（通说待核）：穷亲戚贝姨的隐性报复——于洛男爵家庭的瓦解。"
+  ],
+  "outline": [
+    "贝姨借瓦莱丽实施复仇——于洛家的性崩溃（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "贝特（贝姨）",
+      "identity": "穷亲戚",
+      "note": "暗处的复仇者（通说待核）"
+    },
+    {
+      "name": "于洛男爵",
+      "identity": "好色军官",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "报复的隐秘经济学（通说）。",
+    "好色的家庭崩塌（通说待核）。",
+    "'穷人道德'的黑暗（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：巴尔扎克晚期代表作（B039/B014 作者页口径）。",
+      "source": "B039"
+    },
+    {
+      "text": "与《邦斯舅舅》并称'穷亲戚'双璧（通说待核）。",
+      "source": "B039"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "复现人物（于洛家族）。",
+      "恶的层次。"
+    ],
+    "editions": [
+      "《贝姨》（人民文学出版社傅雷译本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "《人间喜剧》晚期必读。"
+  },
+  "pending": [
+    "1846年出版核对。",
+    "贝特/于洛人名核对。",
+    "傅雷译本信息待核。"
+  ],
+  "sources": [
+    "B039",
+    "B014"
+  ],
+  "year_source": "B039",
+  "author_source": "B039",
+  "related_works": [
+    "ouyeni",
+    "gaolaotou",
+    "huanying"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《贝姨》复仇结构图",
+    "cards": [
+      {
+        "title": "贝姨",
+        "text": "暗处的毒",
+        "color": "antagonist"
+      },
+      {
+        "title": "于洛家",
+        "text": "崩塌的体面",
+        "color": "family"
+      },
+      {
+        "title": "瓦莱丽",
+        "text": "共谋的美",
+        "color": "gold"
+      },
+      {
+        "title": "于洛男爵",
+        "text": "好色的代价",
+        "color": "main"
+      }
+    ]
+  }
+}

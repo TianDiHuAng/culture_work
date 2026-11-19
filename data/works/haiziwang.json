@@ -1,0 +1,103 @@
+{
+  "id": "haiziwang",
+  "title": "孩子王",
+  "original_title": "孩子王（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "acheng",
+  "author_name": "阿城",
+  "year_display": "发表年份待核（中国作家网 C030：阿城'三王'谱系——'孩子王'为'三王'之一）",
+  "year_sort": 1986,
+  "background": [
+    "中国作家网（C030）：阿城 major_works 载'孩子王'（C030 作者页定位）。",
+    "题材（通说待核）：知青'老杆儿'被调去教初三——没有课本的语文课与抄写教育。"
+  ],
+  "outline": [
+    "老杆儿撕掉课本教真话——'从今以后，什么都不要抄'（情节通说待核）。",
+    "王福抄字典的执拗（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "老杆儿",
+      "identity": "代课教师",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "王福",
+      "identity": "学生",
+      "note": "抄字典的孩子（通说待核）"
+    }
+  ],
+  "themes": [
+    "教育的空转与真话（通说待核）。",
+    "字典作为文化之根（通说）。",
+    "'三王'的教之维（C030 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：阿城'三王'谱系（C030 作者页口径）。",
+      "source": "C030"
+    },
+    {
+      "text": "1987年陈凯歌电影改编《孩子王》（通说待核）。",
+      "source": "C030"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "教育叙事的冷静。",
+      "抄写的象征。"
+    ],
+    "editions": [
+      "《棋王·树王·孩子王》（人民文学出版社，通说待核）。"
+    ],
+    "order": "'三王'之末。"
+  },
+  "pending": [
+    "首刊年份核对。",
+    "老杆儿/王福人名核对。",
+    "1987年电影（陈凯歌说）核对。"
+  ],
+  "sources": [
+    "C030"
+  ],
+  "year_source": "C030",
+  "author_source": "C030",
+  "related_works": [
+    "qiwan",
+    "shuwang",
+    "woyuditan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《孩子王》教育结构图",
+    "cards": [
+      {
+        "title": "课本",
+        "text": "空转的教材",
+        "color": "antagonist"
+      },
+      {
+        "title": "撕书",
+        "text": "教真话的开始",
+        "color": "main"
+      },
+      {
+        "title": "王福",
+        "text": "抄字典的孩子",
+        "color": "gold"
+      },
+      {
+        "title": "离开",
+        "text": "又回生产队",
+        "color": "family"
+      }
+    ]
+  }
+}

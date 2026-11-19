@@ -1,0 +1,102 @@
+{
+  "id": "shuwang",
+  "title": "树王",
+  "original_title": "树王（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "acheng",
+  "author_name": "阿城",
+  "year_display": "发表年份待核（中国作家网 C030：阿城'三王'谱系——《棋王》1984年后同期作品；'树王'为'三王'之一）",
+  "year_sort": 1985,
+  "background": [
+    "中国作家网（C030）：阿城 major_works 载'树王、孩子王'（C030 作者页定位）。",
+    "题材（通说待核）：知青李立与'树王'肖疙瘩——砍树运动中的巨树之死。"
+  ],
+  "outline": [
+    "砍树烧山与'树王'肖疙瘩的守树——巨树倒下后肖疙瘩的枯萎（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "肖疙瘩",
+      "identity": "山民",
+      "note": "'树王'（通说待核）"
+    },
+    {
+      "name": "李立",
+      "identity": "知青",
+      "note": "砍树的逻辑（通说待核）"
+    }
+  ],
+  "themes": [
+    "人与自然：巨树的神性（通说）。",
+    "'文革'逻辑对山野的征服（通说待核）。",
+    "'三王'之一的自然之维（C030 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：阿城'三王'谱系（C030 作者页口径）。",
+      "source": "C030"
+    },
+    {
+      "text": "中国作家网：《棋王》为寻根文学代表作（C030——三王同域）。",
+      "source": "C030"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "山林与'文革'话语的对撞。",
+      "阿城话本文体的静默。"
+    ],
+    "editions": [
+      "《棋王·树王·孩子王》（人民文学出版社，通说待核）。"
+    ],
+    "order": "三王顺序可任选，建议棋王→树王→孩子王。"
+  },
+  "pending": [
+    "首刊年份（《上海文学》同期说）核对。",
+    "肖疙瘩/李立人名核对。",
+    "'树王'称号来历待核。"
+  ],
+  "sources": [
+    "C030"
+  ],
+  "year_source": "C030",
+  "author_source": "C030",
+  "related_works": [
+    "qiwan",
+    "mingruoqinxian",
+    "wodewangdishi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《树王》巨树结构图",
+    "cards": [
+      {
+        "title": "巨树",
+        "text": "山中的树王",
+        "color": "main"
+      },
+      {
+        "title": "砍伐",
+        "text": "运动的逻辑",
+        "color": "antagonist"
+      },
+      {
+        "title": "肖疙瘩",
+        "text": "守树的人",
+        "color": "gold"
+      },
+      {
+        "title": "枯萎",
+        "text": "树的死与人败",
+        "color": "family"
+      }
+    ]
+  }
+}

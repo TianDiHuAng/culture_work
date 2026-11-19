@@ -1,0 +1,97 @@
+{
+  "id": "kongshan",
+  "title": "空山",
+  "original_title": "空山（长篇小说三部曲）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "alai",
+  "author_name": "阿来",
+  "year_display": "出版年份待核（中国作家网 C012：阿来 major_works 载'空山、格萨尔王'——2005—2008年说通说待核）",
+  "year_sort": 2005,
+  "background": [
+    "中国作家网官方名单页（C012）：阿来 major_works 载'空山、格萨尔王'（C012 作者页定位，详见 chenailuodi 条核对）。",
+    "题材（通说待核）：机村（原名'末日'村）的六卷时代——从'文革'到市场经济。"
+  ],
+  "outline": [
+    "三卷六篇：机村的'空'与时代之'满'（结构通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "机村人",
+      "identity": "群像",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "藏地村庄的时代变形记（通说）。",
+    "'空'的题解（书名通说待核）。",
+    "《尘埃落定》之后的当代延伸（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网官方名单：阿来 major_works 谱系（C012 作者页口径）。",
+      "source": "C012"
+    },
+    {
+      "text": "中国作家网官方名单：《尘埃落定》第五届茅奖（C012 作者级）。",
+      "source": "C012"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "六卷结构。",
+      "藏地词汇。"
+    ],
+    "editions": [
+      "《空山》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先《尘埃落定》后本作。"
+  },
+  "pending": [
+    "三卷卷名与出版年核对。",
+    "机村原型（阿坝说）待核。",
+    "'新故事'与'旧故事'结构待核。"
+  ],
+  "sources": [
+    "C012"
+  ],
+  "year_source": "C012",
+  "author_source": "C012",
+  "related_works": [
+    "chenailuodi",
+    "pingfan",
+    "qinqiang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《空山》机村结构图",
+    "cards": [
+      {
+        "title": "机村",
+        "text": "藏地村庄",
+        "color": "family"
+      },
+      {
+        "title": "三卷",
+        "text": "时代六幕（通说）",
+        "color": "main"
+      },
+      {
+        "title": "空",
+        "text": "书名的题解",
+        "color": "gold"
+      },
+      {
+        "title": "尘埃落定",
+        "text": "作者的前作",
+        "color": "plain"
+      }
+    ]
+  }
+}

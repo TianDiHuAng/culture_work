@@ -1,0 +1,98 @@
+{
+  "id": "buzaideaning",
+  "title": "再也不得安宁",
+  "original_title": "No Longer at Ease",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "achebe",
+  "author_name": "钦努阿·阿契贝",
+  "year_display": "1960年（作者页 B106 口径：再也不得安宁（1960））",
+  "year_sort": 1960,
+  "background": [
+    "作者页（B106）：阿契贝 major_works 载'再也不得安宁（1960）'（B106 作者页定位，详见 wajie 条核对）。",
+    "题材（通说待核）：奥比赴英留学归来陷入腐败——《瓦解》的续曲（主人公为奥孔喀沃之孙）。"
+  ],
+  "outline": [
+    "奥比的留学、初恋与公职腐败案（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥比",
+      "identity": "公务员",
+      "note": "奥孔喀沃之孙（通说待核）"
+    }
+  ],
+  "themes": [
+    "殖民教育产品的堕落（通说）。",
+    "'再也不是殖民前的心境'（书名通说待核）。",
+    "腐败的个人史与社会史（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿契贝'尼日利亚三部曲'之二（B106 作者页口径——通说待核）。",
+      "source": "B106"
+    },
+    {
+      "text": "作者页：阿契贝非洲文学代表（B106 作者级定位）。",
+      "source": "B106"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "尼日利亚独立前后史。",
+      "三部曲人物世系。"
+    ],
+    "editions": [
+      "《再也不得安宁》（重庆出版社'非洲三部曲'，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "三部曲之二（瓦解→再也不能安宁→神箭）。"
+  },
+  "pending": [
+    "1960年出版（Heinemann说）核对。",
+    "奥比人名与三部曲世系核对。",
+    "书名译法（不再;得安宁/再也不得安宁）待核。"
+  ],
+  "sources": [
+    "B106"
+  ],
+  "year_source": "B106",
+  "author_source": "B106",
+  "related_works": [
+    "wajie",
+    "shenjian",
+    "banlunhuangri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《再也不得安宁》三部曲图",
+    "cards": [
+      {
+        "title": "留学",
+        "text": "英国四年",
+        "color": "family"
+      },
+      {
+        "title": "初恋",
+        "text": "殖民的门槛",
+        "color": "antagonist"
+      },
+      {
+        "title": "腐败案",
+        "text": "审判的开场",
+        "color": "main"
+      },
+      {
+        "title": "奥孔喀沃",
+        "text": "祖父的影子",
+        "color": "gold"
+      }
+    ]
+  }
+}

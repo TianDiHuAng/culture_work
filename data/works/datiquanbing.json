@@ -1,0 +1,103 @@
+{
+  "id": "datiquanbing",
+  "title": "大地权柄",
+  "original_title": "Earthly Powers",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "burgess",
+  "author_name": "安东尼·伯吉斯",
+  "year_display": "1980年（作者页 B127 口径：大地权柄（1980））",
+  "year_sort": 1980,
+  "background": [
+    "作者页（B127）：伯吉斯 major_works 载'大地权柄（1980）'（B127 作者页定位，详见 fatiaocheng 条核对）。",
+    "题材（通说待核）：同性恋作家与教皇候选人的双线世纪史——'神恩'与'世俗权力'。"
+  ],
+  "outline": [
+    "肯尼思·图梅的开场句——'粗俗'的世纪回溯（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "肯尼思·图梅",
+      "identity": "作家",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "卡洛·博尔巴诺?",
+      "identity": "教皇候选",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'大地权柄'：教俗两界（通说待核）。",
+    "20世纪全景（通说）。",
+    "开场句的文学史地位（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：伯吉斯代表作（B127 作者页口径）。",
+      "source": "B127"
+    },
+    {
+      "text": "作者页：《发条橙》作者（B127 作者级定位）。",
+      "source": "B127"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "世纪跨度。",
+      "开场句的恶名。"
+    ],
+    "editions": [
+      "《大地权柄》（中译本信息待核）。",
+      "英文原版（Hutchinson）。"
+    ],
+    "order": "伯吉斯进阶之作。"
+  },
+  "pending": [
+    "1980年出版核对。",
+    "图梅人名核对。",
+    "开场句（'It was the afternoon of my eighty-first birthday…'）核对。"
+  ],
+  "sources": [
+    "B127"
+  ],
+  "year_source": "B127",
+  "author_source": "B127",
+  "related_works": [
+    "fatiaocheng",
+    "wuhao",
+    "meilixinshijie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《大地权柄》双线世纪图",
+    "cards": [
+      {
+        "title": "教俗",
+        "text": "权柄的两面",
+        "color": "gold"
+      },
+      {
+        "title": "世纪",
+        "text": "1905—1980s",
+        "color": "main"
+      },
+      {
+        "title": "图梅",
+        "text": "作家的自白",
+        "color": "family"
+      },
+      {
+        "title": "开场句",
+        "text": "恶名的起点",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

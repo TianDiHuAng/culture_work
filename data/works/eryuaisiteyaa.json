@@ -1,0 +1,111 @@
+{
+  "id": "eryuaisiteyaa",
+  "title": "俄瑞斯忒亚",
+  "original_title": "Oresteia",
+  "region": "古希腊",
+  "era": "古代",
+  "era_detail": "古典时代",
+  "genre": "三联悲剧",
+  "genre_group": "戏剧",
+  "language": "古希腊语",
+  "author_id": "aeschylus",
+  "author_name": "埃斯库罗斯",
+  "year_display": "公元前458年（Britannica：Oresteia produced in 458——B234）",
+  "year_sort": -458,
+  "background": [
+    "Britannica（B234）：埃斯库罗斯唯一存世完整三联剧——'the Oresteia, explores how vengeance gives way to the rule of law'（复仇让位于法治——B234）。",
+    "三部：《阿伽门农》《奠酒人》《福island》——'The Eumenides'（仁慈女神，卷名通说待核）。"
+  ],
+  "outline": [
+    "《阿伽门农》：凯旋的王被克吕泰涅斯特拉杀死（通说待核）。",
+    "《奠酒人》：俄瑞斯忒斯弑母复仇（通说待核）。",
+    "《福island》：雅典娜法庭——血仇让位于法治（B234 主题+通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "克吕泰涅斯特拉",
+      "identity": "王后",
+      "note": "复仇者（通说待核）"
+    },
+    {
+      "name": "俄瑞斯忒斯",
+      "identity": "王子",
+      "note": "弑母者"
+    },
+    {
+      "name": "雅典娜",
+      "identity": "女神",
+      "note": "法庭的建立者（通说待核）"
+    }
+  ],
+  "themes": [
+    "复仇→法治的文明转折（B234）。",
+    "血亲复仇的循环（通说）。",
+    "雅典法庭的神话奠基（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：唯一存世完整三联剧；'explores how vengeance gives way to the rule of law'（B234）。",
+      "source": "B234"
+    },
+    {
+      "text": "Britannica：获13次戏剧节首奖（B234 作者级）。",
+      "source": "B234"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "阿特柔斯家族血咒谱系。",
+      "三部连续阅读。"
+    ],
+    "editions": [
+      "《罗念生全集》悲剧卷（上海人民出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "埃斯库罗斯必读之首。"
+  },
+  "pending": [
+    "三部剧名（Agamemnon/Choephoroi/Eumenides）核对。",
+    "法庭情节细节核对。",
+    "罗念生译本信息待核。"
+  ],
+  "sources": [
+    "B234",
+    "B235"
+  ],
+  "year_source": "B234",
+  "author_source": "B234",
+  "related_works": [
+    "puluomixiusibang",
+    "meidiya",
+    "shenqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《俄瑞斯忒亚》法治转折图",
+    "cards": [
+      {
+        "title": "杀夫",
+        "text": "阿伽门农之死",
+        "color": "antagonist"
+      },
+      {
+        "title": "弑母",
+        "text": "复仇的循环",
+        "color": "main"
+      },
+      {
+        "title": "法庭",
+        "text": "雅典娜的投票",
+        "color": "gold"
+      },
+      {
+        "title": "法治",
+        "text": "复仇的终结（B234）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "meiguoren",
+  "title": "美国人",
+  "original_title": "Americanah",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "adichie",
+  "author_name": "奇玛曼达·恩戈兹·阿迪契",
+  "year_display": "2013年（作者页 B162 口径：美国人（2013））",
+  "year_sort": 2013,
+  "background": [
+    "作者页（B162）：阿迪契 major_works 载'美国人（2013）'（B162 作者页定位，详见 banlunhuangri 条核对）。",
+    "题材（通说待核）：伊菲麦露从尼日利亚到美国的'美国人化'（Americanah）——种族认知的异地教育。"
+  ],
+  "outline": [
+    "博客体穿插：'关于美国黑人的自白'（通说待核）。",
+    "尼日利亚—美国—英国三地（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "伊菲麦露",
+      "identity": "博主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "奥宾策",
+      "identity": "出租车司机",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "种族作为'发明'（通说待核）。",
+    "移民的三重镜（通说）。",
+    "博客与文学（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿迪契代表作（B162 作者页口径）。",
+      "source": "B162"
+    },
+    {
+      "text": "美国国家书评人协会奖（2013年小说奖——通说待核）。",
+      "source": "B162"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "美国种族政治。",
+      "博客体的插入。"
+    ],
+    "editions": [
+      "《美国人》（人民文学出版社版本，通说待核）。",
+      "英文原版（Knopf）。"
+    ],
+    "order": "先《半轮黄日》《紫木槿》后本作。"
+  },
+  "pending": [
+    "2013年出版（Knopf说）核对。",
+    "伊菲麦露/奥宾策人名核对。",
+    "美国国家书评人协会奖核对。"
+  ],
+  "sources": [
+    "B162"
+  ],
+  "year_source": "B162",
+  "author_source": "B162",
+  "related_works": [
+    "banlunhuangri",
+    "zise",
+    "wajie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《美国人》三地结构图",
+    "cards": [
+      {
+        "title": "尼日利亚",
+        "text": "出发的拉各斯",
+        "color": "family"
+      },
+      {
+        "title": "美国",
+        "text": "'美国化'的教育",
+        "color": "main"
+      },
+      {
+        "title": "博客",
+        "text": "种族的自白",
+        "color": "gold"
+      },
+      {
+        "title": "归乡",
+        "text": "美发店与机场",
+        "color": "plain"
+      }
+    ]
+  }
+}
