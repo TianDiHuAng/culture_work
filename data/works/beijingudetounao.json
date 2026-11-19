@@ -1,0 +1,99 @@
+{
+  "id": "beijingudetounao",
+  "title": "被禁锢的头脑",
+  "original_title": "Zniewolony umysł（The Captive Mind）",
+  "region": "波兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "思想论集",
+  "genre_group": "散文",
+  "language": "波兰语",
+  "author_id": "milosz",
+  "author_name": "切斯瓦夫·米沃什",
+  "year_display": "1953年出版（Britannica：The Captive Mind (1953)）",
+  "year_sort": 1953,
+  "background": [
+    "Britannica：'his best-known work is the essay collection The Captive Mind (1953), in which he condemns the accommodation of many Polish intellectuals to communism'（谴责许多波兰知识分子对共产主义的适应——B260）。",
+    "诺奖授奖词（B260）：'a writer who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts'。",
+    "'Until 1980……his work was banned in Poland'（B260）。"
+  ],
+  "outline": [
+    "'波罗的海三国民众的哲学'：四种知识分子的化身——墨提斯/阿尔法/贝塔/戴尔塔（人名对应通说待核）。",
+    "'凯特曼主义'：新信仰的心理机制（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "墨提斯/阿尔法/贝塔/戴尔塔",
+      "identity": "知识分子四型",
+      "note": "字母化命名（通说待核）"
+    }
+  ],
+  "themes": [
+    "知识分子与新信仰的适应（B260）。",
+    "极权时代的'凯特曼'心理（通说待核——Ketman 概念源自伊斯兰世界）。",
+    "流亡者的清醒（B260：uncompromising clear-sightedness）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：其最著名的作品（best-known work）（B260）。",
+      "source": "B260"
+    },
+    {
+      "text": "冷战知识分子的经典自省文本（通说待核）。",
+      "source": "B260"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "波兰思想史背景。",
+      "字母人物的真实对应（考证）。"
+    ],
+    "editions": [
+      "《被禁锢的头脑》（广西师范大学出版社，通说待核）。"
+    ],
+    "order": "对照《古拉格群岛》《二手时间》：三种极权记录。"
+  },
+  "pending": [
+    "四种化身的人物原型核对。",
+    "'凯特曼'（Ketman）概念的波斯源流待核。",
+    "中译本信息核对。"
+  ],
+  "sources": [
+    "B260"
+  ],
+  "year_source": "B260",
+  "author_source": "B260",
+  "related_works": [
+    "gulage",
+    "ershoushijian",
+    "fengzhonglvli"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《被禁锢的头脑》四型结构图",
+    "cards": [
+      {
+        "title": "阿尔法",
+        "text": "道德家",
+        "color": "family"
+      },
+      {
+        "title": "贝塔",
+        "text": "宿命论记者",
+        "color": "plain"
+      },
+      {
+        "title": "戴尔塔",
+        "text": "田园诗人",
+        "color": "gold"
+      },
+      {
+        "title": "凯特曼",
+        "text": "适应的心理（通说）",
+        "color": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "zuiLandeyanjing",
+  "title": "最蓝的眼睛",
+  "original_title": "The Bluest Eye",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "morrison",
+  "author_name": "托妮·莫里森",
+  "year_display": "1970年出版（作者页 B150 口径：最蓝的眼睛（1970））",
+  "year_sort": 1970,
+  "background": [
+    "作者页（B150）：莫里森代表作谱系以'最蓝的眼睛（1970）'为起点（作者页 major_works 口径）。",
+    "莫里森为诺贝尔文学奖得主（作者页 B150 定位——详见 chonger 条）。"
+  ],
+  "outline": [
+    "佩科拉渴望蓝眼睛——以'最蓝的眼睛'为黑皮肤女孩的自我憎恨之镜（通说待核）。",
+    "四季结构：秋/冬/春/夏（结构通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "佩科拉",
+      "identity": "黑人女孩",
+      "note": "渴望蓝眼（通说待核）"
+    },
+    {
+      "name": "克劳迪娅",
+      "identity": "叙述者",
+      "note": "反抗的孩子视角（通说待核）"
+    }
+  ],
+  "themes": [
+    "种族内部的白人审美暴力（通说）。",
+    "童年与社区的见证（通说）。",
+    "'狄克与珍妮'课本的拼贴（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莫里森以《宠儿》等确立其地位；《最蓝的眼睛》为处女作（B150 作者页口径）。",
+      "source": "B150"
+    },
+    {
+      "text": "美国中学与大学课程的常读文本（通说待核）。",
+      "source": "B150"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多视角叙事与课本拼贴。",
+      "1940年代俄亥俄黑人社区背景。"
+    ],
+    "editions": [
+      "《最蓝的眼睛》（南海出版公司新经典版，通说待核）。"
+    ],
+    "order": "先《最蓝的眼睛》后《宠儿》：莫里森的起点与巅峰。"
+  },
+  "pending": [
+    "1970年出版（Holt, Rinehart 说）核对。",
+    "佩科拉/克劳迪娅人名与四季结构核对。",
+    "'Dick and Jane'课本引文待核。"
+  ],
+  "sources": [
+    "B150"
+  ],
+  "year_source": "B150",
+  "author_source": "B150",
+  "related_works": [
+    "chonger",
+    "zise",
+    "shinv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《最蓝的眼睛》四季结构图",
+    "cards": [
+      {
+        "title": "秋",
+        "text": "佩科拉的愿望",
+        "color": "family"
+      },
+      {
+        "title": "冬",
+        "text": "学校与秀兰·邓波儿",
+        "color": "plain"
+      },
+      {
+        "title": "春",
+        "text": "父亲的伤害",
+        "color": "antagonist"
+      },
+      {
+        "title": "夏",
+        "text": "蓝眼睛的疯梦",
+        "color": "main"
+      }
+    ]
+  }
+}

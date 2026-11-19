@@ -1,0 +1,103 @@
+{
+  "id": "bisiwosixianshengdefangzi",
+  "title": "毕斯沃斯先生的房子",
+  "original_title": "A House for Mr Biswas",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "naipaul",
+  "author_name": "V.S.奈保尔",
+  "year_display": "1961年出版（Britannica：A House for Mr Biswas (1961)）",
+  "year_sort": 1961,
+  "background": [
+    "Britannica：'His fourth novel, A House for Mr Biswas (1961), also set in Trinidad, was a much more important work and won him major recognition'（第四部小说、仍以特立尼达为背景，使他获得重要认可——B257）。",
+    "Britannica：'It centres on the main character's attempt to assert his personal identity and establish his independence as symbolized by owning his own house'（以拥有自己的房子象征人格独立——B257）。"
+  ],
+  "outline": [
+    "毕斯沃斯一生寄人篱下（图尔斯家族）——从记者到自建房屋（通说待核）。",
+    "房子落成不久即逝——独立的悲剧性完成（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "毕斯沃斯",
+      "identity": "记者",
+      "note": "寻求独立的人（B257）"
+    },
+    {
+      "name": "图尔斯家族",
+      "identity": "婆家",
+      "note": "印度裔大家庭（通说待核）"
+    }
+  ],
+  "themes": [
+    "'房子'作为身份与独立的象征（B257）。",
+    "印度裔特立尼达人的殖民经验（B257 语境）。",
+    "反英雄的喜剧叙事（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：使其获得重要认可（major recognition）（B257）。",
+      "source": "B257"
+    },
+    {
+      "text": "后殖民英语小说的经典（通说待核）。",
+      "source": "B257"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "特立尼达印度社群词汇。",
+      "体量与松散结构。"
+    ],
+    "editions": [
+      "《毕斯沃斯先生的房子》（译林出版社/南海出版公司版本，通说待核）。"
+    ],
+    "order": "对照《生命册》：两种'房子'的寓言。"
+  },
+  "pending": [
+    "图尔斯家族（Tulsis）细节核对。",
+    "自传性（作者父亲生平说）待核。",
+    "1961年出版（McGraw-Hill/André Deutsch说）核对。"
+  ],
+  "sources": [
+    "B257"
+  ],
+  "year_source": "B257",
+  "author_source": "B257",
+  "related_works": [
+    "lubinxun",
+    "shengmingce",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《毕斯沃斯先生的房子》独立之路",
+    "cards": [
+      {
+        "title": "寄居",
+        "text": "图尔斯家族",
+        "color": "family"
+      },
+      {
+        "title": "记者",
+        "text": "苏伊德斯的写作",
+        "color": "gold"
+      },
+      {
+        "title": "房子",
+        "text": "独立的象征（B257）",
+        "color": "main"
+      },
+      {
+        "title": "逝去",
+        "text": "悲剧的完成",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

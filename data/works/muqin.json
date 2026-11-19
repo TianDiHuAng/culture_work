@@ -1,0 +1,103 @@
+{
+  "id": "muqin",
+  "title": "母亲",
+  "original_title": "Мать（Mother）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "gorky",
+  "author_name": "马克西姆·高尔基",
+  "year_display": "1906年出版（Britannica：Mat (1906; Mother)）",
+  "year_sort": 1906,
+  "background": [
+    "Britannica：'Mat (1906; Mother) is probably the least successful of the novels'——但'has considerable interest as Gorky's only long work devoted to the Russian revolutionary movement'（唯一 devoted to 革命运动的长篇——B259）。",
+    "改编（B259）：普多夫金1926年著名默片；布莱希特戏剧《母亲》（1930–31）。"
+  ],
+  "outline": [
+    "巴维尔（Pavel）的工人革命活动与母亲尼洛夫娜的觉醒（人物名通说待核）。",
+    "五一游行与母亲的传单散发（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "尼洛夫娜",
+      "identity": "母亲",
+      "note": "从受难到觉醒（通说）"
+    },
+    {
+      "name": "巴维尔",
+      "identity": "工人",
+      "note": "革命者（通说待核）"
+    }
+  ],
+  "themes": [
+    "革命叙事的原型文本（B259）。",
+    "母亲的觉醒：从受难者到传递者（通说）。",
+    "社会主义现实主义的先声（B259 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：普多夫金1926年默片与布莱希特《母亲》（B259）。",
+      "source": "B259"
+    },
+    {
+      "text": "苏联文学中'母亲'形象的范式化（通说待核）。",
+      "source": "B259"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "宣传文学的公式化——Britannica 亦称其'least successful'。",
+      "1900年代俄国工人运动背景。"
+    ],
+    "editions": [
+      "《母亲》（人民文学出版社，通说待核）。"
+    ],
+    "order": "对照《铁水奔流》（周立波？——不：《创业史》柳青）：社会主义现实主义谱系。"
+  },
+  "pending": [
+    "巴维尔/尼洛夫娜人名核对。",
+    "1906年纽约出版（Appleton说）与柏林德译细节待核。",
+    "'觉醒'章法与布尔什维克刊物连载待核。"
+  ],
+  "sources": [
+    "B259"
+  ],
+  "year_source": "B259",
+  "author_source": "B259",
+  "related_works": [
+    "mengya",
+    "ansuan",
+    "nahan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《母亲》觉醒结构图",
+    "cards": [
+      {
+        "title": "受难",
+        "text": "工人家庭",
+        "color": "family"
+      },
+      {
+        "title": "觉醒",
+        "text": "巴维尔入狱",
+        "color": "main"
+      },
+      {
+        "title": "传单",
+        "text": "车站散发",
+        "color": "gold"
+      },
+      {
+        "title": "原型",
+        "text": "革命叙事的起点（B259）",
+        "color": "plain"
+      }
+    ]
+  }
+}

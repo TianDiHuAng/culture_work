@@ -1,0 +1,58 @@
+{
+  "id": "gordimer",
+  "name": "纳丁·戈迪默",
+  "foreign_name": "Nadine Gordimer（纳丁·戈迪默，1923-11-20—2014-07-13）",
+  "country": "南非",
+  "birth": 1923,
+  "death": 2014,
+  "birth_year": 1923,
+  "death_year": 2014,
+  "era": "现当代",
+  "summary": "戈迪默，南非小说家与短篇小说家——其小说探察种族隔离制度下南非人的流放与疏离（Britannica：explored exile and alienation under apartheid）；'Her stories concern the devastating effects of apartheid on the lives of South Africans——the constant tension between personal isolation and the commitment to social justice'（B258）。终生批判种族隔离（Britannica：A lifelong critic of racial segregation），1991年获诺贝尔文学奖（B258）。",
+  "timeline": [
+    {
+      "year": 1923,
+      "text": "11月20日生于南非斯普林斯（Britannica：Born November 20, 1923, Springs, Transvaal）。",
+      "src": "B258"
+    },
+    {
+      "year": 1981,
+      "text": "《七月的人民》出版（Britannica：July's People (1981)）。",
+      "src": "B258"
+    },
+    {
+      "year": 1991,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 1991）。",
+      "src": "B258"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qiyuderenmin",
+      "note": "长篇（Britannica：1981）"
+    },
+    {
+      "title": "我儿子的故事、自然资源保护者",
+      "note": "（Britannica 存目）"
+    },
+    {
+      "title": "短篇小说集",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "种族隔离的' devastating effects'（B258）。",
+    "个人疏离与社会正义承诺的张力（B258）。",
+    "道德复杂性的白描（通说）。"
+  ],
+  "status": "Britannica 定位戈迪默为南非小说家、1991年诺奖得主（B258）；其书曾在南非被禁（通说待核）。",
+  "sources": [
+    "B258"
+  ],
+  "dates_source": "B258",
+  "pending": [
+    "《七月的人民》情节（革命后白人家庭避居仆人家）细节待核。",
+    "被禁书单（《晚期资产阶级世界》等）待核。",
+    "与库切的并称关系待核。"
+  ]
+}

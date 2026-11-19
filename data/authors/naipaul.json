@@ -1,0 +1,63 @@
+{
+  "id": "naipaul",
+  "name": "V.S.奈保尔",
+  "foreign_name": "V.S. Naipaul（维迪亚达尔·苏拉杰普拉萨德·奈保尔，1932-08-17—2018-08-11）",
+  "country": "英国",
+  "birth": 1932,
+  "death": 2018,
+  "birth_year": 1932,
+  "death_year": 2018,
+  "era": "现当代",
+  "summary": "奈保尔，特立尼达出生的印度裔英国小说家（Britannica：Trinidadian-British novelist of Indian descent），其小说与游记考察发展中国家的后殖民疏离（Britannica）。1950年离开特立尼达赴牛津（Britannica）。'His fourth novel, A House for Mr. Biswas (1961)……won him major recognition'（B257）；2001年获诺贝尔文学奖——'For these revelations of what the Swedish Academy called suppressed histories'（瑞典学院所称'被压抑的历史'的揭示——B257）；1971年布克奖（In a Free State）（B257）。",
+  "timeline": [
+    {
+      "year": 1932,
+      "text": "8月17日生于特立尼达（Britannica：Born August 17, 1932, Trinidad）。",
+      "src": "B257"
+    },
+    {
+      "year": 1950,
+      "text": "赴牛津大学（Britannica：Left Trinidad for Oxford 1950）。",
+      "src": "B257"
+    },
+    {
+      "year": 1961,
+      "text": "《毕斯沃斯先生的房子》出版（Britannica：1961）。",
+      "src": "B257"
+    },
+    {
+      "year": 2001,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 2001）。",
+      "src": "B257"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "bisiwosixianshengdefangzi",
+      "note": "长篇（Britannica：1961）"
+    },
+    {
+      "title": "自由国度、河湾",
+      "note": "（Britannica 语境：1971布克奖）"
+    },
+    {
+      "title": "印度三部曲",
+      "note": "游记（通说待核）"
+    }
+  ],
+  "style": [
+    "后殖民疏离的精确解剖（Britannica：examined postcolonial alienation）。",
+    "'被压抑的历史'的揭示（B257：suppressed histories）。",
+    "游记与虚构互证（通说待核）。"
+  ],
+  "status": "Britannica 定位奈保尔为2001年诺奖得主、后殖民书写代表（B257）；其游记对第三世界的批评引发争议（Britannica 外链语境：NPR 'Controversial Author'——细节待核）。",
+  "sources": [
+    "B257"
+  ],
+  "dates_source": "B257",
+  "pending": [
+    "游记争议细节（爱德华·萨义德批评说）待核。",
+    "《毕斯沃斯先生的房子》印度教史诗结构说待核。",
+    "骑士封号（1989——Britannica 已载）核对。"
+  ]
+}

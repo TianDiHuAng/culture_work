@@ -1,0 +1,103 @@
+{
+  "id": "qinchaidachen",
+  "title": "钦差大臣",
+  "original_title": "Ревизор（The Government Inspector）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "讽刺喜剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "gogol",
+  "author_name": "尼古拉·果戈理",
+  "year_display": "1836年（作者页 B140 口径：钦差大臣（1836））",
+  "year_sort": 1836,
+  "background": [
+    "作者页（B140）：果戈理代表作谱系——'钦差大臣（1836）、外套（1842）'（作者页 major_works 口径）。",
+    "果戈理为俄国讽刺大师（作者页 B140 定位——详见 sihunling 条）。"
+  ],
+  "outline": [
+    "外省小城误把过路的赫列斯塔科夫当作钦差大臣——全城官僚争相行贿（通说）。",
+    "结尾：真钦差到任的'哑场'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "赫列斯塔科夫",
+      "identity": "纨绔子弟",
+      "note": "冒牌钦差（通说）"
+    },
+    {
+      "name": "市长",
+      "identity": "贪官",
+      "note": "群像核心（通说）"
+    }
+  ],
+  "themes": [
+    "官僚机器的漫画（通说）。",
+    "'笑'的净化论（果戈理笑美学——通说待核）。",
+    "俄国喜剧的成熟（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：果戈理代表作（B140 作者页口径）。",
+      "source": "B140"
+    },
+    {
+      "text": "俄国讽刺戏剧的原点：对契诃夫以降的深远影响（通说待核）。",
+      "source": "B140"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "俄国官制等级。",
+      "人物昵称的谐音喜剧。"
+    ],
+    "editions": [
+      "《果戈理小说戏剧选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先《钦差大臣》后《死魂灵》。"
+  },
+  "pending": [
+    "1836年首演（亚历山大剧院说）与果戈理不满观众反应的史实待核。",
+    "赫列斯塔科夫人名核对。",
+    "'笑'美学出处（《剧院门口》）待核。"
+  ],
+  "sources": [
+    "B140"
+  ],
+  "year_source": "B140",
+  "author_source": "B140",
+  "related_works": [
+    "sihunling",
+    "weijunzi",
+    "geliefo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《钦差大臣》骗局结构图",
+    "cards": [
+      {
+        "title": "误认",
+        "text": "全城的恐慌",
+        "color": "family"
+      },
+      {
+        "title": "行贿",
+        "text": "官吏的丑态",
+        "color": "antagonist"
+      },
+      {
+        "title": "许婚",
+        "text": "骗子的即兴",
+        "color": "main"
+      },
+      {
+        "title": "哑场",
+        "text": "真钦差到任",
+        "color": "gold"
+      }
+    ]
+  }
+}

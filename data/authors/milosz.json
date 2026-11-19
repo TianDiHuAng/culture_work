@@ -1,0 +1,63 @@
+{
+  "id": "milosz",
+  "name": "切斯瓦夫·米沃什",
+  "foreign_name": "Czesław Miłosz（切斯瓦夫·米沃什，1911-06-30—2004-08-14）",
+  "country": "波兰",
+  "birth": 1911,
+  "death": 2004,
+  "birth_year": 1911,
+  "death_year": 2004,
+  "era": "现当代",
+  "summary": "米沃什，生于立陶宛的波兰-美国诗人、小说家、译者、批评家与外交官（Britannica），其作考察压迫体制对人类精神的影响（Britannica：examined how oppressive regimes affect the human spirit）。1951年从共产党波兰出走巴黎、1960年移居美国、在伯克利执教（Britannica）。'his best-known work is the essay collection The Captive Mind (1953)'——'in which he condemns the accommodation of many Polish intellectuals to communism'（《被禁锢的头脑》谴责许多波兰知识分子对共产主义的适应——B260）。1980年获诺贝尔文学奖——授奖词：'a writer who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts'（B260）；'Until 1980……his work was banned in Poland'（1980年前其作品在波兰被禁——B260）。",
+  "timeline": [
+    {
+      "year": 1911,
+      "text": "6月30日生于立陶宛舍泰伊尼亚（Britannica：Born June 30, 1911, Šeteniai, Lithuania）。",
+      "src": "B260"
+    },
+    {
+      "year": 1951,
+      "text": "在巴黎寻求政治庇护（Britannica：Sought political asylum in Paris 1951）。",
+      "src": "B260"
+    },
+    {
+      "year": 1953,
+      "text": "《被禁锢的头脑》出版（Britannica：1953）。",
+      "src": "B260"
+    },
+    {
+      "year": 1980,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 1980）。",
+      "src": "B260"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "beijingudetounao",
+      "note": "论集（Britannica：1953）"
+    },
+    {
+      "title": "拆散的笔记本、太阳升起处",
+      "note": "诗集（通说待核）"
+    },
+    {
+      "title": " Izrael？——不：《Verses》？——不：《米沃什诗选》",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "古典风格与哲思政治的关注（Britannica：classical style and their preoccupation with philosophical and political issues）。",
+    "'uncompromising clear-sightedness'（B260 授奖词：毫不妥协的清醒）。",
+    "波兰语的故乡书写与流亡双语（通说）。"
+  ],
+  "status": "Britannica 定位米沃什为1980年诺奖得主、以《被禁锢的头脑》闻名的论者（B260）。",
+  "sources": [
+    "B260"
+  ],
+  "dates_source": "B260",
+  "pending": [
+    "《被禁锢的头脑》四种方法（屈从者类型学）细节待核。",
+    "伯克利斯拉夫语教授职位（1960—1980——Britannica 已载）核对。",
+    "《诗的艺术？》——不：《米沃什词典》待核。"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "qiyuderenmin",
+  "title": "七月的人民",
+  "original_title": "July's People",
+  "region": "南非",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "gordimer",
+  "author_name": "纳丁·戈迪默",
+  "year_display": "1981年出版（Britannica：July's People (1981)）",
+  "year_sort": 1981,
+  "background": [
+    "Britannica：戈迪默的小说'the devastating effects of apartheid on the lives of South Africans'（B258）——本作为架空叙事。",
+    "Britannica（B258）：'July's People (1981), A Sport of Nature (1987), My Son's Story (1990), The House Gun (1998)'为其代表作谱系。"
+  ],
+  "outline": [
+    "架空：黑人革命成功后，白人斯梅尔斯一家逃往仆人七月的村庄避难（通说待核）。",
+    "主仆关系在乡土中的倒转与摩擦（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "莫琳",
+      "identity": "白人主妇",
+      "note": "避难者（通说待核）"
+    },
+    {
+      "name": "七月",
+      "identity": "仆人",
+      "note": "村庄的庇护者（通说待核）"
+    }
+  ],
+  "themes": [
+    "主仆倒转的伦理实验（通说）。",
+    "隔离制度的' devastating effects'（B258）。",
+    "个人疏离与社会正义的张力（B258）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1991年诺贝尔文学奖（B258）。",
+      "source": "B258"
+    },
+    {
+      "text": "反乌托邦式的种族寓言（通说待核）。",
+      "source": "B258"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "南非政治史架空设定。",
+      "七月的名字关系（主仆称呼）。"
+    ],
+    "editions": [
+      "《七月的人民》（译林出版社版本，通说待核）。"
+    ],
+    "order": "对照《耻》（库切）：南非的两种后种族书写。"
+  },
+  "pending": [
+    "斯梅尔斯一家/莫琳/七月人名核对。",
+    "被禁历史（南非书检——通说）待核。",
+    "结尾直升机之谜待核。"
+  ],
+  "sources": [
+    "B258"
+  ],
+  "year_source": "B258",
+  "author_source": "B258",
+  "related_works": [
+    "chi",
+    "wajie",
+    "banlunhuangri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《七月的人民》倒转结构图",
+    "cards": [
+      {
+        "title": "革命",
+        "text": "架空的政权更替",
+        "color": "antagonist"
+      },
+      {
+        "title": "避难",
+        "text": "白人家庭入村",
+        "color": "family"
+      },
+      {
+        "title": "七月",
+        "text": "仆人的村庄",
+        "color": "main"
+      },
+      {
+        "title": "倒转",
+        "text": "主仆的伦理",
+        "color": "gold"
+      }
+    ]
+  }
+}

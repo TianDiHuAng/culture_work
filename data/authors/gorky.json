@@ -1,0 +1,63 @@
+{
+  "id": "gorky",
+  "name": "马克西姆·高尔基",
+  "foreign_name": "Maxim Gorky（马克西姆·高尔基，1868-03-16/28—1936-06-18）",
+  "country": "俄国",
+  "birth": 1868,
+  "death": 1936,
+  "birth_year": 1868,
+  "death_year": 1936,
+  "era": "近代",
+  "summary": "高尔基，下诺夫哥罗德人（Britannica：Born March 16 [March 28, New Style], 1868, Nizhny Novgorod），俄国作家——早期写流浪汉的小说使其成名；'considered the greatest proletarian writer in Russian literature'（被视为俄国文学最伟大的无产阶级作家——Britannica，因其童年的贫困经验）。'helped found the literary method of Socialist Realism and became the first president of the Soviet Writers' Union in 1934'（参与创立社会主义现实主义方法并任苏联作家协会首任主席——Britannica）。《母亲》（1906）——'probably the least successful of the novels'但'has considerable interest as Gorky's only long work devoted to the Russian revolutionary movement'（B259）。自传三部曲'one of the finest autobiographies in Russian literature'（B259）。",
+  "timeline": [
+    {
+      "year": 1868,
+      "text": "3月16/28日生于下诺夫哥罗德（Britannica）。",
+      "src": "B259"
+    },
+    {
+      "year": 1906,
+      "text": "《母亲》出版（Britannica：Mother (1906)）。",
+      "src": "B259"
+    },
+    {
+      "year": 1934,
+      "text": "任苏联作家协会首任主席（Britannica）。",
+      "src": "B259"
+    },
+    {
+      "year": 1936,
+      "text": "6月18日卒于莫斯科附近（Britannica：Died June 18, 1936, near Moscow）。",
+      "src": "B259"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "muqin",
+      "note": "长篇（Britannica：1906）"
+    },
+    {
+      "title": "童年/在人间/我的大学",
+      "note": "自传三部曲（Britannica：'one of the finest autobiographies in Russian literature'）"
+    },
+    {
+      "title": "在底层",
+      "note": "戏剧（Britannica：The Lower Depths (1902)）"
+    }
+  ],
+  "style": [
+    "流浪汉短篇的浪漫现实主义（Britannica 语境：tramps and outcasts）。",
+    "社会主义现实主义的奠基者之一（Britannica）。",
+    "托尔斯泰回忆被誉为其杰作（Britannica：Gorky's memoir of Tolstoy has been acclaimed as his masterpiece）。"
+  ],
+  "status": "Britannica 定位高尔基为俄国文学最伟大的无产阶级作家、社会主义现实主义奠基人之一（B259）。",
+  "sources": [
+    "B259"
+  ],
+  "dates_source": "B259",
+  "pending": [
+    "《母亲》1906年（美国说）出版细节待核。",
+    "死因争议（被毒杀说）待核。",
+    "与列宁的关系（《列宁》特写）待核。"
+  ]
+}
