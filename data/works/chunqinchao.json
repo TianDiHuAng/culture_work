@@ -62,5 +62,43 @@
     "1933年（《中央公论》说）核对。",
     "春琴/佐助人名核对。",
     "'实录体'（鷺泽左吉的传述）结构待核。"
-  ]
+  ],
+  "sources": [
+    "B168"
+  ],
+  "year_source": "B168",
+  "author_source": "B168",
+  "related_works": [
+    "xixue",
+    "luoshengmen",
+    "jamiandegaobai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《春琴抄》主仆结构图",
+    "cards": [
+      {
+        "title": "春琴",
+        "text": "盲人琴师",
+        "color": "main"
+      },
+      {
+        "title": "佐助",
+        "text": "引路的仆人",
+        "color": "family"
+      },
+      {
+        "title": "毁容",
+        "text": "灾厄与秘守",
+        "color": "antagonist"
+      },
+      {
+        "title": "刺目",
+        "text": "佐助的自毁（通说）",
+        "color": "gold"
+      }
+    ]
+  }
 }
