@@ -1,0 +1,98 @@
+{
+  "id": "liuyan",
+  "title": "流言",
+  "original_title": "流言（散文集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "zhangailing",
+  "author_name": "张爱玲",
+  "year_display": "1944年（作者页 B111 口径：流言（1944））",
+  "year_sort": 1944,
+  "background": [
+    "作者页（B111）：张爱玲 major_works 载'流言（1944）'——其散文代表作（B111 作者页定位，详见 jinsuoji 条核对）。",
+    "篇目（通说待核）：《中国的日夜》《公寓生活记趣》《更衣记》《烬余录》等。"
+  ],
+  "outline": [
+    "都市日常的微观察：公寓、更衣、电车（通说待核）。",
+    "《烬余录》：港战经验的自剖（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "张爱玲",
+      "identity": "散文作者",
+      "note": "都市生活的鉴赏家"
+    }
+  ],
+  "themes": [
+    "'流言'：城市的口传美学（书名通说）。",
+    "服饰史与都市记忆（《更衣记》）。",
+    "战争的私记录（《烬余录》）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：张爱玲散文代表作（B111 作者页口径）。",
+      "source": "B111"
+    },
+    {
+      "text": "海派散文的现代高峰（与王安忆散文互文——通说待核）。",
+      "source": "B111"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "张氏比喻的密度。",
+      "1940年代沪港背景。"
+    ],
+    "editions": [
+      "《流言》（北京十月文艺出版社《张爱玲全集》，通说待核）。"
+    ],
+    "order": "与《倾城之恋》互读：小说与散文互证。"
+  },
+  "pending": [
+    "1944年（五洲书报社说）初版核对。",
+    "篇目核对。",
+    "《更衣记》服饰史细节待核。"
+  ],
+  "sources": [
+    "B111"
+  ],
+  "year_source": "B111",
+  "author_source": "B111",
+  "related_works": [
+    "jinsuoji",
+    "qingchengzhilian",
+    "wenhuakulu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《流言》都市观察图",
+    "cards": [
+      {
+        "title": "公寓记趣",
+        "text": "都市的阳台",
+        "color": "family"
+      },
+      {
+        "title": "更衣记",
+        "text": "服饰的年表",
+        "color": "main"
+      },
+      {
+        "title": "烬余录",
+        "text": "港战的自剖",
+        "color": "antagonist"
+      },
+      {
+        "title": "流言",
+        "text": "城市的口传",
+        "color": "gold"
+      }
+    ]
+  }
+}

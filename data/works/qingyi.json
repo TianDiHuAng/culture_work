@@ -1,0 +1,103 @@
+{
+  "id": "qingyi",
+  "title": "青衣",
+  "original_title": "青衣（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "bifeiyu",
+  "author_name": "毕飞宇",
+  "year_display": "发表年份待核（中国作家网 C022：'中篇小说《青衣》'——2000年说通说待核）",
+  "year_sort": 2000,
+  "background": [
+    "中国作家网（C022）：'另有玉米系列及中篇《青衣》《玉秀》《玉秧》'——本作为毕飞宇中篇代表作。",
+    "评述（C022）：筱燕秋'不愿居人之下'，作为'权力对人性的戕害'之一例（C022）。"
+  ],
+  "outline": [
+    "筱燕秋四十年后重登舞台：从'嫦娥'到'嫦娥'（通说待核）。",
+    "身体与角色的相互吞噬（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "筱燕秋",
+      "identity": "京剧演员",
+      "note": "青衣（C022）"
+    },
+    {
+      "name": "春来",
+      "identity": "徒弟",
+      "note": "接替者（通说待核）"
+    }
+  ],
+  "themes": [
+    "权力对人性的戕害（C022）。",
+    "'人走茶凉'的舞台政治（通说待核）。",
+    "女性与角色合一的悲剧（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：'筱燕秋不愿居人之下'——权力戕害的例证（C022）。",
+      "source": "C022"
+    },
+    {
+      "text": "2002年电视剧改编（通说待核）。",
+      "source": "C022"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "京剧行当（青衣）知识。",
+      "心理描写的冷峻。"
+    ],
+    "editions": [
+      "《青衣》（江苏文艺出版社，通说待核）。"
+    ],
+    "order": "先《青衣》后《玉米》。"
+  },
+  "pending": [
+    "首刊（《收获》2000年说）核对。",
+    "筱燕秋/春来人名核对。",
+    "电视剧改编（2002年说）待核。"
+  ],
+  "sources": [
+    "C022"
+  ],
+  "year_source": "C022",
+  "author_source": "C022",
+  "related_works": [
+    "tuina",
+    "yumi",
+    "mudanting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《青衣》舞台结构图",
+    "cards": [
+      {
+        "title": "嫦娥",
+        "text": "一生的角色",
+        "color": "main"
+      },
+      {
+        "title": "筱燕秋",
+        "text": "不愿居人之下（C022）",
+        "color": "antagonist"
+      },
+      {
+        "title": "春来",
+        "text": "接替者",
+        "color": "family"
+      },
+      {
+        "title": "权力",
+        "text": "戕害的人性（C022）",
+        "color": "gold"
+      }
+    ]
+  }
+}

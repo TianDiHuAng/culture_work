@@ -1,0 +1,104 @@
+{
+  "id": "zhifumuqin",
+  "title": "致父亲的信",
+  "original_title": "Brief an den Vater（Letter to His Father）",
+  "region": "奥地利",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "书信",
+  "genre_group": "散文",
+  "language": "德语",
+  "author_id": "kafka",
+  "author_name": "弗朗茨·卡夫卡",
+  "year_display": "1919年写成（作者页 B049 口径：致父亲的信（1919））",
+  "year_sort": 1919,
+  "background": [
+    "作者页（B049）：卡夫卡 major_works 载'致父亲的信（1919）'（B049 作者页定位，详见 bianxingji 条核对）。",
+    "文体（通说）：四十五页长信——控诉与自我控诉的双向书写；母亲转交未遂（通说待核）。"
+  ],
+  "outline": [
+    "'你最近问过我……'：父子关系的全面清算（开篇句通说待核）。",
+    "权力、羞耻与写作的起源（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "卡夫卡",
+      "identity": "儿子",
+      "note": "控诉者与被控者"
+    },
+    {
+      "name": "赫尔曼·卡夫卡",
+      "identity": "父亲",
+      "note": "权威的化身（通说待核）"
+    }
+  ],
+  "themes": [
+    "父权与写作（通说）。",
+    "羞耻的体系（通说待核）。",
+    "信未寄达的悖论（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：卡夫卡书信代表作（B049 作者页口径）。",
+      "source": "B049"
+    },
+    {
+      "text": "《变形记》《审判》的心理学钥匙（通说待核）。",
+      "source": "B049"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长信的心理回环。",
+      "德语原文的语调。"
+    ],
+    "editions": [
+      "《致父亲的信》（人民文学出版社/上海译文出版社版本，通说待核）。",
+      "德文原版（公有领域渐近）。"
+    ],
+    "order": "对照《变形记》读：同一父子的两个文本。"
+  },
+  "pending": [
+    "1919年11月写成、未寄出说核对。",
+    "开篇句原文核对。",
+    "母亲转交情节待核。"
+  ],
+  "sources": [
+    "B049"
+  ],
+  "year_source": "B049",
+  "author_source": "B049",
+  "related_works": [
+    "bianxingji",
+    "shenpan",
+    "chengbao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《致父亲的信》权力结构图",
+    "cards": [
+      {
+        "title": "父亲",
+        "text": "权威的巨影",
+        "color": "antagonist"
+      },
+      {
+        "title": "儿子",
+        "text": "控诉与内疚",
+        "color": "main"
+      },
+      {
+        "title": "写作",
+        "text": "权力的起源",
+        "color": "gold"
+      },
+      {
+        "title": "未寄出",
+        "text": "悖论的终点",
+        "color": "plain"
+      }
+    ]
+  }
+}

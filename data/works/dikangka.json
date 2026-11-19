@@ -1,0 +1,99 @@
+{
+  "id": "dikangka",
+  "title": "狄康卡近乡夜话",
+  "original_title": "Вечера на хуторе близ Диканьки（Evenings on a Farm Near Dikanka）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "短篇故事集",
+  "genre_group": "故事集",
+  "language": "俄语",
+  "author_id": "gogol",
+  "author_name": "尼古拉·果戈理",
+  "year_display": "1831—1832年（作者页 B140 口径：狄康卡近乡夜话（1831—32））",
+  "year_sort": 1831,
+  "background": [
+    "作者页（B140）：果戈理 major_works 载'狄康卡近乡夜话（1831—32）'——其成名之作（B140 作者页定位，详见 sihunling 条核对）。",
+    "体裁（通说）：乌克兰民间故事的框架集——养蜂人鲁第·潘柯的夜话。"
+  ],
+  "outline": [
+    "上下两卷：集民间传说、神怪与滑稽故事（通说待核）。",
+    "《五月之夜》《圣诞节前夜》等名篇（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "养蜂人鲁第·潘柯",
+      "identity": "框架叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "乌克兰民俗的魔幻呈现（通说）。",
+    "果戈理幽默的起点（通说）。",
+    "框架叙事（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：果戈理成名作（B140 作者页口径）。",
+      "source": "B140"
+    },
+    {
+      "text": "普希金的赞赏（'令人惊异的书'说——通说待核）。",
+      "source": "B140"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "乌克兰语词与民俗。",
+      "框架与嵌套。"
+    ],
+    "editions": [
+      "《狄康卡近乡夜话》（人民文学出版社，通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "先《夜话》后《外套》《死魂灵》。"
+  },
+  "pending": [
+    "两卷出版（1831/1832说）核对。",
+    "鲁第·潘柯名核对。",
+    "普希金评语出处待核。"
+  ],
+  "sources": [
+    "B140"
+  ],
+  "year_source": "B140",
+  "author_source": "B140",
+  "related_works": [
+    "waitao",
+    "sihunling",
+    "yiqianlingyiye"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《狄康卡夜话》框架集结构图",
+    "cards": [
+      {
+        "title": "养蜂人",
+        "text": "夜话的框架",
+        "color": "family"
+      },
+      {
+        "title": "乌克兰",
+        "text": "民俗的魔幻",
+        "color": "main"
+      },
+      {
+        "title": "五月之夜",
+        "text": "名篇（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "滑稽与神怪",
+        "text": "果戈理的起点",
+        "color": "plain"
+      }
+    ]
+  }
+}

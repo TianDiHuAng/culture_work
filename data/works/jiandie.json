@@ -1,0 +1,104 @@
+{
+  "id": "jiandie",
+  "title": "间谍",
+  "original_title": "The Secret Agent",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "conrad",
+  "author_name": "约瑟夫·康拉德",
+  "year_display": "1907年出版（作者页 B124 口径：间谍（1907））",
+  "year_sort": 1907,
+  "background": [
+    "作者页（B124）：康拉德 major_works 载'吉姆爷（1900）、诺斯特罗莫（1904）、间谍（1907）'（B124 作者页定位，详见 heianddixin 条核对）。",
+    "题材（通说待核）：伦敦的无政府主义阴谋——受1894年格林尼治天文台爆炸案启发。"
+  ],
+  "outline": [
+    "沃洛克受使馆指使制造爆炸——炸死弱智的弟弟史蒂维（通说待核）。",
+    "温妮的结局与'间谍'的循环（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "沃洛克",
+      "identity": "双面间谍",
+      "note": "阴谋执行者（通说待核）"
+    },
+    {
+      "name": "温妮",
+      "identity": "妻子",
+      "note": "复仇者（通说待核）"
+    }
+  ],
+  "themes": [
+    "无政府主义的讽刺画（通说）。",
+    "伦敦的'黑暗'（通说）。",
+    "弱者的毁灭（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：康拉德政治小说（B124 作者页口径）。",
+      "source": "B124"
+    },
+    {
+      "text": "对20世纪'恐怖主义书写'的先声（通说待核）。",
+      "source": "B124"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "无政府主义史背景。",
+      "黑色反讽的语调。"
+    ],
+    "editions": [
+      "《间谍》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "康拉德政治三部曲之末。"
+  },
+  "pending": [
+    "1907年出版（Methuen说）核对。",
+    "沃洛克/温妮/史蒂维人名核对。",
+    "格林尼治爆炸案对应待核。"
+  ],
+  "sources": [
+    "B124"
+  ],
+  "year_source": "B124",
+  "author_source": "B124",
+  "related_works": [
+    "jimuye",
+    "nuositeluomo",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《间谍》阴谋结构图",
+    "cards": [
+      {
+        "title": "使馆指使",
+        "text": "制造事端",
+        "color": "antagonist"
+      },
+      {
+        "title": "爆炸",
+        "text": "天文台的靶子",
+        "color": "main"
+      },
+      {
+        "title": "史蒂维",
+        "text": "弱者的牺牲",
+        "color": "gold"
+      },
+      {
+        "title": "温妮",
+        "text": "复仇与毁灭",
+        "color": "family"
+      }
+    ]
+  }
+}

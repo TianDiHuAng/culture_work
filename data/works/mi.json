@@ -1,0 +1,103 @@
+{
+  "id": "mi",
+  "title": "米",
+  "original_title": "米（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "sutong",
+  "author_name": "苏童",
+  "year_display": "出版年份待核（中国作家网 C015：'《米》《我的帝王生涯》《河岸》等长篇'——1991年说通说待核）",
+  "year_sort": 1991,
+  "background": [
+    "中国作家网（C015）：'其代表作包括《妻妾成群》《红粉》等中篇，《米》《我的帝王生涯》《河岸》等长篇'——本作为苏童长篇处女作（处女作说通说待核）。",
+    "题材（通说待核）：五龙从乡村流民到黑帮'米'的欲望史。"
+  ],
+  "outline": [
+    "逃荒进城的大米梦：五龙在米店的生存与复仇（通说待核）。",
+    "'米'的意象：生存的根本与欲望的载体（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "五龙",
+      "identity": "流民",
+      "note": "进城者（通说待核）"
+    },
+    {
+      "name": "织云、绮云",
+      "identity": "米店姐妹",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "城市的诱惑与堕落（通说）。",
+    "性、暴力与米的三角（通说）。",
+    "阴郁的南方叙事（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：列入苏童长篇代表作（C015）。",
+      "source": "C015"
+    },
+    {
+      "text": "'先锋小说'的长篇转向（通说待核）。",
+      "source": "C015"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "残酷描写的接受。",
+      "米店意象的贯穿。"
+    ],
+    "editions": [
+      "《米》（上海文艺出版社/人民文学出版社版本，通说待核）。"
+    ],
+    "order": "先《妻妾成群》后本作。"
+  },
+  "pending": [
+    "1991年出版（江苏文艺出版社说）核对。",
+    "五龙/织云/绮云人名核对。",
+    "'长篇处女作'说待核。"
+  ],
+  "sources": [
+    "C015"
+  ],
+  "year_source": "C015",
+  "author_source": "C015",
+  "related_works": [
+    "huangqueji",
+    "qiqiechengqun",
+    "hongfen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《米》欲望结构图",
+    "cards": [
+      {
+        "title": "逃荒",
+        "text": "进城的五龙",
+        "color": "family"
+      },
+      {
+        "title": "米店",
+        "text": "生存的堡垒",
+        "color": "main"
+      },
+      {
+        "title": "米",
+        "text": "欲望的隐喻",
+        "color": "gold"
+      },
+      {
+        "title": "复仇",
+        "text": "暴力的循环",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "fuping",
+  "title": "富萍",
+  "original_title": "富萍（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "wanganyi",
+  "author_name": "王安忆",
+  "year_display": "2000年（英文维基 B216：Fu Ping (2000)，Howard Goldblatt 英译）",
+  "year_sort": 2000,
+  "background": [
+    "英文维基（B216）：'2000 | 富萍 | Fu Ping | Howard Goldblatt'——由葛浩文英译（B216 译介列表）。",
+    "题材（通说待核）：保姆富萍从扬州乡下到上海的居留史——王安忆的'保姆与上海'书写。"
+  ],
+  "outline": [
+    "富萍进城做保姆：淮海路保姆群像（通说待核）。",
+    "与奶奶、舅公等'棚户'上海人的关系（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "富萍",
+      "identity": "保姆",
+      "note": "沉默的主角（通说待核）"
+    },
+    {
+      "name": "奶奶",
+      "identity": "老保姆",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "底层上海：保姆的都市（通说）。",
+    "'居留'的政治（通说待核）。",
+    "素笔的白描（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：葛浩文英译 Fu Ping（B216）。",
+      "source": "B216"
+    },
+    {
+      "text": "作者页：王安忆以上海底层续写海派（B216 作者级定位）。",
+      "source": "B216"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "无高潮的日常叙事。",
+      "沪语与苏北话的层次。"
+    ],
+    "editions": [
+      "《富萍》（上海文艺出版社/人民文学出版社版本，通说待核）。"
+    ],
+    "order": "先《长恨歌》后本作。"
+  },
+  "pending": [
+    "2000年出版（人民文学说）核对。",
+    "富萍/奶奶人名核对。",
+    "葛浩文英译年（Columbia 2019说）核对。"
+  ],
+  "sources": [
+    "B216"
+  ],
+  "year_source": "B216",
+  "author_source": "B216",
+  "related_works": [
+    "changhenge",
+    "fanhua",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《富萍》底层上海图",
+    "cards": [
+      {
+        "title": "进上海",
+        "text": "扬州保姆",
+        "color": "family"
+      },
+      {
+        "title": "棚户区",
+        "text": "城市的背面",
+        "color": "main"
+      },
+      {
+        "title": "居留",
+        "text": "留下来的人生",
+        "color": "gold"
+      },
+      {
+        "title": "白描",
+        "text": "素笔的日常",
+        "color": "plain"
+      }
+    ]
+  }
+}

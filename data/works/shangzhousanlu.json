@@ -1,0 +1,97 @@
+{
+  "id": "shangzhousanlu",
+  "title": "商州三录",
+  "original_title": "商州初录/商州又录/商州再录（散文集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "jiapingwa",
+  "author_name": "贾平凹",
+  "year_display": "1986年前后（英文维基 B217：Shangzhou Sanlu 商州三录 (Three chapters about Shangzhou, 1986)）",
+  "year_sort": 1986,
+  "background": [
+    "英文维基（B217）：'Essay collections: Shangzhou Sanlu 商州三录 (Three chapters about Shangzhou, 1986)'——贾平凹散文代表作。",
+    "与商州小说互为表里：'Jia's sketches of everyday life in Shangzhou were published to greater and greater success'（B217 综述语境）。"
+  ],
+  "outline": [
+    "初录/又录/再录：商州山地的行脚笔记——方言、风俗、山川与人物（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "行脚者",
+      "identity": "作者",
+      "note": "商州的记录者"
+    }
+  ],
+  "themes": [
+    "商州：贾平凹文学地理的原点（B217 语境）。",
+    "散文的'寻根'（通说）。",
+    "民情风俗的百科（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：列入贾平凹散文代表作（B217）。",
+      "source": "B217"
+    },
+    {
+      "text": "为商州小说系列提供地志与人物素材（B217 语境）。",
+      "source": "B217"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "陕南方言。",
+      "笔记体的散点结构。"
+    ],
+    "editions": [
+      "《商州三录》（人民文学出版社/作家出版社版本，通说待核）。"
+    ],
+    "order": "先散文后小说（商州系列）。"
+  },
+  "pending": [
+    "三录各自出版年份核对。",
+    "篇目核对。",
+    "《月迹》散文集与三录的关系待核。"
+  ],
+  "sources": [
+    "B217"
+  ],
+  "year_source": "B217",
+  "author_source": "B217",
+  "related_works": [
+    "qinqiang",
+    "feidu",
+    "xiangxingsanji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《商州三录》行脚图",
+    "cards": [
+      {
+        "title": "初录",
+        "text": "山地的入口",
+        "color": "family"
+      },
+      {
+        "title": "又录",
+        "text": "风物的深描",
+        "color": "main"
+      },
+      {
+        "title": "再录",
+        "text": "人物的留影",
+        "color": "gold"
+      },
+      {
+        "title": "商州",
+        "text": "文学的原点",
+        "color": "plain"
+      }
+    ]
+  }
+}
