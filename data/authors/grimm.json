@@ -1,0 +1,68 @@
+{
+  "id": "grimm",
+  "name": "格林兄弟",
+  "foreign_name": "Brothers Grimm（雅各布·格林 1785-01-04—1863-09-20；威廉·格林 1786-02-24—1859-12-16）",
+  "country": "德国",
+  "birth": 1785,
+  "death": 1863,
+  "birth_year": 1785,
+  "death_year": 1863,
+  "era": "近代",
+  "summary": "格林兄弟——雅各布与威廉——德国民俗学家与语言学家，以《儿童与家庭童话集》（Kinder- und Hausmärchen，1812—22；英语世界称格林童话）传世（Britannica）；'the 200 stories of this collection (including……Snow White, Little Red Riding Hood, Sleeping Beauty, and Rumpelstiltskin)'（含白雪公主、小红帽、睡美人、侏儒怪等200篇——B263）。雅各布以'Grimm's law'（格里姆定律——'first sound shift'）开创历史语言学（B263）；兄弟二人亦是德语词典的编纂者（通说待核）。",
+  "timeline": [
+    {
+      "year": 1785,
+      "text": "雅各布生于哈瑙（Britannica：born January 4, 1785, Hanau）。",
+      "src": "B263"
+    },
+    {
+      "year": 1786,
+      "text": "威廉生于哈瑙（Britannica：born February 24, 1786）。",
+      "src": "B263"
+    },
+    {
+      "year": 1812,
+      "text": "《儿童与家庭童话集》开始出版（1812—22）（Britannica）。",
+      "src": "B263"
+    },
+    {
+      "year": 1835,
+      "text": "雅各布出版《德国神话》（Britannica：German Mythology (1835)）。",
+      "src": "B263"
+    },
+    {
+      "year": 1863,
+      "text": "雅各布卒于柏林（威廉先于1859年卒）（Britannica）。",
+      "src": "B263"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "gelintonghua",
+      "note": "童话集（Britannica：1812—22）"
+    },
+    {
+      "title": "德语词典",
+      "note": "（通说待核——兄弟合编）"
+    },
+    {
+      "title": "德国神话",
+      "note": "（Britannica：1835）"
+    }
+  ],
+  "style": [
+    "民间口传的忠实辑录与文学润色并进（通说）。",
+    "'Grimm's law'：历史语言学的里程碑（B263）。",
+    "从民俗到民族文化的建构（通说待核）。"
+  ],
+  "status": "Britannica 定位格林兄弟为德国民俗学家与语言学家、现代民俗学的奠基者之一（B263 语境）。",
+  "sources": [
+    "B263"
+  ],
+  "dates_source": "B263",
+  "pending": [
+    "童话篇数（1812年初版86篇说；第七版1857年211篇说）核对。",
+    "魏玛版与儿童版之别待核。",
+    "兄弟二人生平分工（威廉主笔润色说）待核。"
+  ]
+}

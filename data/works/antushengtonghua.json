@@ -1,0 +1,105 @@
+{
+  "id": "antushengtonghua",
+  "title": "安徒生童话",
+  "original_title": "Eventyr, fortalte for børn 等童话集",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "童话集",
+  "genre_group": "故事集",
+  "language": "丹麦语",
+  "author_id": "andersen",
+  "author_name": "安徒生",
+  "year_display": "1835年首部童话集出版（Britannica：Eventyr, fortalte for børn (1835)）；1858—72年《新童话和故事》（B262）",
+  "year_sort": 1835,
+  "background": [
+    "Britannica（B262）：首部童话集'Eventyr, fortalte for børn (1835; Tales, Told for Children)'含《打火匣》《小克劳斯和大克劳斯》《豌豆公主》《小意达的花》等；1837/1842年续卷；'Nye eventyr og historier (1858–72)'扩展文类。",
+    "地位（B262）：'his fairy tales are among the most frequently translated works in all of literary history'。",
+    "'he was not afraid of introducing feelings and ideas that were beyond a child's immediate comprehension'（B262）。"
+  ],
+  "outline": [
+    "名篇谱系（B262 语境+通说）：《海的女儿》《丑小鸭》《卖火柴的小女孩》《皇帝的新装》《白雪皇后》。",
+    "从民间童话到'文学童话'的自觉创作（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "小美人鱼",
+      "identity": "海的女儿",
+      "note": "牺牲与灵魂（通说）"
+    },
+    {
+      "name": "丑小鸭",
+      "identity": "天鹅",
+      "note": "苦难的超越（通说）"
+    }
+  ],
+  "themes": [
+    "超越儿童理解的深刻（B262）。",
+    "边缘人主题（B262：outsiders and triumph over hardship）。",
+    "口语的讲述体（B262：innovative use of spoken language）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his fairy tales are among the most frequently translated works in all of literary history'（B262）。",
+      "source": "B262"
+    },
+    {
+      "text": "Britannica：'Danish master of the literary fairy tale'（B262）。",
+      "source": "B262"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "童话的双重读者（儿童/成人）。",
+      "丹麦福利社会之前的苦难底色。"
+    ],
+    "editions": [
+      "叶君健译《安徒生童话全集》（上海译文出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《海的女儿》《丑小鸭》→《卖火柴的小女孩》《皇帝的新装》。"
+  },
+  "pending": [
+    "《海的女儿》1837年首刊核对。",
+    "叶君健译本信息核对。",
+    "童话总篇数（156篇说）待核。"
+  ],
+  "sources": [
+    "B262"
+  ],
+  "year_source": "B262",
+  "author_source": "B262",
+  "related_works": [
+    "gelintonghua",
+    "xiaowangzi",
+    "yiqianlingyiye"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "安徒生童话谱系图",
+    "cards": [
+      {
+        "title": "1835",
+        "text": "首部童话集（B262）",
+        "color": "family"
+      },
+      {
+        "title": "海的女儿",
+        "text": "牺牲与灵魂",
+        "color": "main"
+      },
+      {
+        "title": "丑小鸭",
+        "text": "苦难的超越",
+        "color": "gold"
+      },
+      {
+        "title": "1858—72",
+        "text": "新童话（B262）",
+        "color": "plain"
+      }
+    ]
+  }
+}

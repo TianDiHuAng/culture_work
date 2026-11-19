@@ -1,0 +1,64 @@
+{
+  "id": "jibolan",
+  "name": "纪伯伦",
+  "foreign_name": "Kahlil Gibran（纪伯伦·哈利勒·纪伯伦，1883-01-06—1931-04-10）",
+  "country": "黎巴嫩",
+  "birth": 1883,
+  "death": 1931,
+  "birth_year": 1883,
+  "death_year": 1931,
+  "era": "近代",
+  "summary": "纪伯伦，黎巴嫩布舍里人、移民波士顿的阿拉伯裔美国作家与画家（Britannica），以阿拉伯语与英语双语写作——'produced romantic, mystical essays, stories, poetry, and paintings on themes like love, death, nature, and longing for his homeland'（B264）。代表作《先知》（1923；'a book of 26 poetic essays'——B265）；'translated into more than a dozen languages'、'a best-selling book of popular mysticism……reached cult status among American youth for generations'（B265）。'Gibran's literary and artistic output is highly romantic in outlook and was influenced by the Bible, Friedrich Nietzsche, and William Blake'（B264）。",
+  "timeline": [
+    {
+      "year": 1883,
+      "text": "1月6日生于黎巴嫩布舍里（Britannica：Born January 6, 1883, Bsharrī, Lebanon）。",
+      "src": "B264"
+    },
+    {
+      "year": 1895,
+      "text": "随家移民波士顿（Britannica：emigrated to Boston as a child——年份通说待核）。",
+      "src": "B264"
+    },
+    {
+      "year": 1923,
+      "text": "《先知》出版（B265：published in 1923）。",
+      "src": "B265"
+    },
+    {
+      "year": 1931,
+      "text": "4月10日卒于纽约（Britannica）。",
+      "src": "B264"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xianzhi",
+      "note": "散文诗集（Britannica：1923）"
+    },
+    {
+      "title": "狂人、先行者、沙与沫",
+      "note": "（Britannica：The Madman (1918), The Forerunner (1920), Sand and Foam (1926)）"
+    },
+    {
+      "title": "先知园",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'highly romantic in outlook'：受《圣经》、尼采与布莱克影响（B264）。",
+    "先知的布道体：26 篇散文诗（B265）。",
+    "双语写作：阿拉伯语的《泪与笑》与英语的《先知》（通说待核）。"
+  ],
+  "status": "Britannica 定位纪伯伦为黎巴嫩裔美国作家与画家、《先知》作者（B264/B265）。",
+  "sources": [
+    "B264",
+    "B265"
+  ],
+  "dates_source": "B264",
+  "pending": [
+    "移民年份（1895年说）核对。",
+    "《先知》中译本（冰心译本说）待核。",
+    "纪伯伦与玛丽·哈斯凯尔的书信史待核。"
+  ]
+}

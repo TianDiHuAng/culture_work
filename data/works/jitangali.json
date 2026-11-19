@@ -1,0 +1,98 @@
+{
+  "id": "jitangali",
+  "title": "吉檀迦利",
+  "original_title": "গীতাঞ্জলি（Gitanjali，英译本）",
+  "region": "印度",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "散文诗集",
+  "genre_group": "诗歌",
+  "language": "英语（自孟加拉语转译）",
+  "author_id": "tagore",
+  "author_name": "泰戈尔",
+  "year_display": "1912—13年英文版（Britannica：hailed by W.B. Yeats and André Gide and won him the Nobel Prize in 1913）",
+  "year_sort": 1912,
+  "background": [
+    "Britannica（B261）：'This book, containing Tagore's English prose translations of religious poems from several of his Bengali verse collections'——孟加拉语宗教诗的英语散文自译；'hailed by W.B. Yeats and André Gide and won him the Nobel Prize in 1913'。",
+    "授奖词（B261）：'profoundly sensitive, fresh and beautiful verse'。"
+  ],
+  "outline": [
+    "103首散文诗（首数通说待核）：献给'神'的献歌——爱情、劳作、死亡与宁静（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "歌者",
+      "identity": "'我'",
+      "note": "向神献歌的人"
+    }
+  ],
+  "themes": [
+    "献歌体：人与神的对话（通说）。",
+    "东方灵性的英语转渡（B261：English prose translations）。",
+    "'fresh and beautiful verse'（B261 授奖词）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1913年诺奖——'the first non-European to receive the Nobel Prize'（B261）。",
+      "source": "B261"
+    },
+    {
+      "text": "Britannica：叶芝与纪德的推崇（hailed by W.B. Yeats and André Gide）（B261）。",
+      "source": "B261"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'神'的多义（人格神/泛神/自我）。",
+      "散文诗的节奏——朗读。"
+    ],
+    "editions": [
+      "《吉檀迦利》（冰心译本，人民文学出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "与《飞鸟集》《新月集》合读。"
+  },
+  "pending": [
+    "篇数（103首说）核对。",
+    "冰心译本信息核对。",
+    "叶芝序言（1912年说）待核。"
+  ],
+  "sources": [
+    "B261"
+  ],
+  "year_source": "B261",
+  "author_source": "B261",
+  "related_works": [
+    "caoyeji",
+    "chuci",
+    "nvshen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吉檀迦利》献歌结构图",
+    "cards": [
+      {
+        "title": "献歌",
+        "text": "与神的对话",
+        "color": "main"
+      },
+      {
+        "title": "孟加拉",
+        "text": "原作的根",
+        "color": "family"
+      },
+      {
+        "title": "叶芝与纪德",
+        "text": "西方的推崇（B261）",
+        "color": "gold"
+      },
+      {
+        "title": "诺奖1913",
+        "text": "首位非欧洲（B261）",
+        "color": "plain"
+      }
+    ]
+  }
+}

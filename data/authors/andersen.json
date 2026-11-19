@@ -1,0 +1,63 @@
+{
+  "id": "andersen",
+  "name": "安徒生",
+  "foreign_name": "Hans Christian Andersen（汉斯·克里斯蒂安·安徒生，1805-04-02—1875-08-04）",
+  "country": "丹麦",
+  "birth": 1805,
+  "death": 1875,
+  "birth_year": 1805,
+  "death_year": 1875,
+  "era": "近代",
+  "summary": "安徒生，丹麦欧登塞人，出身贫寒（鞋匠之子——Britannica 语境），从穷困中崛起为'文学童话'的世界级大师——'Danish master of the literary fairy tale'（Britannica）；'his fairy tales are among the most frequently translated works in all of literary history'（其童话是文学史上被翻译最多的作品之一——Britannica）。首部童话集 Eventyr, fortalte for børn（1835）；'Nye eventyr og historier'（1858–72）扩展文类（B262）。",
+  "timeline": [
+    {
+      "year": 1805,
+      "text": "4月2日生于欧登塞（Britannica：Born April 2, 1805, Odense, Denmark）。",
+      "src": "B262"
+    },
+    {
+      "year": 1835,
+      "text": "首部童话集出版——含《打火匣》《豌豆公主》等（Britannica）。",
+      "src": "B262"
+    },
+    {
+      "year": 1858,
+      "text": "《新童话和故事》开始出版（1858—72）（Britannica）。",
+      "src": "B262"
+    },
+    {
+      "year": 1875,
+      "text": "8月4日卒于哥本哈根（Britannica）。",
+      "src": "B262"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "antushengtonghua",
+      "note": "童话集（Britannica：1835年起）"
+    },
+    {
+      "title": "海的女儿、丑小鸭、白雪皇后",
+      "note": "（Britannica 语境）"
+    },
+    {
+      "title": "即兴诗人",
+      "note": "小说（通说待核）"
+    }
+  ],
+  "style": [
+    "'文学童话'的创造：以口语讲述（Britannica 语境：innovative use of spoken language）。",
+    "写给孩子的深刻：'not afraid of introducing feelings and ideas that were beyond a child's immediate comprehension'（Britannica）。",
+    "边缘人与苦难超越的主题（Britannica 语境：outsiders and triumph over hardship）。"
+  ],
+  "status": "Britannica 定位安徒生为'文学童话'的丹麦大师、世界文学的不朽者之一（B262 语境：immortals of world literature）。",
+  "sources": [
+    "B262"
+  ],
+  "dates_source": "B262",
+  "pending": [
+    "《海的女儿》首刊（1837年说）核对。",
+    "叶君健译本（安徒生童话全集）待核。",
+    "1835年小册子册数与定价细节待核。"
+  ]
+}

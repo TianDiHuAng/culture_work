@@ -1,0 +1,68 @@
+{
+  "id": "tagore",
+  "name": "泰戈尔",
+  "foreign_name": "Rabindranath Tagore（罗宾德拉纳特·泰戈尔，1861-05-07—1941-08-07）",
+  "country": "印度",
+  "birth": 1861,
+  "death": 1941,
+  "birth_year": 1861,
+  "death_year": 1941,
+  "era": "近代",
+  "summary": "泰戈尔，加尔各答人，孟加拉语诗人、小说家、剧作家、作曲家与画家——'modernized Bengali literature'（使孟加拉文学现代化——Britannica）；'the first non-European to win the Nobel Prize in Literature'（1913年，首位获诺贝尔文学奖的非欧洲人——Britannica）；授奖词：'profoundly sensitive, fresh and beautiful verse'（B261）。'Tagore's poems are virtually untranslatable, as are his more than 2,000 songs'（B261）；'the only poet credited with authoring the national anthems of two countries'（印、孟两国国歌词作者——B261）。1915年受封爵士，1919年阿姆利则惨案后退还（B261）。",
+  "timeline": [
+    {
+      "year": 1861,
+      "text": "5月7日生于加尔各答（Britannica：Born May 7, 1861, Calcutta）。",
+      "src": "B261"
+    },
+    {
+      "year": 1901,
+      "text": "创办国际大学（Britannica：Visva-Bharati founded as school 1901）。",
+      "src": "B261"
+    },
+    {
+      "year": 1913,
+      "text": "获诺贝尔文学奖——首位非欧洲获奖者（Britannica）。",
+      "src": "B261"
+    },
+    {
+      "year": 1919,
+      "text": "阿姆利则惨案后退还爵士封号（Britannica：renounced 1919）。",
+      "src": "B261"
+    },
+    {
+      "year": 1941,
+      "text": "8月7日卒于加尔各答（Britannica）。",
+      "src": "B261"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jitangali",
+      "note": "英译散文诗集（Britannica：Nobel 1913）"
+    },
+    {
+      "title": "新月集、飞鸟集",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "戈拉",
+      "note": "长篇（通说待核）"
+    }
+  ],
+  "style": [
+    "'profoundly sensitive, fresh and beautiful verse'（Britannica 授奖词）。",
+    "'poems are virtually untranslatable'：歌与诗的不可译（B261）。",
+    "宗教抒情与东方智慧的英语转渡（B261：English prose translations）。"
+  ],
+  "status": "Britannica 定位泰戈尔为首位非欧洲诺奖文学家、两国国歌作者、国际大学的创办人（B261）。",
+  "sources": [
+    "B261"
+  ],
+  "dates_source": "B261",
+  "pending": [
+    "《吉檀迦利》1912年英文版（伦敦印度协会说）与1913年孟加拉原集关系待核。",
+    "《飞鸟集》郑振铎译本待核。",
+    "国际大学1921年成为大学（Britannica 已载）核对。"
+  ]
+}

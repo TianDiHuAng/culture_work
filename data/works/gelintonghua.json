@@ -1,0 +1,99 @@
+{
+  "id": "gelintonghua",
+  "title": "格林童话",
+  "original_title": "Kinder- und Hausmärchen（Grimm's Fairy Tales）",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "童话集",
+  "genre_group": "故事集",
+  "language": "德语",
+  "author_id": "grimm",
+  "author_name": "格林兄弟（雅各布/威廉）",
+  "year_display": "1812—1822年出版（Britannica：Kinder- und Hausmärchen (1812–22)）",
+  "year_sort": 1812,
+  "background": [
+    "Britannica（B263）：'the 200 stories of this collection (including, among the most enduring, Snow White, Little Red Riding Hood, Sleeping Beauty, and Rumpelstiltskin)'——白雪公主、小红帽、睡美人、侏儒怪等200篇。",
+    "语言学的另一面（B263）：雅各布以'Grimm's law'（'first sound shift'）论证辅音对应规律——历史语言学的里程碑。"
+  ],
+  "outline": [
+    "名篇谱系（B263）：《白雪公主》《小红帽》《睡美人》《侏儒怪》等200篇（通说篇目）。",
+    "从口头采集到书面定型——版本史中的净化与增删（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "白雪公主/灰姑娘",
+      "identity": "童话 heroine",
+      "note": "最持久的形象（B263 语境）"
+    }
+  ],
+  "themes": [
+    "民俗采集与民族文化建构（通说）。",
+    "童话的暴力与净化史（通说待核）。",
+    "语言学的副产品（B263：Grimm's law）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：200篇故事集——含最持久的白雪公主等（B263）。",
+      "source": "B263"
+    },
+    {
+      "text": "Britannica：格里姆定律——历史语言学里程碑（B263）。",
+      "source": "B263"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "版本差异（初版残酷、后版净化）。",
+      "德语方言地名。"
+    ],
+    "editions": [
+      "《格林童话全集》（人民文学出版社魏以新译本等，通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "与《安徒生童话》对读：采集童话 vs 文学童话。"
+  },
+  "pending": [
+    "初版86篇/第七版211篇说核对。",
+    "《儿童与家庭童话》书名的双义（儿童/家庭）待核。",
+    "兄弟分工史待核。"
+  ],
+  "sources": [
+    "B263"
+  ],
+  "year_source": "B263",
+  "author_source": "B263",
+  "related_works": [
+    "antushengtonghua",
+    "yisuo",
+    "yiqianlingyiye"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "格林童话谱系图",
+    "cards": [
+      {
+        "title": "1812—22",
+        "text": "两卷本（B263）",
+        "color": "family"
+      },
+      {
+        "title": "白雪公主",
+        "text": "最持久的名篇",
+        "color": "main"
+      },
+      {
+        "title": "200篇",
+        "text": "民间口传辑录（B263）",
+        "color": "gold"
+      },
+      {
+        "title": "格里姆定律",
+        "text": "语言学的兄弟",
+        "color": "plain"
+      }
+    ]
+  }
+}
