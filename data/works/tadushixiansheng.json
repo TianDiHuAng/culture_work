@@ -1,0 +1,104 @@
+{
+  "id": "tadushixiansheng",
+  "title": "塔杜施先生",
+  "original_title": "Pan Tadeusz（即《塔杜施先生，或立陶宛的最后一次袭击》）",
+  "region": "波兰",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "民族史诗",
+  "genre_group": "诗歌",
+  "language": "波兰语",
+  "author_id": "mickiewicz",
+  "author_name": "亚当·密茨凯维奇",
+  "year_display": "1834年出版（Britannica：Pan Tadeusz (1834)）",
+  "year_sort": 1834,
+  "background": [
+    "Britannica（B268）：'Mickiewicz's masterpiece, the great epic poem Pan Tadeusz (1834)'——描述'life of the Polish gentry through a feud between two noble families'；'shows the effect of the Napoleonic myth'——波兰人视法军为'从俄国统治下解放的唯一希望'。",
+    "地位（B268）：'came to epitomize the Polish spirit'。"
+  ],
+  "outline": [
+    "两大贵族家族的世仇与和解——塔杜施与佐霞的爱情（通说待核）。",
+    "波诺尼茨基神父的调停与爱国教育（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "塔杜施",
+      "identity": "青年",
+      "note": "史诗主角（通说待核）"
+    },
+    {
+      "name": "佐霞",
+      "identity": "姑娘",
+      "note": "爱情线（通说待核）"
+    }
+  ],
+  "themes": [
+    "民族史诗：世仇的和解即民族的和解（通说）。",
+    "拿破仑神话（B268）。",
+    "立陶宛风物的白描（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'masterpiece'；'epitomize the Polish spirit'（B268）。",
+      "source": "B268"
+    },
+    {
+      "text": "波兰的民族圣典：卡钦斯基总统曾于克里姆林宫朗读（通说待核）。",
+      "source": "B268"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "波兰贵族'萨姆拉'制度。",
+      "十二卷书的结构。"
+    ],
+    "editions": [
+      "《塔杜施先生》（人民文学出版社景凯旋译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "对照《巴尼？》——不：对照《先人祭》读。"
+  },
+  "pending": [
+    "十二卷（Books）结构核对。",
+    "景凯旋译本信息待核。",
+    "拿破仑神话段落核对。"
+  ],
+  "sources": [
+    "B268"
+  ],
+  "year_source": "B268",
+  "author_source": "B268",
+  "related_works": [
+    "aonijin",
+    "shangweidenv'er",
+    "zhanzheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《塔杜施先生》世仇和解图",
+    "cards": [
+      {
+        "title": "世仇",
+        "text": "霍莱什卡与索利茨卡（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "塔杜施",
+        "text": "青年的成长",
+        "color": "main"
+      },
+      {
+        "title": "佐霞",
+        "text": "爱情的和解",
+        "color": "gold"
+      },
+      {
+        "title": "波兰精神",
+        "text": "史诗的化身（B268）",
+        "color": "family"
+      }
+    ]
+  }
+}

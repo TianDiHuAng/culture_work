@@ -1,0 +1,59 @@
+{
+  "id": "seishonagon",
+  "name": "清少纳言",
+  "foreign_name": "Sei Shōnagon（清少纳言，约966—约1025）",
+  "country": "日本",
+  "birth": 966,
+  "death": 1025,
+  "birth_year": 966,
+  "death_year": 1025,
+  "era": "古代",
+  "summary": "清少纳言，平安时代女官、日记作者与歌人——'her witty, learned Pillow Book (Makura no soshi) exhibits a brilliant and original Japanese prose style'（机智博学的《枕草子》展现灿烂而独创的日本散文风格——Britannica）；'It is also the best source of information on Japanese court life in the Heian period (794–1185)'（平安朝宫廷生活的最佳史料——Britannica）。约993—1000年侍奉中宫定子（Britannica）；紫式部日记称其自负（Britannica：who herself declared Sei Shonagon conceited）。",
+  "timeline": [
+    {
+      "year": 966,
+      "text": "约生于日本（Britannica：Born c. 966, Japan）。",
+      "src": "B267"
+    },
+    {
+      "year": 993,
+      "text": "入中宫定子（Sadako）宫中服务至1000年（Britannica：from about 993 to 1000）。",
+      "src": "B267"
+    },
+    {
+      "year": 1000,
+      "text": "《枕草子》主要写作期（与定子宫廷同步——通说待核）。",
+      "src": "B267"
+    },
+    {
+      "year": 1025,
+      "text": "约卒（Britannica：died c. 1025）。",
+      "src": "B267"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zhencaozi",
+      "note": "随笔集（Britannica：'brilliant and original Japanese prose style'）"
+    },
+    {
+      "title": "清少纳言集",
+      "note": "和歌集（通说待核）"
+    }
+  ],
+  "style": [
+    "'brilliant and original Japanese prose style'（B267）。",
+    "'机智、博学'（B267：witty, learned）。",
+    "段拾式随笔：'春，曙为最'式的 listing（通说待核）。"
+  ],
+  "status": "Britannica 定位清少纳言为平安朝随笔与歌人、《枕草子》作者——古典日本散文的杰作与平安宫廷生活的最佳史料（B267）；与紫式部并称（两人互评——B267）。",
+  "sources": [
+    "B267"
+  ],
+  "dates_source": "B267",
+  "pending": [
+    "段落数（300余段说）核对。",
+    "'春曙为最'首段原文核对。",
+    "与定子中宫的进宫细节待核。"
+  ]
+}

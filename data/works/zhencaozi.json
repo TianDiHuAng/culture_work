@@ -1,0 +1,103 @@
+{
+  "id": "zhencaozi",
+  "title": "枕草子",
+  "original_title": "枕草子（まくらのそうし，Makura no Sōshi）",
+  "region": "日本",
+  "era": "古代",
+  "era_detail": "平安时代",
+  "genre": "随笔集",
+  "genre_group": "散文",
+  "language": "日语（王朝文体）",
+  "author_id": "seishonagon",
+  "author_name": "清少纳言",
+  "year_display": "约993—1000年宫廷期间写作（Britannica 语境）；定本年代通说待核",
+  "year_sort": 1000,
+  "background": [
+    "Britannica（B267）：'her witty, learned Pillow Book (Makura no soshi) exhibits a brilliant and original Japanese prose style'；'It is also the best source of information on Japanese court life in the Heian period (794–1185)'。",
+    "'Those qualities also won her enemies, according to the diary of her contemporary Murasaki Shikibu, who herself declared Sei Shonagon conceited'（紫式部日记称其自负——B267）。"
+  ],
+  "outline": [
+    "段拾式随笔：'春，曙为最'等三百余段（段数通说待核）+ 日记部分 + 和歌（B267：vividly recounted memoirs of her impressions）。"
+  ],
+  "characters": [
+    {
+      "name": "清少纳言",
+      "identity": "随笔作者",
+      "note": "定子女官（B267）"
+    },
+    {
+      "name": "中宫定子",
+      "identity": "皇后",
+      "note": "服务的对象（B267）"
+    }
+  ],
+  "themes": [
+    "'をかし'（有趣）与'あはれ'（哀）的审美分野（通说待核）。",
+    "平安宫廷生活的最佳史料（B267）。",
+    "与《源氏物语》的双峰（通说——两人互评见 B267）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'brilliant and original Japanese prose style'（B267）。",
+      "source": "B267"
+    },
+    {
+      "text": "英译：Arthur Waley (1929)、Ivan Morris (1967)（B267）。",
+      "source": "B267"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "平安朝称谓与名物。",
+      "'段'的分立逻辑。"
+    ],
+    "editions": [
+      "周作人译本（上海译文出版社《枕草子》，通说待核）。",
+      "英译（Ivan Morris 版）。"
+    ],
+    "order": "先读'春曙为最'段 → 与《源氏物语》对照。"
+  },
+  "pending": [
+    "段落数核对。",
+    "周作人译本信息核对。",
+    "与紫式部的互评（B267 已载）展开核对。"
+  ],
+  "sources": [
+    "B267"
+  ],
+  "year_source": "B267",
+  "author_source": "B267",
+  "related_works": [
+    "genjiwuyu",
+    "xixue",
+    "liuyan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《枕草子》段拾结构图",
+    "cards": [
+      {
+        "title": "春曙为最",
+        "text": "四季的段拾（通说）",
+        "color": "main"
+      },
+      {
+        "title": "宫廷",
+        "text": "定子女官时代",
+        "color": "family"
+      },
+      {
+        "title": "机智",
+        "text": "brilliant prose（B267）",
+        "color": "gold"
+      },
+      {
+        "title": "紫式部",
+        "text": "互评的对手",
+        "color": "plain"
+      }
+    ]
+  }
+}

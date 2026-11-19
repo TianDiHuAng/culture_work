@@ -1,0 +1,110 @@
+{
+  "id": "yingtaoyuan",
+  "title": "樱桃园",
+  "original_title": "Вишнёвый сад（The Cherry Orchard）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "四幕喜剧（正剧之争）",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "chikefu",
+  "author_name": "安东·契诃夫",
+  "year_display": "1904年莫斯科首演（Britannica：premiered in Moscow January 17, 1904）",
+  "year_sort": 1904,
+  "background": [
+    "Britannica（B270）：'In another great play, The Cherry Orchard (1904), Chekhov created a poignant picture of Russian landowners in decline'（俄国地主没落的辛酸图景）；首演六个月后作者死于肺疾（B270）。",
+    "文体之争（通说待核）：契诃夫称'喜剧'、斯坦尼斯拉夫斯基演成悲剧。",
+    "'契诃夫之枪'原则（B270：every element introduced in a story should be necessary to the plot）。"
+  ],
+  "outline": [
+    "朗涅夫斯卡娅与樱桃园拍卖：伐木声与斧头（通说待核）。",
+    "罗巴辛买下樱桃园——'新生活'的开始（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "朗涅夫斯卡娅",
+      "identity": "女地主",
+      "note": "挥霍的归来者（通说待核）"
+    },
+    {
+      "name": "罗巴辛",
+      "identity": "商人",
+      "note": "买主（通说待核）"
+    },
+    {
+      "name": "费尔斯",
+      "identity": "老仆",
+      "note": "被遗忘者（通说待核）"
+    }
+  ],
+  "themes": [
+    "没落的辛酸图景（B270）。",
+    "'喜剧'与'悲剧'的作者意图之争（通说待核）。",
+    "'契诃夫之枪'（B270）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a poignant picture of Russian landowners in decline'（B270）。",
+      "source": "B270"
+    },
+    {
+      "text": "作者页：'契诃夫之枪'（B270）。",
+      "source": "B270"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'契诃夫式'的停顿与潜台词。",
+      "1904—05俄国革命前夜。"
+    ],
+    "editions": [
+      "《樱桃果园》（童道明译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "与《海鸥》《万尼亚舅舅》合读。"
+  },
+  "pending": [
+    "作者定名'喜剧'的说明核对。",
+    "朗涅夫斯卡娅/罗巴辛/费尔斯人名核对。",
+    "莫斯科艺术剧院演出细节待核。"
+  ],
+  "sources": [
+    "B270"
+  ],
+  "year_source": "B270",
+  "author_source": "B270",
+  "related_works": [
+    "leiyu",
+    "richu",
+    "beijingren"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《樱桃园》没落结构图",
+    "cards": [
+      {
+        "title": "樱桃园",
+        "text": "旧贵族的象征",
+        "color": "family"
+      },
+      {
+        "title": "拍卖",
+        "text": "斧头的声音",
+        "color": "antagonist"
+      },
+      {
+        "title": "罗巴辛",
+        "text": "新阶级的胜利",
+        "color": "gold"
+      },
+      {
+        "title": "费尔斯",
+        "text": "被遗忘的老仆",
+        "color": "main"
+      }
+    ]
+  }
+}

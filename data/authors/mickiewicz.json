@@ -1,0 +1,63 @@
+{
+  "id": "mickiewicz",
+  "name": "亚当·密茨凯维奇",
+  "foreign_name": "Adam Mickiewicz（亚当·密茨凯维奇，1798-12-24—1855-11-26）",
+  "country": "波兰",
+  "birth": 1798,
+  "death": 1855,
+  "birth_year": 1798,
+  "death_year": 1855,
+  "era": "近代",
+  "summary": "密茨凯维奇，'波兰最伟大的浪漫主义诗人之一'（Britannica：one of Poland's greatest Romantic poets），波兰民族自由的终身倡导者；1823年因爱国活动被流放俄国，后定居巴黎（Britannica）。'Mickiewicz's masterpiece, the great epic poem Pan Tadeusz (1834)'（B268）；'With his exalted patriotism, mystical feeling, and passionate appreciation of the positive aspects of Polish life, he came to epitomize the Polish spirit'（以崇高的爱国精神、神秘的情感与对波兰生活积极面的热烈珍视，成为波兰精神的化身——B268）。",
+  "timeline": [
+    {
+      "year": 1798,
+      "text": "12月24日生（Britannica：Born December 24, 1798）。",
+      "src": "B268"
+    },
+    {
+      "year": 1823,
+      "text": "因爱国活动被流放俄国（Britannica：Deported to Russia in 1823）。",
+      "src": "B268"
+    },
+    {
+      "year": 1834,
+      "text": "史诗《塔杜施先生》出版（Britannica：Pan Tadeusz (1834)）。",
+      "src": "B268"
+    },
+    {
+      "year": 1855,
+      "text": "11月26日卒（Britannica：died November 26, 1855）。",
+      "src": "B268"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tadushixiansheng",
+      "note": "史诗（Britannica：1834，masterpiece）"
+    },
+    {
+      "title": "先人祭",
+      "note": "诗剧（Britannica 语境：Dziady——通说待核）"
+    },
+    {
+      "title": "康拉德·华伦洛德",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'崇高的爱国主义'与'神秘的情感'（B268：exalted patriotism, mystical feeling）。",
+    "民族史诗的立国书写（B268：define the Polish national spirit——综述语境）。",
+    "立陶宛风物与贵族世仇（B268：a feud between two noble families）。"
+  ],
+  "status": "Britannica 定位密茨凯维奇为波兰最伟大的浪漫主义诗人之一、'波兰精神的化身'（B268）。",
+  "sources": [
+    "B268"
+  ],
+  "dates_source": "B268",
+  "pending": [
+    "《先人祭》四部结构核对。",
+    "《塔杜施先生》书名（波兰语 Pan Tadeusz 或 Thaddeus）译法待核。",
+    "君士坦丁堡之死（霍乱说）待核。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "sienkiewicz",
+  "name": "亨利克·显克维奇",
+  "foreign_name": "Henryk Sienkiewicz（亨利克·显克维奇，1846-05-05—1916-11-15）",
+  "country": "波兰",
+  "birth": 1846,
+  "death": 1916,
+  "birth_year": 1846,
+  "death_year": 1916,
+  "era": "近代",
+  "summary": "显克维奇，波兰小说家——'best known for historical fiction'（以历史小说著称——Britannica），含17世纪波兰背景的三部曲与'internationally acclaimed'的《你往何处去？》（B269）。1905年获诺贝尔文学奖（Britannica：winner of the Nobel Prize for Literature in 1905）。'Sienkiewicz's great trilogy of historical novels began to appear in Slowo in 1883'（三部曲1883年起在《言论报》连载——B269）。",
+  "timeline": [
+    {
+      "year": 1846,
+      "text": "5月5日生于波兰（Britannica：Born May 5, 1846, Wola Okrzejska, Poland）。",
+      "src": "B269"
+    },
+    {
+      "year": 1883,
+      "text": "历史小说三部曲开始在《言论报》连载（Britannica：began to appear in Slowo in 1883）。",
+      "src": "B269"
+    },
+    {
+      "year": 1896,
+      "text": "《你往何处去？》出版（Britannica 语境）。",
+      "src": "B269"
+    },
+    {
+      "year": 1905,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 1905）。",
+      "src": "B269"
+    },
+    {
+      "year": 1916,
+      "text": "11月15日卒于瑞士沃韦（Britannica：Died November 15, 1916, Vevey, Switzerland）。",
+      "src": "B269"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "niwanghechuqu",
+      "note": "长篇（Britannica：国际声誉之作）"
+    },
+    {
+      "title": "三部曲（火与剑/洪流/火与剑？）",
+      "note": "（Britannica：great trilogy——卷名待核）"
+    },
+    {
+      "title": "十字军骑士",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "历史小说：'set in Rome under Nero'（B269——《你往何处去？》）。",
+    "民族史诗的通俗叙事（B269：trilogy in Slowo）。",
+    "波兰国难记忆的文学化（通说待核）。"
+  ],
+  "status": "Britannica 定位显克维奇为波兰历史小说家、1905年诺奖得主（B269）。",
+  "sources": [
+    "B269"
+  ],
+  "dates_source": "B269",
+  "pending": [
+    "三部曲卷名（火与剑/洪流/伏沃迪约夫斯基先生说）核对。",
+    "《你往何处去？》1896年出版细节核对。",
+    "黎诺基（Ligęzy？）人名待核。"
+  ]
+}

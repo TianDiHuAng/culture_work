@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="100%" role="img" font-family="'KaiTi','STKaiti','SimSun','Songti SC','Noto Serif CJK SC',serif">
+<rect x="0" y="0" width="400" height="560" fill="#3e5871"/>
+<rect x="14" y="14" width="372" height="532" fill="none" stroke="#cba45c" stroke-width="1.3" opacity="0.75"/>
+<rect x="21" y="21" width="358" height="518" fill="none" stroke="#cba45c" stroke-width="0.6" opacity="0.45"/>
+<text x="200" y="50" font-size="14" fill="#c2c6cd" text-anchor="middle" letter-spacing="3" font-family="'SimSun','Songti SC','Noto Serif CJK SC',serif">波兰 · 19世纪</text>
+<path d="M 90 72 q 27 -12 55 0 t 55 0 t 55 0 t 55 0" fill="none" stroke="#cba45c" stroke-width="1.6" opacity="0.85"/>
+<path d="M 90 84 q 27 -12 55 0 t 55 0 t 55 0 t 55 0" fill="none" stroke="#cba45c" stroke-width="1.1" opacity="0.5"/>
+<text x="286" y="195.2" font-size="48" fill="#efe9d8" text-anchor="middle">塔</text>
+<text x="286" y="254.7" font-size="48" fill="#efe9d8" text-anchor="middle">杜</text>
+<text x="286" y="314.2" font-size="48" fill="#efe9d8" text-anchor="middle">施</text>
+<text x="286" y="373.8" font-size="48" fill="#efe9d8" text-anchor="middle">先</text>
+<text x="286" y="433.3" font-size="48" fill="#efe9d8" text-anchor="middle">生</text>
+<text x="108" y="176.0" font-size="20" fill="#c2c6cd" text-anchor="middle">亚</text>
+<text x="108" y="201.0" font-size="20" fill="#c2c6cd" text-anchor="middle">当</text>
+<text x="108" y="226.0" font-size="20" fill="#c2c6cd" text-anchor="middle">·</text>
+<text x="108" y="251.0" font-size="20" fill="#c2c6cd" text-anchor="middle">密</text>
+<text x="108" y="276.0" font-size="20" fill="#c2c6cd" text-anchor="middle">茨</text>
+<text x="108" y="301.0" font-size="20" fill="#c2c6cd" text-anchor="middle">凯</text>
+<text x="108" y="326.0" font-size="20" fill="#c2c6cd" text-anchor="middle">维</text>
+<text x="108" y="351.0" font-size="20" fill="#c2c6cd" text-anchor="middle">奇</text>
+<line x1="108" y1="383.0" x2="108" y2="411" stroke="#cba45c" stroke-width="1" opacity="0.6"/>
+<rect x="306" y="491" width="52" height="31" rx="4" fill="#9e3223" opacity="0.94"/><rect x="309" y="494" width="46" height="25" rx="2" fill="none" stroke="#f2e6cf" stroke-width="0.8" opacity="0.7"/><text x="332.0" y="511.9" font-size="15" fill="#f2e6cf" text-anchor="middle" font-family="'Georgia','Times New Roman',serif">1834</text>
+</svg>

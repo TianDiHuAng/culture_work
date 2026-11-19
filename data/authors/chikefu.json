@@ -1,0 +1,63 @@
+{
+  "id": "chikefu",
+  "name": "安东·契诃夫",
+  "foreign_name": "Anton Chekhov（安东·契诃夫，1860-01-29—1904-07-14/15）",
+  "country": "俄国",
+  "birth": 1860,
+  "death": 1904,
+  "birth_year": 1860,
+  "death_year": 1904,
+  "era": "近代",
+  "summary": "契诃夫，塔甘罗格人，俄国剧作家与'现代短篇小说大师'（Britannica：master of the modern short story），以克制的、不动声色的写实著称（Britannica：laconic, understated realism）。医生出身（Britannica：A trained doctor）。'known for the principle in drama called Chekhov's gun'（戏剧中'契诃夫之枪'原则：故事中引入的每个元素都必须必要——Britannica）；'what is left unsaid seems much more important than what is said'（未说出的比说出的更重要——Britannica）。《樱桃果园》（1904）——'a poignant picture of Russian landowners in decline'（俄国地主没落的辛酸图景——B270），1904年1月17日莫斯科首演、约六个月后作者死于肺疾（B270）。",
+  "timeline": [
+    {
+      "year": 1860,
+      "text": "1月29日（儒历）生于塔甘罗格（Britannica）。",
+      "src": "B270"
+    },
+    {
+      "year": 1884,
+      "text": "医学院毕业（Britannica：Graduated medical school 1884）。",
+      "src": "B270"
+    },
+    {
+      "year": 1897,
+      "text": "肺出血（Britannica：Lung hemorrhage March 1897）。",
+      "src": "B270"
+    },
+    {
+      "year": 1904,
+      "text": "1月17日《樱桃果园》莫斯科首演（B270）；7月14/15日卒于巴登维勒（B270）。",
+      "src": "B270"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yingtaoyuan",
+      "note": "戏剧（Britannica：1904）"
+    },
+    {
+      "title": "海鸥、万尼亚舅舅",
+      "note": "（Britannica：Uncle Vanya (1897)）"
+    },
+    {
+      "title": "契诃夫短篇小说选",
+      "note": "（本库另条 qikefuxuan）"
+    }
+  ],
+  "style": [
+    "'契诃夫之枪'：元素的必要性（B270）。",
+    "'未说出的比说出的更重要'（B270）。",
+    "'deceptively simple technique'：貌似简单的技术（B270）。"
+  ],
+  "status": "Britannica 定位契诃夫为现代短篇小说大师、戏剧'契诃夫之枪'原则的来源（B270）。",
+  "sources": [
+    "B270"
+  ],
+  "dates_source": "B270",
+  "pending": [
+    "《海鸥》1896年彼得堡首演失败与1898年莫斯科艺术剧院成功说待核。",
+    "《樱桃果园》'喜剧'标签之争待核。",
+    "qikefuxuan 作品页与本页的关联补全。"
+  ]
+}

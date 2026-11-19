@@ -1,0 +1,109 @@
+{
+  "id": "niwanghechuqu",
+  "title": "你往何处去",
+  "original_title": "Quo Vadis: A Narrative of the Time of Nero",
+  "region": "波兰",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "长篇历史小说",
+  "genre_group": "小说",
+  "language": "波兰语",
+  "author_id": "sienkiewicz",
+  "author_name": "亨利克·显克维奇",
+  "year_display": "1896年出版（Britannica 语境；Nobel 1905）",
+  "year_sort": 1896,
+  "background": [
+    "Britannica（B269）：Quo Vadis?——'a historical novel set in Rome under Nero, which established Sienkiewicz's international reputation'（尼禄治下罗马的历史小说，确立其国际声誉）。",
+    "显克维奇 1905年诺奖（B269）。"
+  ],
+  "outline": [
+    "罗马将军维尼兹尤斯与基督教徒莉吉亚的爱情——尼禄焚城的暴政（通说待核）。",
+    "彼得的殉道：'主往何处去'（题解通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "维尼兹尤斯",
+      "identity": "罗马将领",
+      "note": "皈依者（通说待核）"
+    },
+    {
+      "name": "莉吉亚",
+      "identity": "基督教徒",
+      "note": "爱的对象（通说待核）"
+    },
+    {
+      "name": "尼禄",
+      "identity": "皇帝",
+      "note": "焚城暴君（通说待核）"
+    }
+  ],
+  "themes": [
+    "早期基督教与罗马暴政（通说）。",
+    "'你往何处去'的题解（通说待核——Quo vadis, Domine）。",
+    "历史小说的国际声誉（B269）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：确立国际声誉（established……international reputation）（B269）。",
+      "source": "B269"
+    },
+    {
+      "text": "1905年诺贝尔文学奖（B269）。",
+      "source": "B269"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "尼禄罗马史。",
+      "基督教早期术语。"
+    ],
+    "editions": [
+      "《你往何处去》（上海译文出版社林洪亮译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "显克维奇三部曲之外的第一站。"
+  },
+  "pending": [
+    "1896年出版（波兰《新闻报》连载说）核对。",
+    "维尼兹尤斯/莉吉亚人名核对。",
+    "林洪亮译本信息待核。"
+  ],
+  "sources": [
+    "B269"
+  ],
+  "year_source": "B269",
+  "author_source": "B269",
+  "related_works": [
+    "shenqu",
+    "zhanzheng",
+    "muqin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《你往何处去》罗马结构图",
+    "cards": [
+      {
+        "title": "尼禄焚城",
+        "text": "暴政的狂欢",
+        "color": "antagonist"
+      },
+      {
+        "title": "莉吉亚",
+        "text": "信仰的少女",
+        "color": "main"
+      },
+      {
+        "title": "维尼兹尤斯",
+        "text": "爱的皈依",
+        "color": "gold"
+      },
+      {
+        "title": "你往何处去",
+        "text": "彼得的回望（题解通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
