@@ -1,0 +1,68 @@
+{
+  "id": "duras",
+  "name": "玛格丽特·杜拉斯",
+  "foreign_name": "Marguerite Duras（玛格丽特·杜拉斯，本名玛格丽特·多纳迪厄，1914-04-04—1996-03-03）",
+  "country": "法国",
+  "birth": 1914,
+  "death": 1996,
+  "birth_year": 1914,
+  "death_year": 1996,
+  "era": "现当代",
+  "summary": "杜拉斯，生于印度支那嘉定（今越南），本名玛格丽特·多纳迪厄（Britannica：pseudonym of Marguerite Donnadieu），法国小说家、剧作家、编剧与导演——以《广岛之恋》（1959）与《印度之歌》（1975）的剧本及'获1984年龚古尔奖的小说《情人》'著称（Britannica）。童年在中南半岛度过（Britannica：spent her childhood in Indochina）。",
+  "timeline": [
+    {
+      "year": 1914,
+      "text": "4月4日生于印度支那嘉定（Britannica：Born April 4, 1914, Gia Dinh, Cochinchina [Vietnam]）。",
+      "src": "B229"
+    },
+    {
+      "year": 1959,
+      "text": "《广岛之恋》剧本（雷乃导演）（Britannica：Hiroshima mon amour (1959)）。",
+      "src": "B229"
+    },
+    {
+      "year": 1984,
+      "text": "《情人》获龚古尔奖（Britannica：won the prestigious Prix Goncourt in 1984）。",
+      "src": "B229"
+    },
+    {
+      "year": 1991,
+      "text": "改写为《来自中国北方的情人》（Britannica：L'Amant de la Chine du Nord (1991)）。",
+      "src": "B229"
+    },
+    {
+      "year": 1996,
+      "text": "3月3日卒于巴黎（Britannica：Died March 3, 1996, Paris）。",
+      "src": "B229"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qingren",
+      "note": "中长篇（Britannica：1984 龚古尔奖）"
+    },
+    {
+      "title": "广岛之恋、印度之歌",
+      "note": "剧本（Britannica）"
+    },
+    {
+      "title": "琴声如诉",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "极简与抽象：晚期转向'a more abstract and synthetic mode, with fewer characters, less plot and narrative'（Britannica）。",
+    "对白的敏锐：'This splendid instinct for dialogue'（Britannica）。",
+    "自传素材的反复改写：《情人》与《来自中国北方的情人》（Britannica）。"
+  ],
+  "status": "Britannica 定位杜拉斯为多面手（小说/戏剧/编剧/导演），《情人》为其国际声誉的顶点；其与'新小说'派的关系：她本人否认归入 nouveau roman（Britannica：though she denied any link to the nouveau roman movement）。",
+  "sources": [
+    "B229"
+  ],
+  "dates_source": "B229",
+  "pending": [
+    "《情人》1992年电影（让-雅克·阿诺导演）细节待核。",
+    "《抵挡太平洋的堤坝》1950年待核。",
+    "湄公河渡船场景的自传对应（《来自中国北方的情人》改写差异）待核。"
+  ]
+}

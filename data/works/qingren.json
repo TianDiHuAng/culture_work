@@ -1,0 +1,110 @@
+{
+  "id": "qingren",
+  "title": "情人",
+  "original_title": "L'Amant（The Lover）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "duras",
+  "author_name": "玛格丽特·杜拉斯",
+  "year_display": "1984年出版并获龚古尔奖（Britannica：L'Amant (1984; The Lover; film, 1992) won the prestigious Prix Goncourt in 1984）",
+  "year_sort": 1984,
+  "background": [
+    "Britannica：'The semiautobiographical story of L'Amant, about a French teenage girl's love affair with a Chinese man'（半自传：法国少女与中国男人的恋爱——Britannica）；1991年作者改写为《来自中国北方的情人》（Britannica）。",
+    "作者童年在中南半岛度过（Britannica：spent her childhood in Indochina）。"
+  ],
+  "outline": [
+    "湄公河渡船上：15岁半的法国少女与中国富商之子的相遇（通说）。",
+    "西贡的单间、家庭的敌意与殖民地的目光（通说）。",
+    "老年重逢电话：'他对她说，和过去一样，他依然爱她，他不能不爱'（结尾名句通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "少女（叙述者）",
+      "identity": "法国殖民地少女",
+      "note": "半自传性（Britannica）"
+    },
+    {
+      "name": "中国情人",
+      "identity": "富商之子",
+      "note": "比少女年长（Britannica：12岁——原文'12'years her senior）"
+    },
+    {
+      "name": "小哥哥",
+      "identity": "家人",
+      "note": "温情与阴影（通说待核）"
+    }
+  ],
+  "themes": [
+    "欲望与殖民的目光（通说）。",
+    "记忆的改写：1984年写作与1991年重写（Britannica）。",
+    "断裂句法的极简文体（Britannica：abstract and synthetic mode 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1984年龚古尔奖；《情人》电影1992年。",
+      "source": "B229"
+    },
+    {
+      "text": "对谈式/意识流式中文写作的示范效应（通说待核）。",
+      "source": "B229"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "人称漂移（我/她）。",
+      "碎片时序。"
+    ],
+    "editions": [
+      "王道乾译本（上海译文出版社，通说待核）。",
+      "法文原版（Minuit，通说待核）。"
+    ],
+    "order": "对照《来自中国北方的情人》：同一素材的两次讲述。"
+  },
+  "pending": [
+    "王道乾译本信息核对。",
+    "结尾原句核对。",
+    "1992年电影（让-雅克·阿诺）细节待核。"
+  ],
+  "sources": [
+    "B229"
+  ],
+  "year_source": "B229",
+  "author_source": "B229",
+  "related_works": [
+    "moshengnvrendelaixin",
+    "baofali",
+    "daluolaiwei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《情人》记忆改写结构图",
+    "cards": [
+      {
+        "title": "湄公河渡船",
+        "text": "15岁半的相遇",
+        "color": "main"
+      },
+      {
+        "title": "西贡单间",
+        "text": "殖民地的目光",
+        "color": "antagonist"
+      },
+      {
+        "title": "写作",
+        "text": "1984龚古尔（Britannica）",
+        "color": "gold"
+      },
+      {
+        "title": "1991重写",
+        "text": "来自中国北方的情人",
+        "color": "plain"
+      }
+    ]
+  }
+}

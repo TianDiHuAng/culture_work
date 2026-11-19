@@ -1,0 +1,68 @@
+{
+  "id": "dumaspere",
+  "name": "大仲马",
+  "foreign_name": "Alexandre Dumas père（亚历山大·仲马，'大仲马'，1802-07-24—1870-12-05）",
+  "country": "法国",
+  "birth": 1802,
+  "death": 1870,
+  "birth_year": 1802,
+  "death_year": 1870,
+  "era": "近代",
+  "summary": "大仲马，维莱科特雷人，19世纪法国'多产而受欢迎'的小说家——先以剧作家成名、后以历史小说家传世（Britannica：a highly prolific and popular 19th-century French writer……first as a dramatist and then as a historical novelist）。代表作《基督山伯爵》（1844—45）与《三个火枪手》（1844）（Britannica）；常与八月·马凯等合作者共同写作（Britannica：often working with collaborators (especially Auguste Maquet)）。其子小仲马亦为作家（Britannica：father of the writer Alexandre Dumas, fils）。",
+  "timeline": [
+    {
+      "year": 1802,
+      "text": "生于维莱科特雷（Britannica：Born July 24, 1802）。",
+      "src": "B224"
+    },
+    {
+      "year": 1844,
+      "text": "《三个火枪手》出版（Britannica：Les Trois Mousquetaires (published 1844)）。",
+      "src": "B224"
+    },
+    {
+      "year": 1844,
+      "text": "《基督山伯爵》连载（1844—45）（Britannica：Le Comte de Monte Cristo (1844–45)）。",
+      "src": "B224"
+    },
+    {
+      "year": 1850,
+      "text": "《黑郁金香》出版（Britannica：La Tulipe noire (1850)）。",
+      "src": "B224"
+    },
+    {
+      "year": 1870,
+      "text": "12月5日卒于迪耶普附近的皮伊（Britannica：Died December 5, 1870, Puys）。",
+      "src": "B224"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jidushanbojue",
+      "note": "长篇（Britannica：1844–45）"
+    },
+    {
+      "title": "三个火枪手及其续篇",
+      "note": "（Britannica：Vingt ans après (1845)；Bragelonne (1848–50)）"
+    },
+    {
+      "title": "亨利三世宫廷戏剧",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "历史小说的通俗化：真实历史+虚构人物的报章连载体（通说）。",
+    "情节机器：复仇与冒险的高效驱动（通说）。",
+    "合作工厂式写作：马凯提供史料骨架（Britannica：especially Auguste Maquet）。"
+  ],
+  "status": "Britannica 定位大仲马为19世纪最流行、最多产的法国作家之一；《基督山伯爵》与《三个火枪手》为其传世双璧；2002年其遗骸迁入先贤祠（通说待核）。",
+  "sources": [
+    "B224"
+  ],
+  "dates_source": "B224",
+  "pending": [
+    "《基督山伯爵》连载日期（1844—46《辩论报》说）核对。",
+    "马凯的分工争议（署名权）待核。",
+    "混血出身与《我的黑仆回忆录》争议待核。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "beauvoir",
+  "name": "西蒙娜·德·波伏瓦",
+  "foreign_name": "Simone de Beauvoir（西蒙娜·德·波伏瓦，1908-01-09—1986-04-14）",
+  "country": "法国",
+  "birth": 1908,
+  "death": 1986,
+  "birth_year": 1908,
+  "death_year": 1986,
+  "era": "现当代",
+  "summary": "波伏瓦，巴黎人，法国作家、存在主义哲学家与女性主义者——'known primarily for her treatise Le Deuxième Sexe, 2 vol. (1949; The Second Sex)'（以两卷本《第二性》最为著称——Britannica），该书是'为废除她所称的永恒女性神话而作的学术而热情的呼吁'（Britannica：a scholarly and passionate plea for the abolition of what she called the myth of the eternal feminine），'已成为女性主义文学的经典'（Britannica：It became a classic of feminist literature）。1929年通过哲学教师资格并结识萨特，开始终身相伴（Britannica）。",
+  "timeline": [
+    {
+      "year": 1908,
+      "text": "1月9日生于巴黎（Britannica：Born January 9, 1908, Paris）。",
+      "src": "B232"
+    },
+    {
+      "year": 1929,
+      "text": "通过哲学agrégation考试，结识萨特（Britannica：passed her agrégation in philosophy and met Jean-Paul Sartre）。",
+      "src": "B232"
+    },
+    {
+      "year": 1945,
+      "text": "与萨特等创办《现代》杂志（Britannica：co-founded the journal Les Temps Modernes；年份通说待核）。",
+      "src": "B232"
+    },
+    {
+      "year": 1949,
+      "text": "《第二性》两卷出版（Britannica：1949）。",
+      "src": "B232"
+    },
+    {
+      "year": 1986,
+      "text": "4月14日卒于巴黎（Britannica：died April 14, 1986, Paris）。",
+      "src": "B232"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "dierxing",
+      "note": "论著（Britannica：1949）"
+    },
+    {
+      "title": "名士风流、人都是要死的",
+      "note": "小说（通说待核）"
+    },
+    {
+      "title": "一个规矩女人的回忆录",
+      "note": "自传（通说待核）"
+    }
+  ],
+  "style": [
+    "存在主义女性主义：'女人不是天生的，而是后天形成的'（名句通说待核——One is not born, but rather becomes, a woman）。",
+    "哲学论辩与个案叙事的结合（Britannica 语境：scholarly and passionate）。",
+    "自传四部曲与小说并行（通说待核）。"
+  ],
+  "status": "Britannica 定位波伏瓦为《第二性》作者——女性主义文学经典（classic of feminist literature——Britannica）；1953年英译遭严重删节、2009年新译方补全原文（Britannica），这一版本史是理解该书的重要背景。",
+  "sources": [
+    "B232"
+  ],
+  "dates_source": "B232",
+  "pending": [
+    "'One is not born, but rather becomes, a woman'原文（第二性第二卷开篇）核对。",
+    "《现代》杂志创刊1945年核对。",
+    "《模糊性的道德》1947年待核。"
+  ]
+}

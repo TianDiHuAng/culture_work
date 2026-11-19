@@ -1,0 +1,116 @@
+{
+  "id": "genjiwuyu",
+  "title": "源氏物语",
+  "original_title": "源氏物语（The Tale of Genji）",
+  "region": "日本",
+  "era": "古代",
+  "era_detail": "平安时代",
+  "genre": "长篇物语",
+  "genre_group": "小说",
+  "language": "日语（王朝文体）",
+  "author_id": "murasakishikibu",
+  "author_name": "紫式部",
+  "year_display": "约1010年完成（Britannica：likely completing it about 1010）",
+  "year_sort": 1010,
+  "background": [
+    "Britannica：'Written at the start of the 11th century, it is generally considered the world's first novel'——一般被视为世界最早的长篇小说。",
+    "Britannica（作者页）：'generally considered the greatest work of Japanese literature and thought to be the world's oldest full novel'（日本文学最高杰作）。"
+  ],
+  "outline": [
+    "'Most of the story concerns the loves of Genji, and each of the women in his life is vividly delineated'（源氏的爱恋与诸位女性的生动刻画——Britannica）；共54章（Britannica：54 chapters of one character and his legacy）。",
+    "后半部：宇治十帖（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "光源氏",
+      "identity": "皇子·廷臣",
+      "note": "'handsome, sensitive, gifted courtier'（Britannica）"
+    },
+    {
+      "name": "紫之上",
+      "identity": "伴侣",
+      "note": "女主人公（通说）"
+    },
+    {
+      "name": "藤壶",
+      "identity": "父帝女御",
+      "note": "禁忌之恋的原点（通说待核）"
+    },
+    {
+      "name": "浮舟",
+      "identity": "宇治十帖主人公",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "宫廷恋爱的荣光与代价（Britannica 语境）。",
+    "'物哀'——哀感的审美（通说待核——本居宣长提出）。",
+    "中日诗歌修养的织体：'informed by a comprehensive knowledge of Chinese and Japanese poetry'（Britannica）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：世界最早的长篇小说（world's first novel）；54章贯穿'one character and his legacy'。",
+      "source": "B226"
+    },
+    {
+      "text": "Britannica（作者页）：日本文学的最高杰作（the greatest work of Japanese literature）。",
+      "source": "B227"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "平安朝称谓与官职。",
+      "和歌穿插——引文需读出声。",
+      "人物五代谱系——先画世系图。"
+    ],
+    "editions": [
+      "丰子恺译本（人民文学出版社，通说待核）。",
+      "林文月译本（纯文学出版社/译林，通说待核）。"
+    ],
+    "order": "前三十章通读 → 宇治十帖（浮舟）→ 回读桐壶。"
+  },
+  "pending": [
+    "丰子恺/林文月译本出版信息核对。",
+    "宇治十帖章数（45—54）核对。",
+    "本居宣长'物哀'论出处核对。"
+  ],
+  "sources": [
+    "B226",
+    "B227"
+  ],
+  "year_source": "B226",
+  "author_source": "B227",
+  "related_works": [
+    "honglou",
+    "xixue",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《源氏物语》结构图",
+    "cards": [
+      {
+        "title": "桐壶",
+        "text": "禁忌之恋的原点",
+        "color": "family"
+      },
+      {
+        "title": "光源氏",
+        "text": "荣华与爱恋",
+        "color": "main"
+      },
+      {
+        "title": "女人们",
+        "text": "逐一生动刻画（Britannica）",
+        "color": "gold"
+      },
+      {
+        "title": "宇治十帖",
+        "text": "后代的余音",
+        "color": "plain"
+      }
+    ]
+  }
+}

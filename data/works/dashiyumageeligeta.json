@@ -1,0 +1,115 @@
+{
+  "id": "dashiyumageeligeta",
+  "title": "大师与玛格丽特",
+  "original_title": "Мастер и Маргарита（The Master and Margarita）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "苏联时期",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "bulgakov",
+  "author_name": "米哈伊尔·布尔加科夫",
+  "year_display": "1928—1940年写作；1966—67年于苏联删节出版（Britannica）",
+  "year_sort": 1966,
+  "background": [
+    "Britannica：'Witty and ribald, and at the same time a penetrating philosophical novel wrestling with profound and eternal problems'（俏皮放达、又是与永恒难题缠斗的深邃哲思小说）。",
+    "出版史：'published in the Soviet Union only in 1966–67, and then in an egregiously censored form'（死后删节版——Britannica）。"
+  ],
+  "outline": [
+    "双面并置：'juxtaposes two planes of action——one set in contemporary Moscow and the other in Pontius Pilate's Judea'（Britannica）。",
+    "魔鬼线：'The central character is the Devil—disguised as Professor Woland—who descends upon Moscow with his purgative'（魔鬼沃兰德降临莫斯科——Britannica）。",
+    "大师线：禁焚的手稿与玛格丽特的飞行（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "沃兰德",
+      "identity": "魔鬼",
+      "note": "化名教授（Britannica）"
+    },
+    {
+      "name": "大师",
+      "identity": "作家",
+      "note": "手稿的作者（通说）"
+    },
+    {
+      "name": "玛格丽特",
+      "identity": "大师之爱人",
+      "note": "魔鬼舞会女王（通说）"
+    },
+    {
+      "name": "彼拉多",
+      "identity": "犹太大总督",
+      "note": "耶路撒冷线（通说）"
+    }
+  ],
+  "themes": [
+    "善与恶：撒旦之善（通说）。",
+    "苏联社会的讽刺（Britannica：satire of Soviet society）。",
+    "'手稿不会烧毁'——创作的不灭（名句通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：布尔加科夫以幽默与犀利讽刺著称；《大师与玛格丽特》为其杰作（语境）。",
+      "source": "B225"
+    },
+    {
+      "text": "死后出版的世界性声誉：1966—67年删节版之后的完整化历程（通说待核）。",
+      "source": "B225"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双城线切换。",
+      "苏联文艺界讽刺的真人影射（通说）。"
+    ],
+    "editions": [
+      "钱诚译本（人民文学出版社，通说待核）。",
+      "高惠勤等译本（通说待核）。"
+    ],
+    "order": "先莫斯科线通读 → 回读彼拉多线 → 复看舞会章。"
+  },
+  "pending": [
+    "沃兰德随从（卡罗维耶夫/河马/阿佐泽洛）人名核对。",
+    "1969年法兰克福全本版细节待核。",
+    "'手稿不会烧毁'原文核对。"
+  ],
+  "sources": [
+    "B225"
+  ],
+  "year_source": "B225",
+  "author_source": "B225",
+  "related_works": [
+    "shenpan",
+    "exin",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《大师与玛格丽特》双城结构图",
+    "cards": [
+      {
+        "title": "莫斯科",
+        "text": "沃兰德降临",
+        "color": "antagonist"
+      },
+      {
+        "title": "耶路撒冷",
+        "text": "彼拉多的审判",
+        "color": "family"
+      },
+      {
+        "title": "大师与玛格丽特",
+        "text": "手稿与舞会",
+        "color": "main"
+      },
+      {
+        "title": "永恒的庇所",
+        "text": "结局（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

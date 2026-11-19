@@ -1,0 +1,64 @@
+{
+  "id": "murasakishikibu",
+  "name": "紫式部",
+  "foreign_name": "Murasaki Shikibu（紫式部，约978—约1014）",
+  "country": "日本",
+  "birth": 978,
+  "death": 1014,
+  "birth_year": 978,
+  "death_year": 1014,
+  "era": "古代",
+  "summary": "紫式部，京都人，平安时代宫廷女官——'Murasaki Shikibu composed The Tale of Genji while a lady in attendance at the Japanese court, likely completing it about 1010'（约1010年完成《源氏物语》——Britannica）。真名不详：'Murasaki'或来自其书中女主人公、'Shikibu'来自父亲在式部省的官职（Britannica）。其作被普遍视为'generally considered the greatest work of Japanese literature and thought to be the world's oldest full novel'（日本文学最高杰作、世界最早完整长篇小说——Britannica）。另著《紫式部日记》（Britannica：英译见 1935 年《Diaries of Court Ladies of Old Japan》）。",
+  "timeline": [
+    {
+      "year": 978,
+      "text": "约生于京都（Britannica：Born c. 978, Kyōto）。",
+      "src": "B227"
+    },
+    {
+      "year": 1005,
+      "text": "入宫侍奉皇后（彰子/一条院皇后说——通说待核；Britannica：served 女院）。",
+      "src": "B227"
+    },
+    {
+      "year": 1010,
+      "text": "《源氏物语》约于此年完成（Britannica：likely completing it about 1010）。",
+      "src": "B226"
+    },
+    {
+      "year": 1014,
+      "text": "约卒于京都（Britannica：died c. 1014）。",
+      "src": "B227"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "genjiwuyu",
+      "note": "物语（Britannica：c. 1010）"
+    },
+    {
+      "title": "紫式部日记",
+      "note": "（Britannica：Diaries of Court Ladies of Old Japan 1935 英译）"
+    },
+    {
+      "title": "紫式部集",
+      "note": "和歌集（通说待核）"
+    }
+  ],
+  "style": [
+    "'物哀'美学的源头：王朝女性的敏感与哀感（通说待核——'物哀'概念出自本居宣长）。",
+    "宫廷心理写实：以细腻笔触写恋爱与权力（Britannica 语境：each of the women in his life is vividly delineated）。",
+    "中日文学的融汇：'informed by a comprehensive knowledge of Chinese and Japanese poetry'（Britannica）。"
+  ],
+  "status": "Britannica 定位紫式部为《源氏物语》作者——该书'generally considered the greatest work of Japanese literature and thought to be the world's oldest full novel'；她亦是平安时代宫廷日记与和歌的重要作者。",
+  "sources": [
+    "B226",
+    "B227"
+  ],
+  "dates_source": "B227",
+  "pending": [
+    "生卒约年（978/1014）与父亲藤原为时的官职细节核对。",
+    "侍奉中宫彰子（一条天皇中宫）与 Britannica'女院'表述的对应核对。",
+    "'物哀'概念出处（本居宣长《源氏物语玉的小栉》）待核。"
+  ]
+}

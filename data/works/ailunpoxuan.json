@@ -1,0 +1,105 @@
+{
+  "id": "ailunpoxuan",
+  "title": "爱伦·坡短篇小说选",
+  "original_title": "爱伦·坡短篇小说选（通行选集）",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "短篇小说选集",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "poe",
+  "author_name": "埃德加·爱伦·坡",
+  "year_display": "篇作于1833—1849年间；《默格街血案》1841年（Britannica：initiated the modern detective story）",
+  "year_sort": 1841,
+  "background": [
+    "Britannica：坡为现代侦探小说开创者——'The Murders in the Rue Morgue (1841) initiated the modern detective story'；'the atmosphere in his tales of horror is unrivaled in American fiction'。",
+    "诗《乌鸦》1845年1月29日刊于《纽约镜报》、一夜成名（Britannica：brought him national fame at once）。"
+  ],
+  "outline": [
+    "侦探系：《默格街血案》《失窃的信》（杜宾——通说）。",
+    "恐怖系：《厄舍府的倒塌》《黑猫》《泄密的心》《红死病的假面舞会》（Britannica：stories of supernatural horror——通说篇目）。",
+    "诗《乌鸦》：18节六行诗、abcbbb韵式'enhances the gloom of the lyric'（Britannica）。"
+  ],
+  "characters": [
+    {
+      "name": "杜宾",
+      "identity": "业余侦探",
+      "note": "福尔摩斯的原型（通说）"
+    },
+    {
+      "name": "厄舍府主人",
+      "identity": "没落贵族",
+      "note": "《厄舍府的倒塌》（通说）"
+    }
+  ],
+  "themes": [
+    "单一效果的短篇美学（通说待核——unity of effect）。",
+    "死亡与活埋、疯狂的心理恐怖（通说）。",
+    "侦探方法的理性之光（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：开创现代侦探小说（pioneering the modern detective story）。",
+      "source": "B221"
+    },
+    {
+      "text": "Britannica：对科幻文类的早期重要贡献（a significant early contributor to the science fiction genre）。",
+      "source": "B221"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "第一人称不可靠叙述。",
+      "坡的哥特修辞密度。"
+    ],
+    "editions": [
+      "《爱伦·坡短篇小说集》（上海译文出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《默格街血案》→《厄舍府的倒塌》→《黑猫》《泄密的心》→《乌鸦》。"
+  },
+  "pending": [
+    "各篇首刊年份逐篇核对。",
+    "《创作哲学》'unity of effect'原文核对。",
+    "波德莱尔法译本1856年待核。"
+  ],
+  "sources": [
+    "B221"
+  ],
+  "year_source": "B221",
+  "author_source": "B221",
+  "related_works": [
+    "huxiaoshanzhuang",
+    "daotadengqu",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "爱伦·坡短篇双系结构图",
+    "cards": [
+      {
+        "title": "杜宾探案",
+        "text": "默格街·失窃的信",
+        "color": "main"
+      },
+      {
+        "title": "厄舍府",
+        "text": "哥特恐怖（Britannica）",
+        "color": "antagonist"
+      },
+      {
+        "title": "黑猫·泄密的心",
+        "text": "疯狂自白",
+        "color": "gold"
+      },
+      {
+        "title": "乌鸦",
+        "text": "1845年一夜成名",
+        "color": "family"
+      }
+    ]
+  }
+}

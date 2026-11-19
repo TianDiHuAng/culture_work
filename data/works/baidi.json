@@ -1,0 +1,111 @@
+{
+  "id": "baidi",
+  "title": "白痴",
+  "original_title": "Идиот（The Idiot）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "dostoevsky",
+  "author_name": "费奥多尔·陀思妥耶夫斯基",
+  "year_display": "1868—1869年连载发表（Britannica：published in Russian as Idiot in 1868–69）",
+  "year_sort": 1868,
+  "background": [
+    "Britannica：'The story involves the unsettling effect of the primitive Prince Myshkin on the sophisticated, conservative Yepanchin family'（'原始'的梅什金公爵给世故保守的叶潘钦家带来的不安）。",
+    "Britannica：梅什金的信息——'message of service, compassion, and brotherly love finally fails'（服务、同情与兄弟之爱的讯息最终失败）。"
+  ],
+  "outline": [
+    "梅什金公爵自瑞士疗养归彼得堡——纯真者闯入名利场（通说）。",
+    "娜斯塔霞·菲利波夫娜的生日夜：十万元焚烧一幕（通说待核）。",
+    "结局：罗戈任杀死娜斯塔霞，梅什金重归痴呆（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "梅什金公爵",
+      "identity": "'白痴'",
+      "note": "纯真的局外人（Britannica 语境）"
+    },
+    {
+      "name": "娜斯塔霞",
+      "identity": "没落贵族之女",
+      "note": "被侮辱者（通说）"
+    },
+    {
+      "name": "罗戈任",
+      "identity": "商人之子",
+      "note": "激情的占有者（通说）"
+    }
+  ],
+  "themes": [
+    "基督式的纯真在世俗中的失败（Britannica：his message……finally fails）。",
+    "美将拯救世界？——争议命题（通说待核）。",
+    "金钱与羞辱的剧场（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1868—69年连载；梅什金的'不安效应'为全书枢纽。",
+      "source": "B230"
+    },
+    {
+      "text": "'白痴'式的圣愚传统在俄国文学中的再现（通说待核）。",
+      "source": "B230"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "人物众多——先画人物表。",
+      "十九世纪彼得堡社交礼仪。"
+    ],
+    "editions": [
+      "荣如德译本（上海译文出版社，通说待核）。",
+      "耿济之译本（人民文学出版社，通说待核）。"
+    ],
+    "order": "可与《罪与罚》对读：理性犯罪 vs 纯真受难。"
+  },
+  "pending": [
+    "生日夜焚烧十万卢布情节核对。",
+    "'美将拯救世界'原文出处核对。",
+    "癫痫发作描写与作者自病经历的关系待核。"
+  ],
+  "sources": [
+    "B230",
+    "B042"
+  ],
+  "year_source": "B230",
+  "author_source": "B230",
+  "related_works": [
+    "zuiyufa",
+    "kalamasuofu",
+    "sihunling"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《白痴》三人结构图",
+    "cards": [
+      {
+        "title": "梅什金",
+        "text": "纯真的闯入者",
+        "color": "main"
+      },
+      {
+        "title": "娜斯塔霞",
+        "text": "被侮辱的美",
+        "color": "family"
+      },
+      {
+        "title": "罗戈任",
+        "text": "激情的占有",
+        "color": "antagonist"
+      },
+      {
+        "title": "失败",
+        "text": "兄弟之爱的落空（Britannica）",
+        "color": "gold"
+      }
+    ]
+  }
+}

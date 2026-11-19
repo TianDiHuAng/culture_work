@@ -1,0 +1,158 @@
+{
+  "id": "baijing",
+  "title": "白鲸",
+  "original_title": "Moby-Dick; or, The Whale",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "melville",
+  "author_name": "赫尔曼·梅尔维尔",
+  "year_display": "1851年出版（Britannica：Moby Dick (1851)）",
+  "year_sort": 1851,
+  "background": [
+    "Britannica：'best known for his novels of the sea, including his masterpiece, Moby Dick (1851)'——海洋小说的杰作。",
+    "素材来源：作者1841年乘捕鲸船阿库什奈号的南太平洋航行（Britannica：Acushnet sailing January 1841）。"
+  ],
+  "outline": [
+    "以实玛利随裴廓德号出航——亚哈船长追猎咬断他一条腿的白鲸莫比·迪克（通说）。",
+    "全书编织捕鲸业百科（鲸类学章）与三大预言者、圣火夜、最后三日的追猎（通说）。",
+    "结局：白鲸撞沉裴廓德号，亚哈被鱼线缠住拖入海中；以实玛利靠棺材浮桶生还（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "亚哈船长",
+      "identity": "捕鲸船长",
+      "note": "复仇的偏执狂（通说）"
+    },
+    {
+      "name": "以实玛利",
+      "identity": "水手·叙述者",
+      "note": "唯一生还者"
+    },
+    {
+      "name": "莫比·迪克",
+      "identity": "白鲸",
+      "note": "自然的谜题（通说）"
+    },
+    {
+      "name": "魁魁格",
+      "identity": "标枪手",
+      "note": "食人岛王子（通说）"
+    }
+  ],
+  "themes": [
+    "复仇与执念的毁灭性（通说）。",
+    "自然的不可知：白鲸的白色之谜（通说）。",
+    "民主的船：多元族裔水手的浮世（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：20世纪初其作品声誉飙升，'eventually considered to be one of the great American writers'。",
+      "source": "B220"
+    },
+    {
+      "text": "Britannica：《白鲸》为其杰作（masterpiece）。",
+      "source": "B220"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "鲸类学百科章——可跳读再回补。",
+      "圣经/莎士比亚典故密度。"
+    ],
+    "editions": [
+      "曹庸译本（长江文艺出版社，通说待核）。",
+      "成时译本（人民文学出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先读第1、36、42章（戏白鲸出现）与最后三章 → 补百科章。"
+  },
+  "pending": [
+    "英国版1851年10月《The Whale》与美国版11月《Moby-Dick》差异待核。",
+    "题献霍桑细节待核。",
+    "《水手比利·巴德》遗稿待核。"
+  ],
+  "sources": [
+    "B220"
+  ],
+  "year_source": "B220",
+  "author_source": "B220",
+  "related_works": [
+    "hakebei",
+    "hongzi",
+    "fenwangyu"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《白鲸》追猎结构图",
+    "nodes": [
+      {
+        "id": "ahab",
+        "label": "亚哈船长",
+        "x": 340,
+        "y": 115,
+        "color": "antagonist",
+        "sub": "复仇者"
+      },
+      {
+        "id": "ishmael",
+        "label": "以实玛利",
+        "x": 140,
+        "y": 115,
+        "color": "main",
+        "sub": "叙述者"
+      },
+      {
+        "id": "moby",
+        "label": "白鲸",
+        "x": 540,
+        "y": 115,
+        "color": "family",
+        "sub": "猎物·谜"
+      },
+      {
+        "id": "pequod",
+        "label": "裴廓德号",
+        "x": 230,
+        "y": 330,
+        "color": "plain",
+        "sub": "捕鲸船"
+      },
+      {
+        "id": "ahab2",
+        "label": "最后三日追猎",
+        "x": 460,
+        "y": 330,
+        "color": "gold",
+        "sub": "同归于尽"
+      }
+    ],
+    "edges": [
+      {
+        "a": "ahab",
+        "b": "moby",
+        "label": "宿仇"
+      },
+      {
+        "a": "ishmael",
+        "b": "pequod",
+        "label": "上船"
+      },
+      {
+        "a": "ahab",
+        "b": "pequod",
+        "label": "统率"
+      },
+      {
+        "a": "moby",
+        "b": "ahab2",
+        "label": "决战"
+      }
+    ]
+  }
+}

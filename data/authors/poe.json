@@ -1,0 +1,68 @@
+{
+  "id": "poe",
+  "name": "埃德加·爱伦·坡",
+  "foreign_name": "Edgar Allan Poe（埃德加·爱伦·坡，1809-01-19—1849-10-07）",
+  "country": "美国",
+  "birth": 1809,
+  "death": 1849,
+  "birth_year": 1809,
+  "death_year": 1849,
+  "era": "近代",
+  "summary": "爱伦·坡，波士顿人，美国短篇小说家、诗人、批评家与编辑，以神秘、恐怖与死亡题材著称，被视为现代侦探小说的开创者（Britannica：renowned for tales of mystery, horror, and the macabre, and for pioneering the modern detective story）。'其恐怖小说的氛围在美国小说中无可匹敌'（Britannica：the atmosphere in his tales of horror is unrivaled in American fiction）。1845年《乌鸦》一夜成名（Britannica：brought him national fame at once）。",
+  "timeline": [
+    {
+      "year": 1809,
+      "text": "生于波士顿（Britannica：Born January 19, 1809, Boston）。",
+      "src": "B221"
+    },
+    {
+      "year": 1841,
+      "text": "《默格街血案》发表——现代侦探小说的开端（Britannica：initiated the modern detective story）。",
+      "src": "B221"
+    },
+    {
+      "year": 1845,
+      "text": "1月29日《乌鸦》刊于《纽约镜报》全国成名（Britannica）。",
+      "src": "B221"
+    },
+    {
+      "year": 1847,
+      "text": "妻子弗吉尼亚死于肺结核（Britannica：Virginia died January 1847）。",
+      "src": "B221"
+    },
+    {
+      "year": 1849,
+      "text": "10月7日卒于巴尔的摩（Britannica：Died October 7, 1849）。",
+      "src": "B221"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "ailunpoxuan",
+      "note": "短篇选（本库立目）"
+    },
+    {
+      "title": "乌鸦及其他诗",
+      "note": "（Britannica：The Raven, 1845）"
+    },
+    {
+      "title": "莫雷拉、莉姬",
+      "note": "哥特短篇（通说待核）"
+    }
+  ],
+  "style": [
+    "'效果论'：短篇写作以单一效果为纲（通说待核——'unity of effect'出自其《创作哲学》）。",
+    "哥特恐怖与现代侦探的双开山（Britannica：developing the Gothic horror story；pioneering the modern detective story）。",
+    "对欧洲浪漫主义的美国化改造（Britannica：transform European Romantic literary traditions into a distinctly American form）。"
+  ],
+  "status": "Britannica 定位爱伦·坡为现代侦探小说开创者、哥特恐怖大师、科幻早期重要贡献者；其对波德莱尔以降法国象征主义的深远影响为通说（待核）。",
+  "sources": [
+    "B221"
+  ],
+  "dates_source": "B221",
+  "pending": [
+    "《创作哲学》与《诗歌原理》原文核对。",
+    "波德莱尔1856年法译《奇异故事集》细节待核。",
+    "死因（'cooping'选举斗殴说）待核。"
+  ]
+}

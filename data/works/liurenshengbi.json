@@ -1,0 +1,104 @@
+{
+  "id": "liurenshengbi",
+  "title": "猎人笔记",
+  "original_title": "Записки охотника（A Sportsman's Sketches，又译《猎人手记》）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "turgenev",
+  "author_name": "伊万·谢尔盖耶维奇·屠格涅夫",
+  "year_display": "1852年首版（Britannica：first published in Russian as Zapiski okhotnika in 1852），1870年代增补",
+  "year_sort": 1852,
+  "background": [
+    "Britannica：'The stories concern life in rural Russia, in particular the relationship between landowners and their serfs'（俄国乡村生活——尤其地主与农奴的关系）。",
+    "视角：以猎人行脚串起诸篇；农奴的形象'always circumscribed by their serfdom'（总被农奴制框限——Britannica）。"
+  ],
+  "outline": [
+    "名篇：《霍尔和卡里内奇》（首篇）、《白净草原》、《木木》、《总管》（篇目通说待核）。",
+    "地主群像与农奴群像的对位（Britannica 语境）。"
+  ],
+  "characters": [
+    {
+      "name": "霍尔与卡里内奇",
+      "identity": "两个农奴",
+      "note": "理性与诗性双像（首篇，通说）"
+    },
+    {
+      "name": "猎人",
+      "identity": "叙述者",
+      "note": "行脚视角"
+    }
+  ],
+  "themes": [
+    "农奴制的日常残酷：以'风景'写'制度'（通说）。",
+    "人性的尊严在底层（通说）。",
+    "俄罗斯自然风景的抒情化（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1852年初版——屠格涅夫第一部获得广泛承认的重要作品（语境）。",
+      "source": "B231"
+    },
+    {
+      "text": "对俄国农奴制舆论的影响（通说待核——1861年废除农奴制的背景常被联系到本书）。",
+      "source": "B231"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "俄罗斯农奴制历史背景注释。",
+      "散文化的篇幅结构。"
+    ],
+    "editions": [
+      "丰子恺译本（译文名著精选，通说待核）。",
+      "力冈译本（通说待核）。"
+    ],
+    "order": "先读《霍尔和卡里内奇》《白净草原》→《木木》。"
+  },
+  "pending": [
+    "《木木》是否属初版（1852增订情况）待核。",
+    "丰子恺译本信息核对。",
+    "亚历山大二世受本书影响说（史料出处）待核。"
+  ],
+  "sources": [
+    "B231"
+  ],
+  "year_source": "B231",
+  "author_source": "B231",
+  "related_works": [
+    "fuyuzi",
+    "nahan",
+    "qikefuxuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《猎人笔记》地主—农奴对位图",
+    "cards": [
+      {
+        "title": "霍尔与卡里内奇",
+        "text": "首篇双像",
+        "color": "main"
+      },
+      {
+        "title": "地主群像",
+        "text": "《总管》等（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "农奴群像",
+        "text": "尊严与屈辱",
+        "color": "gold"
+      },
+      {
+        "title": "白净草原",
+        "text": "夜与自然",
+        "color": "family"
+      }
+    ]
+  }
+}

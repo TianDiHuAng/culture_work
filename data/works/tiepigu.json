@@ -1,0 +1,110 @@
+{
+  "id": "tiepigu",
+  "title": "铁皮鼓",
+  "original_title": "Die Blechtrommel（The Tin Drum）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "grass",
+  "author_name": "君特·格拉斯",
+  "year_display": "1959年出版（Britannica：1959）",
+  "year_sort": 1959,
+  "background": [
+    "Britannica：'This exuberant picaresque novel, written in a variety of styles, imaginatively distorts and exaggerates his personal experiences'（多风格的狂想流浪汉小说，对个人经历作想象性的扭曲与夸大）。",
+    "但泽三部曲之首：后接《猫与鼠》（1961）与《狗年月》（1963）（Britannica）。"
+  ],
+  "outline": [
+    "奥斯卡·马策拉特——'a dwarf who narrates from an asylum'（精神病院里 narrate 的侏儒——Britannica）；三岁生日自决停止生长，以铁皮鼓与尖叫记录但泽的纳粹化年代（通说+Britannica 语境：the creeping Nazification of average families）。",
+    "波兰走廊/但泽的多语环境：'the Polish-German dualism of Danzig……the attrition of the war years'（Britannica）。",
+    "结局：奥斯卡被控杀人进疗养院，以叙述自我清算（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥斯卡·马策拉特",
+      "identity": "侏儒·叙述者",
+      "note": "鼓与碎玻璃嗓（Britannica+通说）"
+    },
+    {
+      "name": "阿格内斯",
+      "identity": "母亲",
+      "note": "两个父亲的故事（通说待核）"
+    },
+    {
+      "name": "布朗斯基",
+      "identity": "表舅",
+      "note": "波兰认同（通说待核）"
+    }
+  ],
+  "themes": [
+    "小丑的见证：拒绝长大的拒绝服从（通说）。",
+    "日常家庭的纳粹化（Britannica）。",
+    "多风格拼贴：童话/歌德式/编年史（Britannica：variety of styles）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：格拉斯成为'在纳粹之下成年的一代德国人的文学声音'（语境）；1999年诺奖。",
+      "source": "B228"
+    },
+    {
+      "text": "1979年施隆多夫电影版获戛纳金棕榈（与《现代启示录》并列）与奥斯卡最佳外语片（Britannica）。",
+      "source": "B228"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "奥斯卡的第一人称三视角（我/他/奥斯卡——通说待核）。",
+      "但泽德语-波兰语-卡舒比语地名。"
+    ],
+    "editions": [
+      "胡其鼎译本（漓江出版社/上海译文，通说待核）。",
+      "德文原版（Steidl，通说待核）。"
+    ],
+    "order": "对照《猫与鼠》《狗年月》补全但泽世界。"
+  },
+  "pending": [
+    "三视角（第一/第二/第三视角章法）核对。",
+    "《剥洋葱》2006年党卫军争议与本书的关系待核。",
+    "奥斯卡身高三英尺与'九岁'心智设定核对。"
+  ],
+  "sources": [
+    "B228"
+  ],
+  "year_source": "B228",
+  "author_source": "B228",
+  "related_works": [
+    "wuhao",
+    "renjianshige",
+    "dongwunongchang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《铁皮鼓》但泽岁月结构图",
+    "cards": [
+      {
+        "title": "三岁停长",
+        "text": "拒绝进入成人世界",
+        "color": "main"
+      },
+      {
+        "title": "铁皮鼓与尖叫",
+        "text": "玻璃的武器",
+        "color": "gold"
+      },
+      {
+        "title": "但泽",
+        "text": "德波双重世界（Britannica）",
+        "color": "family"
+      },
+      {
+        "title": "疗养院",
+        "text": "叙述的现场",
+        "color": "plain"
+      }
+    ]
+  }
+}

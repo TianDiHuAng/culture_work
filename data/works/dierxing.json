@@ -1,0 +1,100 @@
+{
+  "id": "dierxing",
+  "title": "第二性",
+  "original_title": "Le Deuxième Sexe（The Second Sex）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "哲学论著",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "beauvoir",
+  "author_name": "西蒙娜·德·波伏瓦",
+  "year_display": "1949年两卷出版（Britannica：Le Deuxième Sexe, 2 vol. (1949; The Second Sex)）",
+  "year_sort": 1949,
+  "background": [
+    "Britannica：'a scholarly and passionate plea for the abolition of what she called the myth of the eternal feminine'（为废除永恒女性神话而作的学术而热情的呼吁）；'It became a classic of feminist literature'（已成女性主义文学经典——Britannica）。",
+    "版本史（Britannica）：1953年英译遭严重删节；2009年新译首次完整呈现原文。"
+  ],
+  "outline": [
+    "卷一《事实与神话》：生物学/精神分析/历史唯物论的批判+神话分析（通说待核）。",
+    "卷二《实际体验》：女性从童年到老年的处境书写（通说待核）。",
+    "核心命题：女人是'第二性'——他者化的产物（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "波伏瓦",
+      "identity": "论者",
+      "note": "以哲学与个案双轨写作"
+    }
+  ],
+  "themes": [
+    "'永恒女性'神话的解构（Britannica）。",
+    "处境论：性别是被造就的（通说；名句'One is not born, but rather becomes, a woman'待核）。",
+    "身体、劳动与自由的处境分析（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：女性主义文学经典（classic of feminist literature）。",
+      "source": "B232"
+    },
+    {
+      "text": "对20世纪60年代以降女性主义运动的理论奠基（通说待核）。",
+      "source": "B232"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哲学与生物学的跨学科密度。",
+      "1953年英译删节问题——读2009年后新译。"
+    ],
+    "editions": [
+      "郑克鲁译本（上海译文出版社，通说待核）。",
+      "桑竹影/南珊早期译本（对照版本史）。"
+    ],
+    "order": "先读卷二导言与开篇（名句所在）→ 卷一神话章。"
+  },
+  "pending": [
+    "'One is not born, but rather becomes, a woman'原文核对。",
+    "郑克鲁译本信息核对。",
+    "《现代》杂志1945年创刊核对。"
+  ],
+  "sources": [
+    "B232"
+  ],
+  "year_source": "B232",
+  "author_source": "B232",
+  "related_works": [
+    "exin",
+    "mudanting",
+    "shinv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《第二性》两卷结构图",
+    "cards": [
+      {
+        "title": "卷一",
+        "text": "事实与神话",
+        "color": "family"
+      },
+      {
+        "title": "卷二",
+        "text": "实际体验",
+        "color": "main"
+      },
+      {
+        "title": "永恒女性",
+        "text": "神话的解构（Britannica）",
+        "color": "antagonist"
+      },
+      {
+        "title": "处境论",
+        "text": "后天成为（名句待核）",
+        "color": "gold"
+      }
+    ]
+  }
+}

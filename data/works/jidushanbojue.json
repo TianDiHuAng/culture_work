@@ -1,0 +1,110 @@
+{
+  "id": "jidushanbojue",
+  "title": "基督山伯爵",
+  "original_title": "Le Comte de Monte-Cristo（The Count of Monte Cristo）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪（七月王朝）",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "dumaspere",
+  "author_name": "大仲马（Alexandre Dumas père）",
+  "year_display": "1844—1845年连载出版（Britannica：Le Comte de Monte Cristo (1844–45)）",
+  "year_sort": 1844,
+  "background": [
+    "Britannica：大仲马为'highly prolific and popular'的19世纪法国作家，《基督山伯爵》与《三个火枪手》为其最著名作品；'often working with collaborators (especially Auguste Maquet)'。",
+    "报章连载体：为偿债'forced to write more and more rapidly'（Britannica）——通俗连载的黄金形态。"
+  ],
+  "outline": [
+    "水手唐泰斯在婚礼日遭嫉妒者构陷入狱十四年——伊夫堡（通说）。",
+    "狱中得法利亚神甫传授学识与宝藏所在；越狱后化身基督山伯爵逐个复仇（通说）。",
+    "终局：复仇完成，宽恕与远行（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "唐泰斯（基督山伯爵）",
+      "identity": "水手→伯爵",
+      "note": "复仇的化身（通说）"
+    },
+    {
+      "name": "维尔福等",
+      "identity": "告密者三人组",
+      "note": "法官·银行家·军官（通说）"
+    },
+    {
+      "name": "法利亚神甫",
+      "identity": "狱友",
+      "note": "知识与宝藏的授予者（通说）"
+    }
+  ],
+  "themes": [
+    "复仇的经济学：等待与希望（书末名句通说待核——'wait and hope'）。",
+    "身份与变身：复仇者的多重面具（通说）。",
+    "报章连载的叙事速度（Britannica 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：《基督山伯爵》与《三个火枪手》为其 best-known works。",
+      "source": "B224"
+    },
+    {
+      "text": "通俗历史小说的范本：对后世类型小说（武侠/复仇叙事）的深远影响（通说待核）。",
+      "source": "B224"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "体量巨大（两卷本）。",
+      "法政史背景（拿破仑百日/七月王朝）。"
+    ],
+    "editions": [
+      "周克希/韩沪麟译本（上海译文出版社，通说待核）。",
+      "蒋学模译本（人民文学出版社，通说待核）。"
+    ],
+    "order": "顺情节通读；狱中一章（法利亚）为精神枢纽。"
+  },
+  "pending": [
+    "连载起止日期（1844年8月—1846年1月《辩论报》说）待核。",
+    "书末'等待和希望'原文核对。",
+    "马凯贡献份额争议待核。"
+  ],
+  "sources": [
+    "B224"
+  ],
+  "year_source": "B224",
+  "author_source": "B224",
+  "related_works": [
+    "hongyuhei",
+    "balamingwuyuan",
+    "beican"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《基督山伯爵》复仇三部曲",
+    "cards": [
+      {
+        "title": "婚礼日构陷",
+        "text": "十四年伊夫堡",
+        "color": "antagonist"
+      },
+      {
+        "title": "法利亚神甫",
+        "text": "知识与宝藏",
+        "color": "family"
+      },
+      {
+        "title": "化身伯爵",
+        "text": "巴黎的猎场",
+        "color": "main"
+      },
+      {
+        "title": "等待与希望",
+        "text": "复仇的终点",
+        "color": "gold"
+      }
+    ]
+  }
+}

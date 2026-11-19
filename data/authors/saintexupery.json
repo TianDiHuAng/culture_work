@@ -1,0 +1,68 @@
+{
+  "id": "saintexupery",
+  "name": "安托万·德·圣埃克苏佩里",
+  "foreign_name": "Antoine de Saint-Exupéry（安托万·德·圣埃克苏佩里，1900-06-29—1944-07-31）",
+  "country": "法国",
+  "birth": 1900,
+  "death": 1944,
+  "birth_year": 1900,
+  "death_year": 1944,
+  "era": "现当代",
+  "summary": "圣埃克苏佩里，里昂人，法国飞行员与作家（Britannica），飞行生涯为其小说供给素材与主题。'best remembered for the 1943 fable The Little Prince'（以1943年寓言《小王子》传世——Britannica）。1944年7月31日在科西嘉起飞的侦察飞行中失踪（Britannica：died on a 1944 reconnaissance flight from Corsica）。另著《夜航》《风沙星辰》等（Britannica 语境）。",
+  "timeline": [
+    {
+      "year": 1900,
+      "text": "生于里昂（Britannica：Born June 29, 1900, Lyon）。",
+      "src": "B223"
+    },
+    {
+      "year": 1926,
+      "text": "加入拉泰科埃尔航空公司（Britannica：joined Compagnie Latécoère 1926）。",
+      "src": "B223"
+    },
+    {
+      "year": 1939,
+      "text": "《风沙星辰》出版（通说待核）。",
+      "src": "B223"
+    },
+    {
+      "year": 1943,
+      "text": "《小王子》在美国出版（Britannica：Le Petit Prince (1943)）。",
+      "src": "B223"
+    },
+    {
+      "year": 1944,
+      "text": "7月31日侦察飞行中失事（Britannica：died……near Marseille）。",
+      "src": "B223"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xiaowangzi",
+      "note": "寓言（Britannica：1943）"
+    },
+    {
+      "title": "夜航、风沙星辰",
+      "note": "（Britannica 语境）"
+    },
+    {
+      "title": "空军飞行员",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "飞行员文学：以高空俯瞰的视角写人与大地（通说）。",
+    "'写给大人的童话'：Britannica——a child's fable for adults。",
+    "简洁诗性的箴言体：'人只有用心才能看得正确，本质的东西肉眼是看不见的'（Britannica 转述：people can only see rightly with the heart……）。"
+  ],
+  "status": "Britannica 定位圣埃克苏佩里为飞行员作家，《小王子》'has become a modern classic'（已成现代经典）；其为数不多死于二战飞行中的作家之一（Britannica 语境）。",
+  "sources": [
+    "B223"
+  ],
+  "dates_source": "B223",
+  "pending": [
+    "《小王子》法语初版细节（1943年纽约 Reynal & Hitchcock 说）待核。",
+    "里昂机场更名事件（通说）待核。",
+    "插图是否作者自绘（通说）待核。"
+  ]
+}

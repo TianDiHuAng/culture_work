@@ -1,0 +1,111 @@
+{
+  "id": "yiqianlingyiye",
+  "title": "一千零一夜",
+  "original_title": "ألف ليلة وليلة（Alf laylah wa-laylah / The Thousand and One Nights，又称《天方夜谭》）",
+  "region": "阿拉伯",
+  "era": "近代",
+  "era_detail": "成书于9—16世纪（多源层累）；1704—1717年经迦兰法译本风行欧洲",
+  "genre": "故事集",
+  "genre_group": "故事集",
+  "language": "阿拉伯语（多源）",
+  "author_id": null,
+  "author_name": "阿拉伯及更早的民间与文人故事层累总集（作者不可考）",
+  "year_display": "最早见于9世纪残篇（Britannica）；迦兰法译本1704—1717年使其风行欧洲（Britannica）",
+  "year_sort": 1704,
+  "background": [
+    "Britannica：'collection of largely Middle Eastern and Indian stories of uncertain date and authorship'——源流多层的东方故事总集。",
+    "框架（Britannica）：国王山鲁亚尔因妻不忠而每日娶杀一女；宰相之女山鲁佐德（Scheherazade）'devised a scheme to save herself and others'——每晚讲故事留悬念，'he puts off her execution from day to day and finally abandons his cruel plan'。"
+  ],
+  "outline": [
+    "框架故事：讲故事=活命——叙事的自我指涉（Britannica）。",
+    "故事层：'the frame story is probably Indian'，故事来自 India, Iran, Iraq, Egypt, Turkey, and possibly Greece（Britannica）。",
+    "著名篇目：阿拉丁、阿里巴巴、辛巴达——'added to the collection only in the 18th century in European adaptations'（Britannica）。",
+    "迦兰首译：Les Mille et Une Nuits，12卷（1704—17），'remained standard until the mid-19th century'（Britannica）。"
+  ],
+  "characters": [
+    {
+      "name": "山鲁佐德",
+      "identity": "宰相之女",
+      "note": "以故事续命（Britannica）"
+    },
+    {
+      "name": "山鲁亚尔",
+      "identity": "国王",
+      "note": "杀妻的暴君（Britannica）"
+    },
+    {
+      "name": "辛巴达",
+      "identity": "航海家",
+      "note": "七次航行（通说）"
+    }
+  ],
+  "themes": [
+    "讲故事与生存：悬念即生命（Britannica 语境）。",
+    "多层文明的互嵌：印度框架+波斯/阿拉伯故事核（Britannica）。",
+    "'一千'只是虚指：'expressions……were intended merely to indicate a large number'（Britannica）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：阿拉丁、阿里巴巴、辛巴达的故事'have almost become part of Western folklore'（几乎成为西方民俗的一部分）。",
+      "source": "B222"
+    },
+    {
+      "text": "Britannica：迦兰1704—1717年首译为欧洲标准译本直至19世纪中叶——欧洲浪漫主义的东方想象之源（通说待核）。",
+      "source": "B222"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "版本谱系：勿把18世纪欧洲添加层当作'原典'。",
+      "框架与嵌套的层级。"
+    ],
+    "editions": [
+      "纳训译本（人民文学出版社，通说待核）。",
+      "李唯中译本（花城出版社，通说待核）。"
+    ],
+    "order": "先读框架故事+辛巴达 → 阿里巴巴/阿拉丁（注意18世纪层）→ 自选故事。"
+  },
+  "pending": [
+    "六种连续形态（8—16世纪，Baghdad/Egypt 层）细节核对。",
+    "纳训/李唯中译本信息核对。",
+    "《阿拉丁》故事原无阿拉伯手稿本的确认（Britannica 已载）展开核对。"
+  ],
+  "sources": [
+    "B222"
+  ],
+  "year_source": "B222",
+  "author_source": "B222",
+  "related_works": [
+    "shiritan",
+    "kantebolei",
+    "yisuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一千零一夜》框架嵌套图",
+    "cards": [
+      {
+        "title": "框架",
+        "text": "山鲁佐德讲故事的夜晚",
+        "color": "main"
+      },
+      {
+        "title": "印度—波斯—阿拉伯",
+        "text": "多层故事核（Britannica）",
+        "color": "family"
+      },
+      {
+        "title": "辛巴达七航",
+        "text": "航海冒险",
+        "color": "gold"
+      },
+      {
+        "title": "阿拉丁·阿里巴巴",
+        "text": "18世纪欧洲改编层",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "xiaowangzi",
+  "title": "小王子",
+  "original_title": "Le Petit Prince（The Little Prince）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "童话寓言",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "saintexupery",
+  "author_name": "安托万·德·圣埃克苏佩里",
+  "year_display": "1943年出版（Britannica：Le Petit Prince (1943)）",
+  "year_sort": 1943,
+  "background": [
+    "Britannica：'Le Petit Prince (1943; The Little Prince), a child's fable for adults'——写给大人的童话。",
+    "Britannica：'has become a modern classic'（已成现代经典）——'a gentle and grave reminder that the best things in life are still the simplest ones and that real wealth is giving to others'。"
+  ],
+  "outline": [
+    "'The story follows a pilot who crash lands in a desert and meets a little boy from a small planet'（坠机的飞行员遇见小行星来的男孩——Britannica）。",
+    "小王子的星际巡游：国王、爱慕虚荣者、酒鬼、商人、点灯人、地理学家（通说）。",
+    "玫瑰与狐狸：'people can only see rightly with the heart and that what is essential is invisible to the eye'（本质的东西肉眼看不见——Britannica）。"
+  ],
+  "characters": [
+    {
+      "name": "飞行员",
+      "identity": "叙述者",
+      "note": "沙漠中的大人（Britannica）"
+    },
+    {
+      "name": "小王子",
+      "identity": "B-612小行星来客",
+      "note": "星球巡游者（通说）"
+    },
+    {
+      "name": "狐狸",
+      "identity": "驯养者",
+      "note": "'驯养'哲学（通说）"
+    }
+  ],
+  "themes": [
+    "本质与眼睛：用心去看（Britannica）。",
+    "驯养与责任（通说）。",
+    "大人的荒诞星球（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：已成现代经典（a modern classic）；'real wealth is giving to others'。",
+      "source": "B223"
+    },
+    {
+      "text": "全球译本数以百计（通说待核——Britannica 该页未载）。",
+      "source": "B223"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓意层与童话题面的双读。",
+      "玫瑰/狐狸的象征分配。"
+    ],
+    "editions": [
+      "周克希译本（上海译文出版社，通说待核）。",
+      "马振骋译本（人民文学出版社，通说待核）。"
+    ],
+    "order": "全书一次读完 → 回读狐狸一章 → 对照《夜航》。"
+  },
+  "pending": [
+    "1943年纽约 Reynal & Hitchcock 初版与法语版同年细节待核。",
+    "插图作者自绘说待核。",
+    "全球发行统计待核。"
+  ],
+  "sources": [
+    "B223"
+  ],
+  "year_source": "B223",
+  "author_source": "B223",
+  "related_works": [
+    "yisuo",
+    "weite",
+    "xiaojing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小王子》星球巡游图",
+    "cards": [
+      {
+        "title": "B-612",
+        "text": "玫瑰与火山",
+        "color": "family"
+      },
+      {
+        "title": "六个星球",
+        "text": "大人们的荒诞",
+        "color": "antagonist"
+      },
+      {
+        "title": "地球",
+        "text": "狐狸与蛇",
+        "color": "main"
+      },
+      {
+        "title": "回程",
+        "text": "用心去看（Britannica）",
+        "color": "gold"
+      }
+    ]
+  }
+}

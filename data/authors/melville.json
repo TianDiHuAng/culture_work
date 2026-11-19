@@ -1,0 +1,68 @@
+{
+  "id": "melville",
+  "name": "赫尔曼·梅尔维尔",
+  "foreign_name": "Herman Melville（赫尔曼·梅尔维尔，1819-08-01—1891-09-28）",
+  "country": "美国",
+  "birth": 1819,
+  "death": 1891,
+  "birth_year": 1819,
+  "death_year": 1891,
+  "era": "近代",
+  "summary": "梅尔维尔，生于纽约，美国小说家、短篇小说家与诗人（Britannica），1840年代的航海经历催生其冒险小说——'best known for his novels of the sea, including his masterpiece, Moby Dick (1851)'（以海洋小说著称，代表作《白鲸》——Britannica）。生前默默无闻，晚年以海关检查员谋生（Britannica 语境），20世纪声誉飙升：'eventually considered to be one of the great American writers'（终被列入美国最伟大作家之列——Britannica）。",
+  "timeline": [
+    {
+      "year": 1819,
+      "text": "生于纽约市（Britannica：Born August 1, 1819, New York City）。",
+      "src": "B220"
+    },
+    {
+      "year": 1841,
+      "text": "1月乘捕鲸船阿库什奈号出海（Britannica：Acushnet sailing January 1841）。",
+      "src": "B220"
+    },
+    {
+      "year": 1846,
+      "text": "《泰皮》出版带来短暂声名（Britannica：Typee (1846)）。",
+      "src": "B220"
+    },
+    {
+      "year": 1851,
+      "text": "《白鲸》出版（Britannica：Moby Dick (1851)）。",
+      "src": "B220"
+    },
+    {
+      "year": 1891,
+      "text": "9月28日卒于纽约（Britannica：Died September 28, 1891）。",
+      "src": "B220"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "baijing",
+      "note": "长篇（Britannica：masterpiece）"
+    },
+    {
+      "title": "泰皮、奥穆",
+      "note": "南洋冒险（Britannica：Typee (1846), Omoo (1847)）"
+    },
+    {
+      "title": "抄写员巴特比",
+      "note": "短篇（通说待核）"
+    }
+  ],
+  "style": [
+    "海洋百科叙事：捕鲸业知识+圣经式的象征体系（通说）。",
+    "莎士比亚式独白与独白剧（通说待核）。",
+    "'卓越美国作家'的世纪性重估（Britannica：rose in critical esteem）。"
+  ],
+  "status": "Britannica 定位梅尔维尔为美国小说家、短篇家与诗人，《白鲸》为其杰作；生前籍籍无名、20世纪被重估为美国最伟大作家之一（Britannica）。",
+  "sources": [
+    "B220"
+  ],
+  "dates_source": "B220",
+  "pending": [
+    "《白鲸》英国版 The Whale 与美国版标题差异（1851）待核。",
+    "与霍桑的交往及《白鲸》题献待核。",
+    "《水手比利·巴德》遗稿1924年出版待核。"
+  ]
+}

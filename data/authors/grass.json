@@ -1,0 +1,68 @@
+{
+  "id": "grass",
+  "name": "君特·格拉斯",
+  "foreign_name": "Günter Grass（君特·格拉斯，1927-10-16—2015-04-13）",
+  "country": "德国",
+  "birth": 1927,
+  "death": 2015,
+  "birth_year": 1927,
+  "death_year": 2015,
+  "era": "现当代",
+  "summary": "格拉斯，但泽（今波兰格但斯克）人，德国诗人、小说家、剧作家、雕塑家与版画家（Britannica），其处女作使他成为'在纳粹之下成年、经历二战的那一代德国人的文学声音'（Britannica 语境：the literary voice of the German generation that came of age under Nazism and lived through World War II）。1999年获诺贝尔文学奖（Britannica）。《铁皮鼓》（1959）为'但泽三部曲'之首（Britannica：followed by Cat and Mouse (1961) and Dog Years (1963)）。",
+  "timeline": [
+    {
+      "year": 1927,
+      "text": "10月16日生于但泽（Britannica：Born October 16, 1927, Danzig）。",
+      "src": "B228"
+    },
+    {
+      "year": 1959,
+      "text": "《铁皮鼓》出版（Britannica：1959）。",
+      "src": "B228"
+    },
+    {
+      "year": 1961,
+      "text": "《猫与鼠》出版，与《狗年月》（1963）合称但泽三部曲（Britannica）。",
+      "src": "B228"
+    },
+    {
+      "year": 1999,
+      "text": "获诺贝尔文学奖（Britannica：won the Nobel Prize for Literature in 1999）。",
+      "src": "B228"
+    },
+    {
+      "year": 2006,
+      "text": "自传《剥洋葱》披露党卫军经历引发争议（通说待核）。",
+      "src": "B228"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tiepigu",
+      "note": "长篇（Britannica：1959）"
+    },
+    {
+      "title": "猫与鼠、狗年月",
+      "note": "但泽三部曲（Britannica）"
+    },
+    {
+      "title": "比目鱼、母鼠",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "多风格拼贴：'written in a variety of styles, imaginatively distorts and exaggerates his personal experiences'（Britannica）。",
+    "怪诞寓言：奥斯卡的鼓与尖叫（Britannica 语境：Oskar Matzerath, a dwarf who narrates from an asylum）。",
+    "历史的道德清算：纳粹化的日常家庭（Britannica：the creeping Nazification of average families）。"
+  ],
+  "status": "Britannica 定位格拉斯为战后德国文学的核心声音、1999年诺奖得主；'his strong, and sometimes unpopular, political beliefs had prevented him from receiving the prize far earlier'（其强硬而有时不受欢迎的政治立场让他迟迟未获诺奖——Britannica）。",
+  "sources": [
+    "B228"
+  ],
+  "dates_source": "B228",
+  "pending": [
+    "奥斯卡'三岁停止生长'的设定细节核对。",
+    "《剥洋葱》2006年争议（党卫军装甲师经历）待核。",
+    "但泽三部曲名称出处（英美评论界说）待核。"
+  ]
+}
