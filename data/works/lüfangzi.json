@@ -1,0 +1,104 @@
+{
+  "id": "lüfangzi",
+  "title": "绿房子",
+  "original_title": "La casa verde（The Green House）",
+  "region": "秘鲁",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "llosa",
+  "author_name": "马里奥·巴尔加斯·略萨",
+  "year_display": "1966年（作者页 B159 口径：绿房子（1966））",
+  "year_sort": 1966,
+  "background": [
+    "作者页（B159）：略萨 major_works 载'绿房子（1966）、世界末日之战（1981）'（B159 作者页定位，详见 chengshiyugou 条核对）。",
+    "题材（通说待核）：秘鲁皮乌拉与亚马逊丛林的双地叙事——绿房子妓院与修道院。"
+  ],
+  "outline": [
+    "安塞尔莫建'绿房子'——与圣塔玛丽亚德聂瓦修女院的对抗（通说待核）。",
+    "多线时空并置——略萨式结构（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "安塞尔莫",
+      "identity": "建妓院者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "胡安娜等",
+      "identity": "女性群像",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "妓院与修道院的对峙（通说）。",
+    "叙事结构的革命（通说待核——对话式并置）。",
+    "秘鲁边缘社会（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：略萨成名作之一（B159 作者页口径）。",
+      "source": "B159"
+    },
+    {
+      "text": "首届罗慕洛·加列戈斯奖（1967年——通说待核）。",
+      "source": "B159"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "对话式并置叙事（略萨招牌）。",
+      "秘鲁地名。"
+    ],
+    "editions": [
+      "《绿房子》（人民文学出版社，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "先《城市与狗》后本作。"
+  },
+  "pending": [
+    "1966年出版（Editorial Seix Barral说）核对。",
+    "安塞尔莫人名与绿房子选址待核。",
+    "罗慕洛·加列戈斯奖（1967）核对。"
+  ],
+  "sources": [
+    "B159"
+  ],
+  "year_source": "B159",
+  "author_source": "B159",
+  "related_works": [
+    "chengshiyugou",
+    "bainian",
+    "peideluobalamo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《绿房子》双地结构图",
+    "cards": [
+      {
+        "title": "皮乌拉",
+        "text": "沙漠中的城",
+        "color": "family"
+      },
+      {
+        "title": "丛林",
+        "text": "传教所的地界",
+        "color": "plain"
+      },
+      {
+        "title": "绿房子",
+        "text": "欲望的所在",
+        "color": "antagonist"
+      },
+      {
+        "title": "并置叙事",
+        "text": "略萨结构（通说）",
+        "color": "main"
+      }
+    ]
+  }
+}

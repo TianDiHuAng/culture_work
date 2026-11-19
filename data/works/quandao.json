@@ -1,0 +1,105 @@
+{
+  "id": "quandao",
+  "title": "劝导",
+  "original_title": "Persuasion",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "austen",
+  "author_name": "简·奥斯汀",
+  "year_display": "1817年身后出版（作者页 B037/B012 口径：劝导（1817身后））",
+  "year_sort": 1817,
+  "background": [
+    "作者页（B037/B012）：奥斯汀 major_works 载'劝导（1817身后）'——与《诺桑觉寺》身后合刊（B037 作者页定位，详见 aoman/aima 条核对）。",
+    "题材（通说待核）：安妮·艾略特八年后的重逢——'劝导'的悔与第二次机会。"
+  ],
+  "outline": [
+    "安妮八年前被劝退婚；温特沃斯上校归来（通说待核）。",
+    "'信'的告白：'你 pierce 我的灵魂'（名句通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "安妮·艾略特",
+      "identity": " heroine",
+      "note": "27岁的安静者（通说待核）"
+    },
+    {
+      "name": "温特沃斯上校",
+      "identity": "海军上校",
+      "note": "归来者（通说待核）"
+    }
+  ],
+  "themes": [
+    "'劝导'的双刃：听谁的劝（通说）。",
+    "迟来的第二次机会（通说）。",
+    "奥斯汀最后的成熟笔法（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：奥斯汀身后出版的小说（B037/B012 作者页口径）。",
+      "source": "B037"
+    },
+    {
+      "text": "与《傲慢与偏见》《爱玛》并列三大代表作（通说待核）。",
+      "source": "B037"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "摄政时代的海军背景。",
+      "内敛的心理笔法。"
+    ],
+    "editions": [
+      "《劝导》（人民文学出版社/译林出版社版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "奥斯汀收官之作。"
+  },
+  "pending": [
+    "1817年12月（John Murray，与《诺桑觉寺》合刊）核对。",
+    "安妮/温特沃斯人名核对。",
+    "告白信原文核对。"
+  ],
+  "sources": [
+    "B037",
+    "B012"
+  ],
+  "year_source": "B037",
+  "author_source": "B037",
+  "related_works": [
+    "aoman",
+    "aima",
+    "shuangchengji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《劝导》重逢结构图",
+    "cards": [
+      {
+        "title": "八年前",
+        "text": "被劝的分手",
+        "color": "antagonist"
+      },
+      {
+        "title": "重逢",
+        "text": "上校归来",
+        "color": "main"
+      },
+      {
+        "title": "信",
+        "text": "'你 pierce 我的灵魂'（待核）",
+        "color": "gold"
+      },
+      {
+        "title": "第二次机会",
+        "text": "成熟的爱",
+        "color": "family"
+      }
+    ]
+  }
+}

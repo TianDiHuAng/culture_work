@@ -1,0 +1,104 @@
+{
+  "id": "zimujin",
+  "title": "紫木槿",
+  "original_title": "Purple Hibiscus",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "adichie",
+  "author_name": "奇玛曼达·恩戈兹·阿迪契",
+  "year_display": "2003年（作者页 B162 口径：紫木槿（2003））",
+  "year_sort": 2003,
+  "background": [
+    "作者页（B162）：阿迪契 major_works 载'紫木槿（2003）'（B162 作者页定位，详见 banlunhuangri 条核对）。",
+    "题材（通说待核）：奈拉各斯的专制父亲与紫木槿——家庭暴政与国家政变的镜像。"
+  ],
+  "outline": [
+    "坎布丽（Kambili）的沉默成长：父亲的神圣暴力与姑妈家的自由（通说待核）。",
+    "政变与 coup 之夜（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "坎布丽",
+      "identity": "少女",
+      "note": "叙述者（通说待核）"
+    },
+    {
+      "name": "父亲（Eugene）",
+      "identity": "天主教信徒",
+      "note": "家庭的暴君（通说待核）"
+    }
+  ],
+  "themes": [
+    "宗教狂热与家庭暴力（通说）。",
+    "紫色木槿：罕见的自由意象（通说待核）。",
+    "沉默的打破（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿迪契处女作（B162 作者页口径）。",
+      "source": "B162"
+    },
+    {
+      "text": "英联邦作家奖最佳处女作（Commonwealth Writers' Prize——通说待核）。",
+      "source": "B162"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "尼日利亚伊博语词。",
+      "宗教与政治的双线。"
+    ],
+    "editions": [
+      "《紫木槿》（人民文学出版社版本，通说待核）。",
+      "英文原版（Algonquin/4th Estate）。"
+    ],
+    "order": "先本作后《半轮黄日》。"
+  },
+  "pending": [
+    "2003年出版（Algonquin Books说）核对。",
+    "坎布丽/Eugene人名核对。",
+    "英联邦作家奖核对。"
+  ],
+  "sources": [
+    "B162"
+  ],
+  "year_source": "B162",
+  "author_source": "B162",
+  "related_works": [
+    "banlunhuangri",
+    "wajie",
+    "zise"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《紫木槿》家庭政变图",
+    "cards": [
+      {
+        "title": "紫木槿",
+        "text": "花园的自由",
+        "color": "main"
+      },
+      {
+        "title": "父亲的暴力",
+        "text": "神圣的暴君",
+        "color": "antagonist"
+      },
+      {
+        "title": "姑妈家",
+        "text": "笑声的学院",
+        "color": "family"
+      },
+      {
+        "title": "政变",
+        "text": "国家的镜像",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "dengdaiyemanren",
+  "title": "等待野蛮人",
+  "original_title": "Waiting for the Barbarians",
+  "region": "南非",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "coetzee",
+  "author_name": "J.M.库切",
+  "year_display": "1980年（作者页 B161 口径：等待野蛮人（1980））",
+  "year_sort": 1980,
+  "background": [
+    "作者页（B161）：库切 major_works 载'等待野蛮人（1980）、迈克尔·K的生活与时代（1983）、福（1986）'（B161 作者页定位，详见 chi 条核对）。",
+    "题材（通说待核）：帝国边陲小镇的治安官与'野蛮人'俘虏——无名的帝国寓言。"
+  ],
+  "outline": [
+    "治安官收留被拷打致残的'野蛮人'女孩——焦土政策的谎言（通说待核）。",
+    "'野蛮人'从未到来（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "治安官",
+      "identity": "老治安官",
+      "note": "觉醒的旁观者（通说待核）"
+    },
+    {
+      "name": "乔尔上校",
+      "identity": "特务",
+      "note": "帝国的刀（通说待核）"
+    }
+  ],
+  "themes": [
+    "帝国的自我幻影（通说）。",
+    "拷打与文明的外衣（通说）。",
+    "'等待'的空转（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：库切代表作（B161 作者页口径）。",
+      "source": "B161"
+    },
+    {
+      "text": "2003年诺贝尔文学奖（作者级——通说待核，作者页核对）。",
+      "source": "B161"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓言的无国界设定。",
+      "拷打描写。"
+    ],
+    "editions": [
+      "《等待野蛮人》（人民文学出版社/浙江文艺出版社版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《耻》后本作。"
+  },
+  "pending": [
+    "1980年出版（Secker & Warburg说）核对。",
+    "治安官/乔尔人名核对。",
+    "帝国名（不具名设定）待核。"
+  ],
+  "sources": [
+    "B161"
+  ],
+  "year_source": "B161",
+  "author_source": "B161",
+  "related_works": [
+    "chi",
+    "wajie",
+    "banlunhuangri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《等待野蛮人》帝国寓言图",
+    "cards": [
+      {
+        "title": "边陲小镇",
+        "text": "无名帝国",
+        "color": "family"
+      },
+      {
+        "title": "野蛮人",
+        "text": "从未到来（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "拷打",
+        "text": "文明的外衣",
+        "color": "antagonist"
+      },
+      {
+        "title": "治安官",
+        "text": "觉醒的旁观者",
+        "color": "main"
+      }
+    ]
+  }
+}

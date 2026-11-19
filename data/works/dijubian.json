@@ -1,0 +1,103 @@
+{
+  "id": "dijubian",
+  "title": "地狱变",
+  "original_title": "地獄変（Hell Screen）",
+  "region": "日本",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "akutagawa",
+  "author_name": "芥川龙之介",
+  "year_display": "1918年（作者页 B109 口径：地狱变（1918））",
+  "year_sort": 1918,
+  "background": [
+    "作者页（B109）：芥川 major_works 载'地狱变（1918）、河童（1927）'（B109 作者页定位，详见 luoshengmen 条核对）。",
+    "题材（通说待核）：画师良秀为绘'地狱变'屏风目睹猴子被焚——艺术与道德的撕裂。"
+  ],
+  "outline": [
+    "堀川大公命良秀画地狱变——以焚烧猴子（良秀之女？——通说待核）为代价（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "良秀",
+      "identity": "画师",
+      "note": "艺术的狂者（通说待核）"
+    },
+    {
+      "name": "堀川大公",
+      "identity": "权贵",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "艺术至上与人性代价（通说）。",
+    "'地狱'的现实化（通说待核）。",
+    "历史小说的现代化（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：芥川名篇（B109 作者页口径）。",
+      "source": "B109"
+    },
+    {
+      "text": "1969年电影改编（通说待核）。",
+      "source": "B109"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "平安朝贵族制度。",
+      "艺术伦理的追问。"
+    ],
+    "editions": [
+      "《地狱变》（收于《芥川龙之介全集》，通说待核）。",
+      "日文原版（公有领域）。"
+    ],
+    "order": "先《罗生门》《鼻子》后本作。"
+  },
+  "pending": [
+    "1918年（《大阪每日新闻》说）核对。",
+    "良秀/堀川大公人名核对。",
+    "焚车牺牲者身份待核。"
+  ],
+  "sources": [
+    "B109"
+  ],
+  "year_source": "B109",
+  "author_source": "B109",
+  "related_works": [
+    "luoshengmen",
+    "jinbgesi",
+    "shenpan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《地狱变》艺术撕裂图",
+    "cards": [
+      {
+        "title": "屏风",
+        "text": "地狱的绘制",
+        "color": "main"
+      },
+      {
+        "title": "焚车",
+        "text": "艺术的代价",
+        "color": "antagonist"
+      },
+      {
+        "title": "良秀",
+        "text": "狂者的凝视",
+        "color": "gold"
+      },
+      {
+        "title": "大公",
+        "text": "权力的恶",
+        "color": "plain"
+      }
+    ]
+  }
+}

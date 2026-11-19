@@ -1,0 +1,103 @@
+{
+  "id": "zhongju",
+  "title": "终局",
+  "original_title": "Endgame（Fin de partie）",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "beckett",
+  "author_name": "塞缪尔·贝克特",
+  "year_display": "1957年（作者页 B094 口径：终局（1957））",
+  "year_sort": 1957,
+  "background": [
+    "作者页（B094）：贝克特 major_works 载'终局（1957）、快乐的日子（1961）、莫洛伊三部曲（1947—50）'（B094 作者页定位，详见 dengdaigou 条核对）。",
+    "场景（通说）：灰暗室内——坐轮椅的哈姆与站立的仆人克洛夫，双亲纳格与奈尔在垃圾桶里。"
+  ],
+  "outline": [
+    "哈姆与克洛夫的'日常'：报时、喂食、无法结束的结束（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "哈姆",
+      "identity": "盲瘫的主人",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "克洛夫",
+      "identity": "仆人",
+      "note": "不能坐下者（通说待核）"
+    }
+  ],
+  "themes": [
+    "'终局'：棋局的残局隐喻（通说）。",
+    "依赖与虐待的共生（通说待核）。",
+    "结束的不可能（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：贝克特戏剧谱系（B094 作者页口径）。",
+      "source": "B094"
+    },
+    {
+      "text": "与《等待戈多》并列为荒诞剧双璧（通说待核）。",
+      "source": "B094"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "对话的循环结构。",
+      "'残局'隐喻。"
+    ],
+    "editions": [
+      "《终局》（湖南文艺出版社《贝克特选集》，通说待核）。",
+      "法文原版（Minuit）。"
+    ],
+    "order": "先《等待戈多》后本作。"
+  },
+  "pending": [
+    "1957年伦敦首演（Royal Court说）核对。",
+    "哈姆/克洛夫/纳格/奈尔人名核对。",
+    "'残局'棋语核对。"
+  ],
+  "sources": [
+    "B094"
+  ],
+  "year_source": "B094",
+  "author_source": "B094",
+  "related_works": [
+    "dengdaigou",
+    "baizaoyin",
+    "exin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《终局》残局结构图",
+    "cards": [
+      {
+        "title": "哈姆",
+        "text": "盲瘫的主人",
+        "color": "main"
+      },
+      {
+        "title": "克洛夫",
+        "text": "不能坐下者",
+        "color": "family"
+      },
+      {
+        "title": "垃圾桶",
+        "text": "双亲的居所",
+        "color": "gold"
+      },
+      {
+        "title": "残局",
+        "text": "结束的不可能",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

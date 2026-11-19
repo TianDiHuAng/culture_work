@@ -1,0 +1,98 @@
+{
+  "id": "jiugushi",
+  "title": "九故事",
+  "original_title": "Nine Stories",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "salinger",
+  "author_name": "J.D.塞林格",
+  "year_display": "1953年（作者页 B148 口径：九故事（1953））",
+  "year_sort": 1953,
+  "background": [
+    "作者页（B148）：塞林格 major_works 载'九故事（1953）、弗兰妮与祖伊（1961）'（B148 作者页定位，详见 maitian 条核对）。",
+    "篇目（通说待核）：《香蕉鱼的好日子》《逮香蕉鱼的最佳日子》——西摩之死开篇；末篇《泰迪》。"
+  ],
+  "outline": [
+    "九个故事（通说）：以《香蕉鱼的好日子》开篇——西摩的自杀（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "西摩·格拉斯",
+      "identity": "退伍军人",
+      "note": "开篇自杀（通说待核）"
+    }
+  ],
+  "themes": [
+    "禅与'格拉斯家族'（通说待核）。",
+    "战后创伤（通说）。",
+    "孩童的灵性（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：塞林格短篇代表作（B148 作者页口径）。",
+      "source": "B148"
+    },
+    {
+      "text": "《麦田里的守望者》之外的另一半塞林格（通说）。",
+      "source": "B148"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "禅意典故（《香蕉鱼》）。",
+      "留白结构。"
+    ],
+    "editions": [
+      "《九故事》（人民文学出版社/译林出版社版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "对照《麦田里的守望者》读。"
+  },
+  "pending": [
+    "九篇篇目核对。",
+    "1953年（Little, Brown说）核对。",
+    "西摩之死的解读待核。"
+  ],
+  "sources": [
+    "B148"
+  ],
+  "year_source": "B148",
+  "author_source": "B148",
+  "related_works": [
+    "maitian",
+    "kafuxuan",
+    "mauposangxuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《九故事》格拉斯家族图",
+    "cards": [
+      {
+        "title": "香蕉鱼",
+        "text": "西摩之死（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "格拉斯家族",
+        "text": "七兄妹（通说）",
+        "color": "family"
+      },
+      {
+        "title": "禅意",
+        "text": "孩童的灵性",
+        "color": "main"
+      },
+      {
+        "title": "留白",
+        "text": "塞林格的沉默",
+        "color": "gold"
+      }
+    ]
+  }
+}
