@@ -1,0 +1,102 @@
+{
+  "id": "wodewangdishi",
+  "title": "我的帝王生涯",
+  "original_title": "我的帝王生涯（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "sutong",
+  "author_name": "苏童",
+  "year_display": "出版年份待核（中国作家网 C015：'《米》《我的帝王生涯》《河岸》等长篇'——1992年说通说待核）",
+  "year_sort": 1992,
+  "background": [
+    "中国作家网（C015）：'《米》《我的帝王生涯》《河岸》等长篇'（C015 官方口径）。",
+    "题材（通说待核）：虚构燮国少年天子端白的王位与坠落——架空历史。"
+  ],
+  "outline": [
+    "少年天子端白的登基、倾轧与出走——'走索王'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "端白",
+      "identity": "燮王",
+      "note": "第一人称天子（通说待核）"
+    },
+    {
+      "name": "皇甫夫人",
+      "identity": "祖母",
+      "note": "摄政（通说待核）"
+    }
+  ],
+  "themes": [
+    "架空历史的暴政寓言（通说）。",
+    "'走索'：权力的钢丝（通说待核）。",
+    "颓靡美学的极致（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：列入苏童长篇代表作（C015）。",
+      "source": "C015"
+    },
+    {
+      "text": "先锋小说的历史架空转向（通说待核）。",
+      "source": "C015"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "架空王朝的自造词汇。",
+      "颓靡修辞。"
+    ],
+    "editions": [
+      "《我的帝王生涯》（人民文学出版社/花城出版社版本，通说待核）。"
+    ],
+    "order": "先《米》后本作。"
+  },
+  "pending": [
+    "1992年出版（花城出版社说）核对。",
+    "端白人名与燮国设定核对。",
+    "'走索王'情节待核。"
+  ],
+  "sources": [
+    "C015"
+  ],
+  "year_source": "C015",
+  "author_source": "C015",
+  "related_works": [
+    "mi",
+    "huangqueji",
+    "he'an"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我的帝王生涯》架空王朝图",
+    "cards": [
+      {
+        "title": "燮王端白",
+        "text": "少年天子",
+        "color": "main"
+      },
+      {
+        "title": "倾轧",
+        "text": "后宫与权臣",
+        "color": "antagonist"
+      },
+      {
+        "title": "走索",
+        "text": "出走的技艺",
+        "color": "gold"
+      },
+      {
+        "title": "苦行",
+        "text": "帝王的末路",
+        "color": "plain"
+      }
+    ]
+  }
+}

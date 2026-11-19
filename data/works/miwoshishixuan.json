@@ -1,0 +1,96 @@
+{
+  "id": "miwoshishixuan",
+  "title": "米沃什诗选",
+  "original_title": "米沃什诗选（通行选集）",
+  "region": "波兰",
+  "era": "现当代",
+  "era_detail": "20—21世纪",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "波兰语",
+  "author_id": "milosz",
+  "author_name": "切斯瓦夫·米沃什",
+  "year_display": "诗作于1930年代以来；通行选本数十首",
+  "year_sort": 1980,
+  "background": [
+    "作者页（B260）：米沃什诗'noted for their classical style and their preoccupation with philosophical and political issues'（古典风格、专注哲学与政治议题——B260）；1980年诺奖授奖词——'a writer who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts'。"
+  ],
+  "outline": [
+    "立陶宛-波兰-加州的三重地理：《科尔波特？》——不：'Columbia'？（篇目通说待核）"
+  ],
+  "characters": [
+    {
+      "name": "见证者",
+      "identity": "诗人",
+      "note": "'uncompromising clear-sightedness'（B260）"
+    }
+  ],
+  "themes": [
+    "古典风格与哲思政治（B260）。",
+    "'人的暴露处境'（B260 授奖词）。",
+    "流亡与故土的双重时间（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1980年诺奖授奖词（B260）。",
+      "source": "B260"
+    },
+    {
+      "text": "Britannica：'His poetic works are noted for their classical style'（B260）。",
+      "source": "B260"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "波兰历史语境。",
+      "哲思的密度。"
+    ],
+    "editions": [
+      "《米沃什诗选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先《被禁锢的头脑》后诗选。"
+  },
+  "pending": [
+    "篇目核对。",
+    "1980年诺奖授奖词原文（B260 已载）展开核对。",
+    "《诗的艺术？》待核。"
+  ],
+  "sources": [
+    "B260"
+  ],
+  "year_source": "B260",
+  "author_source": "B260",
+  "related_works": [
+    "beijingudetounao",
+    "xinishixuan",
+    "guangdaozhaji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "米沃什诗歌结构图",
+    "cards": [
+      {
+        "title": "古典风格",
+        "text": "哲思与政治（B260）",
+        "color": "main"
+      },
+      {
+        "title": "流亡",
+        "text": "立陶宛—加州",
+        "color": "family"
+      },
+      {
+        "title": "清醒",
+        "text": "毫不含糊的目光（B260）",
+        "color": "gold"
+      },
+      {
+        "title": "见证",
+        "text": "人的暴露处境",
+        "color": "plain"
+      }
+    ]
+  }
+}

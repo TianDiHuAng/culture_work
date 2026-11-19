@@ -1,0 +1,97 @@
+{
+  "id": "guoqu",
+  "title": "过去",
+  "original_title": "过去（短篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "yudafu",
+  "author_name": "郁达夫",
+  "year_display": "1927年（Britannica：Guoqu (1927; The Past)）",
+  "year_sort": 1927,
+  "background": [
+    "Britannica（B206）：'Guoqu (1927; The Past)'——'praised for its psychological depth'（因其心理深度而受赞誉——Britannica）。",
+    "转向后的郁达夫：从自我暴露到心理深描（B206：1923年后主题转变）。"
+  ],
+  "outline": [
+    "李白时与三 sisters？——不：于质夫？——情节通说待核：三人同学旧事与多年重逢的情感清算。"
+  ],
+  "characters": [
+    {
+      "name": "李白时？——人名待核",
+      "identity": "青年",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'过去'的时间哲学（篇名通说）。",
+    "心理深度（B206：psychological depth）。",
+    "情感的自省（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'praised for its psychological depth'（B206）。",
+      "source": "B206"
+    },
+    {
+      "text": "作者页：郁达夫1927年作品谱系（B206）。",
+      "source": "B206"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三角情感的结构。",
+      "郁达夫式的自剖。"
+    ],
+    "editions": [
+      "《过去》（收于《郁达夫全集》，通说待核）。"
+    ],
+    "order": "对照《沉沦》《日记九种》。"
+  },
+  "pending": [
+    "人名（李白时/朴静远？）核对。",
+    "1927年发表（《洪水》说）待核。",
+    "'psychological depth'原句核对。"
+  ],
+  "sources": [
+    "B206"
+  ],
+  "year_source": "B206",
+  "author_source": "B206",
+  "related_works": [
+    "chenlun",
+    "rijijiuzhong",
+    "qingchengzhilian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《过去》时间清算图",
+    "cards": [
+      {
+        "title": "旧同学",
+        "text": "三人的往事",
+        "color": "family"
+      },
+      {
+        "title": "重逢",
+        "text": "多年后的清算",
+        "color": "main"
+      },
+      {
+        "title": "心理",
+        "text": "深度刻画（B206）",
+        "color": "gold"
+      },
+      {
+        "title": "过去",
+        "text": "不可追的时间",
+        "color": "plain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+# -*- coding: utf-8 -*-
+"""v10批A：复用已核来源直写 6 部"""
+import json, pathlib
+
+works = {
+"miwoshishixuan": {
+  "id":"miwoshishixuan","title":"米沃什诗选","original_title":"米沃什诗选（通行选集）","region":"波兰","era":"现当代","era_detail":"20—21世纪",
+  "genre":"诗选集","genre_group":"诗歌","language":"波兰语","author_id":"milosz","author_name":"切斯瓦夫·米沃什",
+  "year_display":"诗作于1930年代以来；通行选本数十首","year_sort":1980,
+  "background":["作者页（B260）：米沃什诗'noted for their classical style and their preoccupation with philosophical and political issues'（古典风格、专注哲学与政治议题——B260）；1980年诺奖授奖词——'a writer who with uncompromising clear-sightedness voices man's exposed condition in a world of severe conflicts'。"],
+  "outline":["立陶宛-波兰-加州的三重地理：《科尔波特？》——不：'Columbia'？（篇目通说待核）"],
+  "characters":[{"name":"见证者","identity":"诗人","note":"'uncompromising clear-sightedness'（B260）"}],
+  "themes":["古典风格与哲思政治（B260）。",
+   "'人的暴露处境'（B260 授奖词）。",
+   "流亡与故土的双重时间（通说）。"],
+  "influence":[{"text":"Britannica：1980年诺奖授奖词（B260）。","source":"B260"},
+   {"text":"Britannica：'His poetic works are noted for their classical style'（B260）。","source":"B260"}],
+  "reading":{"difficulties":["波兰历史语境。","哲思的密度。"],
+   "editions":["《米沃什诗选》（人民文学出版社，通说待核）。"],
+   "order":"先《被禁锢的头脑》后诗选。"},
+  "pending":["篇目核对。","1980年诺奖授奖词原文（B260 已载）展开核对。","《诗的艺术？》待核。"],
+  "sources":["B260"],"year_source":"B260","author_source":"B260","related_works":["beijingudetounao","xinishixuan","guangdaozhaji"],
+  "svg":{"type":"grid","width":680,"height":340,"caption":"米沃什诗歌结构图",
+    "cards":[{"title":"古典风格","text":"哲思与政治（B260）","color":"main"},{"title":"流亡","text":"立陶宛—加州","color":"family"},{"title":"清醒","text":"毫不含糊的目光（B260）","color":"gold"},{"title":"见证","text":"人的暴露处境","color":"plain"}]}
+},
+"guoqu": {
+  "id":"guoqu","title":"过去","original_title":"过去（短篇小说）","region":"中国","era":"现当代","era_detail":"现代",
+  "genre":"短篇小说","genre_group":"小说","language":"汉语（白话）","author_id":"yudafu","author_name":"郁达夫",
+  "year_display":"1927年（Britannica：Guoqu (1927; The Past)）","year_sort":1927,
+  "background":["Britannica（B206）：'Guoqu (1927; The Past)'——'praised for its psychological depth'（因其心理深度而受赞誉——Britannica）。","转向后的郁达夫：从自我暴露到心理深描（B206：1923年后主题转变）。"],
+  "outline":["李白时与三 sisters？——不：于质夫？——情节通说待核：三人同学旧事与多年重逢的情感清算。"],
+  "characters":[{"name":"李白时？——人名待核","identity":"青年","note":"（通说待核）"}],
+  "themes":["'过去'的时间哲学（篇名通说）。",
+   "心理深度（B206：psychological depth）。",
+   "情感的自省（通说）。"],
+  "influence":[{"text":"Britannica：'praised for its psychological depth'（B206）。","source":"B206"},
+   {"text":"作者页：郁达夫1927年作品谱系（B206）。","source":"B206"}],
+  "reading":{"difficulties":["三角情感的结构。","郁达夫式的自剖。"],
+   "editions":["《过去》（收于《郁达夫全集》，通说待核）。"],
+   "order":"对照《沉沦》《日记九种》。"},
+  "pending":["人名（李白时/朴静远？）核对。","1927年发表（《洪水》说）待核。","'psychological depth'原句核对。"],
+  "sources":["B206"],"year_source":"B206","author_source":"B206","related_works":["chenlun","rijijiuzhong","qingchengzhilian"],
+  "svg":{"type":"grid","width":680,"height":340,"caption":"《过去》时间清算图",
+    "cards":[{"title":"旧同学","text":"三人的往事","color":"family"},{"title":"重逢","text":"多年后的清算","color":"main"},{"title":"心理","text":"深度刻画（B206）","color":"gold"},{"title":"过去","text":"不可追的时间","color":"plain"}]}
+},
+"renshenghaihai": {
+  "id":"renshenghaihai","title":"人生海海","original_title":"人生海海（长篇小说）","region":"中国","era":"现当代","era_detail":"当代",
+  "genre":"长篇小说","genre_group":"小说","language":"汉语（白话）","author_id":"maijia","author_name":"麦家",
+  "year_display":"2019年出版（通说待核；中国作家网 C026：'出版《解密》《暗算》《风声》《人生海海》等七部长篇小说'）","year_sort":2019,
+  "background":["中国作家网会员页（C026）：'出版《解密》《暗算》《风声》《人生海海》等七部长篇小说'；'《人生海海》获第18届华语传媒文学年度杰出作家奖'（C026）。","题材（通说待核）：'上校'的传奇与秘密——乡村记忆中的人物史。"],
+  "outline":["'上校'身上的刺字秘密与村庄的窥视（通说待核）。","'人生海海'：闽方言的包容与承受（书名通说）。"],
+  "characters":[{"name":"上校","identity":"军医","note":"秘密的承载者（通说待核）"},{"name":"我","identity":"叙述者","note":"村中少年（通说待核）"}],
+  "themes":["秘密与尊严（通说待核）。",
+   "村庄的集体窥视（通说）。",
+   "'人生海海'的承受哲学（通说）。"],
+  "influence":[{"text":"中国作家网会员页：'《人生海海》获第18届华语传媒文学年度杰出作家奖'（C026）。","source":"C026"},
+   {"text":"中国作家网：麦家作品被译成33种语言（C026 作者级）。","source":"C026"}],
+  "reading":{"difficulties":["乡村传言的复调。","'上校'身份的历史跨度。"],
+   "editions":["《人生海海》（北京十月文艺出版社，通说待核）。"],
+   "order":"麦家系列之外的新作，可独立读。"},
+  "pending":["2019年出版（北京十月文艺说）核对。","'上校'人名与刺字细节核对。","华语传媒奖年份核对。"],
+  "sources":["C026"],"year_source":"C026","author_source":"C026","related_works":["ansuan","jiemi","fengsheng"],
+  "svg":{"type":"grid","width":680,"height":340,"caption":"《人生海海》秘密结构图",
+    "cards":[{"title":"上校","text":"刺字的秘密","color":"main"},{"title":"村庄","text":"窥视的合唱","color":"antagonist"},{"title":"人生海海","text":"闽语的承受","color":"gold"},{"title":"尊严","text":"身体的战场","color":"family"}]}
+},
+"supailou": {
+  "id":"supailou","title":"四牌楼","original_title":"四牌楼（长篇小说）","region":"中国","era":"现当代","era_detail":"当代",
+  "genre":"长篇小说","genre_group":"小说","language":"汉语（白话）","author_id":"liuxinwu","author_name":"刘心武",
+  "year_display":"出版年份待核（中国作家网 C023：'《钟鼓楼》获茅奖，遮蔽了长篇《四牌楼》'）","year_sort":1993,
+  "background":["中国作家网（C023）：'《钟鼓楼》获茅奖，遮蔽了长篇《四牌楼》'——作者自评其被遮蔽的长篇。","题材（通说待核）：家族史与政治年代的自传性叙事。"],
+  "outline":["蔺家？——不：'四牌楼'下的家族记忆与历史创伤（情节通说待核）。"],
+  "characters":[{"name":"叙述者","identity":"家族中人","note":"（通说待核）"}],
+  "themes":["家族记忆与政治年代（通说待核）。",
+   "'被遮蔽'的自评（C023）。",
+   "心理纪实与虚构（通说）。"],
+  "influence":[{"text":"中国作家网：'《钟鼓楼》获茅奖，遮蔽了长篇《四牌楼》'（C023）。","source":"C023"},
+   {"text":"中国作家网：作者'四棵树'比喻（C023）。","source":"C023"}],
+  "reading":{"difficulties":["家族谱系。","年代创伤的细节。"],
+   "editions":["《四牌楼》（人民文学出版社/中华工商联合出版社版本，通说待核）。"],
+   "order":"对照《钟鼓楼》：刘心武的两副笔墨。"},
+  "pending":["出版年份（1993年说）核对。","家族人物名核对。","'四牌楼'地名与象征待核。"],
+  "sources":["C023"],"year_source":"C023","author_source":"C023","related_works":["zhonggulou","banzhuren","sishitongtang"],
+  "svg":{"type":"grid","width":680,"height":340,"caption":"《四牌楼》家族记忆图",
+    "cards":[{"title":"四牌楼","text":"家族的地标","color":"family"},{"title":"记忆","text":"年代的创伤","color":"main"},{"title":"自传性","text":"写实的边界","color":"gold"},{"title":"被遮蔽","text":"作者的自评（C023）","color":"plain"}]}
+},
+"xizhengji": {
+  "id":"xizhengji","title":"西征记","original_title":"西征记（长篇小说，《野葫芦引》第三卷）","region":"中国","era":"现当代","era_detail":"当代",
+  "genre":"长篇小说","genre_group":"小说","language":"汉语（白话）","author_id":"zongpu","author_name":"宗璞",
+  "year_display":"出版年份待核（中国作家网 C025：《野葫芦引》系列四部——1985《南渡记》至2019《北归记》；2009年出版说通说待核）","year_sort":2009,
+  "background":["中国作家网（C025）：'西南联大学生深入前线作战，以及胜利之后返回北平的历史故事'——第三卷《西征记》写学生从军。","作者（C025）：与父亲冯友兰'同一间书房、同样的失明'的写作。"],
+  "outline":["联大学生应征入伍：嵋（孟嵋）等人的从军线（通说待核）。","滇西远征军的战地（通说待核）。"],
+  "characters":[{"name":"孟嵋","identity":"学生","note":"从军的女学生（通说待核）"},{"name":"澹台玮","identity":"学生","note":"（通说待核）"}],
+  "themes":["学生从军：联大叙事的战争面（C025：西南联大学生深入前线作战）。",
+   "青春与牺牲（通说）。",
+   "四记的推进（C025）。"],
+  "influence":[{"text":"中国作家网：《野葫芦引》四部历经33年（C025）。","source":"C025"},
+   {"text":"中国作家网：《东藏记》获第六届茅奖（C025 作者级）。","source":"C025"}],
+  "reading":{"difficulties":["滇西抗战史。","四记连贯阅读。"],
+   "editions":["《西征记》（人民文学出版社，通说待核）。"],
+   "order":"三记顺读。"},
+  "pending":["2009年出版核对。","孟嵋/澹台玮人名核对。","滇西远征军史实对应待核。"],
+  "sources":["C025"],"year_source":"C025","author_source":"C025","related_works":["nanduji","dongcangji","hanye"],
+  "svg":{"type":"grid","width":680,"height":340,"caption":"《西征记》从军结构图",
+    "cards":[{"title":"从军","text":"联大学生的选择","color":"main"},{"title":"滇西","text":"远征军战地","color":"antagonist"},{"title":"嵋","text":"女学生的战争","color":"gold"},{"title":"胜利","text":"归北平的伏笔","color":"family"}]}
+},
+"wodewangdishi": {
+  "id":"wodewangdishi","title":"我的帝王生涯","original_title":"我的帝王生涯（长篇小说）","region":"中国","era":"现当代","era_detail":"当代",
+  "genre":"长篇小说","genre_group":"小说","language":"汉语（白话）","author_id":"sutong","author_name":"苏童",
+  "year_display":"出版年份待核（中国作家网 C015：'《米》《我的帝王生涯》《河岸》等长篇'——1992年说通说待核）","year_sort":1992,
+  "background":["中国作家网（C015）：'《米》《我的帝王生涯》《河岸》等长篇'（C015 官方口径）。","题材（通说待核）：虚构燮国少年天子端白的王位与坠落——架空历史。"],
+  "outline":["少年天子端白的登基、倾轧与出走——'走索王'（通说待核）。"],
+  "characters":[{"name":"端白","identity":"燮王","note":"第一人称天子（通说待核）"},{"name":"皇甫夫人","identity":"祖母","note":"摄政（通说待核）"}],
+  "themes":["架空历史的暴政寓言（通说）。",
+   "'走索'：权力的钢丝（通说待核）。",
+   "颓靡美学的极致（通说）。"],
+  "influence":[{"text":"中国作家网：列入苏童长篇代表作（C015）。","source":"C015"},
+   {"text":"先锋小说的历史架空转向（通说待核）。","source":"C015"}],
+  "reading":{"difficulties":["架空王朝的自造词汇。","颓靡修辞。"],
+   "editions":["《我的帝王生涯》（人民文学出版社/花城出版社版本，通说待核）。"],
+   "order":"先《米》后本作。"},
+  "pending":["1992年出版（花城出版社说）核对。","端白人名与燮国设定核对。","'走索王'情节待核。"],
+  "sources":["C015"],"year_source":"C015","author_source":"C015","related_works":["mi","huangqueji","he'an"],
+  "svg":{"type":"grid","width":680,"height":340,"caption":"《我的帝王生涯》架空王朝图",
+    "cards":[{"title":"燮王端白","text":"少年天子","color":"main"},{"title":"倾轧","text":"后宫与权臣","color":"antagonist"},{"title":"走索","text":"出走的技艺","color":"gold"},{"title":"苦行","text":"帝王的末路","color":"plain"}]}
+}
+}
+
+for wid, d in works.items():
+    p = pathlib.Path(f"data/works/{wid}.json")
+    p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+    print("created work", wid)
+print(len(works), "works created")

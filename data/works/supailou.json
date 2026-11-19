@@ -1,0 +1,97 @@
+{
+  "id": "supailou",
+  "title": "四牌楼",
+  "original_title": "四牌楼（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "liuxinwu",
+  "author_name": "刘心武",
+  "year_display": "出版年份待核（中国作家网 C023：'《钟鼓楼》获茅奖，遮蔽了长篇《四牌楼》'）",
+  "year_sort": 1993,
+  "background": [
+    "中国作家网（C023）：'《钟鼓楼》获茅奖，遮蔽了长篇《四牌楼》'——作者自评其被遮蔽的长篇。",
+    "题材（通说待核）：家族史与政治年代的自传性叙事。"
+  ],
+  "outline": [
+    "蔺家？——不：'四牌楼'下的家族记忆与历史创伤（情节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "叙述者",
+      "identity": "家族中人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "家族记忆与政治年代（通说待核）。",
+    "'被遮蔽'的自评（C023）。",
+    "心理纪实与虚构（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：'《钟鼓楼》获茅奖，遮蔽了长篇《四牌楼》'（C023）。",
+      "source": "C023"
+    },
+    {
+      "text": "中国作家网：作者'四棵树'比喻（C023）。",
+      "source": "C023"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "家族谱系。",
+      "年代创伤的细节。"
+    ],
+    "editions": [
+      "《四牌楼》（人民文学出版社/中华工商联合出版社版本，通说待核）。"
+    ],
+    "order": "对照《钟鼓楼》：刘心武的两副笔墨。"
+  },
+  "pending": [
+    "出版年份（1993年说）核对。",
+    "家族人物名核对。",
+    "'四牌楼'地名与象征待核。"
+  ],
+  "sources": [
+    "C023"
+  ],
+  "year_source": "C023",
+  "author_source": "C023",
+  "related_works": [
+    "zhonggulou",
+    "banzhuren",
+    "sishitongtang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《四牌楼》家族记忆图",
+    "cards": [
+      {
+        "title": "四牌楼",
+        "text": "家族的地标",
+        "color": "family"
+      },
+      {
+        "title": "记忆",
+        "text": "年代的创伤",
+        "color": "main"
+      },
+      {
+        "title": "自传性",
+        "text": "写实的边界",
+        "color": "gold"
+      },
+      {
+        "title": "被遮蔽",
+        "text": "作者的自评（C023）",
+        "color": "plain"
+      }
+    ]
+  }
+}

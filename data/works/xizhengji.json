@@ -1,0 +1,103 @@
+{
+  "id": "xizhengji",
+  "title": "西征记",
+  "original_title": "西征记（长篇小说，《野葫芦引》第三卷）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "zongpu",
+  "author_name": "宗璞",
+  "year_display": "出版年份待核（中国作家网 C025：《野葫芦引》系列四部——1985《南渡记》至2019《北归记》；2009年出版说通说待核）",
+  "year_sort": 2009,
+  "background": [
+    "中国作家网（C025）：'西南联大学生深入前线作战，以及胜利之后返回北平的历史故事'——第三卷《西征记》写学生从军。",
+    "作者（C025）：与父亲冯友兰'同一间书房、同样的失明'的写作。"
+  ],
+  "outline": [
+    "联大学生应征入伍：嵋（孟嵋）等人的从军线（通说待核）。",
+    "滇西远征军的战地（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "孟嵋",
+      "identity": "学生",
+      "note": "从军的女学生（通说待核）"
+    },
+    {
+      "name": "澹台玮",
+      "identity": "学生",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "学生从军：联大叙事的战争面（C025：西南联大学生深入前线作战）。",
+    "青春与牺牲（通说）。",
+    "四记的推进（C025）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：《野葫芦引》四部历经33年（C025）。",
+      "source": "C025"
+    },
+    {
+      "text": "中国作家网：《东藏记》获第六届茅奖（C025 作者级）。",
+      "source": "C025"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "滇西抗战史。",
+      "四记连贯阅读。"
+    ],
+    "editions": [
+      "《西征记》（人民文学出版社，通说待核）。"
+    ],
+    "order": "三记顺读。"
+  },
+  "pending": [
+    "2009年出版核对。",
+    "孟嵋/澹台玮人名核对。",
+    "滇西远征军史实对应待核。"
+  ],
+  "sources": [
+    "C025"
+  ],
+  "year_source": "C025",
+  "author_source": "C025",
+  "related_works": [
+    "nanduji",
+    "dongcangji",
+    "hanye"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《西征记》从军结构图",
+    "cards": [
+      {
+        "title": "从军",
+        "text": "联大学生的选择",
+        "color": "main"
+      },
+      {
+        "title": "滇西",
+        "text": "远征军战地",
+        "color": "antagonist"
+      },
+      {
+        "title": "嵋",
+        "text": "女学生的战争",
+        "color": "gold"
+      },
+      {
+        "title": "胜利",
+        "text": "归北平的伏笔",
+        "color": "family"
+      }
+    ]
+  }
+}
