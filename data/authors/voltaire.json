@@ -1,0 +1,63 @@
+{
+  "id": "voltaire",
+  "name": "伏尔泰",
+  "foreign_name": "Voltaire（伏尔泰，本名弗朗索瓦-马利·阿鲁埃，1694-11-21—1778-05-30）",
+  "country": "法国",
+  "birth": 1694,
+  "death": 1778,
+  "birth_year": 1694,
+  "death_year": 1778,
+  "era": "近代",
+  "summary": "伏尔泰，本名弗朗索瓦-马利·阿鲁埃（Britannica：pen name of François-Marie Arouet），法国作家与哲学家——'a central figure of the Enlightenment'（启蒙运动的中心人物——Britannica），其作品'attacked church authority, championed reason and religious tolerance, and influenced the French and American revolutions'（攻击教会权威、倡导理性与宗教宽容、影响法美革命——Britannica）。讽刺小说《老实人》1759年出版（Britannica：the satirical novel Candide (1759)）。《哲学书简》（1734）'was a landmark in the history of thought'（B239）。",
+  "timeline": [
+    {
+      "year": 1694,
+      "text": "11月21日生于巴黎（Britannica：Born November 21, 1694, Paris）。",
+      "src": "B239"
+    },
+    {
+      "year": 1734,
+      "text": "《哲学书简》出版（Britannica：Lettres philosophiques (1734)）。",
+      "src": "B239"
+    },
+    {
+      "year": 1759,
+      "text": "《老实人》出版（Britannica：Candide (1759)）。",
+      "src": "B239"
+    },
+    {
+      "year": 1778,
+      "text": "5月30日卒于巴黎（Britannica：Died May 30, 1778, Paris）。",
+      "src": "B239"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "laoshiren",
+      "note": "哲理小说（Britannica：1759）"
+    },
+    {
+      "title": "哲学书简",
+      "note": "（Britannica：1734）"
+    },
+    {
+      "title": "路易十四时代、亨利亚特",
+      "note": "史学与史诗（通说待核）"
+    }
+  ],
+  "style": [
+    "反讽的启蒙论战文体（Britannica：attacked church authority 语境）。",
+    "哲理小说：以荒诞旅程检验'乐观主义'（通说待核——莱布尼茨目标说）。",
+    "史家笔法与戏剧并行（通说）。"
+  ],
+  "status": "Britannica 定位伏尔泰为启蒙运动中心人物、法美革命的思想影响者；《老实人》为其最著名的讽刺小说（B239）。",
+  "sources": [
+    "B239"
+  ],
+  "dates_source": "B239",
+  "pending": [
+    "'必须耕耘我们的园地'结尾句原文核对。",
+    "《老实人》讽刺莱布尼茨式乐观主义的学界共识出处待核。",
+    "里斯本地震（1755）进入小说的对应待核。"
+  ]
+}

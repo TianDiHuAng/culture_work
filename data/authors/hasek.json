@@ -1,0 +1,54 @@
+{
+  "id": "hasek",
+  "name": "雅罗斯拉夫·哈谢克",
+  "foreign_name": "Jaroslav Hašek（雅罗斯拉夫·哈谢克，1883-04-30—1923-01-03）",
+  "country": "捷克",
+  "birth": 1883,
+  "death": 1923,
+  "birth_year": 1883,
+  "death_year": 1923,
+  "era": "现当代",
+  "summary": "哈谢克，布拉格人，捷克作家（Britannica），以讽刺小说《好兵帅克》传世。一战返回新建立的捷克斯洛伐克后专心写作（Britannica：devoted himself to writing），1921—23年出版《好兵帅克》，39岁早逝、小说未完成（Britannica：leaving it unfinished at his early death）。'The Good Soldier Schweik reflects the pacifist, antimilitary sentiments of post-World War I Europe'（B243）；帅克'invariably incompetent, and guileless, is forever colliding with the clumsy, dehumanized military bureaucracy'（B243）。原计划六卷、仅成三卷，第四卷由卡雷尔·瓦内克续成（Britannica）。",
+  "timeline": [
+    {
+      "year": 1883,
+      "text": "4月30日生于布拉格（Britannica：Born April 30, 1883, Prague）。",
+      "src": "B243"
+    },
+    {
+      "year": 1921,
+      "text": "《好兵帅克》开始出版（1921—23）（Britannica：published 1921–23）。",
+      "src": "B243"
+    },
+    {
+      "year": 1923,
+      "text": "1月3日卒于利普尼采（Britannica：died Jan. 3, 1923, Lipnice nad Sázavou）。",
+      "src": "B243"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "haobingshuaike",
+      "note": "讽刺小说（Britannica：1921—23）"
+    },
+    {
+      "title": "好兵帅克前传短篇",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "天真的反讽：帅克的'乖顺'即对抗（Britannica：naïveté is the main vehicle for Hašek's mockery of authority）。",
+    "反军国主义与和平主义（Britannica：pacifist, antimilitary sentiments）。",
+    "布拉格酒馆幽默与卡雷尔·瓦内克续稿公案（通说待核）。"
+  ],
+  "status": "Britannica 定位哈谢克为以《好兵帅克》传世的捷克讽刺作家；未完成的六卷计划（成三卷+第四卷由他人续成）为其文学史公案（B243）。",
+  "sources": [
+    "B243"
+  ],
+  "dates_source": "B243",
+  "pending": [
+    "帅克人物原型（弗里格尔犬贩说）待核。",
+    "雷纳译本与哈谢克 anarchist 经历待核。",
+    "捷克原版插图（约瑟夫·拉达）待核。"
+  ]
+}

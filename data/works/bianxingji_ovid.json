@@ -1,0 +1,100 @@
+{
+  "id": "bianxingji_ovid",
+  "title": "变形记（奥维德）",
+  "original_title": "Metamorphoses",
+  "region": "古罗马",
+  "era": "古代",
+  "era_detail": "奥古斯都时代",
+  "genre": "叙事史诗",
+  "genre_group": "诗歌",
+  "language": "拉丁语",
+  "author_id": "ovid",
+  "author_name": "奥维德（Publius Ovidius Naso）",
+  "year_display": "约公元8年成书（Britannica：poem in 15 books, written in Latin about 8 ce）",
+  "year_sort": 8,
+  "background": [
+    "Britannica：'a collection of mythological and legendary stories, told in chronological order from the creation'（从创世起按时序讲述的神话传说集）；15卷六音步史诗（B238）。",
+    "主题（Britannica）：'passion, not transformation, as the essential unifying theme'——统一主题是激情而非变形本身（B238）。"
+  ],
+  "outline": [
+    "从创世的混沌到'死亡与成神的凯撒'——'the death and deification of Julius Caesar'为最终变形（B238）。",
+    "著名变形：达佛涅、那喀索斯、俄耳甫斯等（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "诸神与英雄",
+      "identity": "群像",
+      "note": "变形的多棱镜"
+    }
+  ],
+  "themes": [
+    "激情作为统一主题（Britannica）。",
+    "神话的权威定型：'Ovid gave many Greek legends their definitive forms for subsequent generations'（B237）。",
+    "wit 与修辞的华丽（B238：noted for its wit, rhetorical brilliance）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'His verse had immense influence both by its imaginative interpretations of Classical myth and as an example of supreme technical accomplishment'（B237）。",
+      "source": "B237"
+    },
+    {
+      "text": "中世纪以降欧洲文学的'奥维德传统'（通说待核）。",
+      "source": "B237"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "15卷的连续性——按神话谱系而非情节。",
+      "拉丁文格律（中译依赖转译）。"
+    ],
+    "editions": [
+      "杨周翰译本？（《变形记》中译本信息待核）。",
+      "英文译本（Melville/Mandre 公有领域部分）。"
+    ],
+    "order": "先读卷一（创世—洪水）与卷十五（凯撒成神）首尾。"
+  },
+  "pending": [
+    "中译本信息核对。",
+    "达佛涅等名篇出处卷次核对。",
+    "凯撒成神与奥古斯都颂诗的政治性待核。"
+  ],
+  "sources": [
+    "B238",
+    "B237"
+  ],
+  "year_source": "B238",
+  "author_source": "B237",
+  "related_works": [
+    "aeneid",
+    "shenqu",
+    "yisuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《变形记》15卷时间轴",
+    "cards": [
+      {
+        "title": "创世",
+        "text": "混沌→秩序",
+        "color": "family"
+      },
+      {
+        "title": "诸神时代",
+        "text": "激情的变形",
+        "color": "main"
+      },
+      {
+        "title": "英雄时代",
+        "text": "俄耳甫斯等",
+        "color": "gold"
+      },
+      {
+        "title": "凯撒成神",
+        "text": "最后的变形",
+        "color": "plain"
+      }
+    ]
+  }
+}

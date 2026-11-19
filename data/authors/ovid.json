@@ -1,0 +1,59 @@
+{
+  "id": "ovid",
+  "name": "奥维德",
+  "foreign_name": "Ovid（Publius Ovidius Naso，公元前43年3月20日—公元17年）",
+  "country": "古罗马",
+  "birth": -43,
+  "death": 17,
+  "birth_year": -43,
+  "death_year": 17,
+  "era": "古代",
+  "summary": "奥维德（普布利乌斯·奥维德乌斯·纳索），奥古斯都时代罗马诗人（Britannica），《变形记》'fixed many Greek myths in their lasting literary forms'（使许多希腊神话定型于持久的文学形式——Britannica）。公元8年被奥古斯都流放黑海之滨的托米斯，终身未归（Britannica）；流放原因：'Ovid specifies two, his Ars amatoria and an offense'——坚称那是'indiscretion (error), not a crime (scelus)'（过失而非罪行——Britannica）。",
+  "timeline": [
+    {
+      "year": -43,
+      "text": "3月20日生于苏尔莫（Britannica：Born March 20, 43 bce, Sulmo）。",
+      "src": "B237"
+    },
+    {
+      "year": 8,
+      "text": "被奥古斯都流放至黑海托米斯（Britannica：Exiled 8 ce, banished by Augustus to Tomis）。",
+      "src": "B237"
+    },
+    {
+      "year": 17,
+      "text": "卒于托米斯（Britannica：Died 17 ce, Tomis）。",
+      "src": "B237"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "bianxingji_ovid",
+      "note": "史诗（Britannica：15卷，约8 CE）"
+    },
+    {
+      "title": "爱经（Ars amatoria）",
+      "note": "（Britannica：流放原因之一）"
+    },
+    {
+      "title": "哀歌集（Tristia）、黑海书简",
+      "note": "（Britannica：流放期作品）"
+    }
+  ],
+  "style": [
+    "'wit, rhetorical brilliance, and narrative and descriptive qualities'（Britannica 对《变形记》的评语）。",
+    "神话的定型者：'Ovid gave many Greek legends their definitive forms for subsequent generations'（Britannica）。",
+    "以'激情'为统一主题（Britannica：passion, not transformation, as the essential unifying theme）。"
+  ],
+  "status": "Britannica 定位奥维德为奥古斯都时代诗人；'His verse had immense influence both by its imaginative interpretations of Classical myth and as an example of supreme technical accomplishment'（B237）。",
+  "sources": [
+    "B237",
+    "B238"
+  ],
+  "dates_source": "B237",
+  "pending": [
+    "流放具体原因（carmen et error 的史学界推测）待核。",
+    "《变形记》与但丁/莎士比亚的接受史待核。",
+    "《岁时记》待核。"
+  ]
+}

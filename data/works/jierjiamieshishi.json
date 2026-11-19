@@ -1,0 +1,111 @@
+{
+  "id": "jierjiamieshishi",
+  "title": "吉尔伽美什史诗",
+  "original_title": "Epic of Gilgamesh（阿卡德语版）",
+  "region": "美索不达米亚",
+  "era": "古代",
+  "era_detail": "美索不达米亚（最完整文本约公元前7世纪）",
+  "genre": "史诗",
+  "genre_group": "诗歌",
+  "language": "阿卡德语",
+  "author_id": null,
+  "author_name": "美索不达米亚多代文人层累而成（作者不可考）",
+  "year_display": "'often cited as the earliest significant work of surviving literature'（Britannica）；最完整文本为尼尼微出土12块阿卡德语残板（Britannica）",
+  "year_sort": -650,
+  "background": [
+    "Britannica：'an ancient Mesopotamian poem in Akkadian about Gilgamesh, a part-divine king of Uruk who quests for immortality after his friend Enkidu dies'（半神乌鲁克王在挚友死后寻求永生——B242）；'often cited as the earliest significant work of surviving literature'（常被引为存世文学中最早的重要作品——B242）。",
+    "文本（B242）：最完整者为尼尼微亚述巴尼拔图书馆出土的'12 incomplete Akkadian-language tablets'（12块残板）。"
+  ],
+  "outline": [
+    "为驯服暴君，神造恩奇都；二人搏斗后结为挚友，共诛天牛（B242 转述）。",
+    "恩奇都之死→吉尔伽美什寻乌特纳皮什提姆（'survivor of the Babylonian Flood'——B242）求永生（B242）。",
+    "得青春草又被蛇夺走——接受必死（B242）。",
+    "洪水故事与《创世记》的平行（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "吉尔伽美什",
+      "identity": "乌鲁克王",
+      "note": "三分之二神性（通说）"
+    },
+    {
+      "name": "恩奇都",
+      "identity": "神造野人",
+      "note": "挚友（B242）"
+    },
+    {
+      "name": "乌特纳皮什提姆",
+      "identity": "洪水幸存者",
+      "note": "永生的见证者（B242）"
+    }
+  ],
+  "themes": [
+    "死亡与友谊：接受必死的教育（B242）。",
+    "洪水母题的最早文本之一（通说待核）。",
+    "城邦记忆的刻写（泥板——通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'often cited as the earliest significant work of surviving literature'（B242）。",
+      "source": "B242"
+    },
+    {
+      "text": "对后世洪水叙事与英雄史诗的原型意义（通说待核）。",
+      "source": "B242"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "残板缺文与译本差异。",
+      "美索不达米亚神名系统。"
+    ],
+    "editions": [
+      "《吉尔伽美什》（译林出版社/商务印书馆版本，通说待核）。",
+      "英译（Andrew George 版，通说待核）。"
+    ],
+    "order": "先读第1—8块板（友谊与死亡）→ 洪水板 → 第11—12块板。"
+  },
+  "pending": [
+    "十二块板内容分配核对。",
+    "古巴比伦旧版（约前18世纪说）与苏美尔五首独立诗歌的谱系待核。",
+    "中译本信息核对。"
+  ],
+  "sources": [
+    "B242"
+  ],
+  "year_source": "B242",
+  "author_source": "B242",
+  "related_works": [
+    "shiji",
+    "iliad",
+    "odyssey"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吉尔伽美什》寻索结构图",
+    "cards": [
+      {
+        "title": "搏斗结友",
+        "text": "恩奇都（B242）",
+        "color": "family"
+      },
+      {
+        "title": "天牛",
+        "text": "共诛的僭越",
+        "color": "gold"
+      },
+      {
+        "title": "寻永生",
+        "text": "洪水见证者",
+        "color": "main"
+      },
+      {
+        "title": "蛇夺草",
+        "text": "接受必死",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

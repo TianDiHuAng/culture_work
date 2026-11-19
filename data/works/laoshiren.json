@@ -1,0 +1,110 @@
+{
+  "id": "laoshiren",
+  "title": "老实人",
+  "original_title": "Candide, ou l'Optimisme（Candide）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "启蒙时代",
+  "genre": "哲理小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "voltaire",
+  "author_name": "伏尔泰（Voltaire）",
+  "year_display": "1759年出版（Britannica：the satirical novel Candide (1759)）",
+  "year_sort": 1759,
+  "background": [
+    "Britannica：伏尔泰为'central figure of the Enlightenment'，《老实人》为其讽刺小说（B239）。",
+    "讽刺目标：'乐观主义'（莱布尼茨式'一切皆善'说——通说待核；Britannica 该页未载目标）。"
+  ],
+  "outline": [
+    "憨第德（Candide）被逐出城堡：从战场、地震、宗教裁判到黄金国——一路荒诞（通说）。",
+    "庞格罗斯师的'一切皆善'不断被现实打脸（通说待核）。",
+    "结尾：'必须耕耘我们的园地'（名句通说待核——il faut cultiver notre jardin）。"
+  ],
+  "characters": [
+    {
+      "name": "憨第德（Candide）",
+      "identity": "青年",
+      "note": "天真的旅人"
+    },
+    {
+      "name": "庞格罗斯",
+      "identity": "哲学教师",
+      "note": "乐观主义化身（通说）"
+    },
+    {
+      "name": "居内贡",
+      "identity": "城堡小姐",
+      "note": "爱慕对象（通说）"
+    }
+  ],
+  "themes": [
+    "对盲目乐观主义的清算（通说待核）。",
+    "灾难的目录：战争、地震、宗教裁判（通说）。",
+    "退出玄谈、耕耘园地（名句待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：伏尔泰'attacked church authority, championed reason and religious tolerance, and influenced the French and American revolutions'（B239）——《老实人》为其通俗化载体。",
+      "source": "B239"
+    },
+    {
+      "text": "哲理小说文体的典范（通说）。",
+      "source": "B239"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "章回式的快节奏讽刺——辨明史实影射。",
+      "1755里斯本地震等事件背景（通说）。"
+    ],
+    "editions": [
+      "傅雷译本（人民文学出版社，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "对照《格列佛游记》：两种启蒙讽刺。"
+  },
+  "pending": [
+    "'耕耘园地'结尾原文核对。",
+    "莱布尼茨乐观主义目标说出处待核。",
+    "1759年匿名初版（日内瓦说）待核。"
+  ],
+  "sources": [
+    "B239"
+  ],
+  "year_source": "B239",
+  "author_source": "B239",
+  "related_works": [
+    "geliefo",
+    "meilixinshijie",
+    "gulage"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《老实人》荒诞旅程图",
+    "cards": [
+      {
+        "title": "逐出城堡",
+        "text": "天真的开始",
+        "color": "family"
+      },
+      {
+        "title": "战争与地震",
+        "text": "'一切皆善'的破产",
+        "color": "antagonist"
+      },
+      {
+        "title": "黄金国",
+        "text": "乌托邦的一瞥",
+        "color": "gold"
+      },
+      {
+        "title": "耕耘园地",
+        "text": "结尾（名句待核）",
+        "color": "main"
+      }
+    ]
+  }
+}

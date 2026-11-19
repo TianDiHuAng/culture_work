@@ -1,0 +1,68 @@
+{
+  "id": "euripides",
+  "name": "欧里庇得斯",
+  "foreign_name": "Euripides（欧里庇得斯，约公元前484—前406）",
+  "country": "古希腊",
+  "birth": -484,
+  "death": -406,
+  "birth_year": -484,
+  "death_year": -406,
+  "era": "古代",
+  "summary": "欧里庇得斯，雅典三大悲剧家的最后一位（Britannica：the last of classical Athens' three great tragic dramatists），以心理写实与对传统神话宗教的怀疑著称（Britannica）。生前比赛屡败、身后成为希腊化时代最受欢迎的悲剧家（Britannica 语境）。'Nineteen plays are extant'（含存疑者一部——Britannica），古代归于其名下者92部。《美狄亚》431 BCE 上演（Britannica）。",
+  "timeline": [
+    {
+      "year": -484,
+      "text": "约生于雅典（Britannica：Born c. 484 bc, Athens）。",
+      "src": "B236"
+    },
+    {
+      "year": -455,
+      "text": "首次参加戏剧节（Britannica：first competed 455）。",
+      "src": "B236"
+    },
+    {
+      "year": -441,
+      "text": "首获戏剧节冠军（Britannica：first victory 441）。",
+      "src": "B236"
+    },
+    {
+      "year": -431,
+      "text": "《美狄亚》上演（Britannica：431 BCE）。",
+      "src": "B236"
+    },
+    {
+      "year": -406,
+      "text": "卒于马其顿（Britannica：died 406, Macedonia）。",
+      "src": "B236"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "meidiya",
+      "note": "悲剧（Britannica：431 BCE）"
+    },
+    {
+      "title": "酒神的伴侣、特洛伊妇女",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "伊菲革涅亚在奥利斯",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "心理写实：激情与疯狂的内在戏剧（Britannica 语境：psychological realism）。",
+    "对神话与宗教的怀疑立场（Britannica：skeptical, questioning stance）。",
+    "修辞与辩术的舞台化（通说）。"
+  ],
+  "status": "Britannica 定位欧里庇得斯为三大悲剧家之末、希腊化时代最受欢迎者；存世悲剧19部（含存疑1部）。",
+  "sources": [
+    "B236"
+  ],
+  "dates_source": "B236",
+  "pending": [
+    "美狄亚身份（科尔基斯公主）与复仇情节逐句核对。",
+    "'机械降神'结局（太阳车）细节待核。",
+    "马其顿晚年（阿卡劳斯宫廷）待核。"
+  ]
+}

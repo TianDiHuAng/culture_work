@@ -1,0 +1,105 @@
+{
+  "id": "haobingshuaike",
+  "title": "好兵帅克",
+  "original_title": "Osudy dobrého vojáka Švejka za světové války（The Good Soldier Švejk）",
+  "region": "捷克",
+  "era": "现当代",
+  "era_detail": "20世纪（一战后）",
+  "genre": "讽刺小说",
+  "genre_group": "小说",
+  "language": "捷克语",
+  "author_id": "hasek",
+  "author_name": "雅罗斯拉夫·哈谢克",
+  "year_display": "1921—1923年出版（Britannica：published 1921–23）",
+  "year_sort": 1921,
+  "background": [
+    "Britannica：'The Good Soldier Schweik reflects the pacifist, antimilitary sentiments of post-World War I Europe'（反映一战后欧洲的反战与反军国情绪——B243）。",
+    "帅克'invariably incompetent, and guileless, is forever colliding with the clumsy, dehumanized military bureaucracy'——其天真'is the main vehicle for Hašek's mockery of authority'（B243）。",
+    "未完成：原计划六卷、仅成三卷，第四卷由卡雷尔·瓦内克续成（B243）。"
+  ],
+  "outline": [
+    "帅克以'白痴式忠诚'应征入伍：征兵局、随军神父、火车、前线（通说）。",
+    "每一步都与笨拙而无人性的军事官僚机构相撞（Britannica：forever colliding with……）。"
+  ],
+  "characters": [
+    {
+      "name": "帅克",
+      "identity": "好兵",
+      "note": "天真反讽的主角（B243）"
+    },
+    {
+      "name": "杜布中尉",
+      "identity": "军官",
+      "note": "官僚机器的代表（通说待核）"
+    }
+  ],
+  "themes": [
+    "反战与反军国主义（Britannica：pacifist, antimilitary sentiments）。",
+    "以天真瓦解权威（Britannica：mockery of authority）。",
+    "奥匈帝国官僚的荒诞（Britannica：clumsy, dehumanized military bureaucracy）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：一战后欧洲反战文学的代表作之一（语境）。",
+      "source": "B243"
+    },
+    {
+      "text": "'帅克式'人物成为捷克民族性格的漫画符号（通说待核）。",
+      "source": "B243"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "奥匈军制与捷克语双关。",
+      "未完成结构——阅读时注意续稿。"
+    ],
+    "editions": [
+      "萧乾译本（人民文学出版社，通说待核）。",
+      "捷克原版插图（拉达画本——通说待核）。"
+    ],
+    "order": "对照《动物农场》《五号屠场》：反战的两种笑法。"
+  },
+  "pending": [
+    "人物名（杜布/卡茨）核对。",
+    "哈谢克的无政府主义经历待核。",
+    "六卷计划细节核对。"
+  ],
+  "sources": [
+    "B243"
+  ],
+  "year_source": "B243",
+  "author_source": "B243",
+  "related_works": [
+    "bianxingji",
+    "wuhao",
+    "sihunling"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《好兵帅克》撞机结构图",
+    "cards": [
+      {
+        "title": "征兵局",
+        "text": "体检的闹剧",
+        "color": "family"
+      },
+      {
+        "title": "随军神父",
+        "text": "酒馆的战争",
+        "color": "gold"
+      },
+      {
+        "title": "开赴前线",
+        "text": "官僚机器（Britannica）",
+        "color": "antagonist"
+      },
+      {
+        "title": "天真",
+        "text": "帅克的武器",
+        "color": "main"
+      }
+    ]
+  }
+}

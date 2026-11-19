@@ -1,0 +1,116 @@
+{
+  "id": "weijunzi",
+  "title": "伪君子",
+  "original_title": "Le Tartuffe; ou, l'imposteur（Tartuffe）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "路易十四时代",
+  "genre": "五幕喜剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "moliere",
+  "author_name": "莫里哀（Molière）",
+  "year_display": "1664年首演、1669年出版（Britannica：produced in 1664 and published in French in 1669）",
+  "year_sort": 1669,
+  "background": [
+    "Britannica：五幕喜剧，又名'The Imposter'（骗子）；达尔杜弗——'a pious-seeming fraud'（貌似虔诚的骗子）几乎毁掉富商奥尔恭一家；'Elmire, Orgon's wife, sees through Tartuffe's wicked hypocrisy and exposes him'（妻子艾耳密尔识破伪善——Britannica）。",
+    "压制（Britannica B240）：'They were met with public outcry and were suppressed by the Roman Catholic Church.'（该剧遭遇教会压制——通说待核：1664—1669禁演年表）。"
+  ],
+  "outline": [
+    "奥尔恭迷上'虔诚'的达尔杜弗，逐子赠产（通说）。",
+    "桌下窃听：艾耳密尔设局让丈夫亲见（Britannica：sees through……and exposes him）。",
+    "圣旨解围：国王的英明收束（通说待核——尾声对王权的颂词）。"
+  ],
+  "characters": [
+    {
+      "name": "达尔杜弗",
+      "identity": "伪信士",
+      "note": "伪善的化身（Britannica）"
+    },
+    {
+      "name": "奥尔恭",
+      "identity": "富商家长",
+      "note": "被蒙蔽者"
+    },
+    {
+      "name": "艾耳密尔",
+      "identity": "奥尔恭之妻",
+      "note": "识破者（Britannica）"
+    },
+    {
+      "name": "道丽娜",
+      "identity": "女仆",
+      "note": "最清醒的人（通说）"
+    }
+  ],
+  "themes": [
+    "宗教伪善的喜剧解剖（Britannica 语境）。",
+    "父权与家庭财产的荒诞（通说）。",
+    "仆人的智慧：道丽娜（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：莫里哀'widely regarded as the finest writer of comedy in the French language'（B240）。",
+      "source": "B240"
+    },
+    {
+      "text": "'Tartuffe'成为语言中的伪善代名词（通说待核）。",
+      "source": "B241"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "亚历山大体诗行（中译需看韵文/散文版本）。",
+      "1660年代法国宗教政治背景。"
+    ],
+    "editions": [
+      "李健吾译本（上海译文出版社，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "一次读完（五幕紧凑）；对照《悭吝人》。"
+  },
+  "pending": [
+    "1664—1669禁演年表核对。",
+    "李健吾译本信息核对。",
+    "结尾颂王权一幕的解读争议待核。"
+  ],
+  "sources": [
+    "B241",
+    "B240"
+  ],
+  "year_source": "B241",
+  "author_source": "B240",
+  "related_works": [
+    "luerwang",
+    "rulin",
+    "aoman"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《伪君子》骗局结构图",
+    "cards": [
+      {
+        "title": "入宅",
+        "text": "虔士的表演",
+        "color": "family"
+      },
+      {
+        "title": "赠产",
+        "text": "奥尔恭的痴迷",
+        "color": "antagonist"
+      },
+      {
+        "title": "桌下窃听",
+        "text": "艾耳密尔识破（Britannica）",
+        "color": "main"
+      },
+      {
+        "title": "圣旨",
+        "text": "解围（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "puluomixiusibang",
+  "title": "被缚的普罗米修斯",
+  "original_title": "Promētheus Desmōtēs（Prometheus Bound）",
+  "region": "古希腊",
+  "era": "古代",
+  "era_detail": "古典时代",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "古希腊语",
+  "author_id": "aeschylus",
+  "author_name": "埃斯库罗斯（作者归属有争论——Britannica）",
+  "year_display": "创作年代不确定（Britannica：the dating of which is uncertain）",
+  "year_sort": -450,
+  "background": [
+    "Britannica：普罗米修斯'has saved humanity with his gift of fire'（以火赠人类）；'For this act Zeus has ordered that he be chained to a remote crag'（因此被缚于荒崖——Britannica）。",
+    "作者归属：Britannica 页面问答提出'Why is the authorship of Prometheus Bound debated by scholars?'（B234）。"
+  ],
+  "outline": [
+    "权势与暴力神将普罗米修斯钉上高加索悬崖——赫菲斯托斯执行（通说）。",
+    "来客：俄刻阿诺斯、俄刻阿尼得斯歌队、伊奥、赫尔墨斯（Britannica：visited by Oceanus, a chorus of Oceanus's daughters, Io, and Hermes）。",
+    "结尾：普罗米修斯拒泄预言、与赫尔墨斯对峙坠入深渊（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "普罗米修斯",
+      "identity": "提坦神",
+      "note": "人类的恩人（Britannica）"
+    },
+    {
+      "name": "宙斯（僭主）",
+      "identity": "新王",
+      "note": "压迫者（Britannica 语境）"
+    },
+    {
+      "name": "伊奥",
+      "identity": "受宙斯迫害者",
+      "note": "受害者互证（通说）"
+    }
+  ],
+  "themes": [
+    "反抗僭主的正义（通说）。",
+    "知识即痛苦的预言（通说待核）。",
+    "技术文明的恩人神话（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：希腊悲剧中被缚赠火者的经典舞台（B235 语境）。",
+      "source": "B235"
+    },
+    {
+      "text": "浪漫主义以降的'普罗米修斯'再造（雪莱《解放了的普罗米修斯》——通说待核）。",
+      "source": "B235"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "古希腊神系谱。",
+      "作者归属争论——阅读时以'埃斯库罗斯名下'看待。"
+    ],
+    "editions": [
+      "《罗念生全集》悲剧卷（上海人民出版社，通说待核）。",
+      "英文译本（公有领域）。"
+    ],
+    "order": "可与《约伯记》对读（Britannica 曾以之相比——通说待核）。"
+  },
+  "pending": [
+    "作者归属争论的主流观点核对。",
+    "三部曲散佚（被释的普罗米修斯说）待核。",
+    "上演年代（前460年代说）待核。"
+  ],
+  "sources": [
+    "B235",
+    "B234"
+  ],
+  "year_source": "B235",
+  "author_source": "B234",
+  "related_works": [
+    "oedipus",
+    "meidiya",
+    "shenqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《被缚的普罗米修斯》结构图",
+    "cards": [
+      {
+        "title": "赠火",
+        "text": "拯救人类（Britannica）",
+        "color": "main"
+      },
+      {
+        "title": "钉崖",
+        "text": "宙斯的惩罚",
+        "color": "antagonist"
+      },
+      {
+        "title": "伊奥",
+        "text": "受害者的互证",
+        "color": "family"
+      },
+      {
+        "title": "坠渊",
+        "text": "拒绝泄密的结局",
+        "color": "gold"
+      }
+    ]
+  }
+}

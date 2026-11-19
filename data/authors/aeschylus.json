@@ -1,0 +1,69 @@
+{
+  "id": "aeschylus",
+  "name": "埃斯库罗斯",
+  "foreign_name": "Aeschylus（埃斯库罗斯，约公元前525/524—前456/455）",
+  "country": "古希腊",
+  "birth": -525,
+  "death": -456,
+  "birth_year": -525,
+  "death_year": -456,
+  "era": "古代",
+  "summary": "埃斯库罗斯，雅典悲剧家——'the first great Athenian tragedian'（第一位伟大的雅典悲剧家——Britannica），通过引入第二名演员改造了希腊戏剧，被称为'悲剧之父'（Britannica：Father of Tragedy）。'wrote approximately 90 plays'（约90部），今仅存7部完整悲剧（Britannica）；13次狄俄尼索斯戏剧节首奖（Britannica）。唯一存世完整三联剧《俄瑞斯忒亚》（458 BC，Britannica）。《被缚的普罗米修斯》虽归其名下，但'Why is the authorship of Prometheus Bound debated by scholars?'（作者归属存在学术争论——Britannica 页面问答）。",
+  "timeline": [
+    {
+      "year": -525,
+      "text": "生于（约前525/524——Britannica：Born 525/524 bc）。",
+      "src": "B234"
+    },
+    {
+      "year": -499,
+      "text": "首次参加狄俄尼索斯戏剧节（Britannica：First competed at the Dionysia in 499 bc）。",
+      "src": "B234"
+    },
+    {
+      "year": -484,
+      "text": "首获戏剧节冠军（Britannica：first victory in the spring of 484 bc）。",
+      "src": "B234"
+    },
+    {
+      "year": -458,
+      "text": "《俄瑞斯忒亚》上演（Britannica：Oresteia produced in 458）。",
+      "src": "B234"
+    },
+    {
+      "year": -456,
+      "text": "卒于西西里杰拉（Britannica：died 456/455 bc, Gela, Sicily）。",
+      "src": "B234"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "puluomixiusibang",
+      "note": "悲剧（Britannica 语境；作者归属有争论）"
+    },
+    {
+      "title": "俄瑞斯忒亚三部曲",
+      "note": "（Britannica：458 BC）"
+    },
+    {
+      "title": "七将攻忒拜、乞援人",
+      "note": "（Britannica 存目）"
+    }
+  ],
+  "style": [
+    "引入第二名演员：对话戏剧的开创（Britannica：adding a second actor）。",
+    "'the most theological of the Greek tragedians'（Britannica 转引——其普罗米修斯被比于《约伯记》）。",
+    "宏大而庄严的合唱与意象（通说）。"
+  ],
+  "status": "Britannica 定位埃斯库罗斯为希腊悲剧之父；《俄瑞斯忒亚》为唯一存世完整三联剧（Britannica）。",
+  "sources": [
+    "B234",
+    "B235"
+  ],
+  "dates_source": "B234",
+  "pending": [
+    "《被缚的普罗米修斯》作者归属争论细节（学界主流观点）待核。",
+    "恩提梅乌斯？——不：普罗米修斯三部曲（被缚/被释/带火者）散佚情况待核。",
+    "悲剧节三剧一羊人剧规则（Britannica 已载）展开核对。"
+  ]
+}

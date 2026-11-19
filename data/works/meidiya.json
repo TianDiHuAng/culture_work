@@ -1,0 +1,105 @@
+{
+  "id": "meidiya",
+  "title": "美狄亚",
+  "original_title": "Μήδεια（Medea）",
+  "region": "古希腊",
+  "era": "古代",
+  "era_detail": "古典时代",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "古希腊语",
+  "author_id": "euripides",
+  "author_name": "欧里庇得斯",
+  "year_display": "公元前431年上演（Britannica：431 BCE）",
+  "year_sort": -431,
+  "background": [
+    "Britannica：'a tragedy exploring injustice and revenge'（探不公与复仇的悲剧）；'Medea determines that she will punish Jason by murdering not only her own sons but also the Corinthian princess'（杀子以罚负心——Britannica）。",
+    "作者：三大悲剧家最后一位、以心理写实著称（B236）。"
+  ],
+  "outline": [
+    "伊阿宋另娶科林斯公主；美狄亚被放逐（通说）。",
+    "假意和解：赠毒袍——公主与国王之死（通说待核）。",
+    "杀子复仇，驾日车离去（Britannica 语境+通说）。"
+  ],
+  "characters": [
+    {
+      "name": "美狄亚",
+      "identity": "科尔基斯公主",
+      "note": "复仇者（Britannica）"
+    },
+    {
+      "name": "伊阿宋",
+      "identity": "阿尔戈英雄",
+      "note": "负心者（通说）"
+    }
+  ],
+  "themes": [
+    "不公与复仇的悲剧（Britannica：exploring injustice and revenge）。",
+    "异乡人（barbarian）的身份暴力（通说待核）。",
+    "母性与复仇的悖论（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：欧里庇得斯最著名的作品之一（one of his most famous works）。",
+      "source": "B236"
+    },
+    {
+      "text": "女性复仇叙事的原型：后世文学与影视的母题（通说待核）。",
+      "source": "B236"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "希腊神话前史（金羊毛）注释。",
+      "申辩辞的长篇修辞。"
+    ],
+    "editions": [
+      "《罗念生全集》悲剧卷（通说待核）。",
+      "英文译本（公有领域）。"
+    ],
+    "order": "对照《被缚的普罗米修斯》：两种反抗。"
+  },
+  "pending": [
+    "毒袍与日车结局细节核对。",
+    "克瑞翁/格劳刻人名核对。",
+    "科林斯上演未获首奖说待核。"
+  ],
+  "sources": [
+    "B236"
+  ],
+  "year_source": "B236",
+  "author_source": "B236",
+  "related_works": [
+    "oedipus",
+    "puluomixiusibang",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《美狄亚》复仇结构图",
+    "cards": [
+      {
+        "title": "被弃",
+        "text": "异乡的背叛",
+        "color": "family"
+      },
+      {
+        "title": "毒袍",
+        "text": "假意和解",
+        "color": "antagonist"
+      },
+      {
+        "title": "杀子",
+        "text": "最深的惩罚（Britannica）",
+        "color": "main"
+      },
+      {
+        "title": "日车",
+        "text": "逃逸与遗留",
+        "color": "gold"
+      }
+    ]
+  }
+}

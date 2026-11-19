@@ -1,0 +1,69 @@
+{
+  "id": "moliere",
+  "name": "莫里哀",
+  "foreign_name": "Molière（莫里哀，本名让-巴蒂斯特·波克兰，1622-01-15受洗—1673-02-17）",
+  "country": "法国",
+  "birth": 1622,
+  "death": 1673,
+  "birth_year": 1622,
+  "death_year": 1673,
+  "era": "近代",
+  "summary": "莫里哀，巴黎人，本名让-巴蒂斯特·波克兰（Britannica：born Jean-Baptiste Poquelin），法国演员与剧作家——'widely regarded as the finest writer of comedy in the French language'（公认法语喜剧最伟大的作家——Britannica）。1658年在卢浮宫为路易十四演出获王室青睐（Britannica）。'Many of his plays contained scandalous material. They were met with public outcry and were suppressed by the Roman Catholic Church.'（Britannica）。1673年2月17日舞台倒塌当日去世（Britannica：Collapsed onstage February 17, 1673——当日去世为通说待核）。",
+  "timeline": [
+    {
+      "year": 1622,
+      "text": "1月15日受洗于巴黎（Britannica：Baptized January 15, 1622, Paris）。",
+      "src": "B240"
+    },
+    {
+      "year": 1644,
+      "text": "首次见于'莫里哀'艺名（Britannica：Stage name first documented June 28, 1644）。",
+      "src": "B240"
+    },
+    {
+      "year": 1658,
+      "text": "10月24日在卢浮宫为路易十四演出（Britannica：Louvre performance October 24, 1658）。",
+      "src": "B240"
+    },
+    {
+      "year": 1664,
+      "text": "《伪君子》首演（Britannica：produced in 1664——B241）。",
+      "src": "B241"
+    },
+    {
+      "year": 1673,
+      "text": "2月17日台上倒塌当日去世（Britannica 语境+通说待核）。",
+      "src": "B240"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "weijunzi",
+      "note": "喜剧（Britannica：1664/1669）"
+    },
+    {
+      "title": "吝啬鬼、愤世嫉俗",
+      "note": "（Britannica 语境：Le Misanthrope 等）"
+    },
+    {
+      "title": "无病呻吟",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "性格喜剧：以单一性格缺陷推动全剧（通说）。",
+    "利用即兴喜剧传统与芭蕾插曲（通说待核）。",
+    "以笑声攻击伪善与教条（Britannica：suppressed by the Roman Catholic Church 语境）。"
+  ],
+  "status": "Britannica 定位莫里哀为法语喜剧最伟大作家；《伪君子》为遭遇教会压制的代表作（B240/B241）。",
+  "sources": [
+    "B240",
+    "B241"
+  ],
+  "dates_source": "B240",
+  "pending": [
+    "《伪君子》五版禁演与1670年解禁年表核对。",
+    "效仿西班牙剧团的13年外省巡演细节待核。",
+    "法兰西喜剧院'莫里哀之家'传统（通说）待核。"
+  ]
+}
