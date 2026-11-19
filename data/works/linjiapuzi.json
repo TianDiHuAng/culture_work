@@ -1,0 +1,103 @@
+{
+  "id": "linjiapuzi",
+  "title": "林家铺子",
+  "original_title": "林家铺子（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "maodun",
+  "author_name": "茅盾",
+  "year_display": "1932年（通说待核；作者页 B078 口径：major_works 载'林家铺子、春蚕'）",
+  "year_sort": 1932,
+  "background": [
+    "作者页（B078）：茅盾 major_works 载'林家铺子、春蚕'（B078 作者页定位——详见 ziye 条核对）。",
+    "题材（通说）：1932年'一·二八'战事前后江南小镇杂货铺的倒闭——民族危机下的经济微景观。"
+  ],
+  "outline": [
+    "林老板年关的挣扎：东洋货风波、钱庄收贷、倒闭出逃（通说待核）。",
+    "小股东、朱三阿太们的血本无归——倒闭的连锁（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "林老板",
+      "identity": "杂货铺主",
+      "note": "勤勉而破产（通说待核）"
+    },
+    {
+      "name": "寿生",
+      "identity": "店员",
+      "note": "忠心的帮手（通说待核）"
+    }
+  ],
+  "themes": [
+    "大鱼吃小鱼：经济危机的传导（通说）。",
+    "小镇的微宏观（通说）。",
+    "社会剖析派的细描（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：茅盾短篇代表作（B078 作者页口径）。",
+      "source": "B078"
+    },
+    {
+      "text": "1959年水华同名电影（通说待核）。",
+      "source": "B078"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1930年代金融与关税背景。",
+      "茅盾的社会科学笔法。"
+    ],
+    "editions": [
+      "《茅盾全集》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先《子夜》后本作；再读《春蚕》。"
+  },
+  "pending": [
+    "1932年发表（《申报月刊》创刊号说）核对。",
+    "林老板/寿生人名核对。",
+    "1959年电影（水华导演）待核。"
+  ],
+  "sources": [
+    "B078"
+  ],
+  "year_source": "B078",
+  "author_source": "B078",
+  "related_works": [
+    "ziye",
+    "mauposangxuan",
+    "guanchangxianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《林家铺子》倒闭链条图",
+    "cards": [
+      {
+        "title": "东洋货",
+        "text": "抵制风波",
+        "color": "family"
+      },
+      {
+        "title": "钱庄收贷",
+        "text": "年关的绞索",
+        "color": "antagonist"
+      },
+      {
+        "title": "倒闭",
+        "text": "连锁的受害者",
+        "color": "main"
+      },
+      {
+        "title": "出逃",
+        "text": "林老板的去向",
+        "color": "gold"
+      }
+    ]
+  }
+}

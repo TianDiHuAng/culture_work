@@ -1,0 +1,109 @@
+{
+  "id": "wanyanyuanniandezuqiu",
+  "title": "万延元年的足球队",
+  "original_title": "万延元年のフットボール（The Silent Cry）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "oe",
+  "author_name": "大江健三郎",
+  "year_display": "1967年出版（作者页 B167 口径：万延元年的足球队（The Silent Cry，1967））",
+  "year_sort": 1967,
+  "background": [
+    "作者页（B167）：大江健三郎 major_works 载'万延元年的足球队（The Silent Cry，1967）'（B167 作者页定位，详见 gerende 条核对）。",
+    "大江为1994年诺贝尔文学奖得主（作者页定位）。"
+  ],
+  "outline": [
+    "蜜三郎与鹰四回到四国山谷村庄——百年前的农民暴动（万延元年，1860）与当下青年之死（通说待核）。",
+    "'超级市场'与村落的对峙（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "蜜三郎",
+      "identity": "兄",
+      "note": "旁观者（通说待核）"
+    },
+    {
+      "name": "鹰四",
+      "identity": "弟",
+      "note": "行动者（通说待核）"
+    },
+    {
+      "name": "S",
+      "identity": "曾祖父之妹",
+      "note": "百年前的暴动女杰（通说待核）"
+    }
+  ],
+  "themes": [
+    "百年暴动的双重回响（通说）。",
+    "村落神话与'核'的外来（通说待核）。",
+    "残障、罪与共处（通说——大江主题）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：大江代表作（B167 作者页口径）。",
+      "source": "B167"
+    },
+    {
+      "text": "获谷崎润一郎奖（1967年——通说待核）。",
+      "source": "B167"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "百年双线。",
+      "山谷方言与神话。"
+    ],
+    "editions": [
+      "《万延元年的足球队》（光明日报出版社/人民文学出版社版本，通说待核）。",
+      "英译 The Silent Cry。"
+    ],
+    "order": "先《个人的体验》后本作。"
+  },
+  "pending": [
+    "1967年出版（讲谈社说）核对。",
+    "蜜三郎/鹰四/S人名核对。",
+    "谷崎润一郎奖核对。"
+  ],
+  "sources": [
+    "B167"
+  ],
+  "year_source": "B167",
+  "author_source": "B167",
+  "related_works": [
+    "gerende",
+    "bianxingji",
+    "wuhao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《万延元年的足球队》百年双线图",
+    "cards": [
+      {
+        "title": "1860",
+        "text": "万延元年暴动",
+        "color": "gold"
+      },
+      {
+        "title": "1960s",
+        "text": "兄弟还乡",
+        "color": "main"
+      },
+      {
+        "title": "鹰四",
+        "text": "行动的谜",
+        "color": "antagonist"
+      },
+      {
+        "title": "山谷",
+        "text": "神话的村庄",
+        "color": "family"
+      }
+    ]
+  }
+}

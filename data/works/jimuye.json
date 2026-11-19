@@ -1,0 +1,109 @@
+{
+  "id": "jimuye",
+  "title": "吉姆爷",
+  "original_title": "Lord Jim",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "conrad",
+  "author_name": "约瑟夫·康拉德",
+  "year_display": "1900年出版（作者页 B124 口径：吉姆爷（1900））",
+  "year_sort": 1900,
+  "background": [
+    "作者页（B124）：康拉德 major_works 载'吉姆爷（1900）、诺斯特罗莫（1904）、间谍（1907）'（B124 作者页定位，详见 heianddixin 条核对）。",
+    "康拉德：波兰裔英国作家、海员出身（B124 作者页语境）。"
+  ],
+  "outline": [
+    "大副吉姆在'帕特纳号'弃船事件中跳船逃生——终身的耻辱与赎罪（通说）。",
+    "帕杜坦的'勋爵'岁月与最后的死亡抉择（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "吉姆",
+      "identity": "大副",
+      "note": "赎罪者（通说）"
+    },
+    {
+      "name": "马洛",
+      "identity": "船长·叙述者",
+      "note": "康拉德式叙述者（通说待核）"
+    },
+    {
+      "name": "'绅士'布朗",
+      "identity": "海盗",
+      "note": "最后的诱惑（通说待核）"
+    }
+  ],
+  "themes": [
+    "荣誉与懦弱的深渊（通说）。",
+    "叙述的不可靠：马洛的层层转述（通说）。",
+    "帝国主义边缘的道德（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：康拉德代表作谱系（B124 作者页口径）。",
+      "source": "B124"
+    },
+    {
+      "text": "现代主义心理叙事的先声（通说待核）。",
+      "source": "B124"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "马洛的嵌套叙述。",
+      "马来群岛的历史背景。"
+    ],
+    "editions": [
+      "《吉姆爷》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《黑暗的心》后本作。"
+  },
+  "pending": [
+    "帕特纳号事件的连载（Blackwood's Magazine 1899—1900说）待核。",
+    "马洛叙述结构核对。",
+    "吉姆/布朗人物核对。"
+  ],
+  "sources": [
+    "B124"
+  ],
+  "year_source": "B124",
+  "author_source": "B124",
+  "related_works": [
+    "heianddixin",
+    "hongzi",
+    "fenwangyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吉姆爷》赎罪结构图",
+    "cards": [
+      {
+        "title": "跳船",
+        "text": "一生的耻辱",
+        "color": "antagonist"
+      },
+      {
+        "title": "听证会",
+        "text": "马洛的转述",
+        "color": "family"
+      },
+      {
+        "title": "帕杜坦",
+        "text": "'勋爵'的岁月",
+        "color": "main"
+      },
+      {
+        "title": "死亡",
+        "text": "最后的承担",
+        "color": "gold"
+      }
+    ]
+  }
+}

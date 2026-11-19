@@ -1,0 +1,103 @@
+{
+  "id": "qingchengzhilian",
+  "title": "倾城之恋",
+  "original_title": "傾城之戀（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "zhangailing",
+  "author_name": "张爱玲",
+  "year_display": "1943年（作者页 B111 口径：倾城之恋（1943））",
+  "year_sort": 1943,
+  "background": [
+    "作者页（B111）：张爱玲 major_works 载'倾城之恋（1943）、半生缘（1968）'（B111 作者页定位，详见 jinsuoji 条核对）。",
+    "张爱玲为海派文学的现代高峰（作者页 B111 定位——与王安忆'传人'说互证，见 changhenge 条）。"
+  ],
+  "outline": [
+    "离婚的白流苏与范柳原：香港的算计与调情（通说）。",
+    "香港之战成全婚姻——'倾城'的反讽（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "白流苏",
+      "identity": "离婚女子",
+      "note": "以婚姻为生计（通说）"
+    },
+    {
+      "name": "范柳原",
+      "identity": "浪子",
+      "note": "'执子之手'的戏言（通说待核）"
+    }
+  ],
+  "themes": [
+    "'倾城'的反讽：文明倾覆成全私情（通说）。",
+    "算计与真心的博弈（通说）。",
+    "苍凉的手势（作者美学——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：张爱玲代表作谱系（B111 作者页口径）。",
+      "source": "B111"
+    },
+    {
+      "text": "多次影视改编（1980年代电视剧与2009年电影——通说待核）。",
+      "source": "B111"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "沪港双城的空间。",
+      "张氏比喻的密度。"
+    ],
+    "editions": [
+      "《倾城之恋》（北京十月文艺出版社《张爱玲全集》，通说待核）。"
+    ],
+    "order": "对照《金锁记》：张爱玲的两种笔调。"
+  },
+  "pending": [
+    "首发（《杂志》1943年说）核对。",
+    "白流苏/范柳原情节核对。",
+    "结尾'胡琴'意象待核。"
+  ],
+  "sources": [
+    "B111"
+  ],
+  "year_source": "B111",
+  "author_source": "B111",
+  "related_works": [
+    "jinsuoji",
+    "xifuhui",
+    "mudanting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《倾城之恋》博弈结构图",
+    "cards": [
+      {
+        "title": "白公馆",
+        "text": "离婚的流苏",
+        "color": "family"
+      },
+      {
+        "title": "香港",
+        "text": "浅水湾的调情",
+        "color": "main"
+      },
+      {
+        "title": "战争",
+        "text": "倾城的成全",
+        "color": "antagonist"
+      },
+      {
+        "title": "婚姻",
+        "text": "苍凉的圆满",
+        "color": "gold"
+      }
+    ]
+  }
+}

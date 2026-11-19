@@ -1,0 +1,106 @@
+{
+  "id": "chengbao",
+  "title": "城堡",
+  "original_title": "Das Schloss（The Castle）",
+  "region": "奥地利",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "kafka",
+  "author_name": "弗朗茨·卡夫卡",
+  "year_display": "1926年出版（遗稿，Max Brod 整理——作者页 B049/B022 口径：城堡（1926））",
+  "year_sort": 1926,
+  "background": [
+    "作者页（B049/B022）：卡夫卡 major_works 载'审判（1925）、城堡（1926）'——身后由布罗德整理出版（作者页定位，详见 bianxingji 条核对）。",
+    "'城堡'：K 应召而来的土地测量员，却永远进不去的当局（通说）。"
+  ],
+  "outline": [
+    "K 深夜抵村欲入城堡——永远差一步的抵达（通说）。",
+    "村庄与城堡官员：弗丽达、汉斯、老板娘（人物通说待核）。",
+    "未完成手稿：句至中途（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "K",
+      "identity": "土地测量员",
+      "note": "永远的外来者"
+    },
+    {
+      "name": "弗丽达",
+      "identity": "酒馆女侍",
+      "note": "K 的爱人（通说待核）"
+    }
+  ],
+  "themes": [
+    "科层制的迷宫（通说）。",
+    "抵达的不可能性（通说）。",
+    "罪与自我的追问（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：卡夫卡遗稿三部曲之一（B049/B022 作者页口径）。",
+      "source": "B049"
+    },
+    {
+      "text": "'卡夫卡式'（Kafkaesque）概念的来源之一（通说待核）。",
+      "source": "B049"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "未完成文本的阅读策略。",
+      "章序由 Max Brod 编排（考据争议）。"
+    ],
+    "editions": [
+      "《城堡》（上海译文出版社高年生译本，通说待核）。",
+      "德文原版（公有领域渐近）。"
+    ],
+    "order": "先《变形记》《审判》→ 本作。"
+  },
+  "pending": [
+    "1926年出版（Die Schmiede出版社说）核对。",
+    "布罗德编排与原始手稿序（1990年代 Passages 版）待核。",
+    "弗丽达/汉斯人名核对。"
+  ],
+  "sources": [
+    "B049",
+    "B022"
+  ],
+  "year_source": "B049",
+  "author_source": "B049",
+  "related_works": [
+    "bianxingji",
+    "shenpan",
+    "kalamasuofu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《城堡》迷宫结构图",
+    "cards": [
+      {
+        "title": "雪夜抵村",
+        "text": "K 的召唤",
+        "color": "family"
+      },
+      {
+        "title": "城堡",
+        "text": "近在眼前进不去",
+        "color": "main"
+      },
+      {
+        "title": "村庄",
+        "text": "官僚的毛细管",
+        "color": "gold"
+      },
+      {
+        "title": "未完成",
+        "text": "句至中途",
+        "color": "plain"
+      }
+    ]
+  }
+}

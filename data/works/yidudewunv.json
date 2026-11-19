@@ -1,0 +1,105 @@
+{
+  "id": "yidudewunv",
+  "title": "伊豆的舞女",
+  "original_title": "伊豆の踊子（The Dancing Girl of Izu）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "kawabata",
+  "author_name": "川端康成",
+  "year_display": "1926年（作者页 B054/B027 口径：伊豆的舞女（1926））",
+  "year_sort": 1926,
+  "background": [
+    "作者页（B054/B027）：川端康成 major_works 载'伊豆的舞女（1926）'——早期成名作（作者页定位，详见 xueguo 条核对）。",
+    "川端为1968年诺贝尔文学奖得主（作者页定位）。"
+  ],
+  "outline": [
+    "二十岁的'我'独自去伊豆旅行，与巡回艺人结伴——十四岁舞女的朦胧情愫（通说）。",
+    "码头的分别：无言的泪水（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "舞女",
+      "identity": "巡回艺人",
+      "note": "十四岁（通说待核）"
+    },
+    {
+      "name": "我",
+      "identity": "高中学生",
+      "note": "'孤儿根性'的青年（通说待核）"
+    }
+  ],
+  "themes": [
+    "'孤儿根性'的治愈之旅（通说待核）。",
+    "洁净的初恋：发乎情止乎礼（通说）。",
+    "伊豆山水与人情（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：川端早期代表作（B054/B027 作者页口径）。",
+      "source": "B054"
+    },
+    {
+      "text": "六次电影改编（通说待核）。",
+      "source": "B054"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'孤儿根性'的自卑语境。",
+      "巡回艺人行当。"
+    ],
+    "editions": [
+      "《伊豆的舞女》（上海译文出版社/南海出版公司版本，通说待核）。",
+      "日文原版（公有领域渐近）。"
+    ],
+    "order": "先本作后《雪国》。"
+  },
+  "pending": [
+    "1926年（《文艺时代》说）核对。",
+    "舞女名（薰子——通说）核对。",
+    "电影改编次数待核。"
+  ],
+  "sources": [
+    "B054",
+    "B027"
+  ],
+  "year_source": "B054",
+  "author_source": "B054",
+  "related_works": [
+    "xueguo",
+    "biancheng",
+    "nuoweide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《伊豆的舞女》旅程图",
+    "cards": [
+      {
+        "title": "伊豆之旅",
+        "text": "'孤儿根性'的出走",
+        "color": "family"
+      },
+      {
+        "title": "巡回艺人",
+        "text": "雨夜的同行",
+        "color": "main"
+      },
+      {
+        "title": "舞女",
+        "text": "十四岁的纯真",
+        "color": "gold"
+      },
+      {
+        "title": "码头",
+        "text": "无言的分别",
+        "color": "plain"
+      }
+    ]
+  }
+}

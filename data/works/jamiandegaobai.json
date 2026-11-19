@@ -1,0 +1,104 @@
+{
+  "id": "jamiandegaobai",
+  "title": "假面的告白",
+  "original_title": "仮面の告白（Confessions of a Mask）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "mishima",
+  "author_name": "三岛由纪夫",
+  "year_display": "1949年出版（作者页 B108 口径：假面的告白（1949））",
+  "year_sort": 1949,
+  "background": [
+    "作者页（B108）：三岛由纪夫 major_works 载'假面的告白（1949）'——其成名作（B108 作者页定位，详见 jinbgesi 条核对）。",
+    "题材（通说）：半自传性的同性爱自我告白——战时日本的成长。"
+  ],
+  "outline": [
+    "少年'我'对身体与死亡的凝视：近江的汗衫、圣塞巴斯蒂安（通说待核）。",
+    "与园子的婚约与逃避（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "我",
+      "identity": "少年",
+      "note": "戴假面的告白者（通说）"
+    },
+    {
+      "name": "园子",
+      "identity": "女友",
+      "note": "正常人生的诱惑（通说待核）"
+    }
+  ],
+  "themes": [
+    "假面与真实的悖论（通说）。",
+    "身体、死亡与美的三联（通说——三岛美学）。",
+    "战后日本的青春（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：三岛成名作（B108 作者页口径）。",
+      "source": "B108"
+    },
+    {
+      "text": "三岛由此进入日本主流文坛（通说待核）。",
+      "source": "B108"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自白体的自我戏剧化。",
+      "战时日本语境。"
+    ],
+    "editions": [
+      "《假面的告白》（上海译文出版社，通说待核）。",
+      "日文原版（新潮文库）。"
+    ],
+    "order": "先本作后《金阁寺》。"
+  },
+  "pending": [
+    "1949年7月（真光社说）出版核对。",
+    "近江/园子人名核对。",
+    "圣塞巴斯蒂安意象出处待核。"
+  ],
+  "sources": [
+    "B108"
+  ],
+  "year_source": "B108",
+  "author_source": "B108",
+  "related_works": [
+    "jinbgesi",
+    "renjianshige",
+    "xueguo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《假面的告白》假面结构图",
+    "cards": [
+      {
+        "title": "告白",
+        "text": "自我暴露的假面",
+        "color": "main"
+      },
+      {
+        "title": "近江",
+        "text": "身体的觉醒",
+        "color": "gold"
+      },
+      {
+        "title": "园子",
+        "text": "'正常'的诱惑",
+        "color": "family"
+      },
+      {
+        "title": "圣塞巴斯蒂安",
+        "text": "美与殉难",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
