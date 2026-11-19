@@ -1,0 +1,104 @@
+{
+  "id": "anniriji",
+  "title": "安妮日记",
+  "original_title": "Het Achterhuis（The Diary of a Young Girl）",
+  "region": "荷兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "日记",
+  "genre_group": "散文",
+  "language": "荷兰语",
+  "author_id": "annefrank",
+  "author_name": "安妮·弗兰克",
+  "year_display": "1947年荷兰文初版（Britannica：originally in Dutch, 1947）",
+  "year_sort": 1947,
+  "background": [
+    "Britannica（B271）：'On June 12, 1942, she received a red-and-white plaid diary for her 13th birthday'；'the Franks went into hiding on July 6, 1942, in the backroom office and warehouse'——与范丹一家三口及费佛共8人藏于'后屋'。",
+    "地位（B271）：'became a classic of war literature, personalizing the Holocaust'；'translated into more than 65 languages……the most widely read diary of the Holocaust'。"
+  ],
+  "outline": [
+    "1942—1944年的密室日记：成长、初恋（彼得）、恐惧与希望（通说）。",
+    "名句：'I still believe, in spite of everything, that people are really good at heart.'（'尽管这一切，我仍然相信人心本善'——B271 引用；中译为本库试译）。"
+  ],
+  "characters": [
+    {
+      "name": "安妮",
+      "identity": "日记作者",
+      "note": "13—15岁"
+    },
+    {
+      "name": "彼得·范丹",
+      "identity": "藏匿少年",
+      "note": "初恋对象（通说待核）"
+    }
+  ],
+  "themes": [
+    "'使大屠杀个人化'（B271：personalizing the Holocaust）。",
+    "密室中的成长（通说）。",
+    "对人性之善的信念（B271 名句）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'translated into more than 65 languages……the most widely read diary of the Holocaust'（B271）。",
+      "source": "B271"
+    },
+    {
+      "text": "Britannica：'became a classic of war literature'（B271）。",
+      "source": "B271"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记体与编辑痕迹（B271 语境：父亲整理）。",
+      "大屠杀历史背景。"
+    ],
+    "editions": [
+      "《安妮日记》（人民文学出版社/译林出版社版本，通说待核）。",
+      "英文版（公有领域渐近）。"
+    ],
+    "order": "对照《古拉格群岛》《二手时间》：三种'个人记录'。"
+  },
+  "pending": [
+    "荷兰文书名 Het Achterhuis（'后屋'）核对。",
+    "日记三版本（A/B/C）细节待核。",
+    "密室地址（Prinsengracht 263）待核。"
+  ],
+  "sources": [
+    "B271"
+  ],
+  "year_source": "B271",
+  "author_source": "B271",
+  "related_works": [
+    "gulage",
+    "ershoushijian",
+    "fengzhonglvli"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《安妮日记》密室结构图",
+    "cards": [
+      {
+        "title": "后屋",
+        "text": "两年的藏匿（B271）",
+        "color": "family"
+      },
+      {
+        "title": "日记",
+        "text": "13岁生日礼物",
+        "color": "main"
+      },
+      {
+        "title": "彼得",
+        "text": "初恋与希望",
+        "color": "gold"
+      },
+      {
+        "title": "人心本善",
+        "text": "名句（B271）",
+        "color": "plain"
+      }
+    ]
+  }
+}

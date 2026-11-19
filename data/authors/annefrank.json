@@ -1,0 +1,60 @@
+{
+  "id": "annefrank",
+  "name": "安妮·弗兰克",
+  "foreign_name": "Anne Frank（安妮·弗兰克，1929-06-12—1945年2/3月）",
+  "country": "荷兰",
+  "birth": 1929,
+  "death": 1945,
+  "birth_year": 1929,
+  "death_year": 1945,
+  "era": "现当代",
+  "summary": "安妮·弗兰克，法兰克福出生的犹太少女——'a Jewish teenager whose diary of her family's two years spent in hiding from the Nazis in Amsterdam became one of the most famous accounts of the Holocaust'（其日记成为纳粹大屠杀最著名的记录之一——Britannica）。1942年6月12日13岁生日收到红白格子日记本（B271）；7月6日全家藏匿于阿姆斯特丹'后屋'（B271）；藏匿者共8人（B271）；最后一篇日记写于1944年8月1日（B271）；1945年2/3月死于贝尔根-贝尔森集中营（伤寒——B271）。日记由父亲奥托保存并出版（B271 语境）。",
+  "timeline": [
+    {
+      "year": 1929,
+      "text": "6月12日生于法兰克福（Britannica：Born June 12, 1929, Frankfurt am Main）。",
+      "src": "B271"
+    },
+    {
+      "year": 1942,
+      "text": "6月12日获赠日记本；7月6日全家藏匿（B271）。",
+      "src": "B271"
+    },
+    {
+      "year": 1944,
+      "text": "8月1日写下最后一篇日记（B271）。",
+      "src": "B271"
+    },
+    {
+      "year": 1945,
+      "text": "2/3月死于贝尔根-贝尔森（伤寒）（B271）。",
+      "src": "B271"
+    },
+    {
+      "year": 1947,
+      "text": "日记以《安妮日记》出版（荷兰文）（B271：originally in Dutch, 1947）。",
+      "src": "B271"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "anniriji",
+      "note": "日记（Britannica：1947）"
+    }
+  ],
+  "style": [
+    "'classic of war literature, personalizing the Holocaust'（B271：使大屠杀个人化）。",
+    "少女视角的日常与深刻并置（B271 语境）。",
+    "对人性之善的坚持（B271 名句：'I still believe, in spite of everything, that people are really good at heart.'）。"
+  ],
+  "status": "Britannica 定位安妮为大屠杀受害者中最广为人知者（probably the best known of Holocaust victims——B271）；其日记为大屠杀文献中被阅读最广者（B271）。",
+  "sources": [
+    "B271"
+  ],
+  "dates_source": "B271",
+  "pending": [
+    "'密室'（Secret Annex）名称与普林森格拉赫特街263号地址待核。",
+    "日记版本史（A/B版与'Definitive Edition'）待核。",
+    "出卖者之谜（学界新说）待核。"
+  ]
+}
