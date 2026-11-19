@@ -1,0 +1,97 @@
+{
+  "id": "rijijiuzhong",
+  "title": "日记九种",
+  "original_title": "日记九种（日记集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "日记集",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "yudafu",
+  "author_name": "郁达夫",
+  "year_display": "1927年出版（Britannica：Rijijiuzhong ('Nine Diaries,' 1927)）",
+  "year_sort": 1927,
+  "background": [
+    "Britannica（B206）：Rijijiuzhong ('Nine Diaries,' 1927)——'broke all previous sales records in China'（打破此前中国的一切销售纪录——Britannica）。",
+    "郁达夫'自叙传'书写的公开化：把私日记变成出版物（通说）。"
+  ],
+  "outline": [
+    "1926—1927年间九段日记：广州岁月、创造社纠纷、与王映霞的初识（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "郁达夫",
+      "identity": "日记作者",
+      "note": "自我的解剖者"
+    }
+  ],
+  "themes": [
+    "私人书写的公开化与市场（B206：sales records）。",
+    "革命年代文人的苦闷（通说）。",
+    "日记文体与现代自我（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'broke all previous sales records in China'（B206）。",
+      "source": "B206"
+    },
+    {
+      "text": "Britannica：郁达夫1923年后主题转向大众（B206 语境）。",
+      "source": "B206"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记的琐碎与坦白并存。",
+      "创造社人事背景。"
+    ],
+    "editions": [
+      "《日记九种》（北新书局1927年初版说，通说待核）。"
+    ],
+    "order": "对照《沉沦》：自我暴露的两种形态。"
+  },
+  "pending": [
+    "九种日记的分段标题核对。",
+    "1927年北新书局初版核对。",
+    "与王映霞相关的日记内容待核。"
+  ],
+  "sources": [
+    "B206"
+  ],
+  "year_source": "B206",
+  "author_source": "B206",
+  "related_works": [
+    "chenlun",
+    "hulanhe",
+    "renjianshige"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《日记九种》自我解剖图",
+    "cards": [
+      {
+        "title": "公开的私语",
+        "text": "日记成书（B206）",
+        "color": "main"
+      },
+      {
+        "title": "广州岁月",
+        "text": "革命与苦闷",
+        "color": "family"
+      },
+      {
+        "title": "爱情",
+        "text": "与映霞的初识",
+        "color": "gold"
+      },
+      {
+        "title": "畅销",
+        "text": "打破销售纪录（B206）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

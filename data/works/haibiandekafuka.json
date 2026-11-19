@@ -1,0 +1,108 @@
+{
+  "id": "haibiandekafuka",
+  "title": "海边的卡夫卡",
+  "original_title": "海辺のカフカ（Kafka on the Shore）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "murakami",
+  "author_name": "村上春树",
+  "year_display": "2002年出版（通说待核；作者页 B169 口径——major_works 载'海边的卡夫卡'）",
+  "year_sort": 2002,
+  "background": [
+    "作者页（B169）：村上 major_works 载'奇鸟行状录（1994—95）、海边的卡夫卡'——本作为其代表作谱系之一。",
+    "Britannica（B169，作者页核对记录）：村上'known for…… blending the fantastic with the mundane'（奇幻与日常的混合——见 nuoweide 条核对）。"
+  ],
+  "outline": [
+    "十五岁少年'田村卡夫卡'离家出走；老人中田与猫说话（通说）。",
+    "两条线在四国交汇——入口的森林与石头（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "田村卡夫卡",
+      "identity": "十五岁少年",
+      "note": "弑父娶母的俄狄浦斯预言（通说待核）"
+    },
+    {
+      "name": "中田",
+      "identity": "老人",
+      "note": "与猫交谈（通说待核）"
+    },
+    {
+      "name": "大岛",
+      "identity": "图书管理员",
+      "note": "向导（通说待核）"
+    }
+  ],
+  "themes": [
+    "俄狄浦斯母题的日本变奏（通说）。",
+    "创伤与'入口'的形而上（通说）。",
+    "音乐与文学的互文（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：村上代表作谱系之一（B169 作者页口径）。",
+      "source": "B169"
+    },
+    {
+      "text": "国际声誉：英译后长期居于美国畅销榜（通说待核）。",
+      "source": "B169"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "超现实设定的阅读态度。",
+      "希腊悲剧互文。"
+    ],
+    "editions": [
+      "《海边的卡夫卡》（上海译文出版社，通说待核）。"
+    ],
+    "order": "先《挪威的森林》再本作。"
+  },
+  "pending": [
+    "2002年出版（新潮社说）核对。",
+    "中译本（林少华/赖明珠两系）核对。",
+    "俄狄浦斯互文的评论待核。"
+  ],
+  "sources": [
+    "B169"
+  ],
+  "year_source": "B169",
+  "author_source": "B169",
+  "related_works": [
+    "nuoweide",
+    "woshimao",
+    "renjianshige"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《海边的卡夫卡》双线结构图",
+    "cards": [
+      {
+        "title": "出走的少年",
+        "text": "俄狄浦斯预言",
+        "color": "main"
+      },
+      {
+        "title": "中田",
+        "text": "与猫说话的老人",
+        "color": "gold"
+      },
+      {
+        "title": "图书馆",
+        "text": "四国的交汇点",
+        "color": "family"
+      },
+      {
+        "title": "入口",
+        "text": "森林与石头",
+        "color": "plain"
+      }
+    ]
+  }
+}

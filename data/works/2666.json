@@ -1,0 +1,103 @@
+{
+  "id": "2666",
+  "title": "2666",
+  "original_title": "2666",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "bolano",
+  "author_name": "罗贝托·波拉尼奥",
+  "year_display": "2004年身后出版（Britannica：2666 (2004, posthumous)）",
+  "year_sort": 2004,
+  "background": [
+    "Britannica：'His worldwide literary reputation was made with the posthumous publication of his magnum opus, 2666 (2004)'（身后出版的鸿篇巨制奠定世界声誉——B251）。",
+    "Britannica（B251）：'After the publication of 2666, nearly all of Bolaño's earlier Spanish writings were translated into English.'"
+  ],
+  "outline": [
+    "五部分：文学评论家们/阿玛尔菲塔诺/法特/罪行/阿琴波尔迪（部名通说待核）。",
+    "'The book's most-acclaimed section, the fourth, details a series of gruesome murders of young women'（最受赞誉的第四部分：年轻女性连环凶案——Britannica），'taking the reader on an unflinching exploration of suffering and grief'（B251）。"
+  ],
+  "characters": [
+    {
+      "name": "阿琴波尔迪",
+      "identity": "德国作家",
+      "note": "第五部分主角（通说待核）"
+    },
+    {
+      "name": "法特",
+      "identity": "美国记者",
+      "note": "第四部分（通说待核）"
+    }
+  ],
+  "themes": [
+    "'unflinching exploration of suffering and grief'（Britannica：不回避的受难书写）。",
+    "文学的全球网络与暴力的地理（通说）。",
+    "未完成的百科全书（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：身后出版的鸿篇巨制、奠定世界声誉（magnum opus）（B251）。",
+      "source": "B251"
+    },
+    {
+      "text": "Britannica：出版后'几乎其所有早期西语作品都被译成英文'（B251）。",
+      "source": "B251"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "五部结构近千页（通说待核）。",
+      "第四部分的连环凶案——基于真实边境事件（通说待核）。"
+    ],
+    "editions": [
+      "《2666》（上海人民出版社，通说待核）。"
+    ],
+    "order": "先《荒野侦探》→ 本作（第四部分可独立读）。"
+  },
+  "pending": [
+    "五部分标题与顺序核对。",
+    "圣特雷莎与华雷斯城对应待核。",
+    "中译本（上海人民出版社2012说）核对。"
+  ],
+  "sources": [
+    "B251"
+  ],
+  "year_source": "B251",
+  "author_source": "B251",
+  "related_works": [
+    "bainian",
+    "huangyezhentan",
+    "gulage"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《2666》五部结构图",
+    "cards": [
+      {
+        "title": "评论家们",
+        "text": "文学的 globe",
+        "color": "family"
+      },
+      {
+        "title": "罪行",
+        "text": "最受赞誉的第四部（B251）",
+        "color": "antagonist"
+      },
+      {
+        "title": "阿琴波尔迪",
+        "text": "谜之作家",
+        "color": "main"
+      },
+      {
+        "title": "2666",
+        "text": "未抵达的年份",
+        "color": "gold"
+      }
+    ]
+  }
+}

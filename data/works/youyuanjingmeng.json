@@ -1,0 +1,103 @@
+{
+  "id": "youyuanjingmeng",
+  "title": "游园惊梦",
+  "original_title": "游園驚夢（短篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "台湾现代主义",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·昆曲语境）",
+  "author_id": "baixianyung",
+  "author_name": "白先勇",
+  "year_display": "1982年出版（Britannica：Yu-yüan ching-meng (1982; Wandering in the Garden, Waking from a Dream)）",
+  "year_sort": 1982,
+  "background": [
+    "Britannica（B208）：白先勇'author of Yu-yüan ching-meng (1982; Wandering in the Garden, Waking from a Dream), remained influential'——其代表作之一。",
+    "与《牡丹亭》互文：昆曲《游园》《惊梦》折子戏即标题（通说）。"
+  ],
+  "outline": [
+    "钱夫人在窦公馆宴会上听《游园惊梦》——旧梦重演、恍惚失神（通说待核）。",
+    "今昔对照：从昆曲名伶到落魄夫人（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "钱夫人（蓝田玉）",
+      "identity": "昆曲名伶",
+      "note": "宴上的惊梦（通说待核）"
+    },
+    {
+      "name": "天那negative？——不：窦夫人",
+      "identity": "主人",
+      "note": "今之贵妇（通说待核）"
+    }
+  ],
+  "themes": [
+    "昆曲意象与叙事意识流（通说）。",
+    "'台北人'主题的单篇浓缩（通说）。",
+    "情与美的凋零（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：白先勇代表作之一（B208）。",
+      "source": "B208"
+    },
+    {
+      "text": "改编话剧/电影/电视剧多次（通说待核）。",
+      "source": "B208"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "意识流的心理时序。",
+      "昆曲唱词互文。"
+    ],
+    "editions": [
+      "《游园惊梦》（收于《台北人》以外的集子/尔雅版，通说待核）。"
+    ],
+    "order": "先《台北人》再本作。"
+  },
+  "pending": [
+    "钱夫人名（蓝田玉）与情节核对。",
+    "1982年为结集年份（单篇首发1970年代说）待核。",
+    "话剧1983年（华文版《游园惊梦》）待核。"
+  ],
+  "sources": [
+    "B208"
+  ],
+  "year_source": "B208",
+  "author_source": "B208",
+  "related_works": [
+    "taibeiren",
+    "jinsuoji",
+    "mudanting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《游园惊梦》今昔结构图",
+    "cards": [
+      {
+        "title": "游园",
+        "text": "宴会上的曲声",
+        "color": "family"
+      },
+      {
+        "title": "惊梦",
+        "text": "旧情复现",
+        "color": "main"
+      },
+      {
+        "title": "昆曲",
+        "text": "美的凭证",
+        "color": "gold"
+      },
+      {
+        "title": "凋零",
+        "text": "今昔之隔",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

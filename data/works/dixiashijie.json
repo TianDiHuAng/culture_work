@@ -1,0 +1,103 @@
+{
+  "id": "dixiashijie",
+  "title": "地下世界",
+  "original_title": "Underworld",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "delillo",
+  "author_name": "唐·德里罗",
+  "year_display": "1997年出版（Britannica：Underworld 1997）",
+  "year_sort": 1997,
+  "background": [
+    "Britannica（B254）：'DeLillo received significant acclaim for the sprawling novel Underworld (1997), which provides a commentary on American history'（为其最受赞誉之作——对美国历史的评注）。",
+    "背景：冷战年代的废品与核废料——'垃圾'成为历史的底本（通说待核）。"
+  ],
+  "outline": [
+    "尼克·谢伊的视角横跨1951—1990年代：库比·马克's 一记全垒打球的流转（通说待核）。",
+    "垃圾处理修女埃德加？——不： garbage 修女线（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "尼克·谢伊",
+      "identity": "废品业主管",
+      "note": "叙述者（通说待核）"
+    },
+    {
+      "name": "库比·马克",
+      "identity": "棒球手",
+      "note": "'胜利球'（通说待核）"
+    }
+  ],
+  "themes": [
+    "冷战美国的地下史（B254：commentary on American history）。",
+    "废弃物的形而上学（通说）。",
+    "媒体时代的记忆（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：德里罗最受赞誉之作（B254）。",
+      "source": "B254"
+    },
+    {
+      "text": "Britannica：2013年国会图书馆美国小说奖（作者级，B254）。",
+      "source": "B254"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "800页大书与倒叙结构（通说待核）。",
+      "冷战核恐慌背景。"
+    ],
+    "editions": [
+      "《地下世界》（译林出版社？中译本信息待核）。"
+    ],
+    "order": "先《白噪音》→ 本作。"
+  },
+  "pending": [
+    "主角名与结构核对。",
+    "中译本信息待核。",
+    "1997年出版（Scribner说）核对。"
+  ],
+  "sources": [
+    "B254"
+  ],
+  "year_source": "B254",
+  "author_source": "B254",
+  "related_works": [
+    "baizaoyin",
+    "wuhao",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《地下世界》冷战史结构图",
+    "cards": [
+      {
+        "title": "全垒打球",
+        "text": "1951年的流转",
+        "color": "family"
+      },
+      {
+        "title": "垃圾",
+        "text": "历史的底本",
+        "color": "main"
+      },
+      {
+        "title": "核废料",
+        "text": "地下世界",
+        "color": "antagonist"
+      },
+      {
+        "title": "冷战",
+        "text": "美国的评注（B254）",
+        "color": "gold"
+      }
+    ]
+  }
+}

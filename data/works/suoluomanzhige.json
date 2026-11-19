@@ -1,0 +1,103 @@
+{
+  "id": "suoluomanzhige",
+  "title": "所罗门之歌",
+  "original_title": "Song of Solomon",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "morrison",
+  "author_name": "托妮·莫里森",
+  "year_display": "1977年出版（作者页 B150 口径：所罗门之歌（1977））",
+  "year_sort": 1977,
+  "background": [
+    "作者页（B150）：莫里森 major_works 载'所罗门之歌（1977）'——仅次于《宠儿》的重要作品（B150 作者页定位）。",
+    "莫里森为诺贝尔文学奖得主（B150，详见 chonger 条核对）。"
+  ],
+  "outline": [
+    "奶人（Milkman）寻金之旅变成寻根之旅：从密歇根到弗吉尼亚（通说待核）。",
+    "'所罗门跳飞'的民间传说与家族神话（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奶人（Milkman）",
+      "identity": "青年",
+      "note": "寻根者（通说待核）"
+    },
+    {
+      "name": "彼拉多",
+      "identity": "姑母",
+      "note": "无脐带的传奇女性（通说待核）"
+    }
+  ],
+  "themes": [
+    "非洲裔美国人的民间传说史诗（通说）。",
+    "名字与传承（通说）。",
+    "飞的寓言（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莫里森代表作谱系（B150 作者页口径）。",
+      "source": "B150"
+    },
+    {
+      "text": "全美书评人协会奖（1977年——通说待核）。",
+      "source": "B150"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "民间传说与现实的双重阅读。",
+      "大家族谱系。"
+    ],
+    "editions": [
+      "《所罗门之歌》（南海出版公司新经典版，通说待核）。"
+    ],
+    "order": "先《最蓝的眼睛》→ 本作 →《宠儿》。"
+  },
+  "pending": [
+    "'奶人'外号来历与情节核对。",
+    "1977年全美书评人奖核对。",
+    "飞行传说母题（非洲飞人传说）待核。"
+  ],
+  "sources": [
+    "B150"
+  ],
+  "year_source": "B150",
+  "author_source": "B150",
+  "related_works": [
+    "chonger",
+    "zuiLandeyanjing",
+    "xifuhui"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《所罗门之歌》寻根结构图",
+    "cards": [
+      {
+        "title": "寻金",
+        "text": "出发的借口",
+        "color": "family"
+      },
+      {
+        "title": "寻根",
+        "text": "弗吉尼亚",
+        "color": "main"
+      },
+      {
+        "title": "彼拉多",
+        "text": "家族的记忆库",
+        "color": "gold"
+      },
+      {
+        "title": "飞翔",
+        "text": "所罗门的传说",
+        "color": "plain"
+      }
+    ]
+  }
+}

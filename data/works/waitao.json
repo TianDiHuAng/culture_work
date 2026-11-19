@@ -1,0 +1,103 @@
+{
+  "id": "waitao",
+  "title": "外套",
+  "original_title": "Шинель（The Overcoat）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "gogol",
+  "author_name": "尼古拉·果戈理",
+  "year_display": "1842年（作者页 B140 口径：外套（1842））",
+  "year_sort": 1842,
+  "background": [
+    "作者页（B140）：果戈理 major_works 载'钦差大臣（1836）、外套（1842）'——小人物书写的双璧（B140 作者页定位，详见 sihunling 条核对）。",
+    "'小人物'传统：从普希金《驿站长》到果戈理（通说待核）。"
+  ],
+  "outline": [
+    "九等文官阿卡基·阿卡基耶维奇以抄写为生——省吃俭用做新外套（通说）。",
+    "新外套当晚被抢；'重要人物'拒援——阿卡基死后化作鬼魂剪人外套（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "阿卡基·阿卡基耶维奇",
+      "identity": "九等文官",
+      "note": "抄写员（通说）"
+    },
+    {
+      "name": "'重要人物'",
+      "identity": "将军",
+      "note": "冷漠的官僚（通说）"
+    }
+  ],
+  "themes": [
+    "小人物的尊严与消逝（通说）。",
+    "圣彼得堡的官僚地狱（通说）。",
+    "超自然复仇的荒诞（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：果戈理代表作谱系（B140 作者页口径）。",
+      "source": "B140"
+    },
+    {
+      "text": "陀思妥耶夫斯基名言'我们都是从果戈理的《外套》里走出来的'（通说待核）。",
+      "source": "B140"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "俄式幽默与悲悯的混合。",
+      "官制称谓。"
+    ],
+    "editions": [
+      "《果戈理小说选》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先《外套》后《死魂灵》。"
+  },
+  "pending": [
+    "1842年（《当代》刊出说）核对。",
+    "陀思妥耶夫斯基名言出处待核。",
+    "阿卡基人名拼写核对。"
+  ],
+  "sources": [
+    "B140"
+  ],
+  "year_source": "B140",
+  "author_source": "B140",
+  "related_works": [
+    "sihunling",
+    "qikefuxuan",
+    "muqin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《外套》小人物结构图",
+    "cards": [
+      {
+        "title": "抄写",
+        "text": "日复一日",
+        "color": "family"
+      },
+      {
+        "title": "新外套",
+        "text": "全部的希望",
+        "color": "main"
+      },
+      {
+        "title": "被抢",
+        "text": "官僚的冷漠",
+        "color": "antagonist"
+      },
+      {
+        "title": "鬼魂",
+        "text": "荒诞的复仇",
+        "color": "gold"
+      }
+    ]
+  }
+}

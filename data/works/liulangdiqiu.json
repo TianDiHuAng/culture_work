@@ -1,0 +1,98 @@
+{
+  "id": "liulangdiqiu",
+  "title": "流浪地球",
+  "original_title": "流浪地球（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇科幻小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "liucixin",
+  "author_name": "刘慈欣",
+  "year_display": "2000年发表（通说待核；作者页 B088 口径——major_works 载'流浪地球、乡村教师等短篇'）",
+  "year_sort": 2000,
+  "background": [
+    "作者页（B088）：刘慈欣 major_works 载'流浪地球、乡村教师等短篇'——短篇时代的代表作（B088 作者页定位，详见 santi 条核对）。",
+    "设定：太阳氦闪——人类驾驶地球逃离太阳系（通说）。"
+  ],
+  "outline": [
+    "刹车时代→逃逸时代→流浪时代：行星发动机推动地球（通说待核）。",
+    "'叛乱'与太阳的真相（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "我",
+      "identity": "地球时代的人",
+      "note": "编年视角（通说待核）"
+    }
+  ],
+  "themes": [
+    "带着地球去流浪：家园主义的科幻表达（通说）。",
+    "集体与个体的百年尺度（通说）。",
+    "'行星发动机'的工程美学（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：刘慈欣短篇代表作（B088 作者页口径）。",
+      "source": "B088"
+    },
+    {
+      "text": "2019年郭帆电影改编开启中国科幻电影元年（通说待核）。",
+      "source": "B088"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "编年体时间跨度。",
+      "工程设定的硬核细节。"
+    ],
+    "editions": [
+      "《流浪地球》（长江文艺出版社等版本，通说待核）。"
+    ],
+    "order": "先《流浪地球》后《三体》。"
+  },
+  "pending": [
+    "2000年《科幻世界》刊出核对。",
+    "电影2019年（郭帆说）细节待核。",
+    "氦闪设定与天文学事实核对。"
+  ],
+  "sources": [
+    "B088"
+  ],
+  "year_source": "B088",
+  "author_source": "B088",
+  "related_works": [
+    "santi",
+    "heiansenlin",
+    "wuhao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《流浪地球》流浪时代图",
+    "cards": [
+      {
+        "title": "刹车时代",
+        "text": "停止自转",
+        "color": "family"
+      },
+      {
+        "title": "逃逸时代",
+        "text": "借木星加速",
+        "color": "main"
+      },
+      {
+        "title": "叛乱",
+        "text": "太阳的真相",
+        "color": "antagonist"
+      },
+      {
+        "title": "流浪",
+        "text": "2500年航程",
+        "color": "gold"
+      }
+    ]
+  }
+}
