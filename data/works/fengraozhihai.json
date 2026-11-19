@@ -1,0 +1,103 @@
+{
+  "id": "fengraozhihai",
+  "title": "丰饶之海",
+  "original_title": "豊饒の海（四部曲）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（四部曲）",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "mishima",
+  "author_name": "三岛由纪夫",
+  "year_display": "1965—1970年出版（作者页 B108 口径：丰饶之海四部曲（1965—70））",
+  "year_sort": 1968,
+  "background": [
+    "作者页（B108）：三岛 major_works 载'丰饶之海四部曲（1965—70）'——其晚年总括之作（B108 作者页定位，详见 jinbgesi 条核对）。",
+    "四部：《春雪》《奔马》《晓寺》《天人五衰》（通说待核）；三岛完稿后次日自尽（通说待核）。"
+  ],
+  "outline": [
+    "轮回转世的执念：清显→饭沼勋→公主→月光姬（转世链通说待核）。",
+    "本多繁邦的见证者视角贯穿四部（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "本多繁邦",
+      "identity": "法律家",
+      "note": "贯穿四部的见证者（通说待核）"
+    },
+    {
+      "name": "清显",
+      "identity": "贵族青年",
+      "note": "第一部（通说待核）"
+    }
+  ],
+  "themes": [
+    "轮回与美的毁灭（通说）。",
+    "'天人五衰'的佛教末法观（通说待核）。",
+    "三岛美学的终章（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：三岛晚年四部曲（B108 作者页口径）。",
+      "source": "B108"
+    },
+    {
+      "text": "与作者自杀的互文——文学史公案（通说待核）。",
+      "source": "B108"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "四部曲体量。",
+      "佛教轮回概念。"
+    ],
+    "editions": [
+      "《丰饶之海》（人民文学出版社四卷本，通说待核）。"
+    ],
+    "order": "先《金阁寺》《假面的告白》→ 四部曲。"
+  },
+  "pending": [
+    "四部书名与年份核对。",
+    "转世链情节核对。",
+    "完稿与自杀的日期关系待核。"
+  ],
+  "sources": [
+    "B108"
+  ],
+  "year_source": "B108",
+  "author_source": "B108",
+  "related_works": [
+    "jinbgesi",
+    "jamiandegaobai",
+    "shenqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《丰饶之海》轮回四部图",
+    "cards": [
+      {
+        "title": "春雪",
+        "text": "贵族的初恋",
+        "color": "family"
+      },
+      {
+        "title": "奔马",
+        "text": "右翼青年",
+        "color": "main"
+      },
+      {
+        "title": "晓寺",
+        "text": "泰国的转世",
+        "color": "gold"
+      },
+      {
+        "title": "天人五衰",
+        "text": "末法的终结",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

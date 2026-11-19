@@ -1,0 +1,97 @@
+{
+  "id": "guangdaozhaji",
+  "title": "广岛札记",
+  "original_title": "ヒロシマ・ノート（Hiroshima Notes）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "随笔集",
+  "genre_group": "散文",
+  "language": "日语",
+  "author_id": "oe",
+  "author_name": "大江健三郎",
+  "year_display": "1965年（作者页 B167 口径：广岛札记（Hiroshima Notes））",
+  "year_sort": 1965,
+  "background": [
+    "作者页（B167）：大江 major_works 载'广岛札记（Hiroshima Notes）'（B167 作者页定位，详见 gerende 条核对）。",
+    "题材（通说）：原子弹爆炸幸存者的系列报道与反思——'人道主义'的抉择。"
+  ],
+  "outline": [
+    "广岛之行：被爆者医院、和平运动、'人道的拒绝'（章节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "重松信弘",
+      "identity": "被爆者",
+      "note": "（人物待核）"
+    }
+  ],
+  "themes": [
+    "核时代的伦理（通说）。",
+    "被爆者的尊严（通说待核）。",
+    "人道主义的抉择（通说待核——书中小标题）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：大江非虚构代表作（B167 作者页口径）。",
+      "source": "B167"
+    },
+    {
+      "text": "与其后《广岛札记》续写的反核立场（通说）。",
+      "source": "B167"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "核爆史实。",
+      "报告文学文体。"
+    ],
+    "editions": [
+      "《广岛札记》（光明日报出版社/人民文学出版社版本，通说待核）。"
+    ],
+    "order": "对照《个人的体验》：大江的两个'广岛'。"
+  },
+  "pending": [
+    "连载（《世界》杂志1964—65说）核对。",
+    "人物名核对。",
+    "中译本信息待核。"
+  ],
+  "sources": [
+    "B167"
+  ],
+  "year_source": "B167",
+  "author_source": "B167",
+  "related_works": [
+    "gerende",
+    "wuhao",
+    "woyuditan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《广岛札记》人道结构图",
+    "cards": [
+      {
+        "title": "广岛",
+        "text": "被爆者的城市",
+        "color": "family"
+      },
+      {
+        "title": "人道的抉择",
+        "text": "拒绝的勇气",
+        "color": "main"
+      },
+      {
+        "title": "和平运动",
+        "text": "记者的在场",
+        "color": "gold"
+      },
+      {
+        "title": "反核",
+        "text": "写作的立场",
+        "color": "plain"
+      }
+    ]
+  }
+}

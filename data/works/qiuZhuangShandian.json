@@ -1,0 +1,103 @@
+{
+  "id": "qiuZhuangShandian",
+  "title": "球状闪电",
+  "original_title": "球状闪电（长篇科幻小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇科幻小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "liucixin",
+  "author_name": "刘慈欣",
+  "year_display": "2004年中文版出版（通说待核；作者页 B088 口径——major_works 载'球状闪电（2018英文版/2004中文版通说）'）",
+  "year_sort": 2004,
+  "background": [
+    "作者页（B088）：刘慈欣 major_works 载'球状闪电（2018英文版/2004中文版通说）'（B088 作者页定位，详见 santi 条核对）。",
+    "设定：球状闪电的量子态——'观察者'决定存在（通说待核）。"
+  ],
+  "outline": [
+    "陈博士追寻毁掉父母婚姻的球状闪电——从气象到量子的真相（通说待核）。",
+    "与《三体》前传关系（丁仪人物——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "陈博士",
+      "identity": "研究者",
+      "note": "追寻者（通说待核）"
+    },
+    {
+      "name": "丁仪",
+      "identity": "理论物理学家",
+      "note": "跨书人物（通说待核）"
+    }
+  ],
+  "themes": [
+    "量子世界的诗意设定（通说）。",
+    "科学浪漫主义（通说）。",
+    "武器化的灾难（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：刘慈欣早期长篇（B088 作者页口径）。",
+      "source": "B088"
+    },
+    {
+      "text": "《三体》前传（丁仪宇宙——通说待核）。",
+      "source": "B088"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "量子力学设定。",
+      "人物功能化。"
+    ],
+    "editions": [
+      "《球状闪电》（四川科学技术出版社，通说待核）。"
+    ],
+    "order": "可独立读，或置于《三体》前。"
+  },
+  "pending": [
+    "2004年四川科技出版社初版核对。",
+    "陈博士/丁仪人名核对。",
+    "英文版2018年（Head of Zeus说）核对。"
+  ],
+  "sources": [
+    "B088"
+  ],
+  "year_source": "B088",
+  "author_source": "B088",
+  "related_works": [
+    "santi",
+    "heiansenlin",
+    "liulangdiqiu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《球状闪电》追寻结构图",
+    "cards": [
+      {
+        "title": "球状闪电",
+        "text": "毁家的谜",
+        "color": "antagonist"
+      },
+      {
+        "title": "量子态",
+        "text": "观察者的存在",
+        "color": "main"
+      },
+      {
+        "title": "丁仪",
+        "text": "理论的钥匙",
+        "color": "gold"
+      },
+      {
+        "title": "武器",
+        "text": "科学的歧路",
+        "color": "plain"
+      }
+    ]
+  }
+}

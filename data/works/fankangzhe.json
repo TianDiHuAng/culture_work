@@ -1,0 +1,99 @@
+{
+  "id": "fankangzhe",
+  "title": "反抗者",
+  "original_title": "L'Homme révolté（The Rebel）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "哲学论集",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "camus",
+  "author_name": "阿尔贝·加缪",
+  "year_display": "1951年出版（作者页 B092 口径：反抗者（1951））",
+  "year_sort": 1951,
+  "background": [
+    "作者页（B092）：加缪 major_works 载'西西弗神话（1942）、反抗者（1951）、堕落（1956）'（B092 作者页定位，详见 juwairen 条核对）。",
+    "主题（通说）：从'荒诞'到'反抗'——对革命暴力的批判；引发与萨特的公开决裂（通说待核）。"
+  ],
+  "outline": [
+    "'反抗者'的定义与历史：从形而上的反抗到革命暴力（通说待核）。",
+    "'因此反抗而非革命'（论旨通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "加缪",
+      "identity": "论者",
+      "note": "荒诞→反抗"
+    }
+  ],
+  "themes": [
+    "反抗的界限（通说）。",
+    "对'历史主义'的批判（通说待核）。",
+    "与萨特的决裂（通说待核——《现代》杂志1952年论战）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：加缪论著谱系（B092 作者页口径）。",
+      "source": "B092"
+    },
+    {
+      "text": "冷战思想史的标志性论战（通说待核）。",
+      "source": "B092"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "思想史论战背景。",
+      "'反抗'与'革命'的概念区分。"
+    ],
+    "editions": [
+      "《反抗者》（上海译文出版社吕永真译本，通说待核）。",
+      "法文原版（Gallimard）。"
+    ],
+    "order": "先《西西弗神话》后本作。"
+  },
+  "pending": [
+    "与萨特论战（1952年《现代》）细节核对。",
+    "章节结构核对。",
+    "吕永真译本信息核对。"
+  ],
+  "sources": [
+    "B092"
+  ],
+  "year_source": "B092",
+  "author_source": "B092",
+  "related_works": [
+    "xixifushenhua",
+    "exin",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《反抗者》思想结构图",
+    "cards": [
+      {
+        "title": "荒诞",
+        "text": "起点",
+        "color": "family"
+      },
+      {
+        "title": "反抗",
+        "text": "界限内的行动",
+        "color": "main"
+      },
+      {
+        "title": "革命",
+        "text": "被批判的暴力",
+        "color": "antagonist"
+      },
+      {
+        "title": "决裂",
+        "text": "与萨特的论战（待核）",
+        "color": "gold"
+      }
+    ]
+  }
+}

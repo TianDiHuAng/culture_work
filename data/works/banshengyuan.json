@@ -1,0 +1,108 @@
+{
+  "id": "banshengyuan",
+  "title": "半生缘",
+  "original_title": "半生缘（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "zhangailing",
+  "author_name": "张爱玲",
+  "year_display": "1968年（作者页 B111 口径：半生缘（1968））",
+  "year_sort": 1968,
+  "background": [
+    "作者页（B111）：张爱玲 major_works 载'半生缘（1968）'（B111 作者页定位，详见 jinsuoji 条核对）。",
+    "前身：《十八春》（1950—51年连载说——通说待核）的改写。"
+  ],
+  "outline": [
+    "沈世钧与顾曼桢的错过的半生：曼璐的算计与祝鸿才的暴力（通说待核）。",
+    "多年后重逢——'我们回不去了'（名句通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "顾曼桢",
+      "identity": "职员",
+      "note": "被姐姐牺牲（通说待核）"
+    },
+    {
+      "name": "沈世钧",
+      "identity": "青年",
+      "note": "错过的爱人"
+    },
+    {
+      "name": "顾曼璐",
+      "identity": "姐姐",
+      "note": "献祭妹妹（通说待核）"
+    }
+  ],
+  "themes": [
+    "'回不去'的时间（名句待核）。",
+    "家族对女性的牺牲（通说）。",
+    "上海—南京的双城（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：张爱玲后期代表作（B111 作者页口径）。",
+      "source": "B111"
+    },
+    {
+      "text": "1997年许鞍华电影改编（通说待核）。",
+      "source": "B111"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长篇的绵密铺陈。",
+      "'十八春'与'半生缘'的版本对照。"
+    ],
+    "editions": [
+      "《半生缘》（北京十月文艺出版社《张爱玲全集》，通说待核）。"
+    ],
+    "order": "先《倾城之恋》后本作。"
+  },
+  "pending": [
+    "《十八春》连载（1950—51《亦报》说）核对。",
+    "曼桢/曼璐人名核对。",
+    "1997年电影（许鞍华）待核。"
+  ],
+  "sources": [
+    "B111"
+  ],
+  "year_source": "B111",
+  "author_source": "B111",
+  "related_works": [
+    "jinsuoji",
+    "qingchengzhilian",
+    "sishitongtang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《半生缘》错过结构图",
+    "cards": [
+      {
+        "title": "相遇",
+        "text": "世钧与曼桢",
+        "color": "family"
+      },
+      {
+        "title": "牺牲",
+        "text": "姐姐的算计",
+        "color": "antagonist"
+      },
+      {
+        "title": "错过",
+        "text": "半生的离散",
+        "color": "main"
+      },
+      {
+        "title": "重逢",
+        "text": "回不去了（名句待核）",
+        "color": "gold"
+      }
+    ]
+  }
+}

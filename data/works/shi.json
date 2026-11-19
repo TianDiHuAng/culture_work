@@ -1,0 +1,104 @@
+{
+  "id": "shi",
+  "title": "蚀",
+  "original_title": "蚀（三部曲：幻灭·动摇·追求）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "三部曲中篇",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "maodun",
+  "author_name": "茅盾",
+  "year_display": "1930年（作者页 B078 口径：蚀（幻灭·动摇·追求）1930）",
+  "year_sort": 1930,
+  "background": [
+    "作者页（B078）：茅盾 major_works 载'蚀（幻灭·动摇·追求）1930'（B078 作者页定位，详见 ziye 条核对）。",
+    "题材（通说）：大革命前后知识青年的幻灭、动摇、追求——茅盾处女作三部曲。"
+  ],
+  "outline": [
+    "《幻灭》：静女士的革命幻想破灭（通说待核）。",
+    "《动摇》：方罗兰的动摇与胡国光的投机（通说待核）。",
+    "《追求》：章秋柳们的颓废追求（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "静女士",
+      "identity": "女学生",
+      "note": "幻灭（通说待核）"
+    },
+    {
+      "name": "章秋柳",
+      "identity": "时代女性",
+      "note": "追求（通说待核）"
+    }
+  ],
+  "themes": [
+    "大革命失败后的精神'蚀'（通说）。",
+    "时代女性的三部曲（通说）。",
+    "现实主义与心理描写（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：茅盾处女作三部曲（B078 作者页口径）。",
+      "source": "B078"
+    },
+    {
+      "text": "《子夜》之前的茅盾（B078 作者页谱系）。",
+      "source": "B078"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "大革命史背景。",
+      "三部曲的连续性。"
+    ],
+    "editions": [
+      "《蚀》（人民文学出版社《茅盾全集》，通说待核）。"
+    ],
+    "order": "先《蚀》后《子夜》看茅盾的演进。"
+  },
+  "pending": [
+    "三部各自首刊（《小说月报》说）核对。",
+    "静女士/章秋柳人名核对。",
+    "'蚀'题解（作者自序）待核。"
+  ],
+  "sources": [
+    "B078"
+  ],
+  "year_source": "B078",
+  "author_source": "B078",
+  "related_works": [
+    "ziye",
+    "linjiapuzi",
+    "nahan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《蚀》三部曲结构图",
+    "cards": [
+      {
+        "title": "幻灭",
+        "text": "理想的破灭",
+        "color": "family"
+      },
+      {
+        "title": "动摇",
+        "text": "立场的摇摆",
+        "color": "main"
+      },
+      {
+        "title": "追求",
+        "text": "颓废的追寻",
+        "color": "gold"
+      },
+      {
+        "title": "蚀",
+        "text": "时代的月相",
+        "color": "plain"
+      }
+    ]
+  }
+}

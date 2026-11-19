@@ -1,0 +1,104 @@
+{
+  "id": "nuositeluomo",
+  "title": "诺斯特罗莫",
+  "original_title": "Nostromo",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "conrad",
+  "author_name": "约瑟夫·康拉德",
+  "year_display": "1904年出版（作者页 B124 口径：诺斯特罗莫（1904））",
+  "year_sort": 1904,
+  "background": [
+    "作者页（B124）：康拉德 major_works 载'吉姆爷（1900）、诺斯特罗莫（1904）、间谍（1907）'（B124 作者页定位，详见 heianddixin 条核对）。",
+    "题材（通说）：南美虚构国柯斯塔瓜纳的银矿革命——物质利益的腐蚀。"
+  ],
+  "outline": [
+    "桑·托梅银矿与革命——'物质利益'的胜利（通说待核）。",
+    "诺斯特罗莫的盗银与自我毁灭（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "诺斯特罗莫",
+      "identity": "码头领袖",
+      "note": "'物质利益'的牺牲者（通说待核）"
+    },
+    {
+      "name": "查尔斯·古尔德",
+      "identity": "矿主",
+      "note": "理想主义矿主（通说待核）"
+    }
+  ],
+  "themes": [
+    "'物质利益'（Material Interests）的支配（通说）。",
+    "革命的反讽（通说）。",
+    "多视角全景叙事（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：康拉德政治三部曲之一（B124 作者页口径）。",
+      "source": "B124"
+    },
+    {
+      "text": "被许多评论家视为康拉德最伟大的作品（通说待核）。",
+      "source": "B124"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "虚构南美国度的人名地名。",
+      "多线叙事。"
+    ],
+    "editions": [
+      "《诺斯特罗莫》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《吉姆爷》后本作。"
+  },
+  "pending": [
+    "1904年出版（Harper & Brothers说）核对。",
+    "诺斯特罗莫/古尔德/德考迪人名核对。",
+    "'最伟大作品'评论出处待核。"
+  ],
+  "sources": [
+    "B124"
+  ],
+  "year_source": "B124",
+  "author_source": "B124",
+  "related_works": [
+    "jimuye",
+    "heianddixin",
+    "hongyuhei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《诺斯特罗莫》银矿结构图",
+    "cards": [
+      {
+        "title": "银矿",
+        "text": "物质利益（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "革命",
+        "text": "柯斯塔瓜纳",
+        "color": "antagonist"
+      },
+      {
+        "title": "诺斯特罗莫",
+        "text": "盗银的英雄",
+        "color": "main"
+      },
+      {
+        "title": "谎言",
+        "text": "历史的定论",
+        "color": "plain"
+      }
+    ]
+  }
+}
