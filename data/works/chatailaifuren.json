@@ -1,0 +1,109 @@
+{
+  "id": "chatailaifuren",
+  "title": "查泰莱夫人的情人",
+  "original_title": "Lady Chatterley's Lover",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lawrence",
+  "author_name": "D.H.劳伦斯",
+  "year_display": "1928年（作者页 B125 口径：查泰莱夫人的情人（1928））",
+  "year_sort": 1928,
+  "background": [
+    "作者页（B125）：劳伦斯 major_works 载'虹（1915）、恋爱中的女人（1920）、查泰莱夫人的情人（1928）'（B125 作者页定位，详见 erzisonai 条核对）。",
+    "出版史（通说待核）：私印版本（1928佛罗伦萨）与1960年'企鹅审判'——英国出版自由史的标志案件。"
+  ],
+  "outline": [
+    "康妮与矿工出身的猎场看守梅勒斯——阶级与身体的重逢（通说待核）。",
+    "'废墟上的肉体温存'：对机械文明的抵抗（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "康妮（查泰莱夫人）",
+      "identity": "贵族妻子",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "梅勒斯",
+      "identity": "猎场看守",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "克利福德爵士",
+      "identity": "丈夫",
+      "note": "瘫痪的矿主（通说待核）"
+    }
+  ],
+  "themes": [
+    "身体与阶级（通说）。",
+    "工业文明对生命的残害（通说待核）。",
+    "'淫秽'审判与出版自由（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：劳伦斯后期代表作（B125 作者页口径）。",
+      "source": "B125"
+    },
+    {
+      "text": "1960年企鹅版无罪判决——英国出版史里程碑（通说待核）。",
+      "source": "B125"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "性描写的文学语境。",
+      "劳伦斯的语言节奏。"
+    ],
+    "editions": [
+      "《查泰莱夫人的情人》（人民文学出版社饶述一译本，通说待核）。",
+      "英文全本（剑桥版）。"
+    ],
+    "order": "先《儿子与情人》《虹》后本作。"
+  },
+  "pending": [
+    "1928年佛罗伦萨私印（Orioli说）核对。",
+    "饶述一译本（1936年说）待核。",
+    "1960年企鹅审判（R v Penguin Books）细节待核。"
+  ],
+  "sources": [
+    "B125"
+  ],
+  "year_source": "B125",
+  "author_source": "B125",
+  "related_works": [
+    "erzisonai",
+    "hongyuhei",
+    "baofali"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《查泰莱夫人》三角结构图",
+    "cards": [
+      {
+        "title": "克利福德",
+        "text": "瘫痪的工业",
+        "color": "antagonist"
+      },
+      {
+        "title": "康妮",
+        "text": "苏醒的身体",
+        "color": "main"
+      },
+      {
+        "title": "梅勒斯",
+        "text": "看守与语言",
+        "color": "gold"
+      },
+      {
+        "title": "审判",
+        "text": "1960企鹅案（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

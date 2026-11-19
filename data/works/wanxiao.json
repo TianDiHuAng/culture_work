@@ -1,0 +1,104 @@
+{
+  "id": "wanxiao",
+  "title": "玩笑",
+  "original_title": "Žert（The Joke）",
+  "region": "捷克",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "捷克语",
+  "author_id": "kundera",
+  "author_name": "米兰·昆德拉",
+  "year_display": "1967年（作者页 B104 口径：玩笑（1967））",
+  "year_sort": 1967,
+  "background": [
+    "作者页（B104）：昆德拉 major_works 载'玩笑（1967）'（B104 作者页定位，详见 qingzhong 条核对）。",
+    "题材（通说待核）：一个明信片玩笑毁掉卢德维克的一生——斯大林时代的布拉格。"
+  ],
+  "outline": [
+    "卢德维克的玩笑明信片与'赎罪'的复仇计划（通说待核）。",
+    "四声部叙述：玩笑的代价层层反转（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "卢德维克",
+      "identity": "大学生",
+      "note": "被玩笑毁掉（通说待核）"
+    },
+    {
+      "name": "海伦娜",
+      "identity": "广播员",
+      "note": "复仇的对象（通说待核）"
+    }
+  ],
+  "themes": [
+    "极权语言与个人命运（通说）。",
+    "'玩笑'的不可逆（通说）。",
+    "复调叙事（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：昆德拉成名作（B104 作者页口径）。",
+      "source": "B104"
+    },
+    {
+      "text": "1968年后在捷克斯洛伐克被禁（通说待核）。",
+      "source": "B104"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "捷克政治史。",
+      "四声部的切换。"
+    ],
+    "editions": [
+      "《玩笑》（上海译文出版社，通说待核）。",
+      "捷克文原版。"
+    ],
+    "order": "先《玩笑》后《不能承受的生命之轻》。"
+  },
+  "pending": [
+    "1967年出版（Československý spisovatel说）核对。",
+    "卢德维克/海伦娜人名核对。",
+    "被禁与1968年出版波折待核。"
+  ],
+  "sources": [
+    "B104"
+  ],
+  "year_source": "B104",
+  "author_source": "B104",
+  "related_works": [
+    "qingzhong",
+    "yijiubasi",
+    "exin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《玩笑》代价结构图",
+    "cards": [
+      {
+        "title": "明信片",
+        "text": "一句玩笑",
+        "color": "family"
+      },
+      {
+        "title": "劳改",
+        "text": "人生的改写",
+        "color": "antagonist"
+      },
+      {
+        "title": "复仇",
+        "text": "落空的算计",
+        "color": "main"
+      },
+      {
+        "title": "四声部",
+        "text": "各自的真相",
+        "color": "gold"
+      }
+    ]
+  }
+}

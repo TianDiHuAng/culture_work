@@ -1,0 +1,105 @@
+{
+  "id": "yizhuangshixianzhangyang",
+  "title": "一桩事先张扬的凶杀案",
+  "original_title": "Crónica de una muerte anunciada（Chronicle of a Death Foretold）",
+  "region": "哥伦比亚",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "garcia-marquez",
+  "author_name": "加夫列尔·加西亚·马尔克斯",
+  "year_display": "1981年（作者页 B053/B025 口径：一桩事先张扬的凶杀案（1981））",
+  "year_sort": 1981,
+  "background": [
+    "作者页（B053/B025）：马尔克斯 major_works 载'一桩事先张扬的凶杀案（1981）'（作者页定位，详见 bainian 条核对）。",
+    "题材（通说待核）：全镇'事先知道'却无人阻止的凶杀——记者化的回溯调查。"
+  ],
+  "outline": [
+    "圣地亚哥·纳赛尔被维卡里奥兄弟'事先张扬'地杀死——为何无人阻止（通说待核）。",
+    "安赫拉的被休与'贞洁'之谜（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "圣地亚哥·纳赛尔",
+      "identity": "受害者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "安赫拉·维卡里奥",
+      "identity": "新娘",
+      "note": "被休（通说待核）"
+    }
+  ],
+  "themes": [
+    "集体沉默的共谋（通说）。",
+    "'事先张扬'的命运结构（通说）。",
+    "新闻报道与小说的嫁接（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：马尔克斯代表作谱系（B053/B025 作者页口径）。",
+      "source": "B053"
+    },
+    {
+      "text": "与《百年孤独》《霍乱时期的爱情》并列（作者页谱系）。",
+      "source": "B053"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "回溯调查的多声部。",
+      "真相的悬置（'贞洁'存疑）。"
+    ],
+    "editions": [
+      "《一桩事先张扬的凶杀案》（南海出版公司，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "先《百年孤独》《霍乱时期的爱情》后本作。"
+  },
+  "pending": [
+    "1981年出版（Editorial Bruguera说）核对。",
+    "纳赛尔/安赫拉人名核对。",
+    "作者兄弟回忆与本作关系待核。"
+  ],
+  "sources": [
+    "B053",
+    "B025"
+  ],
+  "year_source": "B053",
+  "author_source": "B053",
+  "related_works": [
+    "bainian",
+    "huoluan",
+    "shiyin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《凶杀案》共谋结构图",
+    "cards": [
+      {
+        "title": "事先张扬",
+        "text": "全镇都知道",
+        "color": "main"
+      },
+      {
+        "title": "无人阻止",
+        "text": "集体的共谋",
+        "color": "antagonist"
+      },
+      {
+        "title": "贞洁之谜",
+        "text": "真相的悬置",
+        "color": "gold"
+      },
+      {
+        "title": "回溯",
+        "text": "记者式的调查",
+        "color": "family"
+      }
+    ]
+  }
+}

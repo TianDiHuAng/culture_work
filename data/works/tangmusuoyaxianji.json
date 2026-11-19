@@ -1,0 +1,106 @@
+{
+  "id": "tangmusuoyaxianji",
+  "title": "汤姆·索亚历险记",
+  "original_title": "The Adventures of Tom Sawyer",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "twain",
+  "author_name": "马克·吐温",
+  "year_display": "1876年出版（作者页 B045/B020 口径：汤姆·索亚历险记（1876））",
+  "year_sort": 1876,
+  "background": [
+    "作者页（B045/B020）：马克·吐温 major_works 载'汤姆·索亚历险记（1876）'（作者页定位，详见 hakebei 条核对）。",
+    "题材（通说待核）：密西西比河畔小镇少年的顽童历险——洞穴寻宝与'海盗'梦。"
+  ],
+  "outline": [
+    "刷墙名场面：把惩罚变成特权（通说待核）。",
+    "墓地的凶案目击与法庭作证（通说待核）。",
+    "山洞迷路并找到宝藏（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "汤姆·索亚",
+      "identity": "顽童",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "哈克贝利·费恩",
+      "identity": "流浪儿",
+      "note": "续集主角（通说待核）"
+    }
+  ],
+  "themes": [
+    "童年自由的颂歌（通说）。",
+    "小镇社会的讽刺（通说）。",
+    "'孩子视角'的叙事（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：马克·吐温代表作（B045/B020 作者页口径）。",
+      "source": "B045"
+    },
+    {
+      "text": "《哈克贝利·费恩历险记》的前篇（通说）。",
+      "source": "B045"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "密西西比河方言。",
+      "'孩子气'的幽默理解。"
+    ],
+    "editions": [
+      "《汤姆·索亚历险记》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先本作后《哈克贝利·费恩历险记》。"
+  },
+  "pending": [
+    "1876年出版（American Publishing Company说）核对。",
+    "刷墙/洞穴情节核对。",
+    "波莉姨妈人名待核。"
+  ],
+  "sources": [
+    "B045",
+    "B020"
+  ],
+  "year_source": "B045",
+  "author_source": "B045",
+  "related_works": [
+    "hakebei",
+    "laorenhai",
+    "maitian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《汤姆·索亚》历险图",
+    "cards": [
+      {
+        "title": "刷墙",
+        "text": "惩罚变特权（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "墓地",
+        "text": "凶案的目击",
+        "color": "antagonist"
+      },
+      {
+        "title": "山洞",
+        "text": "迷路与宝藏",
+        "color": "main"
+      },
+      {
+        "title": "哈克",
+        "text": "流浪的伙伴",
+        "color": "family"
+      }
+    ]
+  }
+}

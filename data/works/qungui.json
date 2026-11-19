@@ -1,0 +1,110 @@
+{
+  "id": "qungui",
+  "title": "群鬼",
+  "original_title": "Gengangere（Ghosts）",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "话剧",
+  "genre_group": "戏剧",
+  "language": "挪威语",
+  "author_id": "ibsen",
+  "author_name": "亨利克·易卜生",
+  "year_display": "1881年（作者页 B044/B019 口径：群鬼（1881））",
+  "year_sort": 1881,
+  "background": [
+    "作者页（B044/B019）：易卜生 major_works 载'培尔·金特（1867）、群鬼（1881）、野鸭（1884）'（作者页定位，详见 wanou 条核对）。",
+    "题材（通说待核）：阿尔文太太为维持体面'建孤儿院'——梅毒与幽灵般的旧道德。"
+  ],
+  "outline": [
+    "欧士华回家——遗传的病与母亲的沉默（通说待核）。",
+    "'群鬼'：我们都被死人思想所'闹鬼'（台词意，通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "阿尔文太太",
+      "identity": "寡妇",
+      "note": "体面的牺牲者（通说待核）"
+    },
+    {
+      "name": "欧士华",
+      "identity": "儿子",
+      "note": "病中的艺术家（通说待核）"
+    },
+    {
+      "name": "曼德牧师",
+      "identity": "牧师",
+      "note": "虚伪的道德（通说待核）"
+    }
+  ],
+  "themes": [
+    "旧道德的'群鬼'（通说）。",
+    "遗传与谎言（通说待核）。",
+    "社会问题剧的激进化（通说——比《玩偶之家》更受争议）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：易卜生代表作（B044/B019 作者页口径）。",
+      "source": "B044"
+    },
+    {
+      "text": "1881年出版后遭书店退回与教会围剿（通说待核）。",
+      "source": "B044"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "挪威信义宗背景。",
+      "'群鬼'的隐喻层次。"
+    ],
+    "editions": [
+      "《易卜生文集》（人民文学出版社，通说待核）。",
+      "挪威文原版（公有领域）。"
+    ],
+    "order": "《玩偶之家》→《群鬼》→《野鸭》。"
+  },
+  "pending": [
+    "1881年出版与首演延宕（1882年瑞典说）核对。",
+    "阿尔文/欧士华/曼德人名核对。",
+    "'群鬼'台词原文待核。"
+  ],
+  "sources": [
+    "B044",
+    "B019"
+  ],
+  "year_source": "B044",
+  "author_source": "B044",
+  "related_works": [
+    "wanou",
+    "leiyu",
+    "richu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《群鬼》幽灵结构图",
+    "cards": [
+      {
+        "title": "孤儿院",
+        "text": "体面的谎言",
+        "color": "antagonist"
+      },
+      {
+        "title": "欧士华",
+        "text": "遗传的病",
+        "color": "main"
+      },
+      {
+        "title": "曼德",
+        "text": "道德的鬼",
+        "color": "gold"
+      },
+      {
+        "title": "阿尔文太太",
+        "text": "沉默的代价",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "bukeerxi",
+  "title": "不可儿戏",
+  "original_title": "The Importance of Being Earnest",
+  "region": "爱尔兰",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "三幕喜剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "wilde",
+  "author_name": "奥斯卡·王尔德",
+  "year_display": "1895年（作者页 B132 口径：不可儿戏（1895））",
+  "year_sort": 1895,
+  "background": [
+    "作者页（B132）：王尔德 major_works 载'不可儿戏（1895）、温德米尔夫人的扇子（1892）'（B132 作者页定位，详见 daolian 条核对）。",
+    "题材（通说）：双城双名的身份游戏——'Bunburying'（假造病人遁词）。"
+  ],
+  "outline": [
+    "杰克在乡下叫杰克、在伦敦叫'埃纳斯特'；阿尔杰农如法炮制（通说待核）。",
+    "手提包之谜与身世揭晓——误会喜结连理（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "杰克/埃纳斯特",
+      "identity": "双重身份者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "巴克尔克?——不：Gwendolen 与 Cecily",
+      "identity": "两位女士",
+      "note": "都爱'埃纳斯特'（通说待核）"
+    }
+  ],
+  "themes": [
+    "警句喜剧的巅峰（通说）。",
+    "身份的双重性与虚伪（通说）。",
+    "'认真的重要'——题目的反讽（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：王尔德戏剧代表作（B132 作者页口径）。",
+      "source": "B132"
+    },
+    {
+      "text": "英语喜剧中最常上演剧目之一（通说待核）。",
+      "source": "B132"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "警句的双关翻译。",
+      "维多利亚礼仪背景。"
+    ],
+    "editions": [
+      "《不可儿戏》（余光中译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "对照《道连·格雷的画像》：王尔德的两副面孔。"
+  },
+  "pending": [
+    "1895年2月14日首演（St James's Theatre说）核对。",
+    "杰克/阿尔杰农人名核对。",
+    "余光中译本信息待核。"
+  ],
+  "sources": [
+    "B132"
+  ],
+  "year_source": "B132",
+  "author_source": "B132",
+  "related_works": [
+    "daolian",
+    "wanou",
+    "aoman"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《不可儿戏》双名结构图",
+    "cards": [
+      {
+        "title": "双名",
+        "text": "乡下杰克·城里埃纳斯特",
+        "color": "main"
+      },
+      {
+        "title": "两位女士",
+        "text": "都嫁'埃纳斯特'",
+        "color": "family"
+      },
+      {
+        "title": "手提包",
+        "text": "身世之谜",
+        "color": "gold"
+      },
+      {
+        "title": "警句",
+        "text": "王尔德式对话",
+        "color": "plain"
+      }
+    ]
+  }
+}

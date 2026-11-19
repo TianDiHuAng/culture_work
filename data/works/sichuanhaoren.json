@@ -1,0 +1,104 @@
+{
+  "id": "sichuanhaoren",
+  "title": "四川好人",
+  "original_title": "Der gute Mensch von Sezuan（The Good Person of Szechwan）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "寓意剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "brecht",
+  "author_name": "贝托尔特·布莱希特",
+  "year_display": "1940年（作者页 B138 口径：四川好人（1940））",
+  "year_sort": 1940,
+  "background": [
+    "作者页（B138）：布莱希特 major_works 载'母亲（1932）、伽利略传（1939）、四川好人（1940）、高加索灰阑记（1945）'（B138 作者页定位，详见 sanfenqian 条核对）。",
+    "设定（通说待核）：三位神明寻找'好人'——沈德的烟店与'表哥'的恶面。"
+  ],
+  "outline": [
+    "沈德行善却难以生存——戴上'表哥'（假定的男性表亲）面具行恶以自保（通说待核）。",
+    "开放式结尾：请观众'自己找出好的结局'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "沈德/表哥",
+      "identity": "水烟贩",
+      "note": "一人两面（通说待核）"
+    },
+    {
+      "name": "三位神明",
+      "identity": "下凡者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "善与生存的两难（通说）。",
+    "'陌生化效果'（间离）的舞台实践（通说待核——Verfremdung）。",
+    "东方题材的寓意化（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：布莱希特寓意剧（B138 作者页口径）。",
+      "source": "B138"
+    },
+    {
+      "text": "与《三分钱歌剧》《高加索灰阑记》并列（B138 作者页谱系）。",
+      "source": "B138"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'间离'理论的舞台语汇。",
+      "假面戏中戏。"
+    ],
+    "editions": [
+      "《四川好人》（人民文学出版社《布莱希特戏剧选》，通说待核）。",
+      "德文原版（Suhrkamp）。"
+    ],
+    "order": "对照《三分钱歌剧》《高加索灰阑记》。"
+  },
+  "pending": [
+    "1940年流亡芬兰完稿说核对。",
+    "沈德/Shui Ta人名核对。",
+    "'间离'（Verfremdungseffekt）术语核对。"
+  ],
+  "sources": [
+    "B138"
+  ],
+  "year_source": "B138",
+  "author_source": "B138",
+  "related_works": [
+    "sanfenqian",
+    "muqin",
+    "dengdaigou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《四川好人》假面结构图",
+    "cards": [
+      {
+        "title": "神明下凡",
+        "text": "寻找好人",
+        "color": "family"
+      },
+      {
+        "title": "沈德",
+        "text": "善良的困境",
+        "color": "main"
+      },
+      {
+        "title": "'表哥'",
+        "text": "生存的假面",
+        "color": "antagonist"
+      },
+      {
+        "title": "开放结尾",
+        "text": "请观众定夺（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

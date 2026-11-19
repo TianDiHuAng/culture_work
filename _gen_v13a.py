@@ -1,0 +1,167 @@
+# -*- coding: utf-8 -*-
+"""v13A：复用已核来源直写 8 部"""
+import json, pathlib
+
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
+works = {
+"tangmusuoyaxianji": {
+  "id":"tangmusuoyaxianji","title":"汤姆·索亚历险记","original_title":"The Adventures of Tom Sawyer","region":"美国","era":"近代","era_detail":"19世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"twain","author_name":"马克·吐温",
+  "year_display":"1876年出版（作者页 B045/B020 口径：汤姆·索亚历险记（1876））","year_sort":1876,
+  "background":["作者页（B045/B020）：马克·吐温 major_works 载'汤姆·索亚历险记（1876）'（作者页定位，详见 hakebei 条核对）。","题材（通说待核）：密西西比河畔小镇少年的顽童历险——洞穴寻宝与'海盗'梦。"],
+  "outline":["刷墙名场面：把惩罚变成特权（通说待核）。","墓地的凶案目击与法庭作证（通说待核）。","山洞迷路并找到宝藏（通说待核）。"],
+  "characters":[{"name":"汤姆·索亚","identity":"顽童","note":"（通说待核）"},{"name":"哈克贝利·费恩","identity":"流浪儿","note":"续集主角（通说待核）"}],
+  "themes":["童年自由的颂歌（通说）。",
+   "小镇社会的讽刺（通说）。",
+   "'孩子视角'的叙事（通说）。"],
+  "influence":[{"text":"作者页：马克·吐温代表作（B045/B020 作者页口径）。","source":"B045"},
+   {"text":"《哈克贝利·费恩历险记》的前篇（通说）。","source":"B045"}],
+  "reading":{"difficulties":["密西西比河方言。","'孩子气'的幽默理解。"],
+   "editions":["《汤姆·索亚历险记》（人民文学出版社，通说待核）。","英文原版（公有领域）。"],
+   "order":"先本作后《哈克贝利·费恩历险记》。"},
+  "pending":["1876年出版（American Publishing Company说）核对。","刷墙/洞穴情节核对。","波莉姨妈人名待核。"],
+  "sources":["B045","B020"],"year_source":"B045","author_source":"B045","related_works":["hakebei","laorenhai","maitian"],
+  "svg":G("《汤姆·索亚》历险图",[{"title":"刷墙","text":"惩罚变特权（通说）","color":"gold"},{"title":"墓地","text":"凶案的目击","color":"antagonist"},{"title":"山洞","text":"迷路与宝藏","color":"main"},{"title":"哈克","text":"流浪的伙伴","color":"family"}])
+},
+"bukeerxi": {
+  "id":"bukeerxi","title":"不可儿戏","original_title":"The Importance of Being Earnest","region":"爱尔兰","era":"近代","era_detail":"19世纪末",
+  "genre":"三幕喜剧","genre_group":"戏剧","language":"英语","author_id":"wilde","author_name":"奥斯卡·王尔德",
+  "year_display":"1895年（作者页 B132 口径：不可儿戏（1895））","year_sort":1895,
+  "background":["作者页（B132）：王尔德 major_works 载'不可儿戏（1895）、温德米尔夫人的扇子（1892）'（B132 作者页定位，详见 daolian 条核对）。","题材（通说）：双城双名的身份游戏——'Bunburying'（假造病人遁词）。"],
+  "outline":["杰克在乡下叫杰克、在伦敦叫'埃纳斯特'；阿尔杰农如法炮制（通说待核）。","手提包之谜与身世揭晓——误会喜结连理（通说待核）。"],
+  "characters":[{"name":"杰克/埃纳斯特","identity":"双重身份者","note":"（通说待核）"},{"name":"巴克尔克?——不：Gwendolen 与 Cecily","identity":"两位女士","note":"都爱'埃纳斯特'（通说待核）"}],
+  "themes":["警句喜剧的巅峰（通说）。",
+   "身份的双重性与虚伪（通说）。",
+   "'认真的重要'——题目的反讽（通说待核）。"],
+  "influence":[{"text":"作者页：王尔德戏剧代表作（B132 作者页口径）。","source":"B132"},
+   {"text":"英语喜剧中最常上演剧目之一（通说待核）。","source":"B132"}],
+  "reading":{"difficulties":["警句的双关翻译。","维多利亚礼仪背景。"],
+   "editions":["《不可儿戏》（余光中译本？——通说待核）。","英文原版（公有领域）。"],
+   "order":"对照《道连·格雷的画像》：王尔德的两副面孔。"},
+  "pending":["1895年2月14日首演（St James's Theatre说）核对。","杰克/阿尔杰农人名核对。","余光中译本信息待核。"],
+  "sources":["B132"],"year_source":"B132","author_source":"B132","related_works":["daolian","wanou","aoman"],
+  "svg":G("《不可儿戏》双名结构图",[{"title":"双名","text":"乡下杰克·城里埃纳斯特","color":"main"},{"title":"两位女士","text":"都嫁'埃纳斯特'","color":"family"},{"title":"手提包","text":"身世之谜","color":"gold"},{"title":"警句","text":"王尔德式对话","color":"plain"}])
+},
+"chatailaifuren": {
+  "id":"chatailaifuren","title":"查泰莱夫人的情人","original_title":"Lady Chatterley's Lover","region":"英国","era":"现当代","era_detail":"20世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"lawrence","author_name":"D.H.劳伦斯",
+  "year_display":"1928年（作者页 B125 口径：查泰莱夫人的情人（1928））","year_sort":1928,
+  "background":["作者页（B125）：劳伦斯 major_works 载'虹（1915）、恋爱中的女人（1920）、查泰莱夫人的情人（1928）'（B125 作者页定位，详见 erzisonai 条核对）。","出版史（通说待核）：私印版本（1928佛罗伦萨）与1960年'企鹅审判'——英国出版自由史的标志案件。"],
+  "outline":["康妮与矿工出身的猎场看守梅勒斯——阶级与身体的重逢（通说待核）。","'废墟上的肉体温存'：对机械文明的抵抗（通说待核）。"],
+  "characters":[{"name":"康妮（查泰莱夫人）","identity":"贵族妻子","note":"（通说待核）"},{"name":"梅勒斯","identity":"猎场看守","note":"（通说待核）"},{"name":"克利福德爵士","identity":"丈夫","note":"瘫痪的矿主（通说待核）"}],
+  "themes":["身体与阶级（通说）。",
+   "工业文明对生命的残害（通说待核）。",
+   "'淫秽'审判与出版自由（通说待核）。"],
+  "influence":[{"text":"作者页：劳伦斯后期代表作（B125 作者页口径）。","source":"B125"},
+   {"text":"1960年企鹅版无罪判决——英国出版史里程碑（通说待核）。","source":"B125"}],
+  "reading":{"difficulties":["性描写的文学语境。","劳伦斯的语言节奏。"],
+   "editions":["《查泰莱夫人的情人》（人民文学出版社饶述一译本，通说待核）。","英文全本（剑桥版）。"],
+   "order":"先《儿子与情人》《虹》后本作。"},
+  "pending":["1928年佛罗伦萨私印（Orioli说）核对。","饶述一译本（1936年说）待核。","1960年企鹅审判（R v Penguin Books）细节待核。"],
+  "sources":["B125"],"year_source":"B125","author_source":"B125","related_works":["erzisonai","hongyuhei","baofali"],
+  "svg":G("《查泰莱夫人》三角结构图",[{"title":"克利福德","text":"瘫痪的工业","color":"antagonist"},{"title":"康妮","text":"苏醒的身体","color":"main"},{"title":"梅勒斯","text":"看守与语言","color":"gold"},{"title":"审判","text":"1960企鹅案（通说）","color":"plain"}])
+},
+"qungui": {
+  "id":"qungui","title":"群鬼","original_title":"Gengangere（Ghosts）","region":"挪威","era":"近代","era_detail":"19世纪",
+  "genre":"话剧","genre_group":"戏剧","language":"挪威语","author_id":"ibsen","author_name":"亨利克·易卜生",
+  "year_display":"1881年（作者页 B044/B019 口径：群鬼（1881））","year_sort":1881,
+  "background":["作者页（B044/B019）：易卜生 major_works 载'培尔·金特（1867）、群鬼（1881）、野鸭（1884）'（作者页定位，详见 wanou 条核对）。","题材（通说待核）：阿尔文太太为维持体面'建孤儿院'——梅毒与幽灵般的旧道德。"],
+  "outline":["欧士华回家——遗传的病与母亲的沉默（通说待核）。","'群鬼'：我们都被死人思想所'闹鬼'（台词意，通说待核）。"],
+  "characters":[{"name":"阿尔文太太","identity":"寡妇","note":"体面的牺牲者（通说待核）"},{"name":"欧士华","identity":"儿子","note":"病中的艺术家（通说待核）"},{"name":"曼德牧师","identity":"牧师","note":"虚伪的道德（通说待核）"}],
+  "themes":["旧道德的'群鬼'（通说）。",
+   "遗传与谎言（通说待核）。",
+   "社会问题剧的激进化（通说——比《玩偶之家》更受争议）。"],
+  "influence":[{"text":"作者页：易卜生代表作（B044/B019 作者页口径）。","source":"B044"},
+   {"text":"1881年出版后遭书店退回与教会围剿（通说待核）。","source":"B044"}],
+  "reading":{"difficulties":["挪威信义宗背景。","'群鬼'的隐喻层次。"],
+   "editions":["《易卜生文集》（人民文学出版社，通说待核）。","挪威文原版（公有领域）。"],
+   "order":"《玩偶之家》→《群鬼》→《野鸭》。"},
+  "pending":["1881年出版与首演延宕（1882年瑞典说）核对。","阿尔文/欧士华/曼德人名核对。","'群鬼'台词原文待核。"],
+  "sources":["B044","B019"],"year_source":"B044","author_source":"B044","related_works":["wanou","leiyu","richu"],
+  "svg":G("《群鬼》幽灵结构图",[{"title":"孤儿院","text":"体面的谎言","color":"antagonist"},{"title":"欧士华","text":"遗传的病","color":"main"},{"title":"曼德","text":"道德的鬼","color":"gold"},{"title":"阿尔文太太","text":"沉默的代价","color":"family"}])
+},
+"sichuanhaoren": {
+  "id":"sichuanhaoren","title":"四川好人","original_title":"Der gute Mensch von Sezuan（The Good Person of Szechwan）","region":"德国","era":"现当代","era_detail":"20世纪",
+  "genre":"寓意剧","genre_group":"戏剧","language":"德语","author_id":"brecht","author_name":"贝托尔特·布莱希特",
+  "year_display":"1940年（作者页 B138 口径：四川好人（1940））","year_sort":1940,
+  "background":["作者页（B138）：布莱希特 major_works 载'母亲（1932）、伽利略传（1939）、四川好人（1940）、高加索灰阑记（1945）'（B138 作者页定位，详见 sanfenqian 条核对）。","设定（通说待核）：三位神明寻找'好人'——沈德的烟店与'表哥'的恶面。"],
+  "outline":["沈德行善却难以生存——戴上'表哥'（假定的男性表亲）面具行恶以自保（通说待核）。","开放式结尾：请观众'自己找出好的结局'（通说待核）。"],
+  "characters":[{"name":"沈德/表哥","identity":"水烟贩","note":"一人两面（通说待核）"},{"name":"三位神明","identity":"下凡者","note":"（通说待核）"}],
+  "themes":["善与生存的两难（通说）。",
+   "'陌生化效果'（间离）的舞台实践（通说待核——Verfremdung）。",
+   "东方题材的寓意化（通说）。"],
+  "influence":[{"text":"作者页：布莱希特寓意剧（B138 作者页口径）。","source":"B138"},
+   {"text":"与《三分钱歌剧》《高加索灰阑记》并列（B138 作者页谱系）。","source":"B138"}],
+  "reading":{"difficulties":["'间离'理论的舞台语汇。","假面戏中戏。"],
+   "editions":["《四川好人》（人民文学出版社《布莱希特戏剧选》，通说待核）。","德文原版（Suhrkamp）。"],
+   "order":"对照《三分钱歌剧》《高加索灰阑记》。"},
+  "pending":["1940年流亡芬兰完稿说核对。","沈德/Shui Ta人名核对。","'间离'（Verfremdungseffekt）术语核对。"],
+  "sources":["B138"],"year_source":"B138","author_source":"B138","related_works":["sanfenqian","muqin","dengdaigou"],
+  "svg":G("《四川好人》假面结构图",[{"title":"神明下凡","text":"寻找好人","color":"family"},{"title":"沈德","text":"善良的困境","color":"main"},{"title":"'表哥'","text":"生存的假面","color":"antagonist"},{"title":"开放结尾","text":"请观众定夺（通说）","color":"gold"}])
+},
+"yizhuangshixianzhangyang": {
+  "id":"yizhuangshixianzhangyang","title":"一桩事先张扬的凶杀案","original_title":"Crónica de una muerte anunciada（Chronicle of a Death Foretold）","region":"哥伦比亚","era":"现当代","era_detail":"20世纪",
+  "genre":"中篇小说","genre_group":"小说","language":"西班牙语","author_id":"garcia-marquez","author_name":"加夫列尔·加西亚·马尔克斯",
+  "year_display":"1981年（作者页 B053/B025 口径：一桩事先张扬的凶杀案（1981））","year_sort":1981,
+  "background":["作者页（B053/B025）：马尔克斯 major_works 载'一桩事先张扬的凶杀案（1981）'（作者页定位，详见 bainian 条核对）。","题材（通说待核）：全镇'事先知道'却无人阻止的凶杀——记者化的回溯调查。"],
+  "outline":["圣地亚哥·纳赛尔被维卡里奥兄弟'事先张扬'地杀死——为何无人阻止（通说待核）。","安赫拉的被休与'贞洁'之谜（通说待核）。"],
+  "characters":[{"name":"圣地亚哥·纳赛尔","identity":"受害者","note":"（通说待核）"},{"name":"安赫拉·维卡里奥","identity":"新娘","note":"被休（通说待核）"}],
+  "themes":["集体沉默的共谋（通说）。",
+   "'事先张扬'的命运结构（通说）。",
+   "新闻报道与小说的嫁接（通说待核）。"],
+  "influence":[{"text":"作者页：马尔克斯代表作谱系（B053/B025 作者页口径）。","source":"B053"},
+   {"text":"与《百年孤独》《霍乱时期的爱情》并列（作者页谱系）。","source":"B053"}],
+  "reading":{"difficulties":["回溯调查的多声部。","真相的悬置（'贞洁'存疑）。"],
+   "editions":["《一桩事先张扬的凶杀案》（南海出版公司，通说待核）。","西班牙文原版。"],
+   "order":"先《百年孤独》《霍乱时期的爱情》后本作。"},
+  "pending":["1981年出版（Editorial Bruguera说）核对。","纳赛尔/安赫拉人名核对。","作者兄弟回忆与本作关系待核。"],
+  "sources":["B053","B025"],"year_source":"B053","author_source":"B053","related_works":["bainian","huoluan","shiyin"] ,
+  "svg":G("《凶杀案》共谋结构图",[{"title":"事先张扬","text":"全镇都知道","color":"main"},{"title":"无人阻止","text":"集体的共谋","color":"antagonist"},{"title":"贞洁之谜","text":"真相的悬置","color":"gold"},{"title":"回溯","text":"记者式的调查","color":"family"}])
+},
+"xue": {
+  "id":"xue","title":"雪","original_title":"Kar（Snow）","region":"土耳其","era":"现当代","era_detail":"21世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"土耳其语","author_id":"pamuk","author_name":"奥尔罕·帕慕克",
+  "year_display":"2002年（作者页 B105 口径：雪（2002））","year_sort":2002,
+  "background":["作者页（B105）：帕慕克 major_works 载'白色城堡（1985）、雪（2002）、纯真博物馆（2008）'（B105 作者页定位，详见 wodemingshan 条核对）。","题材（通说待核）：诗人'卡'（Ka）在卡尔斯市的雪中被困——政变、头巾与诗歌。"],
+  "outline":["卡在边境小城卡尔斯的调查：剧院枪声、头巾女孩自焚（通说待核）。","雪的意象：'有神论者、左翼、凯末尔主义者'（通说待核）。"],
+  "characters":[{"name":"卡（Ka）","identity":"诗人","note":"调查者（通说待核）"},{"name":"伊佩克","identity":"美丽的女子","note":"（通说待核）"}],
+  "themes":["宗教与世俗的土耳其（通说）。",
+   "'雪'与孤绝（通说）。",
+   "诗与政治（通说待核）。"],
+  "influence":[{"text":"作者页：帕慕克代表作谱系（B105 作者页口径）。","source":"B105"},
+   {"text":"帕慕克2006年诺贝尔文学奖（作者级——通说待核，作者页核对）。","source":"B105"}],
+  "reading":{"difficulties":["土耳其政治（凯末尔主义/伊斯兰）。","'卡'的自反写作。"],
+   "editions":["《雪》（上海人民出版社，通说待核）。","土耳其文原版（İletişim）。"],
+   "order":"先《我的名字叫红》后本作。"},
+  "pending":["2002年出版（İletişim说）核对。","卡/伊佩克人名核对。","卡尔斯城市原型待核。"],
+  "sources":["B105"],"year_source":"B105","author_source":"B105","related_works":["wodemingshan","xueguo","shinv"],
+  "svg":G("《雪》政治结构图",[{"title":"卡尔斯","text":"边境小城","color":"family"},{"title":"雪","text":"孤绝的覆盖","color":"main"},{"title":"剧院枪声","text":"政变之夜","color":"antagonist"},{"title":"头巾","text":"信仰与世俗","color":"gold"}])
+},
+"wanxiao": {
+  "id":"wanxiao","title":"玩笑","original_title":"Žert（The Joke）","region":"捷克","era":"现当代","era_detail":"20世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"捷克语","author_id":"kundera","author_name":"米兰·昆德拉",
+  "year_display":"1967年（作者页 B104 口径：玩笑（1967））","year_sort":1967,
+  "background":["作者页（B104）：昆德拉 major_works 载'玩笑（1967）'（B104 作者页定位，详见 qingzhong 条核对）。","题材（通说待核）：一个明信片玩笑毁掉卢德维克的一生——斯大林时代的布拉格。"],
+  "outline":["卢德维克的玩笑明信片与'赎罪'的复仇计划（通说待核）。","四声部叙述：玩笑的代价层层反转（通说待核）。"],
+  "characters":[{"name":"卢德维克","identity":"大学生","note":"被玩笑毁掉（通说待核）"},{"name":"海伦娜","identity":"广播员","note":"复仇的对象（通说待核）"}],
+  "themes":["极权语言与个人命运（通说）。",
+   "'玩笑'的不可逆（通说）。",
+   "复调叙事（通说待核）。"],
+  "influence":[{"text":"作者页：昆德拉成名作（B104 作者页口径）。","source":"B104"},
+   {"text":"1968年后在捷克斯洛伐克被禁（通说待核）。","source":"B104"}],
+  "reading":{"difficulties":["捷克政治史。","四声部的切换。"],
+   "editions":["《玩笑》（上海译文出版社，通说待核）。","捷克文原版。"],
+   "order":"先《玩笑》后《不能承受的生命之轻》。"},
+  "pending":["1967年出版（Československý spisovatel说）核对。","卢德维克/海伦娜人名核对。","被禁与1968年出版波折待核。"],
+  "sources":["B104"],"year_source":"B104","author_source":"B104","related_works":["qingzhong","yijiubasi","exin"],
+  "svg":G("《玩笑》代价结构图",[{"title":"明信片","text":"一句玩笑","color":"family"},{"title":"劳改","text":"人生的改写","color":"antagonist"},{"title":"复仇","text":"落空的算计","color":"main"},{"title":"四声部","text":"各自的真相","color":"gold"}])
+}
+}
+
+for wid, d in works.items():
+    p = pathlib.Path(f"data/works/{wid}.json")
+    p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+    print("created work", wid)
+print(len(works), "works created")

@@ -1,0 +1,104 @@
+{
+  "id": "xue",
+  "title": "雪",
+  "original_title": "Kar（Snow）",
+  "region": "土耳其",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "土耳其语",
+  "author_id": "pamuk",
+  "author_name": "奥尔罕·帕慕克",
+  "year_display": "2002年（作者页 B105 口径：雪（2002））",
+  "year_sort": 2002,
+  "background": [
+    "作者页（B105）：帕慕克 major_works 载'白色城堡（1985）、雪（2002）、纯真博物馆（2008）'（B105 作者页定位，详见 wodemingshan 条核对）。",
+    "题材（通说待核）：诗人'卡'（Ka）在卡尔斯市的雪中被困——政变、头巾与诗歌。"
+  ],
+  "outline": [
+    "卡在边境小城卡尔斯的调查：剧院枪声、头巾女孩自焚（通说待核）。",
+    "雪的意象：'有神论者、左翼、凯末尔主义者'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "卡（Ka）",
+      "identity": "诗人",
+      "note": "调查者（通说待核）"
+    },
+    {
+      "name": "伊佩克",
+      "identity": "美丽的女子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "宗教与世俗的土耳其（通说）。",
+    "'雪'与孤绝（通说）。",
+    "诗与政治（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：帕慕克代表作谱系（B105 作者页口径）。",
+      "source": "B105"
+    },
+    {
+      "text": "帕慕克2006年诺贝尔文学奖（作者级——通说待核，作者页核对）。",
+      "source": "B105"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "土耳其政治（凯末尔主义/伊斯兰）。",
+      "'卡'的自反写作。"
+    ],
+    "editions": [
+      "《雪》（上海人民出版社，通说待核）。",
+      "土耳其文原版（İletişim）。"
+    ],
+    "order": "先《我的名字叫红》后本作。"
+  },
+  "pending": [
+    "2002年出版（İletişim说）核对。",
+    "卡/伊佩克人名核对。",
+    "卡尔斯城市原型待核。"
+  ],
+  "sources": [
+    "B105"
+  ],
+  "year_source": "B105",
+  "author_source": "B105",
+  "related_works": [
+    "wodemingshan",
+    "xueguo",
+    "shinv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《雪》政治结构图",
+    "cards": [
+      {
+        "title": "卡尔斯",
+        "text": "边境小城",
+        "color": "family"
+      },
+      {
+        "title": "雪",
+        "text": "孤绝的覆盖",
+        "color": "main"
+      },
+      {
+        "title": "剧院枪声",
+        "text": "政变之夜",
+        "color": "antagonist"
+      },
+      {
+        "title": "头巾",
+        "text": "信仰与世俗",
+        "color": "gold"
+      }
+    ]
+  }
+}
