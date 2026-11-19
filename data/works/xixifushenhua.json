@@ -1,0 +1,104 @@
+{
+  "id": "xixifushenhua",
+  "title": "西西弗神话",
+  "original_title": "Le Mythe de Sisyphe（The Myth of Sisyphus）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "哲学随笔",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "camus",
+  "author_name": "阿尔贝·加缪",
+  "year_display": "1942年出版（作者页 B092 口径：西西弗神话（1942））",
+  "year_sort": 1942,
+  "background": [
+    "作者页（B092）：加缪 major_works 载'西西弗神话（1942）、反抗者（1951）、堕落（1956）'（B092 作者页定位，详见 juwairen/shuyi 条核对）。",
+    "主题（通说）：荒诞——人的意义渴求与世界的无理性沉默之间的冲突；'真正严肃的哲学问题只有一个：自杀'（开篇名句通说待核）。"
+  ],
+  "outline": [
+    "荒诞与自杀→荒诞人→荒诞创作→西西弗的神话（章序通说待核）。",
+    "结尾：'应当想象西西弗是幸福的'（名句通说待核——Il faut imaginer Sisyphe heureux）。"
+  ],
+  "characters": [
+    {
+      "name": "西西弗",
+      "identity": "神话人物",
+      "note": "推石上山者"
+    },
+    {
+      "name": "加缪",
+      "identity": "论者",
+      "note": "荒诞的哲学"
+    }
+  ],
+  "themes": [
+    "荒诞：'自杀'作为哲学起点（名句待核）。",
+    "反抗：不寄望彼岸的坚持（通说）。",
+    "幸福与蔑视：'想象西西弗是幸福的'（名句待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：加缪哲学随笔谱系（B092 作者页口径）。",
+      "source": "B092"
+    },
+    {
+      "text": "存在主义与'荒诞哲学'的命名（通说待核——加缪本人拒绝该标签）。",
+      "source": "B092"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哲学论证的密度。",
+      "与《局外人》《鼠疫》的三部互文（通说待核——'荒诞三部曲'说）。"
+    ],
+    "editions": [
+      "《西西弗神话》（上海译文出版社杜小真译本，通说待核）。",
+      "法文原版（Gallimard，公有领域渐近）。"
+    ],
+    "order": "先《局外人》后本作 →《反抗者》。"
+  },
+  "pending": [
+    "开篇名句原文核对。",
+    "'荒诞三部曲'说待核。",
+    "杜小真译本信息核对。"
+  ],
+  "sources": [
+    "B092"
+  ],
+  "year_source": "B092",
+  "author_source": "B092",
+  "related_works": [
+    "exin",
+    "juwairen",
+    "shenpan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《西西弗神话》荒诞结构图",
+    "cards": [
+      {
+        "title": "荒诞",
+        "text": "渴求与沉默的冲突",
+        "color": "main"
+      },
+      {
+        "title": "自杀之问",
+        "text": "哲学的起点（名句待核）",
+        "color": "antagonist"
+      },
+      {
+        "title": "推石",
+        "text": "无休止的劳役",
+        "color": "gold"
+      },
+      {
+        "title": "幸福",
+        "text": "想象西西弗幸福（名句待核）",
+        "color": "family"
+      }
+    ]
+  }
+}

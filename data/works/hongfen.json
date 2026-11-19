@@ -1,0 +1,108 @@
+{
+  "id": "hongfen",
+  "title": "红粉",
+  "original_title": "红粉（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "sutong",
+  "author_name": "苏童",
+  "year_display": "发表年份待核（中国作家网 C015：'其代表作包括《妻妾成群》《红粉》等中篇'）",
+  "year_sort": 1989,
+  "background": [
+    "中国作家网（C015）：'其代表作包括《妻妾成群》《红粉》等中篇，《米》《我的帝王生涯》《河岸》等长篇'——本作为苏童代表作。",
+    "题材（通说待核）：解放初期苏州妓女改造——秋仪与老邢的畸恋。"
+  ],
+  "outline": [
+    "妓女改造运动：喜红院解散，秋仪跳窗逃走、小萼进教养院（通说待核）。",
+    "老邢在新旧之间两个女人的拉扯（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "秋仪",
+      "identity": "妓女",
+      "note": "刚烈的逃逸者（通说待核）"
+    },
+    {
+      "name": "小萼",
+      "identity": "妓女",
+      "note": "柔弱的依附者（通说待核）"
+    },
+    {
+      "name": "老邢",
+      "identity": "玩主",
+      "note": "旧时代的遗少（通说待核）"
+    }
+  ],
+  "themes": [
+    "改造运动中的个体命运（通说）。",
+    "'红粉'世界的残存（通说）。",
+    "颓靡的南方笔调（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：列为苏童代表作（C015）。",
+      "source": "C015"
+    },
+    {
+      "text": "1994年李少红电影改编（通说待核）。",
+      "source": "C015"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1950年代改造运动的历史语境。",
+      "苏童式的颓靡语言。"
+    ],
+    "editions": [
+      "《红粉》（上海文艺出版社等版本，通说待核）。"
+    ],
+    "order": "先《妻妾成群》再本作。"
+  },
+  "pending": [
+    "首刊年份与刊物核对。",
+    "秋仪/小萼/老邢人名核对。",
+    "1994年电影（李少红说）核对。"
+  ],
+  "sources": [
+    "C015"
+  ],
+  "year_source": "C015",
+  "author_source": "C015",
+  "related_works": [
+    "qiqiechengqun",
+    "jinsuoji",
+    "tixiaoyinyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《红粉》新旧之间结构图",
+    "cards": [
+      {
+        "title": "改造",
+        "text": "教养院",
+        "color": "family"
+      },
+      {
+        "title": "秋仪",
+        "text": "跳窗的刚烈",
+        "color": "main"
+      },
+      {
+        "title": "小萼",
+        "text": "依附的柔弱",
+        "color": "gold"
+      },
+      {
+        "title": "老邢",
+        "text": "旧时代遗少",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

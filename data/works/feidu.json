@@ -1,0 +1,109 @@
+{
+  "id": "feidu",
+  "title": "废都",
+  "original_title": "废都（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "jiapingwa",
+  "author_name": "贾平凹",
+  "year_display": "1993年出版（英文维基 B217：Ruined City，1993；北京出版社说待核）；1994年遭禁、2009年解禁（B217）",
+  "year_sort": 1993,
+  "background": [
+    "英文维基（B217）：'frank depictions of various sexual acts……earned the book both a wide audience and a 17-year ban from the authorities, causing it to become one of the most pirated books in modern Chinese literature'（直白性描写使其读者广泛却被禁17年、成为现代中国被盗版最多的书之一）；'By 2009……the book was unbanned'（2009年解禁）。",
+    "文学史（B217）：与《金瓶梅》比较的世情书写；'empty blocks'（空格）的删改符号——出版史奇观。"
+  ],
+  "outline": [
+    "西京文人庄之蝶与四段情事：唐宛儿、柳月、阿灿等（通说待核）。",
+    "'废'都意象：西京的没落与文人的颓唐（通说）。",
+    "结尾：庄之蝶车站中风——'废都'之废（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "庄之蝶",
+      "identity": "文人",
+      "note": "四大闲人之首（通说待核）"
+    },
+    {
+      "name": "唐宛儿",
+      "identity": "少妇",
+      "note": "欲望与出走（通说待核）"
+    },
+    {
+      "name": "牛月清",
+      "identity": "妻子",
+      "note": "传统的妻子（通说待核）"
+    }
+  ],
+  "themes": [
+    "文人的精神溃败（通说）。",
+    "性描写与出版审查：空格的历史（B217）。",
+    "西京（西安）的古都颓败（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：1993年出版后被禁17年、2009年解禁；'one of the most pirated books in modern Chinese literature'（B217）。",
+      "source": "B217"
+    },
+    {
+      "text": "英文维基：1997年法国费米娜外国小说奖（La Capitale déchue）（B217 奖项列表）。",
+      "source": "B217"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "空格的阅读伦理。",
+      "1990年代人文精神讨论背景。"
+    ],
+    "editions": [
+      "《废都》（北京出版社1993初版说——待核；2009年再版）。"
+    ],
+    "order": "对照《秦腔》：贾平凹的两个十年。"
+  },
+  "pending": [
+    "初版出版社（北京出版社说）核对。",
+    "'□□□□'空格的字符数与说明待核。",
+    "1997年费米娜奖（B217 已载）核对。"
+  ],
+  "sources": [
+    "B217"
+  ],
+  "year_source": "B217",
+  "author_source": "B217",
+  "related_works": [
+    "qinqiang",
+    "weicheng",
+    "rulin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《废都》颓废结构图",
+    "cards": [
+      {
+        "title": "庄之蝶",
+        "text": "文人的溃败",
+        "color": "main"
+      },
+      {
+        "title": "唐宛儿",
+        "text": "欲望的出走",
+        "color": "family"
+      },
+      {
+        "title": "空格",
+        "text": "审查的符号（B217）",
+        "color": "antagonist"
+      },
+      {
+        "title": "西京",
+        "text": "废都的钟声",
+        "color": "gold"
+      }
+    ]
+  }
+}

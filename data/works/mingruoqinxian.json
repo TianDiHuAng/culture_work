@@ -1,0 +1,103 @@
+{
+  "id": "mingruoqinxian",
+  "title": "命若琴弦",
+  "original_title": "命若琴弦（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "shitiesheng",
+  "author_name": "史铁生",
+  "year_display": "1985年发表（英文维基 B218：Like a Banjo String (命若琴弦, 1985)）",
+  "year_sort": 1985,
+  "background": [
+    "英文维基（B218）：'Like a Banjo String (命若琴弦, 1985), a novella adapted into the 1991 film Life on a String directed by Chen Kaige'（1991年陈凯歌改编电影《边走边唱》）。",
+    "主题：老瞎子与小瞎子——'弹断一千根琴丝'作为药引的谎言与希望（通说）。"
+  ],
+  "outline": [
+    "老瞎子弹断第一千根琴丝发现药方是白纸——把谎言传给小瞎子（通说待核）。",
+    "'人的命就像这琴弦，要拉紧了才能弹好'（名句通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "老瞎子",
+      "identity": "说书人",
+      "note": "希望的守护者（通说）"
+    },
+    {
+      "name": "小瞎子",
+      "identity": "徒弟",
+      "note": "下一轮循环（通说待核）"
+    }
+  ],
+  "themes": [
+    "希望作为生存的琴弦（通说）。",
+    "谎言的伦理：知道与不知道（通说）。",
+    "残障与目的论（通说——史铁生式）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：1991年陈凯歌电影 Life on a String（B218）。",
+      "source": "B218"
+    },
+    {
+      "text": "作者页：史铁生以残障经验写存在之思（B218 作者级定位）。",
+      "source": "B218"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓言式的纯净文本。",
+      "'弹断一千根'的循环结构。"
+    ],
+    "editions": [
+      "《命若琴弦》（收于史铁生作品集，通说待核）。"
+    ],
+    "order": "先《我与地坛》后本作；再看电影《边走边唱》。"
+  },
+  "pending": [
+    "首刊刊物（《现代人》1985年说）待核。",
+    "名句原文核对。",
+    "电影《边走边唱》1991年（陈凯歌——B218 已载）核对。"
+  ],
+  "sources": [
+    "B218"
+  ],
+  "year_source": "B218",
+  "author_source": "B218",
+  "related_works": [
+    "woyuditan",
+    "biancheng",
+    "xidamuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《命若琴弦》循环结构图",
+    "cards": [
+      {
+        "title": "一千根",
+        "text": "弹断的期限",
+        "color": "family"
+      },
+      {
+        "title": "白纸",
+        "text": "谎言的真相",
+        "color": "antagonist"
+      },
+      {
+        "title": "琴弦",
+        "text": "拉紧才能弹好",
+        "color": "main"
+      },
+      {
+        "title": "传递",
+        "text": "下一代的小瞎子",
+        "color": "gold"
+      }
+    ]
+  }
+}
