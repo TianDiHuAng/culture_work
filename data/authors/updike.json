@@ -1,0 +1,63 @@
+{
+  "id": "updike",
+  "name": "约翰·厄普代克",
+  "foreign_name": "John Updike（约翰·厄普代克，1932-03-18—2009-01-27）",
+  "country": "美国",
+  "birth": 1932,
+  "death": 2009,
+  "birth_year": 1932,
+  "death_year": 2009,
+  "era": "现当代",
+  "summary": "厄普代克，宾夕法尼亚州雷丁人，多产的美国小说家、短篇家与诗人（Britannica），以细腻的白描刻画美国小镇中产新教徒生活（Britannica 语境：careful prose……small-town, middle-class Protestant American life）。'兔子五书'（1960—2001）中《兔子富了》（1982）与《兔子安息》（1990）两获普利策奖（Britannica：both earned him Pulitzer Prizes）。《兔子，跑吧》（1960）——'concerns a former star athlete who is unable to recapture success when bound by marriage and small-town life'（写一个被婚姻与小城生活束缚的前球星无法重获成功——Britannica）。",
+  "timeline": [
+    {
+      "year": 1932,
+      "text": "3月18日生于宾州雷丁（Britannica：Born March 18, 1932, Reading, Pennsylvania）。",
+      "src": "B256"
+    },
+    {
+      "year": 1960,
+      "text": "《兔子，跑吧》出版（Britannica：Rabbit, Run (1960)）。",
+      "src": "B256"
+    },
+    {
+      "year": 1982,
+      "text": "《兔子富了》获普利策奖（Britannica）。",
+      "src": "B256"
+    },
+    {
+      "year": 2009,
+      "text": "1月27日卒于马萨诸塞州丹弗斯（Britannica：Died January 27, 2009, Danvers, Massachusetts）。",
+      "src": "B256"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tuzipaopa",
+      "note": "长篇（Britannica：1960）"
+    },
+    {
+      "title": "兔子回家/兔子富了/兔子安息",
+      "note": "（Britannica：兔子五书）"
+    },
+    {
+      "title": "《_MAPPING》？——不：巴西、圣彼得堡的伊丽莎白",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'careful prose'：细腻写实的白描（Britannica 语境）。",
+    "中产美国身体的编年史：性与信仰的挣扎（通说）。",
+    "兔子哈利·安斯特朗：美国三十年的一面镜子（通说待核）。"
+  ],
+  "status": "Britannica 定位厄普代克为多产小说家、两获普利策奖（B256）；'Rabbit Remembered (2001) returns to characters from those books in the wake of Rabbit's death'（Britannica）。",
+  "sources": [
+    "B256"
+  ],
+  "dates_source": "B256",
+  "pending": [
+    "《兔子，跑吧》中译本信息核对。",
+    "厄普代克的国家图书奖与笔会福克纳奖待核。",
+    "'Protestant小城'背景自传性待核。"
+  ]
+}

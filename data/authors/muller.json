@@ -1,0 +1,63 @@
+{
+  "id": "muller",
+  "name": "赫塔·米勒",
+  "foreign_name": "Herta Müller（赫塔·米勒，1953-08-17— ）",
+  "country": "德国",
+  "birth": 1953,
+  "death": null,
+  "birth_year": 1953,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "米勒，罗马尼亚出生的德语作家（Britannica：Romanian-born German writer），以描写齐奥塞斯库独裁下的生活获2009年诺贝尔文学奖（Britannica）。1979年因拒绝与秘密警察合作被解雇（Britannica：Fired from translator job 1979），1987年移居西德（Britannica：Emigrated 1987）。小说《风中绿李》（Herztier，1994）获国际IMPAC都柏林文学奖（Britannica）；诺奖授奖词：以'诗歌的凝练与散文的率真'描绘'the landscape of the dispossessed'（被剥夺者的风景——Britannica）。",
+  "timeline": [
+    {
+      "year": 1953,
+      "text": "8月17日生于罗马尼亚尼奇基多夫（Britannica：Born August 17, 1953, Nițchidorf, Romania）。",
+      "src": "B252"
+    },
+    {
+      "year": 1979,
+      "text": "被解雇（Britannica：Fired from translator job 1979）。",
+      "src": "B252"
+    },
+    {
+      "year": 1987,
+      "text": "移居西德（Britannica：Emigrated 1987）。",
+      "src": "B252"
+    },
+    {
+      "year": 2009,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 2009）。",
+      "src": "B252"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fengzhonglvli",
+      "note": "长篇（Britannica：Herztier 1994）"
+    },
+    {
+      "title": "饥饿天使、低地",
+      "note": "（Britannica 语境）"
+    },
+    {
+      "title": "诗与散文合集",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'totalitarianism and exile'（极权与流放）贯穿其作（Britannica）。",
+    "'诗歌的凝练与散文的率真'（Britannica 授奖词）。",
+    "罗尼亚德语少数族裔的记忆书写（通说待核）。"
+  ],
+  "status": "Britannica 定位米勒为以齐奥塞斯库独裁生活书写获2009年诺奖的德语作家；'The Land of Green Plums'为其代表作（B252）。",
+  "sources": [
+    "B252"
+  ],
+  "dates_source": "B252",
+  "pending": [
+    "中译本（《风中绿李》译林说）信息核对。",
+    "Herztier 德文原义（心脏兽）与英文转译差异待核。",
+    "秘密警察档案事件细节待核。"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "huangyezhentan",
+  "title": "荒野侦探",
+  "original_title": "Los detectives salvajes（The Savage Detectives）",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "20世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "bolano",
+  "author_name": "罗贝托·波拉尼奥",
+  "year_display": "1998年出版（Britannica：Los detectives salvajes (1998; The Savage Detectives)）",
+  "year_sort": 1998,
+  "background": [
+    "Britannica：'Bolaño's breakthrough work was Los detectives salvajes (1998)……The novel made Bolaño a literary star throughout Latin America'（突破之作、使其成为拉美文学明星）并获罗慕洛·加列戈斯奖（B251）。",
+    "作者：21世纪初南美文学领军人物之一（Britannica：one of the leading South American literary figures at the turn of the 21st century）。"
+  ],
+  "outline": [
+    "三段结构：墨西哥城的'现实以下主义'诗人闯荡——寻找女诗人塞萨雷亚· Tinajero 的足迹——跨越二十年的口述接力（通说待核）。",
+    "中间部：以数十位口述者讲述两位'侦探'的漂泊（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "胡安与乌利塞斯",
+      "identity": "文学侦探",
+      "note": "虚构诗人（通说待核）"
+    },
+    {
+      "name": "塞萨雷亚·蒂纳赫罗",
+      "identity": "消失的女诗人",
+      "note": "寻访对象（通说待核）"
+    }
+  ],
+  "themes": [
+    "文学浪游与暴力年代（通说）。",
+    "口述接力：'侦探'的真相永不可得（通说）。",
+    "一代诗人的挽歌（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：获罗慕洛·加列戈斯奖、使其成为拉美文学明星（B251）。",
+      "source": "B251"
+    },
+    {
+      "text": "《2666》身后出版奠定世界声誉（Britannica：magnum opus, 2666 (2004)）。",
+      "source": "B251"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "口述者众多——先列名单。",
+      "拉美诗歌史影射。"
+    ],
+    "editions": [
+      "《荒野侦探》（上海人民出版社，通说待核）。"
+    ],
+    "order": "先本作后《2666》；对照《百年孤独》的口述史。"
+  },
+  "pending": [
+    "中译本信息核对。",
+    "现实以下主义（infrarrealismo）细节待核。",
+    "圣特雷莎与《2666》的关系待核。"
+  ],
+  "sources": [
+    "B251"
+  ],
+  "year_source": "B251",
+  "author_source": "B251",
+  "related_works": [
+    "bainian",
+    "chengshiyugou",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《荒野侦探》口述接力图",
+    "cards": [
+      {
+        "title": "1975墨西哥",
+        "text": "诗人闯荡",
+        "color": "family"
+      },
+      {
+        "title": "寻访",
+        "text": "消失的女诗人",
+        "color": "main"
+      },
+      {
+        "title": "口述接力",
+        "text": "数十个声音",
+        "color": "gold"
+      },
+      {
+        "title": "荒野",
+        "text": "文学的尽头",
+        "color": "plain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "carver",
+  "name": "雷蒙德·卡佛",
+  "foreign_name": "Raymond Carver（雷蒙德·卡佛，1938-05-25—1988-08-02）",
+  "country": "美国",
+  "birth": 1938,
+  "death": 1988,
+  "birth_year": 1938,
+  "death_year": 1988,
+  "era": "现当代",
+  "summary": "卡佛，俄勒冈州人，美国短篇小说家与诗人——其极简主义白描现实地刻画底层劳动者的挣扎（Britannica 语境：minimalist prose realistically depicted the struggles of the working poor），取材于自身生活；被视为使英语短篇小说在20世纪晚期重获生机的人之一（Britannica：helping revitalize the English-language short story）。'stripped-down, minimalist prose style is remarkable for its honesty and power'（削减到极简的文体以诚实与力量著称——Britannica）；风格受海明威与贝克特影响——'spare and flat but powerfully suggestive'（简省、平淡却有力地暗示——Britannica）。50岁去世（Britannica）。",
+  "timeline": [
+    {
+      "year": 1938,
+      "text": "5月25日生于俄勒冈州克拉茨卡尼（Britannica：Born May 25, 1938, Clatskanie, Oregon）。",
+      "src": "B255"
+    },
+    {
+      "year": 1981,
+      "text": "《当我们谈论爱情时我们在谈论什么》出版（Britannica）。",
+      "src": "B255"
+    },
+    {
+      "year": 1984,
+      "text": "《大教堂》出版（Britannica：Cathedral (1984)）。",
+      "src": "B255"
+    },
+    {
+      "year": 1988,
+      "text": "8月2日卒于华盛顿州安吉利斯港（Britannica：Died August 2, 1988）。",
+      "src": "B255"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "kafuxuan",
+      "note": "短篇集（Britannica：1981）"
+    },
+    {
+      "title": "大教堂",
+      "note": "（Britannica：1984）"
+    },
+    {
+      "title": "愤怒的冬季、需要时给我电话",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "极简主义：'stripped-down, minimalist prose style'（Britannica）。",
+    "受海明威与贝克特影响——'spare and flat but powerfully suggestive'（Britannica）。",
+    "底层劳动者生活（Britannica：the working poor）。"
+  ],
+  "status": "Britannica 定位卡佛为20世纪晚期英语短篇小说复兴的关键人物（B255）；'脏现实主义'（dirty realism）标签（通说待核）。",
+  "sources": [
+    "B255"
+  ],
+  "dates_source": "B255",
+  "pending": [
+    "戈登·利什编辑争议（原文与刊出本差异）待核。",
+    "《大教堂》1983/1984年（Britannica 正文作1984）核对。",
+    "中译本信息核对。"
+  ]
+}

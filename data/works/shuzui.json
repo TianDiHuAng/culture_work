@@ -1,0 +1,109 @@
+{
+  "id": "shuzui",
+  "title": "赎罪",
+  "original_title": "Atonement",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mcewan",
+  "author_name": "伊恩·麦克尤恩",
+  "year_display": "2001年出版（Britannica：Atonement (film 2007)——2001年出版说待核）",
+  "year_sort": 2001,
+  "background": [
+    "Britannica：'Atonement (film 2007) traces over six decades the consequences of a lie told in the 1930s'（《赎罪》追踪1930年代一句谎言在六十年间的后果）。",
+    "作者文体（B250）：'restrained, refined prose style accentuates the horror of his dark humor and perverse subject matter'。"
+  ],
+  "outline": [
+    "1935年庄园：布里奥妮的误证拆散塞西莉亚与罗比（通说待核）。",
+    "敦刻尔克与战地医院——谎言的代价（通说待核）。",
+    "尾声：老年布里奥妮的'赎罪'书写——虚构与真相（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "布里奥妮",
+      "identity": "少女/作家",
+      "note": "谎言之源（通说）"
+    },
+    {
+      "name": "塞西莉亚",
+      "identity": "姐姐",
+      "note": "爱情受害者"
+    },
+    {
+      "name": "罗比",
+      "identity": "仆人之子",
+      "note": "蒙冤者"
+    }
+  ],
+  "themes": [
+    "谎言的六十年后果（Britannica）。",
+    "小说家的赎罪权：'虚构'能否赦免（通说待核）。",
+    "敦刻尔克与庄园的两极（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：《赎罪》列为麦克尤恩最知名小说之一；2007年改编电影（B250）。",
+      "source": "B250"
+    },
+    {
+      "text": "当代英语小说的'元虚构'代表作（通说待核）。",
+      "source": "B250"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部结构与'尾声'的元虚构翻转。",
+      "敦刻尔克撤退历史背景。"
+    ],
+    "editions": [
+      "《赎罪》（上海译文出版社，通说待核）。"
+    ],
+    "order": "对照《长日留痕》：英伦记忆的两代书写。"
+  },
+  "pending": [
+    "2001年出版（Jonathan Cape说）核对。",
+    "布里奥妮三部结尾版本差异核对。",
+    "电影乔·怀特导演（2007）细节待核。"
+  ],
+  "sources": [
+    "B250"
+  ],
+  "year_source": "B250",
+  "author_source": "B250",
+  "related_works": [
+    "changri",
+    "qingzhong",
+    "shenpan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《赎罪》谎言—六十年结构图",
+    "cards": [
+      {
+        "title": "1935",
+        "text": "一句谎言",
+        "color": "antagonist"
+      },
+      {
+        "title": "1940",
+        "text": "敦刻尔克",
+        "color": "family"
+      },
+      {
+        "title": "1999",
+        "text": "作家的忏悔",
+        "color": "main"
+      },
+      {
+        "title": "赎罪",
+        "text": "虚构与真相",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "tuzipaopa",
+  "title": "兔子，跑吧",
+  "original_title": "Rabbit, Run",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "updike",
+  "author_name": "约翰·厄普代克",
+  "year_display": "1960年出版（Britannica：Rabbit, Run (1960)）",
+  "year_sort": 1960,
+  "background": [
+    "Britannica：'concerns a former star athlete who is unable to recapture success when bound by marriage and small-town life'（写被婚姻与小城生活束缚的前球星无法重获成功——B256）。",
+    "兔子五书（B256）：Rabbit, Run (1960)/Rabbit Redux (1971)/Rabbit Is Rich (1981)/Rabbit at Rest (1990)/Rabbit Remembered (2001)；后两部获普利策奖。"
+  ],
+  "outline": [
+    "'兔子'哈利·安斯特朗抛下怀孕妻子出逃——教练、妓女与牧师间辗转（通说）。",
+    "结局：产房外的逃离（通说待核）。",
+    "四十年后的《兔子记得》（2001）回望其死后世界（Britannica：Rabbit Remembered (2001)）。"
+  ],
+  "characters": [
+    {
+      "name": "哈利（兔子）",
+      "identity": "前球星",
+      "note": "出逃者（B256）"
+    },
+    {
+      "name": "詹妮丝",
+      "identity": "妻子",
+      "note": "怀孕（通说待核）"
+    },
+    {
+      "name": "鲁丝",
+      "identity": "妓女",
+      "note": "同居者（通说待核）"
+    }
+  ],
+  "themes": [
+    "逃逸的冲动与婚姻的束缚（B256）。",
+    "美国中产新教生活的身体史（通说）。",
+    "五十年代到世纪末的时间编年（B256：兔子五书）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：两获普利策奖（1982/1990）（B256）。",
+      "source": "B256"
+    },
+    {
+      "text": "'considered to be one of his best novels'（B256——本作）。",
+      "source": "B256"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "现在时叙述（通说）。",
+      "美国50年代礼俗。"
+    ],
+    "editions": [
+      "《兔子，跑吧》（上海译文出版社，通说待核）。"
+    ],
+    "order": "按五书顺序通读（可选只读首尾）。"
+  },
+  "pending": [
+    "中译本信息核对。",
+    "现时态叙事的评论待核。",
+    "兔子五书美国史对应（艾森豪威尔—布什）待核。"
+  ],
+  "sources": [
+    "B256"
+  ],
+  "year_source": "B256",
+  "author_source": "B256",
+  "related_works": [
+    "gaicibi",
+    "fenwangyu",
+    "zise"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《兔子，跑吧》出逃结构图",
+    "cards": [
+      {
+        "title": "球场旧梦",
+        "text": "无法重获的成功（B256）",
+        "color": "family"
+      },
+      {
+        "title": "出逃",
+        "text": "婚姻的边界",
+        "color": "main"
+      },
+      {
+        "title": "教堂",
+        "text": "牧师的劝诫",
+        "color": "gold"
+      },
+      {
+        "title": "产房外",
+        "text": "再次逃跑",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

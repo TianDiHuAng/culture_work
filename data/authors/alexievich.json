@@ -1,0 +1,63 @@
+{
+  "id": "alexievich",
+  "name": "斯韦特兰娜·阿列克谢耶维奇",
+  "foreign_name": "Svetlana Alexievich（斯韦特兰娜·阿列克谢耶维奇，1948-05-31— ）",
+  "country": "白俄罗斯",
+  "birth": 1948,
+  "death": null,
+  "birth_year": 1948,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "阿列克谢耶维奇，白俄罗斯记者与散文作家（Britannica），以俄语写作，'blends reportage with literature'（报道与文学交融——Britannica），以普通人声音记录苏联与后苏联的剧变；'human voices were allowed to speak for themselves about the main events of the age'（让人的声音自己讲述时代大事——Britannica）；目标：'a history of human feelings'（一部人类情感的历史——Britannica）。2015年获诺贝尔文学奖——'for her polyphonic writings, a monument to suffering and courage in our time'（复调书写，我们时代苦难与勇气的纪念碑——Britannica）；为首位白俄罗斯获奖者（Britannica）。",
+  "timeline": [
+    {
+      "year": 1948,
+      "text": "5月31日生于Stanislav（今乌克兰伊万诺-弗兰科夫斯克）（Britannica）。",
+      "src": "B253"
+    },
+    {
+      "year": 1985,
+      "text": "《战争中没有女性》《最后的见证人》出版（Britannica：War's Unwomanly Face and Last Witnesses (1985)）。",
+      "src": "B253"
+    },
+    {
+      "year": 2013,
+      "text": "《二手时间》出版（Britannica：Secondhand Time (2013)）。",
+      "src": "B253"
+    },
+    {
+      "year": 2015,
+      "text": "获诺贝尔文学奖（Britannica）。",
+      "src": "B253"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "ershoushijian",
+      "note": "口述实录（Britannica：2013）"
+    },
+    {
+      "title": "切尔诺贝利的祭祷",
+      "note": "（Britannica：Voices from Chernobyl (1997)）"
+    },
+    {
+      "title": "锌皮娃娃兵",
+      "note": "（Britannica：Zinky Boys (1990)）"
+    }
+  ],
+  "style": [
+    "'复调'（polyphonic）书写（Britannica 授奖词）。",
+    "'最接近真实生活的文类'（Britannica：the closest possible approximation to real life）。",
+    "人的声音即史料：情感史替代事件史（Britannica：a history of human feelings）。"
+  ],
+  "status": "Britannica 定位阿列克谢耶维奇为白俄罗斯首位诺奖作家、'复调书写'的创造者（B253）。",
+  "sources": [
+    "B253"
+  ],
+  "dates_source": "B253",
+  "pending": [
+    "《二手时间》中译本（中信2016说）核对。",
+    "'red man'（红色人）概念待核。",
+    "白俄罗斯国内出版压力与流亡细节待核。"
+  ]
+}

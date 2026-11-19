@@ -1,0 +1,68 @@
+{
+  "id": "bolano",
+  "name": "罗贝托·波拉尼奥",
+  "foreign_name": "Roberto Bolaño（罗贝托·波拉尼奥，1953-04-28—2003-07-15）",
+  "country": "智利",
+  "birth": 1953,
+  "death": 2003,
+  "birth_year": 1953,
+  "death_year": 2003,
+  "era": "现当代",
+  "summary": "波拉尼奥，生于圣地亚哥的智利小说家与诗人——'rose from obscurity to become a major Latin American literary voice'（从默默无闻跃为拉美主要文学声音——Britannica）；'one of the leading South American literary figures at the turn of the 21st century'（21世纪初南美文学领军人物之一——Britannica）。1990年由诗转向小说后高产创作直至50岁去世；《荒野侦探》（1998）'made Bolaño a literary star throughout Latin America'并获罗慕洛·加列戈斯奖（Britannica）；身后出版的'鸿篇巨制'《2666》（2004）奠定世界声誉（Britannica：His worldwide literary reputation was made with the posthumous publication of his magnum opus, 2666 (2004)）。",
+  "timeline": [
+    {
+      "year": 1953,
+      "text": "4月28日生于智利圣地亚哥（Britannica：Born April 28, 1953, Santiago, Chile）。",
+      "src": "B251"
+    },
+    {
+      "year": 1990,
+      "text": "由诗转向小说（Britannica：After turning from poetry to fiction in 1990）。",
+      "src": "B251"
+    },
+    {
+      "year": 1998,
+      "text": "《荒野侦探》出版并获加列戈斯奖（Britannica）。",
+      "src": "B251"
+    },
+    {
+      "year": 2003,
+      "text": "7月15日卒于巴塞罗那（Britannica：Died July 15, 2003, Barcelona, Spain）。",
+      "src": "B251"
+    },
+    {
+      "year": 2004,
+      "text": "《2666》身后出版（Britannica：2666 (2004, posthumous)）。",
+      "src": "B251"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "huangyezhentan",
+      "note": "长篇（Britannica：1998）"
+    },
+    {
+      "title": "2666",
+      "note": "（Britannica：2004 身后出版，鸿篇巨制）"
+    },
+    {
+      "title": "智利之夜、护身符",
+      "note": "（Britannica 存目）"
+    }
+  ],
+  "style": [
+    "'现实主义、末日感与黑色幽默'的混合（通说待核）。",
+    "文学浪游者的群像：真实与虚构诗人互嵌（通说）。",
+    "'unflinching exploration of suffering and grief'（Britannica：《2666》第四部分——不回避的受难书写）。"
+  ],
+  "status": "Britannica 定位波拉尼奥为21世纪初南美文学领军人物之一；《2666》出版后'几乎其所有早期西语作品都被译成英文'（Britannica）。",
+  "sources": [
+    "B251"
+  ],
+  "dates_source": "B251",
+  "pending": [
+    "《荒野侦探》中译本（世纪文景说）待核。",
+    "圣特雷莎（圣特莱莎）与边境杀婴案母题待核。",
+    "'现实以下主义'（infrarrealismo）运动待核。"
+  ]
+}

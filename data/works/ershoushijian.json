@@ -1,0 +1,98 @@
+{
+  "id": "ershoushijian",
+  "title": "二手时间",
+  "original_title": "Время секонд хэнд（Secondhand Time）",
+  "region": "白俄罗斯",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "口述实录",
+  "genre_group": "散文",
+  "language": "俄语",
+  "author_id": "alexievich",
+  "author_name": "斯韦特兰娜·阿列克谢耶维奇",
+  "year_display": "2013年出版（Britannica：Secondhand Time (2013)）",
+  "year_sort": 2013,
+  "background": [
+    "Britannica：'Vremya sekond chend'（2013）——记录苏联解体后的'红色人'生活（语境转述）；方法（B253）：'hybrid literary genre that evolved as the closest possible approximation to real life'。",
+    "诺奖授奖词（B253）：'for her polyphonic writings, a monument to suffering and courage in our time'。"
+  ],
+  "outline": [
+    "上卷'启示录的慰藉'与下卷'空空的装饰'（卷名通说待核）：苏联解体后20年的普通人自白（通说待核）。",
+    "'革命'的街头与厨房：'二手'的岁月（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "受访者群",
+      "identity": "普通人",
+      "note": "让人的声音自己讲述（B253）"
+    }
+  ],
+  "themes": [
+    "'人类情感的历史'（B253：a history of human feelings）。",
+    "红色世纪的'二手时间'：理想与幻灭（通说）。",
+    "复调：无权威叙述者（B253：polyphonic writings）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2015年诺奖——'a monument to suffering and courage in our time'（B253）。",
+      "source": "B253"
+    },
+    {
+      "text": "口述文学文类的世界影响（通说）。",
+      "source": "B253"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "口述体——多人称切换。",
+      "苏联解体（1991）背景注释。"
+    ],
+    "editions": [
+      "《二手时间》（中信出版社，通说待核）。"
+    ],
+    "order": "对照《古拉格群岛》：从档案到声音的两种记录。"
+  },
+  "pending": [
+    "卷名与篇目核对。",
+    "'红色人'（red man）概念核对。",
+    "中译本（中信2016说）核对。"
+  ],
+  "sources": [
+    "B253"
+  ],
+  "year_source": "B253",
+  "author_source": "B253",
+  "related_works": [
+    "gulage",
+    "riwage",
+    "zhanzheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《二手时间》复调结构图",
+    "cards": [
+      {
+        "title": "厨房自白",
+        "text": "理想与幻灭",
+        "color": "main"
+      },
+      {
+        "title": "街头革命",
+        "text": "1991之后",
+        "color": "antagonist"
+      },
+      {
+        "title": "复调",
+        "text": "无权威叙述（B253）",
+        "color": "gold"
+      },
+      {
+        "title": "情感史",
+        "text": "人的声音",
+        "color": "family"
+      }
+    ]
+  }
+}

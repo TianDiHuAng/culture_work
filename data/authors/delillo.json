@@ -1,0 +1,63 @@
+{
+  "id": "delillo",
+  "name": "唐·德里罗",
+  "foreign_name": "Don DeLillo（唐·德里罗，1936-11-20— ）",
+  "country": "美国",
+  "birth": 1936,
+  "death": null,
+  "birth_year": 1936,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "德里罗，纽约人，美国后现代主义小说家——'whose postmodernist works portray the anomie of an America cosseted by material excess'（其作品刻画被物质过剩娇惯的美国之失范——Britannica）。《白噪音》（1985）获全国图书奖小说奖——'tells of a professor of Hitler studies'（写一位'希特勒研究'教授——Britannica）；《地下世界》（1997）为其最受赞誉之作（Britannica：significant acclaim）。",
+  "timeline": [
+    {
+      "year": 1936,
+      "text": "11月20日生于纽约（Britannica：Born November 20, 1936, New York）。",
+      "src": "B254"
+    },
+    {
+      "year": 1971,
+      "text": "首部长篇《美国志异》出版（Britannica：First novel Americana 1971）。",
+      "src": "B254"
+    },
+    {
+      "year": 1985,
+      "text": "《白噪音》获全国图书奖（Britannica：White Noise 1985）。",
+      "src": "B254"
+    },
+    {
+      "year": 1997,
+      "text": "《地下世界》出版（Britannica：Underworld 1997）。",
+      "src": "B254"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "baizaoyin",
+      "note": "长篇（Britannica：1985）"
+    },
+    {
+      "title": "地下世界",
+      "note": "（Britannica：1997）"
+    },
+    {
+      "title": "天秤星座、坠落的人",
+      "note": "（Britannica 存目）"
+    }
+  ],
+  "style": [
+    "后现代的'失范'书写（Britannica：anomie of an America cosseted by material excess）。",
+    "媒体、消费与死亡的三角（通说）。",
+    "希特勒研究的学术戏仿（Britannica：professor of Hitler studies）。"
+  ],
+  "status": "Britannica 定位德里罗为美国后现代主义代表小说家；2013年国会图书馆美国小说奖、2015年美国图书奖章（B254）。",
+  "sources": [
+    "B254"
+  ],
+  "dates_source": "B254",
+  "pending": [
+    "《白噪音》中译本信息核对。",
+    "'最杰出的活着的美国小说家'类评价出处待核。",
+    "2022年电影改编（Britannica 已载）核对。"
+  ]
+}

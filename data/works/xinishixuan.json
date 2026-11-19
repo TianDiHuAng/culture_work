@@ -1,0 +1,100 @@
+{
+  "id": "xinishixuan",
+  "title": "希尼诗选",
+  "original_title": "希尼诗选（通行选集）",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20—21世纪",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "heaney",
+  "author_name": "谢默斯·希尼",
+  "year_display": "诗作于1966—2013年间；通行选本数十首",
+  "year_sort": 1975,
+  "background": [
+    "Britannica：希尼之诗'evoked Irish rural life, history, and myth, often reflecting indirectly on the Troubles'（唤起爱尔兰乡村、历史与神话，间接映照北爱动乱）。",
+    "诺奖授奖词（B249）：'for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past'。"
+  ],
+  "outline": [
+    "《挖掘》：'Between my finger and my thumb / The squat pen rests. / I'll dig with it.'（B249）——以笔为锹的起点。",
+    "《惩罚》：以远古泥炭女尸并置动乱中的涂油之刑（B249 转述）。",
+    "《北方》（1975）直接处理北爱暴力（B249）。"
+  ],
+  "characters": [
+    {
+      "name": "挖土者/诗人",
+      "identity": "抒情自我",
+      "note": "锹与笔的转换（B249）"
+    }
+  ],
+  "themes": [
+    "日常奇迹与'活着的过去'（B249 授奖词）。",
+    "语言与暴力的伦理（B249：《惩罚》并置法）。",
+    "乡村劳作的圣化（B249：《挖掘》）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1995年诺奖——'lyrical beauty and ethical depth'。",
+      "source": "B249"
+    },
+    {
+      "text": "Britannica：《北方》'began to encompass more directly such subjects as the violence in Northern Ireland'。",
+      "source": "B249"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "北爱历史（'Troubles'）背景注释。",
+      "泥炭考古意象的互文。"
+    ],
+    "editions": [
+      "《希尼诗选》（广西人民出版社，通说待核）。",
+      "《通往Electric之光》？（中译本信息待核）。"
+    ],
+    "order": "先《挖掘》→《惩罚》→《北方》组诗。"
+  },
+  "pending": [
+    "中译本信息核对。",
+    "《田野工作》等篇目核对。",
+    "诺贝尔演说'Crediting Poetry'待核。"
+  ],
+  "sources": [
+    "B249"
+  ],
+  "year_source": "B249",
+  "author_source": "B249",
+  "related_works": [
+    "yezhishixuan",
+    "frosite",
+    "caoyeji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "希尼诗歌结构图",
+    "cards": [
+      {
+        "title": "挖掘",
+        "text": "锹与笔（B249）",
+        "color": "main"
+      },
+      {
+        "title": "惩罚",
+        "text": "泥炭与动乱",
+        "color": "antagonist"
+      },
+      {
+        "title": "北方",
+        "text": "1975（B249）",
+        "color": "family"
+      },
+      {
+        "title": "Noli timere",
+        "text": "遗言：不要害怕",
+        "color": "gold"
+      }
+    ]
+  }
+}

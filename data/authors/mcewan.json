@@ -1,0 +1,63 @@
+{
+  "id": "mcewan",
+  "name": "伊恩·麦克尤恩",
+  "foreign_name": "Ian McEwan（伊恩·麦克尤恩，1948-06-21— ）",
+  "country": "英国",
+  "birth": 1948,
+  "death": null,
+  "birth_year": 1948,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "麦克尤恩，英国小说家、短篇家与编剧，早期阴郁小说为他赢得'Ian Macabre'（麦克尤恩阴森）的绰号，1980年代转向家庭剧与政治主题（Britannica），代表作《阿姆斯特丹》（1998布克奖）与《赎罪》（2001）。'Atonement (film 2007) traces over six decades the consequences of a lie told in the 1930s'（《赎罪》追踪1930年代一句谎言在六十年间的后果——Britannica）。文体：'restrained, refined prose style accentuates the horror of his dark humor and perverse subject matter'（克制而精炼的文风放大其黑色幽默与乖异题材的恐怖——Britannica）。",
+  "timeline": [
+    {
+      "year": 1948,
+      "text": "6月21日生于英格兰奥尔德肖特（Britannica：Born June 21, 1948, Aldershot, England）。",
+      "src": "B250"
+    },
+    {
+      "year": 1998,
+      "text": "《阿姆斯特丹》获布克奖（Britannica：Booker Prize 1998）。",
+      "src": "B250"
+    },
+    {
+      "year": 2001,
+      "text": "《赎罪》出版（Britannica：Atonement (2001)）。",
+      "src": "B250"
+    },
+    {
+      "year": 2007,
+      "text": "《赎罪》电影上映（Britannica：film 2007）。",
+      "src": "B250"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shuzui",
+      "note": "长篇（Britannica：2001）"
+    },
+    {
+      "title": "阿姆斯特丹",
+      "note": "（Britannica：1998布克奖）"
+    },
+    {
+      "title": "时间中的孩子、切瑟尔海滩",
+      "note": "（Britannica 存目）"
+    }
+  ],
+  "style": [
+    "'克制、精炼的散文'（Britannica：restrained, refined prose style）。",
+    "从'Ian Macabre'式乖异到家庭伦理剧（Britannica 语境）。",
+    "谎言—记忆—赎罪的叙事机器（Britannica：the consequences of a lie told in the 1930s）。"
+  ],
+  "status": "Britannica 定位麦克尤恩为当代英国最重要的小说家之一（1998布克奖得主）；《赎罪》为其国际声誉之作（语境）。",
+  "sources": [
+    "B250"
+  ],
+  "dates_source": "B250",
+  "pending": [
+    "《赎罪》布克奖落选争议（2001年说）待核。",
+    "小说三部结构（Part One/Two/Three+尾声）核对。",
+    "电影乔·怀特导演（2007——Britannica 已载年份）细节待核。"
+  ]
+}

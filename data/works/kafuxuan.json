@@ -1,0 +1,97 @@
+{
+  "id": "kafuxuan",
+  "title": "当我们谈论爱情时我们在谈论什么",
+  "original_title": "What We Talk About When We Talk About Love（卡佛短篇集）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "carver",
+  "author_name": "雷蒙德·卡佛",
+  "year_display": "1981年出版（Britannica：What We Talk About When We Talk About Love (1981)）",
+  "year_sort": 1981,
+  "background": [
+    "Britannica：卡佛'stripped-down, minimalist prose style is remarkable for its honesty and power'（削减到极简的文体以诚实与力量著称——B255）；风格'受海明威与贝克特影响——spare and flat but powerfully suggestive'（B255）。",
+    "被视为20世纪晚期英语短篇小说复兴的关键人物（B255：helping revitalize the English-language short story）。"
+  ],
+  "outline": [
+    "十七篇（篇数通说待核）：《当我们谈论爱情时我们在谈论什么》《一件事若何？》《大教堂不在本集》（集外）——旅馆房间、厨房餐桌上的对话与沉默（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "丈夫们与妻子们",
+      "identity": "底层劳动 poorer",
+      "note": "餐桌上的失语（通说）"
+    }
+  ],
+  "themes": [
+    "'极简'的诚实与力量（B255）。",
+    "普通生活的不可言说（通说）。",
+    "劳动 poor 的挣扎（B255：struggles of the working poor）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'helping revitalize the English-language short story in the late 20th century'（B255）。",
+      "source": "B255"
+    },
+    {
+      "text": "极简主义（minimalism）与'脏现实主义'标签（通说待核）。",
+      "source": "B255"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "省略的艺术——沉默大于对话。",
+      "戈登·利什编辑争议（版本学）。"
+    ],
+    "editions": [
+      "《当我们谈论爱情时我们在谈论什么》（译林出版社，通说待核）。"
+    ],
+    "order": "先读同名篇 →《一件很好很好的事》→ 对照《大教堂》（1984）。"
+  },
+  "pending": [
+    "篇目数量（十七篇说）核对。",
+    "利什编辑争议细节待核。",
+    "中译本信息核对。"
+  ],
+  "sources": [
+    "B255"
+  ],
+  "year_source": "B255",
+  "author_source": "B255",
+  "related_works": [
+    "qikefuxuan",
+    "mauposangxuan",
+    "maitian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "卡佛短篇的餐桌世界",
+    "cards": [
+      {
+        "title": "厨房餐桌",
+        "text": "对话与沉默",
+        "color": "main"
+      },
+      {
+        "title": "旅馆房间",
+        "text": "漂泊的临时性",
+        "color": "family"
+      },
+      {
+        "title": " Gin ",
+        "text": "酒精的窄门",
+        "color": "antagonist"
+      },
+      {
+        "title": "省略",
+        "text": "极简的诚实（B255）",
+        "color": "gold"
+      }
+    ]
+  }
+}

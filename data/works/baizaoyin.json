@@ -1,0 +1,104 @@
+{
+  "id": "baizaoyin",
+  "title": "白噪音",
+  "original_title": "White Noise",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "delillo",
+  "author_name": "唐·德里罗",
+  "year_display": "1985年出版（Britannica：White Noise (1985; film 2022)）",
+  "year_sort": 1985,
+  "background": [
+    "Britannica：'White Noise (1985; film 2022), which won the National Book Award for fiction, tells of a professor of Hitler studies'（全国图书奖小说奖；写一位'希特勒研究'教授——B254）。",
+    "主题（B254）：'the anomie of an America cosseted by material excess'（被物质过剩娇惯的美国之失范）。"
+  ],
+  "outline": [
+    "杰克·格拉迪尼：'希特勒研究'教授与'空中毒物事件'——化学品泄漏引发的疏散（通说）。",
+    "超市、电视与药丸：家庭的'白噪音'日常（通说）。",
+    "'最令人惧怕的是死亡'：SIMUVAC 演习与'戴乐儿'药（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "杰克·格拉迪尼",
+      "identity": "教授",
+      "note": "希特勒研究系主任（B254）"
+    },
+    {
+      "name": "芭比特",
+      "identity": "妻子",
+      "note": "交换药物（通说待核）"
+    }
+  ],
+  "themes": [
+    "物质过剩中的失范（B254：anomie）。",
+    "媒体与死亡的'白噪音'（通说）。",
+    "消费社会的末日日常（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：全国图书奖小说奖（1985）（B254）。",
+      "source": "B254"
+    },
+    {
+      "text": "《地下世界》（1997）为其最受赞誉之作（B254 语境）。",
+      "source": "B254"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "后现代戏仿（学术讲座/超市清单）。",
+      "'空中毒物事件'的媒介叙事。"
+    ],
+    "editions": [
+      "《白噪音》（译林出版社？中译本信息待核）。"
+    ],
+    "order": "对照《五号屠场》：黑色幽默的两代。"
+  },
+  "pending": [
+    "中译本信息核对。",
+    "SIMUVAC/'戴乐儿'（Dylar）情节核对。",
+    "2022年电影（诺亚·鲍姆巴赫——Britannica 已载）细节待核。"
+  ],
+  "sources": [
+    "B254"
+  ],
+  "year_source": "B254",
+  "author_source": "B254",
+  "related_works": [
+    "wuhao",
+    "meilixinshijie",
+    "yijiubasi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《白噪音》失范三景图",
+    "cards": [
+      {
+        "title": "超市",
+        "text": "物质的白噪音",
+        "color": "main"
+      },
+      {
+        "title": "毒雾",
+        "text": "泄漏与疏散",
+        "color": "antagonist"
+      },
+      {
+        "title": "希特勒研究",
+        "text": "学术戏仿（B254）",
+        "color": "gold"
+      },
+      {
+        "title": "怕死",
+        "text": "家庭的药",
+        "color": "plain"
+      }
+    ]
+  }
+}

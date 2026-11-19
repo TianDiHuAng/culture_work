@@ -1,0 +1,68 @@
+{
+  "id": "heaney",
+  "name": "谢默斯·希尼",
+  "foreign_name": "Seamus Heaney（谢默斯·希尼，1939-04-13—2013-08-30）",
+  "country": "爱尔兰",
+  "birth": 1939,
+  "death": 2013,
+  "birth_year": 1939,
+  "death_year": 2013,
+  "era": "现当代",
+  "summary": "希尼，北爱尔兰伦敦德里郡人，爱尔兰诗人——其诗唤起爱尔兰乡村生活、历史与神话，间接映照北爱'动乱'（Britannica：evoked Irish rural life, history, and myth, often reflecting indirectly on the Troubles）。1995年获诺贝尔文学奖，授奖词：'for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past'（以抒情之美与伦理深度颂扬日常奇迹与活着的过去——Britannica）。2013年8月30日在都柏林去世，临终拉丁语遗言'Noli timere'（不要害怕——Britannica）。",
+  "timeline": [
+    {
+      "year": 1939,
+      "text": "4月13日生于北爱尔兰伦敦德里郡（Britannica：Born April 13, 1939）。",
+      "src": "B249"
+    },
+    {
+      "year": 1966,
+      "text": "首部诗集《一个自然主义者的死亡》出版（1966年说——通说待核）。",
+      "src": "B249"
+    },
+    {
+      "year": 1975,
+      "text": "《北方》出版——更直接触及北爱暴力（Britannica：In Wintering Out (1972) and North (1975)……）。",
+      "src": "B249"
+    },
+    {
+      "year": 1995,
+      "text": "获诺贝尔文学奖（Britannica）。",
+      "src": "B249"
+    },
+    {
+      "year": 2013,
+      "text": "8月30日卒于都柏林（Britannica：died in Dublin in 2013 at age 74）。",
+      "src": "B249"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xinishixuan",
+      "note": "诗选（本库立目）"
+    },
+    {
+      "title": "北方、田野工作",
+      "note": "（Britannica：North (1975)）"
+    },
+    {
+      "title": "诗学文集《写作的愉悦》",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'抒情之美与伦理深度'（Britannica 授奖词）。",
+    "泥炭考古意象：以远古尸骸映照当下暴力（Britannica：《惩罚》将古爱尔兰的仪式惩罚与动乱中对女性的涂柏油羽毛之刑并置）。",
+    "'日常工作'的圣化：掘土与笔（Britannica：《挖掘》——'I'll dig with it.'）。"
+  ],
+  "status": "Britannica 定位希尼为唤起爱尔兰乡村与神话、间接映照动乱的诗人、1995年诺奖得主；其诺贝尔演说'Crediting Poetry'（通说待核）。",
+  "sources": [
+    "B249"
+  ],
+  "dates_source": "B249",
+  "pending": [
+    "首部诗集1966年出版细节核对。",
+    "'bog poems'（泥炭诗）学术命名待核。",
+    "诺贝尔演说标题核对。"
+  ]
+}
