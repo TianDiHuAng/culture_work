@@ -1,0 +1,104 @@
+{
+  "id": "gaojiasuohuiLanji",
+  "title": "高加索灰阑记",
+  "original_title": "Der Kaukasische Kreidekreis（The Caucasian Chalk Circle）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "寓意剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "brecht",
+  "author_name": "贝托尔特·布莱希特",
+  "year_display": "1945年（作者页 B138 口径：高加索灰阑记（1945））",
+  "year_sort": 1945,
+  "background": [
+    "作者页（B138）：布莱希特 major_works 载'高加索灰阑记（1945）'——取材中国元杂剧《灰阑记》（B138 作者页定位+通说待核）。",
+    "设定（通说待核）：战后高加索的果园归属争论+格鲁吉亚'灰阑断案'戏中戏。"
+  ],
+  "outline": [
+    "格鲁舍抢救总督之子——'孩子给细心照顾他的人'（通说待核）。",
+    "阿兹达克的灰阑断案（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "格鲁舍",
+      "identity": "女仆",
+      "note": "逃亡的养母（通说待核）"
+    },
+    {
+      "name": "阿兹达克",
+      "identity": "法官",
+      "note": "颠倒的判官（通说待核）"
+    }
+  ],
+  "themes": [
+    "'按功归属'：照料优于血缘（通说）。",
+    "中国元剧的德国转化（通说待核）。",
+    "歌队与说唱叙事（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：布莱希特晚期寓意剧（B138 作者页口径）。",
+      "source": "B138"
+    },
+    {
+      "text": "取材元杂剧《灰阑记》（通说待核）。",
+      "source": "B138"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'灰阑'的中国原典对照。",
+      "歌队说唱。"
+    ],
+    "editions": [
+      "《高加索灰阑记》（人民文学出版社《布莱希特戏剧选》，通说待核）。",
+      "德文原版（Suhrkamp）。"
+    ],
+    "order": "对照元杂剧《包待制智勘灰阑记》。"
+  },
+  "pending": [
+    "1945年写成、1948年首演说核对。",
+    "格鲁舍/阿兹达克人名核对。",
+    "与元杂剧的谱系关系待核。"
+  ],
+  "sources": [
+    "B138"
+  ],
+  "year_source": "B138",
+  "author_source": "B138",
+  "related_works": [
+    "sichuanhaoren",
+    "jialiliuezhuan",
+    "doueyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《灰阑记》断案结构图",
+    "cards": [
+      {
+        "title": "逃亡",
+        "text": "格鲁舍带子",
+        "color": "main"
+      },
+      {
+        "title": "灰阑",
+        "text": "拉孩子的圈",
+        "color": "gold"
+      },
+      {
+        "title": "阿兹达克",
+        "text": "颠倒的判官",
+        "color": "antagonist"
+      },
+      {
+        "title": "归属",
+        "text": "照料者得子",
+        "color": "family"
+      }
+    ]
+  }
+}

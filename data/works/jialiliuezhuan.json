@@ -1,0 +1,104 @@
+{
+  "id": "jialiliuezhuan",
+  "title": "伽利略传",
+  "original_title": "Leben des Galilei（Life of Galileo）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "历史剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "brecht",
+  "author_name": "贝托尔特·布莱希特",
+  "year_display": "1939年（作者页 B138 口径：伽利略传（1939））",
+  "year_sort": 1939,
+  "background": [
+    "作者页（B138）：布莱希特 major_works 载'伽利略传（1939）'（B138 作者页定位，详见 sanfenqian 条核对）。",
+    "题材（通说待核）：伽利略的发现、放弃与'悔罪'——科学家的道德困境。"
+  ],
+  "outline": [
+    "望远镜的发现→宗教裁判→放弃学说→晚年'《对话》'私传（通说待核）。",
+    "'不自由的研究'与安德烈亚的继承（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "伽利略",
+      "identity": "物理学家",
+      "note": "放弃与反思（通说待核）"
+    },
+    {
+      "name": "安德烈亚",
+      "identity": "学生",
+      "note": "继承者（通说待核）"
+    }
+  ],
+  "themes": [
+    "科学与权力（通说）。",
+    "'真理'的传播责任（通说待核）。",
+    "原子弹的阴影（1947美国版增补——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：布莱希特历史剧（B138 作者页口径）。",
+      "source": "B138"
+    },
+    {
+      "text": "三个版本（1938/1945/1955——通说待核）。",
+      "source": "B138"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "伽利略史实与虚构。",
+      "'间离'的历史剧处理。"
+    ],
+    "editions": [
+      "《伽利略传》（人民文学出版社丁扬忠译本，通说待核）。",
+      "德文原版（Suhrkamp）。"
+    ],
+    "order": "对照《四川好人》《高加索灰阑记》。"
+  },
+  "pending": [
+    "1939年流亡丹麦版核对。",
+    "1947年美国版与广岛增补待核。",
+    "伽利略'悔罪'台词待核。"
+  ],
+  "sources": [
+    "B138"
+  ],
+  "year_source": "B138",
+  "author_source": "B138",
+  "related_works": [
+    "sichuanhaoren",
+    "sanfenqian",
+    "muqin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《伽利略传》科学—权力图",
+    "cards": [
+      {
+        "title": "望远镜",
+        "text": "发现与怀疑",
+        "color": "main"
+      },
+      {
+        "title": "宗教裁判",
+        "text": "放弃学说",
+        "color": "antagonist"
+      },
+      {
+        "title": "私传",
+        "text": "晚年的《对话》",
+        "color": "gold"
+      },
+      {
+        "title": "原子弹",
+        "text": "1947的阴影（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

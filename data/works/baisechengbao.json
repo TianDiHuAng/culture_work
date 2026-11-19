@@ -1,0 +1,104 @@
+{
+  "id": "baisechengbao",
+  "title": "白色城堡",
+  "original_title": "Beyaz Kale（The White Castle）",
+  "region": "土耳其",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "土耳其语",
+  "author_id": "pamuk",
+  "author_name": "奥尔罕·帕慕克",
+  "year_display": "1985年（作者页 B105 口径：白色城堡（1985））",
+  "year_sort": 1985,
+  "background": [
+    "作者页（B105）：帕慕克 major_works 载'白色城堡（1985）'（B105 作者页定位，详见 wodemingshan 条核对）。",
+    "题材（通说待核）：威尼斯奴隶与奥斯曼学者霍加——镜像般的双身。"
+  ],
+  "outline": [
+    "威尼斯奴隶成为霍加的替身——两人身份渐不可分（通说待核）。",
+    "'白色城堡'攻城：知识的自负与迷雾（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "霍加",
+      "identity": "学者",
+      "note": "与奴隶互为镜像（通说待核）"
+    },
+    {
+      "name": "威尼斯人",
+      "identity": "奴隶",
+      "note": "叙述者（通说待核）"
+    }
+  ],
+  "themes": [
+    "东方与西方的镜像（通说）。",
+    "知识的迷雾（通说待核）。",
+    "身份的交换（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：帕慕克早期成名作（B105 作者页口径）。",
+      "source": "B105"
+    },
+    {
+      "text": "1990年英译后获国际声誉（通说待核）。",
+      "source": "B105"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自传与虚构的互文。",
+      "奥斯曼科学史。"
+    ],
+    "editions": [
+      "《白色城堡》（上海人民出版社，通说待核）。",
+      "土耳其文原版（Can Yayınları）。"
+    ],
+    "order": "先《白色城堡》后《我的名字叫红》。"
+  },
+  "pending": [
+    "1985年出版核对。",
+    "霍加/威尼斯人人名核对。",
+    "自传性（祖母说）待核。"
+  ],
+  "sources": [
+    "B105"
+  ],
+  "year_source": "B105",
+  "author_source": "B105",
+  "related_works": [
+    "wodemingshan",
+    "xue",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《白色城堡》镜像结构图",
+    "cards": [
+      {
+        "title": "霍加",
+        "text": "学者",
+        "color": "family"
+      },
+      {
+        "title": "威尼斯人",
+        "text": "奴隶",
+        "color": "main"
+      },
+      {
+        "title": "白色城堡",
+        "text": "迷雾中的攻城",
+        "color": "antagonist"
+      },
+      {
+        "title": "镜像",
+        "text": "身份的互换",
+        "color": "gold"
+      }
+    ]
+  }
+}

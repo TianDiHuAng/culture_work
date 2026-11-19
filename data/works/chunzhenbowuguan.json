@@ -1,0 +1,103 @@
+{
+  "id": "chunzhenbowuguan",
+  "title": "纯真博物馆",
+  "original_title": "Masumiyet Müzesi（The Museum of Innocence）",
+  "region": "土耳其",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "土耳其语",
+  "author_id": "pamuk",
+  "author_name": "奥尔罕·帕慕克",
+  "year_display": "2008年（作者页 B105 口径：纯真博物馆（2008））",
+  "year_sort": 2008,
+  "background": [
+    "作者页（B105）：帕慕克 major_works 载'纯真博物馆（2008）'（B105 作者页定位，详见 wodemingshan 条核对）。",
+    "题材（通说待核）：富商之子凯末尔收藏未婚妻芙颂的4213个烟头——恋物与纯真。"
+  ],
+  "outline": [
+    "芙颂之死与'纯真博物馆'的建立——4213个烟头（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "凯末尔",
+      "identity": "富商之子",
+      "note": "收藏者（通说待核）"
+    },
+    {
+      "name": "芙颂",
+      "identity": "远房亲戚",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "恋物与纯真（通说）。",
+    "伊斯坦布尔的物候（通说待核）。",
+    "小说与真实博物馆的互文（作者真的建了博物馆——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：帕慕克21世纪代表作（B105 作者页口径）。",
+      "source": "B105"
+    },
+    {
+      "text": "伊斯坦布尔真有'纯真博物馆'（2012年开馆——通说待核）。",
+      "source": "B105"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "恋物描写的耐心。",
+      "伊斯坦布尔地理。"
+    ],
+    "editions": [
+      "《纯真博物馆》（上海人民出版社，通说待核）。",
+      "土耳其文原版（İletişim）。"
+    ],
+    "order": "帕慕克情感三部曲之末（《红》《雪》《纯真博物馆》）。"
+  },
+  "pending": [
+    "2008年出版核对。",
+    "凯末尔/芙颂人名与烟头数（4213说）待核。",
+    "真实博物馆（2012年开馆）待核。"
+  ],
+  "sources": [
+    "B105"
+  ],
+  "year_source": "B105",
+  "author_source": "B105",
+  "related_works": [
+    "wodemingshan",
+    "xue",
+    "xiyouji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《纯真博物馆》收藏结构图",
+    "cards": [
+      {
+        "title": "收藏",
+        "text": "4213个烟头（通说）",
+        "color": "main"
+      },
+      {
+        "title": "芙颂",
+        "text": "逝去的爱",
+        "color": "gold"
+      },
+      {
+        "title": "博物馆",
+        "text": "小说的实体化",
+        "color": "family"
+      },
+      {
+        "title": "纯真",
+        "text": "病与诗",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

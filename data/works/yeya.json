@@ -1,0 +1,104 @@
+{
+  "id": "yeya",
+  "title": "野鸭",
+  "original_title": "Vildanden（The Wild Duck）",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "话剧",
+  "genre_group": "戏剧",
+  "language": "挪威语",
+  "author_id": "ibsen",
+  "author_name": "亨利克·易卜生",
+  "year_display": "1884年（作者页 B044/B019 口径：野鸭（1884））",
+  "year_sort": 1884,
+  "background": [
+    "作者页（B044/B019）：易卜生 major_works 载'野鸭（1884）'（作者页定位，详见 wanou 条核对）。",
+    "题材（通说待核）：'生活的谎言'（livsløgn）——理想主义者的真相实验摧毁一个家。"
+  ],
+  "outline": [
+    "瑞林的'真相'实验：海特维格的野鸭与身世——女孩之死（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "瑞林",
+      "identity": "理想主义者",
+      "note": "真相的实验者（通说待核）"
+    },
+    {
+      "name": "海特维格",
+      "identity": "女孩",
+      "note": "野鸭的化身（通说待核）"
+    }
+  ],
+  "themes": [
+    "'生活的谎言'与真相的暴力（通说待核）。",
+    "野鸭的隐喻：受伤后潜水（通说）。",
+    "对'真相崇拜'的反讽（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：易卜生后期戏剧（B044/B019 作者页口径）。",
+      "source": "B044"
+    },
+    {
+      "text": "'生活的谎言'概念为现代戏剧理论核心（通说待核）。",
+      "source": "B044"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'谎言'概念的哲学。",
+      "阁楼摄影棚布景。"
+    ],
+    "editions": [
+      "《野鸭》（人民文学出版社，通说待核）。",
+      "挪威文原版（公有领域）。"
+    ],
+    "order": "《群鬼》→《野鸭》：真相的两面。"
+  },
+  "pending": [
+    "1884年出版（Gyldendal说）核对。",
+    "瑞林/海特维格人名核对。",
+    "'生活的谎言'（livsløgn）术语核对。"
+  ],
+  "sources": [
+    "B044",
+    "B019"
+  ],
+  "year_source": "B044",
+  "author_source": "B044",
+  "related_works": [
+    "qungui",
+    "wanou",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《野鸭》谎言结构图",
+    "cards": [
+      {
+        "title": "野鸭",
+        "text": "受伤后潜水",
+        "color": "main"
+      },
+      {
+        "title": "真相实验",
+        "text": "瑞林的理想",
+        "color": "antagonist"
+      },
+      {
+        "title": "海特维格",
+        "text": "女孩的牺牲",
+        "color": "gold"
+      },
+      {
+        "title": "谎言",
+        "text": "生活的必需（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

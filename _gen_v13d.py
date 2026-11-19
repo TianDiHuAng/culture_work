@@ -1,0 +1,167 @@
+# -*- coding: utf-8 -*-
+"""v13D：复用已核来源直写 8 部"""
+import json, pathlib
+
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
+works = {
+"peierjinte": {
+  "id":"peierjinte","title":"培尔·金特","original_title":"Peer Gynt","region":"挪威","era":"近代","era_detail":"19世纪",
+  "genre":"诗剧","genre_group":"戏剧","language":"挪威语","author_id":"ibsen","author_name":"亨利克·易卜生",
+  "year_display":"1867年（作者页 B044/B019 口径：培尔·金特（1867））","year_sort":1867,
+  "background":["作者页（B044/B019）：易卜生 major_works 载'培尔·金特（1867）'（作者页定位，详见 wanou 条核对）。","题材（通说待核）：山妖哲学'绕道'与'自我'的寓言——培尔的环球逃逸与归家。"],
+  "outline":["山妖国'绕道'哲学→青春的放逐→开罗疯人院→索尔维格之歌中的归宿（通说待核）。"],
+  "characters":[{"name":"培尔·金特","identity":"农民之子","note":"自我主义者（通说待核）"},{"name":"索尔维格","identity":"姑娘","note":"等待者（通说待核）"},{"name":"山妖王","identity":"妖王","note":"'绕道'哲学（通说待核）"}],
+  "themes":["'自我'与'自我主义'之辨（通说）。",
+   "格里格配乐（1876——通说待核）。",
+   "诗剧与民间传说（通说待核）。"],
+  "influence":[{"text":"作者页：易卜生诗剧（B044/B019 作者页口径）。","source":"B044"},
+   {"text":"格里格《培尔·金特》组曲（1876/1891说——通说待核）。","source":"B044"}],
+  "reading":{"difficulties":["挪威民间传说。","诗剧的长度。"],
+   "editions":["《培尔·金特》（人民文学出版社萧乾译本，通说待核）。","挪威文原版（公有领域）。"],
+   "order":"易卜生诗剧之巅，与散文剧对照。"},
+  "pending":["1867年出版（Copenhagen说）核对。","培尔/索尔维格/山妖王人名核对。","格里格组曲年份待核。"],
+  "sources":["B044","B019"],"year_source":"B044","author_source":"B044","related_works":["qungui","wanou","shenqu"],
+  "svg":G("《培尔·金特》逃逸结构图",[{"title":"山妖国","text":"'绕道'哲学","color":"antagonist"},{"title":"放逐","text":"环球的逃逸","color":"main"},{"title":"索尔维格","text":"等待的歌","color":"gold"},{"title":"归来","text":"雪屋的归宿","color":"family"}])
+},
+"yeya": {
+  "id":"yeya","title":"野鸭","original_title":"Vildanden（The Wild Duck）","region":"挪威","era":"近代","era_detail":"19世纪",
+  "genre":"话剧","genre_group":"戏剧","language":"挪威语","author_id":"ibsen","author_name":"亨利克·易卜生",
+  "year_display":"1884年（作者页 B044/B019 口径：野鸭（1884））","year_sort":1884,
+  "background":["作者页（B044/B019）：易卜生 major_works 载'野鸭（1884）'（作者页定位，详见 wanou 条核对）。","题材（通说待核）：'生活的谎言'（livsløgn）——理想主义者的真相实验摧毁一个家。"],
+  "outline":["瑞林的'真相'实验：海特维格的野鸭与身世——女孩之死（通说待核）。"],
+  "characters":[{"name":"瑞林","identity":"理想主义者","note":"真相的实验者（通说待核）"},{"name":"海特维格","identity":"女孩","note":"野鸭的化身（通说待核）"}],
+  "themes":["'生活的谎言'与真相的暴力（通说待核）。",
+   "野鸭的隐喻：受伤后潜水（通说）。",
+   "对'真相崇拜'的反讽（通说待核）。"],
+  "influence":[{"text":"作者页：易卜生后期戏剧（B044/B019 作者页口径）。","source":"B044"},
+   {"text":"'生活的谎言'概念为现代戏剧理论核心（通说待核）。","source":"B044"}],
+  "reading":{"difficulties":["'谎言'概念的哲学。","阁楼摄影棚布景。"],
+   "editions":["《野鸭》（人民文学出版社，通说待核）。","挪威文原版（公有领域）。"],
+   "order":"《群鬼》→《野鸭》：真相的两面。"},
+  "pending":["1884年出版（Gyldendal说）核对。","瑞林/海特维格人名核对。","'生活的谎言'（livsløgn）术语核对。"],
+  "sources":["B044","B019"],"year_source":"B044","author_source":"B044","related_works":["qungui","wanou","leiyu"],
+  "svg":G("《野鸭》谎言结构图",[{"title":"野鸭","text":"受伤后潜水","color":"main"},{"title":"真相实验","text":"瑞林的理想","color":"antagonist"},{"title":"海特维格","text":"女孩的牺牲","color":"gold"},{"title":"谎言","text":"生活的必需（通说）","color":"family"}])
+},
+"jialiliuezhuan": {
+  "id":"jialiliuezhuan","title":"伽利略传","original_title":"Leben des Galilei（Life of Galileo）","region":"德国","era":"现当代","era_detail":"20世纪",
+  "genre":"历史剧","genre_group":"戏剧","language":"德语","author_id":"brecht","author_name":"贝托尔特·布莱希特",
+  "year_display":"1939年（作者页 B138 口径：伽利略传（1939））","year_sort":1939,
+  "background":["作者页（B138）：布莱希特 major_works 载'伽利略传（1939）'（B138 作者页定位，详见 sanfenqian 条核对）。","题材（通说待核）：伽利略的发现、放弃与'悔罪'——科学家的道德困境。"],
+  "outline":["望远镜的发现→宗教裁判→放弃学说→晚年'《对话》'私传（通说待核）。","'不自由的研究'与安德烈亚的继承（通说待核）。"],
+  "characters":[{"name":"伽利略","identity":"物理学家","note":"放弃与反思（通说待核）"},{"name":"安德烈亚","identity":"学生","note":"继承者（通说待核）"}],
+  "themes":["科学与权力（通说）。",
+   "'真理'的传播责任（通说待核）。",
+   "原子弹的阴影（1947美国版增补——通说待核）。"],
+  "influence":[{"text":"作者页：布莱希特历史剧（B138 作者页口径）。","source":"B138"},
+   {"text":"三个版本（1938/1945/1955——通说待核）。","source":"B138"}],
+  "reading":{"difficulties":["伽利略史实与虚构。","'间离'的历史剧处理。"],
+   "editions":["《伽利略传》（人民文学出版社丁扬忠译本，通说待核）。","德文原版（Suhrkamp）。"],
+   "order":"对照《四川好人》《高加索灰阑记》。"},
+  "pending":["1939年流亡丹麦版核对。","1947年美国版与广岛增补待核。","伽利略'悔罪'台词待核。"],
+  "sources":["B138"],"year_source":"B138","author_source":"B138","related_works":["sichuanhaoren","sanfenqian","muqin"],
+  "svg":G("《伽利略传》科学—权力图",[{"title":"望远镜","text":"发现与怀疑","color":"main"},{"title":"宗教裁判","text":"放弃学说","color":"antagonist"},{"title":"私传","text":"晚年的《对话》","color":"gold"},{"title":"原子弹","text":"1947的阴影（通说）","color":"plain"}])
+},
+"gaojiasuohuiLanji": {
+  "id":"gaojiasuohuiLanji","title":"高加索灰阑记","original_title":"Der Kaukasische Kreidekreis（The Caucasian Chalk Circle）","region":"德国","era":"现当代","era_detail":"20世纪",
+  "genre":"寓意剧","genre_group":"戏剧","language":"德语","author_id":"brecht","author_name":"贝托尔特·布莱希特",
+  "year_display":"1945年（作者页 B138 口径：高加索灰阑记（1945））","year_sort":1945,
+  "background":["作者页（B138）：布莱希特 major_works 载'高加索灰阑记（1945）'——取材中国元杂剧《灰阑记》（B138 作者页定位+通说待核）。","设定（通说待核）：战后高加索的果园归属争论+格鲁吉亚'灰阑断案'戏中戏。"],
+  "outline":["格鲁舍抢救总督之子——'孩子给细心照顾他的人'（通说待核）。","阿兹达克的灰阑断案（通说待核）。"],
+  "characters":[{"name":"格鲁舍","identity":"女仆","note":"逃亡的养母（通说待核）"},{"name":"阿兹达克","identity":"法官","note":"颠倒的判官（通说待核）"}],
+  "themes":["'按功归属'：照料优于血缘（通说）。",
+   "中国元剧的德国转化（通说待核）。",
+   "歌队与说唱叙事（通说）。"],
+  "influence":[{"text":"作者页：布莱希特晚期寓意剧（B138 作者页口径）。","source":"B138"},
+   {"text":"取材元杂剧《灰阑记》（通说待核）。","source":"B138"}],
+  "reading":{"difficulties":["'灰阑'的中国原典对照。","歌队说唱。"],
+   "editions":["《高加索灰阑记》（人民文学出版社《布莱希特戏剧选》，通说待核）。","德文原版（Suhrkamp）。"],
+   "order":"对照元杂剧《包待制智勘灰阑记》。"},
+  "pending":["1945年写成、1948年首演说核对。","格鲁舍/阿兹达克人名核对。","与元杂剧的谱系关系待核。"],
+  "sources":["B138"],"year_source":"B138","author_source":"B138","related_works":["sichuanhaoren","jialiliuezhuan","doueyuan"],
+  "svg":G("《灰阑记》断案结构图",[{"title":"逃亡","text":"格鲁舍带子","color":"main"},{"title":"灰阑","text":"拉孩子的圈","color":"gold"},{"title":"阿兹达克","text":"颠倒的判官","color":"antagonist"},{"title":"归属","text":"照料者得子","color":"family"}])
+},
+"baisechengbao": {
+  "id":"baisechengbao","title":"白色城堡","original_title":"Beyaz Kale（The White Castle）","region":"土耳其","era":"现当代","era_detail":"20世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"土耳其语","author_id":"pamuk","author_name":"奥尔罕·帕慕克",
+  "year_display":"1985年（作者页 B105 口径：白色城堡（1985））","year_sort":1985,
+  "background":["作者页（B105）：帕慕克 major_works 载'白色城堡（1985）'（B105 作者页定位，详见 wodemingshan 条核对）。","题材（通说待核）：威尼斯奴隶与奥斯曼学者霍加——镜像般的双身。"],
+  "outline":["威尼斯奴隶成为霍加的替身——两人身份渐不可分（通说待核）。","'白色城堡'攻城：知识的自负与迷雾（通说待核）。"],
+  "characters":[{"name":"霍加","identity":"学者","note":"与奴隶互为镜像（通说待核）"},{"name":"威尼斯人","identity":"奴隶","note":"叙述者（通说待核）"}],
+  "themes":["东方与西方的镜像（通说）。",
+   "知识的迷雾（通说待核）。",
+   "身份的交换（通说）。"],
+  "influence":[{"text":"作者页：帕慕克早期成名作（B105 作者页口径）。","source":"B105"},
+   {"text":"1990年英译后获国际声誉（通说待核）。","source":"B105"}],
+  "reading":{"difficulties":["自传与虚构的互文。","奥斯曼科学史。"],
+   "editions":["《白色城堡》（上海人民出版社，通说待核）。","土耳其文原版（Can Yayınları）。"],
+   "order":"先《白色城堡》后《我的名字叫红》。"},
+  "pending":["1985年出版核对。","霍加/威尼斯人人名核对。","自传性（祖母说）待核。"],
+  "sources":["B105"],"year_source":"B105","author_source":"B105","related_works":["wodemingshan","xue","luoshengmen"],
+  "svg":G("《白色城堡》镜像结构图",[{"title":"霍加","text":"学者","color":"family"},{"title":"威尼斯人","text":"奴隶","color":"main"},{"title":"白色城堡","text":"迷雾中的攻城","color":"antagonist"},{"title":"镜像","text":"身份的互换","color":"gold"}])
+},
+"chunzhenbowuguan": {
+  "id":"chunzhenbowuguan","title":"纯真博物馆","original_title":"Masumiyet Müzesi（The Museum of Innocence）","region":"土耳其","era":"现当代","era_detail":"21世纪",
+  "genre":"长篇小说","genre_group":"小说","language":"土耳其语","author_id":"pamuk","author_name":"奥尔罕·帕慕克",
+  "year_display":"2008年（作者页 B105 口径：纯真博物馆（2008））","year_sort":2008,
+  "background":["作者页（B105）：帕慕克 major_works 载'纯真博物馆（2008）'（B105 作者页定位，详见 wodemingshan 条核对）。","题材（通说待核）：富商之子凯末尔收藏未婚妻芙颂的4213个烟头——恋物与纯真。"],
+  "outline":["芙颂之死与'纯真博物馆'的建立——4213个烟头（通说待核）。"],
+  "characters":[{"name":"凯末尔","identity":"富商之子","note":"收藏者（通说待核）"},{"name":"芙颂","identity":"远房亲戚","note":"（通说待核）"}],
+  "themes":["恋物与纯真（通说）。",
+   "伊斯坦布尔的物候（通说待核）。",
+   "小说与真实博物馆的互文（作者真的建了博物馆——通说待核）。"],
+  "influence":[{"text":"作者页：帕慕克21世纪代表作（B105 作者页口径）。","source":"B105"},
+   {"text":"伊斯坦布尔真有'纯真博物馆'（2012年开馆——通说待核）。","source":"B105"}],
+  "reading":{"difficulties":["恋物描写的耐心。","伊斯坦布尔地理。"],
+   "editions":["《纯真博物馆》（上海人民出版社，通说待核）。","土耳其文原版（İletişim）。"],
+   "order":"帕慕克情感三部曲之末（《红》《雪》《纯真博物馆》）。"},
+  "pending":["2008年出版核对。","凯末尔/芙颂人名与烟头数（4213说）待核。","真实博物馆（2012年开馆）待核。"],
+  "sources":["B105"],"year_source":"B105","author_source":"B105","related_works":["wodemingshan","xue","xiyouji"],
+  "svg":G("《纯真博物馆》收藏结构图",[{"title":"收藏","text":"4213个烟头（通说）","color":"main"},{"title":"芙颂","text":"逝去的爱","color":"gold"},{"title":"博物馆","text":"小说的实体化","color":"family"},{"title":"纯真","text":"病与诗","color":"antagonist"}])
+},
+"xiaoshuodeyishu": {
+  "id":"xiaoshuodeyishu","title":"小说的艺术","original_title":"L'Art du roman（The Art of the Novel）","region":"捷克","era":"现当代","era_detail":"20世纪",
+  "genre":"文学论集","genre_group":"散文","language":"捷克语/法语","author_id":"kundera","author_name":"米兰·昆德拉",
+  "year_display":"1986年（作者页 B104 口径：小说的艺术（1986））","year_sort":1986,
+  "background":["作者页（B104）：昆德拉 major_works 载'小说的艺术（1986）'（B104 作者页定位，详见 qingzhong 条核对）。","内容（通说待核）：小说史论——'发现了存在的未完成'；对欧洲小说传统的七篇随笔。"],
+  "outline":["'小说审视的不是现实，而是存在'（核心命题通说待核）。","关于小说的七个方面？——不：七部分结构（通说待核）。"],
+  "characters":[{"name":"昆德拉","identity":"论者","note":"小说的理论家"}],
+  "themes":["'存在'是小说的探察对象（通说待核）。",
+   "欧洲小说史的哲学重述（通说）。",
+   "音乐性结构（通说待核——昆德拉的音乐训练）。"],
+  "influence":[{"text":"作者页：昆德拉小说理论总集（B104 作者页口径）。","source":"B104"},
+   {"text":"与《被背叛的遗嘱》《相遇》构成论著三部（通说待核）。","source":"B104"}],
+  "reading":{"difficulties":["理论术语（'存在'的用法）。","欧洲小说史的谱系。"],
+   "editions":["《小说的艺术》（上海译文出版社董强译本，通说待核）。","法文原版（Gallimard）。"],
+   "order":"与《不能承受的生命之轻》互读。"},
+  "pending":["七部分结构核对。","董强译本信息核对。","'小说审视的是存在'原句核对。"],
+  "sources":["B104"],"year_source":"B104","author_source":"B104","related_works":["qingzhong","wanxiao","weicheng"],
+  "svg":G("《小说的艺术》论纲图",[{"title":"存在","text":"小说的探察对象（通说）","color":"main"},{"title":"欧洲小说","text":"始于塞万提斯（通说）","color":"family"},{"title":"音乐性","text":"结构的对位","color":"gold"},{"title":"玩笑","text":"四声部的先例","color":"plain"}])
+},
+"yijiandezifangjian": {
+  "id":"yijiandezifangjian","title":"一间自己的房间","original_title":"A Room of One's Own","region":"英国","era":"现当代","era_detail":"20世纪",
+  "genre":"论文","genre_group":"散文","language":"英语","author_id":"woolf","author_name":"弗吉尼亚·伍尔夫",
+  "year_display":"1929年（作者页 B128 口径：一间自己的房间（1929））","year_sort":1929,
+  "background":["作者页（B128）：伍尔夫 major_works 载'一间自己的房间（1929）'（B128 作者页定位，详见 daluolaiwei 条核对）。","出处（通说待核）：1928年剑桥两篇讲稿扩展——'女人要写小说，必须有钱和一间自己的房间'（名句通说待核）。","虚构（通说待核）：'莎士比亚的妹妹'朱迪思的思想实验。"],
+  "outline":["'莎士比亚的妹妹'思想实验→牛桥的排除→'雌雄同体'的心灵（结构通说待核）。"],
+  "characters":[{"name":"朱迪思·莎士比亚","identity":"虚构的妹妹","note":"思想实验（通说待核）"}],
+  "themes":["女性与写作的物质条件（名句通说待核）。",
+   "'雌雄同体'的心灵（通说待核）。",
+   "女权批评的奠基（通说）。"],
+  "influence":[{"text":"作者页：伍尔夫论著代表作（B128 作者页口径）。","source":"B128"},
+   {"text":"女性主义批评的奠基文本之一（通说待核）。","source":"B128"}],
+  "reading":{"difficulties":["讲座体的口语转论文。","'雌雄同体'概念。"],
+   "editions":["《一间自己的房间》（人民文学出版社/上海译文版本，通说待核）。","英文原版（公有领域渐近）。"],
+   "order":"先《达洛维夫人》后本作。"},
+  "pending":["1928年剑桥纽纳姆/格顿学院讲稿说核对。","名句原文核对。","'雌雄同体'（androgyny）概念核对。"],
+  "sources":["B128"],"year_source":"B128","author_source":"B128","related_works":["daluolaiwei","daotadengqu","dierxing"],
+  "svg":G("《一间自己的房间》论纲图",[{"title":"房间","text":"物质的条件（名句待核）","color":"main"},{"title":"朱迪思","text":"莎士比亚的妹妹","color":"gold"},{"title":"雌雄同体","text":"心灵的状态（通说）","color":"family"},{"title":"女权批评","text":"奠基之作","color":"plain"}])
+}
+}
+
+for wid, d in works.items():
+    p = pathlib.Path(f"data/works/{wid}.json")
+    p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+    print("created work", wid)
+print(len(works), "works created")

@@ -1,0 +1,109 @@
+{
+  "id": "peierjinte",
+  "title": "培尔·金特",
+  "original_title": "Peer Gynt",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "诗剧",
+  "genre_group": "戏剧",
+  "language": "挪威语",
+  "author_id": "ibsen",
+  "author_name": "亨利克·易卜生",
+  "year_display": "1867年（作者页 B044/B019 口径：培尔·金特（1867））",
+  "year_sort": 1867,
+  "background": [
+    "作者页（B044/B019）：易卜生 major_works 载'培尔·金特（1867）'（作者页定位，详见 wanou 条核对）。",
+    "题材（通说待核）：山妖哲学'绕道'与'自我'的寓言——培尔的环球逃逸与归家。"
+  ],
+  "outline": [
+    "山妖国'绕道'哲学→青春的放逐→开罗疯人院→索尔维格之歌中的归宿（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "培尔·金特",
+      "identity": "农民之子",
+      "note": "自我主义者（通说待核）"
+    },
+    {
+      "name": "索尔维格",
+      "identity": "姑娘",
+      "note": "等待者（通说待核）"
+    },
+    {
+      "name": "山妖王",
+      "identity": "妖王",
+      "note": "'绕道'哲学（通说待核）"
+    }
+  ],
+  "themes": [
+    "'自我'与'自我主义'之辨（通说）。",
+    "格里格配乐（1876——通说待核）。",
+    "诗剧与民间传说（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：易卜生诗剧（B044/B019 作者页口径）。",
+      "source": "B044"
+    },
+    {
+      "text": "格里格《培尔·金特》组曲（1876/1891说——通说待核）。",
+      "source": "B044"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "挪威民间传说。",
+      "诗剧的长度。"
+    ],
+    "editions": [
+      "《培尔·金特》（人民文学出版社萧乾译本，通说待核）。",
+      "挪威文原版（公有领域）。"
+    ],
+    "order": "易卜生诗剧之巅，与散文剧对照。"
+  },
+  "pending": [
+    "1867年出版（Copenhagen说）核对。",
+    "培尔/索尔维格/山妖王人名核对。",
+    "格里格组曲年份待核。"
+  ],
+  "sources": [
+    "B044",
+    "B019"
+  ],
+  "year_source": "B044",
+  "author_source": "B044",
+  "related_works": [
+    "qungui",
+    "wanou",
+    "shenqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《培尔·金特》逃逸结构图",
+    "cards": [
+      {
+        "title": "山妖国",
+        "text": "'绕道'哲学",
+        "color": "antagonist"
+      },
+      {
+        "title": "放逐",
+        "text": "环球的逃逸",
+        "color": "main"
+      },
+      {
+        "title": "索尔维格",
+        "text": "等待的歌",
+        "color": "gold"
+      },
+      {
+        "title": "归来",
+        "text": "雪屋的归宿",
+        "color": "family"
+      }
+    ]
+  }
+}

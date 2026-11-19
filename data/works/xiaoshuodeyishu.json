@@ -1,0 +1,99 @@
+{
+  "id": "xiaoshuodeyishu",
+  "title": "小说的艺术",
+  "original_title": "L'Art du roman（The Art of the Novel）",
+  "region": "捷克",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "文学论集",
+  "genre_group": "散文",
+  "language": "捷克语/法语",
+  "author_id": "kundera",
+  "author_name": "米兰·昆德拉",
+  "year_display": "1986年（作者页 B104 口径：小说的艺术（1986））",
+  "year_sort": 1986,
+  "background": [
+    "作者页（B104）：昆德拉 major_works 载'小说的艺术（1986）'（B104 作者页定位，详见 qingzhong 条核对）。",
+    "内容（通说待核）：小说史论——'发现了存在的未完成'；对欧洲小说传统的七篇随笔。"
+  ],
+  "outline": [
+    "'小说审视的不是现实，而是存在'（核心命题通说待核）。",
+    "关于小说的七个方面？——不：七部分结构（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "昆德拉",
+      "identity": "论者",
+      "note": "小说的理论家"
+    }
+  ],
+  "themes": [
+    "'存在'是小说的探察对象（通说待核）。",
+    "欧洲小说史的哲学重述（通说）。",
+    "音乐性结构（通说待核——昆德拉的音乐训练）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：昆德拉小说理论总集（B104 作者页口径）。",
+      "source": "B104"
+    },
+    {
+      "text": "与《被背叛的遗嘱》《相遇》构成论著三部（通说待核）。",
+      "source": "B104"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "理论术语（'存在'的用法）。",
+      "欧洲小说史的谱系。"
+    ],
+    "editions": [
+      "《小说的艺术》（上海译文出版社董强译本，通说待核）。",
+      "法文原版（Gallimard）。"
+    ],
+    "order": "与《不能承受的生命之轻》互读。"
+  },
+  "pending": [
+    "七部分结构核对。",
+    "董强译本信息核对。",
+    "'小说审视的是存在'原句核对。"
+  ],
+  "sources": [
+    "B104"
+  ],
+  "year_source": "B104",
+  "author_source": "B104",
+  "related_works": [
+    "qingzhong",
+    "wanxiao",
+    "weicheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小说的艺术》论纲图",
+    "cards": [
+      {
+        "title": "存在",
+        "text": "小说的探察对象（通说）",
+        "color": "main"
+      },
+      {
+        "title": "欧洲小说",
+        "text": "始于塞万提斯（通说）",
+        "color": "family"
+      },
+      {
+        "title": "音乐性",
+        "text": "结构的对位",
+        "color": "gold"
+      },
+      {
+        "title": "玩笑",
+        "text": "四声部的先例",
+        "color": "plain"
+      }
+    ]
+  }
+}

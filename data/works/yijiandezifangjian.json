@@ -1,0 +1,99 @@
+{
+  "id": "yijiandezifangjian",
+  "title": "一间自己的房间",
+  "original_title": "A Room of One's Own",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "论文",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "woolf",
+  "author_name": "弗吉尼亚·伍尔夫",
+  "year_display": "1929年（作者页 B128 口径：一间自己的房间（1929））",
+  "year_sort": 1929,
+  "background": [
+    "作者页（B128）：伍尔夫 major_works 载'一间自己的房间（1929）'（B128 作者页定位，详见 daluolaiwei 条核对）。",
+    "出处（通说待核）：1928年剑桥两篇讲稿扩展——'女人要写小说，必须有钱和一间自己的房间'（名句通说待核）。",
+    "虚构（通说待核）：'莎士比亚的妹妹'朱迪思的思想实验。"
+  ],
+  "outline": [
+    "'莎士比亚的妹妹'思想实验→牛桥的排除→'雌雄同体'的心灵（结构通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "朱迪思·莎士比亚",
+      "identity": "虚构的妹妹",
+      "note": "思想实验（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性与写作的物质条件（名句通说待核）。",
+    "'雌雄同体'的心灵（通说待核）。",
+    "女权批评的奠基（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：伍尔夫论著代表作（B128 作者页口径）。",
+      "source": "B128"
+    },
+    {
+      "text": "女性主义批评的奠基文本之一（通说待核）。",
+      "source": "B128"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "讲座体的口语转论文。",
+      "'雌雄同体'概念。"
+    ],
+    "editions": [
+      "《一间自己的房间》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《达洛维夫人》后本作。"
+  },
+  "pending": [
+    "1928年剑桥纽纳姆/格顿学院讲稿说核对。",
+    "名句原文核对。",
+    "'雌雄同体'（androgyny）概念核对。"
+  ],
+  "sources": [
+    "B128"
+  ],
+  "year_source": "B128",
+  "author_source": "B128",
+  "related_works": [
+    "daluolaiwei",
+    "daotadengqu",
+    "dierxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一间自己的房间》论纲图",
+    "cards": [
+      {
+        "title": "房间",
+        "text": "物质的条件（名句待核）",
+        "color": "main"
+      },
+      {
+        "title": "朱迪思",
+        "text": "莎士比亚的妹妹",
+        "color": "gold"
+      },
+      {
+        "title": "雌雄同体",
+        "text": "心灵的状态（通说）",
+        "color": "family"
+      },
+      {
+        "title": "女权批评",
+        "text": "奠基之作",
+        "color": "plain"
+      }
+    ]
+  }
+}
