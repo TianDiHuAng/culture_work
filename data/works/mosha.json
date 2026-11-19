@@ -10,7 +10,7 @@
   "language": "德语",
   "author_id": "thomasmann",
   "author_name": "托马斯·曼",
-  "year_display": "1924年出版（通说待核；B209 作者页语境）",
+  "year_display": "1924年出版（Britannica：Der Zauberberg in 1924）",
   "year_sort": 1924,
   "background": [
     "Britannica：主题源自早期母题——青年工程师汉斯·卡斯托尔普到达沃斯疗养院探望表兄……'But the sanatorium comes to be the spiritual reflection of the possibilities and dangers of the actual world'（疗养院成为现实世界的可能与危险的精神映像——Britannica）。",
@@ -50,6 +50,10 @@
   ],
   "influence": [
     {
+      "text": "Britannica：Castorp 原打算住几周，因发现病症逗留七年，直至一战爆发（原文转述）。",
+      "source": "B219"
+    },
+    {
       "text": "Britannica：'In this great work Mann formulates with remarkable insight the fateful choices facing Europe'（以卓越洞见提出欧洲面临的决定性抉择）。",
       "source": "B209"
     },
@@ -75,9 +79,10 @@
     "瓦格纳音乐母题待核。"
   ],
   "sources": [
+    "B219",
     "B209"
   ],
-  "year_source": "B209",
+  "year_source": "B219",
   "author_source": "B209",
   "related_works": [
     "huangyuanlang",
