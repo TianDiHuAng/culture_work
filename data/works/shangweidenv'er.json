@@ -1,0 +1,103 @@
+{
+  "id": "shangweidenv'er",
+  "title": "上尉的女儿",
+  "original_title": "Капитанская дочка（The Captain's Daughter）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "pushkin",
+  "author_name": "亚历山大·普希金",
+  "year_display": "1836年（通说待核；作者页 B143 口径：major_works 载'上尉的女儿'）",
+  "year_sort": 1836,
+  "background": [
+    "作者页（B143）：普希金 major_works 载'上尉的女儿'——历史小说（B143 作者页定位，详见 aonijin 条核对）。",
+    "题材（通说待核）：普加乔夫起义（1773—75）——历史与虚构的结合。"
+  ],
+  "outline": [
+    "格里尼奥夫与玛莎在普加乔夫起义中的遭遇——普加乔夫的'赦免'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "格里尼奥夫",
+      "identity": "军官",
+      "note": "叙述者（通说待核）"
+    },
+    {
+      "name": "普加乔夫",
+      "identity": "起义领袖",
+      "note": "历史的虚构（通说待核）"
+    }
+  ],
+  "themes": [
+    "历史小说的典范（通说）。",
+    "起义领袖的复杂面孔（通说）。",
+    "宽容与忠诚（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：普希金散文代表作（B143 作者页口径）。",
+      "source": "B143"
+    },
+    {
+      "text": "俄国历史小说的开端之一（通说待核）。",
+      "source": "B143"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "普加乔夫起义史实。",
+      "哥萨克词汇。"
+    ],
+    "editions": [
+      "《上尉的女儿》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《奥涅金》《黑桃皇后》后本作。"
+  },
+  "pending": [
+    "1836年（《现代人》刊出说）核对。",
+    "格里尼奥夫/玛莎人名核对。",
+    "普加乔夫史实与虚构边界待核。"
+  ],
+  "sources": [
+    "B143"
+  ],
+  "year_source": "B143",
+  "author_source": "B143",
+  "related_works": [
+    "aonijin",
+    "heitaohuanghou",
+    "shangweidenv'er"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《上尉的女儿》历史结构图",
+    "cards": [
+      {
+        "title": "起义",
+        "text": "普加乔夫（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "赦免",
+        "text": "兔皮外套的恩义",
+        "color": "main"
+      },
+      {
+        "title": "爱情",
+        "text": "上尉的女儿",
+        "color": "gold"
+      },
+      {
+        "title": "历史",
+        "text": "虚构的证词",
+        "color": "plain"
+      }
+    ]
+  }
+}

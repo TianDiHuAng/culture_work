@@ -1,0 +1,103 @@
+{
+  "id": "he'an",
+  "title": "河岸",
+  "original_title": "河岸（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "sutong",
+  "author_name": "苏童",
+  "year_display": "出版年份待核（中国作家网 C015：'《米》《我的帝王生涯》《河岸》等长篇'——2009年说通说待核）",
+  "year_sort": 2009,
+  "background": [
+    "中国作家网（C015）：'《米》《我的帝王生涯》《河岸》等长篇'——本作为苏童长篇代表作（C015 官方口径）。",
+    "题材（通说待核）：'空脚天'？——不：船上的少年库文轩与'烈属'身份的崩塌（情节通说待核）。"
+  ],
+  "outline": [
+    "河流上的生活：岸上/船上的两界（通说待核）。",
+    "身份的政治与青春的溃败（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "库文轩",
+      "identity": "父亲",
+      "note": "'烈属'身份（通说待核）"
+    },
+    {
+      "name": "库东亮",
+      "identity": "少年",
+      "note": "叙述者（通说待核）"
+    }
+  ],
+  "themes": [
+    "岸与船：身份的两界（通说）。",
+    "历史身份的崩塌（通说待核）。",
+    "香椿树街之外的河流书写（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网：列入苏童长篇代表作（C015）。",
+      "source": "C015"
+    },
+    {
+      "text": "第三届红楼梦奖决审团奖（通说待核——C022 搜索口径）。",
+      "source": "C015"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "历史政治背景。",
+      "河流意象的贯穿。"
+    ],
+    "editions": [
+      "《河岸》（人民文学出版社，通说待核）。"
+    ],
+    "order": "先《米》后本作。"
+  },
+  "pending": [
+    "2009年人民文学出版社初版核对。",
+    "库文轩/库东亮人名核对。",
+    "红楼梦奖（决审团奖）核对。"
+  ],
+  "sources": [
+    "C015"
+  ],
+  "year_source": "C015",
+  "author_source": "C015",
+  "related_works": [
+    "mi",
+    "huangqueji",
+    "heiansenlin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《河岸》两界结构图",
+    "cards": [
+      {
+        "title": "岸",
+        "text": "身份与政治",
+        "color": "antagonist"
+      },
+      {
+        "title": "船",
+        "text": "流放的家",
+        "color": "main"
+      },
+      {
+        "title": "库东亮",
+        "text": "少年视角",
+        "color": "family"
+      },
+      {
+        "title": "河流",
+        "text": "漂泊的母亲河",
+        "color": "gold"
+      }
+    ]
+  }
+}

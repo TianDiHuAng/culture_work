@@ -1,0 +1,58 @@
+{
+  "id": "canxue",
+  "name": "残雪",
+  "foreign_name": "Can Xue（残雪，本名邓小华说——Britannica 口径，1953— ）",
+  "country": "中国",
+  "birth": 1953,
+  "death": null,
+  "birth_year": 1953,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "残雪（Britannica：pen name of Deng Xiaohua——本名邓小华），1953年生于湖南长沙，中国先锋作家——'celebrated for experimental fiction blending surreal, absurd, and fantastical elements'（以混合超现实、荒诞与奇幻元素的实验小说著称——Britannica）。中篇《黄泥街》（1987）——'concerns a strange event in a decrepit factory town'，有'comical and surreal elements as well as extremely graphic descriptions of the filth'（B266）。'Can's fiction is noted for its experimentalism'（B266）；苏珊·桑塔格'had named her as a likely future contender for the Nobel Prize for Literature'（B266）。",
+  "timeline": [
+    {
+      "year": 1953,
+      "text": "生于湖南长沙（Britannica：Born 1953 in Changsha, Hunan province）。",
+      "src": "B266"
+    },
+    {
+      "year": 1987,
+      "text": "中篇《黄泥街》出版（Britannica：Yellow Mud Street was published in 1987）。",
+      "src": "B266"
+    },
+    {
+      "year": 2019,
+      "text": "两次入围国际布克奖（Britannica：Twice nominated for the International Booker Prize——年份待核）。",
+      "src": "B266"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "huangnijie",
+      "note": "中篇（Britannica：1987）"
+    },
+    {
+      "title": "五香街、最后的情人",
+      "note": "（Britannica：Five Spice Street (2002), The Last Lover (2005)）"
+    },
+    {
+      "title": "边疆、新世纪爱情故事",
+      "note": "（Britannica：Frontier (2008), Love in the New Millennium (2013)）"
+    }
+  ],
+  "style": [
+    "'experimentalism'（Britannica：experimentalism 著称）。",
+    "'surreal, fantastical, and absurdist elements and nonlinear plots'（B266）。",
+    "'极富个性与挑战性的先锋作家'（B266：one of the most unique and challenging avant-garde authors）。"
+  ],
+  "status": "Britannica 定位残雪为当代文学'最独特、最具挑战性的先锋作家'之一（B266）；桑塔格视其为可能的诺奖竞争者（B266）。",
+  "sources": [
+    "B266"
+  ],
+  "dates_source": "B266",
+  "pending": [
+    "本名邓小华与'残雪'笔名来源（'残雪'自解待核）。",
+    "两次国际布克奖入围年份核对。",
+    "《山上的小屋》短篇与其代表作地位待核。"
+  ]
+}

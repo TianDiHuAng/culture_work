@@ -1,0 +1,102 @@
+{
+  "id": "huangnijie",
+  "title": "黄泥街",
+  "original_title": "黄泥街（中篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "canxue",
+  "author_name": "残雪",
+  "year_display": "1987年出版（Britannica：Yellow Mud Street was published in 1987）",
+  "year_sort": 1987,
+  "background": [
+    "Britannica（B266）：'concerns a strange event in a decrepit factory town'——写破败工厂小镇的奇异事件；'comical and surreal elements as well as extremely graphic descriptions of the filth'（滑稽超现实的元素与对污秽的极端直露的描写——B266）。",
+    "'Can's fiction is noted for its experimentalism'（B266）；苏珊·桑塔格视其为可能的诺奖竞争者（B266）。"
+  ],
+  "outline": [
+    "黄泥街的'黄泥'世界：粪便、太阳与王子——梦魇中的街道史（情节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "王子光",
+      "identity": "幻影人物",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "齐国　……不：齐婆等",
+      "identity": "街民",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "污秽与超现实（B266）。",
+    "梦魇叙事（B266：nonlinear plots）。",
+    "实验主义的汉语（B266：experimentalism）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：残雪实验小说的代表（B266）。",
+      "source": "B266"
+    },
+    {
+      "text": "先锋文学的最极端样本（通说待核）。",
+      "source": "B266"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "污秽意象的承受力。",
+      "非线性的梦魇逻辑。"
+    ],
+    "editions": [
+      "《黄泥街》（湖南文艺出版社，通说待核）。"
+    ],
+    "order": "先锋文学的进阶阅读——先读卡夫卡。"
+  },
+  "pending": [
+    "情节细节（王子光/齐婆）核对。",
+    "1987年刊出（《中国》杂志说）待核。",
+    "'先锋五虎'并称说待核。"
+  ],
+  "sources": [
+    "B266"
+  ],
+  "year_source": "B266",
+  "author_source": "B266",
+  "related_works": [
+    "bianxingji",
+    "huangyezhentan",
+    "xiaobaozhuang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《黄泥街》梦魇结构图",
+    "cards": [
+      {
+        "title": "黄泥街",
+        "text": "污秽的街道（B266）",
+        "color": "antagonist"
+      },
+      {
+        "title": "王子光",
+        "text": "幻影的来访",
+        "color": "gold"
+      },
+      {
+        "title": "街民",
+        "text": "梦魇的合唱",
+        "color": "family"
+      },
+      {
+        "title": "实验",
+        "text": "超现实与非线性（B266）",
+        "color": "main"
+      }
+    ]
+  }
+}

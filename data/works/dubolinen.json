@@ -1,0 +1,104 @@
+{
+  "id": "dubolinen",
+  "title": "都柏林人",
+  "original_title": "Dubliners",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "joyce",
+  "author_name": "詹姆斯·乔伊斯",
+  "year_display": "1914年出版（作者页 B093 口径：都柏林人（1914））",
+  "year_sort": 1914,
+  "background": [
+    "作者页（B093）：乔伊斯 major_works 载'都柏林人（1914）'（B093 作者页定位，详见 youlisisi 条核对）。",
+    "'瘫痪'（paralysis）主题：乔伊斯自述（通说待核——致出版商信）。"
+  ],
+  "outline": [
+    "十五篇（篇数通说）：童年—青春期—成年—公共生活的四个阶段（结构通说待核）。",
+    "末篇《死者》：白雪中的'雪落所有的生者与死者'（名句通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "加布里埃尔",
+      "identity": "《死者》主角",
+      "note": "雪夜的自省（通说待核）"
+    },
+    {
+      "name": "伊芙琳",
+      "identity": "少女",
+      "note": "《伊芙琳》的抉择（通说待核）"
+    }
+  ],
+  "themes": [
+    "都柏林的'瘫痪'（通说待核）。",
+    "顿悟（epiphany）技法（通说待核）。",
+    "逃离与滞留（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：乔伊斯成名前的重要作品（B093 作者页口径）。",
+      "source": "B093"
+    },
+    {
+      "text": "现代短篇小说的经典（通说待核）。",
+      "source": "B093"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "爱尔兰语词与政治背景。",
+      "顿悟的识别。"
+    ],
+    "editions": [
+      "《都柏林人》（上海译文出版社王逢振译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《都柏林人》后《尤利西斯》。"
+  },
+  "pending": [
+    "十五篇篇目核对。",
+    "1914年（Grant Richards说，出版波折）核对。",
+    "'瘫痪'自述信出处待核。"
+  ],
+  "sources": [
+    "B093"
+  ],
+  "year_source": "B093",
+  "author_source": "B093",
+  "related_works": [
+    "youlisisi",
+    "xinishixuan",
+    "jimuye"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《都柏林人》四阶段结构图",
+    "cards": [
+      {
+        "title": "童年",
+        "text": "《阿拉比》等",
+        "color": "family"
+      },
+      {
+        "title": "青春期",
+        "text": "《伊芙琳》等",
+        "color": "main"
+      },
+      {
+        "title": "成年",
+        "text": "《死者》前的群像",
+        "color": "gold"
+      },
+      {
+        "title": "死者",
+        "text": "雪落生者与死者（名句待核）",
+        "color": "plain"
+      }
+    ]
+  }
+}

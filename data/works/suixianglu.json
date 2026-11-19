@@ -1,0 +1,98 @@
+{
+  "id": "suixianglu",
+  "title": "随想录",
+  "original_title": "随想录（散文集五卷）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "bajin",
+  "author_name": "巴金",
+  "year_display": "1978—1986年（作者页 B079 口径：随想录（1978—86））",
+  "year_sort": 1982,
+  "background": [
+    "作者页（B079）：巴金 major_works 载'随想录（1978—86）'（B079 作者页定位，详见 jia 条核对）。",
+    "意义（通说待核）：晚年巴金的自我清算——'讲真话'与反思'文革'的散文总集。"
+  ],
+  "outline": [
+    "五卷：《随想录》《探索集》《真话集》《病中集》《无题集》（卷名通说待核）。",
+    "《怀念萧珊》：悼亡妻之文（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "巴金",
+      "identity": "散文作者",
+      "note": "讲真话的老人"
+    }
+  ],
+  "themes": [
+    "讲真话（通说待核——其核心口号）。",
+    "反思'文革'的忏悔（通说）。",
+    "'生命的开花'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：巴金晚年散文总集（B079 作者页口径）。",
+      "source": "B079"
+    },
+    {
+      "text": "新时期散文的精神标杆（通说待核）。",
+      "source": "B079"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'文革'记忆的沉重。",
+      "平淡文体的力量。"
+    ],
+    "editions": [
+      "《随想录》（人民文学出版社/三联书店版本，通说待核）。"
+    ],
+    "order": "先《家》后本作：巴金的两端。"
+  },
+  "pending": [
+    "五卷卷名核对。",
+    "《怀念萧珊》篇核对。",
+    "'讲真话的大书'评价出处待核。"
+  ],
+  "sources": [
+    "B079"
+  ],
+  "year_source": "B079",
+  "author_source": "B079",
+  "related_works": [
+    "jia",
+    "hanye",
+    "woyuditan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《随想录》五卷结构图",
+    "cards": [
+      {
+        "title": "随想录",
+        "text": "起笔1978",
+        "color": "family"
+      },
+      {
+        "title": "真话集",
+        "text": "讲真话",
+        "color": "main"
+      },
+      {
+        "title": "病中集",
+        "text": "衰病的写作",
+        "color": "gold"
+      },
+      {
+        "title": "无题集",
+        "text": "最后的反思",
+        "color": "plain"
+      }
+    ]
+  }
+}
