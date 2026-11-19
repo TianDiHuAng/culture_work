@@ -1,0 +1,103 @@
+{
+  "id": "shengdansongge",
+  "title": "圣诞颂歌",
+  "original_title": "A Christmas Carol. In Prose. Being a Ghost Story of Christmas",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dickens",
+  "author_name": "查尔斯·狄更斯",
+  "year_display": "1843年（作者页 B120 口径：圣诞颂歌（1843））",
+  "year_sort": 1843,
+  "background": [
+    "作者页（B120）：狄更斯 major_works 载'圣诞颂歌（1843）'（B120 作者页定位，详见 dawei 条核对）。",
+    "题材（通说待核）：斯克鲁奇的三次'幽灵'之旅——过去/现在/未来的圣诞。"
+  ],
+  "outline": [
+    "马里的鬼魂警告→三个圣诞幽灵→'早上好，先生'的转变（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "斯克鲁奇",
+      "identity": "吝啬鬼",
+      "note": "转变者（通说待核）"
+    },
+    {
+      "name": "鲍勃·克拉奇特",
+      "identity": "职员",
+      "note": "小蒂姆的父亲（通说待核）"
+    }
+  ],
+  "themes": [
+    "圣诞的人道主义：'圣诞快乐'的现代发明（通说待核）。",
+    "吝啬与重生（通说）。",
+    "'幽灵故事'的圣诞传统（书副题——通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：狄更斯圣诞书代表作（B120 作者页口径）。",
+      "source": "B120"
+    },
+    {
+      "text": "'Merry Christmas'的现代流行与本书互证（通说待核）。",
+      "source": "B120"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "古体'幽灵故事'的语调。",
+      "维多利亚圣诞习俗。"
+    ],
+    "editions": [
+      "《圣诞颂歌》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "狄更斯圣诞书系列之首（五部）。"
+  },
+  "pending": [
+    "1843年12月19日初版核对。",
+    "斯克鲁奇/克拉奇特人名核对。",
+    "'圣诞书'系列（五部说）待核。"
+  ],
+  "sources": [
+    "B120"
+  ],
+  "year_source": "B120",
+  "author_source": "B120",
+  "related_works": [
+    "wudugu'er",
+    "dawei",
+    "shuangchengji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《圣诞颂歌》三幽灵图",
+    "cards": [
+      {
+        "title": "过去的圣诞",
+        "text": "童年的 forgotten",
+        "color": "family"
+      },
+      {
+        "title": "现在的圣诞",
+        "text": "克拉特家的晚餐",
+        "color": "main"
+      },
+      {
+        "title": "未来的圣诞",
+        "text": "小蒂姆的空椅",
+        "color": "antagonist"
+      },
+      {
+        "title": "重生",
+        "text": "'早上好'的转变",
+        "color": "gold"
+      }
+    ]
+  }
+}

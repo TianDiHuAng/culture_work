@@ -1,0 +1,104 @@
+{
+  "id": "renjiantiantang",
+  "title": "人间天堂",
+  "original_title": "This Side of Paradise",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fitzgerald",
+  "author_name": "弗朗西斯·斯科特·菲茨杰拉德",
+  "year_display": "1920年（作者页 B050/B023 口径：人间天堂（1920））",
+  "year_sort": 1920,
+  "background": [
+    "作者页（B050/B023）：菲茨杰拉德 major_works 载'人间天堂（1920）'——其处女作（作者页定位，详见 gaicibi 条核对）。",
+    "题材（通说待核）：艾莫里的普林斯顿岁月与'自我主义者'的成长——战后美国青年的精神图谱。"
+  ],
+  "outline": [
+    "艾莫里·布莱恩：普林斯顿、战争、初恋与幻灭（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "艾莫里·布莱恩",
+      "identity": "青年",
+      "note": "自传性（通说待核）"
+    },
+    {
+      "name": "罗莎琳德",
+      "identity": "名媛",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "爵士时代的开篇（通说）。",
+    "'自我主义者'的成长（通说待核）。",
+    "普林斯顿与名媛文化（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：菲茨杰拉德处女作（B050/B023 作者页口径）。",
+      "source": "B050"
+    },
+    {
+      "text": "使24岁的作者一夜成名（通说待核）。",
+      "source": "B050"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "青春文体（诗+信+日记混合）。",
+      "1910年代大学文化。"
+    ],
+    "editions": [
+      "《人间天堂》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "菲茨杰拉德起点，先于《盖茨比》。"
+  },
+  "pending": [
+    "1920年3月出版（Scribner说）与一周售罄说待核。",
+    "艾莫里/罗莎琳德人名核对。",
+    "自传成分（作者与泽尔达）待核。"
+  ],
+  "sources": [
+    "B050",
+    "B023"
+  ],
+  "year_source": "B050",
+  "author_source": "B050",
+  "related_works": [
+    "gaicibi",
+    "yesetainrou",
+    "renshijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《人间天堂》成长结构图",
+    "cards": [
+      {
+        "title": "普林斯顿",
+        "text": "校园的诗",
+        "color": "family"
+      },
+      {
+        "title": "战争",
+        "text": "训练营的间隙",
+        "color": "plain"
+      },
+      {
+        "title": "罗莎琳德",
+        "text": "初恋的幻灭",
+        "color": "antagonist"
+      },
+      {
+        "title": "人间天堂",
+        "text": "自我的重建",
+        "color": "main"
+      }
+    ]
+  }
+}

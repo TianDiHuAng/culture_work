@@ -1,0 +1,111 @@
+{
+  "id": "sangzhongweisheerming",
+  "title": "丧钟为谁而鸣",
+  "original_title": "For Whom the Bell Tolls",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hemingway",
+  "author_name": "欧内斯特·海明威",
+  "year_display": "1940年（作者页 B051/B024 口径：丧钟为谁而鸣（1940））",
+  "year_sort": 1940,
+  "background": [
+    "作者页（B051/B024）：海明威 major_works 载'丧钟为谁而鸣（1940）'（作者页定位，详见 laorenhai 条核对）。",
+    "书名（通说待核）：出自约翰·多恩布道词'No man is an Iland'。",
+    "题材（通说待核）：西班牙内战中的美国志愿者乔丹炸桥的三天。"
+  ],
+  "outline": [
+    "炸桥任务的三天：玛丽亚、游击队、背叛（通说待核）。",
+    "结尾：乔丹等待最后的机关枪——'丧钟'的自我完成（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "罗伯特·乔丹",
+      "identity": "爆破手",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "玛丽亚",
+      "identity": "少女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "皮拉尔",
+      "identity": "游击队夫人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "国际主义与死亡（通说）。",
+    "西班牙内战的史诗化（通说待核）。",
+    "多恩的钟声：人类共同体（书名通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：海明威代表作（B051/B024 作者页口径）。",
+      "source": "B051"
+    },
+    {
+      "text": "普利策奖推荐被否（1941年——通说待核）。",
+      "source": "B051"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西班牙内战史。",
+      "西班牙语插入语。"
+    ],
+    "editions": [
+      "《丧钟为谁而鸣》（上海译文出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "海明威三连读之末。"
+  },
+  "pending": [
+    "1940年出版（Scribner说）核对。",
+    "乔丹/玛丽亚/皮拉尔人名核对。",
+    "多恩布道词出处核对。"
+  ],
+  "sources": [
+    "B051",
+    "B024"
+  ],
+  "year_source": "B051",
+  "author_source": "B051",
+  "related_works": [
+    "yongbiewuqi",
+    "taiyangzhaochangshengqi",
+    "zhanzheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《丧钟》三天结构图",
+    "cards": [
+      {
+        "title": "炸桥",
+        "text": "三天的任务",
+        "color": "main"
+      },
+      {
+        "title": "玛丽亚",
+        "text": "被救的姑娘",
+        "color": "family"
+      },
+      {
+        "title": "皮拉尔",
+        "text": "游击队的灵魂",
+        "color": "gold"
+      },
+      {
+        "title": "丧钟",
+        "text": "多恩的共同体（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

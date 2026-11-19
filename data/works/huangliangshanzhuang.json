@@ -1,0 +1,104 @@
+{
+  "id": "huangliangshanzhuang",
+  "title": "荒凉山庄",
+  "original_title": "Bleak House",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dickens",
+  "author_name": "查尔斯·狄更斯",
+  "year_display": "1853年（作者页 B120 口径：荒凉山庄（1853））",
+  "year_sort": 1853,
+  "background": [
+    "作者页（B120）：狄更斯 major_works 载'荒凉山庄（1853）'（B120 作者页定位，详见 dawei 条核对）。",
+    "题材（通说待核）：詹狄士案（Jarndyce v Jarndyce）——大法官法庭的旷日诉讼；雾与法律的双主题。"
+  ],
+  "outline": [
+    "大法官法庭的'荒凉'：詹狄士案吞噬所有人（通说待核）。",
+    "双叙述：埃丝特第一人称与全知视角交替（结构通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "埃丝特·萨默森",
+      "identity": "养女",
+      "note": "部分叙述者（通说待核）"
+    },
+    {
+      "name": "德洛克夫人",
+      "identity": "贵妇",
+      "note": "秘密（通说待核）"
+    }
+  ],
+  "themes": [
+    "法律机器的荒诞（通说）。",
+    "雾都的卫生与贫困（通说待核）。",
+    "双叙述实验（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：狄更斯代表作谱系（B120 作者页口径）。",
+      "source": "B120"
+    },
+    {
+      "text": "对大法官法庭的批判被认为推动司法改革（通说待核）。",
+      "source": "B120"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双叙述切换。",
+      "法律术语。"
+    ],
+    "editions": [
+      "《荒凉山庄》（上海译文出版社黄邦杰译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "狄更斯中后期之作。"
+  },
+  "pending": [
+    "1852—53年连载与1853年出版核对。",
+    "埃丝特/德洛克夫人人名核对。",
+    "詹狄士案原型（Jennens案）待核。"
+  ],
+  "sources": [
+    "B120"
+  ],
+  "year_source": "B120",
+  "author_source": "B120",
+  "related_works": [
+    "wudugu'er",
+    "dawei",
+    "shuangchengji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《荒凉山庄》雾法结构图",
+    "cards": [
+      {
+        "title": "大法官法庭",
+        "text": "詹狄士案（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "雾",
+        "text": "伦敦的脏雾",
+        "color": "family"
+      },
+      {
+        "title": "埃丝特",
+        "text": "第一人称的暖",
+        "color": "main"
+      },
+      {
+        "title": "德洛克",
+        "text": "秘密的夫人",
+        "color": "gold"
+      }
+    ]
+  }
+}

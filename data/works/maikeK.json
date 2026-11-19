@@ -1,0 +1,104 @@
+{
+  "id": "maikeK",
+  "title": "迈克尔·K的生活和时代",
+  "original_title": "Life & Times of Michael K",
+  "region": "南非",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "coetzee",
+  "author_name": "J.M.库切",
+  "year_display": "1983年（作者页 B161 口径：迈克尔·K的生活与时代（1983））",
+  "year_sort": 1983,
+  "background": [
+    "作者页（B161）：库切 major_works 载'迈克尔·K的生活与时代（1983）'（B161 作者页定位，详见 chi 条核对）。",
+    "获奖（通说待核）：1983年英国布克奖。",
+    "题材（通说待核）：内战中园丁迈克尔·K带母亲骨灰回乡——'园丁'的生存哲学。"
+  ],
+  "outline": [
+    "战乱中的迁徙：营地的规训与田园的南瓜（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "迈克尔·K",
+      "identity": "园丁",
+      "note": "兔唇的流浪者（通说待核）"
+    },
+    {
+      "name": "医疗官",
+      "identity": "军官",
+      "note": "想'解密'他（通说待核）"
+    }
+  ],
+  "themes": [
+    "'园丁'的生存哲学（通说待核）。",
+    "营地的规训（通说）。",
+    "无名的内战（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：库切代表作（B161 作者页口径）。",
+      "source": "B161"
+    },
+    {
+      "text": "1983年布克奖（通说待核）。",
+      "source": "B161"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "南非内战背景。",
+      "K的沉默。"
+    ],
+    "editions": [
+      "《迈克尔·K的生活和时代》（人民文学出版社/浙江文艺出版社版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《耻》后本作。"
+  },
+  "pending": [
+    "1983年出版（Ravan Press说）与布克奖核对。",
+    "迈克尔·K人名核对。",
+    "营地医疗官独白待核。"
+  ],
+  "sources": [
+    "B161"
+  ],
+  "year_source": "B161",
+  "author_source": "B161",
+  "related_works": [
+    "chi",
+    "qiyuderenmin",
+    "wajie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《迈克尔·K》迁徙结构图",
+    "cards": [
+      {
+        "title": "迁徙",
+        "text": "骨灰的归乡",
+        "color": "main"
+      },
+      {
+        "title": "营地",
+        "text": "规训的国家",
+        "color": "antagonist"
+      },
+      {
+        "title": "南瓜",
+        "text": "园丁的城池",
+        "color": "gold"
+      },
+      {
+        "title": "沉默",
+        "text": "K的抵抗",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "funiyuzuyi",
+  "title": "弗兰妮与祖伊",
+  "original_title": "Franny and Zooey",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇二部合刊",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "salinger",
+  "author_name": "J.D.塞林格",
+  "year_display": "1961年（作者页 B148 口径：弗兰妮与祖伊（1961））",
+  "year_sort": 1961,
+  "background": [
+    "作者页（B148）：塞林格 major_works 载'弗兰妮与祖伊（1961）'（B148 作者页定位，详见 maitian 条核对）。",
+    "题材（通说待核）：格拉斯家最小的两兄妹——弗兰妮的精神危机与祖伊的引导（《耶稣祈祷词》）。"
+  ],
+  "outline": [
+    "《弗兰妮》：大学周末的崩溃；《祖伊》：浴室与客厅的对话（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "弗兰妮",
+      "identity": "大学生",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "祖伊",
+      "identity": "演员",
+      "note": "引导者（通说待核）"
+    }
+  ],
+  "themes": [
+    "'耶稣祈祷词'与灵性（通说待核）。",
+    "表演与真实的对立（通说待核）。",
+    "格拉斯家族的续章（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：塞林格格拉斯系列（B148 作者页口径）。",
+      "source": "B148"
+    },
+    {
+      "text": "禅与'灵性'书写的延续（通说）。",
+      "source": "B148"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "宗教祷告词。",
+      "对话的密度。"
+    ],
+    "editions": [
+      "《弗兰妮与祖伊》（人民文学出版社/译林出版社版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "《九故事》后读。"
+  },
+  "pending": [
+    "两篇首刊（《纽约客》1955/1957说）核对。",
+    "弗兰妮/祖伊人名核对。",
+    "'耶稣祈祷词'细节待核。"
+  ],
+  "sources": [
+    "B148"
+  ],
+  "year_source": "B148",
+  "author_source": "B148",
+  "related_works": [
+    "jiugushi",
+    "maitian",
+    "shoujie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《弗兰妮与祖伊》对话结构图",
+    "cards": [
+      {
+        "title": "弗兰妮",
+        "text": "崩溃的周末",
+        "color": "main"
+      },
+      {
+        "title": "祖伊",
+        "text": "哥哥的引导",
+        "color": "family"
+      },
+      {
+        "title": "耶稣祈祷词",
+        "text": "灵性的钥匙（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "表演",
+        "text": "与真实的对立",
+        "color": "plain"
+      }
+    ]
+  }
+}
