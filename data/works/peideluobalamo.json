@@ -1,0 +1,110 @@
+{
+  "id": "peideluobalamo",
+  "title": "佩德罗·巴拉莫",
+  "original_title": "Pedro Páramo",
+  "region": "墨西哥",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "rulfo",
+  "author_name": "胡安·鲁尔福",
+  "year_display": "1955年出版（Britannica：Pedro Páramo (1955)）",
+  "year_sort": 1955,
+  "background": [
+    "Britannica：'examines the physical and moral disintegration of a laconic cacique (boss)'（写一个寡言地方强人的肉体与道德崩坏——B244）；'set in a mythical hell on earth inhabited by the dead, who are haunted by their past transgressions'（鬼魂栖居的人间地狱——B244）。",
+    "影响（B244）：'He had an enormous impact on those Latin American authors, including Gabriel García Márquez, who practiced what has come to be known as magic realism'。"
+  ],
+  "outline": [
+    "胡安·普雷西亚多寻父来到科马拉——满村亡灵的对话（通说）。",
+    "佩德罗·巴拉莫的记忆碎片与苏萨娜的悲声（通说待核）。",
+    "生死界线的消融：小说即亡灵的合唱（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "佩德罗·巴拉莫",
+      "identity": "卡西克（强人）",
+      "note": "寡言的地主（B244）"
+    },
+    {
+      "name": "胡安·普雷西亚多",
+      "identity": "寻父者",
+      "note": "私生子（通说）"
+    },
+    {
+      "name": "苏萨娜·圣胡安",
+      "identity": "爱人",
+      "note": "亡者之声（通说待核）"
+    }
+  ],
+  "themes": [
+    "亡灵的人间地狱（B244）。",
+    "强人的身体与道德崩坏（B244）。",
+    "魔幻现实主义的先声（B244：enormous impact）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：对包括马尔克斯在内的拉美魔幻现实主义作家影响巨大（B244）。",
+      "source": "B244"
+    },
+    {
+      "text": "两书立身的传奇：'essentially only two books'（B244）。",
+      "source": "B244"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "亡灵叙述——无提示的声部切换。",
+      "碎片时序。"
+    ],
+    "editions": [
+      "屠孟超译本（译林出版社，通说待核）。",
+      "西班牙文原版（FCE，通说待核）。"
+    ],
+    "order": "对照《百年孤独》：马尔克斯自称能背诵本书（通说待核）。"
+  },
+  "pending": [
+    "科马拉村名与普雷西亚多母训核对。",
+    "屠孟超译本信息核对。",
+    "马尔克斯'能背《佩德罗·巴拉莫》'轶事出处待核。"
+  ],
+  "sources": [
+    "B244"
+  ],
+  "year_source": "B244",
+  "author_source": "B244",
+  "related_works": [
+    "bainian",
+    "huoluan",
+    "youlingzhijia"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《佩德罗·巴拉莫》亡灵科马拉图",
+    "cards": [
+      {
+        "title": "寻父",
+        "text": "普雷西亚多进村",
+        "color": "family"
+      },
+      {
+        "title": "亡灵合唱",
+        "text": "生死不分（B244）",
+        "color": "main"
+      },
+      {
+        "title": "巴拉莫",
+        "text": "寡言强人的崩坏",
+        "color": "antagonist"
+      },
+      {
+        "title": "苏萨娜",
+        "text": "爱的亡音",
+        "color": "gold"
+      }
+    ]
+  }
+}

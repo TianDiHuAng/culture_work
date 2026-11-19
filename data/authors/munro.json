@@ -1,0 +1,68 @@
+{
+  "id": "munro",
+  "name": "艾丽丝·门罗",
+  "foreign_name": "Alice Munro（艾丽丝·门罗，1931-07-10—2024-05-13）",
+  "country": "加拿大",
+  "birth": 1931,
+  "death": 2024,
+  "birth_year": 1931,
+  "death_year": 2024,
+  "era": "现当代",
+  "summary": "门罗，安大略省温厄姆人，加拿大短篇小说家——以精准、抒情的笔触写普通人生活、尤其是安大略小镇的女性（Britannica）。2013年获诺贝尔文学奖：'dubbed her a master of the contemporary short story'（被誉为当代短篇大师——Britannica）；'the first Canadian to be named the Nobel literature laureate'（首位获诺贝尔文学奖的加拿大人——Britannica，贝娄1976除外）。'In Runaway (2004) Munro explores the depths of ordinary lives through the use of temporal shifts'（B246）。2024年5月13日去世（B246）。",
+  "timeline": [
+    {
+      "year": 1931,
+      "text": "7月10日生于安大略省温厄姆（Britannica：Born July 10, 1931, Wingham, Ontario）。",
+      "src": "B246"
+    },
+    {
+      "year": 1968,
+      "text": "首部集《快乐阴影之舞》出版（Britannica：Dance of the Happy Shades (1968)）。",
+      "src": "B246"
+    },
+    {
+      "year": 2004,
+      "text": "《逃离》出版（Britannica：Runaway (2004)）。",
+      "src": "B246"
+    },
+    {
+      "year": 2013,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 2013）。",
+      "src": "B246"
+    },
+    {
+      "year": 2024,
+      "text": "5月13日卒于安大略（Britannica：Died May 13, 2024, Port Hope, Ontario）。",
+      "src": "B246"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "taoli",
+      "note": "短篇集（Britannica：2004）"
+    },
+    {
+      "title": "快乐阴影之舞、亲爱的生活",
+      "note": "（Britannica 存目）"
+    },
+    {
+      "title": "女孩和女人们的生活",
+      "note": "（Britannica 存目）"
+    }
+  ],
+  "style": [
+    "'当代短篇大师'（Britannica：master of the contemporary short story）。",
+    "以时间跳跃探入普通生活的深处（Britannica：temporal shifts）。",
+    "安大略西南小镇的社会文化肌理（Britannica：social and cultural environment of her native southwestern Ontario）。"
+  ],
+  "status": "Britannica 定位门罗为2013年诺贝尔文学奖得主、首位加拿大获奖者（除1976年贝娄外）；其女2024年披露的家庭事件成为身后新闻（B246：daughter's revelation reported July 2024）。",
+  "sources": [
+    "B246"
+  ],
+  "dates_source": "B246",
+  "pending": [
+    "《逃离》八个短篇篇名核对。",
+    "'master of the contemporary short story'系瑞典学院授奖词（Britannica 已载）原文核对。",
+    "女儿披露事件（2024年7月报道）与文学评价的关系待核。"
+  ]
+}

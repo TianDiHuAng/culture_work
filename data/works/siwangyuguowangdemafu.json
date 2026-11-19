@@ -1,0 +1,110 @@
+{
+  "id": "siwangyuguowangdemafu",
+  "title": "死亡与国王的马夫",
+  "original_title": "Death and the King's Horseman",
+  "region": "尼日利亚",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "悲剧（话剧）",
+  "genre_group": "戏剧",
+  "language": "英语（约鲁巴语境）",
+  "author_id": "soyinka",
+  "author_name": "沃莱·索因卡",
+  "year_display": "1975年出版/上演（Britannica：Death and the King's Horseman (1975)）",
+  "year_sort": 1975,
+  "background": [
+    "Britannica：索因卡为'first Black African winner of the Nobel Prize for Literature in 1986'，授奖词称其作品'vivid, often harrowing'、'marked by an evocative, poetically intensified diction'（B247）。",
+    "题材：约鲁巴仪式性自杀传统与殖民当局的干涉（通说待核）。",
+    "作者：戏剧'blend Western techniques with Yoruba folklore'（B247）；1967—69年因比夫拉战争言论入狱（B247）。"
+  ],
+  "outline": [
+    "约鲁巴国王的马夫艾雷辛须在国王下葬后自尽护送——殖民区行政官皮顶斯以'阻止野蛮习俗'之名干涉（通说待核）。",
+    "死亡仪式的失败与'过渡'的失败（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "艾雷辛（Elesin）",
+      "identity": "国王马夫",
+      "note": "仪式执行者（通说待核）"
+    },
+    {
+      "name": "皮顶斯（Pilkings）",
+      "identity": "殖民行政官",
+      "note": "干涉者（通说待核）"
+    },
+    {
+      "name": "奥伦蒂",
+      "identity": "儿子",
+      "note": "在英国归来（通说待核）"
+    }
+  ],
+  "themes": [
+    "仪式、共同体与个体的责任（通说待核）。",
+    "殖民干涉与'文明'的傲慢（通说）。",
+    "生死'过渡'（transition）的形而上（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：首位黑非洲诺奖得主；作品'vivid, often harrowing'（B247）。",
+      "source": "B247"
+    },
+    {
+      "text": "后殖民戏剧的经典文本（通说待核）。",
+      "source": "B247"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "约鲁巴宇宙观与奥甘诸神注释。",
+      "诗性行白的节奏。"
+    ],
+    "editions": [
+      "英文原版（Methuen，通说待核）。",
+      "中译本信息待核。"
+    ],
+    "order": "对照《瓦解》：殖民遭遇的两种写法。"
+  },
+  "pending": [
+    "艾雷辛/奥伦蒂人名与史实原型（1943年约鲁巴事件说）待核。",
+    "四幕结构与'过渡'主题评论待核。",
+    "皮顶斯夫妇化装舞会情节核对。"
+  ],
+  "sources": [
+    "B247"
+  ],
+  "year_source": "B247",
+  "author_source": "B247",
+  "related_works": [
+    "wajie",
+    "banlunhuangri",
+    "chi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《死亡与国王的马夫》仪式结构图",
+    "cards": [
+      {
+        "title": "仪式",
+        "text": "马夫的义务",
+        "color": "main"
+      },
+      {
+        "title": "干涉",
+        "text": "殖民者的'文明'",
+        "color": "antagonist"
+      },
+      {
+        "title": "失败",
+        "text": "过渡的断裂",
+        "color": "gold"
+      },
+      {
+        "title": "二代",
+        "text": "归国儿子的代价",
+        "color": "family"
+      }
+    ]
+  }
+}

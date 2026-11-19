@@ -1,0 +1,103 @@
+{
+  "id": "taoli",
+  "title": "逃离",
+  "original_title": "Runaway",
+  "region": "加拿大",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "munro",
+  "author_name": "艾丽丝·门罗",
+  "year_display": "2004年出版（Britannica：Runaway (2004)）",
+  "year_sort": 2004,
+  "background": [
+    "Britannica：'In Runaway (2004) Munro explores the depths of ordinary lives through the use of temporal shifts'（以时间跳跃探入普通生活的深处——B246）。",
+    "作者（B246）：2013年诺贝尔文学奖——'master of the contemporary short story'（当代短篇大师）；'the first Canadian to be named the Nobel literature laureate'。"
+  ],
+  "outline": [
+    "八篇故事（篇数通说待核）：卡拉的出走与回归、《机缘》三部曲的朱丽叶线等（通说待核）。",
+    "'逃离'的多种形态：婚姻、母亲身份、记忆（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "卡拉",
+      "identity": "马场主妇",
+      "note": "《逃离》篇（通说待核）"
+    },
+    {
+      "name": "朱丽叶",
+      "identity": "学者",
+      "note": "《机缘》三部曲（通说待核）"
+    }
+  ],
+  "themes": [
+    "普通生活的深处（B246：depths of ordinary lives）。",
+    "女性的出走与折返（通说）。",
+    "安大略西南的社会文化环境（B246：native southwestern Ontario）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'master of the contemporary short story'；2009布克国际奖（B246）。",
+      "source": "B246"
+    },
+    {
+      "text": "短篇文体的当代尊严：门罗让'短篇'进入诺奖叙事（通说）。",
+      "source": "B246"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "时间跳跃的叙事（B246）。",
+      "开放式结局的克制。"
+    ],
+    "editions": [
+      "《逃离》（北京十月文艺出版社，通说待核）。"
+    ],
+    "order": "先读《逃离》篇 →《机缘》三部曲 → 其余。"
+  },
+  "pending": [
+    "八篇篇目核对。",
+    "《机缘》《很快》《沉寂》三部曲标题核对。",
+    "朱丽叶线人物名核对。"
+  ],
+  "sources": [
+    "B246"
+  ],
+  "year_source": "B246",
+  "author_source": "B246",
+  "related_works": [
+    "qingzhong",
+    "changri",
+    "shengmingce"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《逃离》出走—回归结构图",
+    "cards": [
+      {
+        "title": "卡拉出走",
+        "text": "巴士上的犹疑",
+        "color": "main"
+      },
+      {
+        "title": "回归",
+        "text": "婚姻的惯性",
+        "color": "antagonist"
+      },
+      {
+        "title": "朱丽叶线",
+        "text": "机缘三部曲",
+        "color": "family"
+      },
+      {
+        "title": "时间跳跃",
+        "text": "门罗方法（B246）",
+        "color": "gold"
+      }
+    ]
+  }
+}

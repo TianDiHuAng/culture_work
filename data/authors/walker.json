@@ -1,0 +1,63 @@
+{
+  "id": "walker",
+  "name": "艾丽斯·沃克",
+  "foreign_name": "Alice Walker（艾丽斯·沃克，1944-02-09— ）",
+  "country": "美国",
+  "birth": 1944,
+  "death": null,
+  "birth_year": 1944,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "沃克，佐治亚州伊顿顿人，美国作家——其小说、诗与随笔探索非裔美国文化尤其是女性生活（Britannica）；'she became the first Black woman to win the Pulitzer Prize for fiction'（凭《紫色》（1982）成为首位获小说类普利策奖的黑人女性——Britannica）。书信体小说写1909—1947年佐治亚农村黑人女性的成长与自我实现；'The book won a Pulitzer Prize and was adapted into a film by Steven Spielberg in 1985'（B245）。争议：'some African American men strongly objected to the perceived negative portrayal of Black men'（B245）。",
+  "timeline": [
+    {
+      "year": 1944,
+      "text": "2月9日生于佐治亚州伊顿顿（Britannica：Born February 9, 1944, Eatonton, Georgia）。",
+      "src": "B245"
+    },
+    {
+      "year": 1982,
+      "text": "《紫色》出版（Britannica：The Color Purple (1982)）。",
+      "src": "B245"
+    },
+    {
+      "year": 1983,
+      "text": "获普利策小说奖与美国国家图书奖（Britannica：Pulitzer and National Book Awards (1983)）。",
+      "src": "B245"
+    },
+    {
+      "year": 1985,
+      "text": "斯皮尔伯格改编电影（Britannica：adapted into a film by Steven Spielberg in 1985）。",
+      "src": "B245"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zise",
+      "note": "长篇（Britannica：1982）"
+    },
+    {
+      "title": "梅里迪安、拥有快乐的秘密",
+      "note": "（Britannica 存目）"
+    },
+    {
+      "title": " search of our mothers' gardens",
+      "note": "文集（通说待核）"
+    }
+  ],
+  "style": [
+    "书信体与黑人英语方言（Britannica：Black English Vernacular 语境）。",
+    "'妇女主义'（womanism）概念的提出者（Britannica：womanist criticism 语境）。",
+    " Celie 的上帝观转变（Britannica：Celie's changing views of God）。"
+  ],
+  "status": "Britannica 定位沃克为首位获普利策小说奖的黑人女性（B245）；《紫色》对黑人男性形象描写的争议与作者的回应均有记载（B245）。",
+  "sources": [
+    "B245"
+  ],
+  "dates_source": "B245",
+  "pending": [
+    "womanist 概念出处（In Search of Our Mothers' Gardens，1983）核对。",
+    "书名 mid-transcription（In Search of Our Mothers' Gardens）核对。",
+    "音乐剧2004/2005与2023电影改编（Britannica 已载）核对。"
+  ]
+}

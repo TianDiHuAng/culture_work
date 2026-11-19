@@ -1,0 +1,104 @@
+{
+  "id": "yueliangyuliupian",
+  "title": "月亮与六便士",
+  "original_title": "The Moon and Sixpence",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "maugham",
+  "author_name": "威廉·萨默塞特·毛姆",
+  "year_display": "1919年出版（Britannica：The Moon and Sixpence (1919)）",
+  "year_sort": 1919,
+  "background": [
+    "Britannica：'an account of an unconventional artist, suggested by the life of Paul Gauguin'（以保罗·高更的生平为原型的离经叛道艺术家故事——B248）。",
+    "Britannica：'Maugham's reputation as a novelist rests primarily on four books'（B248）。"
+  ],
+  "outline": [
+    "证券经纪人思特里克兰德中年抛家弃业奔赴巴黎学画，终死于塔希提——以高更生平为原型（Britannica+通说）。",
+    "叙述者'我'的双重视角：道德谴责与艺术敬畏（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "思特里克兰德",
+      "identity": "画家",
+      "note": "以高更为原型（Britannica）"
+    },
+    {
+      "name": "我（作家）",
+      "identity": "叙述者",
+      "note": "毛姆式的旁观者"
+    }
+  ],
+  "themes": [
+    "月亮（艺术）与六便士（世俗）的选择（书名通说）。",
+    "艺术家对伦理秩序的破坏与救赎（通说）。",
+    "旁观者的克制叙事（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：《月亮与六便士》为毛姆声誉四书之一（B248）。",
+      "source": "B248"
+    },
+    {
+      "text": "艺术家小说的通俗经典：后世大量改编与再阐释（通说待核）。",
+      "source": "B248"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "叙述者的道德立场——毛姆的反讽。",
+      "高更生平对照（勿等同）。"
+    ],
+    "editions": [
+      "傅惟慈译本（上海译文出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "对照《人性的枷锁》：毛姆的两条成长线。"
+  },
+  "pending": [
+    "书名典故（毛姆自嘲说）待核。",
+    "傅惟慈译本信息核对。",
+    "塔希提段落与高更实际行程的差异待核。"
+  ],
+  "sources": [
+    "B248"
+  ],
+  "year_source": "B248",
+  "author_source": "B248",
+  "related_works": [
+    "laorenhai",
+    "daolian",
+    "baijing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《月亮与六便士》抉择结构图",
+    "cards": [
+      {
+        "title": "抛家弃业",
+        "text": "40岁的出走",
+        "color": "antagonist"
+      },
+      {
+        "title": "巴黎贫病",
+        "text": "艺术的修行",
+        "color": "family"
+      },
+      {
+        "title": "塔希提",
+        "text": "最后的画布",
+        "color": "main"
+      },
+      {
+        "title": "月亮与六便士",
+        "text": "两种价值（书名通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

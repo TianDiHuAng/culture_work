@@ -1,0 +1,68 @@
+{
+  "id": "maugham",
+  "name": "威廉·萨默塞特·毛姆",
+  "foreign_name": "W. Somerset Maugham（威廉·萨默塞特·毛姆，1874-01-25—1965-12-16）",
+  "country": "英国",
+  "birth": 1874,
+  "death": 1965,
+  "birth_year": 1874,
+  "death_year": 1965,
+  "era": "现当代",
+  "summary": "毛姆，生于巴黎的英国小说家、剧作家与短篇小说家（Britannica），以平实清晰的白描、世界主义的场景与对人性的敏锐洞察著称（Britannica 语境：plain, clear prose, cosmopolitan settings, and sharp insight into human nature）。'Maugham's reputation as a novelist rests primarily on four books'（小说家声誉主要建立在四部书上——Britannica）：《人性的枷锁》（1915）、《月亮与六便士》（1919）等。1908年四部剧同时在伦敦上演（Britannica：four plays running in London at once）。",
+  "timeline": [
+    {
+      "year": 1874,
+      "text": "1月25日生于巴黎（Britannica：Born January 25, 1874, Paris）。",
+      "src": "B248"
+    },
+    {
+      "year": 1908,
+      "text": "四部剧同时在伦敦上演（Britannica：four plays running in London at once）。",
+      "src": "B248"
+    },
+    {
+      "year": 1915,
+      "text": "《人性的枷锁》出版（Britannica：Of Human Bondage (1915)）。",
+      "src": "B248"
+    },
+    {
+      "year": 1919,
+      "text": "《月亮与六便士》出版（Britannica：The Moon and Sixpence (1919)）。",
+      "src": "B248"
+    },
+    {
+      "year": 1965,
+      "text": "12月16日卒于尼斯（Britannica：Died December 16?, 1965, Nice；部分传记作15日）。",
+      "src": "B248"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yueliangyuliupian",
+      "note": "长篇（Britannica：1919）"
+    },
+    {
+      "title": "人性的枷锁",
+      "note": "（Britannica：1915 半自传）"
+    },
+    {
+      "title": "刀锋、短篇集",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "白描的冷静叙事（Britannica：plain, clear prose）。",
+    "世界主义场景与人性洞察（Britannica 语境）。",
+    "以真实画家（高更）为原型的艺术家小说（Britannica：suggested by the life of Paul Gauguin）。"
+  ],
+  "status": "Britannica 定位毛姆为英国小说家剧作家短篇家，小说声誉建于四部书（含《月亮与六便士》《人性的枷锁》）；'最会说故事的人'之誉（通说待核）。",
+  "sources": [
+    "B248"
+  ],
+  "dates_source": "B248",
+  "pending": [
+    "卒年12月15/16日分歧（Britannica 已载?）核对。",
+    "《刀锋》1944年待核。",
+    "'最会说故事的人'评语出处待核。"
+  ]
+}

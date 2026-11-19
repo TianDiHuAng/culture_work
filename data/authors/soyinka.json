@@ -1,0 +1,63 @@
+{
+  "id": "soyinka",
+  "name": "沃莱·索因卡",
+  "foreign_name": "Wole Soyinka（沃莱·索因卡，1934-07-13— ）",
+  "country": "尼日利亚",
+  "birth": 1934,
+  "death": null,
+  "birth_year": 1934,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "索因卡，尼日利亚阿贝奥库塔人，剧作家、诗人与政治活动家——'the first Black African winner of the Nobel Prize for Literature in 1986'（首位获诺贝尔文学奖的黑非洲作家——Britannica）；授奖词称其作品'vivid, often harrowing'、'marked by an evocative, poetically intensified diction'（B247）。戏剧融合西方技巧与约鲁巴民间传统（Britannica）。1967—69年因比夫拉战争言论入狱并在狱中写《狱中诗》（Britannica：jailed in 1967–69 for speaking out against the war）。",
+  "timeline": [
+    {
+      "year": 1934,
+      "text": "7月13日生于阿贝奥库塔（Britannica：Born July 13, 1934, Abeokuta, Nigeria）。",
+      "src": "B247"
+    },
+    {
+      "year": 1960,
+      "text": "《森林之舞》上演（Britannica：A Dance of the Forests produced 1960）。",
+      "src": "B247"
+    },
+    {
+      "year": 1975,
+      "text": "《死亡与国王的马夫》出版/上演（Britannica：Death and the King's Horseman (1975)）。",
+      "src": "B247"
+    },
+    {
+      "year": 1986,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize for Literature 1986）。",
+      "src": "B247"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "siwangyuguowangdemafu",
+      "note": "悲剧（Britannica：1975）"
+    },
+    {
+      "title": "森林之舞、疯人与专家",
+      "note": "（Britannica 存目）"
+    },
+    {
+      "title": "人死了（狱中记）",
+      "note": "（Britannica：The Man Died 1972）"
+    }
+  ],
+  "style": [
+    "约鲁巴神话与现代剧场的融合（Britannica：blend Western techniques with Yoruba folklore）。",
+    "'evocative, poetically intensified diction'（Britannica 授奖词）。",
+    "政治正义的终生行动（Britannica：decades of activism against political injustice）。"
+  ],
+  "status": "Britannica 定位索因卡为首位黑非洲诺贝尔文学奖得主（1986）；《死亡与国王的马夫》为其代表作（B247）。",
+  "sources": [
+    "B247"
+  ],
+  "dates_source": "B247",
+  "pending": [
+    "《死亡与国王的马夫》主题（约鲁巴自杀仪式/殖民干涉）细节待核。",
+    "1965年奈保尔？——不：1965年电台事件待核。",
+    "2021年《地球 happiest 人们的编年史》（Britannica 已载）核对。"
+  ]
+}

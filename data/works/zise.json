@@ -1,0 +1,110 @@
+{
+  "id": "zise",
+  "title": "紫色",
+  "original_title": "The Color Purple",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "walker",
+  "author_name": "艾丽斯·沃克",
+  "year_display": "1982年出版（Britannica：The Color Purple (1982)）",
+  "year_sort": 1982,
+  "background": [
+    "Britannica：沃克为'first Black woman to win the Pulitzer Prize for fiction'（凭本作，1983年普利策奖+国家图书奖——B245）。",
+    "书信体：'An epistolary novel, it depicts the growing up and self-realization of an African American woman between 1909 and 1947' in rural Georgia（B245）。",
+    "争议（B245）：'some African American men strongly objected to the perceived negative portrayal of Black men'。"
+  ],
+  "outline": [
+    "西丽（Celie）写给上帝与妹妹耐蒂的信——从受害到自我实现（Britannica 语境+通说）。",
+    "莎格对西丽的爱的启蒙；'survives rape and abuse at the hands of her father and husband'（B245）。",
+    "'Celie's changing views of God'——上帝观的转变（B245）。"
+  ],
+  "characters": [
+    {
+      "name": "西丽（Celie）",
+      "identity": "书信作者",
+      "note": "成长的主人公（B245）"
+    },
+    {
+      "name": "莎格",
+      "identity": "歌女",
+      "note": "爱的启蒙者（通说）"
+    },
+    {
+      "name": "耐蒂",
+      "identity": "妹妹",
+      "note": "非洲来信（通说待核）"
+    }
+  ],
+  "themes": [
+    "黑人女性的自我实现（B245：self-realization）。",
+    "黑人英语方言与书信体（B245：Black English Vernacular）。",
+    "上帝观的转变与'妇女主义'（B245；womanist——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：首位黑人女性普利策小说奖；斯皮尔伯格1985年电影（B245）。",
+      "source": "B245"
+    },
+    {
+      "text": "黑人男性形象描写的争议与其回应——评论史的焦点（B245）。",
+      "source": "B245"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "方言书信体。",
+      "争议阅读：女性主义与黑人社群内部的讨论（B245）。"
+    ],
+    "editions": [
+      "《紫色》（译林出版社/北京十月文艺出版社版本，通说待核）。"
+    ],
+    "order": "对照《宠儿》：黑人女性叙事的两代。"
+  },
+  "pending": [
+    "西丽/耐蒂/莎格人名核对。",
+    "普利策与国家图书奖（1983）核对（B245 已载）。",
+    "womanist 定义句（沃克答《纽约时报》——B245 已载）核对。"
+  ],
+  "sources": [
+    "B245"
+  ],
+  "year_source": "B245",
+  "author_source": "B245",
+  "related_works": [
+    "chonger",
+    "shinv",
+    "dierxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《紫色》书信成长图",
+    "cards": [
+      {
+        "title": "写给上帝",
+        "text": "最初的信",
+        "color": "family"
+      },
+      {
+        "title": "莎格",
+        "text": "爱的启蒙",
+        "color": "main"
+      },
+      {
+        "title": "上帝观",
+        "text": "转变（B245）",
+        "color": "gold"
+      },
+      {
+        "title": "重聚",
+        "text": "自我实现",
+        "color": "plain"
+      }
+    ]
+  }
+}
