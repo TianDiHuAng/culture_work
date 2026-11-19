@@ -17,6 +17,18 @@ blockquote{margin:0;padding:2px 12px;border-left:3px solid var(--line);color:#5c
 .fig{margin:26px 0;text-align:center}
 .fig img{max-width:100%;border:1px solid var(--line);border-radius:10px}
 .fig .cap{color:var(--muted);font-size:13px;margin-top:6px}
+/* 封面墙 */
+.covergrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(158px,1fr));gap:22px 18px;margin:20px 0}
+.covercard{display:block;color:inherit;text-decoration:none}
+.covercard img{width:100%;aspect-ratio:400/560;object-fit:cover;border-radius:3px 9px 9px 3px;box-shadow:2px 4px 10px rgba(60,48,30,.28),0 1px 3px rgba(60,48,30,.35);transition:transform .18s ease,box-shadow .18s ease}
+.covercard:hover img{transform:translateY(-4px);box-shadow:3px 9px 18px rgba(60,48,30,.38)}
+.covercard .ctitle{margin-top:9px;font-size:14px;line-height:1.45;overflow:hidden}
+.covercard .cauthor{color:var(--muted);font-size:12px}
+/* 作品页头部书封 */
+.hero{display:flex;gap:26px;align-items:flex-start;margin:8px 0 6px}
+.hero .hero-cover{width:186px;flex:0 0 186px;border-radius:3px 9px 9px 3px;box-shadow:3px 6px 16px rgba(60,48,30,.32)}
+.hero h1{margin:.1em 0 .3em}
+@media (max-width:560px){.hero{flex-direction:column}.hero .hero-cover{width:150px;flex-basis:150px}}
 .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 18px;margin:14px 0}
 .filters{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 20px}
 .filters select,.filters input{padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:#fff;font-size:14px}

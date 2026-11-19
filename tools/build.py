@@ -6,6 +6,7 @@ import json, pathlib, html, sys, shutil
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from svggen import render
+from covers import render_cover
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA, SITE = ROOT / "data", ROOT / "site"
@@ -35,6 +36,18 @@ blockquote{margin:0;padding:2px 12px;border-left:3px solid var(--line);color:#5c
 .fig{margin:26px 0;text-align:center}
 .fig img{max-width:100%;border:1px solid var(--line);border-radius:10px}
 .fig .cap{color:var(--muted);font-size:13px;margin-top:6px}
+/* 封面墙 */
+.covergrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(158px,1fr));gap:22px 18px;margin:20px 0}
+.covercard{display:block;color:inherit;text-decoration:none}
+.covercard img{width:100%;aspect-ratio:400/560;object-fit:cover;border-radius:3px 9px 9px 3px;box-shadow:2px 4px 10px rgba(60,48,30,.28),0 1px 3px rgba(60,48,30,.35);transition:transform .18s ease,box-shadow .18s ease}
+.covercard:hover img{transform:translateY(-4px);box-shadow:3px 9px 18px rgba(60,48,30,.38)}
+.covercard .ctitle{margin-top:9px;font-size:14px;line-height:1.45;overflow:hidden}
+.covercard .cauthor{color:var(--muted);font-size:12px}
+/* 作品页头部书封 */
+.hero{display:flex;gap:26px;align-items:flex-start;margin:8px 0 6px}
+.hero .hero-cover{width:186px;flex:0 0 186px;border-radius:3px 9px 9px 3px;box-shadow:3px 6px 16px rgba(60,48,30,.32)}
+.hero h1{margin:.1em 0 .3em}
+@media (max-width:560px){.hero{flex-direction:column}.hero .hero-cover{width:150px;flex-basis:150px}}
 .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 18px;margin:14px 0}
 .filters{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 20px}
 .filters select,.filters input{padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:#fff;font-size:14px}
@@ -111,9 +124,14 @@ def work_page(w, authors, sources, works):
     aid = w.get("author_id")
     author_html = esc(w.get("author_name", "")) if not aid else f'<a href="../authors/{aid}.html">{esc(authors[aid]["name"])}</a>' if aid in authors else esc(w.get("author_name", ""))
     body = [f'<div class="crumb"><a href="../index.html">首页</a> › <a href="../works.html">作品总览</a> › {esc(w["title"])}</div>']
-    body.append(f"<h1>{esc(w['title'])}</h1>")
+    body.append('<div class="hero">')
+    body.append(f'<img class="hero-cover" src="../assets/covers/{w["id"]}.svg" alt="{esc(w["title"])}书封（程序化生成）">')
+    info = [f"<h1>{esc(w['title'])}</h1>"]
     if w.get("original_title") and w["original_title"] != w["title"]:
-        body.append(f'<p class="meta">又名：{esc(w["original_title"])}</p>')
+        info.append(f'<p class="meta">又名：{esc(w["original_title"])}</p>')
+    info.append(f'<p class="meta">{author_html} · {esc(w.get("year_display",""))} · {esc(w["region"])} · {esc(w["genre"])}</p>')
+    body.append('<div class="hero-info">' + "\n".join(info) + "</div>")
+    body.append("</div>")
     rows = [
         ("作者", author_html + (f'（{esc(w["co_authors"])}）' if w.get("co_authors") else "")),
         ("成书/出版", esc(w.get("year_display", "")) + f' <span class="src">{src_ref(w["year_source"], sources)}</span>'),
@@ -219,21 +237,29 @@ def work_card(w, prefix="works/"):
             f'data-group="{esc(w["genre_group"])}"><h3><a href="{prefix}{w["id"]}.html">{esc(w["title"])}</a></h3>'
             f'<div class="meta">{esc(w.get("author_name",""))} · {esc(w.get("year_display",""))}</div><div style="margin-top:6px">{tags}</div></div>')
 
+def cover_card(w, prefix="works/", base="assets/covers/"):
+    img = f"{base}{w['id']}.svg"
+    return (f'<a class="covercard work-item" data-region="{esc(w["region"])}" data-era="{esc(w["era"])}" '
+            f'data-group="{esc(w["genre_group"])}" href="{prefix}{w["id"]}.html">'
+            f'<img src="{img}" alt="{esc(w["title"])}书封（程序化生成）" loading="lazy">'
+            f'<div class="ctitle">{esc(w["title"])}</div>'
+            f'<div class="cauthor">{esc(w.get("author_name",""))} · {esc(str(w.get("year_sort","")))}</div></a>')
+
 def overview_page(works, sources):
-    items = "".join(work_card(w) for w in sorted(works.values(), key=lambda x: x.get("year_sort", 0)))
+    items = "".join(cover_card(w) for w in sorted(works.values(), key=lambda x: x.get("year_sort", 0)))
     regions = sorted({w["region"] for w in works.values()})
     groups = sorted({w["genre_group"] for w in works.values()})
     opts_r = "".join(f'<option value="{esc(r)}">{esc(r)}</option>' for r in regions)
     opts_g = "".join(f'<option value="{esc(g)}">{esc(g)}</option>' for g in groups)
     body = f"""<h1>作品总览</h1>
-<p class="meta">共 {len(works)} 部（中外各 30）。可按国别、时代、体裁筛选；不选即全部显示。禁用 JavaScript 时显示完整列表。</p>
+<p class="meta">共 {len(works)} 部。封面为程序化生成的复古书卷风示意书封（按国别/时代配色、竖排书名、年代朱印）。可按国别、时代、体裁筛选；不选即全部显示。</p>
 <div class="filters">
 <label>国别 <select id="f-region"><option value="">全部</option>{opts_r}</select></label>
 <label>时代 <select id="f-era"><option value="">全部</option><option value="古代">古代</option><option value="近代">近代</option><option value="现当代">现当代</option></select></label>
 <label>体裁 <select id="f-group"><option value="">全部</option>{opts_g}</select></label>
 <label>搜索 <input id="f-q" type="search" placeholder="书名/作者"></label>
 </div>
-<div class="worklist">{items}</div>
+<div class="covergrid">{items}</div>
 <script>
 (function(){{
  function apply(){{
@@ -286,20 +312,24 @@ def index_page(works, authors, sources):
     era_cn = {}
     for w in works.values():
         era_cn[w["era"]] = era_cn.get(w["era"], 0) + 1
+    sorted_w = sorted(works.values(), key=lambda x: x.get("year_sort", 0))
+    featured = [w for w in sorted_w if w["id"] in (
+        "shijing", "chuci", "honglou", "nahan", "santi", "iliad", "shenqu", "hamlet",
+        "zhanzheng", "bainian", "nuoweide", "annakaleni")][:12]
     body = f"""<h1>中外文学名著导读库</h1>
-<p>本库收录 60 部中外文学名著（中国 30 部、外国 30 部），覆盖古代、近代与现当代。每部作品含八个固定栏目：基本信息、创作背景、内容脉络、主要人物表、主题与艺术特点、影响与评论（每条注明出处）、阅读建议与待核实事项；并配一张人物关系图或主题结构图。</p>
+<p>本库收录 {len(works)} 部中外文学名著（中国 {len(cn)} 部、外国 {len(fr)} 部，{len({w['region'] for w in works.values()})} 个国家/地区），覆盖古代、近代与现当代。每部作品含八个固定栏目：基本信息、创作背景、内容脉络、主要人物表、主题与艺术特点、影响与评论（每条注明出处）、阅读建议与待核实事项；并配一张程序化生成的书封、一幅人物关系图或主题结构图。</p>
 <p><b>收录统计</b>：作品 {len(works)} 部（中国 {len(cn)} · 外国 {len(fr)}）；作家页 {len(authors)} 篇；已核来源 {sum(1 for s in sources.values() if s.get('verified'))} 条。
 时代分布：古代 {era_cn.get('古代',0)} · 近代 {era_cn.get('近代',0)} · 现当代 {era_cn.get('现当代',0)}。</p>
 <h2>开始浏览</h2>
 <ul>
-<li><a href="works.html">作品总览</a> — 按国别、时代、体裁筛选全部 60 部作品</li>
+<li><a href="works.html">作品总览</a> — 书封墙展示全部 {len(works)} 部作品，按国别、时代、体裁筛选</li>
 <li><a href="authors.html">作家索引</a> — 按国别分组浏览 {len(authors)} 位作家</li>
-<li><a href="timeline.html">文学史时间线</a> — 从《诗经》到《三体》的 60 个坐标</li>
+<li><a href="timeline.html">文学史时间线</a> — 从《诗经》到《三体》的 {len(works)} 个坐标</li>
 <li><a href="about.html">关于本库</a> — 收录原则、来源与版权说明</li>
 </ul>
-<h2>作品速览</h2>
-<div class="worklist">{''.join(work_card(w) for w in sorted(works.values(), key=lambda x: x.get('year_sort', 0))[:8])}</div>
-<p class="meta"><a href="works.html">查看全部 →</a></p>"""
+<h2>书封速览</h2>
+<div class="covergrid">{''.join(cover_card(w) for w in featured)}</div>
+<p class="meta"><a href="works.html">查看全部 {len(works)} 部 →</a></p>"""
     return page("首页", body)
 
 def about_page(works, sources):
@@ -326,10 +356,12 @@ def main():
     (SITE / "works").mkdir(parents=True, exist_ok=True)
     (SITE / "authors").mkdir(parents=True, exist_ok=True)
     (SITE / "assets" / "svg").mkdir(parents=True, exist_ok=True)
+    (SITE / "assets" / "covers").mkdir(parents=True, exist_ok=True)
     (SITE / "style.css").write_text(CSS, encoding="utf-8")
 
     for w in works.values():
         (SITE / "works" / f"{w['id']}.html").write_text(work_page(w, authors, sources, works), encoding="utf-8")
+        (SITE / "assets" / "covers" / f"{w['id']}.svg").write_text(render_cover(w), encoding="utf-8")
     for a in authors.values():
         (SITE / "authors" / f"{a['id']}.html").write_text(author_page(a, works, sources), encoding="utf-8")
 

@@ -5,7 +5,7 @@
 """
 import math
 
-FONT_STACK = '"Segoe UI","Microsoft YaHei","PingFang SC",sans-serif'
+FONT_STACK = "'Segoe UI','Microsoft YaHei','PingFang SC',sans-serif"
 
 # ---------- 文本宽度估算（中文≈1em，英文/数字≈0.6em） ----------
 
