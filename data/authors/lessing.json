@@ -1,0 +1,68 @@
+{
+  "id": "lessing",
+  "name": "多丽丝·莱辛",
+  "foreign_name": "Doris Lessing（多丽丝·莱辛，1919-10-22—2013-11-17）",
+  "country": "英国",
+  "birth": 1919,
+  "death": 2013,
+  "birth_year": 1919,
+  "death_year": 2013,
+  "era": "现当代",
+  "summary": "莱辛，生于波斯（今伊朗）克尔曼沙阿、长于南罗得西亚（今津巴布韦），英国作家（Britannica：British writer, born in Persia and raised in Southern Rhodesia）。'其小说与短篇关注卷入20世纪社会政治动荡的个人'（Britannica：largely concerned with people involved in the social and political upheavals of the 20th century）。《金色笔记》（1962）——'一位女作家试图与她的时代生活和解'（Britannica：in which a woman writer attempts to come to terms with the life of her times）。2007年获诺贝尔文学奖（Britannica），时年88岁为最年长诺奖文学得主（通说待核）。",
+  "timeline": [
+    {
+      "year": 1919,
+      "text": "生于波斯克尔曼沙阿（Britannica：Born October 22, 1919, Kermānshāh, Persia）。",
+      "src": "B212"
+    },
+    {
+      "year": 1949,
+      "text": "移居英国，携《野草在歌唱》手稿（通说待核）。",
+      "src": "B212"
+    },
+    {
+      "year": 1962,
+      "text": "《金色笔记》出版（Britannica：The Golden Notebook (1962)）。",
+      "src": "B212"
+    },
+    {
+      "year": 2007,
+      "text": "获诺贝尔文学奖（Britannica：She was awarded the Nobel Prize for Literature in 2007）。",
+      "src": "B212"
+    },
+    {
+      "year": 2013,
+      "text": "卒于伦敦（Britannica：Died November 17, 2013, London）。",
+      "src": "B212"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jinsebiji",
+      "note": "长篇（Britannica：1962）"
+    },
+    {
+      "title": "野草在歌唱",
+      "note": "1950年（通说待核）"
+    },
+    {
+      "title": "玛莎·奎斯特五部曲、拉格泰姆系列",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "社会政治关怀与心理深度的结合（Britannica：social and political upheavals）。",
+    "形式实验：《金色笔记》以四色笔记+自由文本的结构拼贴（通说）。",
+    "女性经验的书写：'自由女性'主题（通说；莱辛本人对被标签化持保留态度——通说待核）。"
+  ],
+  "status": "Britannica 定位莱辛为英国作家、2007年诺奖得主；《金色笔记》被广泛视为女性主义文本与形式实验的双重经典（通说待核；亦被诺奖授奖词以'史诗性的女性经验书写者'定位——引文待核）。",
+  "sources": [
+    "B212"
+  ],
+  "dates_source": "B212",
+  "pending": [
+    "《野草在歌唱》1950年出版待核。",
+    "诺奖授奖词'epistemic'评语原文待核。",
+    "苏菲神秘主义研究（苏非派时期）细节待核。"
+  ]
+}

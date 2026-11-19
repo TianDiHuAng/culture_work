@@ -1,0 +1,110 @@
+{
+  "id": "renjianshige",
+  "title": "人间失格",
+  "original_title": "人間失格（No Longer Human）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "dazaiosamu",
+  "author_name": "太宰治",
+  "year_display": "1948年发表（Britannica：Ningen shikkaku (1948; No Longer Human)）",
+  "year_sort": 1948,
+  "background": [
+    "Britannica：战后作品（含《人间失格》）的语调 'becomes increasingly despairing, reflecting the emotional crisis of the author'（愈益绝望，映照作者的情感危机）。",
+    "Britannica：'His dark, wry tone perfectly captured the confusion of postwar Japan, when traditional values were discredited'（阴郁自嘲的笔调捕捉了战后日本的混乱）。"
+  ],
+  "outline": [
+    "序言：三张照片（笑之诡异）——三篇手记拼贴大庭叶藏的一生（通说）。",
+    "叶藏：以『搞笑』讨好世界→酒、药、女人→殉情未遂→吗啡→精神病院→『人间失格』（通说）。",
+    "结尾 barber 店老板娘一句：『我们认识的小叶……是个像神一样的好孩子』（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "大庭叶藏",
+      "identity": "没落子弟",
+      "note": "『生而为人』的恐惧（通说）"
+    },
+    {
+      "name": "堀木",
+      "identity": "损友",
+      "note": "堕落的同行者"
+    },
+    {
+      "name": "良子",
+      "identity": "妻子",
+      "note": "信任的毁灭（通说）"
+    }
+  ],
+  "themes": [
+    "『人间失格』：丧失做人的资格（通说）。",
+    "羞耻与讨好：以滑稽面具求生（通说）。",
+    "纯真与毁灭：信任被践踏的必然（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：与《斜阳》并列战后代表作，经 Donald Keene 英译走向世界。",
+      "source": "B211"
+    },
+    {
+      "text": "Britannica：太宰治为战后日本最重要的文学声音之一（the leading literary voice of postwar Japan 语境）。",
+      "source": "B211"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "手记体的『自我否定』叙述——读者须与叙述者保持距离。",
+      "战后日本价值崩解的时代底色。"
+    ],
+    "editions": [
+      "烨伊译本（作家出版社，通说待核）。",
+      "Donald Keene 英译本（No Longer Human）。"
+    ],
+    "order": "先《斜阳》后本作；对照《维庸之妻》。"
+  },
+  "pending": [
+    "1948年发表（《展望》连载与筑摩书房单行本说）待核。",
+    "『生而为人，我很抱歉』归属辨析待核。",
+    "叶藏原型与作者生平的对应（自传性说）待核。"
+  ],
+  "sources": [
+    "B211"
+  ],
+  "year_source": "B211",
+  "author_source": "B211",
+  "related_works": [
+    "nuoweide",
+    "jinbgesi",
+    "chenlun"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《人间失格》三张手记结构图",
+    "cards": [
+      {
+        "title": "第一手记",
+        "text": "搞笑面具",
+        "color": "family"
+      },
+      {
+        "title": "第二手记",
+        "text": "酒色与殉情",
+        "color": "main"
+      },
+      {
+        "title": "第三手记",
+        "text": "吗啡与疯狂",
+        "color": "antagonist"
+      },
+      {
+        "title": "后记",
+        "text": "『神一样的好孩子』",
+        "color": "gold"
+      }
+    ]
+  }
+}

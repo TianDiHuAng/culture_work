@@ -1,0 +1,110 @@
+{
+  "id": "exin",
+  "title": "恶心",
+  "original_title": "La Nausée（Nausea）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "sartre",
+  "author_name": "让-保罗·萨特",
+  "year_display": "1938年出版（Britannica：La Nausée (1938; Nausea)）",
+  "year_sort": 1938,
+  "background": [
+    "Britannica：'During his years of teaching in Le Havre, Sartre published La Nausée (1938; Nausea)'（在勒阿弗尔任教期间出版）。",
+    "Britannica：该小说源于其哲学信念 'existence precedes essence'（存在先于本质）。"
+  ],
+  "outline": [
+    "日记体：历史学者安东纳·洛根丁在布维尔城的数周（通说）。",
+    "『恶心』发作：一块石头、一张脸、一只手——存在之偶然性袭来（通说）。",
+    "栗树根一幕：存在的赤裸显现（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "洛根丁",
+      "identity": "历史学者",
+      "note": "日记作者（通说）"
+    },
+    {
+      "name": "自学者",
+      "identity": "图书馆员",
+      "note": "按字母读遍全馆的人"
+    },
+    {
+      "name": "安妮",
+      "identity": "旧情人",
+      "note": "『圆满时刻』的幻灭者"
+    }
+  ],
+  "themes": [
+    "存在的偶然与多余：contingency（通说）。",
+    "自由：'Man is condemned to be free'（人是被判处自由的——Britannica）。",
+    "写作与超越：从恶心走向爵士乐的救赎暗示（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1964年获诺贝尔奖并公开拒绝（famously declined the prize）——作家拒绝成为制度。",
+      "source": "B215"
+    },
+    {
+      "text": "Britannica：萨特为20世纪存在主义的旗手（the leading voice of 20th-century existentialism 语境）。",
+      "source": "B215"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哲学日记——先读《存在主义是一种人道主义》铺垫（通说）。",
+      "『恶心』不是生理而是形而上体验。"
+    ],
+    "editions": [
+      "刘放梧？——不：杜长有译本（中国文学出版社？）信息待核；桂裕芳译本（人民文学？）待核。",
+      "法文原版（Gallimard，通说待核）。"
+    ],
+    "order": "先本作后《存在与虚无》；对照加缪《局外人》。"
+  },
+  "pending": [
+    "最初书名《Melancholia》（自梵高同名画说）待核。",
+    "中译本译者信息待核。",
+    "栗树根段落原文核对。"
+  ],
+  "sources": [
+    "B215"
+  ],
+  "year_source": "B215",
+  "author_source": "B215",
+  "related_works": [
+    "juwairen",
+    "bianxingji",
+    "shenpan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恶心》日记体结构图",
+    "cards": [
+      {
+        "title": "布维尔城",
+        "text": "图书馆与街角",
+        "color": "family"
+      },
+      {
+        "title": "日记",
+        "text": "存在袭来",
+        "color": "main"
+      },
+      {
+        "title": "栗树根",
+        "text": "偶然性的显现",
+        "color": "antagonist"
+      },
+      {
+        "title": "爵士乐",
+        "text": "超越的暗示",
+        "color": "gold"
+      }
+    ]
+  }
+}

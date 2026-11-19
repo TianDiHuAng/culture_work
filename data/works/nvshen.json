@@ -1,0 +1,100 @@
+{
+  "id": "nvshen",
+  "title": "女神",
+  "original_title": "女神（诗集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "汉语（白话自由体）",
+  "author_id": "guomoruo",
+  "author_name": "郭沫若",
+  "year_display": "1921年出版（Britannica：Nü shen (1921; Goddess)）",
+  "year_sort": 1921,
+  "background": [
+    "Britannica：郭沫若发表于《时事新报》的新诗后辑为《女神》；其出版 laid the first cornerstone for the development of new verse in China（为中国新诗发展奠定第一块基石——Britannica）。",
+    "时代：五四运动前后，个性解放与科学民主的呐喊（通说）。"
+  ],
+  "outline": [
+    "《凤凰涅槃》：集焚毁与重生之大成（通说）。",
+    "《天狗》：『我是一条天狗』式的自我扩张（篇名通说）。",
+    "《炉中煤》《地球，我的母亲》等：恋歌与颂歌（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "诗人自我",
+      "identity": "抒情主体",
+      "note": "『天狗』式吞日月的自我（通说）"
+    }
+  ],
+  "themes": [
+    "浪漫主义：火山喷发式的激情（通说）。",
+    "破坏与创造：涅槃重生的民族寓言（通说）。",
+    "自由体：不受旧格律束缚——新诗基石（Britannica）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：为中国新诗发展奠定第一块基石（laid the first cornerstone for the development of new verse in China）。",
+      "source": "B207"
+    },
+    {
+      "text": "Britannica：郭沫若在每个文类上都极其多产（enormously prolific in every genre）——《女神》为诗的起点。",
+      "source": "B207"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "惠特曼式自由体的节奏——需朗读。",
+      "泛神论底色（歌德/泰戈尔/庄子——通说待核）。"
+    ],
+    "editions": [
+      "《女神》（人民文学出版社，通说待核）。",
+      "《郭沫若全集·文学编》（科学出版社？通说待核）。"
+    ],
+    "order": "先读《凤凰涅槃》《天狗》→ 对照胡适《尝试集》（通说）看新诗起点之争。"
+  },
+  "pending": [
+    "初版1921年8月上海泰东书局说待核。",
+    "泛神论底色与泰戈尔影响考订待核。",
+    "《凤凰涅槃》自注（1920年作说）待核。"
+  ],
+  "sources": [
+    "B207"
+  ],
+  "year_source": "B207",
+  "author_source": "B207",
+  "related_works": [
+    "aiqing-xuan",
+    "caoyeji",
+    "chuci"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《女神》结构图",
+    "cards": [
+      {
+        "title": "凤凰涅槃",
+        "text": "焚毁与重生",
+        "color": "main"
+      },
+      {
+        "title": "天狗",
+        "text": "自我扩张",
+        "color": "main"
+      },
+      {
+        "title": "炉中煤",
+        "text": "恋歌",
+        "color": "family"
+      },
+      {
+        "title": "自由体",
+        "text": "新诗基石（Britannica）",
+        "color": "gold"
+      }
+    ]
+  }
+}

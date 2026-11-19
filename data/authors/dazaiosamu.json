@@ -1,0 +1,63 @@
+{
+  "id": "dazaiosamu",
+  "name": "太宰治",
+  "foreign_name": "Dazai Osamu（太宰治，本名津岛修治，1909-06-19—1948-06-13）",
+  "country": "日本",
+  "birth": 1909,
+  "death": 1948,
+  "birth_year": 1909,
+  "death_year": 1948,
+  "era": "现当代",
+  "summary": "太宰治，本名津岛修治，青森县金木町人，'战后日本最重要的文学声音'（Britannica 语境：the leading literary voice of postwar Japan）。'其阴郁而自嘲的笔调完美捕捉了战后日本的混乱——传统价值观崩解之际'（Britannica：His dark, wry tone perfectly captured the confusion of postwar Japan, when traditional values were discredited）。代表作《斜阳》（1947）《人间失格》（1948）（Britannica）。1948年与情人山崎富荣投水自尽（Britannica：committed suicide in 1948；地点通说待核）。",
+  "timeline": [
+    {
+      "year": 1909,
+      "text": "生于青森县（Britannica：Born June 19, 1909, Kanagi, Aomori prefecture）。",
+      "src": "B211"
+    },
+    {
+      "year": 1933,
+      "text": "开始使用'太宰治'笔名（通说待核）。",
+      "src": "B211"
+    },
+    {
+      "year": 1947,
+      "text": "《斜阳》《维庸之妻》出版（Britannica：Shayō (1947; The Setting Sun), Biyon no tsuma (1947; Villon's Wife)）。",
+      "src": "B211"
+    },
+    {
+      "year": 1948,
+      "text": "《人间失格》发表（Britannica：Ningen shikkaku (1948; No Longer Human)）；6月13日自杀（Britannica）。",
+      "src": "B211"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "renjianshige",
+      "note": "（Britannica：Ningen shikkaku (1948)）"
+    },
+    {
+      "title": "斜阳",
+      "note": "1947年（Britannica）"
+    },
+    {
+      "title": "维庸之妻、跑吧！梅洛斯",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'私小说'传统与无赖派：自嘲、堕落与纯粹的软弱（通说；Britannica 语境：dark, wry tone）。",
+    "手记体：以三篇手记拼贴大庭叶藏的一生（通说）。",
+    "幽默与滑稽的另一面（Britannica：humor verging on farce）。"
+  ],
+  "status": "Britannica 定位太宰治为战后日本最重要的文学声音之一；《人间失格》为其绝笔级代表作（'情感危机的反映'——Britannica：reflecting the emotional crisis of the author）；战后作品多经 Donald Keene 英译（Britannica）。",
+  "sources": [
+    "B211"
+  ],
+  "dates_source": "B211",
+  "pending": [
+    "玉川上水投水自尽地点细节待核。",
+    "'生而为人，我很抱歉'名句归属辨析（寺内寿太郎原句说）待核。",
+    "无赖派（buraiha）概念界定待核。"
+  ]
+}

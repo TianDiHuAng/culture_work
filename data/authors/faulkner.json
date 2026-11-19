@@ -1,0 +1,68 @@
+{
+  "id": "faulkner",
+  "name": "威廉·福克纳",
+  "foreign_name": "William Faulkner（威廉·福克纳，1897-09-25—1962-07-06）",
+  "country": "美国",
+  "birth": 1897,
+  "death": 1962,
+  "birth_year": 1897,
+  "death_year": 1962,
+  "era": "现当代",
+  "summary": "福克纳，密西西比州人，美国小说家与短篇小说家，'现代主义与南方哥特文学的领军人物'（Britannica 语境：a leading figure of Modernism and Southern gothic fiction），大部分作品设定在虚构的约克纳帕塔法县（Britannica：the fictional Yoknapatawpha County），以意识流等实验技巧著称（Britannica：experimental techniques like stream-of-consciousness narration）。1949年获诺贝尔文学奖（Britannica：awarded the 1949 Nobel Prize for Literature）。",
+  "timeline": [
+    {
+      "year": 1897,
+      "text": "生于密西西比州新奥尔巴尼（Britannica：Born September 25, 1897, New Albany, Mississippi）。",
+      "src": "B210"
+    },
+    {
+      "year": 1929,
+      "text": "《喧哗与骚动》出版（Britannica：In The Sound and the Fury, his first major novel……；年份通说待核）。",
+      "src": "B210"
+    },
+    {
+      "year": 1936,
+      "text": "《押沙龙，押沙龙！》出版（通说待核）。",
+      "src": "B210"
+    },
+    {
+      "year": 1949,
+      "text": "获诺贝尔文学奖（Britannica：awarded the 1949 Nobel Prize for Literature）。",
+      "src": "B210"
+    },
+    {
+      "year": 1962,
+      "text": "卒于密西西比州（Britannica：Died July 6, 1962, Byhalia, Mississippi）。",
+      "src": "B210"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xuanhuayusaodong",
+      "note": "长篇（Britannica：his first major novel）"
+    },
+    {
+      "title": "押沙龙，押沙龙！",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "我弥留之际、去吧，摩西",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "意识流与多视角叙事：'radical technical experimentation'（Britannica）。",
+    "南方历史的重负：种族、家族与罪（通说）。",
+    "约克纳帕塔法世系：'一个邮票大小的地方'写整个世界（通说待核——'little postage stamp of native soil'出处待核）。"
+  ],
+  "status": "Britannica 定位福克纳为美国现代主义与南方哥特领军人物、1949年诺奖得主；其对拉丁美洲作家（马尔克斯等）的深远影响为通说（待核）。",
+  "sources": [
+    "B210"
+  ],
+  "dates_source": "B210",
+  "pending": [
+    "《喧哗与骚动》1929年出版精确日期待核。",
+    "'邮票大小的故乡'引语出处待核。",
+    "诺奖演说'endure and prevail'细节待核。"
+  ]
+}

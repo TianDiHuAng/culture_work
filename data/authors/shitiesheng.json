@@ -1,0 +1,68 @@
+{
+  "id": "shitiesheng",
+  "name": "史铁生",
+  "foreign_name": "Shi Tiesheng（史铁生，1951-01-04—2010-12-31）",
+  "country": "中国",
+  "birth": 1951,
+  "death": 2010,
+  "birth_year": 1951,
+  "death_year": 2010,
+  "era": "现当代",
+  "summary": "史铁生，北京人，散文家与小说家，以'对残障、苦难、命运、信仰与人之境遇的深刻哲学思考'著称（英文维基：profound philosophical reflections on disability, suffering, fate, faith, and the human condition）。1969年赴陕北插队，1972年21岁双腿瘫痪（英文维基：In 1972, at age 21, he became paralyzed in both legs）。《我与地坛》（1991）为'20世纪中国最好的散文之一'（China Daily 转述，见英文维基：Many critics have considered I and the Temple of Earth as one of the best Chinese prose essays of the 20th century）。晚年患尿毒症靠透析维持，2010年12月31日因脑溢血去世（英文维基），捐献肝脏（英文维基）。",
+  "timeline": [
+    {
+      "year": 1951,
+      "text": "生于北京（英文维基：Born 4 January 1951 Beijing）。",
+      "src": "B218"
+    },
+    {
+      "year": 1969,
+      "text": "赴陕北插队（英文维基：sent to a rural village in Shaanxi Province as part of the Down to the Countryside Movement）。",
+      "src": "B218"
+    },
+    {
+      "year": 1972,
+      "text": "21岁双腿瘫痪，回京（英文维基：at age 21, he became paralyzed in both legs）。",
+      "src": "B218"
+    },
+    {
+      "year": 1991,
+      "text": "《我与地坛》发表（英文维基：I and the Temple of Earth (我与地坛, 1991)）。",
+      "src": "B218"
+    },
+    {
+      "year": 2010,
+      "text": "12月31日因脑溢血去世（英文维基：died of cerebral hemorrhage）。",
+      "src": "B218"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "woyuditan",
+      "note": "散文（英文维基：1991年）"
+    },
+    {
+      "title": "我的遥远的清平湾",
+      "note": "短篇，1983年全国优秀短篇小说奖（英文维基）"
+    },
+    {
+      "title": "命若琴弦、务虚笔记、病隙碎笔",
+      "note": "1985/1996/2002（英文维基）"
+    }
+  ],
+  "style": [
+    "'轮椅上的写作'：残障经验升华为存在之思（英文维基：writer in a wheelchair）。",
+    "宗教感与哲学性：苦难、救赎与超越（英文维基：philosophical and religious themes, exploring love, redemption, and transcendence）。",
+    "母亲书写的深情：《我与地坛》第二主题（通说）。"
+  ],
+  "status": "英文维基称史铁生去世后'在21世纪年轻读者中经历显著的再流行'（a significant resurgence in popularity, particularly among young readers）；《我与地坛》入选教材并被广泛英译（英文维基）；2002年老舍文学奖（英文维基）。",
+  "sources": [
+    "B218"
+  ],
+  "dates_source": "B218",
+  "pending": [
+    "《我与地坛》首发刊物（《上海文学》1991年第1期说）待核。",
+    "老舍文学奖2002年（英文维基已载）具体作品待核。",
+    "'职业是生病，业余在写作'自述出处待核。"
+  ]
+}

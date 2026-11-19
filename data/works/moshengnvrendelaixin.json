@@ -1,0 +1,105 @@
+{
+  "id": "moshengnvrendelaixin",
+  "title": "一个陌生女人的来信",
+  "original_title": "Brief einer Unbekannten（Letter from an Unknown Woman）",
+  "region": "奥地利",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "zweig",
+  "author_name": "斯蒂芬·茨威格",
+  "year_display": "1922年结集发表（通说待核；Britannica 该页未单列本篇）",
+  "year_sort": 1922,
+  "background": [
+    "Britannica：'Zweig's interest in psychology and the teachings of Sigmund Freud led to his most characteristic work, the subtle portrayal of character'（对心理学与弗洛伊德的兴趣造就其最具特色的心理刻画）。",
+    "Britannica：茨威格在多个文类皆有成就，尤以虚构与历史人物速写闻名。"
+  ],
+  "outline": [
+    "作家R在41岁生日收到一封无名女人的信——她在临终前写下暗恋一生（通说）。",
+    "女人：13岁初遇→单恋一生→一次相会→私生子→卖身抚养→孩子病亡→写信（通说）。",
+    "作家始终不曾认出她——『陌生的女人』之谓（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "陌生女人",
+      "identity": "写信人",
+      "note": "绝对奉献的一生（通说）"
+    },
+    {
+      "name": "作家R",
+      "identity": "风流作家",
+      "note": "健忘的接收者"
+    }
+  ],
+  "themes": [
+    "单向的爱与自我消融：『我爱你，但与你无关』（流行概括，通说待核）。",
+    "记忆与遗忘的不对等（通说）。",
+    "心理现实主义：书信体的内心独白（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：心理刻画为其最具特色的成就（the subtle portrayal of character）。",
+      "source": "B214"
+    },
+    {
+      "text": "2005年徐静蕾同名电影（移置北平）等多次改编（通说待核）。",
+      "source": "B214"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "书信体自白——注意叙述的极端性。",
+      "爱情观的时代差异。"
+    ],
+    "editions": [
+      "韩耀成/张玉书等译本（《茨威格小说集》，通说待核）。",
+      "德文原版（公有领域渐近）。"
+    ],
+    "order": "可与《象棋的故事》《一个女人一生中的二十四小时》合读。"
+  },
+  "pending": [
+    "1922年（首次发表于《大日记》说）与结集《热带癫狂症患者》？细节待核。",
+    "韩愈？——不：张玉书译本信息待核。",
+    "高尔基评语出处待核。"
+  ],
+  "sources": [
+    "B214"
+  ],
+  "year_source": "B214",
+  "author_source": "B214",
+  "related_works": [
+    "baofali",
+    "luolita",
+    "weite"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《陌生女人来信》一生时间线",
+    "cards": [
+      {
+        "title": "13岁初遇",
+        "text": "维也纳的邻居",
+        "color": "family"
+      },
+      {
+        "title": "重逢",
+        "text": "一夜与遗忘",
+        "color": "main"
+      },
+      {
+        "title": "私生子",
+        "text": "为儿子卖身",
+        "color": "gold"
+      },
+      {
+        "title": "临终之信",
+        "text": "一生说出",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

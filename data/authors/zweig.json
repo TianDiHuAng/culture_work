@@ -1,0 +1,68 @@
+{
+  "id": "zweig",
+  "name": "斯蒂芬·茨威格",
+  "foreign_name": "Stefan Zweig（斯蒂芬·茨威格，1881-11-28—1942-02-23）",
+  "country": "奥地利",
+  "birth": 1881,
+  "death": 1942,
+  "birth_year": 1881,
+  "death_year": 1942,
+  "era": "现当代",
+  "summary": "茨威格，维也纳人，奥地利作家——'在诗歌、散文、短篇小说与戏剧多个文类皆有成就，尤以对虚构与历史人物的刻画最负盛名'（Britannica：achieved distinction in several genres……most notably in his interpretations of imaginary and historical characters）。'对心理学与弗洛伊德学说的兴趣，造就了他最具个人特色的工作：对人物心理的精细刻画'（Britannica：Zweig's interest in psychology and the teachings of Sigmund Freud led to his most characteristic work, the subtle portrayal of character）。1934年遭纳粹流亡，1942年与妻子在巴西里约附近自尽（Britannica：he and his second wife died by suicide in 1942）。",
+  "timeline": [
+    {
+      "year": 1881,
+      "text": "生于维也纳（Britannica：Born November 28, 1881, Vienna）。",
+      "src": "B214"
+    },
+    {
+      "year": 1901,
+      "text": "首部诗集出版（通说待核）。",
+      "src": "B214"
+    },
+    {
+      "year": 1922,
+      "text": "《一个陌生女人的来信》等中篇结集发表（通说待核；Britannica 该页未提本篇）。",
+      "src": "B214"
+    },
+    {
+      "year": 1934,
+      "text": "遭纳粹驱逐开始流亡（Britannica：Exiled by the Nazis in 1934）。",
+      "src": "B214"
+    },
+    {
+      "year": 1942,
+      "text": "2月23日在巴西彼得罗波利斯自尽（Britannica：Found dead February 23, 1942, Petrópolis）。",
+      "src": "B214"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "moshengnvrendelaixin",
+      "note": "中篇（通说；本库立目）"
+    },
+    {
+      "title": "人类群星闪耀时、昨日的世界",
+      "note": "历史特写与回忆录（通说待核）"
+    },
+    {
+      "title": "象棋的故事",
+      "note": "中篇，1942年（通说待核）"
+    }
+  ],
+  "style": [
+    "'心理现实主义'：弗洛伊德式的人物内心剖析（Britannica）。",
+    "女性视角的情感叙事（陌生女人来信以书信体自白——通说）。",
+    "'昨日的世界'：对欧洲黄金时代的怀旧与幻灭（通说待核）。"
+  ],
+  "status": "Britannica 定位茨威格为多文类大师、以心理刻画著称；其作品在中国的传播极广（高尔基曾评——通说待核），但 Britannica 该页未提《陌生女人来信》——本页对该作品的分析以通说为锚并列为待核。",
+  "sources": [
+    "B214"
+  ],
+  "dates_source": "B214",
+  "pending": [
+    "《一个陌生女人的来信》1922年（首次发表于《大日记》说）细节待核。",
+    "徐静蕾电影《一个陌生女人的来信》2005年改编待核。",
+    "高尔基评语'以罕见的温存与同情写女人'出处待核。"
+  ]
+}

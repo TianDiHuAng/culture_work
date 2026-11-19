@@ -1,0 +1,68 @@
+{
+  "id": "jiapingwa",
+  "name": "贾平凹",
+  "foreign_name": "Jia Pingwa（贾平凹，1952-02-21— ）",
+  "country": "中国",
+  "birth": 1952,
+  "death": null,
+  "birth_year": 1952,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "贾平凹，陕西丹凤棣花村人，'中国最受欢迎的小说家、短篇小说家、诗人与非虚构作者之一'（英文维基：one of China's most popular authors）。商州系列开创乡土书写；《废都》（1993）因性描写被禁17年（英文维基：banned by the State Publishing Administration for over 17 years），2009年解禁（英文维基）；《秦腔》（2005）获第七届茅盾文学奖（英文维基：winner of the 2008 Mao Dun Literature Prize）与首届红楼梦奖（英文维基：2006 Hong Kong The Dream of the Red Chamber Award）。陕西省作协主席、中国作协副主席团成员（英文维基）。",
+  "timeline": [
+    {
+      "year": 1952,
+      "text": "生于陕西商洛丹凤县棣花村（英文维基：Born 21 February 1952 Dihua Village, Danfeng County, Shangluo, Shaanxi）。",
+      "src": "B217"
+    },
+    {
+      "year": 1971,
+      "text": "入西北大学中文系（英文维基：sent to study literature at Northwest University in Xi'an in 1971）。",
+      "src": "B217"
+    },
+    {
+      "year": 1978,
+      "text": "短篇《满月》获全国奖（英文维基：his short story Full Moon won a national award from the China Writers Association）。",
+      "src": "B217"
+    },
+    {
+      "year": 1993,
+      "text": "《废都》出版后被禁（英文维基：Ruined City……banned……for over 17 years）。",
+      "src": "B217"
+    },
+    {
+      "year": 2005,
+      "text": "《秦腔》出版（英文维基：Qin Qiang (2005)）；2008年获茅盾文学奖（英文维基）。",
+      "src": "B217"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qinqiang",
+      "note": "长篇（英文维基：The Shaanxi Opera (Qin Qiang, 2005)）"
+    },
+    {
+      "title": "废都",
+      "note": "1993年（英文维基：Ruined City；2016年英译 Ruined City）"
+    },
+    {
+      "title": "商州三录、月迹",
+      "note": "散文（英文维基）"
+    }
+  ],
+  "style": [
+    "乡土书写：商州世界的变迁与挽歌（英文维基：native-place fiction）。",
+    "'传统白话叙事与现代现实主义的混合'（英文维基转引 Carlos Rojas：mixing traditional vernacular story-telling with modern realism）。",
+    "古朴与混沌并存的语言：'以中国传统美学的眼光写当代'（通说）。"
+  ],
+  "status": "英文维基称贾平凹为'中国最受欢迎的作者之一'；商州系列奠定乡土文学地位；《废都》的禁毁史是中国当代出版审查的重要案例（英文维基专节）；《秦腔》为茅奖与红楼梦奖双料得主。",
+  "sources": [
+    "B217"
+  ],
+  "dates_source": "B217",
+  "pending": [
+    "《秦腔》茅奖届次（第七届/2008年颁给2003—06年间作品）与《收获》首发细节核对。",
+    "《废都》解禁日期（2009年说）与出版社细节待核。",
+    "'平凹'读音（píngwā）说明（英文维基已载）可入正文。"
+  ]
+}

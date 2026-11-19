@@ -1,0 +1,103 @@
+{
+  "id": "taibeiren",
+  "title": "台北人",
+  "original_title": "台北人（短篇小说集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "台湾现代主义",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "baixianyung",
+  "author_name": "白先勇",
+  "year_display": "1970—71年结集出版（通说待核；Britannica 该页仅载《游园惊梦》1982）",
+  "year_sort": 1971,
+  "background": [
+    "Britannica：白先勇为台湾现代主义文学运动领军人物（a leading figure of Taiwan's Modernist literary movement of the 1960s），影响力延续至21世纪（remained influential well into the 21st century——Britannica）。",
+    "题材：1949年前后迁台的大陆人群体——『台北人』实为『大陆人』（通说）。"
+  ],
+  "outline": [
+    "十四个短篇：从将军遗孀到舞女、佣人——流亡者的今昔对照（篇数通说待核）。",
+    "名篇：《永远的尹雪艳》《游园惊梦》《一把青》《冬夜》（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "尹雪艳",
+      "identity": "百乐门舞女",
+      "note": "永远不老的象征（通说）"
+    },
+    {
+      "name": "钱夫人",
+      "identity": "昆曲名伶",
+      "note": "《游园惊梦》主人公——今昔之感（通说）"
+    }
+  ],
+  "themes": [
+    "乡愁与流亡：今昔对照的挽歌结构（通说）。",
+    "中国古典韵味与现代主义技法的融合（Britannica：Modernist movement）。",
+    "群体史诗：一个流亡阶层的浮世绘（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：台湾现代主义领军人物，影响力延续至21世纪。",
+      "source": "B208"
+    },
+    {
+      "text": "夏志清评白先勇为『当代中国短篇小说家中的奇才』（通说待核）。",
+      "source": "B208"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "今昔对照的叙事结构——注意时间层次。",
+      "昆曲与民初掌故的互文。"
+    ],
+    "editions": [
+      "《台北人》（尔雅出版社/广西师范大学出版社，通说待核）。"
+    ],
+    "order": "先读《永远的尹雪艳》定调 →《游园惊梦》精读 → 全集通读。"
+  },
+  "pending": [
+    "结集年份（1971年尔雅/晨钟说）待核。",
+    "篇目十四篇说待核。",
+    "夏志清评语出处（《白先勇早期的小说》论文）待核。"
+  ],
+  "sources": [
+    "B208"
+  ],
+  "year_source": "B208",
+  "author_source": "B208",
+  "related_works": [
+    "xifuhui",
+    "jinsuoji",
+    "changri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《台北人》流亡群像图",
+    "cards": [
+      {
+        "title": "尹雪艳",
+        "text": "不老的上海传奇",
+        "color": "main"
+      },
+      {
+        "title": "游园惊梦",
+        "text": "昆曲名伶今昔",
+        "color": "family"
+      },
+      {
+        "title": "一把青",
+        "text": "空军眷村的青春",
+        "color": "gold"
+      },
+      {
+        "title": "梁父吟",
+        "text": "老将军的黄昏",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

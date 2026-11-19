@@ -1,0 +1,157 @@
+{
+  "id": "mosha",
+  "title": "魔山",
+  "original_title": "Der Zauberberg（The Magic Mountain）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "thomasmann",
+  "author_name": "托马斯·曼",
+  "year_display": "1924年出版（通说待核；B209 作者页语境）",
+  "year_sort": 1924,
+  "background": [
+    "Britannica：主题源自早期母题——青年工程师汉斯·卡斯托尔普到达沃斯疗养院探望表兄……'But the sanatorium comes to be the spiritual reflection of the possibilities and dangers of the actual world'（疗养院成为现实世界的可能与危险的精神映像——Britannica）。",
+    "一战前欧洲文明的总寓言（通说）。"
+  ],
+  "outline": [
+    "汉斯『计划三周』的探病变成七年（通说）。",
+    "两位导师：塞特姆布里尼（启蒙/人文）与纳夫塔（激进/神权）的思想拉锯（通说）。",
+    "结尾：汉斯下山赴一战战场——'decides for life and service to his people'（Britannica：以略带怀疑却人道的姿态，决定为生命与同胞服务）。"
+  ],
+  "characters": [
+    {
+      "name": "汉斯·卡斯托尔普",
+      "identity": "青年工程师",
+      "note": "普通的 Seeker（通说）"
+    },
+    {
+      "name": "塞特姆布里尼",
+      "identity": "意大利人文主义者",
+      "note": "启蒙的声音"
+    },
+    {
+      "name": "纳夫塔",
+      "identity": "耶稣会士",
+      "note": "激进与虚无"
+    },
+    {
+      "name": "克拉芙迪娅（肖夏夫人）",
+      "identity": "俄国病人",
+      "note": "爱慕对象"
+    }
+  ],
+  "themes": [
+    "时间：山中七年与主观时间体验（通说）。",
+    "疾病与文明：疗养院=战前欧洲缩影（Britannica）。",
+    "教育小说：思想的成年礼（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'In this great work Mann formulates with remarkable insight the fateful choices facing Europe'（以卓越洞见提出欧洲面临的决定性抉择）。",
+      "source": "B209"
+    },
+    {
+      "text": "Britannica（作者页）：1929年诺贝尔文学奖——魔山时期为其创作巅峰之一。",
+      "source": "B209"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "厚达千页的思想辩论。",
+      "时间感：文字刻意『拉长』时间。"
+    ],
+    "editions": [
+      "钱鸿嘉译本（上海译文出版社，通说待核）。",
+      "杨武能译本（译林出版社，通说待核）。"
+    ],
+    "order": "可先读《布登勃洛克一家》入门曼的风格。"
+  },
+  "pending": [
+    "1924年出版（S. Fischer 两卷本说）待核。",
+    "两位导师辩论的思想史背景考订待核。",
+    "瓦格纳音乐母题待核。"
+  ],
+  "sources": [
+    "B209"
+  ],
+  "year_source": "B209",
+  "author_source": "B209",
+  "related_works": [
+    "huangyuanlang",
+    "weite",
+    "xidamuo"
+  ],
+  "svg": {
+    "type": "graph",
+    "width": 680,
+    "height": 440,
+    "caption": "《魔山》思想角力图",
+    "nodes": [
+      {
+        "id": "hans",
+        "label": "汉斯",
+        "x": 340,
+        "y": 115,
+        "color": "main",
+        "sub": "青年工程师"
+      },
+      {
+        "id": "settembrini",
+        "label": "塞特姆布里尼",
+        "x": 140,
+        "y": 115,
+        "color": "family",
+        "sub": "启蒙人文"
+      },
+      {
+        "id": "naphta",
+        "label": "纳夫塔",
+        "x": 540,
+        "y": 115,
+        "color": "antagonist",
+        "sub": "激进神权"
+      },
+      {
+        "id": "clavdia",
+        "label": "肖夏夫人",
+        "x": 230,
+        "y": 330,
+        "color": "gold",
+        "sub": "爱慕对象"
+      },
+      {
+        "id": "war",
+        "label": "一战战场",
+        "x": 460,
+        "y": 330,
+        "color": "plain",
+        "sub": "下山结局"
+      }
+    ],
+    "edges": [
+      {
+        "a": "hans",
+        "b": "settembrini",
+        "label": "教导"
+      },
+      {
+        "a": "hans",
+        "b": "naphta",
+        "label": "对抗"
+      },
+      {
+        "a": "hans",
+        "b": "clavdia",
+        "label": "迷恋"
+      },
+      {
+        "a": "hans",
+        "b": "war",
+        "label": "走向"
+      }
+    ]
+  }
+}

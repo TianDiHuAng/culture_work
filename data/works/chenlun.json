@@ -1,0 +1,99 @@
+{
+  "id": "chenlun",
+  "title": "沉沦",
+  "original_title": "沉沦（短篇小说集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "yudafu",
+  "author_name": "郁达夫",
+  "year_display": "1921年出版（Britannica：Chenlun (1921; Sinking)）",
+  "year_sort": 1921,
+  "background": [
+    "Britannica：该集 written in vernacular Chinese, as advocated by the new generation of writers（以新一代作家倡导的白话写作）。",
+    "新文学早期最具争议的集子：因『坦率处理性』而畅销（Britannica：Chenlun became a popular success in China because of its frank treatment of sex）。"
+  ],
+  "outline": [
+    "收《沉沦》《南迁》《银灰色的死》三篇（篇目通说待核）。",
+    "《沉沦》：留日学生『他』因性苦闷与民族自卑走向自我毁灭——结尾以祖国之弱自况（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "他",
+      "identity": "留日学生",
+      "note": "零余者的原型（通说）"
+    }
+  ],
+  "themes": [
+    "零余者：觉醒而无路可走的青年（通说）。",
+    "性苦闷与民族屈辱的纠缠——结尾呼告祖国强盛（通说）。",
+    "自叙传抒情小说的开端（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：因坦率处理性而成为中国畅销书（a popular success）。",
+      "source": "B206"
+    },
+    {
+      "text": "Britannica：以新一代倡导的白话写作——新文学早期代表作。",
+      "source": "B206"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自叙传视角与『暴露』的伦理边界。",
+      "时代语境：五四青年的民族创伤。"
+    ],
+    "editions": [
+      "《沉沦》（上海泰东书局1921年初版说，通说待核）。",
+      "《郁达夫全集》（浙江大学出版社，通说待核）。"
+    ],
+    "order": "先《沉沦》后《过去》《日记九种》；对照鲁迅《呐喊》看两种五四叙事。"
+  },
+  "pending": [
+    "初版1921年10月上海泰东书局说待核。",
+    "篇目三篇说待核。",
+    "1923年后主题转向（Britannica 已载）与本集关系待核。"
+  ],
+  "sources": [
+    "B206"
+  ],
+  "year_source": "B206",
+  "author_source": "B206",
+  "related_works": [
+    "nahan",
+    "hulanhe",
+    "renjianshige"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《沉沦》主题结构图",
+    "cards": [
+      {
+        "title": "零余者",
+        "text": "觉醒而无路可走",
+        "color": "main"
+      },
+      {
+        "title": "性苦闷",
+        "text": "坦率自我暴露（Britannica）",
+        "color": "antagonist"
+      },
+      {
+        "title": "民族自卑",
+        "text": "祖国啊你快强起来（意）",
+        "color": "family"
+      },
+      {
+        "title": "自叙传",
+        "text": "郁达夫式抒情",
+        "color": "gold"
+      }
+    ]
+  }
+}

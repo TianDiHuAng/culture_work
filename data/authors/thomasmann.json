@@ -1,0 +1,68 @@
+{
+  "id": "thomasmann",
+  "name": "托马斯·曼",
+  "foreign_name": "Thomas Mann（托马斯·曼，1875-06-06—1955-08-12）",
+  "country": "德国",
+  "birth": 1875,
+  "death": 1955,
+  "birth_year": 1875,
+  "death_year": 1955,
+  "era": "现当代",
+  "summary": "托马斯·曼，吕贝克人，德国小说家与散文家（Britannica：a German novelist and essayist），《布登勃洛克一家》《魂断威尼斯》《魔山》为其早期代表作，1929年获诺贝尔文学奖（Britannica）。一战期间一度威权立场、后转向民主，1933年流亡，1936年被纳粹剥夺德国国籍（Britannica：stripped of German citizenship），1938年起旅居美国，1952年定居苏黎世附近（Britannica）。",
+  "timeline": [
+    {
+      "year": 1875,
+      "text": "生于吕贝克（Britannica：Born June 6, 1875, Lübeck）。",
+      "src": "B209"
+    },
+    {
+      "year": 1901,
+      "text": "《布登勃洛克一家》出版（Britannica：the novel builds the story of the family and its business house over four generations；年份通说待核）。",
+      "src": "B209"
+    },
+    {
+      "year": 1924,
+      "text": "《魔山》出版（通说待核；Britannica 语境）。",
+      "src": "B209"
+    },
+    {
+      "year": 1929,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 1929）。",
+      "src": "B209"
+    },
+    {
+      "year": 1933,
+      "text": "离开德国开始流亡（Britannica：left Germany 1933）。",
+      "src": "B209"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "mosha",
+      "note": "长篇（Britannica 语境）"
+    },
+    {
+      "title": "布登勃洛克一家",
+      "note": "（Britannica：Buddenbrooks）"
+    },
+    {
+      "title": "魂断威尼斯、浮士德博士",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'反讽的史诗'：家族衰亡题材的冷峻观察（Britannica：a tender elegy for the old bourgeois virtues）。",
+    "观念小说：以疗养院映照欧洲文明的可能与危险（Britannica：the spiritual reflection of the possibilities and dangers of the actual world）。",
+    "音乐性与神话结构（通说待核）。"
+  ],
+  "status": "Britannica 定位托马斯·曼为德国小说家与散文家、1929年诺奖得主；其流亡生涯与对纳粹的反对使其成为'德国良知的象征'（通说待核，Britannica 记其被剥夺国籍与流亡事实）。",
+  "sources": [
+    "B209"
+  ],
+  "dates_source": "B209",
+  "pending": [
+    "《魔山》1924年出版与连载（1923年起）细节待核。",
+    "《布登勃洛克一家》1901年出版待核。",
+    "《浮士德博士》1947年待核。"
+  ]
+}

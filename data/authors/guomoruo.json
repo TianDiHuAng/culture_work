@@ -1,0 +1,68 @@
+{
+  "id": "guomoruo",
+  "name": "郭沫若",
+  "foreign_name": "Guo Moruo（郭沫若，1892年11月—1978-06-12）",
+  "country": "中国",
+  "birth": 1892,
+  "death": 1978,
+  "birth_year": 1892,
+  "death_year": 1978,
+  "era": "现当代",
+  "summary": "郭沫若，乐山沙湾人，20世纪中国最重要的学者、诗人与作家之一，曾任中国科学院院长等要职（Britannica：a leading 20th-century Chinese scholar, poet, and writer……as president of the Chinese Academy of Sciences）。新诗发表于《时事新报》后辑为《女神》（1921）——'为中国新诗发展奠定了第一块基石'（Britannica：laid the first cornerstone for the development of new verse in China）。'在每个文类上都极其多产'（Britannica：enormously prolific in every genre）——诗歌、小说、戏剧、自传、翻译。",
+  "timeline": [
+    {
+      "year": 1892,
+      "text": "生于四川乐山沙湾（Britannica：Born November 1892, Shawan, Leshan county, Sichuan province）。",
+      "src": "B207"
+    },
+    {
+      "year": 1921,
+      "text": "新诗结集为《女神》出版（Britannica：later compiled into the anthology Nü shen (1921; Goddess)）。",
+      "src": "B207"
+    },
+    {
+      "year": "1921—37",
+      "text": "创造社主要成员（通说待核）；北伐与流亡日本时期（通说待核）。",
+      "src": "B207"
+    },
+    {
+      "year": 1949,
+      "text": "后任中国科学院院长等（Britannica：high-ranking government official in the People's Republic of China）。",
+      "src": "B207"
+    },
+    {
+      "year": 1978,
+      "text": "卒于北京（Britannica：Died June 12, 1978, Beijing）。",
+      "src": "B207"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "nvshen",
+      "note": "诗集（Britannica：Nü shen (1921; Goddess)）"
+    },
+    {
+      "title": "屈原（历史剧）",
+      "note": "1942年（通说待核）"
+    },
+    {
+      "title": "甲申三百年祭、甲骨文研究",
+      "note": "学术（通说待核）"
+    }
+  ],
+  "style": [
+    "'浪漫主义'开山：自我扩张、火山式抒情（通说）。",
+    "自由体新诗：不受旧格律束缚——为中国新诗奠基（Britannica：laid the first cornerstone for the development of new verse）。",
+    "多面手：诗人/学者/政治家三位一体（Britannica：enormously prolific in every genre）。"
+  ],
+  "status": "Britannica 称郭沫若为 20 世纪中国最重要的作家之一、新诗发展的奠基人（laid the first cornerstone for the development of new verse in China）；其《女神》为中国现代新诗的起点（通说与 Britannica 互证）。",
+  "sources": [
+    "B207"
+  ],
+  "dates_source": "B207",
+  "pending": [
+    "生月（1892年11月16日说）精确日期待核。",
+    "创造社时期细节待核。",
+    "历史剧《屈原》1942年细节待核。"
+  ]
+}

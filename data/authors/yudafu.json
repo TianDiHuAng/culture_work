@@ -1,0 +1,68 @@
+{
+  "id": "yudafu",
+  "name": "郁达夫",
+  "foreign_name": "Yu Dafu（郁达夫，1896-12-07—1945-09-17）",
+  "country": "中国",
+  "birth": 1896,
+  "death": 1945,
+  "birth_year": 1896,
+  "death_year": 1945,
+  "era": "现当代",
+  "summary": "郁达夫，富阳人，创造社创始成员之一（Britannica：a founding member of the Creation Society, a group promoting modern Chinese literature）。留日归国（1922）后成为文坛明星（Britannica：he became a literary celebrity upon returning to China in 1922）。首部小说集《沉沦》（1921）以白话写作、因'坦率处理性'而大受欢迎（Britannica：Chenlun became a popular success in China because of its frank treatment of sex）。1945年遇害于南洋（Britannica 记卒于1945-09-17；苏门答腊遇害说为通说待核）。",
+  "timeline": [
+    {
+      "year": 1896,
+      "text": "生于浙江富阳（Britannica：Born December 7, 1896）。",
+      "src": "B206"
+    },
+    {
+      "year": 1921,
+      "text": "首部小说集《沉沦》出版（Britannica：his first story collection was Chenlun (1921; Sinking)），创造社成立（通说待核）。",
+      "src": "B206"
+    },
+    {
+      "year": 1922,
+      "text": "归国，成为文学名人（Britannica：he became a literary celebrity upon returning to China in 1922）。",
+      "src": "B206"
+    },
+    {
+      "year": 1923,
+      "text": "患肺结核后主题转变——由自我转向大众（Britannica：after contracting tuberculosis, he abruptly changed his major theme）。",
+      "src": "B206"
+    },
+    {
+      "year": 1945,
+      "text": "卒（Britannica：died September 17, 1945；南洋遇害说通说待核）。",
+      "src": "B206"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "chenlun",
+      "note": "首部小说集（Britannica：Chenlun (1921)）"
+    },
+    {
+      "title": "日记九种、过去",
+      "note": "1927年作品（Britannica：Rijijiuzhong; Guoqu (1927)）"
+    },
+    {
+      "title": "出奔",
+      "note": "1935年（Britannica：Chuben (1935; Flight)）"
+    }
+  ],
+  "style": [
+    "'自叙传'抒情小说：以大胆的自我暴露写零余者的苦闷（通说）。",
+    "'坦率处理性'：《沉沦》因 frank treatment of sex 大受欢迎亦招非议（Britannica）。",
+    "旧体诗与散文造诣亦深（通说待核）。"
+  ],
+  "status": "Britannica 定位郁达夫为 1920 年代读者最广的中国短篇小说家之一（a widely read Chinese short-story writer of the 1920s）、创造社创始成员；其《沉沦》是新文学早期白话小说的代表（Britannica：written in vernacular Chinese, as advocated by the new generation of writers）。",
+  "sources": [
+    "B206"
+  ],
+  "dates_source": "B206",
+  "pending": [
+    "创造社成立细节（1921年东京说）待核。",
+    "1945年苏门答腊遇害细节待核。",
+    "《沉沦》篇目（三篇说：《沉沦》《南迁》《银灰色的死》）待核。"
+  ]
+}

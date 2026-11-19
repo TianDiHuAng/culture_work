@@ -1,0 +1,109 @@
+{
+  "id": "jinsebiji",
+  "title": "金色笔记",
+  "original_title": "The Golden Notebook",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lessing",
+  "author_name": "多丽丝·莱辛",
+  "year_display": "1962年出版（Britannica：The Golden Notebook (1962)）",
+  "year_sort": 1962,
+  "background": [
+    "Britannica：'The Golden Notebook (1962), in which a woman writer attempts to come to terms with the life of her times'（一位女作家试图与她的时代生活达成和解）。",
+    "Britannica：莱辛的小说与短篇 largely concerned with people involved in the social and political upheavals of the 20th century。"
+  ],
+  "outline": [
+    "结构：一部『自由女性』中篇×4，穿插黑色（写作受阻）、红色（政治经历）、黄色（情感故事）、蓝色（日记）四色笔记，最后汇入金色笔记（结构通说）。",
+    "安娜·伍尔夫：作家、前共产党员、单亲母亲——写作障碍与精神崩溃（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "安娜·伍尔夫",
+      "identity": "作家",
+      "note": "四色笔记的主人（通说）"
+    },
+    {
+      "name": "莫莉",
+      "identity": "友人",
+      "note": "『自由女性』"
+    },
+    {
+      "name": "索尔·格林",
+      "identity": "美国人",
+      "note": "崩溃中的共生者（通说）"
+    }
+  ],
+  "themes": [
+    "分裂与整合：把生活切成格子再缝合（通说）。",
+    "女性的『自由』及其代价（通说）。",
+    "意识形态的幻灭：共产党岁月（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2007年诺贝尔文学奖得主——本作为其最复杂、读者最广的小说之一（Britannica 语境）。",
+      "source": "B212"
+    },
+    {
+      "text": "被广泛视为女性主义经典与后现代结构实验的双重文本（通说待核；莱辛本人对标签持保留态度）。",
+      "source": "B212"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "五色笔记的嵌套结构——先画结构图。",
+      "1950年代英国左翼政治背景。"
+    ],
+    "editions": [
+      "陈才宇/刘新民译本（译林出版社，通说待核）。",
+      "英文原版（企鹅版）。"
+    ],
+    "order": "先读1971年序（莱辛自解）→ 按原文结构通读。"
+  },
+  "pending": [
+    "《野草在歌唱》1950年（莱辛首部小说）待核。",
+    "诺奖授奖词原文待核。",
+    "各中译本信息待核。"
+  ],
+  "sources": [
+    "B212"
+  ],
+  "year_source": "B212",
+  "author_source": "B212",
+  "related_works": [
+    "daluolaiwei",
+    "shinv",
+    "chonger"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《金色笔记》四色结构图",
+    "cards": [
+      {
+        "title": "黑笔记",
+        "text": "写作的障碍",
+        "color": "plain"
+      },
+      {
+        "title": "红笔记",
+        "text": "政治岁月",
+        "color": "antagonist"
+      },
+      {
+        "title": "黄笔记",
+        "text": "情感小说",
+        "color": "gold"
+      },
+      {
+        "title": "蓝笔记",
+        "text": "日记→金色整合",
+        "color": "main"
+      }
+    ]
+  }
+}

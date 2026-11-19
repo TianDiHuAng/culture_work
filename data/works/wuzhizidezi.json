@@ -1,0 +1,108 @@
+{
+  "id": "wuzhizidezi",
+  "title": "午夜之子",
+  "original_title": "Midnight's Children",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "rushdie",
+  "author_name": "萨尔曼·拉什迪",
+  "year_display": "1981年出版并获布克奖（Britannica：Rushdie received the Booker Prize in 1981 for Midnight's Children）",
+  "year_sort": 1981,
+  "background": [
+    "Britannica：a fable about modern India, was an unexpected critical and popular success（关于现代印度的寓言）。",
+    "设定：1947年8月15日午夜独立之刻出生的萨里姆与印度‘同龄’——1001个午夜之子各具异能（通说）。"
+  ],
+  "outline": [
+    "萨里姆的鼻子能读心、与湿婆（另一午夜之子）被调换的婴儿身份错位（通说）。",
+    "家庭史与国家史互文：分治、孟加拉紧急状态（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "萨里姆·西奈",
+      "identity": "午夜之子",
+      "note": "叙述者·telepathy（通说）"
+    },
+    {
+      "name": "湿婆",
+      "identity": "另一个孩子",
+      "note": "膝盖战神（通说）"
+    },
+    {
+      "name": "帕德玛",
+      "identity": "未婚妻",
+      "note": "听故事的人（通说）"
+    }
+  ],
+  "themes": [
+    "个人=国家： bodies as metaphors of the nation（通说）。",
+    "记忆与不可靠叙述：『我搞错了很多事』式忏悔（通说）。",
+    "英印混杂语言与口述传统（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：布克奖（1981）、布克中的布克（1993）、布克奖40年最佳（2008）——布克奖史上的『最佳之最佳』。",
+      "source": "B213"
+    },
+    {
+      "text": "Britannica：拉什迪为关于言论自由与审查辩论的中心人物（a central figure in debates about free speech and censorship）。",
+      "source": "B213"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "印地/乌尔都语词汇与印度史年表。",
+      "不可靠叙述——记住『讲述者会出错』是设计。"
+    ],
+    "editions": [
+      "刘凯芳译本（上海译文出版社，通说待核）。"
+    ],
+    "order": "可与《百年孤独》对读：魔幻现实主义的两种谱系。"
+  },
+  "pending": [
+    "三届布克特别奖细节（Britannica 已载1993/2008）核对。",
+    "印度紧急状态（1975—77）史实章节待核。",
+    "中译本信息待核。"
+  ],
+  "sources": [
+    "B213"
+  ],
+  "year_source": "B213",
+  "author_source": "B213",
+  "related_works": [
+    "bainian",
+    "youlingzhijia",
+    "wuhao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《午夜之子》个人-国家互文图",
+    "cards": [
+      {
+        "title": "1947-08-15",
+        "text": "独立与诞生同时",
+        "color": "main"
+      },
+      {
+        "title": "1001个午夜之子",
+        "text": "异能的一代",
+        "color": "family"
+      },
+      {
+        "title": "萨里姆",
+        "text": "碎裂的国家镜像",
+        "color": "gold"
+      },
+      {
+        "title": "紧急状态",
+        "text": "历史的失控",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "sartre",
+  "name": "让-保罗·萨特",
+  "foreign_name": "Jean-Paul Sartre（让-保罗·萨特，1905-06-21—1980-04-15）",
+  "country": "法国",
+  "birth": 1905,
+  "death": 1980,
+  "birth_year": 1905,
+  "death_year": 1980,
+  "era": "现当代",
+  "summary": "萨特，巴黎人，法国哲学家、小说家与剧作家，20世纪存在主义的旗手（Britannica 语境：the leading voice of 20th-century existentialism）。《恶心》（1938）为其首部长篇（Britannica：During his years of teaching in Le Havre, Sartre published La Nausée (1938; Nausea)）；《存在与虚无》（1943）奠定哲学体系（Britannica）。'人是被判处自由的'（Britannica：Man is condemned to be free）。1964年获诺贝尔文学奖并公开拒绝（Britannica：famously declined the prize），拒绝成为'制度中人'。与西蒙娜·德·波伏娃的伴侣关系（1929年结识——Britannica）亦为思想史佳话。",
+  "timeline": [
+    {
+      "year": 1905,
+      "text": "生于巴黎（Britannica：Born June 21, 1905, Paris）。",
+      "src": "B215"
+    },
+    {
+      "year": 1929,
+      "text": "毕业于巴黎高师，结识波伏娃（Britannica：Graduated École Normale Supérieure 1929; Met Simone de Beauvoir 1929）。",
+      "src": "B215"
+    },
+    {
+      "year": 1938,
+      "text": "《恶心》出版（Britannica：La Nausée (1938; Nausea)）。",
+      "src": "B215"
+    },
+    {
+      "year": 1943,
+      "text": "《存在与虚无》出版（Britannica：Being and Nothingness 1943）。",
+      "src": "B215"
+    },
+    {
+      "year": 1964,
+      "text": "获诺贝尔奖并拒绝（Britannica：In 1964 Jean-Paul Sartre was awarded the Nobel Prize……famously declined）。",
+      "src": "B215"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "exin",
+      "note": "日记体长篇（Britannica：1938）"
+    },
+    {
+      "title": "存在与虚无、存在主义是一种人道主义",
+      "note": "哲学（Britannica 语境）"
+    },
+    {
+      "title": "苍蝇、禁闭",
+      "note": "戏剧（通说待核）"
+    }
+  ],
+  "style": [
+    "哲学小说化的开端：《恶心》以日记体呈现'存在'的直接体验（Britannica 语境）。",
+    "'存在先于本质'（Britannica：existence precedes essence）。",
+    "介入文学：作家必须介入时代（通说待核——'engagé'概念出处待核）。"
+  ],
+  "status": "Britannica 定位萨特为20世纪存在主义旗手；《恶心》为其哲学的小说化宣言；1964年拒诺奖成为20世纪文学事件的象征（Britannica）。",
+  "sources": [
+    "B215"
+  ],
+  "dates_source": "B215",
+  "pending": [
+    "《恶心》最初书名《梅洛 doorway》?（Melancholia说）待核。",
+    "'他人即地狱'出自《禁闭》原文核对。",
+    "萨特拒诺奖公开信原文（Le Figaro 1964）待核。"
+  ]
+}

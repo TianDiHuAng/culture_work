@@ -1,0 +1,104 @@
+{
+  "id": "woyuditan",
+  "title": "我与地坛",
+  "original_title": "我与地坛（散文）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "散文",
+  "genre_group": "散文",
+  "language": "汉语（白话）",
+  "author_id": "shitiesheng",
+  "author_name": "史铁生",
+  "year_display": "1991年发表（英文维基：I and the Temple of Earth (我与地坛, 1991)）",
+  "year_sort": 1991,
+  "background": [
+    "China Daily 转述（见英文维基）：Many critics have considered I and the Temple of Earth as one of the best Chinese prose essays of the 20th century（许多评论者视《我与地坛》为20世纪最好的汉语散文之一）。",
+    "背景：作者1972年21岁双腿瘫痪（英文维基），此后十五年间摇着轮椅进出地坛。"
+  ],
+  "outline": [
+    "古园（地坛）中关于生死的长考：『死是一件不必急于求成的事』（名句通说待核）。",
+    "母亲线：『这园中不单是处处都有过我的车辙，有过我的车辙的地方也都有过母亲的脚印』（名句通说待核）。",
+    "园中众生：十五年坚持跑步的长跑家、弱智少女与她的哥哥等（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "我",
+      "identity": "残障作家",
+      "note": "摇轮椅的沉思者"
+    },
+    {
+      "name": "母亲",
+      "identity": "隐忍的母亲",
+      "note": "第二主题（通说）"
+    }
+  ],
+  "themes": [
+    "生死观：向死而生的安顿（通说）。",
+    "母爱与愧疚：『儿子的不幸在母亲那儿总是要加倍的』（名句通说待核）。",
+    "苦难与写作：写作为了活着（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：入选教材、被广泛译介并改编舞台；评论界视为20世纪最佳汉语散文之一（China Daily 转述）。",
+      "source": "B218"
+    },
+    {
+      "text": "英文维基：史铁生去世后在21世纪年轻读者中经历显著的再流行（a significant resurgence in popularity, particularly among young readers）。",
+      "source": "B218"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哲思密度——慢读。",
+      "地坛的空间与四季意象体系。"
+    ],
+    "editions": [
+      "《我与地坛》（人民文学出版社单行本，通说待核）。"
+    ],
+    "order": "先读第一、二节 → 全文 → 对照《病隙碎笔》。"
+  },
+  "pending": [
+    "首发刊物（《上海文学》1991年第1期说）待核。",
+    "名句原文逐字核对。",
+    "全文七节结构（通说）待核。"
+  ],
+  "sources": [
+    "B218"
+  ],
+  "year_source": "B218",
+  "author_source": "B218",
+  "related_works": [
+    "huozhe",
+    "yecao",
+    "waerdenghu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我与地坛》三重主题图",
+    "cards": [
+      {
+        "title": "古园",
+        "text": "生死之思",
+        "color": "main"
+      },
+      {
+        "title": "母亲",
+        "text": "脚印与愧疚",
+        "color": "family"
+      },
+      {
+        "title": "园中众生",
+        "text": "十五年的过客",
+        "color": "gold"
+      },
+      {
+        "title": "写作",
+        "text": "为了活着",
+        "color": "plain"
+      }
+    ]
+  }
+}

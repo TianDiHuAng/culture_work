@@ -1,0 +1,68 @@
+{
+  "id": "baixianyung",
+  "name": "白先勇",
+  "foreign_name": "Pai Hsien-yung（白先勇，1937— ）",
+  "country": "中国",
+  "birth": 1937,
+  "death": null,
+  "birth_year": 1937,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "白先勇，将门之后，生于桂林、后随家赴台，台湾现代主义文学运动的领军人物（Britannica：a leading figure of Taiwan's Modernist literary movement of the 1960s）；'其小说影响力延续到21世纪'（Britannica：his fiction has remained influential well into the 21st century）。代表作《台北人》（通说）、《游园惊梦》（Britannica：Yu-yüan ching-meng (1982; Wandering in the Garden, Waking from a Dream)）。晚年致力于昆曲青春版《牡丹亭》推广（通说待核）。",
+  "timeline": [
+    {
+      "year": 1937,
+      "text": "生于广西桂林（通说待核；Britannica 该页未载生卒）。",
+      "src": "B208"
+    },
+    {
+      "year": 1952,
+      "text": "随家迁台（通说待核）。",
+      "src": "B208"
+    },
+    {
+      "year": 1960,
+      "text": "与同学创办《现代文学》杂志（通说待核）。",
+      "src": "B208"
+    },
+    {
+      "year": "1965—71",
+      "text": "《台北人》各篇陆续发表并结集（通说待核）。",
+      "src": "B208"
+    },
+    {
+      "year": 1982,
+      "text": "《游园惊梦》出版（Britannica：Yu-yüan ching-meng (1982)）。",
+      "src": "B208"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "taibeiren",
+      "note": "短篇小说集（通说；本库立目）"
+    },
+    {
+      "title": "游园惊梦",
+      "note": "（Britannica：Yu-yüan ching-meng (1982)）"
+    },
+    {
+      "title": "孽子",
+      "note": "长篇（通说待核）"
+    }
+  ],
+  "style": [
+    "'大陆—台湾'的双重时空：流亡者的乡愁与今昔对照（通说）。",
+    "中国古典与西方现代主义技法的融合（Britannica：Modernist literary movement）。",
+    "写实与悲悯：写没落贵族、市井众生（通说）。"
+  ],
+  "status": "Britannica 定位白先勇为台湾现代主义文学领军人物，且是 1949 年后台湾作家中'影响力延续至 21 世纪'的代表（remained influential well into the 21st century——Britannica）；'台北人'系列被广泛视为其巅峰（通说待核）。",
+  "sources": [
+    "B208"
+  ],
+  "dates_source": "B208",
+  "pending": [
+    "生年1937与桂林出生（Britannica 该页未载）待核。",
+    "《台北人》1971年结集（远景出版社说）待核。",
+    "《现代文学》杂志1960年创刊细节待核。"
+  ]
+}

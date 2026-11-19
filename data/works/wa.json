@@ -1,0 +1,108 @@
+{
+  "id": "wa",
+  "title": "蛙",
+  "original_title": "蛙（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·书信+话剧）",
+  "author_id": "moyan",
+  "author_name": "莫言",
+  "year_display": "2009年出版（Britannica：Wa (2009; Frog)）",
+  "year_sort": 2009,
+  "background": [
+    "Britannica（Mo Yan 条）：later works included the novels Tanxiang xing (2001), Shengsi pilao (2006), and Wa (2009; Frog)——本作即其中之一。",
+    "题材：乡村妇产科医生『姑姑』60年接生史与计划生育年代（通说）。"
+  ],
+  "outline": [
+    "剧作家蝌蚪（万足）写给日本作家杉谷义人的四封长信+一部话剧（通说）。",
+    "姑姑：从『送子娘娘』到计划生育执行者再到蛙声中的忏悔者（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "姑姑（万心）",
+      "identity": "妇产科医生",
+      "note": "全书核心——功与罪的载体（通说）"
+    },
+    {
+      "name": "蝌蚪（万足）",
+      "identity": "剧作家",
+      "note": "叙述者"
+    },
+    {
+      "name": "王仁美",
+      "identity": "蝌妻",
+      "note": "引产事故身亡（通说待核）"
+    }
+  ],
+  "themes": [
+    "生命伦理：生育控制年代的个体命运（通说）。",
+    "忏悔与自我开脱：叙述者的道德困境（通说）。",
+    "蛙的意象：多子/蛙神/罪感的变形（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：列为莫言后期代表作之一（Wa (2009; Frog)）。",
+      "source": "B087"
+    },
+    {
+      "text": "Britannica：2012年诺贝尔文学奖；其小说 always marked by an impassioned humanism（始终带着炽热的人道主义）。",
+      "source": "B087"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "书信体+话剧的混合结构。",
+      "计划生育史实的政策语境。"
+    ],
+    "editions": [
+      "《蛙》（上海文艺出版社，通说待核）。"
+    ],
+    "order": "先《生死疲劳》或《红高粱家族》→ 本作。"
+  },
+  "pending": [
+    "第八届茅盾文学奖（2011年）待核。",
+    "姑姑原型（莫言姑父之妻说——作者自述）待核。",
+    "话剧部分章法待核。"
+  ],
+  "sources": [
+    "B087"
+  ],
+  "year_source": "B087",
+  "author_source": "B087",
+  "related_works": [
+    "honggaoliang",
+    "shengsitiaolao",
+    "tanxiangxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《蛙》结构图",
+    "cards": [
+      {
+        "title": "四封长信",
+        "text": "写给杉谷义人",
+        "color": "family"
+      },
+      {
+        "title": "姑姑",
+        "text": "接生与引产的两面",
+        "color": "main"
+      },
+      {
+        "title": "话剧《蛙》",
+        "text": "忏悔剧",
+        "color": "gold"
+      },
+      {
+        "title": "蛙声",
+        "text": "罪感意象",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

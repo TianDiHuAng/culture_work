@@ -1,0 +1,68 @@
+{
+  "id": "rushdie",
+  "name": "萨尔曼·拉什迪",
+  "foreign_name": "Salman Rushdie（萨尔曼·拉什迪，1947-06-19— ）",
+  "country": "英国",
+  "birth": 1947,
+  "death": null,
+  "birth_year": 1947,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "拉什迪，生于孟买的英裔美籍小说家（Britannica：Indian-born British-American novelist），以《午夜之子》《撒旦诗篇》等寓言性作品著称（Britannica：known for allegorical works like Midnight's Children and The Satanic Verses）。《午夜之子》（1981）获布克奖，并获'布克中的布克'（1993）与'布克奖40年最佳'（2008）（Britannica：a fable about modern India, was an unexpected critical and popular success）。1989年因《撒旦诗篇》遭伊朗精神领袖霍梅尼下令追杀（fatwa），隐匿近十年；2022年在纽约文学活动遇袭受伤（Britannica：a 2022 knife attack……cost him an eye）。",
+  "timeline": [
+    {
+      "year": 1947,
+      "text": "生于孟买（Britannica：June 19, 1947——born in Bombay）。",
+      "src": "B213"
+    },
+    {
+      "year": 1981,
+      "text": "《午夜之子》出版并获布克奖（Britannica：received the Booker Prize in 1981 for Midnight's Children）。",
+      "src": "B213"
+    },
+    {
+      "year": 1989,
+      "text": "《撒旦诗篇》引发 fatwa（Britannica：February 14, 1989）。",
+      "src": "B213"
+    },
+    {
+      "year": 2007,
+      "text": "受封爵士（Britannica：knighted）。",
+      "src": "B213"
+    },
+    {
+      "year": 2022,
+      "text": "8月在纽约州肖托夸遇袭（Britannica：attacked in Chautauqua, New York）。",
+      "src": "B213"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "wuzhizidezi",
+      "note": "长篇（Britannica：1981 Booker）"
+    },
+    {
+      "title": "撒旦诗篇",
+      "note": "1988年（Britannica）"
+    },
+    {
+      "title": "羞耻、摩尔人的最后叹息",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "魔幻现实主义与印度口述传统的嫁接：'想象的历史'（通说）。",
+    "多语混成（英语+印地语/乌尔都语词汇）与不可靠叙述（通说）。",
+    "政治寓言：以个体的诞生隐喻国家的诞生（通说）。"
+  ],
+  "status": "Britannica 定位拉什迪为'关于言论自由与审查辩论的中心人物'（a central figure in debates about free speech and censorship）；《午夜之子》为布克奖史上最佳（布克中的布克——Britannica）。",
+  "sources": [
+    "B213"
+  ],
+  "dates_source": "B213",
+  "pending": [
+    "《午夜之子》中译本信息待核。",
+    "三亿零一分钟印度史（'30分钟'倍数说）细节待核。",
+    "2022遇袭案后续（Britannica 已载2026年定罪进展）可更新。"
+  ]
+}

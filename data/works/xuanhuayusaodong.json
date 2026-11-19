@@ -1,0 +1,119 @@
+{
+  "id": "xuanhuayusaodong",
+  "title": "喧哗与骚动",
+  "original_title": "The Sound and the Fury",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "faulkner",
+  "author_name": "威廉·福克纳",
+  "year_display": "1929年出版（通说待核；B210 作者页语境）",
+  "year_sort": 1929,
+  "background": [
+    "Britannica：'In The Sound and the Fury, his first major novel, he combined a Yoknapatawpha setting with radical technical experimentation'（第一部重要小说：约克纳帕塔法背景+激进的技术实验）。",
+    "四部分四视角：三兄弟的意识流独白+女仆迪尔西——围绕妹妹凯蒂的坠落（Britannica：three brothers exposing their obsessions with their sister Candace (Caddy) Compson）。"
+  ],
+  "outline": [
+    "第一部分：班吉（智障）的时间混乱独白（通说）。",
+    "第二部分：昆丁（哈佛生）的崩溃独白；第三部分：杰生（偏执商人）；第四部分：迪尔西（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "凯蒂（Caddy）",
+      "identity": "妹妹",
+      "note": "全书缺席的中心（通说）"
+    },
+    {
+      "name": "班吉",
+      "identity": "智障弟弟",
+      "note": "33岁心智三岁"
+    },
+    {
+      "name": "昆丁",
+      "identity": "长子",
+      "note": "钟表与荣誉的执念"
+    },
+    {
+      "name": "杰生",
+      "identity": "次子",
+      "note": "冷酷的实用主义者"
+    },
+    {
+      "name": "迪尔西",
+      "identity": "黑佣",
+      "note": "苦难中的脊梁（通说）"
+    }
+  ],
+  "themes": [
+    "南方的没落：康普生家族的衰亡（通说）。",
+    "时间与死亡：钟表意象（通说）。",
+    "种族与阶级：迪尔西部分（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1949年诺贝尔文学奖（awarded the 1949 Nobel Prize for Literature）。",
+      "source": "B210"
+    },
+    {
+      "text": "对拉丁美洲『文学爆炸』（马尔克斯等）与中国先锋写作的深远影响（通说待核）。",
+      "source": "B210"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "第一部分的时间跳跃——先读附录/导读建立时间线。",
+      "南方口音与家族谱系。"
+    ],
+    "editions": [
+      "李文俊译本（上海译文出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "第一遍按 1-2-3-4 顺序硬读 → 第二遍从 4 部回看。"
+  },
+  "pending": [
+    "1929年10月7日出版（Jonathan Cape & Harrison Smith说）待核。",
+    "1946年附录（马尔科姆·考利编选）待核。",
+    "福克纳对莫言等中国作家影响的考证待核。"
+  ],
+  "sources": [
+    "B210"
+  ],
+  "year_source": "B210",
+  "author_source": "B210",
+  "related_works": [
+    "bainian",
+    "chonger",
+    "gaicibi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《喧哗与骚动》四视角结构图",
+    "cards": [
+      {
+        "title": "班吉",
+        "text": "1928-04-07",
+        "color": "plain"
+      },
+      {
+        "title": "昆丁",
+        "text": "1910-06-02",
+        "color": "main"
+      },
+      {
+        "title": "杰生",
+        "text": "1928-04-06",
+        "color": "antagonist"
+      },
+      {
+        "title": "迪尔西",
+        "text": "1928-04-08",
+        "color": "family"
+      }
+    ]
+  }
+}

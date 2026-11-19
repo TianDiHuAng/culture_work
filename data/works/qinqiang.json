@@ -1,0 +1,113 @@
+{
+  "id": "qinqiang",
+  "title": "秦腔",
+  "original_title": "秦腔（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·秦地方言）",
+  "author_id": "jiapingwa",
+  "author_name": "贾平凹",
+  "year_display": "2005年出版（英文维基：Qin Qiang (秦腔, 2005)；首刊《收获》说通说待核）；2008年获第七届茅盾文学奖（英文维基）",
+  "year_sort": 2005,
+  "background": [
+    "英文维基：《秦腔》为 a challenging work incorporating elements of local Shaanxi operas（融入秦地戏曲元素）；2008年茅奖（winner of the 2008 Mao Dun Literature Prize）、2006年首届红楼梦奖（英文维基）。",
+    "题材：改革开放后清风街的乡土衰落——农民离土、秦腔式微（通说）。"
+  ],
+  "outline": [
+    "引生（疯癫叙述者）与白雪、夏风：清风街二十年日常（通说）。",
+    "夏家四代人的分化与土地的荒芜；秦腔班社的解散（通说）。"
+  ],
+  "characters": [
+    {
+      "name": "引生",
+      "identity": "疯子叙述者",
+      "note": "自残式的痴情者（通说）"
+    },
+    {
+      "name": "白雪",
+      "identity": "秦腔演员",
+      "note": "传统之美的化身"
+    },
+    {
+      "name": "夏风",
+      "identity": "进城文人",
+      "note": "离乡的成功者"
+    },
+    {
+      "name": "夏天义",
+      "identity": "老农",
+      "note": "土地的守夜人（通说）"
+    }
+  ],
+  "themes": [
+    "乡土中国的挽歌：农民与土地关系的解体（通说）。",
+    "秦腔即文化之根：戏曲式微即乡土式微（通说）。",
+    "疯癫叙事：引生的痴与真（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "英文维基：2008年第七届茅盾文学奖、2006年首届红楼梦奖双料得主。",
+      "source": "B217"
+    },
+    {
+      "text": "英文维基：贾平凹为『中国最受欢迎的作者之一』（one of China's most popular authors）。",
+      "source": "B217"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "密实流水账式日常——『鸡零狗碎』的泼烦日子（通说）。",
+      "陕南方言与秦腔戏文。"
+    ],
+    "editions": [
+      "《秦腔》（作家出版社，通说待核）。"
+    ],
+    "order": "对照《白鹿原》《平凡的世界》：乡土叙事三巨头。"
+  },
+  "pending": [
+    "《收获》2005年首发细节待核。",
+    "茅奖届次与颁奖年份（2008年颁）核对。",
+    "清风街原型（棣花街说——作者自述）待核。"
+  ],
+  "sources": [
+    "B217"
+  ],
+  "year_source": "B217",
+  "author_source": "B217",
+  "related_works": [
+    "bailuyuan",
+    "pingfan",
+    "shengsitiaolao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《秦腔》清风街结构图",
+    "cards": [
+      {
+        "title": "引生",
+        "text": "疯癫叙述者",
+        "color": "main"
+      },
+      {
+        "title": "白雪",
+        "text": "秦腔与美",
+        "color": "family"
+      },
+      {
+        "title": "夏风",
+        "text": "离土的文人",
+        "color": "gold"
+      },
+      {
+        "title": "夏天义",
+        "text": "土地守夜人",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

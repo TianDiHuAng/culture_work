@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="100%" role="img" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',sans-serif">
+<rect x="0" y="0" width="680" height="440" fill="#fdf9f1" rx="10"/>
+<line x1="340.0" y1="115.0" x2="140.0" y2="115.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="224.0" y="106.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="240.0" y="119.0" font-size="12" fill="#555" text-anchor="middle">教导</text>
+<line x1="340.0" y1="115.0" x2="540.0" y2="115.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="424.0" y="106.0" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="440.0" y="119.0" font-size="12" fill="#555" text-anchor="middle">对抗</text>
+<line x1="340.0" y1="115.0" x2="230.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="269.0" y="213.5" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="285.0" y="226.5" font-size="12" fill="#555" text-anchor="middle">迷恋</text>
+<line x1="340.0" y1="115.0" x2="460.0" y2="330.0" stroke="#9aa3ad" stroke-width="1.6"/><rect x="384.0" y="213.5" width="32.0" height="18" rx="3" fill="#fdf9f1"/><text x="400.0" y="226.5" font-size="12" fill="#555" text-anchor="middle">走向</text>
+<rect x="313.0" y="97.5" width="54.0" height="35.0" rx="7" fill="#8c3b3b" opacity="0.92"/>
+<text x="340.0" y="120.4" font-size="15" fill="#fff" text-anchor="middle">汉斯</text>
+<rect x="308.5" y="134.5" width="63.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="340.0" y="145.5" font-size="11" fill="#333" text-anchor="middle">青年工程师</text>
+<rect x="83.0" y="97.5" width="114.0" height="35.0" rx="7" fill="#3b6b8c" opacity="0.92"/>
+<text x="140.0" y="120.4" font-size="15" fill="#fff" text-anchor="middle">塞特姆布里尼</text>
+<rect x="114.0" y="134.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="140.0" y="145.5" font-size="11" fill="#333" text-anchor="middle">启蒙人文</text>
+<rect x="505.5" y="97.5" width="69.0" height="35.0" rx="7" fill="#a8642a" opacity="0.92"/>
+<text x="540.0" y="120.4" font-size="15" fill="#fff" text-anchor="middle">纳夫塔</text>
+<rect x="514.0" y="134.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="540.0" y="145.5" font-size="11" fill="#333" text-anchor="middle">激进神权</text>
+<rect x="188.0" y="312.5" width="84.0" height="35.0" rx="7" fill="#9a7b2f" opacity="0.92"/>
+<text x="230.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">肖夏夫人</text>
+<rect x="204.0" y="349.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="230.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">爱慕对象</text>
+<rect x="418.0" y="312.5" width="84.0" height="35.0" rx="7" fill="#55606b" opacity="0.92"/>
+<text x="460.0" y="335.4" font-size="15" fill="#fff" text-anchor="middle">一战战场</text>
+<rect x="434.0" y="349.5" width="52.0" height="15.0" rx="3" fill="#ffffff" opacity="0.75"/>
+<text x="460.0" y="360.5" font-size="11" fill="#333" text-anchor="middle">下山结局</text>
+<text x="340.0" y="430" font-size="12" fill="#8a8378" text-anchor="middle">《魔山》思想角力图</text>
+</svg>
