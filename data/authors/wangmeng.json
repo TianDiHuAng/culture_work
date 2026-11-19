@@ -1,0 +1,59 @@
+{
+  "id": "wangmeng",
+  "name": "王蒙",
+  "foreign_name": "Wang Meng（王蒙，1934— ，生年通说待核）",
+  "country": "中国",
+  "birth": 1934,
+  "death": null,
+  "birth_year": 1934,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "王蒙，中国作家（Britannica 条目 B233）。战后中国文学的意识流实验以他为代表——'exemplified in the stories of Wang Meng, with their stylistic experiments in stream of consciousness'（Britannica 中国文学条目语）。长篇《这边风景》获第九届茅盾文学奖（中国作家网官方名单 C012：花城出版社）。",
+  "timeline": [
+    {
+      "year": 1934,
+      "text": "生于北京（1934年10月说——通说待核）。",
+      "src": "B233"
+    },
+    {
+      "year": 1953,
+      "text": "《青春万岁》创作（1953年说——通说待核）。",
+      "src": "B233"
+    },
+    {
+      "year": 2013,
+      "text": "《这边风景》获第九届茅盾文学奖（C012 官方名单口径；颁奖2015年）。",
+      "src": "C012"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zhebianfengjing",
+      "note": "长篇（C012：第九届茅奖）"
+    },
+    {
+      "title": "青春万岁、活动变人形",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "季节系列",
+      "note": "四部（通说待核）"
+    }
+  ],
+  "style": [
+    "意识流实验（Britannica：stylistic experiments in stream of consciousness）。",
+    "新疆经验与伊犁叙事（这边风景——通说待核）。",
+    "高产的跨文体写作（通说）。"
+  ],
+  "status": "Britannica 以王蒙为例证说明中国文学改革开放后的意识流实验（B233）；以《这边风景》获第九届茅盾文学奖（C012）。",
+  "sources": [
+    "B233",
+    "C012"
+  ],
+  "dates_source": "B233",
+  "pending": [
+    "生年1934与10月15日生日核对。",
+    "文化部部长（1986—1989说）待核。",
+    "《这边风景》写作于1970年代伊犁、2012年出版的特殊成书史待核。"
+  ]
+}

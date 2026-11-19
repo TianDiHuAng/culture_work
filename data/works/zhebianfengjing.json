@@ -1,0 +1,105 @@
+{
+  "id": "zhebianfengjing",
+  "title": "这边风景",
+  "original_title": "这边风景（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "wangmeng",
+  "author_name": "王蒙",
+  "year_display": "第九届茅盾文学奖获奖作品（中国作家网官方名单 C012：花城出版社；出版具体日期待核）",
+  "year_sort": 2012,
+  "background": [
+    "中国作家网官方名单（C012）：第九届（2011—2014）茅盾文学奖获奖作品《这边风景》王蒙（花城出版社）。",
+    "特殊成书史：写作于1970年代、尘封多年后出版（通说待核）。",
+    "Britannica：战后中国文学的意识流实验以王蒙为代表——'exemplified in the stories of Wang Meng, with their stylistic experiments in stream of consciousness'（B233）。"
+  ],
+  "outline": [
+    "伊犁地区农村工作队的岁月：老王（汉族干部）与维吾尔村庄（通说待核）。",
+    "伊犁风物与多民族日常（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "老王",
+      "identity": "农村干部",
+      "note": "叙述核心（通说待核）"
+    },
+    {
+      "name": "雪林姑丽等",
+      "identity": "维吾尔村民",
+      "note": "群像（通说待核）"
+    }
+  ],
+  "themes": [
+    "多民族生活的百科长卷（通说待核）。",
+    "特定年代的写作与40年后出版的双重时间（通说）。",
+    "从意识流实验（Britannica）到乡土长卷的跨度（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网官方名单：第九届茅盾文学奖获奖作品、花城出版社（C012）。",
+      "source": "C012"
+    },
+    {
+      "text": "Britannica：'exemplified in the stories of Wang Meng, with their stylistic experiments in stream of consciousness'。",
+      "source": "B233"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "维吾尔语借词与伊犁地名。",
+      "年代叙事与当代出版的语体差异。"
+    ],
+    "editions": [
+      "《这边风景》（花城出版社，C012 官方名单口径）。"
+    ],
+    "order": "先读作者自序（成书史）再入正文。"
+  },
+  "pending": [
+    "主人公'老王'名与村名核对。",
+    "2012年花城出版社初版日期核对。",
+    "'小说人'称谓（作者自创——通说）待核。"
+  ],
+  "sources": [
+    "C012",
+    "B233"
+  ],
+  "year_source": "C012",
+  "author_source": "C012",
+  "related_works": [
+    "shengsitiaolao",
+    "bailuyuan",
+    "ansuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《这边风景》伊犁长卷图",
+    "cards": [
+      {
+        "title": "伊犁",
+        "text": "河谷与村庄",
+        "color": "family"
+      },
+      {
+        "title": "老王",
+        "text": "工作队岁月",
+        "color": "main"
+      },
+      {
+        "title": "维吾尔群像",
+        "text": "多民族日常",
+        "color": "gold"
+      },
+      {
+        "title": "双重时间",
+        "text": "1970年代写作",
+        "color": "plain"
+      }
+    ]
+  }
+}
