@@ -1,0 +1,58 @@
+{
+  "id": "dylanthomas",
+  "name": "狄兰·托马斯",
+  "foreign_name": "Dylan Thomas（狄兰·托马斯，1914-10-27—1953-11-09）",
+  "country": "英国",
+  "birth": 1914,
+  "death": 1953,
+  "birth_year": 1914,
+  "death_year": 1953,
+  "era": "现当代",
+  "summary": "狄兰·托马斯，威尔士斯旺西人，威尔士诗人与散文作家——'celebrated for comic exuberance and lyrical intensity'（以滑稽的奔放与抒情的强度著称——B300）。Under Milk Wood——'evokes the lives of the inhabitants of a small Welsh town, shows Thomas's full powers as an artist in comedy'（B300）；1953年纽约诗歌中心演出、1954年BBC播出最终版（B300）。文体：'owed more to his Welsh background than to the prevailing taste in English literature'（多于英国文学流行趣味——威尔士背景——B300）；'verbal harmonies that are unique in English poetry'（英语诗歌中独一无二的语音和谐——B300）。",
+  "timeline": [
+    {
+      "year": 1914,
+      "text": "10月27日生于威尔士斯旺西（B300：Born October 27, 1914, Swansea, Wales）。",
+      "src": "B300"
+    },
+    {
+      "year": 1953,
+      "text": "Under Milk Wood 纽约诗歌中心演出；11月9日卒于纽约（39岁）（B300）。",
+      "src": "B300"
+    },
+    {
+      "year": 1954,
+      "text": "最终版由BBC播出（B300）。",
+      "src": "B300"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "nailinxia",
+      "note": "广播剧（B300：1953/1954）"
+    },
+    {
+      "title": "18首诗、死亡与入场",
+      "note": "（B300：18 Poems, Deaths and Entrances）"
+    },
+    {
+      "title": "不要温和地走进那个良夜",
+      "note": "（通说待核——B300 页未载）"
+    }
+  ],
+  "style": [
+    "'滑稽的奔放与抒情的强度'（B300：comic exuberance and lyrical intensity）。",
+    "'威尔士背景'之于英语文学（B300）。",
+    "'英语诗歌中独一无二的语音和谐'（B300）。"
+  ],
+  "status": "Britannica 定位狄兰·托马斯为威尔士诗人与散文作家（39岁早逝于纽约巡演——B300）。",
+  "sources": [
+    "B300"
+  ],
+  "dates_source": "B300",
+  "pending": [
+    "'Do not go gentle'名句出处与全文核对。",
+    "Under Milk Wood 中译名（《奶树林下》/《 Under Milk Wood》）待核。",
+    "18 Poems（1934）年份核对。"
+  ]
+}

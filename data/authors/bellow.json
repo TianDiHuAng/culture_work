@@ -1,0 +1,68 @@
+{
+  "id": "bellow",
+  "name": "索尔·贝娄",
+  "foreign_name": "Saul Bellow（索尔·贝娄，1915-06-10—2005-04-05）",
+  "country": "美国",
+  "birth": 1915,
+  "death": 2005,
+  "birth_year": 1915,
+  "death_year": 2005,
+  "era": "现当代",
+  "summary": "贝娄，生于魁北克拉欣的犹太裔美国小说家（Britannica）——以描绘现代都市人'disaffected by society but not destroyed in spirit'（被社会疏离而精神未灭——B298）著称。'The Adventures of Augie March (1953)……won a National Book Award in 1954'（B298）；1976年获诺贝尔文学奖——授奖词 'for the human understanding and subtle analysis of contemporary culture that are combined in his work'（B298）；1976年亦获普利策奖（B298）。'It is this combination of cultural sophistication and the wisdom of the streets that constitutes Bellow's greatest originality'（文化精致与街头智慧的组合构成其最大原创性——B298）。",
+  "timeline": [
+    {
+      "year": 1915,
+      "text": "6月10日生于魁北克拉欣（B298：Born June 10, 1915, Lachine, near Montreal, Quebec, Canada）。",
+      "src": "B298"
+    },
+    {
+      "year": 1953,
+      "text": "《奥吉·玛琪历险记》出版（B298：1953）。",
+      "src": "B298"
+    },
+    {
+      "year": 1954,
+      "text": "获国家图书奖（B298）。",
+      "src": "B298"
+    },
+    {
+      "year": 1976,
+      "text": "获诺贝尔文学奖与普利策奖（B298：Nobel Prize 1976；Pulitzer 1976）。",
+      "src": "B298"
+    },
+    {
+      "year": 2005,
+      "text": "4月5日卒于马萨诸塞州布鲁克莱恩（B298）。",
+      "src": "B298"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "aojimaqi",
+      "note": "长篇（B298：1953，国家图书奖）"
+    },
+    {
+      "title": "赫尔索格、洪堡的礼物",
+      "note": "（B298：Herzog, Humboldt's Gift）"
+    },
+    {
+      "title": "雨王亨德森",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'human understanding and subtle analysis of contemporary culture'（B298 授奖词）。",
+    "'cultural sophistication and the wisdom of the streets'（B298）。",
+    "流浪汉小说的现代转型（B298：picaresque story）。"
+  ],
+  "status": "Britannica 定位贝娄为犹太裔美国小说家代表、1976年诺奖与普利策奖双料得主（B298）。",
+  "sources": [
+    "B298"
+  ],
+  "dates_source": "B298",
+  "pending": [
+    "《奥吉·玛琪历险记》中译本信息核对。",
+    "赫尔索格人名核对。",
+    "'二次世界大战后美国文学中心'说待核。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "montaigne",
+  "name": "蒙田",
+  "foreign_name": "Michel de Montaigne（米歇尔·德·蒙田，1533-02-28—1592-09-23）",
+  "country": "法国",
+  "birth": 1533,
+  "death": 1592,
+  "birth_year": 1533,
+  "death_year": 1592,
+  "era": "近代",
+  "summary": "蒙田，蒙田城堡生，法国作家与哲学家——'whose Essais (Essays) established a new literary form'（其《随笔集》确立了新的文学形式——Britannica）。写作于法国宗教战争（1562—98）期间——'a skepticism towards humanity's claims to knowledge, advocating for self-acceptance and tolerance'（对人类知识主张的怀疑，倡导自我接纳与宽容——B296）。essais 一词意为'the probings and testings of his mind'（心灵的试探——B296）。名句（致读者开篇）：'I am myself the matter of my book'（我自己就是本书的题材——B296）。",
+  "timeline": [
+    {
+      "year": 1533,
+      "text": "2月28日生于蒙田城堡（B296：Born February 28, 1533, Château de Montaigne）。",
+      "src": "B296"
+    },
+    {
+      "year": 1580,
+      "text": "第一二卷（57+37章）在波尔多出版（B296：published in Bordeaux in 1580）。",
+      "src": "B296"
+    },
+    {
+      "year": 1581,
+      "text": "任波尔多市长（两任，至1585年7月——B296）。",
+      "src": "B296"
+    },
+    {
+      "year": 1588,
+      "text": "第五版首收第三卷13章（B296：the first to contain the 13 chapters of Book III）。",
+      "src": "B296"
+    },
+    {
+      "year": 1592,
+      "text": "9月23日卒于蒙田城堡（B296）。",
+      "src": "B296"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "mengtiansuibi",
+      "note": "随笔集（B296：1580，确立新文学形式）"
+    },
+    {
+      "title": "旅行日记",
+      "note": "（B296：Journal de voyage published 1774）"
+    },
+    {
+      "title": "塞朋德的认识？——不：塞朋德翻译（Sebond translation，1569）",
+      "note": "（B296：first book 1569）"
+    }
+  ],
+  "style": [
+    "'确立了新的文学形式'（B296：established a new literary form）。",
+    "自我审视的怀疑论：'self-acceptance and tolerance'（B296）。",
+    "随笔=心灵的试探（B296：probings and testings of his mind）。"
+  ],
+  "status": "Britannica 定位蒙田为随笔形式的发明者、法国文艺复兴怀疑论的代言人（B296）。",
+  "sources": [
+    "B296"
+  ],
+  "dates_source": "B296",
+  "pending": [
+    "《随笔集》三卷107篇说核对。",
+    "'Que sais-je'（我知道什么）出处待核。",
+    "名句'I am myself the matter of my book'原文核对。"
+  ]
+}

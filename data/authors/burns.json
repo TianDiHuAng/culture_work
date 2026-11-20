@@ -1,0 +1,63 @@
+{
+  "id": "burns",
+  "name": "罗伯特·彭斯",
+  "foreign_name": "Robert Burns（罗伯特·彭斯，1759-01-25—1796-07-21）",
+  "country": "英国",
+  "birth": 1759,
+  "death": 1796,
+  "birth_year": 1759,
+  "death_year": 1796,
+  "era": "近代",
+  "summary": "彭斯，苏格兰艾尔郡阿洛韦人，'considered the national poet of Scotland'（苏格兰国民诗人——B299）；农民之子，人称'Ploughman Poet'（犁夫诗人——B299），以苏格兰语与英语双语写歌词与歌曲；辑录改写数百首传统苏格兰歌曲且拒绝报酬（B299）。1786年7月31日基尔马诺克版 Poems, Chiefly in the Scottish Dialect（B299）——含 To a Mouse、The Holy Fair 等'a handful of first-rate Scots poems'（B299）；'Tam o' Shanter'（1791，mock-heroic——B299）；'contribution to over three hundred songs'（含 Auld Lang Syne——B299）。",
+  "timeline": [
+    {
+      "year": 1759,
+      "text": "1月25日生于阿洛韦（B299：Born January 25, 1759, Alloway, Ayrshire, Scotland）。",
+      "src": "B299"
+    },
+    {
+      "year": 1786,
+      "text": "7月31日基尔马诺克版诗集出版（B299）。",
+      "src": "B299"
+    },
+    {
+      "year": 1791,
+      "text": "《汤姆·奥·桑特》出版（B299：mock-heroic）。",
+      "src": "B299"
+    },
+    {
+      "year": 1796,
+      "text": "7月21日卒于邓弗里斯（37岁）（B299）。",
+      "src": "B299"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "pengsishixuan",
+      "note": "诗选（本库立目）"
+    },
+    {
+      "title": "汤姆·奥·桑特",
+      "note": "（B299：1791，mock-heroic）"
+    },
+    {
+      "title": "致老鼠、一朵红红的玫瑰",
+      "note": "（B299 载 To a Mouse；红玫瑰通说待核）"
+    }
+  ],
+  "style": [
+    "苏格兰方言与英语双语写作（B299：Poems, Chiefly in the Scottish Dialect）。",
+    "'300余首歌曲'的辑录改写、拒酬（B299）。",
+    "讽刺与抒情的'犁夫诗人'（B299：Ploughman Poet）。"
+  ],
+  "status": "Britannica 定位彭斯为苏格兰国民诗人（B299）；Auld Lang Syne 歌词作者（B299 语境）；'彭斯之夜'全球庆祝（通说待核）。",
+  "sources": [
+    "B299"
+  ],
+  "dates_source": "B299",
+  "pending": [
+    "《一朵红红的玫瑰》1794年出处待核。",
+    "彭斯之夜（Burns Night，1月25日）待核。",
+    "《致虱子》等篇目待核。"
+  ]
+}

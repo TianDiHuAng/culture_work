@@ -1,0 +1,68 @@
+{
+  "id": "henryjames",
+  "name": "亨利·詹姆斯",
+  "foreign_name": "Henry James（亨利·詹姆斯，1843-04-15—1916-02-28）",
+  "country": "美国",
+  "birth": 1843,
+  "death": 1916,
+  "birth_year": 1843,
+  "death_year": 1916,
+  "era": "现当代",
+  "summary": "亨利·詹姆斯，纽约人，美国小说家与批评家——1915年入英国籍（Britannica）；20部长篇、112个短篇、12部剧作（B297）；'a key transitional figure between literary realism and Modernism'（现实主义与现代主义之间的关键过渡人物——B297）。'James ended this first phase of his career by producing his masterpiece, The Portrait of a Lady (1881)'（B297）；'As a picture of Americans moving in the expatriate society of England and of Italy, this novel has no equal'（B297）。'Today he is best remembered as the author of the novel The Portrait of a Lady (1881) and the novella The Turn of the Screw (1898)'（B297）。",
+  "timeline": [
+    {
+      "year": 1843,
+      "text": "4月15日生于纽约（B297：Born April 15, 1843, New York City）。",
+      "src": "B297"
+    },
+    {
+      "year": 1881,
+      "text": "《一位女士的画像》出版（B297：masterpiece，1881）。",
+      "src": "B297"
+    },
+    {
+      "year": 1898,
+      "text": "《螺丝在拧紧》出版（B297：The Turn of the Screw (1898)）。",
+      "src": "B297"
+    },
+    {
+      "year": 1915,
+      "text": "入英国籍（B297：Became a British subject 1915）。",
+      "src": "B297"
+    },
+    {
+      "year": 1916,
+      "text": "2月28日卒于伦敦（B297：Died February 28, 1916, London）。",
+      "src": "B297"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yiweinvshidehuaxiang",
+      "note": "长篇（B297：masterpiece，1881）"
+    },
+    {
+      "title": "螺丝在拧紧",
+      "note": "（B297：The Turn of the Screw (1898)）"
+    },
+    {
+      "title": "鸽翼、使节",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'现实主义与现代主义之间的关键过渡人物'（B297）。",
+    "'欧美侨民社会'的画像（B297：expatriate society of England and of Italy）。",
+    "20部长篇+112短篇的多产（B297）。"
+  ],
+  "status": "Britannica 定位亨利·詹姆斯为现实主义—现代主义之间的关键过渡人物（B297）；'transatlantic culture'的伟大人物（B297 语境）。",
+  "sources": [
+    "B297"
+  ],
+  "dates_source": "B297",
+  "pending": [
+    "《一位女士的画像》1881年出版（Macmillan说）核对。",
+    "伊莎贝尔·阿切尔人名核对。",
+    "《使节》1903年说待核。"
+  ]
+}
