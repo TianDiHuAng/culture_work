@@ -1,0 +1,108 @@
+{
+  "id": "wanyaniayjiu",
+  "title": "万尼亚舅舅",
+  "original_title": "Дядя Ваня（Uncle Vanya）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "四幕剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "chikefu",
+  "author_name": "安东·契诃夫",
+  "year_display": "1897年出版（作者页 B270 口径：Uncle Vanya (1897)）",
+  "year_sort": 1897,
+  "background": [
+    "作者页（B270）：契诃夫 major works 存目含'Uncle Vanya (1897)'（B270 作者页定位）。",
+    "题材（通说待核）：乡村庄园——万尼亚舅舅为教授'牺牲'半生后的觉醒与未遂的枪击。"
+  ],
+  "outline": [
+    "教授到来：万尼亚的幻灭、叶列娜的美、阿斯特罗夫的森林演说（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "万尼亚舅舅",
+      "identity": "庄园管理者",
+      "note": "被牺牲者（通说待核）"
+    },
+    {
+      "name": "阿斯特罗夫",
+      "identity": "医生",
+      "note": "森林演说（通说待核）"
+    },
+    {
+      "name": "叶列娜",
+      "identity": "教授妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'被牺牲的'人生（通说待核）。",
+    "森林：契诃夫的生态先声（通说待核）。",
+    "无事的结尾：'休息'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：契诃夫戏剧存目（B270 作者页口径）。",
+      "source": "B270"
+    },
+    {
+      "text": "作者页：'契诃夫之枪'与未说出之重（B270）。",
+      "source": "B270"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "乡村庄园语境。",
+      "'潜台词'表演。"
+    ],
+    "editions": [
+      "《万尼亚舅舅》（人民文学出版社《契诃夫戏剧集》，通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "契诃夫戏剧四部之二。"
+  },
+  "pending": [
+    "1897年出版、1899年首演说核对。",
+    "万尼亚/阿斯特罗夫/叶列娜人名核对。",
+    "森林演说原文待核。"
+  ],
+  "sources": [
+    "B270"
+  ],
+  "year_source": "B270",
+  "author_source": "B270",
+  "related_works": [
+    "yingtaoyuan",
+    "haiou",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《万尼亚舅舅》庄园结构图",
+    "cards": [
+      {
+        "title": "庄园",
+        "text": "半生的牺牲",
+        "color": "main"
+      },
+      {
+        "title": "教授",
+        "text": "投机的功名",
+        "color": "antagonist"
+      },
+      {
+        "title": "森林演说",
+        "text": "阿斯特罗夫（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "休息",
+        "text": "无事的结尾",
+        "color": "family"
+      }
+    ]
+  }
+}

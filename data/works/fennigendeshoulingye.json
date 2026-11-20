@@ -1,0 +1,103 @@
+{
+  "id": "fennigendeshoulingye",
+  "title": "芬尼根的守灵夜",
+  "original_title": "Finnegans Wake",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语（多语混杂）",
+  "author_id": "joyce",
+  "author_name": "詹姆斯·乔伊斯",
+  "year_display": "1939年（作者页 B093 口径：芬尼根的守灵夜（1939））",
+  "year_sort": 1939,
+  "background": [
+    "作者页（B093）：乔伊斯 major_works 载'芬尼根的守灵夜（1939）'（B093 作者页定位，详见 youlisisi 条核对）。",
+    "文体（通说待核）：多语言梦语——riverrun 开篇与'here comes everybody'（通说待核）。"
+  ],
+  "outline": [
+    "都柏林酒馆老板 Humphrey Earwicker 一家的梦循环——开篇与结尾相连（riverrun，once upon a time——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "HCE",
+      "identity": "酒馆老板",
+      "note": "Here Comes Everybody（通说待核）"
+    },
+    {
+      "name": "ALP",
+      "identity": "妻子",
+      "note": "河的化身（通说待核）"
+    }
+  ],
+  "themes": [
+    "梦的语言：诸语的河流（通说待核）。",
+    "循环结构：结尾接开头（通说待核）。",
+    "所有历史的夜海（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：乔伊斯最后的长篇（B093 作者页口径）。",
+      "source": "B093"
+    },
+    {
+      "text": "被誉为最难读的英语小说之一（通说待核）。",
+      "source": "B093"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多语言造词。",
+      "环形结构——可从任意处读起。"
+    ],
+    "editions": [
+      "《芬尼根的守灵夜》（上海译文出版社戴从容译本（第一卷），通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "乔伊斯终局：先《都柏林人》《尤利西斯》后本作。"
+  },
+  "pending": [
+    "1939年出版（Faber & Faber/London与Viking说）核对。",
+    "riverrun 首词与环形结尾核对。",
+    "戴从容译本信息待核。"
+  ],
+  "sources": [
+    "B093"
+  ],
+  "year_source": "B093",
+  "author_source": "B093",
+  "related_works": [
+    "youlisisi",
+    "dubolinen",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《守灵夜》环形结构图",
+    "cards": [
+      {
+        "title": "riverrun",
+        "text": "开篇即结尾",
+        "color": "main"
+      },
+      {
+        "title": "HCE与ALP",
+        "text": "夫妻的梦",
+        "color": "family"
+      },
+      {
+        "title": "诸语",
+        "text": "多语言的河流",
+        "color": "gold"
+      },
+      {
+        "title": "夜海",
+        "text": "所有历史",
+        "color": "plain"
+      }
+    ]
+  }
+}

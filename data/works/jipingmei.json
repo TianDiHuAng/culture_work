@@ -1,0 +1,118 @@
+{
+  "id": "jipingmei",
+  "title": "金瓶梅",
+  "original_title": "金瓶梅（The Plum in the Golden Vase）",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "明（隆庆—万历）",
+  "genre": "长篇世情小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·山东方言）",
+  "author_id": null,
+  "author_name": "兰陵笑笑生（托名；Britannica：作者不可考——'the work of an unknown author of the Ming dynasty'）",
+  "year_display": "最早存世版本 dated 1617（Britannica）；成书于隆庆—万历年间（通说待核）",
+  "year_sort": 1617,
+  "background": [
+    "Britannica（B272）：金瓶梅为'China's first realistic social novel'（中国第一部现实主义社会小说）——'describes in naturalistic detail the life of the family of a well-to-do businessman, Ximen Qing'（自然主义地细描富商西门庆一家的生活）。",
+    "Britannica（B272）：'the work of an unknown author of the Ming dynasty'——作者不可考；最早存世版本 dated 1617。",
+    "争议（B272）：有人视为'simple pornography'，另有人认为色情段落服务于作者'moral purpose of exposing the vanity of pleasure'（揭露欢愉之虚妄的道德目的）；'unofficial censorship because of its eroticism'却'became one of China's most popular novels'。"
+  ],
+  "outline": [
+    "西门庆的发迹与六房妻妾：'acquiring six wives and many maidservants'（B272）；第五房潘金莲（Golden Lotus）系'poisoning her first husband'所得（B272）。",
+    "家族几近败坏（'nearly corrupted'——B272），正妻守贞并诞一子——'a Buddhist monk to atone for his father's sins'（子出家赎父罪——B272）。",
+    "书名由三位女性名字构成（金、瓶、梅——B272 Quick Facts 口径：Gold Plum Vase）。"
+  ],
+  "characters": [
+    {
+      "name": "西门庆",
+      "identity": "富商",
+      "note": "'dishonest means'起家（B272）"
+    },
+    {
+      "name": "潘金莲（Golden Lotus）",
+      "identity": "第五房",
+      "note": "毒杀亲夫而入（B272）"
+    },
+    {
+      "name": "吴月娘",
+      "identity": "正妻",
+      "note": "守贞（通说待核——B272 述'first wife stays virtuous'）"
+    }
+  ],
+  "themes": [
+    "世情小说的开山（B272：first realistic social novel）。",
+    "色情与道德目的之争（B272：pornography vs exposing vanity）。",
+    "由《水浒传》'武松杀嫂'一段演化（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the first realistic social novel to appear in China'（B272）。",
+      "source": "B272"
+    },
+    {
+      "text": "Britannica：遭'非官方审查'却成为'one of China's most popular novels'（B272）。",
+      "source": "B272"
+    },
+    {
+      "text": "英译：1939年两种译本（The Golden Lotus 等）与 David Tod Roy 五卷本（Princeton，1993—2013）（B272）。",
+      "source": "B272"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "明代山东方言。",
+      "版本谱系（词话本/绣像本说——通说待核）。",
+      "性描写的文学语境。"
+    ],
+    "editions": [
+      "《金瓶梅词话》（人民文学出版社，通说待核）。",
+      "《新刻绣像批评金瓶梅》（通说待核）。",
+      "英译 The Plum in the Golden Vase（David Tod Roy 五卷，Princeton——B272）。"
+    ],
+    "order": "先《水浒传》（武松一段）后本作；对照《红楼梦》看世情传统。"
+  },
+  "pending": [
+    "传统署名'兰陵笑笑生'与作者候选诸说（通说）待核。",
+    "一百回回目与词话本/绣像本差异待核。",
+    "中译整理本信息待核。",
+    "'四大奇书'并称出处（冯梦龙说）待核。"
+  ],
+  "sources": [
+    "B272"
+  ],
+  "year_source": "B272",
+  "author_source": "B272",
+  "related_works": [
+    "shuihu",
+    "honglou",
+    "rulin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《金瓶梅》世情结构图",
+    "cards": [
+      {
+        "title": "西门庆",
+        "text": "富商的发迹（B272）",
+        "color": "antagonist"
+      },
+      {
+        "title": "潘金莲",
+        "text": "毒夫而入（B272）",
+        "color": "main"
+      },
+      {
+        "title": "吴月娘",
+        "text": "守贞的正妻",
+        "color": "gold"
+      },
+      {
+        "title": "世情",
+        "text": "第一部社会小说（B272）",
+        "color": "family"
+      }
+    ]
+  }
+}
