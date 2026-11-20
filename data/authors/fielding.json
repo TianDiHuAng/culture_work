@@ -1,0 +1,63 @@
+{
+  "id": "fielding",
+  "name": "亨利·菲尔丁",
+  "foreign_name": "Henry Fielding（亨利·菲尔丁，1707-04-22—1754-10-08）",
+  "country": "英国",
+  "birth": 1707,
+  "death": 1754,
+  "birth_year": 1707,
+  "death_year": 1754,
+  "era": "近代",
+  "summary": "菲尔丁，英国小说家、剧作家与讽刺作家——与理查森并称英国小说的奠基者（Britannica：alongside Samuel Richardson, is regarded as a founder of the English novel）；司各特称之为'英国小说之父'（Britannica：deemed the 'father of the English novel' by Sir Walter Scott, established a tradition of realism）。1737年《许可法》终结其剧作生涯后改任律师、记者与治安官，协助创立鲍街 runners（Britannica）。《汤姆·琼斯》（1749）——'a famous comic novel'，前言自述'a comic Epic-Poem in Prose'（散文体滑稽史诗——B274）。",
+  "timeline": [
+    {
+      "year": 1707,
+      "text": "4月22日生于萨默塞特郡（Britannica：Born April 22, 1707, Sharpham Park, Somerset）。",
+      "src": "B274"
+    },
+    {
+      "year": 1742,
+      "text": "《约瑟夫·安德鲁斯》匿名出版（Britannica：published anonymously in 1742）。",
+      "src": "B274"
+    },
+    {
+      "year": 1749,
+      "text": "《汤姆·琼斯》出版（Britannica：published in 1749）。",
+      "src": "B274"
+    },
+    {
+      "year": 1754,
+      "text": "10月8日卒于里斯本（Britannica：Died Oct. 8, 1754, Lisbon）。",
+      "src": "B274"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tangmuqiongsi",
+      "note": "长篇（Britannica：1749）"
+    },
+    {
+      "title": "约瑟夫·安德鲁斯",
+      "note": "（Britannica：1742）"
+    },
+    {
+      "title": "大伟人江奈生·魏尔德",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'散文体滑稽史诗'（B274：a comic Epic-Poem in Prose——前言自述）。",
+    "现实主义的奠基传统（B274：tradition of realism）。",
+    "讽刺与治安官实务的双面（B274 语境：magistrate，Bow Street Runners）。"
+  ],
+  "status": "Britannica 定位菲尔丁为英国小说奠基者之一、被司各特称'英国小说之父'（B274）。",
+  "sources": [
+    "B274"
+  ],
+  "dates_source": "B274",
+  "pending": [
+    "《汤姆·琼斯》十八卷结构核对。",
+    "《莎米拉》1741年匿名出版（B274 已载）核对。",
+    "鲍街 runners 创立年份待核。"
+  ]
+}

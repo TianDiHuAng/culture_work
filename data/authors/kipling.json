@@ -1,0 +1,68 @@
+{
+  "id": "kipling",
+  "name": "鲁德亚德·吉卜林",
+  "foreign_name": "Rudyard Kipling（鲁德亚德·吉卜林，1865-12-30—1936-01-18）",
+  "country": "英国",
+  "birth": 1865,
+  "death": 1936,
+  "birth_year": 1865,
+  "death_year": 1936,
+  "era": "近代",
+  "summary": "吉卜林，生于孟买的英国短篇家、诗人与小说家——'best known for celebrating British imperialism, writing about British soldiers in India, and creating children's tales such as The Jungle Book'（以歌颂英帝国、写印度英军与《丛林之书》等儿童故事著称——Britannica）。1907年获诺贝尔文学奖——'the first English writer to receive the Nobel Prize'（首位获诺奖的英国作家——Britannica）。'Kim (1901), about an Irish orphan in India, is a classic'（《吉姆》经典——B277）；'The Jungle Book (1894) and The Second Jungle Book (1895) are stylistically superb collections of stories'（B277）。",
+  "timeline": [
+    {
+      "year": 1865,
+      "text": "12月30日生于孟买（Britannica：Born December 30, 1865, Bombay）。",
+      "src": "B277"
+    },
+    {
+      "year": 1882,
+      "text": "回印度做记者七年（Britannica：returned to India in 1882……worked for seven years as a journalist）。",
+      "src": "B277"
+    },
+    {
+      "year": 1901,
+      "text": "《吉姆》出版（B277：Kim (1901)）。",
+      "src": "B277"
+    },
+    {
+      "year": 1907,
+      "text": "获诺贝尔文学奖（B277：Nobel Prize 1907）。",
+      "src": "B277"
+    },
+    {
+      "year": 1936,
+      "text": "1月18日卒于伦敦（B277：Died January 18, 1936, London）。",
+      "src": "B277"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jim",
+      "note": "长篇（B277：1901，classic）"
+    },
+    {
+      "title": "丛林之书（一、二）",
+      "note": "（B277：1894/1895，'stylistically superb'）"
+    },
+    {
+      "title": "山里的平凡故事",
+      "note": "（B277：Plain Tales from the Hills 1888）"
+    }
+  ],
+  "style": [
+    "'stylistically superb'的丛林故事（B277）。",
+    "帝国书写与争议（Britannica 语境：celebrating British imperialism）。",
+    "'讲故事'的才能与'平衡 cohesive 长篇'的不稳定（B277：excelled at telling a story but was inconsistent in producing balanced, cohesive novels）。"
+  ],
+  "status": "Britannica 定位吉卜林为1907年诺奖得主（首位英国获奖者）；《吉姆》为经典（B277）；其帝国立场引发后世争议（通说待核）。",
+  "sources": [
+    "B277"
+  ],
+  "dates_source": "B277",
+  "pending": [
+    "《吉姆》故事细节（西藏喇嘛/大游戏）待核。",
+    "帝国立场争议（后殖民批评）待核。",
+    "《丛林之书》篇目待核。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "gide",
+  "name": "安德烈·纪德",
+  "foreign_name": "André Gide（安德烈·纪德，1869-11-22—1951-02-19）",
+  "country": "法国",
+  "birth": 1869,
+  "death": 1951,
+  "birth_year": 1869,
+  "death_year": 1951,
+  "era": "现当代",
+  "summary": "纪德，巴黎人，法国作家、人文主义者与道德家（Britannica：a French writer, humanist, and moralist）——其 récits 与小说'probed individual freedom and moral ambiguity'（探察个人自由与道德含混——Britannica）。1947年获诺贝尔文学奖（Britannica）。《伪币制造者》（1926）——'Gide called his next work, Les Faux-Monnayeurs (1926; The Counterfeiters), his only novel'（自称为其唯一的长篇小说——B275）；'the most complex and intricately constructed of his works'（B275）。《背德者》（1902）为其创作盛期之作（B275）。",
+  "timeline": [
+    {
+      "year": 1869,
+      "text": "11月22日生于巴黎（Britannica：Born November 22, 1869, Paris）。",
+      "src": "B275"
+    },
+    {
+      "year": 1902,
+      "text": "《背德者》出版（Britannica：L'Immoraliste (1902)）。",
+      "src": "B275"
+    },
+    {
+      "year": 1926,
+      "text": "《伪币制造者》出版（Britannica：Les Faux-Monnayeurs (1926)）。",
+      "src": "B275"
+    },
+    {
+      "year": 1947,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 1947）。",
+      "src": "B275"
+    },
+    {
+      "year": 1951,
+      "text": "2月19日卒于巴黎（Britannica：Died February 19, 1951, Paris）。",
+      "src": "B275"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "weibizaozhe",
+      "note": "长篇（Britannica：1926，唯一小说）"
+    },
+    {
+      "title": "背德者、窄门",
+      "note": "（Britannica：L'Immoraliste (1902)，Strait Is the Gate）"
+    },
+    {
+      "title": "田园交响曲",
+      "note": "（Britannica：The Pastoral Symphony）"
+    }
+  ],
+  "style": [
+    "'探察个人自由与道德含混'（B275：probed individual freedom and moral ambiguity）。",
+    "'最复杂、结构最精巧'的作品（《伪币制造者》——B275）。",
+    "不连续场景（B275：told through discontinuous scenes）。"
+  ],
+  "status": "Britannica 定位纪德为法国作家与道德家、1947年诺奖得主；自认《伪币制造者》为其唯一'novel'（B275）。",
+  "sources": [
+    "B275"
+  ],
+  "dates_source": "B275",
+  "pending": [
+    "《伪币制造者》'小说中的小说'嵌套结构待核。",
+    "《背德者》1902年出版细节核对。",
+    "《人间食粮》（1897）待核。"
+  ]
+}

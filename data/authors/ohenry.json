@@ -1,0 +1,68 @@
+{
+  "id": "ohenry",
+  "name": "欧·亨利",
+  "foreign_name": "O. Henry（欧·亨利，本名威廉·西德尼·波特，1862-09-11—1910-06-05）",
+  "country": "美国",
+  "birth": 1862,
+  "death": 1910,
+  "birth_year": 1862,
+  "death_year": 1910,
+  "era": "近代",
+  "summary": "欧·亨利，本名威廉·西德尼·波特（Britannica），美国短篇小说家——以温暖幽默地写日常生活特别是纽约小人物著称（Britannica 语境：warm, humorous tales about everyday life, especially in New York City）。1903年12月至1906年1月'produced a story a week for the New York Sunday World magazine'（每周一篇——B273）；The Four Million (1906) 收'widely popular'的《麦琪的礼物》（B273）；1898年入俄亥俄州监狱（刑期五年减为三年），狱中医院夜班药剂师写作（B273）。'His stories often had surprise endings, a device that became identified with his name'（'欧·亨利式结尾'——B273）。",
+  "timeline": [
+    {
+      "year": 1862,
+      "text": "9月11日生于北卡罗来纳州格林斯伯勒（Britannica）。",
+      "src": "B273"
+    },
+    {
+      "year": 1898,
+      "text": "入哥伦布监狱（刑期缩短为三年），狱中写作（B273）。",
+      "src": "B273"
+    },
+    {
+      "year": 1903,
+      "text": "12月起为《纽约世界报》周日杂志每周一篇（至1906年1月）（B273）。",
+      "src": "B273"
+    },
+    {
+      "year": 1906,
+      "text": "《四百万》出版，含《麦琪的礼物》（B273）。",
+      "src": "B273"
+    },
+    {
+      "year": 1910,
+      "text": "6月5日卒于纽约（B273）。",
+      "src": "B273"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "ouhengliduanpianxuan",
+      "note": "短篇选（B273：The Four Million 1906）"
+    },
+    {
+      "title": "最后一片叶子、警察与赞美诗",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "白菜与皇帝",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'欧·亨利式结尾'：surprise endings（B273）。",
+    "'幽默、严峻或反讽的巧合'（B273：effect of coincidence on character through humour）。",
+    "纽约小人物的温暖书写（B273 语境）。"
+  ],
+  "status": "Britannica 定位欧·亨利为美国短篇名家、'欧·亨利式结尾'的命名来源；'当此风过时也使其失去批评界的青睐'（B273：cost him critical favour）。",
+  "sources": [
+    "B273"
+  ],
+  "dates_source": "B273",
+  "pending": [
+    "本名 William Sydney Porter（B273 已载 pen name of William Sydney Porter）核对。",
+    "《麦琪的礼物》1905年首发（《纽约世界报》说）待核。",
+    "'欧·亨利式结尾'中文术语出处待核。"
+  ]
+}

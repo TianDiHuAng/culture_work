@@ -1,0 +1,68 @@
+{
+  "id": "ONeill",
+  "name": "尤金·奥尼尔",
+  "foreign_name": "Eugene ONeill（尤金·格莱斯顿·奥尼尔，1888-10-16—1953-11-27）",
+  "country": "美国",
+  "birth": 1888,
+  "death": 1953,
+  "birth_year": 1888,
+  "death_year": 1953,
+  "era": "现当代",
+  "summary": "奥尼尔，纽约人，美国最重要的剧作家——'a foremost American dramatist who won the 1936 Nobel Prize in Literature and is widely credited with elevating American theatre into a serious literary medium'（被广泛认为使美国戏剧成为严肃文学媒介——Britannica）。四项普利策戏剧奖（Beyond the Horizon、Anna Christie、Strange Interlude、Long Day's Journey into Night——B272）；'His masterpiece, Long Day's Journey into Night (produced posthumously 1956)'（身后1956年上演的杰作《进入黑夜的漫长旅程》——B272）。",
+  "timeline": [
+    {
+      "year": 1888,
+      "text": "10月16日生于纽约（Britannica：Born October 16, 1888, New York City）。",
+      "src": "B272"
+    },
+    {
+      "year": 1920,
+      "text": "《天边外》获首个普利策戏剧奖（Britannica：Beyond the Horizon……first of four Pulitzer prizes）。",
+      "src": "B272"
+    },
+    {
+      "year": 1936,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize 1936）。",
+      "src": "B272"
+    },
+    {
+      "year": 1956,
+      "text": "《进入黑夜的漫长旅程》身后上演（Britannica：produced posthumously 1956）。",
+      "src": "B272"
+    },
+    {
+      "year": 1953,
+      "text": "11月27日卒于波士顿（Britannica：died November 27, 1953, Boston）。",
+      "src": "B272"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "manchangdeheian",
+      "note": "戏剧（Britannica：masterpiece，身后1956）"
+    },
+    {
+      "title": "送冰的人来了",
+      "note": "（Britannica：The Iceman Cometh (1946)）"
+    },
+    {
+      "title": "天边外、安娜·克里斯蒂",
+      "note": "（Britannica：普利策作品）"
+    }
+  ],
+  "style": [
+    "'以家庭悲剧与希腊悲剧'为源（Britannica：drew heavily on family tragedy and Greek tragedy）。",
+    "使美国戏剧成为严肃文学媒介（B272：elevating American theatre）。",
+    "自传性：《进入黑夜的漫长旅程》写自家毒瘾与病（通说待核）。"
+  ],
+  "status": "Britannica 定位奥尼尔为美国最重要的剧作家、1936年诺奖得主、四项普利策戏剧奖（B272）。",
+  "sources": [
+    "B272"
+  ],
+  "dates_source": "B272",
+  "pending": [
+    "《进入黑夜的漫长旅程》写作年份（1939—41说）与身后1956年上演核对。",
+    "四项普利策年份逐项核对。",
+    "自传性（家庭成员对应）待核。"
+  ]
+}

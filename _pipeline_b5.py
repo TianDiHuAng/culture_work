@@ -245,7 +245,7 @@ works = {
   "id":"yuehankelisituofu","title":"约翰·克利斯朵夫","original_title":"Jean-Christophe","region":"法国","era":"现当代","era_detail":"20世纪",
   "genre":"十卷大河小说","genre_group":"小说","language":"法语","author_id":"rolland","author_name":"罗曼·罗兰",
   "year_display":"1904—1912年十卷（Britannica：Jean-Christophe, 10 vol. (1904–12)——'a prime example of the roman fleuve'）","year_sort":1908,
-  "background":["Britannica（B276）：'Rolland's masterpiece, Jean-Christophe... is a prime example of the roman fleuve ("novel cycle") in France'；10卷刊于 Les Cahiers de la Quinzaine（B276）。","题材（通说待核）：德国血统的音乐家约翰·克利斯朵夫·克拉夫特的一生——以贝多芬为原型（B276：Vie de Beethoven 语境）。"],
+  "background":["Britannica（B276）：'Rolland's masterpiece, Jean-Christophe... is a prime example of the roman fleuve（novel cycle）in France'；10卷刊于 Les Cahiers de la Quinzaine（B276）。","题材（通说待核）：德国血统的音乐家约翰·克利斯朵夫·克拉夫特的一生——以贝多芬为原型（B276：Vie de Beethoven 语境）。"],
   "outline":["音乐家的一生：德国—巴黎—瑞士—意大利（通说待核）。","'音乐'与'生活'的同构（通说待核）。"],
   "characters":[{"name":"约翰·克利斯朵夫·克拉夫特","identity":"音乐家","note":"以贝多芬为原型（通说待核）"},{"name":"奥里维","identity":"法国友人","note":"（通说待核）"}],
   "themes":["'大河小说'（B276：roman fleuve）。",

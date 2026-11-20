@@ -1,0 +1,63 @@
+{
+  "id": "rolland",
+  "name": "罗曼·罗兰",
+  "foreign_name": "Romain Rolland（罗曼·罗兰，1866-01-29—1944-12-30）",
+  "country": "法国",
+  "birth": 1866,
+  "death": 1944,
+  "birth_year": 1866,
+  "death_year": 1944,
+  "era": "现当代",
+  "summary": "罗兰，法国小说家、剧作家与散文家——致力于和平主义、反法西斯主义与艺术天才研究（Britannica：committed to pacifism, anti-fascism, and the study of artistic genius）。'Rolland's masterpiece, Jean-Christophe... is a prime example of the roman fleuve (novel cycle) in France'（大河小说在法国的典范——B276）；10卷（1904—12）。1915年获诺贝尔文学奖——'For this and for his pamphlet Au-dessus de la mêlée (1915...)'（连同反战小册子《超然于纷争之上》——B276）。贝多芬传记（1903）——贝多芬'was for Rolland the universal musician above all the others'（B276）。",
+  "timeline": [
+    {
+      "year": 1866,
+      "text": "1月29日生于克拉姆西（Britannica：Born Jan. 29, 1866, Clamecy, France）。",
+      "src": "B276"
+    },
+    {
+      "year": 1904,
+      "text": "《约翰·克利斯朵夫》开始出版（1904—12，10卷）（B276）。",
+      "src": "B276"
+    },
+    {
+      "year": 1915,
+      "text": "获诺贝尔文学奖（B276：Nobel Prize 1915）。",
+      "src": "B276"
+    },
+    {
+      "year": 1944,
+      "text": "12月30日卒于韦兹莱（B276：died Dec. 30, 1944, Vézelay）。",
+      "src": "B276"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yuehankelisituofu",
+      "note": "十卷大河小说（B276：masterpiece）"
+    },
+    {
+      "title": "贝多芬传、米开朗琪罗传、托尔斯泰传",
+      "note": "（B276：Vie de Beethoven (1903) 等传记系列）"
+    },
+    {
+      "title": "欣悦的灵魂",
+      "note": "（B276：L'Âme-enchantée 1922–33）"
+    }
+  ],
+  "style": [
+    "'大河小说'（roman fleuve）的法国典范（B276）。",
+    "英雄传记系列：'passion for the heroic'（B276）。",
+    "和平主义与反法西斯（B276：committed to pacifism, anti-fascism）。"
+  ],
+  "status": "Britannica 定位罗兰为1915年诺奖得主、《约翰·克利斯朵夫》作者与《贝多芬传》等英雄传记的写作者（B276）。",
+  "sources": [
+    "B276"
+  ],
+  "dates_source": "B276",
+  "pending": [
+    "十卷分期（1904—1912）核对。",
+    "傅雷译本（4册说）待核。",
+    "《超然于纷争之上》1915年细节核对。"
+  ]
+}
