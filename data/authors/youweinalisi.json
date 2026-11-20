@@ -1,0 +1,55 @@
+{
+  "id": "youweinalisi",
+  "name": "尤维纳利斯",
+  "foreign_name": "Juvenal（德基穆斯·尤尼乌斯·尤维纳利斯，约公元55/60—约127年后）",
+  "country": "古罗马",
+  "birth": 57,
+  "death": 127,
+  "birth_year": 57,
+  "death_year": 127,
+  "era": "古代",
+  "summary": "尤维纳利斯（Decimus Junius Juvenalis），意大利阿奎南姆生（B304：Born '55–60? ce' in Aquinum）——罗马讽刺诗人，16首讽刺诗'the corruption of society in the city of Rome and the follies and brutalities of mankind'（谴责罗马社会的腐败与人类的愚蠢残忍——B304）。图密善治下被放逐（81—96）、96年返罗马（B304）；卷一发表于100—110之间（B304）。其尖锐警句与对薄伽丘、布瓦洛、拜伦的影响使其成为'最有力量的罗马讽刺诗人'，'Juvenalian satire'以其名命名（B304 语境）。",
+  "timeline": [
+    {
+      "year": 57,
+      "text": "约生于阿奎南姆（B304：Born '55–60? ce' in Aquinum, Italy）。",
+      "src": "B304"
+    },
+    {
+      "year": 96,
+      "text": "图密善死后返罗马（B304：banishment under Domitian (81–96 ce); return to Rome in 96）。",
+      "src": "B304"
+    },
+    {
+      "year": 100,
+      "text": "卷一发表于100—110之间（B304）。",
+      "src": "B304"
+    },
+    {
+      "year": 127,
+      "text": "约卒（B304：probably in or after 127；卷五提及127年）。",
+      "src": "B304"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fengshishi",
+      "note": "讽刺诗集（B304：16首 Satires）"
+    }
+  ],
+  "style": [
+    "' Juvenalian satire'以其名命名（B304 语境）。",
+    "警句的锋利（B304：biting epigrams）。",
+    "'面包与马戏''谁来监督监督者'等警句（B304）。"
+  ],
+  "status": "Britannica 定位尤维纳利斯为罗马讽刺诗人——对后世讽刺文学影响深远（B304 语境）。",
+  "sources": [
+    "B304"
+  ],
+  "dates_source": "B304",
+  "pending": [
+    "16首讽刺诗篇目核对。",
+    "放逐原因（演员潘托米姆斯事件说）待核。",
+    "名句原文逐条核对。"
+  ]
+}

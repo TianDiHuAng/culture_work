@@ -1,0 +1,68 @@
+{
+  "id": "horace",
+  "name": "贺拉斯",
+  "foreign_name": "Horace（昆图斯·霍拉提乌斯·弗拉库斯，公元前65年12月—公元前8年11月27日）",
+  "country": "古罗马",
+  "birth": -65,
+  "death": -8,
+  "birth_year": -65,
+  "death_year": -8,
+  "era": "古代",
+  "summary": "贺拉斯（昆图斯·霍拉提乌斯·弗拉库斯），维努西亚生，'a leading Latin lyric poet and satirist of the Augustan Age'（奥古斯都时代拉丁抒情诗与讽刺诗的领军者——Britannica），作品把希腊抒情形式移植入拉丁语。曾为布鲁图斯在菲力皮作战、失去家庭农场，经梅塞纳斯赞助而 rise 至'Augustus' unofficial poet laureate'（奥古斯都的非官方桂冠诗人——Britannica）。Odes 三卷88首 short poems 23 BC 出版；第四卷15首（最晚诗属13 BC——B302）。《诗艺》（约19—18 BC）——'a series of insights into writing poetry, choosing genres, and combining genius with craftsmanship'（B302）。carpe diem（'pluck the day'/'seize the day'）为贯穿主题（B302）。",
+  "timeline": [
+    {
+      "year": -65,
+      "text": "12月生于维努西亚（B302：Born December 65 BC in Venusia, Italy）。",
+      "src": "B302"
+    },
+    {
+      "year": -42,
+      "text": "菲力皮之战为布鲁图斯而战，战后失农场（B302 语境）。",
+      "src": "B302"
+    },
+    {
+      "year": -23,
+      "text": "Odes 三卷88首出版（B302：published three books, comprising 88 short poems, in 23 bc）。",
+      "src": "B302"
+    },
+    {
+      "year": -13,
+      "text": "第四卷15首（最晚诗属13 BC——B302）。",
+      "src": "B302"
+    },
+    {
+      "year": -8,
+      "text": "11月27日卒于罗马（B302：died Nov. 27, 8 BC in Rome）。",
+      "src": "B302"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "geti",
+      "note": "抒情诗集（B302：三卷88首23 BC+第四卷15首）"
+    },
+    {
+      "title": "诗艺",
+      "note": "（B302：Ars Poetica，约19—18 BC）"
+    },
+    {
+      "title": "讽刺诗集、书信集",
+      "note": "（B302：Satires, Epistles）"
+    }
+  ],
+  "style": [
+    "'leading Latin lyric poet and satirist of the Augustan Age'（B302）。",
+    "把希腊抒情形式移植入拉丁语（B302 语境：adapted Greek lyric forms into Latin）。",
+    "carpe diem——'seize the day'（B302：贯穿主题）。"
+  ],
+  "status": "Britannica 定位贺拉斯为奥古斯都时代拉丁抒情诗与讽刺诗领军者、'奥古斯都的非官方桂冠诗人'（B302）。",
+  "sources": [
+    "B302"
+  ],
+  "dates_source": "B302",
+  "pending": [
+    "'carpe diem'出自《颂歌》第1.11的原文核对。",
+    "第四卷15首年份核对。",
+    "梅塞纳斯赞助关系（B302 已载）展开核对。"
+  ]
+}

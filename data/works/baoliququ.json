@@ -1,0 +1,103 @@
+{
+  "id": "baoliququ",
+  "title": "暴力夺取",
+  "original_title": "The Violent Bear It Away",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "oconnor",
+  "author_name": "弗兰纳里·奥康纳",
+  "year_display": "1960年（作者页 B291 口径：The Violent Bear It Away (1960)）",
+  "year_sort": 1960,
+  "background": [
+    "作者页（B291）：奥康纳 major_works 载'The Violent Bear It Away (1960)'（B291 作者页定位，详见 haorennanxun 条核对）。",
+    "题材（通说待核）：少年塔沃特与叔公老梅森的'先知'使命——世俗教育与先知书的对撞。"
+  ],
+  "outline": [
+    "老梅森去世——塔沃特拒绝先知使命却终被'暴力'夺取（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "塔沃特",
+      "identity": "少年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "老梅森",
+      "identity": "叔公",
+      "note": "先知（通说待核）"
+    }
+  ],
+  "themes": [
+    "先知的'暴力'使命（书名通说——出自《马太福音》语境待核）。",
+    "世俗教育与宗教召唤的对撞（通说待核）。",
+    "南方哥特（B291 作者级语境）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：奥康纳第二部长篇（B291 作者页口径）。",
+      "source": "B291"
+    },
+    {
+      "text": "作者页：'violence……preparing them to accept their moment of grace'（B291 作者自述）。",
+      "source": "B291"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "先知书意象。",
+      "双重叙事（雷拜与塔沃特）。"
+    ],
+    "editions": [
+      "《暴力夺取》（新星出版社《慧血：奥康纳作品集》，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《慧血》后本作。"
+  },
+  "pending": [
+    "1960年出版（Farrar, Straus说）核对。",
+    "塔沃特/老梅森人名核对。",
+    "书名出处（《马太福音》11:12说）待核。"
+  ],
+  "sources": [
+    "B291"
+  ],
+  "year_source": "B291",
+  "author_source": "B291",
+  "related_works": [
+    "huixue",
+    "haorennanxun",
+    "juwairen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《暴力夺取》先知结构图",
+    "cards": [
+      {
+        "title": "老梅森",
+        "text": "先知的遗嘱",
+        "color": "family"
+      },
+      {
+        "title": "塔沃特",
+        "text": "拒绝的少年",
+        "color": "main"
+      },
+      {
+        "title": "暴力",
+        "text": "夺取的恩典",
+        "color": "antagonist"
+      },
+      {
+        "title": "书名",
+        "text": "马太福音语境（待核）",
+        "color": "gold"
+      }
+    ]
+  }
+}

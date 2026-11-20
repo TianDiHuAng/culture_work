@@ -1,0 +1,109 @@
+{
+  "id": "saiweiliyadelifeishi",
+  "title": "塞维利亚的理发师",
+  "original_title": "Le Barbier de Séville; ou, la Précaution inutile",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "18世纪",
+  "genre": "四幕喜剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "beaumarchais",
+  "author_name": "博马舍（Pierre-Augustin Caron de Beaumarchais，生平通说待核）",
+  "year_display": "1775年演出并出版（Britannica：performed and published in 1775）",
+  "year_sort": 1775,
+  "background": [
+    "Britannica（B305）：'four-act farcical drama'，'performed and published in 1775'；情节：Almaviva伯爵爱Rosine（Bartholo医生欲娶之而将其锁于家）——伪装（乐师Alonzo）与Figaro的帮助下胜出并完婚。",
+    "'The play achieved great popularity for its ingeniously constructed plot and lively wit'（B305）；'was the basis of the 1816 opera' Il barbiere di Siviglia by Rossini（B305）。"
+  ],
+  "outline": [
+    "Almaviva的伪装求爱：音乐师Alonzo、醉兵——Figaro的机智（B305 语境）。",
+    "Bartholo的阻挠与婚约的达成（B305 语境）。"
+  ],
+  "characters": [
+    {
+      "name": "费加罗",
+      "identity": "理发师",
+      "note": "（B305）"
+    },
+    {
+      "name": "阿玛维瓦伯爵",
+      "identity": "伯爵",
+      "note": "（B305）"
+    },
+    {
+      "name": "罗西娜",
+      "identity": "少女",
+      "note": "（B305：Rosine）"
+    }
+  ],
+  "themes": [
+    "'精巧的情节与活泼的机智'（B305）。",
+    "仆人的智慧（Figaro——B305 语境）。",
+    "启蒙时代的反讽（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'The play achieved great popularity for its ingeniously constructed plot and lively wit'（B305）。",
+      "source": "B305"
+    },
+    {
+      "text": "Britannica：1816年罗西尼歌剧的基础（B305）。",
+      "source": "B305"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "法语喜剧对白。",
+      "费加罗三部曲顺序。"
+    ],
+    "editions": [
+      "《塞维利亚的理发师》（收于博马舍戏剧集，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "费加罗三部曲之首（理发师→婚礼→有罪的母亲）。"
+  },
+  "pending": [
+    "1775年2月首演（Comédie-Française说）核对。",
+    "Rosine/Bartholo人名核对。",
+    "《费加罗的婚礼》1784年说待核。"
+  ],
+  "sources": [
+    "B305"
+  ],
+  "year_source": "B305",
+  "author_source": "B305",
+  "related_works": [
+    "fuhiu",
+    "bukeerxi",
+    "tangjihede"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《理发师》智斗结构图",
+    "cards": [
+      {
+        "title": "Almaviva",
+        "text": "伪装的伯爵",
+        "color": "main"
+      },
+      {
+        "title": "Figaro",
+        "text": "机智的理发师（B305）",
+        "color": "gold"
+      },
+      {
+        "title": "Bartholo",
+        "text": "锁住少女的医生",
+        "color": "antagonist"
+      },
+      {
+        "title": "罗西娜",
+        "text": "被监护者",
+        "color": "family"
+      }
+    ]
+  }
+}

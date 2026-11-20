@@ -1,0 +1,104 @@
+{
+  "id": "sadiliKong",
+  "title": "萨蒂利孔",
+  "original_title": "Satyricon",
+  "region": "古罗马",
+  "era": "古代",
+  "era_detail": "尼禄时代（1世纪）",
+  "genre": "小说（存世残篇）",
+  "genre_group": "小说",
+  "language": "拉丁语",
+  "author_id": "petronius",
+  "author_name": "佩特罗尼乌斯（'arbiter elegantiae'）",
+  "year_display": "成书年代不确（约1世纪——通说待核）；作者卒于66年（Britannica：died in ad 66）",
+  "year_sort": 60,
+  "background": [
+    "Britannica（B303）：'The longest and the best episode in the surviving portions of the Satyricon is the Cena Trimalchionis, or Banquet of Trimalchio (ch. 26–78)'；存世部分'probably represent about one-tenth of the complete work'。",
+    "作者（B303）：'welcomed by Nero into his inner circle as his director of elegance (arbiter elegantiae), whose word on all matters of taste was law'。"
+  ],
+  "outline": [
+    "恩科尔皮乌斯与 Giton 的流浪——特里马尔奇奥的宴会（第26—78章）（B303）。",
+    "'Trimalchio is the quintessence of the parvenu'（暴发户的典型——B303）。"
+  ],
+  "characters": [
+    {
+      "name": "特里马尔奇奥",
+      "identity": "暴发户",
+      "note": "'quintessence of the parvenu'（B303）"
+    },
+    {
+      "name": "恩科尔皮乌斯",
+      "identity": "叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "暴发户的讽刺（B303）。",
+    "散文与韵文混合（B303：mixture of prose and verse）。",
+    "尼禄时代的'趣味'与虚伪（B303 语境：arbiter elegantiae）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'In his book, as in his life, Petronius achieved fame by indolence'（B303）。",
+      "source": "B303"
+    },
+    {
+      "text": "作者页：'pure, easy, and elegant'的语言（B303）。",
+      "source": "B303"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "残篇的断裂。",
+      "拉丁俗语。"
+    ],
+    "editions": [
+      "《萨蒂利孔》（人民文学出版社/上海译文版本，通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "古典讽刺进阶之作。"
+  },
+  "pending": [
+    "宴会章节（26—78）细节核对。",
+    "残篇比例（十分之一说——B303 已载）核对。",
+    "费里尼电影（1969年 Fellini Satyricon）待核。"
+  ],
+  "sources": [
+    "B303"
+  ],
+  "year_source": "B303",
+  "author_source": "B303",
+  "related_works": [
+    "bianxingji_ovid",
+    "aeneid",
+    "嘉莉妹妹"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《萨蒂利孔》宴会结构图",
+    "cards": [
+      {
+        "title": "宴会",
+        "text": "特里马尔奇奥（B303）",
+        "color": "antagonist"
+      },
+      {
+        "title": "暴发户",
+        "text": "parvenu 的典型",
+        "color": "main"
+      },
+      {
+        "title": "散文与韵文",
+        "text": "混合文体（B303）",
+        "color": "gold"
+      },
+      {
+        "title": "残篇",
+        "text": "十分之一（B303）",
+        "color": "family"
+      }
+    ]
+  }
+}

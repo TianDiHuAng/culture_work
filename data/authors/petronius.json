@@ -1,0 +1,50 @@
+{
+  "id": "petronius",
+  "name": "佩特罗尼乌斯",
+  "foreign_name": "Petronius Arbiter（佩特罗尼乌斯·阿尔比特尔，卒于公元66年）",
+  "country": "古罗马",
+  "birth": null,
+  "death": 66,
+  "birth_year": null,
+  "death_year": 66,
+  "era": "古代",
+  "summary": "佩特罗尼乌斯（可能名 Titus Petronius Niger），罗马贵族——任执政官（'probably consul in ad 62 or 63'——B303）后为尼禄的'director of elegance (arbiter elegantiae), whose word on all matters of taste was law'（趣味裁定者——B303）；66年因诬陷谋反被迫自尽（B303）。被视为《萨蒂利孔》的作者：'The longest and the best episode in the surviving portions of the Satyricon is the Cena Trimalchionis, or Banquet of Trimalchio (ch. 26–78)'（特里马尔奇奥的宴会——B303）；存世部分'probably represent about one-tenth of the complete work'（B303）；'Trimalchio is the quintessence of the parvenu'（暴发户的典型——B303）。",
+  "timeline": [
+    {
+      "year": "约1世纪",
+      "text": "生活于尼禄时代；'probably consul in ad 62 or 63'，任'arbiter elegantiae'（B303）。",
+      "src": "B303"
+    },
+    {
+      "year": 66,
+      "text": "因诬陷谋反而被迫自尽（B303）。",
+      "src": "B303"
+    },
+    {
+      "year": 1617,
+      "text": "《萨蒂利孔》残篇最早刊本见于后世编订（细节通说待核）；存世约当全稿十分之一（B303）。",
+      "src": "B303"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "sadiliKong",
+      "note": "小说（存世残篇）（B303：Satyricon）"
+    }
+  ],
+  "style": [
+    "'arbiter elegantiae'：趣味裁定者（B303）。",
+    "散文与韵文混合（B303：mixture of prose and verse）。",
+    "语言'pure, easy, and elegant'（B303）——'achieved fame by indolence'（B303）。"
+  ],
+  "status": "Britannica 定位佩特罗尼乌斯为罗马贵族、《萨蒂利孔》的'公认'作者——生年不详、66年自尽（B303）。",
+  "sources": [
+    "B303"
+  ],
+  "dates_source": "B303",
+  "pending": [
+    "作者全名（Titus Petronius Niger说）待核。",
+    "《萨蒂利孔》残篇（第15、16卷部分）细节待核。",
+    "特里马尔奇奥宴会（第26—78章）细节核对。"
+  ]
+}

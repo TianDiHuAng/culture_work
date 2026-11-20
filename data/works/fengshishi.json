@@ -1,0 +1,99 @@
+{
+  "id": "fengshishi",
+  "title": "讽刺诗集",
+  "original_title": "Saturae（16首 Satires）",
+  "region": "古罗马",
+  "era": "古代",
+  "era_detail": "1—2世纪",
+  "genre": "讽刺诗集",
+  "genre_group": "诗歌",
+  "language": "拉丁语",
+  "author_id": "youweinalisi",
+  "author_name": "尤维纳利斯（Decimus Junius Juvenalis）",
+  "year_display": "卷一发表于100—110年间（Britannica：Book One issued between 100 and 110；卷五提及127年）",
+  "year_sort": 100,
+  "background": [
+    "Britannica（B304）：'The Satires attack two main themes: the corruption of society in the city of Rome and the follies and brutalities of mankind'（谴责罗马社会的腐败与人类的愚蠢残忍——B304）。",
+    "名句（B304）：'bread and circuses'（面包与马戏）、'Who will guard the guards themselves?'（谁来监督监督者）、'a sound mind in a sound body, and a brave heart'、'Slow rises worth, by poverty oppressed'、'The greatest reverence is due to a child'。",
+    "'Juvenalian satire'以其名命名（B304 语境）——对薄伽丘、布瓦洛、拜伦的影响（B304 语境）。"
+  ],
+  "outline": [
+    "16首讽刺诗：罗马的腐败、富有与世袭贵族（B304：the vice, crime, misuse of wealth, and cult of hereditary nobility）。"
+  ],
+  "characters": [
+    {
+      "name": "尤维纳利斯",
+      "identity": "讽刺诗人",
+      "note": "（B304）"
+    }
+  ],
+  "themes": [
+    "罗马的腐败与人类的残忍（B304）。",
+    "'面包与马戏'（B304 名句）。",
+    "'谁来监督监督者'（B304 名句）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Juvenalian satire'以其名命名——对后世讽刺文学影响（B304 语境）。",
+      "source": "B304"
+    },
+    {
+      "text": "Britannica：警句流传（'bread and circuses'等——B304）。",
+      "source": "B304"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "罗马社会史。",
+      "讽刺的修辞（sermo）。"
+    ],
+    "editions": [
+      "《尤维纳利斯讽刺诗》（人民文学出版社，通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "罗马讽刺诗首选。"
+  },
+  "pending": [
+    "16首篇目（第三首《罗马之夜》等）核对。",
+    "放逐原因（潘托米姆斯事件说）待核。",
+    "名句拉丁原文逐条核对。"
+  ],
+  "sources": [
+    "B304"
+  ],
+  "year_source": "B304",
+  "author_source": "B304",
+  "related_works": [
+    "fengshishi",
+    "luoshengmen",
+    "guanchangxianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《讽刺诗集》名句结构图",
+    "cards": [
+      {
+        "title": "面包与马戏",
+        "text": "名句（B304）",
+        "color": "gold"
+      },
+      {
+        "title": "谁来监督监督者",
+        "text": "名句（B304）",
+        "color": "main"
+      },
+      {
+        "title": "罗马的腐败",
+        "text": "两大主题之一（B304）",
+        "color": "antagonist"
+      },
+      {
+        "title": "Juvenalian",
+        "text": "以其名命名的讽刺",
+        "color": "family"
+      }
+    ]
+  }
+}

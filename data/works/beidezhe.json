@@ -1,0 +1,104 @@
+{
+  "id": "beidezhe",
+  "title": "背德者",
+  "original_title": "L'Immoraliste（The Immoralist）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "gide",
+  "author_name": "安德烈·纪德",
+  "year_display": "1902年（作者页 B275 口径：L'Immoraliste (1902)——创作盛期之作）",
+  "year_sort": 1902,
+  "background": [
+    "作者页（B275）：纪德 major_works 载'L'Immoraliste (1902)'——'the page lists it among works from his great creative period'（创作盛期——B275）；问题（B275 问答）：'the point at which concern for the self must be superseded by moral principles'（对自我的关切何时须被道德原则取代）。",
+    "纪德（B275）：1947年诺奖；'probed individual freedom and moral ambiguity'。"
+  ],
+  "outline": [
+    "米歇尔的北非觉醒与自我放纵——'背德'的自白（通说待核）。",
+    "玛尔塞拉的病与死（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "米歇尔",
+      "identity": "学者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "玛尔塞拉",
+      "identity": "妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "自我的觉醒与'背德'（B275：moral ambiguity 语境）。",
+    "'自我关切与道德原则'的边界（B275 问答）。",
+    "北非的身体苏醒（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：纪德创作盛期之作（B275 作者页口径）。",
+      "source": "B275"
+    },
+    {
+      "text": "Britannica：纪德1947年诺奖（B275 作者级）。",
+      "source": "B275"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'背德'的伦理阅读。",
+      "殖民地北非背景。"
+    ],
+    "editions": [
+      "《背德者》（人民文学出版社/上海译文版本，通说待核）。",
+      "法文原版（Gallimard）。"
+    ],
+    "order": "先《窄门》后本作（两极对照）。"
+  },
+  "pending": [
+    "1902年出版（Mercure de France说）核对。",
+    "米歇尔/玛尔塞拉人名核对。",
+    "与《窄门》的对位（作者婚姻语境——B275 已载）待核。"
+  ],
+  "sources": [
+    "B275"
+  ],
+  "year_source": "B275",
+  "author_source": "B275",
+  "related_works": [
+    "weibizaozhe",
+    "xianzhi",
+    "duoluo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《背德者》觉醒结构图",
+    "cards": [
+      {
+        "title": "北非",
+        "text": "身体的苏醒",
+        "color": "family"
+      },
+      {
+        "title": "米歇尔",
+        "text": "自我的放纵",
+        "color": "main"
+      },
+      {
+        "title": "玛尔塞拉",
+        "text": "病与死",
+        "color": "antagonist"
+      },
+      {
+        "title": "背德",
+        "text": "道德的边界（B275）",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "geti",
+  "title": "歌集",
+  "original_title": "Carmina（Odes，颂歌集三卷+第四卷）",
+  "region": "古罗马",
+  "era": "古代",
+  "era_detail": "奥古斯都时代",
+  "genre": "抒情诗集",
+  "genre_group": "诗歌",
+  "language": "拉丁语",
+  "author_id": "horace",
+  "author_name": "贺拉斯（昆图斯·霍拉提乌斯·弗拉库斯）",
+  "year_display": "三卷88首23 BC出版、第四卷15首13 BC（Britannica：published three books, comprising 88 short poems, in 23 bc）",
+  "year_sort": -23,
+  "background": [
+    "Britannica（B302）：'he turned, in the most active period of his poetical life, to the Odes, of which he published three books, comprising 88 short poems, in 23 bc'；第四卷——'a fourth book of 15 Odes, mainly of a more serious (and political) character'。",
+    "carpe diem——'pluck the day'或'seize the day'为贺拉斯贯穿主题（B302）。"
+  ],
+  "outline": [
+    "希腊抒情形式的拉丁化：阿尔凯奥斯体、萨福体（通说待核）。",
+    "名句：carpe diem（及时行乐/抓住今天）（B302：concept defined as 'pluck the day' or 'seize the day'）。"
+  ],
+  "characters": [
+    {
+      "name": "贺拉斯",
+      "identity": "抒情诗人",
+      "note": "'Augustus' unofficial poet laureate'（B302）"
+    }
+  ],
+  "themes": [
+    "carpe diem（B302）。",
+    "友谊、美酒、爱国的颂歌（通说待核）。",
+    "希腊形式的拉丁移植（B302 语境：adapted Greek lyric forms into Latin）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a leading Latin lyric poet and satirist of the Augustan Age'（B302）。",
+      "source": "B302"
+    },
+    {
+      "text": "Britannica：'Augustus unofficial poet laureate'（B302）。",
+      "source": "B302"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "拉丁语阿尔凯奥斯体与萨福体。",
+      "罗马政治背景（奥古斯都时代）。"
+    ],
+    "editions": [
+      "《贺拉斯诗选》（人民文学出版社，通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "与《诗艺》合读。"
+  },
+  "pending": [
+    "88首+15首的总数核对。",
+    "carpe diem 原句（1.11）核对。",
+    "梅塞纳斯赞助（B302 已载）展开核对。"
+  ],
+  "sources": [
+    "B302"
+  ],
+  "year_source": "B302",
+  "author_source": "B302",
+  "related_works": [
+    "aeneid",
+    "shenqu",
+    "qingtongqishi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《歌集》结构图",
+    "cards": [
+      {
+        "title": "三卷88首",
+        "text": "23 BC（B302）",
+        "color": "main"
+      },
+      {
+        "title": "第四卷",
+        "text": "15首（13 BC）",
+        "color": "gold"
+      },
+      {
+        "title": "carpe diem",
+        "text": "抓住今天",
+        "color": "family"
+      },
+      {
+        "title": "梅塞纳斯",
+        "text": "赞助人（B302）",
+        "color": "plain"
+      }
+    ]
+  }
+}

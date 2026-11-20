@@ -1,0 +1,58 @@
+{
+  "id": "beaumarchais",
+  "name": "博马舍",
+  "foreign_name": "Pierre-Augustin Caron de Beaumarchais（皮埃尔-奥古斯丁·卡龙·德·博马舍，1732—1799，生卒通说待核）",
+  "country": "法国",
+  "birth": 1732,
+  "death": 1799,
+  "birth_year": 1732,
+  "death_year": 1799,
+  "era": "近代",
+  "summary": "博马舍，法国钟表匠出身的剧作家与冒险家（生卒通说待核）。'four-act farcical drama'《塞维利亚的理发师》'performed and published in 1775'（B305）——'The play achieved great popularity for its ingeniously constructed plot and lively wit'（以精巧的情节与活泼的机智大获成功——B305）；是1816年罗西尼歌剧的基础（B305）。费加罗三部曲（《理发师》《费加罗的婚礼》《有罪的母亲》——通说待核）。",
+  "timeline": [
+    {
+      "year": 1732,
+      "text": "生于巴黎（1732年说——通说待核）。",
+      "src": "B305"
+    },
+    {
+      "year": 1775,
+      "text": "《塞维利亚的理发师》上演并出版（B305：performed and published in 1775）。",
+      "src": "B305"
+    },
+    {
+      "year": 1799,
+      "text": "卒（1799年5月18日说——通说待核）。",
+      "src": "B305"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "saiweiliyadelifeishi",
+      "note": "喜剧（B305：1775）"
+    },
+    {
+      "title": "费加罗的婚礼",
+      "note": "（1784年说——通说待核）"
+    },
+    {
+      "title": "有罪的母亲",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'ingeniously constructed plot and lively wit'（B305：精巧情节与活泼机智）。",
+    "费加罗三部曲：仆人的智慧喜剧（通说待核）。",
+    "钟表匠出身的'冒险家'（通说待核）。"
+  ],
+  "status": "Britannica 作品页确认《塞维利亚的理发师》1775年演出出版、'achieved great popularity'（B305）；作者生平（1732—1799说）为通说待核。",
+  "sources": [
+    "B305"
+  ],
+  "dates_source": "B305",
+  "pending": [
+    "生卒年（1732—1799）与巴黎出生核对。",
+    "费加罗三部曲（1784《费加罗的婚礼》说）核对。",
+    "莫扎特《费加罗的婚礼》歌剧（1786）待核。"
+  ]
+}
