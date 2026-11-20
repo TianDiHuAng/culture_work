@@ -1,0 +1,104 @@
+{
+  "id": "zhongjiedeganjue",
+  "title": "终结的感觉",
+  "original_title": "The Sense of an Ending",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "barnes",
+  "author_name": "朱利安·巴恩斯",
+  "year_display": "2011年（Britannica：2011年布克奖——'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'）",
+  "year_sort": 2011,
+  "background": [
+    "作者页（B290）：巴恩斯 major_works 载'终结的感觉'（B290 作者页定位，详见 fuloubaideyingwu 条核对）。",
+    "Britannica（B290）：'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'（以不可靠叙述者探察记忆与衰老——B290）。"
+  ],
+  "outline": [
+    "退休律师托尼的回忆被一封遗嘱与一封信改写（通说待核）。",
+    "'不可靠的记忆'：自我辩护的崩塌（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "托尼",
+      "identity": "退休律师",
+      "note": "不可靠叙述者（B290）"
+    },
+    {
+      "name": "维罗妮卡",
+      "identity": "前女友",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "记忆的不可靠（B290）。",
+    "衰老与清算（B290：memory and aging）。",
+    "'终结的感觉'：历史的追索（书名通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2011年布克奖——不可靠叙述者探察记忆与衰老（B290）。",
+      "source": "B290"
+    },
+    {
+      "text": "Britannica：2017年电影改编（B290 语境）。",
+      "source": "B290"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "上下两部（第一/第二部分）结构。",
+      "不可靠叙述的细节。"
+    ],
+    "editions": [
+      "《终结的感觉》（译林出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《福楼拜的鹦鹉》后本作。"
+  },
+  "pending": [
+    "2011年出版（Jonathan Cape说）核对。",
+    "托尼/维罗妮卡人名核对。",
+    "2017年电影（Ritesh Batra说）待核。"
+  ],
+  "sources": [
+    "B290"
+  ],
+  "year_source": "B290",
+  "author_source": "B290",
+  "related_works": [
+    "fuloubaideyingwu",
+    "banshengyuan",
+    "changri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《终结的感觉》记忆结构图",
+    "cards": [
+      {
+        "title": "遗嘱",
+        "text": "改写的开始",
+        "color": "antagonist"
+      },
+      {
+        "title": "记忆",
+        "text": "不可靠的自辩（B290）",
+        "color": "main"
+      },
+      {
+        "title": "维罗妮卡",
+        "text": "真相的持有者",
+        "color": "gold"
+      },
+      {
+        "title": "衰老",
+        "text": "清算的晚年",
+        "color": "family"
+      }
+    ]
+  }
+}

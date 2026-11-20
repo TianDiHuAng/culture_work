@@ -1,0 +1,99 @@
+{
+  "id": "moerflandes",
+  "title": "摩尔·弗兰德斯",
+  "original_title": "Moll Flanders",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "18世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "defoe",
+  "author_name": "丹尼尔·笛福",
+  "year_display": "1722年（Britannica：Moll Flanders (1722)——B293）",
+  "year_sort": 1722,
+  "background": [
+    "Britannica（B293）：'Daniel Defoe is best known as the writer of the novels Robinson Crusoe (1719) and Moll Flanders (1722).'（B293）。",
+    "题材（通说待核）：新门监狱出生的摩尔——12年妓女、12年窃贼、8年弗吉尼亚流放的'悔罪'自述。"
+  ],
+  "outline": [
+    "摩尔的自述：从出生（新门监狱）到弗吉尼亚的种植园（通说待核）。",
+    "'悔罪'与利益的悖论（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "摩尔·弗兰德斯",
+      "identity": "叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性生存的'经济'书写（通说待核）。",
+    "'悔罪体'与利益的悖论（通说待核）。",
+    "18世纪伦敦底层（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：笛福 best known 作品之一（B293）。",
+      "source": "B293"
+    },
+    {
+      "text": "作者页：笛福'英国小说之父'关联问答（B293——待核）。",
+      "source": "B293"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "18世纪货币与刑律。",
+      "伪自传的语气。"
+    ],
+    "editions": [
+      "《摩尔·弗兰德斯》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "笛福双璧之二。"
+  },
+  "pending": [
+    "1722年出版细节核对。",
+    "摩尔12年妓女/12年窃贼/8年殖民地说核对。",
+    "'悔罪'结构待核。"
+  ],
+  "sources": [
+    "B293"
+  ],
+  "year_source": "B293",
+  "author_source": "B293",
+  "related_works": [
+    "lubinxun",
+    "tangmuqiongsi",
+    "jialimeimei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《摩尔·弗兰德斯》自述结构图",
+    "cards": [
+      {
+        "title": "新门监狱",
+        "text": "出生之地",
+        "color": "antagonist"
+      },
+      {
+        "title": "摩尔",
+        "text": "女性的生存",
+        "color": "main"
+      },
+      {
+        "title": "弗吉尼亚",
+        "text": "流放与'新生'",
+        "color": "family"
+      },
+      {
+        "title": "悔罪",
+        "text": "利益的悖论（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

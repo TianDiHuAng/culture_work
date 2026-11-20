@@ -1,0 +1,104 @@
+{
+  "id": "huashenboshi",
+  "title": "化身博士",
+  "original_title": "The Strange Case of Dr Jekyll and Mr Hyde",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "stevenson",
+  "author_name": "罗伯特·路易斯·史蒂文森",
+  "year_display": "1886年（通说待核；Britannica B294 Quick Facts 载 Kidnapped (1886)——本篇正文未载）",
+  "year_sort": 1886,
+  "background": [
+    "作者页（B294）：史蒂文森'a writer of originality and power who produced brilliant adventure stories with subtle moral overtones'（B294 作者页定位）。",
+    "题材（通说待核）：杰基尔博士的药剂与海德先生的恶——人格分裂的哥特寓言。"
+  ],
+  "outline": [
+    "律师厄特森追查：杰基尔与海德的药剂秘密（通说待核）。",
+    "'人并非其一，而是二者'（通说待核——杰基尔自白）。"
+  ],
+  "characters": [
+    {
+      "name": "杰基尔/海德",
+      "identity": "博士与恶人",
+      "note": "一人两面（通说待核）"
+    },
+    {
+      "name": "厄特森",
+      "identity": "律师",
+      "note": "追查者（通说待核）"
+    }
+  ],
+  "themes": [
+    "人格的双重性（通说）。",
+    "'化身'：科学的越界（通说待核）。",
+    "维多利亚的伪善（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：史蒂文森'原创与力量'（B294 作者页口径）。",
+      "source": "B294"
+    },
+    {
+      "text": "'Jekyll and Hyde'进入英语（通说待核）。",
+      "source": "B294"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多重叙述（厄特森/拉尼翁/自白）。",
+      "维多利亚哥特语境。"
+    ],
+    "editions": [
+      "《化身博士》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "史蒂文森代表作之一。"
+  },
+  "pending": [
+    "1886年出版（Longmans, Green说）核对。",
+    "杰基尔/海德/厄特森人名核对。",
+    "'Jekyll and Hyde'英语习语待核。"
+  ],
+  "sources": [
+    "B294"
+  ],
+  "year_source": "B294",
+  "author_source": "B294",
+  "related_works": [
+    "daolian",
+    "weite",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《化身博士》双重人格图",
+    "cards": [
+      {
+        "title": "杰基尔",
+        "text": "体面的博士",
+        "color": "family"
+      },
+      {
+        "title": "海德",
+        "text": "释放的恶",
+        "color": "antagonist"
+      },
+      {
+        "title": "药剂",
+        "text": "科学的越界",
+        "color": "gold"
+      },
+      {
+        "title": "双重",
+        "text": "'人并非其一'（通说）",
+        "color": "main"
+      }
+    ]
+  }
+}

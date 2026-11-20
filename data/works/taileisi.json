@@ -1,0 +1,104 @@
+{
+  "id": "taileisi",
+  "title": "苔蕾丝·德斯盖鲁",
+  "original_title": "Thérèse Desqueyroux",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "mauriac",
+  "author_name": "弗朗索瓦·莫里亚克",
+  "year_display": "1927年（作者页 B289 口径：Thérèse Desqueyroux published 1927）",
+  "year_sort": 1927,
+  "background": [
+    "作者页（B289）：莫里亚克 major_works 载'苔蕾丝·德斯盖鲁'（B289 作者页定位，详见 aidewangmo 条核对）。",
+    "Britannica（B289）：'whose heroine is driven to attempt the murder of her husband to escape her suffocating life'（女主人公为逃离窒息生活而试图谋杀丈夫——B289）。"
+  ],
+  "outline": [
+    "苔蕾丝毒害丈夫伯纳德未遂——家族的'庇护'与无罪释放（通说待核）。",
+    "结尾：'自由'的荒凉（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "苔蕾丝",
+      "identity": "妻子",
+      "note": "投毒者（B289）"
+    },
+    {
+      "name": "伯纳德",
+      "identity": "丈夫",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "窒息的婚姻与谋杀（B289）。",
+    "'自由'的荒凉（通说待核）。",
+    "天主教罪恶观（B289 作者级语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'whose heroine is driven to attempt the murder of her husband'（B289）。",
+      "source": "B289"
+    },
+    {
+      "text": "Britannica：1952年诺奖（B289 作者级）。",
+      "source": "B289"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "心理剧的封闭结构。",
+      "波尔多资产阶级语境。"
+    ],
+    "editions": [
+      "《苔蕾丝·德斯盖鲁》（广西师范大学出版社，通说待核）。",
+      "法文原版（公有领域渐近）。"
+    ],
+    "order": "先《爱的荒漠》后本作。"
+  },
+  "pending": [
+    "1927年出版（Grasset说）核对。",
+    "苔蕾丝/伯纳德人名核对。",
+    "1950年电影改编待核。"
+  ],
+  "sources": [
+    "B289"
+  ],
+  "year_source": "B289",
+  "author_source": "B289",
+  "related_works": [
+    "aidewangmo",
+    "lianqingdezhongjie",
+    "ouyeni"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《苔蕾丝》窒息结构图",
+    "cards": [
+      {
+        "title": "投毒",
+        "text": "逃离的未遂",
+        "color": "antagonist"
+      },
+      {
+        "title": "家族",
+        "text": "无罪的庇护",
+        "color": "family"
+      },
+      {
+        "title": "苔蕾丝",
+        "text": "窒息的妻子",
+        "color": "main"
+      },
+      {
+        "title": "自由",
+        "text": "荒凉的出路",
+        "color": "gold"
+      }
+    ]
+  }
+}

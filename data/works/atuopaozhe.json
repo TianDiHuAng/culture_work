@@ -1,0 +1,104 @@
+{
+  "id": "atuopaozhe",
+  "title": "啊，拓荒者！",
+  "original_title": "O Pioneers!",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "cather",
+  "author_name": "薇拉·凯瑟",
+  "year_display": "1913年（作者页 B292 口径：O Pioneers! (1913)）",
+  "year_sort": 1913,
+  "background": [
+    "作者页（B292）：凯瑟 major_works 载'O Pioneers! (1913)'（B292 作者页定位，详见 wodeandongnia 条核对）。",
+    "Britannica（B292）：'With O Pioneers! (1913) and My Ántonia (1918)'——边疆精神与勇气的主题（通说待核）。"
+  ],
+  "outline": [
+    "亚历山德拉继承内布拉斯加农场——坚守土地而致富（通说待核）。",
+    " EMIL？——不：艾米与玛丽亚的悲剧线（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "亚历山德拉",
+      "identity": "农场主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "艾米",
+      "identity": "恋人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "拓荒者的坚守与土地（B292 语境：frontier spirit and courage）。",
+    "'精神与道德价值高于物质主义'（B292 作者级）。",
+    "地域主义（B292：unique regionalism——作者级）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'With O Pioneers! (1913) and My Ántonia (1918)'——边疆主题的代表（B292）。",
+      "source": "B292"
+    },
+    {
+      "text": "Britannica：1922年《我们中的一个》获普利策奖（B292 作者级）。",
+      "source": "B292"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "移民垦荒史。",
+      "北欧裔移民名。"
+    ],
+    "editions": [
+      "《啊，拓荒者！》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "凯瑟平原小说之首。"
+  },
+  "pending": [
+    "1913年出版（Houghton Mifflin说）核对。",
+    "亚历山德拉/艾米人名核对。",
+    "书名出自惠特曼诗（通说待核）。"
+  ],
+  "sources": [
+    "B292"
+  ],
+  "year_source": "B292",
+  "author_source": "B292",
+  "related_works": [
+    "wodeandongnia",
+    "fenwangyu",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《拓荒者》坚守结构图",
+    "cards": [
+      {
+        "title": "亚历山德拉",
+        "text": "守土的女主",
+        "color": "main"
+      },
+      {
+        "title": "垦荒",
+        "text": "草原的麦田",
+        "color": "gold"
+      },
+      {
+        "title": "悲剧",
+        "text": "艾米与玛丽亚",
+        "color": "antagonist"
+      },
+      {
+        "title": "拓荒者",
+        "text": "书名出自惠特曼（待核）",
+        "color": "family"
+      }
+    ]
+  }
+}

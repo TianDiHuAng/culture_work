@@ -1,0 +1,103 @@
+{
+  "id": "huixue",
+  "title": "慧血",
+  "original_title": "Wise Blood",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "oconnor",
+  "author_name": "弗兰纳里·奥康纳",
+  "year_display": "1952年（作者页 B291 口径：Wise Blood (1952)）",
+  "year_sort": 1952,
+  "background": [
+    "作者页（B291）：奥康纳 major_works 载'Wise Blood (1952)'（B291 作者页定位，详见 haorennanxun 条核对）。",
+    "题材（通说待核）：退伍兵黑兹尔·莫茨的'无教会'布道——拒绝基督却离不开基督。"
+  ],
+  "outline": [
+    "黑兹尔创立'无基督之教'——荒诞布道与最后的自毁（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "黑兹尔·莫茨",
+      "identity": "退伍兵",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "伊诺克",
+      "identity": "青年",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'无教会'的悖论：拒绝即证明（通说待核）。",
+    "南方哥特（B291：master of the Southern gothic——作者级）。",
+    "瞎眼与忏悔（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：奥康纳首部长篇（B291 作者页口径）。",
+      "source": "B291"
+    },
+    {
+      "text": "作者页：南方哥特大师（B291 作者级定位）。",
+      "source": "B291"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'无教会'的宗教戏仿。",
+      "哥特细节。"
+    ],
+    "editions": [
+      "《慧血》（新星出版社《慧血：奥康纳作品集》，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《好人难寻》后本作。"
+  },
+  "pending": [
+    "1952年出版（Harcourt, Brace说）核对。",
+    "黑兹尔·莫茨人名核对。",
+    "1969年电影改编待核。"
+  ],
+  "sources": [
+    "B291"
+  ],
+  "year_source": "B291",
+  "author_source": "B291",
+  "related_works": [
+    "haorennanxun",
+    "juwairen",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《慧血》悖论结构图",
+    "cards": [
+      {
+        "title": "无教会",
+        "text": "拒绝的布道",
+        "color": "main"
+      },
+      {
+        "title": "黑兹尔",
+        "text": "瞎眼的忏悔（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "慧血",
+        "text": "书名的反讽",
+        "color": "gold"
+      },
+      {
+        "title": "南方",
+        "text": "哥特的荒原",
+        "color": "family"
+      }
+    ]
+  }
+}
