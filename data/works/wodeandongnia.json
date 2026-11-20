@@ -1,0 +1,104 @@
+{
+  "id": "wodeandongnia",
+  "title": "我的安东妮亚",
+  "original_title": "My Ántonia",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "cather",
+  "author_name": "薇拉·凯瑟",
+  "year_display": "1918年（Britannica：My Ántonia (1918), which has frequently been adjudged her finest achievement）",
+  "year_sort": 1918,
+  "background": [
+    "Britannica（B292）：'It tells the story of Ántonia Shimerda, a daughter of Bohemian immigrants on the Nebraska frontier'（写内布拉斯加边疆波西米亚移民之女安东妮亚——B292）；'With O Pioneers! (1913) and My Ántonia (1918)……'（B292：characteristic themes of frontier spirit and courage——通说待核）。",
+    "地位（B292）：'frequently been adjudged her finest achievement'（常被裁定为其最佳成就）。"
+  ],
+  "outline": [
+    "吉姆·伯登的回忆：波西米亚移民女安东妮亚在内布拉斯加边疆的一生（通说待核）。",
+    "'安东妮亚'：土地与母性（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "安东妮亚·希默尔达",
+      "identity": "移民之女",
+      "note": "（B292）"
+    },
+    {
+      "name": "吉姆·伯登",
+      "identity": "叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "移民与边疆（B292）。",
+    "'安东妮亚'：土地的生命力（通说待核）。",
+    "地域主义（B292：unique regionalism——作者级）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'frequently been adjudged her finest achievement'（B292）。",
+      "source": "B292"
+    },
+    {
+      "text": "Britannica：'unique regionalism captured the essence of the American West'（B292 作者级引述）。",
+      "source": "B292"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "移民史（波西米亚）。",
+      "回忆录框架。"
+    ],
+    "editions": [
+      "《我的安东妮亚》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《啊，拓荒者！》后本作。"
+  },
+  "pending": [
+    "1918年出版（Houghton Mifflin说）核对。",
+    "安东妮亚/吉姆人名核对。",
+    "'K'字结尾的暗示待核。"
+  ],
+  "sources": [
+    "B292"
+  ],
+  "year_source": "B292",
+  "author_source": "B292",
+  "related_works": [
+    "fenwangyu",
+    "yijiubasi",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我的安东妮亚》边疆结构图",
+    "cards": [
+      {
+        "title": "内布拉斯加",
+        "text": "边疆的草原",
+        "color": "family"
+      },
+      {
+        "title": "安东妮亚",
+        "text": "波西米亚移民之女（B292）",
+        "color": "main"
+      },
+      {
+        "title": "吉姆",
+        "text": "回忆者",
+        "color": "gold"
+      },
+      {
+        "title": "拓荒者",
+        "text": "勇气与道德力量（B292）",
+        "color": "plain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "zuimingjing",
+  "title": "最明净的地区",
+  "original_title": "La región más transparente（Where the Air Is Clear）",
+  "region": "墨西哥",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "fuentes",
+  "author_name": "卡洛斯·富恩特斯",
+  "year_display": "出版年份待核（Britannica B287：'experimental, postmodern novels—including Where the Air Is Clear and The Death of Artemio Cruz'——1959年说通说待核）",
+  "year_sort": 1959,
+  "background": [
+    "Britannica（B287）：'experimental, postmodern novels——including Where the Air Is Clear and The Death of Artemio Cruz——explored Mexican identity and won him international acclaim'。",
+    "题材（通说待核）：墨西哥城全景——从革命到工业化的城市'明净'反讽。"
+  ],
+  "outline": [
+    "多人物全景：银行家、矿工、夫人（通说待核）。",
+    "城市即主角（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "罗德里戈·波拉",
+      "identity": "银行家",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "城市作为主角（通说待核）。",
+    "墨西哥革命的遗产（通说）。",
+    "'最明净'的反讽（书名通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：与《阿尔特米奥·克罗斯之死》并列的实验后现代小说（B287）。",
+      "source": "B287"
+    },
+    {
+      "text": "作者页：富恩特斯'20世纪墨西哥最重要的作家之一'（B287 作者级）。",
+      "source": "B287"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "墨西哥城地名与历史。",
+      "多人物全景。"
+    ],
+    "editions": [
+      "《最明净的地区》（上海译文出版社/人民文学出版社版本，通说待核）。",
+      "西班牙文原版（FCE）。"
+    ],
+    "order": "富恩特斯处女作。"
+  },
+  "pending": [
+    "1959年出版（FCE说）核对。",
+    "罗德里戈·波拉人名核对。",
+    "处女作地位待核。"
+  ],
+  "sources": [
+    "B287"
+  ],
+  "year_source": "B287",
+  "author_source": "B287",
+  "related_works": [
+    "aertemio",
+    "bainian",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《最明净的地区》全景图",
+    "cards": [
+      {
+        "title": "墨西哥城",
+        "text": "城市即主角（通说）",
+        "color": "main"
+      },
+      {
+        "title": "革命遗产",
+        "text": "1910年的余波",
+        "color": "antagonist"
+      },
+      {
+        "title": "全景",
+        "text": "多人物",
+        "color": "family"
+      },
+      {
+        "title": "明净",
+        "text": "反讽的书名",
+        "color": "gold"
+      }
+    ]
+  }
+}

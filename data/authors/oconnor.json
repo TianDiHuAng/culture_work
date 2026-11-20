@@ -1,0 +1,68 @@
+{
+  "id": "oconnor",
+  "name": "弗兰纳里·奥康纳",
+  "foreign_name": "Flannery O'Connor（弗兰纳里·奥康纳，1925-03-25—1964-08-03）",
+  "country": "美国",
+  "birth": 1925,
+  "death": 1964,
+  "birth_year": 1925,
+  "death_year": 1964,
+  "era": "现当代",
+  "summary": "奥康纳，佐治亚州萨凡纳人，美国小说家与短篇家——其小说多设于南方乡村，'probes the bond between individuals and God'（探察个人与上帝的联结——Britannica）；'regarded as a master of the Southern gothic, a style of writing often characterized by grotesque, macabre, or fantastic incidents'（南方哥特大师——B291）；暴力'is strangely capable of returning my characters to reality and preparing them to accept their moment of grace'（B291——作者自述引文）。红斑狼疮（承自父亲）致命，39岁去世（B291）。Complete Stories (1971) 获1972年国家图书奖（B291）。",
+  "timeline": [
+    {
+      "year": 1925,
+      "text": "3月25日生于佐治亚州萨凡纳（B291：Born March 25, 1925, Savannah, Georgia）。",
+      "src": "B291"
+    },
+    {
+      "year": 1952,
+      "text": "首部长篇《慧血》出版（B291：Wise Blood (1952)）。",
+      "src": "B291"
+    },
+    {
+      "year": 1955,
+      "text": "《好人难寻》短篇集出版（B291：A Good Man Is Hard to Find, and Other Stories (1955)）。",
+      "src": "B291"
+    },
+    {
+      "year": 1964,
+      "text": "8月3日卒于米利奇维尔（B291：Died August 3, 1964, Milledgeville, Georgia）。",
+      "src": "B291"
+    },
+    {
+      "year": 1972,
+      "text": "身后 Complete Stories 获国家图书奖（B291：National Book Award 1972）。",
+      "src": "B291"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "haorennanxun",
+      "note": "短篇集（B291：1955）"
+    },
+    {
+      "title": "慧血、暴力夺取",
+      "note": "（B291：Wise Blood (1952), The Violent Bear It Away (1960)）"
+    },
+    {
+      "title": "升 rise？——不：《上升的一切必将汇聚》",
+      "note": "（B291：Everything That Rises Must Converge (1965)）"
+    }
+  ],
+  "style": [
+    "南方哥特：'grotesque, macabre, or fantastic incidents'（B291）。",
+    "暴力通向'恩典时刻'（B291 作者自述引文）。",
+    "'The Misfit'——意外的救赎者（B291）。"
+  ],
+  "status": "Britannica 定位奥康纳为南方哥特大师、'个人与上帝之联结'的探察者（B291）。",
+  "sources": [
+    "B291"
+  ],
+  "dates_source": "B291",
+  "pending": [
+    "《好人难寻》九篇篇目核对。",
+    "'The Misfit'与老太太的对话待核。",
+    "《慧血》1952年出版核对。"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "aidewangmo",
+  "title": "爱的荒漠",
+  "original_title": "Le Désert de l'amour（The Desert of Love）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "mauriac",
+  "author_name": "弗朗索瓦·莫里亚克",
+  "year_display": "1925年（Britannica：Le Désert de l'amour (1925; The Desert of Love)——'Mauriac showed increasing mastery'）",
+  "year_sort": 1925,
+  "background": [
+    "Britannica（B289）：'Mauriac showed increasing mastery in Le Désert de l'amour (1925; The Desert of Love)'（显示日益成熟的掌控——B289）。",
+    "题材（通说待核）：父子同恋一个女人的'荒漠'——波尔多医生库雷热一家。"
+  ],
+  "outline": [
+    "父与子同爱玛丽亚——爱如荒漠（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "库雷热医生",
+      "identity": "父亲",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "库雷热之子",
+      "identity": "青年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "玛丽亚",
+      "identity": "交际花",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'爱的荒漠'：欲望的无果（书名通说待核）。",
+    "父子的暗战（通说待核）。",
+    "天主教的悲悯（B289 语境：Catholic novelist）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Mauriac showed increasing mastery in Le Désert de l'amour (1925)'（B289）。",
+      "source": "B289"
+    },
+    {
+      "text": "Britannica：1952年诺奖（B289 作者级）。",
+      "source": "B289"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "天主教叙事。",
+      "父子的心理镜像。"
+    ],
+    "editions": [
+      "《爱的荒漠》（广西师范大学出版社，通说待核）。",
+      "法文原版（公有领域渐近）。"
+    ],
+    "order": "先《爱的荒漠》后《苔蕾丝》《蝮蛇结》。"
+  },
+  "pending": [
+    "1925年出版核对。",
+    "库雷热父子/玛丽亚人名核对。",
+    "回忆的倒叙结构待核。"
+  ],
+  "sources": [
+    "B289"
+  ],
+  "year_source": "B289",
+  "author_source": "B289",
+  "related_works": [
+    "lianqingdezhongjie",
+    "richu",
+    "beiyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《爱的荒漠》荒漠结构图",
+    "cards": [
+      {
+        "title": "父与子",
+        "text": "同爱的对手",
+        "color": "main"
+      },
+      {
+        "title": "玛丽亚",
+        "text": "荒漠中的绿洲",
+        "color": "gold"
+      },
+      {
+        "title": "波尔多",
+        "text": "阴郁的城市（B289）",
+        "color": "family"
+      },
+      {
+        "title": "荒漠",
+        "text": "爱的无果",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

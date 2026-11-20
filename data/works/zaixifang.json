@@ -1,0 +1,103 @@
+{
+  "id": "zaixifang",
+  "title": "在西方的眼睛下",
+  "original_title": "Under Western Eyes",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "conrad",
+  "author_name": "约瑟夫·康拉德",
+  "year_display": "1911年（作者页 B124 口径：在西方的眼睛下（1911））",
+  "year_sort": 1911,
+  "background": [
+    "作者页（B124）：康拉德 major_works 载'在西方的眼睛下（1911）'（B124 作者页定位，详见 heianddixin 条核对）。",
+    "题材（通说待核）：日内瓦的俄国革命者拉祖莫夫——告密与良心的'西方眼睛'下的自白。"
+  ],
+  "outline": [
+    "拉祖莫夫的背叛与自白——'西方的眼睛'即叙述者（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "拉祖莫夫",
+      "identity": "学生",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "娜塔莉亚",
+      "identity": "姊妹",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "革命伦理的灰色（通说待核）。",
+    "陀思妥耶夫斯基式心理（康拉德自称与陀氏竞争——通说待核）。",
+    "叙述的道德重量（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：康拉德政治小说（B124 作者页口径）。",
+      "source": "B124"
+    },
+    {
+      "text": "作者页：康拉德对陀思妥耶夫斯基的态度（通说待核——B124 未载）。",
+      "source": "B124"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "俄国革命史。",
+      "康拉德最'俄国'的文本。"
+    ],
+    "editions": [
+      "《在西方的眼睛下》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "康拉德政治小说之末。"
+  },
+  "pending": [
+    "1911年出版（Methuen说）核对。",
+    "拉祖莫夫/娜塔莉亚人名核对。",
+    "康拉德与陀氏关系待核。"
+  ],
+  "sources": [
+    "B124"
+  ],
+  "year_source": "B124",
+  "author_source": "B124",
+  "related_works": [
+    "heianddixin",
+    "jimuye",
+    "nuositeluomo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《在西方的眼睛下》良心结构图",
+    "cards": [
+      {
+        "title": "告密",
+        "text": "拉祖莫夫的选择",
+        "color": "antagonist"
+      },
+      {
+        "title": "自白",
+        "text": "西方的眼睛下",
+        "color": "main"
+      },
+      {
+        "title": "革命者",
+        "text": "日内瓦的流亡者",
+        "color": "family"
+      },
+      {
+        "title": "良心",
+        "text": "道德的灰色",
+        "color": "gold"
+      }
+    ]
+  }
+}

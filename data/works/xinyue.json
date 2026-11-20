@@ -1,0 +1,98 @@
+{
+  "id": "xinyue",
+  "title": "欣悦的灵魂",
+  "original_title": "L'Âme enchantée（The Enchanted Soul）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（七卷）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "rolland",
+  "author_name": "罗曼·罗兰",
+  "year_display": "1922—1933年（作者页 B276 口径：L'Âme-enchantée 1922–33）",
+  "year_sort": 1922,
+  "background": [
+    "作者页（B276）：罗兰 major_works 载'L'Âme-enchantée 1922–33'（B276 作者页定位，详见 yuehankelisituofu 条核对）。",
+    "题材（通说待核）：安乃德的'欣悦'之路——母性与神秘主义的演进。"
+  ],
+  "outline": [
+    "安乃德的女性成长与'灵魂的欣悦'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "安乃德",
+      "identity": "女性",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性成长的'欣悦'（通说待核）。",
+    "和平主义与神秘主义（B276 语境：committed to pacifism）。",
+    "继《约翰·克利斯朵夫》之后的女性史诗（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：罗兰 works 谱系（L'Âme-enchantée 1922–33）（B276）。",
+      "source": "B276"
+    },
+    {
+      "text": "作者页：罗兰1915年诺奖（B276 作者级）。",
+      "source": "B276"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "七卷体量。",
+      "神秘主义段落。"
+    ],
+    "editions": [
+      "《欣悦的灵魂》（中译本信息待核）。",
+      "法文原版（公有领域渐近）。"
+    ],
+    "order": "罗兰两大河小说之二。"
+  },
+  "pending": [
+    "七卷卷名核对。",
+    "安乃德人名核对。",
+    "与《约翰·克利斯朵夫》的'女性对位'说待核。"
+  ],
+  "sources": [
+    "B276"
+  ],
+  "year_source": "B276",
+  "author_source": "B276",
+  "related_works": [
+    "yuehankelisituofu",
+    "beican",
+    "jian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《欣悦的灵魂》女性成长图",
+    "cards": [
+      {
+        "title": "安乃德",
+        "text": "女性的一生",
+        "color": "main"
+      },
+      {
+        "title": "欣悦",
+        "text": "灵魂的状态",
+        "color": "gold"
+      },
+      {
+        "title": "和平主义",
+        "text": "罗兰的立场（B276）",
+        "color": "family"
+      },
+      {
+        "title": "七卷",
+        "text": "1922—1933",
+        "color": "plain"
+      }
+    ]
+  }
+}

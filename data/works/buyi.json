@@ -1,0 +1,98 @@
+{
+  "id": "buyi",
+  "title": "布宜诺斯艾利斯的热情",
+  "original_title": "Fervor de Buenos Aires（The Passion of Buenos Aires）",
+  "region": "阿根廷",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "borges",
+  "author_name": "豪尔赫·路易斯·博尔赫斯",
+  "year_display": "1923年（作者页 B095 口径：布宜诺斯艾利斯的热情（1923））",
+  "year_sort": 1923,
+  "background": [
+    "作者页（B095）：博尔赫斯 major_works 载'布宜诺斯艾利斯的热情（1923）'——其首部诗集（B095 作者页定位，详见 xiaojing 条核对）。",
+    "文体（通说待核）：极端的前博尔赫斯——都市抒情与街头刀光的诗歌起点。"
+  ],
+  "outline": [
+    "布宜诺斯艾利斯的街巷、黄昏与匕首（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "年轻的博尔赫斯",
+      "identity": "诗人",
+      "note": "起点（通说待核）"
+    }
+  ],
+  "themes": [
+    "都市场景的诗化（通说待核）。",
+    "'热情'的青年宣言（书名通说待核）。",
+    "走向《虚构集》的起点（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：博尔赫斯作品谱系的起点（B095 作者页口径）。",
+      "source": "B095"
+    },
+    {
+      "text": "作者页：博尔赫斯为拉美文学巨匠（B095 作者级定位）。",
+      "source": "B095"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "早期诗体的粗糙与热情。",
+      "布宜诺斯艾利斯地名。"
+    ],
+    "editions": [
+      "《布宜诺斯艾利斯的热情》（收于博尔赫斯全集，通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "博尔赫斯诗歌起点。"
+  },
+  "pending": [
+    "1923年出版细节核对。",
+    "篇目核对。",
+    "后来自称'后悔'的早年诗集（作者态度）待核。"
+  ],
+  "sources": [
+    "B095"
+  ],
+  "year_source": "B095",
+  "author_source": "B095",
+  "related_works": [
+    "xiaojing",
+    "alaifu",
+    "shazhishu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《布宜诺斯艾利斯的热情》起点图",
+    "cards": [
+      {
+        "title": "街区",
+        "text": "都市的诗",
+        "color": "main"
+      },
+      {
+        "title": "匕首",
+        "text": "刀光的隐喻",
+        "color": "antagonist"
+      },
+      {
+        "title": "黄昏",
+        "text": "布市的时刻",
+        "color": "gold"
+      },
+      {
+        "title": "起点",
+        "text": "博尔赫斯的1923",
+        "color": "family"
+      }
+    ]
+  }
+}

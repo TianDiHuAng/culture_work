@@ -1,0 +1,104 @@
+{
+  "id": "haorennanxun",
+  "title": "好人难寻",
+  "original_title": "A Good Man Is Hard to Find, and Other Stories",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "oconnor",
+  "author_name": "弗兰纳里·奥康纳",
+  "year_display": "1955年（Britannica：A Good Man Is Hard to Find, and Other Stories (1955)——'she came to be regarded as a master of the form'）",
+  "year_sort": 1955,
+  "background": [
+    "Britannica（B291）：同名篇创造'an unexpected agent of salvation in the character of an escaped convict called The Misfit'（逃犯'格格不入者'成为意外的救赎媒介——B291）；'regarded as a master of the Southern gothic, a style of writing often characterized by grotesque, macabre, or fantastic incidents'（B291）。",
+    "暴力（B291 作者自述引文）：'is strangely capable of returning my characters to reality and preparing them to accept their moment of grace'。"
+  ],
+  "outline": [
+    "同名篇：老祖母一家遇逃犯'格格不入者'——枪响前的'恩典时刻'（通说待核）。",
+    "《人造黑人》《善良的乡下人》等（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "老祖母",
+      "identity": "叙述对象",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "'格格不入者'（The Misfit）",
+      "identity": "逃犯",
+      "note": "（B291）"
+    }
+  ],
+  "themes": [
+    "暴力与'恩典时刻'（B291 作者自述）。",
+    "南方哥特（B291：grotesque, macabre, or fantastic）。",
+    "'好人'的反讽（篇名通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'regarded as a master of the Southern gothic'（B291）。",
+      "source": "B291"
+    },
+    {
+      "text": "Britannica：Complete Stories (1971) 获国家图书奖（B291 作者级）。",
+      "source": "B291"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哥特暴力与恩典的语法。",
+      "南方宗教背景。"
+    ],
+    "editions": [
+      "《好人难寻》（新星出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "奥康纳首选。"
+  },
+  "pending": [
+    "1955年出版（Harcourt, Brace说）核对。",
+    "老祖母/The Misfit对话核对。",
+    "1972年国家图书奖核对。"
+  ],
+  "sources": [
+    "B291"
+  ],
+  "year_source": "B291",
+  "author_source": "B291",
+  "related_works": [
+    "kafuxuan",
+    "burunv",
+    "jiugushi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《好人难寻》恩典结构图",
+    "cards": [
+      {
+        "title": "老祖母",
+        "text": "末路的絮语",
+        "color": "family"
+      },
+      {
+        "title": "The Misfit",
+        "text": "意外的救赎媒介（B291）",
+        "color": "antagonist"
+      },
+      {
+        "title": "枪响",
+        "text": "恩典时刻（通说）",
+        "color": "main"
+      },
+      {
+        "title": "南方哥特",
+        "text": "怪诞大师（B291）",
+        "color": "gold"
+      }
+    ]
+  }
+}

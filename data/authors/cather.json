@@ -1,0 +1,68 @@
+{
+  "id": "cather",
+  "name": "薇拉·凯瑟",
+  "foreign_name": "Willa Cather（薇拉·凯瑟，1873-12-07—1947-04-24）",
+  "country": "美国",
+  "birth": 1873,
+  "death": 1947,
+  "birth_year": 1873,
+  "death_year": 1947,
+  "era": "近代",
+  "summary": "凯瑟，弗吉尼亚州温切斯特附近生，美国小说家——'celebrated for her depictions of settlers and frontier life on the Great Plains'（以大草原移民与边疆生活描写著称——Britannica），取材于内布拉斯加欧洲移民中的童年。'With O Pioneers! (1913) and My Ántonia (1918), which has frequently been adjudged her finest achievement'（《我的安东妮亚》常被裁定为其最佳成就——B292）；One of Ours (1922)——'won the Pulitzer Prize'（B292）；'Her unique regionalism captured the essence of the American West'（独特的地域主义捕捉了美国西部的本质——B292 引述）。",
+  "timeline": [
+    {
+      "year": 1873,
+      "text": "12月7日生于弗吉尼亚州温切斯特附近（B292：Born December 7, 1873, near Winchester, Virginia）。",
+      "src": "B292"
+    },
+    {
+      "year": 1913,
+      "text": "《啊，拓荒者！》出版（B292：O Pioneers! (1913)）。",
+      "src": "B292"
+    },
+    {
+      "year": 1918,
+      "text": "《我的安东妮亚》出版（B292：My Ántonia (1918)）。",
+      "src": "B292"
+    },
+    {
+      "year": 1922,
+      "text": "《我们中的一个》获普利策奖（B292：One of Ours (1922), which won the Pulitzer Prize）。",
+      "src": "B292"
+    },
+    {
+      "year": 1947,
+      "text": "4月24日卒于纽约（B292：Died April 24, 1947, New York City）。",
+      "src": "B292"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "wodeandongnia",
+      "note": "长篇（B292：1918，'her finest achievement'之一）"
+    },
+    {
+      "title": "啊，拓荒者！",
+      "note": "（B292：1913）"
+    },
+    {
+      "title": "我们中的一个",
+      "note": "（B292：1922，普利策奖）"
+    }
+  ],
+  "style": [
+    "边疆与移民：大草原的地域主义（B292：unique regionalism）。",
+    "'精神与道德价值高于物质主义'（B292：spiritual and moral values over materialism）。",
+    "拓荒者勇气与道德力量（B292 语境）。"
+  ],
+  "status": "Britannica 定位凯瑟为美国小说家（《我的安东妮亚》常被裁定为其最佳成就）、普利策奖得主（B292）。",
+  "sources": [
+    "B292"
+  ],
+  "dates_source": "B292",
+  "pending": [
+    "《我的安东妮亚》1918年出版（Houghton Mifflin说）核对。",
+    "安东妮亚·希默尔达/吉姆·伯登人名核对。",
+    "波西米亚移民史实待核。"
+  ]
+}

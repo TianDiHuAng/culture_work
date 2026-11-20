@@ -1,0 +1,68 @@
+{
+  "id": "mauriac",
+  "name": "弗朗索瓦·莫里亚克",
+  "foreign_name": "François Mauriac（弗朗索瓦·莫里亚克，1885-10-11—1970-09-01）",
+  "country": "法国",
+  "birth": 1885,
+  "death": 1970,
+  "birth_year": 1885,
+  "death_year": 1970,
+  "era": "现当代",
+  "summary": "莫里亚克，波尔多生，法国天主教小说家、散文家、诗人、剧作家与记者——'best known for somber psychological dramas set in Bordeaux'（以波尔多背景的阴郁心理剧著称——Britannica）；'His major novels are somber, austere psychological dramas set in an atmosphere of unrelieved tension'（B289）。1933年入选法兰西学院、1952年获诺贝尔文学奖（B289）。'Le Noeud de vipères (1932; Vipers' Tangle...) is often considered Mauriac's masterpiece'（蝮蛇结常被视为其杰作——B289）。",
+  "timeline": [
+    {
+      "year": 1885,
+      "text": "10月11日生于波尔多（Britannica：Born October 11, 1885, Bordeaux, France）。",
+      "src": "B289"
+    },
+    {
+      "year": 1925,
+      "text": "《爱的荒漠》出版——'Mauriac showed increasing mastery'（B289）。",
+      "src": "B289"
+    },
+    {
+      "year": 1933,
+      "text": "入选法兰西学院（Britannica：Elected to the French Academy 1933）。",
+      "src": "B289"
+    },
+    {
+      "year": 1952,
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize for Literature 1952）。",
+      "src": "B289"
+    },
+    {
+      "year": 1970,
+      "text": "9月1日卒于巴黎（Britannica：Died September 1, 1970, Paris）。",
+      "src": "B289"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "aidewangmo",
+      "note": "长篇（B289：1925）"
+    },
+    {
+      "title": "苔蕾丝·德斯盖鲁",
+      "note": "（B289：Thérèse Desqueyroux (1927)）"
+    },
+    {
+      "title": "蝮蛇结",
+      "note": "（B289：Vipers' Tangle (1932)——'often considered Mauriac's masterpiece'）"
+    }
+  ],
+  "style": [
+    "'阴郁、简朴的心理剧'（B289：somber, austere psychological dramas）。",
+    "'无休止紧张的氛围'（B289：atmosphere of unrelieved tension）。",
+    "波尔多与资产阶级生活的框架（B289）。"
+  ],
+  "status": "Britannica 定位莫里亚克为法国天主教小说家、1952年诺奖得主（B289）；《蝮蛇结》常被视为其杰作（B289）。",
+  "sources": [
+    "B289"
+  ],
+  "dates_source": "B289",
+  "pending": [
+    "《爱的荒漠》1925年出版细节核对。",
+    "《苔蕾丝》1950年电影改编待核。",
+    "《蝮蛇结》结构（书信体）待核。"
+  ]
+}

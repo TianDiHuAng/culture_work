@@ -1,0 +1,98 @@
+{
+  "id": "kulian",
+  "title": "苦炼",
+  "original_title": "L'Oeuvre au noir（The Abyss）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "历史小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "yourcenar",
+  "author_name": "玛格丽特·尤瑟纳尔",
+  "year_display": "1968年（Britannica：L'Oeuvre au noir (1968; The Abyss)——B285）",
+  "year_sort": 1968,
+  "background": [
+    "Britannica（B285）：'Another historical novel is L'Oeuvre au noir (1968; The Abyss)...'——另一部历史小说；作者文体：'rigorously classical style, their erudition, and their psychological subtlety'（B285）。",
+    "题材（通说待核）：16世纪佛兰德斯炼金术士/外科医生泽诺的一生——'苦炼'（the Work in Black）的炼金术隐喻。"
+  ],
+  "outline": [
+    "泽诺的求知与流亡：从修道院到阿尔卑斯的处决（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "泽诺",
+      "identity": "炼金术士",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "知识与自由的代价（通说待核）。",
+    "'苦炼'：黑业（通说待核——炼金术术语）。",
+    "文艺复兴的怀疑精神（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Another historical novel is L'Oeuvre au noir (1968; The Abyss)...'（B285）。",
+      "source": "B285"
+    },
+    {
+      "text": "作者页：尤瑟纳尔古典与博学（B285 作者级定位）。",
+      "source": "B285"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "文艺复兴与炼金术史。",
+      "尤瑟纳尔的古典语汇。"
+    ],
+    "editions": [
+      "《苦炼》（上海三联书店版本，通说待核）。",
+      "法文原版（Gallimard）。"
+    ],
+    "order": "先《哈德良回忆录》后本作。"
+  },
+  "pending": [
+    "1968年出版（Gallimard说）核对。",
+    "泽诺人物原型（真实炼金术士说）待核。",
+    "'苦炼'（Oeuvre au noir）术语核对。"
+  ],
+  "sources": [
+    "B285"
+  ],
+  "year_source": "B285",
+  "author_source": "B285",
+  "related_works": [
+    "hadilianghuiyilu",
+    "shenqu",
+    "niwanghechuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《苦炼》求知结构图",
+    "cards": [
+      {
+        "title": "炼金术",
+        "text": "黑业（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "泽诺",
+        "text": "16世纪的求知者",
+        "color": "main"
+      },
+      {
+        "title": "流亡",
+        "text": "自由的代价",
+        "color": "antagonist"
+      },
+      {
+        "title": "处决",
+        "text": "怀疑的终点",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "fuloubaideyingwu",
+  "title": "福楼拜的鹦鹉",
+  "original_title": "Flaubert's Parrot",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "barnes",
+  "author_name": "朱利安·巴恩斯",
+  "year_display": "1984年（Britannica：Flaubert's Parrot (1984), Barnes's breakthrough novel）",
+  "year_sort": 1984,
+  "background": [
+    "Britannica（B290）：'Flaubert's Parrot (1984), Barnes's breakthrough novel, is a humorous mixture of biography, fiction, and literary criticism'（幽默混合传记、虚构与文学批评——B290）；'was shortlisted for the Booker Prize'（入围布克奖——B290）。",
+    "作者（B290）：'inventive and intellectual novels about obsessed characters curious about the past'。"
+  ],
+  "outline": [
+    "退休医生杰弗里追寻福楼拜的'那只鹦鹉'——传记、虚构与批评的混体（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "杰弗里·布雷思韦特",
+      "identity": "退休医生",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "福楼拜",
+      "identity": "作家",
+      "note": "被研究的对象"
+    }
+  ],
+  "themes": [
+    "'那只鹦鹉'：作家的真身在哪里（通说待核）。",
+    "传记、虚构与批评的混合（B290）。",
+    "寡居的哀悼（通说待核——妻子病亡线）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'breakthrough novel'；'shortlisted for the Booker Prize'（B290）。",
+      "source": "B290"
+    },
+    {
+      "text": "作者页：巴恩斯'obsessed characters curious about the past'（B290 作者级定位）。",
+      "source": "B290"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "文体拼贴（年表/考试卷/目录）。",
+      "福楼拜生平知识。"
+    ],
+    "editions": [
+      "《福楼拜的鹦鹉》（译林出版社，通说待核）。",
+      "英文原版（Jonathan Cape）。"
+    ],
+    "order": "巴恩斯入门首选。"
+  },
+  "pending": [
+    "1984年出版（Jonathan Cape说）核对。",
+    "杰弗里·布雷思韦特人名核对。",
+    "鹦鹉标本的'真假两只'细节待核。"
+  ],
+  "sources": [
+    "B290"
+  ],
+  "year_source": "B290",
+  "author_source": "B290",
+  "related_works": [
+    "weianzhihuo",
+    "xiaojing",
+    "mi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《福楼拜的鹦鹉》文体拼贴图",
+    "cards": [
+      {
+        "title": "传记",
+        "text": "福楼拜的生平",
+        "color": "family"
+      },
+      {
+        "title": "虚构",
+        "text": "杰弗里的追寻",
+        "color": "main"
+      },
+      {
+        "title": "批评",
+        "text": "文学史的对话",
+        "color": "gold"
+      },
+      {
+        "title": "鹦鹉",
+        "text": "两只的真伪",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

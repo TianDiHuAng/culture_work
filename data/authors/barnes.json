@@ -1,0 +1,63 @@
+{
+  "id": "barnes",
+  "name": "朱利安·巴恩斯",
+  "foreign_name": "Julian Barnes（朱利安·巴恩斯，1946-01-19— ）",
+  "country": "英国",
+  "birth": 1946,
+  "death": null,
+  "birth_year": 1946,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "巴恩斯，莱斯特人，英国批评家与作家——'British critic and author of inventive and intellectual novels about obsessed characters curious about the past'（以关于执迷于过去的人物的独创性智性小说著称——B290）。'Flaubert's Parrot (1984), Barnes's breakthrough novel, is a humorous mixture of biography, fiction, and literary criticism'（突破之作《福楼拜的鹦鹉》——B290）；2011年布克奖 The Sense of an Ending——'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'（B290）。2026年 Departure(s) 自称最后一部小说（B290）。",
+  "timeline": [
+    {
+      "year": 1946,
+      "text": "1月19日生于莱斯特（B290：Born January 19, 1946, Leicester, England）。",
+      "src": "B290"
+    },
+    {
+      "year": 1984,
+      "text": "《福楼拜的鹦鹉》出版（B290：Flaubert's Parrot (1984)——breakthrough）。",
+      "src": "B290"
+    },
+    {
+      "year": 2011,
+      "text": "《终结的感觉》获布克奖（B290：Booker Prize 2011）。",
+      "src": "B290"
+    },
+    {
+      "year": 2026,
+      "text": "Departure(s) 出版——自称最后一部小说（B290）。",
+      "src": "B290"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fuloubaideyingwu",
+      "note": "长篇（B290：1984，突破之作）"
+    },
+    {
+      "title": "终结的感觉",
+      "note": "（B290：2011布克奖）"
+    },
+    {
+      "title": "10 1/2章世界史",
+      "note": "（B290：A History of the World in 10½ Chapters (1989)）"
+    }
+  ],
+  "style": [
+    "'inventive and intellectual novels about obsessed characters'（B290）。",
+    "'幽默混合传记、虚构与文学批评'（B290——福楼拜的鹦鹉）。",
+    "不可靠叙述者（B290：unreliable narrator——终结的感觉）。"
+  ],
+  "status": "Britannica 定位巴恩斯为英国批评家与作家、2011年布克奖得主（B290）；2026年 Departure(s) 为其自称的最后一部小说（B290）。",
+  "sources": [
+    "B290"
+  ],
+  "dates_source": "B290",
+  "pending": [
+    "1984年出版（Jonathan Cape说）核对。",
+    "杰弗里·布雷思韦特人名核对。",
+    "2026年 Departure(s) 细节（B290 已载）核对。"
+  ]
+}
