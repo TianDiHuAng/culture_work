@@ -1,0 +1,104 @@
+{
+  "id": "di'erye",
+  "title": "第十二夜",
+  "original_title": "Twelfth Night, or What You Will",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "喜剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "shakespeare",
+  "author_name": "威廉·莎士比亚",
+  "year_display": "约1601年（通说待核；作者页 B033/B007 口径：major_works 载'第十二夜'）",
+  "year_sort": 1601,
+  "background": [
+    "作者页（B033/B007）：莎士比亚 major_works 载'第十二夜、暴风雨'（B033 作者页定位，详见 hamlet 条核对）。",
+    "题材（通说待核）：女扮男装的双胞胎错认——薇奥拉与塞巴斯蒂安。"
+  ],
+  "outline": [
+    "沉船分离→女扮男装侍奉公爵→三角错恋→孪生兄弟重逢（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "薇奥拉",
+      "identity": "女扮男装",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "马伏里奥",
+      "identity": "管家",
+      "note": "'横向虚荣'的受害者（通说待核）"
+    }
+  ],
+  "themes": [
+    "性别错认的喜剧（通说）。",
+    "'第十二夜'：主显节狂欢的传统（书名通说待核）。",
+    "自爱的讽刺（马伏里奥——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：莎翁喜剧代表作（B033/B007 作者页口径）。",
+      "source": "B033"
+    },
+    {
+      "text": "多次音乐剧改编（如《你的笑脸》——通说待核）。",
+      "source": "B033"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "错认结构。",
+      "狂欢节语境。"
+    ],
+    "editions": [
+      "《第十二夜》（朱生豪译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "莎翁喜剧第二站。"
+  },
+  "pending": [
+    "1601年首演（Middle Temple说）核对。",
+    "薇奥拉/马伏里奥人名核对。",
+    "音乐剧改编待核。"
+  ],
+  "sources": [
+    "B033",
+    "B007"
+  ],
+  "year_source": "B033",
+  "author_source": "B033",
+  "related_works": [
+    "zhongxiayezhimeng",
+    "baofengyu",
+    "bukeerxi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《第十二夜》错认结构图",
+    "cards": [
+      {
+        "title": "女扮男装",
+        "text": "薇奥拉",
+        "color": "main"
+      },
+      {
+        "title": "错恋",
+        "text": "三角的误会",
+        "color": "gold"
+      },
+      {
+        "title": "马伏里奥",
+        "text": "自爱的戏弄",
+        "color": "antagonist"
+      },
+      {
+        "title": "重逢",
+        "text": "孪生的团圆",
+        "color": "family"
+      }
+    ]
+  }
+}

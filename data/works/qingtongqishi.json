@@ -1,0 +1,103 @@
+{
+  "id": "qingtongqishi",
+  "title": "青铜骑士",
+  "original_title": "Медный всадник（The Bronze Horseman）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "叙事诗",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "pushkin",
+  "author_name": "亚历山大·普希金",
+  "year_display": "1833年写成（通说待核；作者页 B143 口径：major_works 载'青铜骑士'；1837年身后刊出说）",
+  "year_sort": 1833,
+  "background": [
+    "作者页（B143）：普希金 major_works 载'青铜骑士'（B143 作者页定位，详见 aonijin 条核对）。",
+    "题材（通说待核）：1833年彼得堡大洪水中的小公务员叶甫盖尼与彼得大帝铜像的对峙——'彼得堡故事'之诗。"
+  ],
+  "outline": [
+    "洪水中的失去——叶甫盖尼对铜像的怒吼与追杀幻觉（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "叶甫盖尼",
+      "identity": "小公务员",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "青铜骑士",
+      "identity": "彼得大帝像",
+      "note": "帝国的化身（通说待核）"
+    }
+  ],
+  "themes": [
+    "帝国与小人物（通说）。",
+    "彼得堡的建立神话（通说待核）。",
+    "叙事诗的交响（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：普希金名诗（B143 作者页口径）。",
+      "source": "B143"
+    },
+    {
+      "text": "果戈理、陀思妥耶夫斯基的'彼得堡主题'源头（通说待核）。",
+      "source": "B143"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "彼得堡建城史。",
+      "叙事诗的语调转换。"
+    ],
+    "editions": [
+      "《青铜骑士》（收于《普希金全集》，通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "与《鲍里斯·戈都诺夫》合读。"
+  },
+  "pending": [
+    "1833年波尔季季？——不：1833年写成、身后刊出（《现代人》1837说）核对。",
+    "叶甫盖尼人名核对。",
+    "'彼得堡故事'谱系待核。"
+  ],
+  "sources": [
+    "B143"
+  ],
+  "year_source": "B143",
+  "author_source": "B143",
+  "related_works": [
+    "heitaohuanghou",
+    "baorisigeduofu",
+    "aonijin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《青铜骑士》帝国结构图",
+    "cards": [
+      {
+        "title": "洪水",
+        "text": "1833年的彼得堡",
+        "color": "antagonist"
+      },
+      {
+        "title": "铜像",
+        "text": "帝国的凝视",
+        "color": "main"
+      },
+      {
+        "title": "叶甫盖尼",
+        "text": "小人物的怒吼",
+        "color": "gold"
+      },
+      {
+        "title": "彼得堡",
+        "text": "建城的神话",
+        "color": "family"
+      }
+    ]
+  }
+}

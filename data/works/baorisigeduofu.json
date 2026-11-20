@@ -1,0 +1,104 @@
+{
+  "id": "baorisigeduofu",
+  "title": "鲍里斯·戈都诺夫",
+  "original_title": "Борис Годунов（Boris Godunov）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "诗剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "pushkin",
+  "author_name": "亚历山大·普希金",
+  "year_display": "1831年（作者页 B143 口径：鲍里斯·戈都诺夫（1831））",
+  "year_sort": 1831,
+  "background": [
+    "作者页（B143）：普希金 major_works 载'鲍里斯·戈都诺夫（1831）、青铜骑士'（B143 作者页定位，详见 aonijin 条核对）。",
+    "题材（通说待核）：1598—1605年摄政王戈都诺夫弑君疑云——伪德米特里的历史剧。"
+  ],
+  "outline": [
+    "权位的诅咒：'人民的沉默'（结尾句通说待核）。",
+    "伪德米特里的进逼（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "戈都诺夫",
+      "identity": "摄政王→沙皇",
+      "note": "弑君疑云（通说待核）"
+    },
+    {
+      "name": "伪德米特里",
+      "identity": "冒名者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "历史剧的人民观（通说）。",
+    "'人民的沉默'（结尾通说待核）。",
+    "穆索尔斯基同名歌剧（1869/1874——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：普希金戏剧代表作（B143 作者页口径）。",
+      "source": "B143"
+    },
+    {
+      "text": "作者页：普希金俄国文学之父定位（B143 作者级）。",
+      "source": "B143"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "俄史'混乱时代'。",
+      "诗剧的不分行体。"
+    ],
+    "editions": [
+      "《鲍里斯·戈都诺夫》（人民文学出版社《普希金全集》，通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "普希金戏剧首选。"
+  },
+  "pending": [
+    "1825年写成、1831年出版核对。",
+    "戈都诺夫/伪德米特里人名核对。",
+    "穆索尔斯基歌剧年份待核。"
+  ],
+  "sources": [
+    "B143"
+  ],
+  "year_source": "B143",
+  "author_source": "B143",
+  "related_works": [
+    "aonijin",
+    "heitaohuanghou",
+    "shangweidenv'er"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《鲍里斯·戈都诺夫》权位结构图",
+    "cards": [
+      {
+        "title": "弑君疑云",
+        "text": "权力的原罪",
+        "color": "antagonist"
+      },
+      {
+        "title": "伪德米特里",
+        "text": "冒名者的进逼",
+        "color": "main"
+      },
+      {
+        "title": "人民",
+        "text": "'沉默'的裁决（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "混乱时代",
+        "text": "俄史背景",
+        "color": "family"
+      }
+    ]
+  }
+}

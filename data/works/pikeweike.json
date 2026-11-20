@@ -1,0 +1,103 @@
+{
+  "id": "pikeweike",
+  "title": "匹克威克外传",
+  "original_title": "The Pickwick Papers",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dickens",
+  "author_name": "查尔斯·狄更斯",
+  "year_display": "1836—1837年（作者页 B120 口径：匹克威克外传（1836—37））",
+  "year_sort": 1836,
+  "background": [
+    "作者页（B120）：狄更斯 major_works 载'匹克威克外传（1836—37）'（B120 作者页定位，详见 dawei 条核对）。",
+    "题材（通说待核）：匹克威克俱乐部的漫游——狄更斯的成名之作（23岁）。"
+  ],
+  "outline": [
+    "俱乐部漫游：萨姆·维勒的随从、伊顿斯威尔选举、监狱篇章（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "匹克威克先生",
+      "identity": "俱乐部长",
+      "note": "天真的绅士（通说待核）"
+    },
+    {
+      "name": "萨姆·维勒",
+      "identity": "仆人",
+      "note": "山姆式智慧（通说待核）"
+    }
+  ],
+  "themes": [
+    "幽默漫游体（通说）。",
+    "英国选举与法律的讽刺（通说待核）。",
+    "连载体成名的起点（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：狄更斯成名作（B120 作者页口径）。",
+      "source": "B120"
+    },
+    {
+      "text": "作者页：狄更斯代表作谱系（B120 作者级）。",
+      "source": "B120"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "连载体的松散。",
+      "1830年代选举制度。"
+    ],
+    "editions": [
+      "《匹克威克外传》（人民文学出版社蒋天佐译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "狄更斯长篇的起点。"
+  },
+  "pending": [
+    "1836—37年连载（Chapman & Hall说）核对。",
+    "匹克威克/萨姆人名核对。",
+    "蒋天佐译本信息待核。"
+  ],
+  "sources": [
+    "B120"
+  ],
+  "year_source": "B120",
+  "author_source": "B120",
+  "related_works": [
+    "wudugu'er",
+    "dawei",
+    "geliefo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《匹克威克》漫游图",
+    "cards": [
+      {
+        "title": "俱乐部",
+        "text": "天真的漫游",
+        "color": "main"
+      },
+      {
+        "title": "选举",
+        "text": "伊顿斯威尔闹剧",
+        "color": "gold"
+      },
+      {
+        "title": "监狱",
+        "text": "债务的章节",
+        "color": "antagonist"
+      },
+      {
+        "title": "萨姆",
+        "text": "仆人的智慧",
+        "color": "family"
+      }
+    ]
+  }
+}

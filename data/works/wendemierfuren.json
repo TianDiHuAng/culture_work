@@ -1,0 +1,103 @@
+{
+  "id": "wendemierfuren",
+  "title": "温德米尔夫人的扇子",
+  "original_title": "Lady Windermere's Fan",
+  "region": "爱尔兰",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "四幕喜剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "wilde",
+  "author_name": "奥斯卡·王尔德",
+  "year_display": "1892年（作者页 B132 口径：温德米尔夫人的扇子（1892））",
+  "year_sort": 1892,
+  "background": [
+    "作者页（B132）：王尔德 major_works 载'温德米尔夫人的扇子（1892）'（B132 作者页定位，详见 daolian 条核对）。",
+    "题材（通说待核）：怀疑丈夫有染的温德米尔夫人闯入'另一个女人'的沙龙——欧琳太太的秘密。"
+  ],
+  "outline": [
+    "扇子与沙龙：欧琳太太的真实身份（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "温德米尔夫人",
+      "identity": "妻子",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "欧琳太太",
+      "identity": "'坏女人'",
+      "note": "秘密的母亲（通说待核）"
+    }
+  ],
+  "themes": [
+    "'好女人/坏女人'的道德倒置（通说待核）。",
+    "上流社会的谣言机制（通说）。",
+    "王尔德警句（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：王尔德戏剧代表作（B132 作者页口径）。",
+      "source": "B132"
+    },
+    {
+      "text": "作者页：王尔德喜剧谱系（B132 作者级）。",
+      "source": "B132"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "上流社会沙龙语境。",
+      "秘密的翻转。"
+    ],
+    "editions": [
+      "《温德米尔夫人的扇子》（人民文学出版社《王尔德全集》，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "王尔德喜剧第一站。"
+  },
+  "pending": [
+    "1892年2月首演（St James's说）核对。",
+    "温德米尔/欧琳太太人名核对。",
+    "'我们都在阴沟里'警句出处（非本剧）待核。"
+  ],
+  "sources": [
+    "B132"
+  ],
+  "year_source": "B132",
+  "author_source": "B132",
+  "related_works": [
+    "bukeerxi",
+    "daolian",
+    "qingchengzhilian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《扇子》沙龙结构图",
+    "cards": [
+      {
+        "title": "沙龙",
+        "text": "谣言的舞台",
+        "color": "antagonist"
+      },
+      {
+        "title": "扇子",
+        "text": "暴露的信物",
+        "color": "main"
+      },
+      {
+        "title": "欧琳太太",
+        "text": "秘密的守护",
+        "color": "gold"
+      },
+      {
+        "title": "道德",
+        "text": "好与坏的倒置",
+        "color": "family"
+      }
+    ]
+  }
+}

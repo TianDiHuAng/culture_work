@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="100%" role="img" font-family="'KaiTi','STKaiti','SimSun','Songti SC','Noto Serif CJK SC',serif">
+<rect x="0" y="0" width="400" height="560" fill="#7a3420"/>
+<rect x="14" y="14" width="372" height="532" fill="none" stroke="#e0b45c" stroke-width="1.3" opacity="0.75"/>
+<rect x="21" y="21" width="358" height="518" fill="none" stroke="#e0b45c" stroke-width="0.6" opacity="0.45"/>
+<text x="200" y="50" font-size="14" fill="#e8c9a2" text-anchor="middle" letter-spacing="3" font-family="'SimSun','Songti SC','Noto Serif CJK SC',serif">智利 · 21世纪</text>
+<line x1="90" y1="72" x2="184" y2="72" stroke="#e0b45c" stroke-width="1.4" opacity="0.85"/>
+<line x1="216" y1="72" x2="310" y2="72" stroke="#e0b45c" stroke-width="1.4" opacity="0.85"/>
+<rect x="194" y="66" width="12" height="12" transform="rotate(45 200 72)" fill="none" stroke="#e0b45c" stroke-width="1.4" opacity="0.9"/>
+<text x="286" y="225.0" font-size="48" fill="#f4e9d0" text-anchor="middle">智</text>
+<text x="286" y="284.5" font-size="48" fill="#f4e9d0" text-anchor="middle">利</text>
+<text x="286" y="344.0" font-size="48" fill="#f4e9d0" text-anchor="middle">之</text>
+<text x="286" y="403.5" font-size="48" fill="#f4e9d0" text-anchor="middle">夜</text>
+<text x="108" y="176.0" font-size="20" fill="#e8c9a2" text-anchor="middle">罗</text>
+<text x="108" y="201.0" font-size="20" fill="#e8c9a2" text-anchor="middle">贝</text>
+<text x="108" y="226.0" font-size="20" fill="#e8c9a2" text-anchor="middle">托</text>
+<text x="108" y="251.0" font-size="20" fill="#e8c9a2" text-anchor="middle">·</text>
+<text x="108" y="276.0" font-size="20" fill="#e8c9a2" text-anchor="middle">波</text>
+<text x="108" y="301.0" font-size="20" fill="#e8c9a2" text-anchor="middle">拉</text>
+<text x="108" y="326.0" font-size="20" fill="#e8c9a2" text-anchor="middle">尼</text>
+<text x="108" y="351.0" font-size="20" fill="#e8c9a2" text-anchor="middle">奥</text>
+<line x1="108" y1="383.0" x2="108" y2="411" stroke="#e0b45c" stroke-width="1" opacity="0.6"/>
+<rect x="306" y="491" width="52" height="31" rx="4" fill="#9e3223" opacity="0.94"/><rect x="309" y="494" width="46" height="25" rx="2" fill="none" stroke="#f2e6cf" stroke-width="0.8" opacity="0.7"/><text x="332.0" y="511.9" font-size="15" fill="#f2e6cf" text-anchor="middle" font-family="'Georgia','Times New Roman',serif">2000</text>
+</svg>

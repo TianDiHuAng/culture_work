@@ -1,0 +1,98 @@
+{
+  "id": "zhilizhiye",
+  "title": "智利之夜",
+  "original_title": "Nocturno de Chile（By Night in Chile）",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "bolano",
+  "author_name": "罗贝托·波拉尼奥",
+  "year_display": "2000年（Britannica：By Night in Chile (2000)——B251）",
+  "year_sort": 2000,
+  "background": [
+    "Britannica（B251）：works 谱系载'By Night in Chile (2000)'（B251 作者页定位，详见 huangyezhentan 条核对）。",
+    "文体（通说待核）：一段独白——垂死神父乌雷塔的临终忏悔（全文几乎无句号）。"
+  ],
+  "outline": [
+    "神父的独白：诗人聚会、皮诺切特政权下的'文人之责'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "乌雷塔",
+      "identity": "神父·文学批评家",
+      "note": "独白者（通说待核）"
+    }
+  ],
+  "themes": [
+    "文人与独裁的合谋（通说待核）。",
+    "一段到底的独白体（通说）。",
+    "'智利之夜'的良知审判（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：波拉尼奥作品谱系（B251 作者页口径）。",
+      "source": "B251"
+    },
+    {
+      "text": "作者页：波拉尼奥21世纪初地位（B251 作者级）。",
+      "source": "B251"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "无句读的长段独白。",
+      "智利政变史。"
+    ],
+    "editions": [
+      "《智利之夜》（上海人民出版社，通说待核）。",
+      "西班牙文原版（Anagrama）。"
+    ],
+    "order": "《荒野侦探》《2666》之外的短体入口。"
+  },
+  "pending": [
+    "2000年出版（Anagrama说）核对。",
+    "乌雷塔人名核对。",
+    "独白无句号文体待核。"
+  ],
+  "sources": [
+    "B251"
+  ],
+  "year_source": "B251",
+  "author_source": "B251",
+  "related_works": [
+    "huangyezhentan",
+    "2666",
+    "exin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《智利之夜》独白结构图",
+    "cards": [
+      {
+        "title": "临终忏悔",
+        "text": "神父的独白",
+        "color": "main"
+      },
+      {
+        "title": "文人之责",
+        "text": "政权的同谋",
+        "color": "antagonist"
+      },
+      {
+        "title": "一段到底",
+        "text": "无句号文体（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "良知",
+        "text": "深夜的审判",
+        "color": "family"
+      }
+    ]
+  }
+}

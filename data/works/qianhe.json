@@ -1,0 +1,105 @@
+{
+  "id": "qianhe",
+  "title": "千只鹤",
+  "original_title": "千羽鶴（Thousand Cranes）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "kawabata",
+  "author_name": "川端康成",
+  "year_display": "1949—1952年连载（通说待核；作者页 B054/B027 口径：major_works 载'千鹤、山之音'）",
+  "year_sort": 1952,
+  "background": [
+    "作者页（B054/B027）：川端 major_works 载'千鹤、山之音'（B054/B027 作者页定位，详见 xueguo 条核对）。",
+    "题材（通说待核）：茶道中的爱欲纠缠——太田夫人与菊治、雪子与千只鹤茶碗。"
+  ],
+  "outline": [
+    "茶会上的相遇：亡父情人与其女儿——负罪的美（通说待核）。",
+    "志野茶碗的流传（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "菊治",
+      "identity": "茶人之子",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "太田夫人",
+      "identity": "亡父情人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "茶道与情欲（通说）。",
+    "负罪的美学（通说待核）。",
+    "器物的物哀（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：川端代表作谱系（B054/B027 作者页口径）。",
+      "source": "B054"
+    },
+    {
+      "text": "作者页：川端1968年诺奖（B054 作者级定位）。",
+      "source": "B054"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "茶道术语。",
+      "情欲的含蓄书写。"
+    ],
+    "editions": [
+      "《千只鹤》（人民文学出版社/上海译文版本，通说待核）。",
+      "日文原版（新潮文库）。"
+    ],
+    "order": "与《雪国》《山之音》合读。"
+  },
+  "pending": [
+    "连载年表（1949—1952《时事新报》等说）核对。",
+    "菊治/太田夫人人名核对。",
+    "志野茶碗意象待核。"
+  ],
+  "sources": [
+    "B054",
+    "B027"
+  ],
+  "year_source": "B054",
+  "author_source": "B054",
+  "related_works": [
+    "xueguo",
+    "yidudewunv",
+    "chunqinchao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《千只鹤》茶道结构图",
+    "cards": [
+      {
+        "title": "茶会",
+        "text": "命运的相遇",
+        "color": "family"
+      },
+      {
+        "title": "太田夫人",
+        "text": "负罪的爱",
+        "color": "main"
+      },
+      {
+        "title": "志野茶碗",
+        "text": "器物的物哀（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "千只鹤",
+        "text": "书名的象征",
+        "color": "plain"
+      }
+    ]
+  }
+}

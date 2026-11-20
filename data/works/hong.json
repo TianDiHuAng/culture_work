@@ -1,0 +1,98 @@
+{
+  "id": "hong",
+  "title": "虹",
+  "original_title": "The Rainbow",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lawrence",
+  "author_name": "D.H.劳伦斯",
+  "year_display": "1915年（作者页 B125 口径：虹（1915））",
+  "year_sort": 1915,
+  "background": [
+    "作者页（B125）：劳伦斯 major_works 载'虹（1915）、恋爱中的女人（1920）'（B125 作者页定位，详见 erzisonai 条核对）。",
+    "题材（通说待核）：布兰温家族三代——从农场到城市的精神之'虹'。"
+  ],
+  "outline": [
+    "三代女性：莉迪亚→安娜→厄秀拉——婚姻与自我的演进（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "厄秀拉",
+      "identity": "第三代",
+      "note": "新女性的探索（通说待核）"
+    }
+  ],
+  "themes": [
+    "三代人的性灵演进（通说）。",
+    "工业文明与土地（通说待核）。",
+    "'虹'的希望之桥（书名通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：劳伦斯代表作（B125 作者页口径）。",
+      "source": "B125"
+    },
+    {
+      "text": "1915年遭禁（禁书史——通说待核）。",
+      "source": "B125"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "家族三代结构。",
+      "劳伦斯式重复语汇。"
+    ],
+    "editions": [
+      "《虹》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《儿子与情人》→《虹》→《恋爱中的女人》。"
+  },
+  "pending": [
+    "1915年出版（Methuen说）与禁售核对。",
+    "厄秀拉人名核对。",
+    "遭禁原因（反战言论说）待核。"
+  ],
+  "sources": [
+    "B125"
+  ],
+  "year_source": "B125",
+  "author_source": "B125",
+  "related_works": [
+    "erzisonai",
+    "chatailaifuren",
+    "pingfan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《虹》三代结构图",
+    "cards": [
+      {
+        "title": "三代",
+        "text": "布兰温家族",
+        "color": "main"
+      },
+      {
+        "title": "虹",
+        "text": "希望的桥",
+        "color": "gold"
+      },
+      {
+        "title": "农场",
+        "text": "土地的旧梦",
+        "color": "family"
+      },
+      {
+        "title": "厄秀拉",
+        "text": "新女性",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "muqin_brecht",
+  "title": "母亲",
+  "original_title": "Die Mutter（The Mother）",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "brecht",
+  "author_name": "贝托尔特·布莱希特",
+  "year_display": "1932年（作者页 B138 口径：母亲（1932）——取材高尔基同名小说说，通说待核）",
+  "year_sort": 1932,
+  "background": [
+    "作者页（B138）：布莱希特 major_works 载'母亲（1932）'（B138 作者页定位，详见 sanfenqian 条核对）。",
+    "取材（B259 语境）：高尔基《母亲》1926年曾被普多夫金拍成默片、1930—31年被布莱希特搬上舞台（B259 记载布莱希特 dramatized by Bertolt Brecht in Die Mutter (1930–31)）——本剧为其戏剧化成果。"
+  ],
+  "outline": [
+    "母亲佩拉格娅·弗拉索娃从逆来顺受到革命者的转变（取材高尔基小说——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "母亲（弗拉索娃）",
+      "identity": "工人母亲",
+      "note": "（取材高尔基《母亲》——B259 语境）"
+    }
+  ],
+  "themes": [
+    "社会主义现实主义题材的'间离'化（通说待核）。",
+    "母亲的觉醒（通说）。",
+    "歌队的鼓动（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica（B259）：布莱希特将高尔基《母亲》戏剧化——Die Mutter (1930–31)。",
+      "source": "B259"
+    },
+    {
+      "text": "作者页：布莱希特戏剧谱系（B138 作者页口径）。",
+      "source": "B138"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "与高尔基小说的对照。",
+      "鼓动剧的节奏。"
+    ],
+    "editions": [
+      "《布莱希特戏剧选》（人民文学出版社，通说待核）。",
+      "德文原版（Suhrkamp）。"
+    ],
+    "order": "对照高尔基《母亲》。"
+  },
+  "pending": [
+    "1932年柏林首演说核对。",
+    "母亲人名（佩拉格娅·弗拉索娃说）核对。",
+    "与高尔基原著的改编差异待核。"
+  ],
+  "sources": [
+    "B138",
+    "B259"
+  ],
+  "year_source": "B138",
+  "author_source": "B138",
+  "related_works": [
+    "muqin",
+    "sichuanhaoren",
+    "jialiliuezhuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《母亲》觉醒结构图",
+    "cards": [
+      {
+        "title": "逆来顺受",
+        "text": "工人母亲的起点",
+        "color": "family"
+      },
+      {
+        "title": "觉醒",
+        "text": "儿子的道路",
+        "color": "main"
+      },
+      {
+        "title": "间离",
+        "text": "布莱希特方法",
+        "color": "gold"
+      },
+      {
+        "title": "鼓动",
+        "text": "歌队的呐喊",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

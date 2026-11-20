@@ -1,0 +1,104 @@
+{
+  "id": "lianaizhong",
+  "title": "恋爱中的女人",
+  "original_title": "Women in Love",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lawrence",
+  "author_name": "D.H.劳伦斯",
+  "year_display": "1920年（作者页 B125 口径：恋爱中的女人（1920））",
+  "year_sort": 1920,
+  "background": [
+    "作者页（B125）：劳伦斯 major_works 载'恋爱中的女人（1920）'（B125 作者页定位，详见 erzisonai 条核对）。",
+    "题材（通说待核）：厄秀拉与冈妮两姐妹——伯金与杰拉尔德的两极男性（血性与机械）。"
+  ],
+  "outline": [
+    "两对男女的四种关系：婚姻、友谊、性、死亡（通说待核）。",
+    "杰拉尔德雪地之死（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "伯金",
+      "identity": "督学",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "杰拉尔德",
+      "identity": "矿主之子",
+      "note": "机器的化身（通说待核）"
+    }
+  ],
+  "themes": [
+    "'血性'与'机械'的两极（通说——劳伦斯哲学）。",
+    "两姐妹的双线（通说待核）。",
+    "工业社会的死亡（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：劳伦斯巅峰之作（B125 作者页口径）。",
+      "source": "B125"
+    },
+    {
+      "text": "与《虹》为姊妹篇（通说待核）。",
+      "source": "B125"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "劳伦斯哲学的对白。",
+      "双线结构。"
+    ],
+    "editions": [
+      "《恋爱中的女人》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "《虹》之后。"
+  },
+  "pending": [
+    "1920年出版（Thomas Seltzer美国版说）核对。",
+    "伯金/杰拉尔德/冈妮人名核对。",
+    "姊妹篇关系待核。"
+  ],
+  "sources": [
+    "B125"
+  ],
+  "year_source": "B125",
+  "author_source": "B125",
+  "related_works": [
+    "hong",
+    "erzisonai",
+    "chatailaifuren"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恋爱中的女人》两极结构图",
+    "cards": [
+      {
+        "title": "伯金",
+        "text": "血性的爱",
+        "color": "main"
+      },
+      {
+        "title": "杰拉尔德",
+        "text": "机械的死亡",
+        "color": "antagonist"
+      },
+      {
+        "title": "两姐妹",
+        "text": "厄秀拉与冈妮",
+        "color": "family"
+      },
+      {
+        "title": "雪",
+        "text": "阿尔卑斯的终局",
+        "color": "gold"
+      }
+    ]
+  }
+}

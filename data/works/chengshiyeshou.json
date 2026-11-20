@@ -1,0 +1,104 @@
+{
+  "id": "chengshiyeshou",
+  "title": "城市野兽",
+  "original_title": "Ciudad de las bestias（City of the Beasts）",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "allende",
+  "author_name": "伊莎贝尔·阿连德",
+  "year_display": "1990年（作者页 B158 口径：城市野兽（1990））",
+  "year_sort": 1990,
+  "background": [
+    "作者页（B158）：阿连德 major_works 载'城市野兽（1990）'（B158 作者页定位，详见 youlingzhijia 条核对）。",
+    "题材（通说待核）：少年亚历山大与祖母（记者）的亚马逊考察——'野兽之城'的冒险。",
+    "注：本页年代记为1990年（B158 作者页口径）；另说2002年为英文版（City of the Beasts）——版本差异待核。"
+  ],
+  "outline": [
+    "亚马逊考察队：神秘野兽、部落与'城市野兽'的对照（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "亚历山大·科尔德",
+      "identity": "少年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "纳迪亚·桑托斯",
+      "identity": "同伴",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "亚马逊的冒险寓言（通说待核）。",
+    "少年成长（通说）。",
+    "文明与野善（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿连德作品谱系（B158 作者页口径）。",
+      "source": "B158"
+    },
+    {
+      "text": "作者页：阿连德'幽灵之家'以来地位（B158 作者级）。",
+      "source": "B158"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "亚马逊生态设定。",
+      "少年冒险文体。"
+    ],
+    "editions": [
+      "《城市野兽》（中译本信息待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "阿连德少年冒险三部曲之首。"
+  },
+  "pending": [
+    "版本年代（西语1990/英文2002）待核。",
+    "亚历山大/纳迪亚人名核对。",
+    "三部曲续作（《龙的王国》《金色的金字塔》）待核。"
+  ],
+  "sources": [
+    "B158"
+  ],
+  "year_source": "B158",
+  "author_source": "B158",
+  "related_works": [
+    "youlingzhijia",
+    "baola",
+    "bainian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《城市野兽》冒险结构图",
+    "cards": [
+      {
+        "title": "亚马逊",
+        "text": "野兽之城",
+        "color": "main"
+      },
+      {
+        "title": "祖母",
+        "text": "记者的护佑",
+        "color": "family"
+      },
+      {
+        "title": "部落",
+        "text": "'人的悬崖'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "少年",
+        "text": "成长的冒险",
+        "color": "plain"
+      }
+    ]
+  }
+}

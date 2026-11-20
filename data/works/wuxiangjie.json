@@ -1,0 +1,98 @@
+{
+  "id": "wuxiangjie",
+  "title": "五香街",
+  "original_title": "Five Spice Street（五香街）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "canxue",
+  "author_name": "残雪",
+  "year_display": "2002年（Britannica：Five Spice Street (2002, English 2009)——B266）",
+  "year_sort": 2002,
+  "background": [
+    "Britannica（B266）：'Five Spice Street (2002, English 2009)'（B266 作者页定位，详见 huangnijie 条核对）。",
+    "题材（通说待核）：五香街一场'风流案'的全镇调查——每人都在讲述'X女士'。"
+  ],
+  "outline": [
+    "一场桃色事件的众声喧哗：调查委员会式的荒诞（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "X女士",
+      "identity": "被议论者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "流言的官僚化（通说待核）。",
+    "'先锋'的幽默转向（通说）。",
+    "众声喧哗的文体（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：残雪作品谱系（B266 作者页口径）。",
+      "source": "B266"
+    },
+    {
+      "text": "Britannica：'one of the most unique and challenging avant-garde authors'（B266 作者级）。",
+      "source": "B266"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "官僚腔的戏仿。",
+      "众声的多义。"
+    ],
+    "editions": [
+      "《五香街》（湖南文艺出版社，通说待核）。",
+      "英文版（Yale University Press）。"
+    ],
+    "order": "先《黄泥街》后本作。"
+  },
+  "pending": [
+    "2002年出版核对。",
+    "X女士与调查委员会细节待核。",
+    "英文版（2009年Yale）核对。"
+  ],
+  "sources": [
+    "B266"
+  ],
+  "year_source": "B266",
+  "author_source": "B266",
+  "related_works": [
+    "huangnijie",
+    "zimujin",
+    "xiaojing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《五香街》流言结构图",
+    "cards": [
+      {
+        "title": "风流案",
+        "text": "全镇的调查",
+        "color": "antagonist"
+      },
+      {
+        "title": "X女士",
+        "text": "被讲述的人",
+        "color": "main"
+      },
+      {
+        "title": "委员会",
+        "text": "官僚的戏仿",
+        "color": "gold"
+      },
+      {
+        "title": "先锋",
+        "text": "幽默的残雪",
+        "color": "family"
+      }
+    ]
+  }
+}
