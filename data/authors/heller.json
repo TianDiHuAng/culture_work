@@ -1,0 +1,58 @@
+{
+  "id": "heller",
+  "name": "约瑟夫·海勒",
+  "foreign_name": "Joseph Heller（约瑟夫·海勒，1923-05-01—1999-12-12）",
+  "country": "美国",
+  "birth": 1923,
+  "death": 1999,
+  "birth_year": 1923,
+  "death_year": 1999,
+  "era": "现当代",
+  "summary": "海勒，布鲁克林人，美国小说家与二战轰炸机投弹手——'best known for his satirical protest novel Catch-22 (1961)'（以讽刺抗议小说《第二十二条军规》著称——Britannica），取材于他在欧洲执行的60次战斗任务（Britannica 语境）。'The term catch-22 thereafter entered the English language as a reference to a proviso or situation that trips one up no matter which way one turns'（catch-22 进入英语——B281）；'developed a cult following with its dark surrealism'（B281）。",
+  "timeline": [
+    {
+      "year": 1923,
+      "text": "5月1日生于纽约布鲁克林（Britannica：Born May 1, 1923, Brooklyn, New York）。",
+      "src": "B281"
+    },
+    {
+      "year": 1961,
+      "text": "《第二十二条军规》出版（Britannica：Catch-22 (1961)）。",
+      "src": "B281"
+    },
+    {
+      "year": 1999,
+      "text": "12月12日卒于纽约州东汉普顿（Britannica：Died December 12, 1999, East Hampton）。",
+      "src": "B281"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "di'ertiaojugui",
+      "note": "长篇（Britannica：1961）"
+    },
+    {
+      "title": "出了毛病、上帝知道",
+      "note": "（Britannica：Something Happened, God Knows）"
+    },
+    {
+      "title": "最后时光",
+      "note": "（Britannica：Closing Time）"
+    }
+  ],
+  "style": [
+    "'dark surrealism'（B281：developed a cult following with its dark surrealism）。",
+    "'use farce and low comedy to highlight the senselessness and futility of life'（B281）。",
+    "'catch-22'进入英语（B281）。"
+  ],
+  "status": "Britannica 定位海勒为黑色幽默代表作家、《第二十二条军规》作者（B281）；其后续作品未及首作成功（B281 语境）。",
+  "sources": [
+    "B281"
+  ],
+  "dates_source": "B281",
+  "pending": [
+    "1961年出版（Simon & Schuster说）核对。",
+    "约塞连（Yossarian）人名核对。",
+    "电影1970年（Mike Nichols说）待核。"
+  ]
+}

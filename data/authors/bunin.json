@@ -1,0 +1,68 @@
+{
+  "id": "bunin",
+  "name": "伊万·蒲宁",
+  "foreign_name": "Ivan Bunin（伊万·阿列克谢耶维奇·蒲宁，1870-10-10/22—1953-11-08）",
+  "country": "俄国",
+  "birth": 1870,
+  "death": 1953,
+  "birth_year": 1870,
+  "death_year": 1953,
+  "era": "近代",
+  "summary": "蒲宁，沃罗涅日人，俄国诗人、小说家与贵族后裔——'celebrated as one of the country's greatest prose stylists'（被誉为俄国最伟大的文体家之一——Britannica）。1917年革命后离开俄国：'In May 1918 he left Moscow and settled in Odessa'、'at the beginning of 1920 he emigrated first to Constantinople'（B284）；'one of the most famous Russian emigre writers'（最著名的俄国流亡作家之一——B284）；与高尔基等旧友绝交——因革命'he perceived as the triumph of the basest side of the Russian people'（B284）。1933年获诺贝尔文学奖——'the first Russian to receive the Nobel Prize for Literature (1933), and one of the finest of Russian stylists'（B284）。",
+  "timeline": [
+    {
+      "year": 1870,
+      "text": "10月10/22日生于沃罗涅日（B284：Born October 10 [October 22, New Style], 1870, Voronezh）。",
+      "src": "B284"
+    },
+    {
+      "year": 1918,
+      "text": "5月离开莫斯科居敖德萨（B284）。",
+      "src": "B284"
+    },
+    {
+      "year": 1920,
+      "text": "初移君士坦丁堡，后定居法国（B284）。",
+      "src": "B284"
+    },
+    {
+      "year": 1933,
+      "text": "获诺贝尔文学奖——首位俄国获奖者（B284）。",
+      "src": "B284"
+    },
+    {
+      "year": 1953,
+      "text": "11月8日卒于巴黎（B284：Died November 8, 1953, Paris）。",
+      "src": "B284"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jiushanlaideshenshi",
+      "note": "短篇（B284：1916）"
+    },
+    {
+      "title": "阿尔谢尼耶夫的一生",
+      "note": "（通说待核——B284 未载）"
+    },
+    {
+      "title": "幽暗的林荫道",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'extreme precision of language'（B284：《旧金山来的绅士》）。",
+    "俄国最伟大的文体家之一（B284：finest of Russian stylists）。",
+    "流亡写作的精确与乡愁（B284 语境）。"
+  ],
+  "status": "Britannica 定位蒲宁为1933年诺奖得主（首位俄国获奖者）、俄国最伟大的文体家之一（B284）。",
+  "sources": [
+    "B284"
+  ],
+  "dates_source": "B284",
+  "pending": [
+    "《阿尔谢尼耶夫的一生》1930年出版待核。",
+    "1933年诺奖授奖词待核。",
+    "与高尔基绝交细节待核。"
+  ]
+}

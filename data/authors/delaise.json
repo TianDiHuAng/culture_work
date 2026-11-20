@@ -1,0 +1,63 @@
+{
+  "id": "delaise",
+  "name": "西奥多·德莱塞",
+  "foreign_name": "Theodore Dreiser（西奥多·德莱塞，1871-08-27—1945-12-28）",
+  "country": "美国",
+  "birth": 1871,
+  "death": 1945,
+  "birth_year": 1871,
+  "death_year": 1945,
+  "era": "现当代",
+  "summary": "德莱塞，印第安纳州特雷霍特人，美国小说家——'the outstanding American practitioner of naturalism'（美国自然主义最杰出的实践者——Britannica）；'replaced the observance of Victorian notions of propriety with the unflinching presentation of real-life subject matter'（以对现实题材的无畏呈现取代维多利亚式的体面观——B280）。《嘉莉妹妹》（1900）首版仅售'fewer than 500 copies'（B280）；《美国的悲剧》（1925）'brought Dreiser a degree of critical and commercial success he had never before attained'（B280）。",
+  "timeline": [
+    {
+      "year": 1871,
+      "text": "8月27日生于印第安纳州特雷霍特（Britannica：Born Aug. 27, 1871, Terre Haute, Ind.）。",
+      "src": "B280"
+    },
+    {
+      "year": 1900,
+      "text": "《嘉莉妹妹》出版（1899年动笔——Britannica；首版仅售500册以内——B280）。",
+      "src": "B280"
+    },
+    {
+      "year": 1925,
+      "text": "《美国的悲剧》出版——重大批评与商业成功（B280）。",
+      "src": "B280"
+    },
+    {
+      "year": 1945,
+      "text": "12月28日卒于好莱坞（Britannica：Died Dec. 28, 1945, Hollywood, Calif.）。",
+      "src": "B280"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jialimeimei",
+      "note": "长篇（Britannica：1900）"
+    },
+    {
+      "title": "美国的悲剧",
+      "note": "（Britannica：1925）"
+    },
+    {
+      "title": "天才、欲望三部曲",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "自然主义：'unflinching presentation of real-life subject matter'（B280）。",
+    "取材自身贫困成长（B280：Drawing on his own impoverished upbringing）。",
+    "对美国法制的社会批判（B280：critical view of the American legal system）。"
+  ],
+  "status": "Britannica 定位德莱塞为美国自然主义最杰出实践者（B280）；《嘉莉妹妹》的出版波折为美国出版史案例（B280）。",
+  "sources": [
+    "B280"
+  ],
+  "dates_source": "B280",
+  "pending": [
+    "《嘉莉妹妹》1900年 Doubleday 初版细节（B280 已载顾虑）核对。",
+    "《美国的悲剧》书名（An American Tragedy）中译核对。",
+    "1931年《嘉莉妹妹》再版风波待核。"
+  ]
+}

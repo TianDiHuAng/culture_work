@@ -1,0 +1,63 @@
+{
+  "id": "forster",
+  "name": "E.M.福斯特",
+  "foreign_name": "E.M. Forster（爱德华·摩根·福斯特，1879-01-01—1970-06-07）",
+  "country": "英国",
+  "birth": 1879,
+  "death": 1970,
+  "birth_year": 1879,
+  "death_year": 1970,
+  "era": "现当代",
+  "summary": "福斯特，伦敦人，英国小说家、散文家与批评家——声誉主要建立在'Howards End (1910) and A Passage to India (1924)'（B282）；其小说'blends social commentary on middle-class British life with a belief that people need both imagination and a connection to the earth to live fully'（B282）。《印度之行》——'one of his finest works, examining racism and colonialism'（B282）；'The values of truthfulness and kindness dominate Forster's later thinking'（B282）；'never been seduced by totalitarianisms of any kind'（B282）。",
+  "timeline": [
+    {
+      "year": 1879,
+      "text": "1月1日生于伦敦（Britannica：Born January 1, 1879, London, England）。",
+      "src": "B282"
+    },
+    {
+      "year": 1910,
+      "text": "《霍华德庄园》出版——'his first major success'（B282）。",
+      "src": "B282"
+    },
+    {
+      "year": 1924,
+      "text": "《印度之行》出版（B282：A Passage to India (1924)）。",
+      "src": "B282"
+    },
+    {
+      "year": 1970,
+      "text": "6月7日卒于沃里克郡考文垂（B282：Died June 7, 1970, Coventry）。",
+      "src": "B282"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yinduzhixing",
+      "note": "长篇（B282：1924，'one of his finest works'）"
+    },
+    {
+      "title": "霍华德庄园",
+      "note": "（B282：1910）"
+    },
+    {
+      "title": "莫瑞斯",
+      "note": "身后出版（通说待核）"
+    }
+  ],
+  "style": [
+    "'examining racism and colonialism'（B282——《印度之行》）。",
+    "'truthfulness and kindness'的价值（B282）。",
+    "' соединение'?——不：'imagination and a connection to the earth'（B282）。"
+  ],
+  "status": "Britannica 定位福斯特为英国小说家（两部杰作的作者）；'从未被任何极权主义诱惑'的知识分子（B282）。",
+  "sources": [
+    "B282"
+  ],
+  "dates_source": "B282",
+  "pending": [
+    "《印度之行》1924年出版（Edward Arnold说）核对。",
+    "阿黛拉/阿齐兹人名核对。",
+    "《莫瑞斯》1971年身后出版待核。"
+  ]
+}

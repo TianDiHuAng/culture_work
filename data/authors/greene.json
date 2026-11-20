@@ -1,0 +1,58 @@
+{
+  "id": "greene",
+  "name": "格雷厄姆·格林",
+  "foreign_name": "Graham Greene（格雷厄姆·格林，1904-10-02—1991-04-03）",
+  "country": "英国",
+  "birth": 1904,
+  "death": 1991,
+  "birth_year": 1904,
+  "death_year": 1991,
+  "era": "现当代",
+  "summary": "格林，赫特福德郡伯克汉斯特德人，20世纪英国'最广为人阅读'的小说家之一（Britannica：one of the most widely read British novelists of the 20th century）——其小说'explored moral ambiguity in political settings'（在政治场景中探察道德含混——Britannica），融合天主教主题与全球动荡中的惊悚（Britannica 语境）。'Many of his best-known works, including The Power and the Glory (1940) and The End of the Affair (1951), center on Roman Catholic themes'；'emphasize the presence of evil as a palpable force'（B283）。",
+  "timeline": [
+    {
+      "year": 1904,
+      "text": "10月2日生于赫特福德郡伯克汉斯特德（Britannica：Born October 2, 1904, Berkhamsted）。",
+      "src": "B283"
+    },
+    {
+      "year": 1951,
+      "text": "《恋情的终结》出版（B283：The End of the Affair (1951)）。",
+      "src": "B283"
+    },
+    {
+      "year": 1991,
+      "text": "4月3日卒于瑞士沃韦（Britannica：died April 3, 1991, Vevey, Switzerland）。",
+      "src": "B283"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "lianqingdezhongjie",
+      "note": "长篇（B283：1951；电影1955/1999）"
+    },
+    {
+      "title": "权力与荣耀、布莱顿硬糖",
+      "note": "（B283：The Power and the Glory (1940)；Brighton Rock——'a corrupt and violent teenage criminal'）"
+    },
+    {
+      "title": "第三个人",
+      "note": "编剧（通说待核）"
+    }
+  ],
+  "style": [
+    "'罗马天主教主题'与惊悚的混合（B283）。",
+    "'恶'作为可感的实在（B283：the presence of evil as a palpable force）。",
+    "'Greeneland'式世界（术语通说待核——B283 页未用此词）。"
+  ],
+  "status": "Britannica 定位格林为20世纪英国最广为阅读的小说家之一（B283）。",
+  "sources": [
+    "B283"
+  ],
+  "dates_source": "B283",
+  "pending": [
+    "《恋情的终结》1951年出版（Heinemann说）核对。",
+    "莫里斯·本德里克斯/萨拉人名核对。",
+    "'Greeneland'术语出处待核。"
+  ]
+}

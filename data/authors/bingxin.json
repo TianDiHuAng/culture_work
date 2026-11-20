@@ -1,0 +1,63 @@
+{
+  "id": "bingxin",
+  "name": "冰心",
+  "foreign_name": "Bing Xin（冰心，本名谢婉莹，1900-10-05—1999-02-28）",
+  "country": "中国",
+  "birth": 1900,
+  "death": 1999,
+  "birth_year": 1900,
+  "death_year": 1999,
+  "era": "现当代",
+  "summary": "冰心，本名谢婉莹，福建闽侯人（Britannica：Born October 5, 1900, Minhou, Fujian province）——'a Chinese writer of gentle, melancholy poems, stories, and essays that were very popular'（写温柔、忧郁而广受欢迎的诗、小说与散文的中国作家——Britannica）。'lyrical pieces about childhood and nature, influenced by the Indian poet Rabindranath Tagore'（受泰戈尔影响的关于童年与自然的抒情之作）使她'won her instant fame'（一举成名——Britannica）并获卫斯理学院奖学金；1926年回国出版'Zhi xiaoduzhe（寄小读者，1926）'（B279）。晚年'active in cultural affairs, especially children's literature'（B279）。",
+  "timeline": [
+    {
+      "year": 1900,
+      "text": "10月5日生于福建闽侯（Britannica：Born October 5, 1900, Minhou, Fujian province）。",
+      "src": "B279"
+    },
+    {
+      "year": 1923,
+      "text": "《繁星》《春水》出版（1923年说——通说待核；B279 该页未载，仅记其受泰戈尔影响的抒情之作一举成名）。",
+      "src": "B279"
+    },
+    {
+      "year": 1926,
+      "text": "回国出版《寄小读者》（Britannica：Zhi xiaoduzhe (1926)）。",
+      "src": "B279"
+    },
+    {
+      "year": 1999,
+      "text": "2月28日卒于北京（Britannica：Died February 28, 1999, Beijing）。",
+      "src": "B279"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fanxingchunshui",
+      "note": "小诗集（繁星/春水 1923年说——通说待核）"
+    },
+    {
+      "title": "寄小读者",
+      "note": "（Britannica：1926）"
+    },
+    {
+      "title": "姑姑、冬儿姑娘、关于女人",
+      "note": "（Britannica：Gugu (1932), Donger guniang (1935), Guanyu nuren (1943)）"
+    }
+  ],
+  "style": [
+    "'温柔、忧郁'而广受欢迎（B279：gentle, melancholy……very popular）。",
+    "受泰戈尔影响的童年与自然抒情（B279：influenced by the Indian poet Rabindranath Tagore）。",
+    "儿童文学的终身投入（B279：especially children's literature）。"
+  ],
+  "status": "Britannica 定位冰心为'广受欢迎的中国作家'、儿童文学的重要推动者（B279）；'冰心体'与五四问题小说的定位（通说待核）。",
+  "sources": [
+    "B279"
+  ],
+  "dates_source": "B279",
+  "pending": [
+    "《繁星》《春水》1923年出版（商务印书馆说）核对——Britannica 页未载。",
+    "五四运动与《问题小说》定位（通说）待核。",
+    "泰戈尔影响的具体篇目（'繁星'体）待核。"
+  ]
+}
