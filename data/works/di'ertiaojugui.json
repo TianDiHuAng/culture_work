@@ -1,0 +1,105 @@
+{
+  "id": "di'ertiaojugui",
+  "title": "第二十二条军规",
+  "original_title": "Catch-22",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "heller",
+  "author_name": "约瑟夫·海勒",
+  "year_display": "1961年（Britannica：Catch-22 (1961)）",
+  "year_sort": 1961,
+  "background": [
+    "Britannica（B281）：'The term catch-22 thereafter entered the English language as a reference to a proviso or situation that trips one up no matter which way one turns'——'catch-22'由此进入英语。",
+    "'Centering on the antihero Captain John Yossarian, stationed at an airstrip on a Mediterranean island during World War II, the novel portrays the airman's desperate attempts to stay alive'（B281）。",
+    "'developed a cult following with its dark surrealism'（B281）。"
+  ],
+  "outline": [
+    "约塞连上尉的求生：'catch'——疯子可停飞但申请停飞者即证明理性（悖论通说待核）。",
+    "斯诺登之死的时序倒放（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约塞连",
+      "identity": "投弹手",
+      "note": "反英雄（B281：antihero）"
+    },
+    {
+      "name": "卡思卡特上校",
+      "identity": "指挥官",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'catch-22'：悖论的权力（B281）。",
+    "反英雄与战争荒诞（B281 语境）。",
+    "'黑色幽默'的命名（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'catch-22'进入英语——绕不开的困境（B281）。",
+      "source": "B281"
+    },
+    {
+      "text": "Britannica：'dark surrealism'的邪典追随（B281）。",
+      "source": "B281"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "循环悖论。",
+      "人物众多（40+）。"
+    ],
+    "editions": [
+      "《第二十二条军规》（译林出版社扬恝译本，通说待核）。",
+      "英文原版（Simon & Schuster）。"
+    ],
+    "order": "黑色幽默首选。"
+  },
+  "pending": [
+    "1961年出版（Simon & Schuster说）核对。",
+    "约塞连/斯诺登人名核对。",
+    "'黑色幽默'流派命名待核。"
+  ],
+  "sources": [
+    "B281"
+  ],
+  "year_source": "B281",
+  "author_source": "B281",
+  "related_works": [
+    "wuhao",
+    "fatiaocheng",
+    "dongwunongchang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《第二十二条军规》悖论结构图",
+    "cards": [
+      {
+        "title": "catch-22",
+        "text": "进英语的悖论（B281）",
+        "color": "main"
+      },
+      {
+        "title": "约塞连",
+        "text": "反英雄（B281）",
+        "color": "gold"
+      },
+      {
+        "title": "飞行",
+        "text": "疯狂的证明",
+        "color": "antagonist"
+      },
+      {
+        "title": "黑色幽默",
+        "text": "流派命名（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

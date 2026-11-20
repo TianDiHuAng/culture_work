@@ -156,7 +156,8 @@ for aid, d in authors.items():
     p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
     print("created author", aid)
 
-G = G2
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
 
 works = {
 "weianzhihuo": {

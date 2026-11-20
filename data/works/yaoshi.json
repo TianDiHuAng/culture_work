@@ -1,0 +1,104 @@
+{
+  "id": "yaoshi",
+  "title": "钥匙",
+  "original_title": "鍵（The Key）",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "tanizaki",
+  "author_name": "谷崎润一郎",
+  "year_display": "1956年（作者页 B168 口径：钥匙（1956））",
+  "year_sort": 1956,
+  "background": [
+    "作者页（B168）：谷崎 major_works 载'钥匙（1956）'（B168 作者页定位，详见 xixue 条核对）。",
+    "文体（通说待核）：夫妻双日记体——各自偷看对方日记的性心理游戏。"
+  ],
+  "outline": [
+    "丈夫与妻子互窥日记：欲望的'钥匙'互锁（通说待核）。",
+    "结尾的意外（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "丈夫",
+      "identity": "教授",
+      "note": "日记其一（通说待核）"
+    },
+    {
+      "name": "郁子",
+      "identity": "妻子",
+      "note": "日记其二（人名通说待核）"
+    }
+  ],
+  "themes": [
+    "日记的互窥结构（通说）。",
+    "老年欲望的直视（通说待核）。",
+    "'恶魔主义'的晚期（通说——谷崎美学）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：谷崎晚年代表作（B168 作者页口径）。",
+      "source": "B168"
+    },
+    {
+      "text": "与《疯癫老人日记》（1961—62）并列为晚期日记体双作（B168 作者页谱系）。",
+      "source": "B168"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双日记的互文。",
+      "欲望书写的伦理。"
+    ],
+    "editions": [
+      "《钥匙》（上海译文出版社，通说待核）。",
+      "日文原版（新潮文库）。"
+    ],
+    "order": "先《细雪》《春琴抄》后本作。"
+  },
+  "pending": [
+    "1956年（《中央公论》说）核对。",
+    "妻子名（郁子）核对。",
+    "结尾细节待核。"
+  ],
+  "sources": [
+    "B168"
+  ],
+  "year_source": "B168",
+  "author_source": "B168",
+  "related_works": [
+    "xixue",
+    "chunqinchao",
+    "jinsuoji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《钥匙》互窥结构图",
+    "cards": [
+      {
+        "title": "丈夫日记",
+        "text": "欲望的记录",
+        "color": "main"
+      },
+      {
+        "title": "妻子日记",
+        "text": "互窥的游戏",
+        "color": "gold"
+      },
+      {
+        "title": "钥匙",
+        "text": "日记之锁",
+        "color": "family"
+      },
+      {
+        "title": "结尾",
+        "text": "意外的反转",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

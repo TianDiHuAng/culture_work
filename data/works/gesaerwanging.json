@@ -1,0 +1,102 @@
+{
+  "id": "gesaerwanging",
+  "title": "格萨尔王",
+  "original_title": "格萨尔王（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "当代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话·藏地史诗）",
+  "author_id": "alai",
+  "author_name": "阿来",
+  "year_display": "出版年份待核（中国作家网官方名单 C012：阿来 major_works 载'空山、格萨尔王'——2009年说通说待核）",
+  "year_sort": 2009,
+  "background": [
+    "中国作家网官方名单页（C012）：阿来 major_works 载'空山、格萨尔王'（C012 作者页定位，详见 chenailuodi 条核对）。",
+    "题材（通说待核）：重述藏族史诗《格萨尔王传》——说唱艺人晋美与格萨尔王的双线。"
+  ],
+  "outline": [
+    "史诗重述：格萨尔王的降伏与传说；当代说唱艺人的'神授'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "格萨尔王",
+      "identity": "史诗英雄",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "晋美",
+      "identity": "说唱艺人",
+      "note": "当代线（通说待核）"
+    }
+  ],
+  "themes": [
+    "史诗的当代重述（通说待核）。",
+    "'神授艺人'的口传传统（通说）。",
+    "藏文化的汉语转译（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "中国作家网官方名单：阿来 major_works 谱系（C012 作者页口径）。",
+      "source": "C012"
+    },
+    {
+      "text": "中国作家网官方名单：《尘埃落定》第五届茅奖（C012 作者级）。",
+      "source": "C012"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "藏族史诗知识。",
+      "双线结构。"
+    ],
+    "editions": [
+      "《格萨尔王》（重庆出版社，通说待核）。"
+    ],
+    "order": "先《尘埃落定》后本作。"
+  },
+  "pending": [
+    "2009年重庆出版社初版核对。",
+    "晋美艺人与史诗人物对照待核。",
+    "'神授艺人'现象的记载待核。"
+  ],
+  "sources": [
+    "C012"
+  ],
+  "year_source": "C012",
+  "author_source": "C012",
+  "related_works": [
+    "chenailuodi",
+    "shuihu",
+    "bailuyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《格萨尔王》双线史诗图",
+    "cards": [
+      {
+        "title": "格萨尔王",
+        "text": "史诗英雄",
+        "color": "main"
+      },
+      {
+        "title": "晋美",
+        "text": "当代说唱艺人",
+        "color": "family"
+      },
+      {
+        "title": "神授",
+        "text": "口传的传统",
+        "color": "gold"
+      },
+      {
+        "title": "重述",
+        "text": "史诗的当代化",
+        "color": "plain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "lianqingdezhongjie",
+  "title": "恋情的终结",
+  "original_title": "The End of the Affair",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "greene",
+  "author_name": "格雷厄姆·格林",
+  "year_display": "1951年（作者页 B283 口径：The End of the Affair (1951)）",
+  "year_sort": 1951,
+  "background": [
+    "Britannica（B283）：'Many of his best-known works, including The Power and the Glory (1940) and The End of the Affair (1951), center on Roman Catholic themes'；'emphasize the presence of evil as a palpable force'（B283）。",
+    "'The End of the Affair (films 1955 and 1999) is narrated by an agnostic in love with a woman who forsakes him because of a religious conviction'（无神论者爱上因宗教信念离开他的女人——B283）。"
+  ],
+  "outline": [
+    "莫里斯的嫉妒日记：萨拉的日记揭示'背叛'的真相——宗教的介入（通说待核）。",
+    "'恨'与'爱'的祈祷战（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "莫里斯·本德里克斯",
+      "identity": "作家",
+      "note": "无神论叙述者（B283 语境）"
+    },
+    {
+      "name": "萨拉",
+      "identity": "恋人",
+      "note": "皈依者（通说待核）"
+    }
+  ],
+  "themes": [
+    "无神论者的嫉妒与信仰（B283）。",
+    "'恶'的可感实在（B283：evil as a palpable force）。",
+    "日记的复调（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：格林'one of the most widely read British novelists of the 20th century'（B283）。",
+      "source": "B283"
+    },
+    {
+      "text": "Britannica：电影1955与1999（B283）。",
+      "source": "B283"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "天主教语境。",
+      "日记体的双重视角。"
+    ],
+    "editions": [
+      "《恋情的终结》（江苏凤凰文艺出版社/人民文学出版社版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《权力与荣耀》后本作。"
+  },
+  "pending": [
+    "1951年出版（Heinemann说）核对。",
+    "莫里斯/萨拉人名核对。",
+    "'恨的祈祷'结构待核。"
+  ],
+  "sources": [
+    "B283"
+  ],
+  "year_source": "B283",
+  "author_source": "B283",
+  "related_works": [
+    "xianzhi",
+    "ai_shibunengwangji",
+    "chatailaifuren"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恋情的终结》信仰结构图",
+    "cards": [
+      {
+        "title": "日记",
+        "text": "复调的真相",
+        "color": "main"
+      },
+      {
+        "title": "萨拉",
+        "text": "信仰的出走",
+        "color": "gold"
+      },
+      {
+        "title": "莫里斯",
+        "text": "无神论的恨",
+        "color": "antagonist"
+      },
+      {
+        "title": "奇迹",
+        "text": "信仰的边界",
+        "color": "family"
+      }
+    ]
+  }
+}

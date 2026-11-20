@@ -1,0 +1,108 @@
+{
+  "id": "yinduzhixing",
+  "title": "印度之行",
+  "original_title": "A Passage to India",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "forster",
+  "author_name": "E.M.福斯特",
+  "year_display": "1924年（作者页 B282 口径：A Passage to India (1924)）",
+  "year_sort": 1924,
+  "background": [
+    "Britannica（B282）：'one of his finest works, examining racism and colonialism'（检视种族主义与殖民主义的最佳作品之一——B282）；'The novel ends in an uneasy equilibrium'（小说以不安的平衡结束——B282）。",
+    "作者（B282）：福斯特声誉主要基于《霍华德庄园》与本作；'The values of truthfulness and kindness dominate Forster's later thinking'。"
+  ],
+  "outline": [
+    "阿黛拉的马拉巴山洞指控——审判分裂英印两方（B282：a visiting Englishwoman accuses an Indian man of attacking her, and the trial causes division between the British and Indians）。"
+  ],
+  "characters": [
+    {
+      "name": "阿黛拉",
+      "identity": "英国访客",
+      "note": "指控者（B282）"
+    },
+    {
+      "name": "阿齐兹",
+      "identity": "印度医生",
+      "note": "被告（通说待核）"
+    },
+    {
+      "name": "菲尔丁",
+      "identity": "校长",
+      "note": "连接者（通说待核）"
+    }
+  ],
+  "themes": [
+    "种族主义与殖民主义（B282：examining racism and colonialism）。",
+    "'不安的平衡'（B282：uneasy equilibrium）。",
+    "'只有连接'（Only connect——作者座右铭，通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of his finest works'（B282）。",
+      "source": "B282"
+    },
+    {
+      "text": "Britannica：1984年大卫·里恩电影改编（通说待核）。",
+      "source": "B282"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "英属印度史。",
+      "山洞一幕的空白。"
+    ],
+    "editions": [
+      "《印度之行》（人民文学出版社/译林出版社版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《霍华德庄园》后本作。"
+  },
+  "pending": [
+    "1924年出版（Edward Arnold说）核对。",
+    "阿黛拉/阿齐兹/菲尔丁人名核对。",
+    "马拉巴山洞情节待核。"
+  ],
+  "sources": [
+    "B282"
+  ],
+  "year_source": "B282",
+  "author_source": "B282",
+  "related_works": [
+    "wajie",
+    "shijiemori",
+    "banlunhuangri"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《印度之行》审判结构图",
+    "cards": [
+      {
+        "title": "马拉巴山洞",
+        "text": "指控的空白",
+        "color": "antagonist"
+      },
+      {
+        "title": "审判",
+        "text": "英印分裂（B282）",
+        "color": "main"
+      },
+      {
+        "title": "菲尔丁",
+        "text": "连接的尝试",
+        "color": "gold"
+      },
+      {
+        "title": "平衡",
+        "text": "不安的结尾（B282）",
+        "color": "family"
+      }
+    ]
+  }
+}

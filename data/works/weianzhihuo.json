@@ -1,0 +1,103 @@
+{
+  "id": "weianzhihuo",
+  "title": "微暗的火",
+  "original_title": "Pale Fire",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "nabokov",
+  "author_name": "弗拉基米尔·纳博科夫",
+  "year_display": "1962年（作者页 B145 口径：微暗的火（1962））",
+  "year_sort": 1962,
+  "background": [
+    "作者页（B145）：纳博科夫 major_works 载'微暗的火（1962）'（B145 作者页定位，详见 luolita 条核对）。",
+    "结构（通说待核）：999行的长诗+前言+评注+索引——'小说'以学术注释的形态出现。"
+  ],
+  "outline": [
+    "诗人谢德的绝笔长诗与金波特注释的'争夺'——赞巴拉王国的幻影（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "金波特",
+      "identity": "注释者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "谢德",
+      "identity": "诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "注释即小说：形式的发明（通说）。",
+    "幻想与现实的争夺（通说待核）。",
+    "'微暗的火'：莎剧引文（书名通说待核——出自《暴风雨》）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：纳博科夫代表作谱系（B145 作者页口径）。",
+      "source": "B145"
+    },
+    {
+      "text": "后现代元小说的里程碑（通说待核）。",
+      "source": "B145"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "注释体的阅读顺序（按页码还是按正文）。",
+      "999行长诗。"
+    ],
+    "editions": [
+      "《微暗的火》（上海译文出版社，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《洛丽塔》后本作。"
+  },
+  "pending": [
+    "1962年出版（Random House说）核对。",
+    "金波特/谢德人名核对。",
+    "书名出自《暴风雨》的引文核对。"
+  ],
+  "sources": [
+    "B145"
+  ],
+  "year_source": "B145",
+  "author_source": "B145",
+  "related_works": [
+    "luolita",
+    "maitian",
+    "bianxingji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《微暗的火》形式结构图",
+    "cards": [
+      {
+        "title": "长诗",
+        "text": "999行（通说）",
+        "color": "family"
+      },
+      {
+        "title": "注释",
+        "text": "金波特的争夺",
+        "color": "main"
+      },
+      {
+        "title": "赞巴拉",
+        "text": "幻想的王国",
+        "color": "gold"
+      },
+      {
+        "title": "形式",
+        "text": "注释即小说",
+        "color": "plain"
+      }
+    ]
+  }
+}

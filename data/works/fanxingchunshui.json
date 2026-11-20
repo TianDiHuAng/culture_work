@@ -1,0 +1,98 @@
+{
+  "id": "fanxingchunshui",
+  "title": "繁星·春水",
+  "original_title": "繁星/春水（小诗集）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "小诗集",
+  "genre_group": "诗歌",
+  "language": "汉语（白话）",
+  "author_id": "bingxin",
+  "author_name": "冰心（谢婉莹）",
+  "year_display": "1923年出版（通说待核；Britannica B279 该页未载——仅记其受泰戈尔影响的抒情之作一举成名）",
+  "year_sort": 1923,
+  "background": [
+    "Britannica（B279）：冰心'lyrical pieces about childhood and nature, influenced by the Indian poet Rabindranath Tagore'——受泰戈尔影响的童年与自然抒情之作使她'won her instant fame'（一举成名）并获卫斯理学院奖学金。",
+    "'冰心体'（通说待核）：小诗体——受泰戈尔《飞鸟集》影响的短诗。"
+  ],
+  "outline": [
+    "《繁星》：零碎的哲思小诗（通说待核）。",
+    "《春水》：延续的春水之思（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "冰心",
+      "identity": "诗人",
+      "note": "'温柔、忧郁'（B279）"
+    }
+  ],
+  "themes": [
+    "母爱与童心（通说）。",
+    "泰戈尔式小诗体（B279：influenced by Tagore）。",
+    "'哲学的'小诗（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：受泰戈尔影响的抒情之作使冰心一举成名（B279）。",
+      "source": "B279"
+    },
+    {
+      "text": "作者页：冰心为广受欢迎的中国作家（B279 作者级定位）。",
+      "source": "B279"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "小诗体的断片。",
+      "'冰心体'语言。"
+    ],
+    "editions": [
+      "《繁星·春水》（人民文学出版社/商务印书馆版本，通说待核）。"
+    ],
+    "order": "对照泰戈尔《飞鸟集》（B261 作者受其影响——互证）。"
+  },
+  "pending": [
+    "《繁星》《春水》1923年出版细节核对。",
+    "篇数（繁星164/春水182说）待核。",
+    "'冰心体'术语出处待核。"
+  ],
+  "sources": [
+    "B279"
+  ],
+  "year_source": "B279",
+  "author_source": "B279",
+  "related_works": [
+    "jitangali",
+    "nvshen",
+    "beidaoshixuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《繁星·春水》小诗结构图",
+    "cards": [
+      {
+        "title": "繁星",
+        "text": "哲思的碎语",
+        "color": "main"
+      },
+      {
+        "title": "春水",
+        "text": "流水的延续",
+        "color": "family"
+      },
+      {
+        "title": "泰戈尔",
+        "text": "影响之源（B279）",
+        "color": "gold"
+      },
+      {
+        "title": "母爱与童心",
+        "text": "主题（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

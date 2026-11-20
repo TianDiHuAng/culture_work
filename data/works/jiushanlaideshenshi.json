@@ -1,0 +1,98 @@
+{
+  "id": "jiushanlaideshenshi",
+  "title": "旧金山来的绅士",
+  "original_title": "Господин из Сан-Франциско（The Gentleman from San Francisco）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "bunin",
+  "author_name": "伊万·蒲宁",
+  "year_display": "1916年（Britannica：Gospodin iz San-Frantsisko (1916; The Gentleman from San Francisco)）",
+  "year_sort": 1916,
+  "background": [
+    "Britannica（B284）：'Gospodin iz San-Frantsisko (1916; The Gentleman from San Francisco) show Bunin's penchant for extreme precision of language'（展示蒲宁对语言极端精确的偏好——B284）。",
+    "蒲宁（B284）：1933年诺奖——'the first Russian to receive the Nobel Prize for Literature'；'one of the finest of Russian stylists'。"
+  ],
+  "outline": [
+    "'旧金山来的绅士'：一位无名富人携家乘'阿特兰蒂克'号游轮环游——死于卡普里，被装回运棺的汽水箱（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "绅士",
+      "identity": "无名富人",
+      "note": "无姓名（通说待核）"
+    }
+  ],
+  "themes": [
+    "'阿特兰蒂克'（Atlantic/Atlantis）——文明的自负与覆灭（通说待核）。",
+    "死亡面前的社会等级滑稽（通说）。",
+    "语言的极端精确（B284）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'show Bunin's penchant for extreme precision of language'（B284）。",
+      "source": "B284"
+    },
+    {
+      "text": "Britannica：1933年诺奖——首位俄国获奖者（B284 作者级）。",
+      "source": "B284"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "游轮社会的等级细节。",
+      "象征命名（阿特兰蒂克号）。"
+    ],
+    "editions": [
+      "《旧金山来的绅士》（收于《蒲宁文集》，通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "蒲宁短篇首选。"
+  },
+  "pending": [
+    "1916年发表（《 思 想 》？——不：俄国刊物说）核对。",
+    "绅士无名的处理待核。",
+    "阿特兰蒂克号象征待核。"
+  ],
+  "sources": [
+    "B284"
+  ],
+  "year_source": "B284",
+  "author_source": "B284",
+  "related_works": [
+    "bianxingji",
+    "puluomixiusibang",
+    "sihunling"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《旧金山来的绅士》覆灭结构图",
+    "cards": [
+      {
+        "title": "游轮",
+        "text": "阿特兰蒂克号（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "绅士",
+        "text": "无名的人生",
+        "color": "main"
+      },
+      {
+        "title": "卡普里",
+        "text": "死亡的中途",
+        "color": "antagonist"
+      },
+      {
+        "title": "汽水箱",
+        "text": "归途的讽刺",
+        "color": "family"
+      }
+    ]
+  }
+}

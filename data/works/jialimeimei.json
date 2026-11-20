@@ -1,0 +1,104 @@
+{
+  "id": "jialimeimei",
+  "title": "嘉莉妹妹",
+  "original_title": "Sister Carrie",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "delaise",
+  "author_name": "西奥多·德莱塞",
+  "year_display": "1900年出版（Britannica：Sister Carrie——1899年动笔；首版'sold fewer than 500 copies'——B280）",
+  "year_sort": 1900,
+  "background": [
+    "Britannica（B280）：'Dreiser began writing his first novel, Sister Carrie, in 1899 at the suggestion of a newspaper colleague'；'Doubleday's qualms about the book, the story line of which involves a young kept woman whose immorality goes unpunished' led to limited advertising，'sold fewer than 500 copies'。",
+    "作者（B280）：'the outstanding American practitioner of naturalism'（美国自然主义最杰出实践者）。"
+  ],
+  "outline": [
+    "嘉莉进城：从打工到'kept woman'——'immorality goes unpunished'（B280 语境）。",
+    "赫斯特伍德的坠落：从经理到流浪（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "嘉莉·米伯",
+      "identity": "打工女",
+      "note": "上升者（通说待核）"
+    },
+    {
+      "name": "赫斯特伍德",
+      "identity": "经理",
+      "note": "下坠者（通说待核）"
+    }
+  ],
+  "themes": [
+    "城市的欲望机器（通说）。",
+    "'道德不受惩罚'的挑战（B280：immorality goes unpunished）。",
+    "自然主义的命运观（B280 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'immorality goes unpunished'引发的出版顾虑——仅售不足500册（B280）。",
+      "source": "B280"
+    },
+    {
+      "text": "作者页：德莱塞为自然主义最杰出实践者（B280 作者级定位）。",
+      "source": "B280"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自然主义的道德中立。",
+      "1900年代芝加哥—纽约。"
+    ],
+    "editions": [
+      "《嘉莉妹妹》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "自然主义入门：先本作后《美国的悲剧》。"
+  },
+  "pending": [
+    "1900年出版（Doubleday, Page说）核对。",
+    "嘉莉/赫斯特伍德人名核对。",
+    "1931年再版风波待核。"
+  ],
+  "sources": [
+    "B280"
+  ],
+  "year_source": "B280",
+  "author_source": "B280",
+  "related_works": [
+    "fenwangyu",
+    "taiyangzhaochangshengqi",
+    "huozhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《嘉莉妹妹》升降结构图",
+    "cards": [
+      {
+        "title": "嘉莉",
+        "text": "城市的上升",
+        "color": "main"
+      },
+      {
+        "title": "赫斯特伍德",
+        "text": "经理的坠落",
+        "color": "antagonist"
+      },
+      {
+        "title": "摇椅",
+        "text": "欲望的循环",
+        "color": "gold"
+      },
+      {
+        "title": "自然主义",
+        "text": "道德的中立（B280）",
+        "color": "family"
+      }
+    ]
+  }
+}
