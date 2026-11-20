@@ -1,0 +1,103 @@
+{
+  "id": "yuesefuandelusi",
+  "title": "约瑟夫·安德鲁斯",
+  "original_title": "Joseph Andrews",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "18世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fielding",
+  "author_name": "亨利·菲尔丁",
+  "year_display": "1742年（Britannica：Fielding's Joseph Andrews was published anonymously in 1742）",
+  "year_sort": 1742,
+  "background": [
+    "Britannica（B274）：'Fielding's Joseph Andrews was published anonymously in 1742'；'He was certainly inaugurating a new genre in fiction'；前言自述'a comic Epic-Poem in Prose'（B274）。",
+    "缘起（B274 语境）：戏仿理查森《帕梅拉》——帕梅拉之弟约瑟夫的贞洁冒险（通说待核）。"
+  ],
+  "outline": [
+    "约瑟夫与帕森·亚当斯的公路冒险：正直者的滑稽考验（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约瑟夫",
+      "identity": "男仆",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "帕森·亚当斯",
+      "identity": "牧师",
+      "note": "唐吉诃德式牧师（通说待核）"
+    }
+  ],
+  "themes": [
+    "'滑稽史诗'的实践（B274：comic Epic-Poem in Prose）。",
+    "对感伤主义的戏仿（B274 语境：Shamela 的姊妹）。",
+    "正直的公路喜剧（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'He was certainly inaugurating a new genre in fiction'（B274）。",
+      "source": "B274"
+    },
+    {
+      "text": "作者页：菲尔丁'英国小说之父'（B274 作者级定位）。",
+      "source": "B274"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "与《帕梅拉》的互文。",
+      "18世纪公路叙事。"
+    ],
+    "editions": [
+      "《约瑟夫·安德鲁斯》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《汤姆·琼斯》或本作（互为前奏）。"
+  },
+  "pending": [
+    "1742年2月出版（Andrew Millar说）核对。",
+    "约瑟夫/亚当斯人名核对。",
+    "《莎米拉》戏仿（1741——B274 已载）展开核对。"
+  ],
+  "sources": [
+    "B274"
+  ],
+  "year_source": "B274",
+  "author_source": "B274",
+  "related_works": [
+    "tangmuqiongsi",
+    "lubinxun",
+    "moerflandes"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《约瑟夫·安德鲁斯》公路喜剧图",
+    "cards": [
+      {
+        "title": "贞洁",
+        "text": "男性的'帕梅拉'",
+        "color": "main"
+      },
+      {
+        "title": "亚当斯",
+        "text": "堂吉诃德式牧师",
+        "color": "gold"
+      },
+      {
+        "title": "公路",
+        "text": "滑稽的冒险",
+        "color": "family"
+      },
+      {
+        "title": "戏仿",
+        "text": "对感伤主义的反讽",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "mengtiansuibi",
+  "title": "蒙田随笔集",
+  "original_title": "Essais（Essays）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "随笔集（三卷107篇）",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "montaigne",
+  "author_name": "米歇尔·德·蒙田",
+  "year_display": "1580年第一二卷（Britannica：57 and 37 chapters……published in Bordeaux in 1580）；1588年版首收第三卷13章（B296）",
+  "year_sort": 1580,
+  "background": [
+    "Britannica（B296）：'a French writer whose Essais (Essays) established a new literary form'（确立了新的文学形式——B296）；essais 意为'the probings and testings of his mind'（心灵的试探——B296）。",
+    "怀疑论（B296）：'a skepticism towards humanity's claims to knowledge, advocating for self-acceptance and tolerance'。",
+    "开篇名句（B296）：'I am myself the matter of my book'（我自己就是本书的题材）。"
+  ],
+  "outline": [
+    "卷一（57章）/卷二（37章）1580年波尔多出版；1588年版首收第三卷13章（B296）；身后1774年《旅行日记》出版（B296）。"
+  ],
+  "characters": [
+    {
+      "name": "蒙田",
+      "identity": "随笔作者",
+      "note": "'我自己就是本书的题材'（B296）"
+    }
+  ],
+  "themes": [
+    "随笔=心灵的试探（B296）。",
+    "自我接纳与宽容的怀疑论（B296）。",
+    "宗教战争中的私人城堡（B296 语境：wars of religion）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'established a new literary form'（B296）。",
+      "source": "B296"
+    },
+    {
+      "text": "Britannica：怀疑论与自我接纳、宽容的倡导（B296）。",
+      "source": "B296"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "篇目的长短不一。",
+      "16世纪法语引文。"
+    ],
+    "editions": [
+      "《蒙田随笔全集》（人民文学出版社/上海书店出版社版本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "先读《论友谊》《论恐惧》等名篇（通说）。"
+  },
+  "pending": [
+    "107篇总数核对。",
+    "'Que sais-je'出处待核。",
+    "培根《随笔》的对照阅读（通说）待核。"
+  ],
+  "sources": [
+    "B296"
+  ],
+  "year_source": "B296",
+  "author_source": "B296",
+  "related_works": [
+    "lunyu",
+    "zhuangzi",
+    "waerdenghu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《蒙田随笔》三卷结构图",
+    "cards": [
+      {
+        "title": "卷一",
+        "text": "57章（B296）",
+        "color": "family"
+      },
+      {
+        "title": "卷二",
+        "text": "37章",
+        "color": "main"
+      },
+      {
+        "title": "卷三",
+        "text": "1588年增补（B296）",
+        "color": "gold"
+      },
+      {
+        "title": "随笔",
+        "text": "心灵的试探",
+        "color": "plain"
+      }
+    ]
+  }
+}

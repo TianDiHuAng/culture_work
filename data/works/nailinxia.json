@@ -1,0 +1,104 @@
+{
+  "id": "nailinxia",
+  "title": "奶树林下",
+  "original_title": "Under Milk Wood",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "广播剧（播音剧）",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "dylanthomas",
+  "author_name": "狄兰·托马斯",
+  "year_display": "1953年纽约诗歌中心演出、1954年BBC播出（Britannica：presented at the Poetry Center in New York City in 1953, and its final version was broadcast by the BBC in 1954）",
+  "year_sort": 1954,
+  "background": [
+    "Britannica（B300）：'This play, which evokes the lives of the inhabitants of a small Welsh town, shows Thomas's full powers as an artist in comedy.'（威尔士小镇居民的生活——喜剧艺术的全盛）。",
+    "文体（B300 语境）：'verbal harmonies that are unique in English poetry'（英语诗歌中独一无二的语音和谐——B300）。",
+    "'His work……owed more to his Welsh background than to the prevailing taste in English literature'（B300）。"
+  ],
+  "outline": [
+    "拉拉格小镇的一天：船长、织袜女与'海的呼唤'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "威利船长",
+      "identity": "盲眼老船长",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "波利·盖特?",
+      "identity": "织袜女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "小镇的一天：梦与醒（通说待核）。",
+    "'海的呼唤'（通说待核）。",
+    "广播剧的声音艺术（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'shows Thomas's full powers as an artist in comedy'（B300）。",
+      "source": "B300"
+    },
+    {
+      "text": "作者页：'verbal harmonies……unique in English poetry'（B300 作者级定位）。",
+      "source": "B300"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "威尔士小镇名（Llareggub——倒拼说）。",
+      "纯声音的想象。"
+    ],
+    "editions": [
+      "《奶树林下》（收于狄兰·托马斯作品集，通说待核）。",
+      "英文原版（Dent）。"
+    ],
+    "order": "先读诗后听剧。"
+  },
+  "pending": [
+    "小镇名 Llareggub（'bugger all'倒拼——通说待核）核对。",
+    "威利船长/波利人名核对。",
+    "BBC 1954年首播说核对（B300 已载）。"
+  ],
+  "sources": [
+    "B300"
+  ],
+  "year_source": "B300",
+  "author_source": "B300",
+  "related_works": [
+    "zhongju",
+    "dengdaigou",
+    "xinishixuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《奶树林下》小镇一天图",
+    "cards": [
+      {
+        "title": "拉拉格",
+        "text": "威尔士小镇（通说）",
+        "color": "family"
+      },
+      {
+        "title": "威利船长",
+        "text": "盲眼的梦",
+        "color": "main"
+      },
+      {
+        "title": "声音",
+        "text": "verbal harmonies（B300）",
+        "color": "gold"
+      },
+      {
+        "title": "海的呼唤",
+        "text": "小镇的宿命",
+        "color": "plain"
+      }
+    ]
+  }
+}

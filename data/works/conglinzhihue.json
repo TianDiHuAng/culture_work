@@ -1,0 +1,103 @@
+{
+  "id": "conglinzhihue",
+  "title": "丛林之书",
+  "original_title": "The Jungle Book",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "故事集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "kipling",
+  "author_name": "鲁德亚德·吉卜林",
+  "year_display": "1894年（作者页 B277 口径：The Jungle Book (1894)——'stylistically superb collections of stories'）",
+  "year_sort": 1894,
+  "background": [
+    "作者页（B277）：吉卜林 major_works 载'The Jungle Book (1894) and The Second Jungle Book (1895)'——'stylistically superb collections of stories'（B277 作者页定位）。",
+    "题材（通说待核）：狼群养大的毛克利——熊巴鲁、黑豹巴希拉与老虎谢利·可汗。"
+  ],
+  "outline": [
+    "毛克利在丛林的成长与'法律'——与老虎谢利·可汗的对决（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "毛克利",
+      "identity": "狼孩",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "巴鲁",
+      "identity": "熊",
+      "note": "法律的老师（通说待核）"
+    }
+  ],
+  "themes": [
+    "丛林'法律'：文明与野性的边界（通说待核）。",
+    "成长与身份（通说）。",
+    "帝国视角下的印度丛林（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'stylistically superb collections of stories'（B277）。",
+      "source": "B277"
+    },
+    {
+      "text": "作者页：吉卜林儿童故事代表作（B277 作者级定位）。",
+      "source": "B277"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "印度丛林词汇。",
+      "'法律'条文（丛林法则）的阅读。"
+    ],
+    "editions": [
+      "《丛林之书》（人民文学出版社/浙江文艺出版社版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "吉卜林儿童文学首选。"
+  },
+  "pending": [
+    "1894年出版（Macmillan说）核对。",
+    "毛克利/巴鲁/谢利·可汗人名核对。",
+    "迪士尼改编（1967/2016）待核。"
+  ],
+  "sources": [
+    "B277"
+  ],
+  "year_source": "B277",
+  "author_source": "B277",
+  "related_works": [
+    "jim",
+    "yisuo",
+    "hakebei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《丛林之书》法律结构图",
+    "cards": [
+      {
+        "title": "毛克利",
+        "text": "狼群的孩子",
+        "color": "main"
+      },
+      {
+        "title": "巴鲁",
+        "text": "丛林法律的老师",
+        "color": "gold"
+      },
+      {
+        "title": "谢利·可汗",
+        "text": "老虎的威胁",
+        "color": "antagonist"
+      },
+      {
+        "title": "法律",
+        "text": "丛林与文明",
+        "color": "family"
+      }
+    ]
+  }
+}

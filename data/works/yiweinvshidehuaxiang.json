@@ -1,0 +1,103 @@
+{
+  "id": "yiweinvshidehuaxiang",
+  "title": "一位女士的画像",
+  "original_title": "The Portrait of a Lady",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "19世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "henryjames",
+  "author_name": "亨利·詹姆斯",
+  "year_display": "1881年（Britannica：his masterpiece, The Portrait of a Lady (1881)）",
+  "year_sort": 1881,
+  "background": [
+    "Britannica（B297）：'James ended this first phase of his career by producing his masterpiece, The Portrait of a Lady (1881)'——写'来自奥尔巴尼的年轻女性'带到欧洲的'狭隘的地方主义与自命'（B297）；'As a picture of Americans moving in the expatriate society of England and of Italy, this novel has no equal'（B297）。",
+    "作者（B297）：'a key transitional figure between literary realism and Modernism'。"
+  ],
+  "outline": [
+    "伊莎贝尔·阿切尔继承巨款后误嫁吉尔伯特·奥斯蒙德——自由意志的悲剧（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "伊莎贝尔·阿切尔",
+      "identity": "美国女继承",
+      "note": "（B297）"
+    },
+    {
+      "name": "吉尔伯特·奥斯蒙德",
+      "identity": "收藏家",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'自由意志'的悲剧：选择的重量（通说待核）。",
+    "美国'天真'与欧洲'世故'的碰撞（B297 语境）。",
+    "国际小说（international theme）的典范（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his masterpiece'；'this novel has no equal'（B297）。",
+      "source": "B297"
+    },
+    {
+      "text": "作者页：'key transitional figure between literary realism and Modernism'（B297 作者级）。",
+      "source": "B297"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长句与心理视角。",
+      "国际主题（international theme）背景。"
+    ],
+    "editions": [
+      "《一位女士的画像》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "亨利·詹姆斯入门首选。"
+  },
+  "pending": [
+    "1881年出版（Macmillan/Houghton Mifflin说）核对。",
+    "伊莎贝尔/奥斯蒙德人名核对。",
+    "'international theme'术语出处待核。"
+  ],
+  "sources": [
+    "B297"
+  ],
+  "year_source": "B297",
+  "author_source": "B297",
+  "related_works": [
+    "jueshi",
+    "fenwangyu",
+    "yinduzhixing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《女士画像》选择结构图",
+    "cards": [
+      {
+        "title": "遗产",
+        "text": "自由的诱惑",
+        "color": "family"
+      },
+      {
+        "title": "伊莎贝尔",
+        "text": "选择的重量",
+        "color": "main"
+      },
+      {
+        "title": "奥斯蒙德",
+        "text": "艺术的空壳",
+        "color": "antagonist"
+      },
+      {
+        "title": "回归",
+        "text": "最后的抉择",
+        "color": "gold"
+      }
+    ]
+  }
+}

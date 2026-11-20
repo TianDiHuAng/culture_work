@@ -163,6 +163,9 @@ for aid, d in authors.items():
 def G3(caption, cards):
     return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
 
+def G2(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
 works = {
 "jinyindao": {
   "id":"jinyindao","title":"金银岛","original_title":"Treasure Island","region":"英国","era":"近代","era_detail":"19世纪",

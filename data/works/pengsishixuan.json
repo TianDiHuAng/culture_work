@@ -1,0 +1,98 @@
+{
+  "id": "pengsishixuan",
+  "title": "彭斯诗选",
+  "original_title": "Poems, Chiefly in the Scottish Dialect（1786）等",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "18世纪",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "苏格兰方言/英语",
+  "author_id": "burns",
+  "author_name": "罗伯特·彭斯",
+  "year_display": "1786年7月31日基尔马诺克版（Britannica：Poems, Chiefly in the Scottish Dialect appeared July 31, 1786 (Kilmarnock)）",
+  "year_sort": 1786,
+  "background": [
+    "Britannica（B299）：'Robert Burns is considered the national poet of Scotland'（苏格兰国民诗人）；首版含 To a Mouse、The Holy Fair 等'a handful of first-rate Scots poems'；'Tam o' Shanter'（1791）为 mock-heroic 名篇（B299）；'contribution to over three hundred songs'（含 Auld Lang Syne）；'Ploughman Poet'；为辑录改写民歌拒酬（B299）。",
+    "基尔马诺克版成功（B299）：'Simple country folk and sophisticated Edinburgh critics alike'皆赞誉。"
+  ],
+  "outline": [
+    "苏格兰方言诗：致老鼠、致虱子、圣游、汤姆·奥·桑特（B299）+ 歌曲（Auld Lang Syne——通说）。"
+  ],
+  "characters": [
+    {
+      "name": "彭斯",
+      "identity": "犁夫诗人",
+      "note": "'Ploughman Poet'（B299）"
+    }
+  ],
+  "themes": [
+    "苏格兰方言的诗性（B299）。",
+    "民歌的辑录与改写（B299：over three hundred songs）。",
+    "农民的讽刺与抒情（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'considered the national poet of Scotland'；Auld Lang Syne（B299）。",
+      "source": "B299"
+    },
+    {
+      "text": "Britannica：'country folk and Edinburgh critics alike'的双重赞誉（B299）。",
+      "source": "B299"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "苏格兰方言的读音。",
+      "民歌曲调的对应。"
+    ],
+    "editions": [
+      "《彭斯诗选》（人民文学出版社袁可嘉译本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "先《致老鼠》《一朵红红的玫瑰》→《汤姆·奥·桑特》。"
+  },
+  "pending": [
+    "《一朵红红的玫瑰》1794年出处核对。",
+    "彭斯之夜（1月25日）待核。",
+    "袁可嘉译本信息待核。"
+  ],
+  "sources": [
+    "B299"
+  ],
+  "year_source": "B299",
+  "author_source": "B299",
+  "related_works": [
+    "xinishixuan",
+    "yijiubasi",
+    "caoyeji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "彭斯诗歌结构图",
+    "cards": [
+      {
+        "title": "致老鼠",
+        "text": "一流的苏格兰诗（B299）",
+        "color": "main"
+      },
+      {
+        "title": "汤姆·奥·桑特",
+        "text": "mock-heroic（B299）",
+        "color": "gold"
+      },
+      {
+        "title": "Auld Lang Syne",
+        "text": "300余首歌之一",
+        "color": "family"
+      },
+      {
+        "title": "犁夫诗人",
+        "text": "国民诗人（B299）",
+        "color": "plain"
+      }
+    ]
+  }
+}

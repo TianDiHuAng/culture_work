@@ -1,0 +1,103 @@
+{
+  "id": "aojimaqi",
+  "title": "奥吉·玛琪历险记",
+  "original_title": "The Adventures of Augie March",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "bellow",
+  "author_name": "索尔·贝娄",
+  "year_display": "1953年（Britannica：The Adventures of Augie March published 1953——'won a National Book Award in 1954'）",
+  "year_sort": 1953,
+  "background": [
+    "Britannica（B298）：'A picaresque story of a poor Jewish boy from Chicago, the novel tracks his progress'（芝加哥犹太穷孩子的流浪汉故事——B298）；'The novel won a National Book Award in 1954'（B298）。",
+    "作者（B298）：1976诺奖——'for the human understanding and subtle analysis of contemporary culture'；'cultural sophistication and the wisdom of the streets'构成其最大原创性（B298）。"
+  ],
+  "outline": [
+    "奥吉从芝加哥底层到墨西哥、欧洲的流浪——'万物皆可尝试'的帕卡雷特（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥吉·玛琪",
+      "identity": "流浪者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "劳希奶奶",
+      "identity": "房主",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "流浪汉小说的现代转型（B298：picaresque story）。",
+    "'反对屈从'的freedom（通说待核）。",
+    "犹太裔美国叙事（B298 语境：Jewish American writers）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'won a National Book Award in 1954'（B298）。",
+      "source": "B298"
+    },
+    {
+      "text": "Britannica：'cultural sophistication and the wisdom of the streets……greatest originality'（B298）。",
+      "source": "B298"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "流浪汉体的长卷。",
+      "芝加哥犹太街景。"
+    ],
+    "editions": [
+      "《奥吉·玛琪历险记》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "贝娄入门首选。"
+  },
+  "pending": [
+    "1953年出版（Viking Press说）核对。",
+    "奥吉·玛琪/劳希奶奶人名核对。",
+    "'拒绝屈从'（against submission）表述待核。"
+  ],
+  "sources": [
+    "B298"
+  ],
+  "year_source": "B298",
+  "author_source": "B298",
+  "related_works": [
+    "meiguoren",
+    "jueshi",
+    "嘉莉妹妹"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《奥吉·玛琪》流浪结构图",
+    "cards": [
+      {
+        "title": "奥吉",
+        "text": "芝加哥的犹太男孩（B298）",
+        "color": "main"
+      },
+      {
+        "title": "流浪",
+        "text": "picaresque（B298）",
+        "color": "gold"
+      },
+      {
+        "title": "万事皆可",
+        "text": "奥吉的信条（通说）",
+        "color": "family"
+      },
+      {
+        "title": "国家图书奖",
+        "text": "1954年（B298）",
+        "color": "plain"
+      }
+    ]
+  }
+}

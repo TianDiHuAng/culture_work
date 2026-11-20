@@ -1,0 +1,110 @@
+{
+  "id": "jurenzhuan",
+  "title": "巨人传",
+  "original_title": "La vie très horifique du grand Gargantua……Pantagruel（五卷）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "文艺复兴",
+  "genre": "长篇小说（五卷）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "rabelais",
+  "author_name": "弗朗索瓦·拉伯雷（化名 Alcofribas Nasier）",
+  "year_display": "1532—1564年出版（Britannica：The five novels……published between 1532 and 1564——B295）",
+  "year_sort": 1532,
+  "background": [
+    "Britannica（B295）：'The five novels that make up Gargantua and Pantagruel——although authorship of the fifth is disputed'（五卷、第五卷归属有争议）；Pantagruel (1532) 'condemned by the Sorbonne in Paris as obscene. It became a popular success'；'Rabelais used scatology aesthetically, not gratuitously'（B295）。",
+    "讽刺对象（B295）：'social institutions, dogmas, educational traditions, and philosophical methodologies'。"
+  ],
+  "outline": [
+    "巨人父子：高康大与庞大固埃——'神瓶'的谒见与'rinkyhorn'（通说待核）。",
+    "巴汝奇：'cunning and witty rogue'（B295：first appears in the first novel——通说待核）。",
+    "'特来美修道院'：'做你想做的'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "高康大",
+      "identity": "巨人",
+      "note": "庞固埃之父（B295）"
+    },
+    {
+      "name": "庞大固埃",
+      "identity": "巨人",
+      "note": "（B295）"
+    },
+    {
+      "name": "巴汝奇",
+      "identity": " companions",
+      "note": "'cunning and witty rogue'（B295）"
+    }
+  ],
+  "themes": [
+    "'审美化的粗俗'（B295：scatology aesthetically）。",
+    "对制度、教条、教育传统的讽刺（B295）。",
+    "人文主义的'直觉与好奇心'（B295：nobility and boundless curiosity——语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a lasting place in the history of 16th-century French literature'（B295）。",
+      "source": "B295"
+    },
+    {
+      "text": "Britannica：'Rabelaisian'一词的误导——粗俗是审美的（B295）。",
+      "source": "B295"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "五卷顺序（庞固埃在前！）。",
+      "16世纪法语双关。"
+    ],
+    "editions": [
+      "《巨人传》（人民文学出版社/上海译文出版社版本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "先读《庞固埃》（先出版）或《高康大》（先叙事）。"
+  },
+  "pending": [
+    "五卷出版年表（1532/1534/1546/1552/1564）核对。",
+    "'特来美'修道院与'做你想做的'原文待核。",
+    "第五卷归属争议待核。"
+  ],
+  "sources": [
+    "B295"
+  ],
+  "year_source": "B295",
+  "author_source": "B295",
+  "related_works": [
+    "geliefo",
+    "tangjihede",
+    "don Quixote"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《巨人传》五卷结构图",
+    "cards": [
+      {
+        "title": "庞固埃",
+        "text": "1532首卷（B295）",
+        "color": "main"
+      },
+      {
+        "title": "高康大",
+        "text": "巨人之父",
+        "color": "family"
+      },
+      {
+        "title": "巴汝奇",
+        "text": "狡黠的浪子（B295）",
+        "color": "gold"
+      },
+      {
+        "title": "神瓶",
+        "text": "'喝'的谒见（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

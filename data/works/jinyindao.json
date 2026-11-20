@@ -1,0 +1,104 @@
+{
+  "id": "jinyindao",
+  "title": "金银岛",
+  "original_title": "Treasure Island",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "stevenson",
+  "author_name": "罗伯特·路易斯·史蒂文森",
+  "year_display": "出版年份待核（Britannica B294 Quick Facts 作'Treasure Island (1881)'——通行1883年说待核）",
+  "year_sort": 1883,
+  "background": [
+    "作者页（B294）：史蒂文森 major_works 载'金银岛、绑架'（B294 作者页定位，详见 huashenboshi 条核对）。",
+    "作者（B294）：'a writer of originality and power who produced brilliant adventure stories with subtle moral overtones'。"
+  ],
+  "outline": [
+    "少年吉姆获得藏宝图——'独脚厨'西尔弗的海上阴谋（通说待核）。",
+    "'独脚水手'歌谣的起源（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "吉姆·霍金斯",
+      "identity": "少年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "朗·约翰·西尔弗",
+      "identity": "独脚厨",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "海盗文学的原型（通说待核）。",
+    "'独脚、鹦鹉、藏宝图'的母题发明（通说待核）。",
+    "善恶的道德意味（B294：subtle moral overtones）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'best known for his novels Treasure Island……'（B294）。",
+      "source": "B294"
+    },
+    {
+      "text": "作者页：史蒂文森冒险经典至今广读（B294 语境）。",
+      "source": "B294"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "航海术语。",
+      "海盗黑话。"
+    ],
+    "editions": [
+      "《金银岛》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "史蒂文森冒险首选。"
+  },
+  "pending": [
+    "1883年出版（Cassell说）与 Britannica Quick Facts 1881 差异核对。",
+    "吉姆·霍金斯/西尔弗人名核对。",
+    "'死人的箱子'章等细节待核。"
+  ],
+  "sources": [
+    "B294"
+  ],
+  "year_source": "B294",
+  "author_source": "B294",
+  "related_works": [
+    "huashenboshi",
+    "hakebei",
+    "tangmusuoyaxianji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《金银岛》藏宝结构图",
+    "cards": [
+      {
+        "title": "藏宝图",
+        "text": "少年的发现",
+        "color": "family"
+      },
+      {
+        "title": "西尔弗",
+        "text": "独脚的厨师",
+        "color": "antagonist"
+      },
+      {
+        "title": "海上",
+        "text": " Hispaniola 号（通说）",
+        "color": "main"
+      },
+      {
+        "title": "宝藏",
+        "text": "道德的试炼",
+        "color": "gold"
+      }
+    ]
+  }
+}
