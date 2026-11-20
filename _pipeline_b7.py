@@ -156,6 +156,8 @@ for aid, d in authors.items():
     p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
     print("created author", aid)
 
+G = G2
+
 works = {
 "weianzhihuo": {
   "id":"weianzhihuo","title":"微暗的火","original_title":"Pale Fire","region":"美国","era":"现当代","era_detail":"20世纪",
