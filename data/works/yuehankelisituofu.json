@@ -1,0 +1,104 @@
+{
+  "id": "yuehankelisituofu",
+  "title": "约翰·克利斯朵夫",
+  "original_title": "Jean-Christophe",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "十卷大河小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "rolland",
+  "author_name": "罗曼·罗兰",
+  "year_display": "1904—1912年十卷（Britannica：Jean-Christophe, 10 vol. (1904–12)——'a prime example of the roman fleuve'）",
+  "year_sort": 1908,
+  "background": [
+    "Britannica（B276）：'Rolland's masterpiece, Jean-Christophe... is a prime example of the roman fleuve（novel cycle）in France'；10卷刊于 Les Cahiers de la Quinzaine（B276）。",
+    "题材（通说待核）：德国血统的音乐家约翰·克利斯朵夫·克拉夫特的一生——以贝多芬为原型（B276：Vie de Beethoven 语境）。"
+  ],
+  "outline": [
+    "音乐家的一生：德国—巴黎—瑞士—意大利（通说待核）。",
+    "'音乐'与'生活'的同构（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约翰·克利斯朵夫·克拉夫特",
+      "identity": "音乐家",
+      "note": "以贝多芬为原型（通说待核）"
+    },
+    {
+      "name": "奥里维",
+      "identity": "法国友人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'大河小说'（B276：roman fleuve）。",
+    "英雄与音乐（B276：贝多芬传记语境）。",
+    "法德文化的桥（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'masterpiece'；'prime example of the roman fleuve'（B276）。",
+      "source": "B276"
+    },
+    {
+      "text": "Britannica：1915年诺奖（B276 作者级）。",
+      "source": "B276"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "十卷体量。",
+      "音乐结构章节。"
+    ],
+    "editions": [
+      "《约翰·克利斯朵夫》（人民文学出版社傅雷译本四册，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "傅雷译本为中文世界经典。"
+  },
+  "pending": [
+    "十卷分卷与四册（傅雷）对应核对。",
+    "克拉夫特人名核对。",
+    "傅雷译本（1930—40年代）信息待核。"
+  ],
+  "sources": [
+    "B276"
+  ],
+  "year_source": "B276",
+  "author_source": "B276",
+  "related_works": [
+    "beican",
+    "jian",
+    "renshijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《约翰·克利斯朵夫》大河结构图",
+    "cards": [
+      {
+        "title": "诞生",
+        "text": "莱茵河畔",
+        "color": "family"
+      },
+      {
+        "title": "音乐",
+        "text": "一生的乐章",
+        "color": "main"
+      },
+      {
+        "title": "巴黎",
+        "text": "文化的战场",
+        "color": "antagonist"
+      },
+      {
+        "title": "大河",
+        "text": "roman fleuve（B276）",
+        "color": "gold"
+      }
+    ]
+  }
+}

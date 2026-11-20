@@ -1,0 +1,110 @@
+{
+  "id": "haiou",
+  "title": "海鸥",
+  "original_title": "Чайка（The Seagull）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "四幕喜剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "chikefu",
+  "author_name": "安东·契诃夫",
+  "year_display": "1896年首演（通说待核；作者页 B270 存目：'Notable Works'——The Seagull；1898年莫斯科艺术剧院成功说通说待核）",
+  "year_sort": 1896,
+  "background": [
+    "作者页（B270）：契诃夫 major works 存目含'The Seagull'（B270 作者页定位）。",
+    "契诃夫原则（B270）：'Chekhov's gun'与'what is left unsaid seems much more important than what is said'。",
+    "1898年莫斯科艺术剧院复排成功（Britannica 相关问答提及——通说待核）。"
+  ],
+  "outline": [
+    "尼娜与特里波列夫：新戏剧的失败与'海鸥'的射杀（通说待核）。",
+    "两年后：尼娜的重来与特里波列夫的自尽（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "尼娜",
+      "identity": "少女演员",
+      "note": "海鸥的化身（通说待核）"
+    },
+    {
+      "name": "特里波列夫",
+      "identity": "青年作家",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "阿尔卡基娜",
+      "identity": "名演员",
+      "note": "母亲（通说待核）"
+    }
+  ],
+  "themes": [
+    "新形式的失败与坚持（通说待核）。",
+    "海鸥的象征：射杀与重生（通说待核）。",
+    "'潜台词'的戏剧（B270 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：契诃夫 Notable Works 存目（B270）。",
+      "source": "B270"
+    },
+    {
+      "text": "作者页：'Chekhov's gun'与未说出之重（B270）。",
+      "source": "B270"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'潜台词'的表演法。",
+      "莫斯科艺术剧院史。"
+    ],
+    "editions": [
+      "《海鸥》（人民文学出版社《契诃夫戏剧集》，通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "契诃夫戏剧四部之首。"
+  },
+  "pending": [
+    "1896年彼得堡首演失败说核对。",
+    "1898年莫斯科艺术剧院复排说核对。",
+    "尼娜/特里波列夫人名核对。"
+  ],
+  "sources": [
+    "B270"
+  ],
+  "year_source": "B270",
+  "author_source": "B270",
+  "related_works": [
+    "yingtaoyuan",
+    "leiyu",
+    "beijingren"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《海鸥》射杀结构图",
+    "cards": [
+      {
+        "title": "射杀的海鸥",
+        "text": "创作的隐喻（通说）",
+        "color": "main"
+      },
+      {
+        "title": "尼娜",
+        "text": "两年的重来",
+        "color": "gold"
+      },
+      {
+        "title": "特里波列夫",
+        "text": "失败的作家",
+        "color": "antagonist"
+      },
+      {
+        "title": "新形式",
+        "text": "戏剧的寻找",
+        "color": "family"
+      }
+    ]
+  }
+}

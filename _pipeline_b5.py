@@ -164,6 +164,8 @@ for aid, d in authors.items():
 def G2(caption, cards):
     return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
 
+G = G2
+
 works = {
 "manchangdeheian": {
   "id":"manchangdeheian","title":"进入黑夜的漫长旅程","original_title":"Long Day's Journey into Night","region":"美国","era":"现当代","era_detail":"20世纪",

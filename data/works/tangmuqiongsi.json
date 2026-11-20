@@ -1,0 +1,110 @@
+{
+  "id": "tangmuqiongsi",
+  "title": "汤姆·琼斯",
+  "original_title": "The History of Tom Jones, a Foundling",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "18世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fielding",
+  "author_name": "亨利·菲尔丁",
+  "year_display": "1749年出版（Britannica：Tom Jones……is a famous comic novel by Henry Fielding published in 1749）",
+  "year_sort": 1749,
+  "background": [
+    "Britannica（B274）：'a famous comic novel'；'Fielding's detailed planning and structure made Tom Jones a literary masterpiece'（精心的规划与结构使其成为文学杰作——B274）。",
+    "前言自述（B274）：'a comic Epic-Poem in Prose'（散文体滑稽史诗）。",
+    "司各特（B274）：'father of the English novel'。"
+  ],
+  "outline": [
+    "弃儿汤姆的流浪与身世之谜：从乡绅家到伦敦的十八卷（通说待核）。",
+    "索菲娅的出走与团圆（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "汤姆·琼斯",
+      "identity": "弃儿",
+      "note": "热情的浪子"
+    },
+    {
+      "name": "索菲娅",
+      "identity": "乡绅之女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "布利非",
+      "identity": "伪君子表弟",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'散文体滑稽史诗'（B274：comic Epic-Poem in Prose——前言自述）。",
+    "结构与规划的典范（B274：detailed planning and structure）。",
+    "人性的全光谱（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'literary masterpiece'；'father of the English novel'（B274）。",
+      "source": "B274"
+    },
+    {
+      "text": "作者页：菲尔丁现实主义传统（B274）。",
+      "source": "B274"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "十八卷结构。",
+      "18世纪英语叙事口吻。"
+    ],
+    "editions": [
+      "《汤姆·琼斯》（人民文学出版社黄乔生译本？——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "英国18世纪小说首选（与《鲁滨逊》并列）。"
+  },
+  "pending": [
+    "1749年2月出版核对。",
+    "汤姆/索菲娅/布利非人名核对。",
+    "黄乔生译本信息待核。"
+  ],
+  "sources": [
+    "B274"
+  ],
+  "year_source": "B274",
+  "author_source": "B274",
+  "related_works": [
+    "lubinxun",
+    "aoman",
+    "lianaizhong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《汤姆·琼斯》史诗结构图",
+    "cards": [
+      {
+        "title": "弃儿",
+        "text": "身世之谜",
+        "color": "family"
+      },
+      {
+        "title": "伦敦",
+        "text": "十八卷的流浪",
+        "color": "main"
+      },
+      {
+        "title": "滑稽史诗",
+        "text": "自述的文类（B274）",
+        "color": "gold"
+      },
+      {
+        "title": "团圆",
+        "text": "身世的揭晓",
+        "color": "plain"
+      }
+    ]
+  }
+}

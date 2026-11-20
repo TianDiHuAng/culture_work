@@ -1,0 +1,104 @@
+{
+  "id": "jim",
+  "title": "吉姆",
+  "original_title": "Kim",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "kipling",
+  "author_name": "鲁德亚德·吉卜林",
+  "year_display": "1901年（Britannica：Kim (1901), about an Irish orphan in India, is a classic）",
+  "year_sort": 1901,
+  "background": [
+    "Britannica（B277）：'Kim (1901), about an Irish orphan in India, is a classic'（写爱尔兰孤儿在印度的经典）。",
+    "吉卜林1907年诺奖——'the first English writer to receive the Nobel Prize'（B277）。",
+    "题材（通说待核）：孤儿吉姆与西藏喇嘛的'大游戏'（Great Game）间谍之旅。"
+  ],
+  "outline": [
+    "吉姆与喇嘛的寻找之河：从拉合尔到喜马拉雅（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "吉姆",
+      "identity": "孤儿",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "喇嘛",
+      "identity": "西藏僧人",
+      "note": "寻找圣河（通说待核）"
+    }
+  ],
+  "themes": [
+    "'大游戏'：英俄在中亚的谍战（通说待核）。",
+    "印度全景（通说）。",
+    "寻找与身份（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'is a classic'（B277）。",
+      "source": "B277"
+    },
+    {
+      "text": "Britannica：1907诺奖——首位英国获奖者（B277）。",
+      "source": "B277"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'大游戏'史。",
+      "印度地名与宗教。"
+    ],
+    "editions": [
+      "《吉姆》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "吉卜林代表作。"
+  },
+  "pending": [
+    "1901年出版（Macmillan说）核对。",
+    "吉姆/喇嘛人名核对。",
+    "'大游戏'（Great Game）术语核对。"
+  ],
+  "sources": [
+    "B277"
+  ],
+  "year_source": "B277",
+  "author_source": "B277",
+  "related_works": [
+    "hakebei",
+    "shijiemori",
+    "yidudewunv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吉姆》大游戏结构图",
+    "cards": [
+      {
+        "title": "拉合尔",
+        "text": "出发的炮台",
+        "color": "family"
+      },
+      {
+        "title": "寻找圣河",
+        "text": "喇嘛的祈愿",
+        "color": "main"
+      },
+      {
+        "title": "大游戏",
+        "text": "中亚的谍战（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "经典",
+        "text": "B277 定位",
+        "color": "gold"
+      }
+    ]
+  }
+}

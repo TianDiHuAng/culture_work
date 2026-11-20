@@ -1,0 +1,108 @@
+{
+  "id": "manchangdeheian",
+  "title": "进入黑夜的漫长旅程",
+  "original_title": "Long Day's Journey into Night",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "自传性戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "ONeill",
+  "author_name": "尤金·奥尼尔",
+  "year_display": "身后1956年上演（Britannica：His masterpiece, Long Day's Journey into Night (produced posthumously 1956)）",
+  "year_sort": 1956,
+  "background": [
+    "Britannica（B272）：'His masterpiece, Long Day's Journey into Night (produced posthumously 1956)'——杰作；'drew heavily on family tragedy and Greek tragedy'。",
+    "四项普利策戏剧奖之一（B272：four Pulitzer prizes in drama——含本作）。"
+  ],
+  "outline": [
+    "蒂龙一家的一天：吗啡、酗酒与病——'过去'如何纠缠当下（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "詹姆斯·蒂龙",
+      "identity": "父亲",
+      "note": "吝啬演员（通说待核）"
+    },
+    {
+      "name": "玛丽",
+      "identity": "母亲",
+      "note": "吗啡成瘾（通说待核）"
+    },
+    {
+      "name": "埃德蒙",
+      "identity": "小儿子",
+      "note": "作者化身（通说待核）"
+    }
+  ],
+  "themes": [
+    "家庭的毒瘾与宽恕（通说待核）。",
+    "'希腊悲剧'的家庭版（B272 语境）。",
+    "自传性（通说待核——奥尼尔家庭）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'His masterpiece'（B272）。",
+      "source": "B272"
+    },
+    {
+      "text": "Britannica：四项普利策戏剧奖之一（B272）。",
+      "source": "B272"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自传对应（奥尼尔家族）。",
+      "长独白的节奏。"
+    ],
+    "editions": [
+      "《进入黑夜的漫长旅程》（人民文学出版社/湖南文艺出版社版本，通说待核）。",
+      "英文原版（Yale）。"
+    ],
+    "order": "奥尼尔收官之作。"
+  },
+  "pending": [
+    "身后1956年（Yale University Press出版/百老汇演出说）核对。",
+    "蒂龙一家对应（奥尼尔父兄）待核。",
+    "四项普利策年份逐项核对。"
+  ],
+  "sources": [
+    "B272"
+  ],
+  "year_source": "B272",
+  "author_source": "B272",
+  "related_works": [
+    "leiyu",
+    "richu",
+    "yingtaoyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《漫长旅程》家庭结构图",
+    "cards": [
+      {
+        "title": "父亲",
+        "text": "吝啬与悔恨",
+        "color": "antagonist"
+      },
+      {
+        "title": "母亲",
+        "text": "吗啡的回归",
+        "color": "main"
+      },
+      {
+        "title": "埃德蒙",
+        "text": "作者的化身",
+        "color": "gold"
+      },
+      {
+        "title": "雾",
+        "text": "过去的纠缠",
+        "color": "family"
+      }
+    ]
+  }
+}

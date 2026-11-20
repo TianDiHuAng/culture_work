@@ -1,0 +1,104 @@
+{
+  "id": "weibizaozhe",
+  "title": "伪币制造者",
+  "original_title": "Les Faux-Monnayeurs（The Counterfeiters）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "gide",
+  "author_name": "安德烈·纪德",
+  "year_display": "1926年（Britannica：Les Faux-Monnayeurs (1926; The Counterfeiters)——'his only novel'）",
+  "year_sort": 1926,
+  "background": [
+    "Britannica（B275）：'Gide called his next work, Les Faux-Monnayeurs (1926; The Counterfeiters), his only novel'；'the most complex and intricately constructed of his works'（其最复杂、结构最精巧之作——B275）；'told through discontinuous scenes'（不连续场景）。",
+    "作者：1947年诺奖（B275）。"
+  ],
+  "outline": [
+    "中学生 bernard？——不：贝尔纳与奥利维埃：'伪币'（假币与假情）的巴黎（通说待核）。",
+    "'小说中的小说'：爱德华的日记（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "爱德华",
+      "identity": "作家",
+      "note": "日记体嵌套（通说待核）"
+    },
+    {
+      "name": "贝尔纳",
+      "identity": "中学生",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'伪币'：假与真的哲学（通说待核）。",
+    "不连续场景（B275）。",
+    "'唯一小说'的自认（B275）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the most complex and intricately constructed of his works'（B275）。",
+      "source": "B275"
+    },
+    {
+      "text": "Britannica：1947年诺奖（B275 作者级）。",
+      "source": "B275"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "嵌套结构。",
+      "多人物。"
+    ],
+    "editions": [
+      "《伪币制造者》（人民文学出版社/上海译文版本，通说待核）。",
+      "法文原版（Gallimard）。"
+    ],
+    "order": "先《背德者》《窄门》后本作。"
+  },
+  "pending": [
+    "1926年出版（Gallimard/NRF说）核对。",
+    "爱德华/贝尔纳人名核对。",
+    "'唯一小说'的自称与评论界立场待核。"
+  ],
+  "sources": [
+    "B275"
+  ],
+  "year_source": "B275",
+  "author_source": "B275",
+  "related_works": [
+    "xianzhi",
+    "duoluo",
+    "qingzhong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《伪币制造者》嵌套结构图",
+    "cards": [
+      {
+        "title": "伪币",
+        "text": "假与真",
+        "color": "main"
+      },
+      {
+        "title": "爱德华日记",
+        "text": "小说中的小说（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "不连续场景",
+        "text": "B275 方法",
+        "color": "family"
+      },
+      {
+        "title": "少年们",
+        "text": "堕落的诱惑",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
