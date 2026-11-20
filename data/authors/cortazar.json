@@ -1,0 +1,68 @@
+{
+  "id": "cortazar",
+  "name": "胡利奥·科塔萨尔",
+  "foreign_name": "Julio Cortázar（胡利奥·科塔萨尔，1914-08-26—1984-02-12）",
+  "country": "阿根廷",
+  "birth": 1914,
+  "death": 1984,
+  "birth_year": 1914,
+  "death_year": 1984,
+  "era": "现当代",
+  "summary": "科塔萨尔，布鲁塞尔出生的阿根廷小说家与短篇家——'blended existential questioning with experimental techniques'（把存在之问与实验技术混合——Britannica），'best known for the open-ended novel Rayuela (Hopscotch)'（以开放式的《跳房子》最著名——Britannica）。1951年因对庇隆政府失望定居巴黎、1981年获法阿双重国籍（Britannica）。'It was the first of the boom of Latin American novels of the 1960s to gain international attention'（《跳房子》是1960年代拉美小说'繁荣'中第一部引起国际关注的作品——B286）。其作'often incorporates fantastic or mythical elements into realistic fiction'（B286 语境）。",
+  "timeline": [
+    {
+      "year": 1914,
+      "text": "8月26日生于布鲁塞尔（Britannica：Born August 26, 1914, Brussels, Belgium）。",
+      "src": "B286"
+    },
+    {
+      "year": 1951,
+      "text": "定居巴黎（Britannica：settled in Paris in 1951, disillusioned with Juan Perón's government）。",
+      "src": "B286"
+    },
+    {
+      "year": 1963,
+      "text": "《跳房子》出版（Britannica：Rayuela (1963; Hopscotch)）。",
+      "src": "B286"
+    },
+    {
+      "year": 1981,
+      "text": "获法国国籍（Britannica：French citizenship in 1981）。",
+      "src": "B286"
+    },
+    {
+      "year": 1984,
+      "text": "2月12日卒于巴黎（Britannica：Died February 12, 1984, Paris）。",
+      "src": "B286"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tiaofangzi",
+      "note": "长篇（B286：masterpiece，antinovel）"
+    },
+    {
+      "title": "动物寓言集、游戏的终结",
+      "note": "（Britannica：Bestiario (1951), Final del juego (1956), Las armas secretas (1958)）"
+    },
+    {
+      "title": "万火归一",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'antinovel'（反小说）：读者可按作者规划重排章节（B286：the reader is invited to rearrange the different parts）。",
+    "魔幻元素嵌入写实（B286：fantastic or mythical elements into realistic fiction）。",
+    "短篇的幻想—现实裂缝（通说）。"
+  ],
+  "status": "Britannica 定位科塔萨尔为阿根廷小说家与短篇家、《跳房子》作者——拉美'繁荣'的国际先声（B286）。",
+  "sources": [
+    "B286"
+  ],
+  "dates_source": "B286",
+  "pending": [
+    "《跳房子》155章与'两种读法'表（通说）核对。",
+    "拉丁美洲'boom'定义（B286 已载）展开核对。",
+    "与尼加拉瓜桑地诺运动的关联待核。"
+  ]
+}

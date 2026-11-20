@@ -1,0 +1,103 @@
+{
+  "id": "meiguomuge",
+  "title": "美国牧歌",
+  "original_title": "American Pastoral",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "21世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "roth",
+  "author_name": "菲利普·罗斯",
+  "year_display": "1997年（Britannica：American Pastoral (1997; film 2016), Roth was awarded a Pulitzer Prize）",
+  "year_sort": 1997,
+  "background": [
+    "Britannica（B288）：'For his next work, American Pastoral (1997; film 2016), Roth was awarded a Pulitzer Prize'；'about a middle-class couple whose daughter becomes a terrorist, is the first entry in the American Trilogy series'（美国三部曲之首——B288）。",
+    "作者（B288）：'sharp dialogue and exploration of Jewish middle-class life'。"
+  ],
+  "outline": [
+    "犹太棒球明星'瑞典佬'利沃夫的女儿成为反战炸弹客——美国梦的爆破（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "瑞典佬（斯威德·利沃夫）",
+      "identity": "手套业商人",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "梅瑞狄斯",
+      "identity": "女儿",
+      "note": "炸弹客（通说待核）"
+    }
+  ],
+  "themes": [
+    "美国梦的爆破（书名反讽——通说）。",
+    "60年代炸弹的年代（通说待核）。",
+    "犹太中产三代（B288 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：普利策奖；美国三部曲之首（B288）。",
+      "source": "B288"
+    },
+    {
+      "text": "Britannica：2016年电影改编（B288）。",
+      "source": "B288"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三代人的时间跨度。",
+      "罗斯的对话密度。"
+    ],
+    "editions": [
+      "《美国牧歌》（上海译文出版社，通说待核）。",
+      "英文原版（Houghton Mifflin）。"
+    ],
+    "order": "美国三部曲之首。"
+  },
+  "pending": [
+    "1997年出版（Houghton Mifflin说）核对。",
+    "瑞典佬/梅瑞狄斯人名核对。",
+    "三部曲后两部（《我嫁给了共产党人》《人性的污秽》）核对。"
+  ],
+  "sources": [
+    "B288"
+  ],
+  "year_source": "B288",
+  "author_source": "B288",
+  "related_works": [
+    "jueshi",
+    "fenwangyu",
+    "yinduzhixing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《美国牧歌》梦爆结构图",
+    "cards": [
+      {
+        "title": "棒球明星",
+        "text": "美国梦的偶像",
+        "color": "family"
+      },
+      {
+        "title": "女儿",
+        "text": "炸弹客（B288）",
+        "color": "antagonist"
+      },
+      {
+        "title": "牧歌",
+        "text": "田园的反讽",
+        "color": "main"
+      },
+      {
+        "title": "三部曲",
+        "text": "美国世纪之变",
+        "color": "gold"
+      }
+    ]
+  }
+}

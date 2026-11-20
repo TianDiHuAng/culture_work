@@ -1,0 +1,104 @@
+{
+  "id": "tiaofangzi",
+  "title": "跳房子",
+  "original_title": "Rayuela（Hopscotch）",
+  "region": "阿根廷",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说（反小说）",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "cortazar",
+  "author_name": "胡利奥·科塔萨尔",
+  "year_display": "1963年（Britannica：Rayuela (1963; Hopscotch)——'an open-ended novel, or antinovel'）",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B286）：'Cortázar's masterpiece, Rayuela (1963; Hopscotch), is an open-ended novel, or antinovel'；'the reader is invited to rearrange the different parts of the novel according to a plan prescribed by the author'（读者被邀请按作者规划重排章节）。",
+    "'It was the first of the boom of Latin American novels of the 1960s to gain international attention'（B286）。"
+  ],
+  "outline": [
+    "拉美与巴黎的双城：奥利维拉与'俱乐部'（通说待核）。",
+    "155章+'不必读的章'——按表重排的两种读法（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "奥利维拉",
+      "identity": "流浪者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "拉蜜拉",
+      "identity": "女子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "读者参与的开放文本（B286：rearrange the different parts）。",
+    "反小说（B286：antinovel）。",
+    "拉美'boom'的先声（B286：first of the boom）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'masterpiece'；拉美boom第一部国际关注之作（B286）。",
+      "source": "B286"
+    },
+    {
+      "text": "Britannica：魔幻元素嵌入写实（B286 语境）。",
+      "source": "B286"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "两种读法的选择。",
+      "哲学对话章。"
+    ],
+    "editions": [
+      "《跳房子》（人民文学出版社/上海译文出版社版本，通说待核）。",
+      "西班牙文原版（Southget）。"
+    ],
+    "order": "拉美boom进阶之作。"
+  },
+  "pending": [
+    "155章与跳读表核对。",
+    "奥利维拉/拉蜜拉人名核对。",
+    "与马尔克斯等的boom谱系待核。"
+  ],
+  "sources": [
+    "B286"
+  ],
+  "year_source": "B286",
+  "author_source": "B286",
+  "related_works": [
+    "bainian",
+    "huangyezhentan",
+    "di'ertiaojugui"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《跳房子》重排结构图",
+    "cards": [
+      {
+        "title": "顺读",
+        "text": "1—56章",
+        "color": "family"
+      },
+      {
+        "title": "跳读",
+        "text": "按表重排（B286）",
+        "color": "main"
+      },
+      {
+        "title": "奥利维拉",
+        "text": "流浪的智者",
+        "color": "gold"
+      },
+      {
+        "title": "反小说",
+        "text": "开放文本",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

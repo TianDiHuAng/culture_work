@@ -1,0 +1,103 @@
+{
+  "id": "niezi",
+  "title": "孽子",
+  "original_title": "孽子（长篇小说）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "台湾现代主义",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语（白话）",
+  "author_id": "baixianyung",
+  "author_name": "白先勇",
+  "year_display": "出版年份待核（作者页 B208 存目：孽子——1983年说通说待核）",
+  "year_sort": 1983,
+  "background": [
+    "作者页（B208）：白先勇 major_works 载'孽子'（B208 作者页定位，详见 taibeiren 条核对）。",
+    "题材（通说待核）：台北新公园夜间的'青春鸟'群落——李青的父与子。"
+  ],
+  "outline": [
+    "李青被学校开除、被父亲逐出家门——新公园'王国'的夜游者（通说待核）。",
+    "父子线：'父亲'与'孽子'的双重不赦（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "李青",
+      "identity": "少年",
+      "note": "被逐者（通说待核）"
+    },
+    {
+      "name": "阿凤",
+      "identity": "'传说'",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "父与子的和解之难（通说待核）。",
+    "边缘群体的'王国'（通说）。",
+    "'孽'：不赦与悲悯（书名通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：白先勇代表作（B208 作者页口径）。",
+      "source": "B208"
+    },
+    {
+      "text": "华语第一部以同性恋题材立目的长篇之一（通说待核）。",
+      "source": "B208"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'新公园'的空间与暗语。",
+      "父子伦理的重负。"
+    ],
+    "editions": [
+      "《孽子》（白先勇作品集，通说待核）。"
+    ],
+    "order": "先《台北人》后本作。"
+  },
+  "pending": [
+    "1983年出版（《现代文学》连载说）核对。",
+    "李青/阿凤人名核对。",
+    "电视剧与舞台剧改编待核。"
+  ],
+  "sources": [
+    "B208"
+  ],
+  "year_source": "B208",
+  "author_source": "B208",
+  "related_works": [
+    "taibeiren",
+    "qingchengzhilian",
+    "jiandie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《孽子》夜园结构图",
+    "cards": [
+      {
+        "title": "新公园",
+        "text": "夜间的王国（通说）",
+        "color": "family"
+      },
+      {
+        "title": "李青",
+        "text": "被逐的少年",
+        "color": "main"
+      },
+      {
+        "title": "父子",
+        "text": "不赦与和解",
+        "color": "gold"
+      },
+      {
+        "title": "青春鸟",
+        "text": "群像的飞散",
+        "color": "plain"
+      }
+    ]
+  }
+}

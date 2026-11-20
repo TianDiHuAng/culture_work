@@ -1,0 +1,68 @@
+{
+  "id": "yourcenar",
+  "name": "玛格丽特·尤瑟纳尔",
+  "foreign_name": "Marguerite Yourcenar（玛格丽特·尤瑟纳尔，原名玛格丽特·德·克拉扬古尔，1903-06-08—1987-12-17）",
+  "country": "法国",
+  "birth": 1903,
+  "death": 1987,
+  "birth_year": 1903,
+  "death_year": 1987,
+  "era": "现当代",
+  "summary": "尤瑟纳尔，布鲁塞尔出生（Britannica：originally Marguerite de Crayencour），法国小说家、散文家与短篇家——以古典、博学的历史小说著称（Britannica）。1980年'the first woman to be elected to the Académie Française'（首位入选法兰西学院的女性——该学院'with a membership limited to 40'——Britannica）。'Her masterpiece is Mémoires d'Hadrien (1951; Memoirs of Hadrian), a historical novel'（杰作《哈德良回忆录》——B285）。文体：'rigorously classical style, their erudition, and their psychological subtlety'（严谨的古典风格、博学与心理细腻——B285）。",
+  "timeline": [
+    {
+      "year": 1903,
+      "text": "6月8日生于布鲁塞尔（Britannica：Born June 8, 1903, Brussels, Belgium）。",
+      "src": "B285"
+    },
+    {
+      "year": 1951,
+      "text": "《哈德良回忆录》出版（Britannica：Mémoires d'Hadrien (1951)）。",
+      "src": "B285"
+    },
+    {
+      "year": 1968,
+      "text": "《苦炼》（L'Oeuvre au noir）出版（Britannica：1968; The Abyss）。",
+      "src": "B285"
+    },
+    {
+      "year": 1980,
+      "text": "成为法兰西学院首位女性院士（Britannica：first woman……1980）。",
+      "src": "B285"
+    },
+    {
+      "year": 1987,
+      "text": "12月17日卒于美国缅因州东北港（Britannica：died December 17, 1987, Northeast Harbor, Maine）。",
+      "src": "B285"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "hadilianghuiyilu",
+      "note": "历史小说（Britannica：masterpiece，1951）"
+    },
+    {
+      "title": "苦炼",
+      "note": "（Britannica：L'Oeuvre au noir (1968; The Abyss)）"
+    },
+    {
+      "title": "东方奇观",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'严谨的古典风格、博学与心理细腻'（B285：rigorously classical style……erudition……psychological subtlety）。",
+    "历史小说的博学重构（B285：classical, erudite historical fiction——综述语境）。",
+    "第一人称的'自我传记'式历史（通说待核——《哈德良回忆录》形式）。"
+  ],
+  "status": "Britannica 定位尤瑟纳尔为法国小说家、散文家与短篇家，1980年法兰西学院首位女性院士（B285）。",
+  "sources": [
+    "B285"
+  ],
+  "dates_source": "B285",
+  "pending": [
+    "1980年入选年份（Britannica 已载）与院士辞就任演说核对。",
+    "《哈德良回忆录》梅里奥版本细节待核。",
+    "中译本（三联书店版）待核。"
+  ]
+}

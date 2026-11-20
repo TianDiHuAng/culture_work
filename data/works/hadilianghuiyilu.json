@@ -1,0 +1,104 @@
+{
+  "id": "hadilianghuiyilu",
+  "title": "哈德良回忆录",
+  "original_title": "Mémoires d'Hadrien（Memoirs of Hadrian）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "历史小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "yourcenar",
+  "author_name": "玛格丽特·尤瑟纳尔",
+  "year_display": "1951年（Britannica：Her masterpiece is Mémoires d'Hadrien (1951; Memoirs of Hadrian), a historical novel）",
+  "year_sort": 1951,
+  "background": [
+    "Britannica（B285）：'Her masterpiece is Mémoires d'Hadrien (1951; Memoirs of Hadrian), a historical novel'（杰作）。",
+    "文体（B285 语境）：'rigorously classical style, their erudition, and their psychological subtlety'——以第一人称书信体重构罗马皇帝哈德良的内心。"
+  ],
+  "outline": [
+    "致马可·奥勒留的长信：从西班牙到罗马的一生（通说待核）。",
+    "'Animula vagula blandula'——临终对灵魂的发问（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "哈德良",
+      "identity": "罗马皇帝",
+      "note": "第一人称（通说待核）"
+    },
+    {
+      "name": "安提诺乌斯",
+      "identity": "爱人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "历史的心理重构（B285：psychological subtlety）。",
+    "权力与美、生与死（通说）。",
+    "'古典'的博学（B285：erudition）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Her masterpiece'（B285）。",
+      "source": "B285"
+    },
+    {
+      "text": "Britannica：1980年法兰西学院首位女性院士（B285）。",
+      "source": "B285"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "罗马史知识。",
+      "书信体的静穆语调。"
+    ],
+    "editions": [
+      "《哈德良回忆录》（上海三联书店/东方出版中心版本，通说待核）。",
+      "法文原版（Plon/Gallimard）。"
+    ],
+    "order": "历史小说进阶之作。"
+  },
+  "pending": [
+    "1951年出版（Plon说）核对。",
+    "安提诺乌斯/马可·奥勒留情节核对。",
+    "'Animula vagula blandula'引文核对。"
+  ],
+  "sources": [
+    "B285"
+  ],
+  "year_source": "B285",
+  "author_source": "B285",
+  "related_works": [
+    "aeneid",
+    "niwanghechuqu",
+    "shenqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《哈德良回忆录》帝国回望图",
+    "cards": [
+      {
+        "title": "书信",
+        "text": "致未来的皇帝",
+        "color": "main"
+      },
+      {
+        "title": "帝国",
+        "text": "罗马的疆域",
+        "color": "gold"
+      },
+      {
+        "title": "安提诺乌斯",
+        "text": "爱与哀",
+        "color": "family"
+      },
+      {
+        "title": "临终",
+        "text": "灵魂的问句（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}

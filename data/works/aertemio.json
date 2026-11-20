@@ -1,0 +1,99 @@
+{
+  "id": "aertemio",
+  "title": "阿尔特米奥·克罗斯之死",
+  "original_title": "La muerte de Artemio Cruz",
+  "region": "墨西哥",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "fuentes",
+  "author_name": "卡洛斯·富恩特斯",
+  "year_display": "1962年（Britannica：La muerte de Artemio Cruz (1962)）",
+  "year_sort": 1962,
+  "background": [
+    "Britannica（B287）：'La muerte de Artemio Cruz (1962; The Death of Artemio Cruz), which presents the agony of the last hours of a wealthy survivor of the Mexican Revolution'（写墨西哥革命幸存富人的最后时刻——B287）；'translated into several languages and established Fuentes as a major international novelist'（B287）。",
+    "作者（B287）：'undoubtedly one of the foremost Mexican writers of the 20th century'；1987塞万提斯奖。"
+  ],
+  "outline": [
+    "垂死的阿尔特米奥·克罗斯的三声部回忆（我/他/你——通说待核）。",
+    "革命理想背叛者的忏悔与恐惧（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "阿尔特米奥·克罗斯",
+      "identity": "幸存富商",
+      "note": "（B287）"
+    }
+  ],
+  "themes": [
+    "革命背叛者的临终（B287：agony of the last hours）。",
+    "三声部时序拼贴（通说待核）。",
+    "墨西哥身份的暴力起源（B287 语境：explored Mexican identity）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'established Fuentes as a major international novelist'（B287）。",
+      "source": "B287"
+    },
+    {
+      "text": "Britannica：'undoubtedly one of the foremost Mexican writers of the 20th century'（B287）。",
+      "source": "B287"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三声部人称切换。",
+      "墨西哥革命史。"
+    ],
+    "editions": [
+      "《阿尔特米奥·克罗斯之死》（人民文学出版社/上海译文版本，通说待核）。",
+      "西班牙文原版（FCE）。"
+    ],
+    "order": "先《最明净的地区》后本作。"
+  },
+  "pending": [
+    "1962年出版（Fondo de Cultura Económica说）核对。",
+    "三声部结构（我/他/你——通说）核对。",
+    "临终日（1959年4月）细节待核。"
+  ],
+  "sources": [
+    "B287"
+  ],
+  "year_source": "B287",
+  "author_source": "B287",
+  "related_works": [
+    "bainian",
+    "peideluobalamo",
+    "shijiemori"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阿尔特米奥》三声部图",
+    "cards": [
+      {
+        "title": "我",
+        "text": "记忆的独白",
+        "color": "main"
+      },
+      {
+        "title": "他",
+        "text": "社会的档案",
+        "color": "family"
+      },
+      {
+        "title": "你",
+        "text": "灵魂的对话",
+        "color": "gold"
+      },
+      {
+        "title": "临终",
+        "text": "最后12小时（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

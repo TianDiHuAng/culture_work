@@ -1,0 +1,107 @@
+{
+  "id": "quyuan",
+  "title": "屈原",
+  "original_title": "屈原（历史剧）",
+  "region": "中国",
+  "era": "现当代",
+  "era_detail": "现代",
+  "genre": "历史剧",
+  "genre_group": "戏剧",
+  "language": "汉语（白话·诗剧）",
+  "author_id": "guomoruo",
+  "author_name": "郭沫若",
+  "year_display": "1942年（作者页 B207 口径：major_works 载'屈原（历史剧）'——1942年说通说待核）",
+  "year_sort": 1942,
+  "background": [
+    "作者页（B207）：郭沫若 major_works 载'屈原（历史剧）'（B207 作者页定位，详见 nvshen 条核对）。",
+    "题材（通说待核）：以《史记》屈原事迹为骨——'雷电颂'的爆发的五幕历史剧。"
+  ],
+  "outline": [
+    "屈原被谗放逐：南后的构陷、婵娟的忠、'雷电颂'的独白（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "屈原",
+      "identity": "诗人·三闾大夫",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "婵娟",
+      "identity": "侍女",
+      "note": "虚构人物（通说待核）"
+    },
+    {
+      "name": "南后郑袖",
+      "identity": "后妃",
+      "note": "构陷者（通说待核）"
+    }
+  ],
+  "themes": [
+    "借古讽今：皖南事变语境（通说待核）。",
+    "'雷电颂'的诗剧高潮（通说待核）。",
+    "历史剧'古为今用'（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：郭沫若历史剧代表作（B207 作者页口径）。",
+      "source": "B207"
+    },
+    {
+      "text": "作者页：郭沫若'在每个文类上都极其多产'（B207 作者级定位）。",
+      "source": "B207"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "战时重庆语境。",
+      "历史与虚构的比例。"
+    ],
+    "editions": [
+      "《屈原》（人民文学出版社《沫若剧作选》，通说待核）。"
+    ],
+    "order": "对照《虎符》《棠棣之花》（通说——郭沫若历史剧系列）。"
+  },
+  "pending": [
+    "1942年重庆首演（中华剧艺社说）核对。",
+    "婵娟虚构人物确认。",
+    "'雷电颂'原文核对。"
+  ],
+  "sources": [
+    "B207"
+  ],
+  "year_source": "B207",
+  "author_source": "B207",
+  "related_works": [
+    "chuci",
+    "richu",
+    "nvshen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《屈原》历史剧结构图",
+    "cards": [
+      {
+        "title": "构陷",
+        "text": "南后的毒计",
+        "color": "antagonist"
+      },
+      {
+        "title": "雷电颂",
+        "text": "诗剧的高潮",
+        "color": "main"
+      },
+      {
+        "title": "婵娟",
+        "text": "忠的替死",
+        "color": "gold"
+      },
+      {
+        "title": "借古讽今",
+        "text": "1942年的重庆",
+        "color": "family"
+      }
+    ]
+  }
+}

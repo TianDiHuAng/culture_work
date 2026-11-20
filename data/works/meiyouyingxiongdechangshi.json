@@ -1,0 +1,99 @@
+{
+  "id": "meiyouyingxiongdechangshi",
+  "title": "没有英雄的长诗",
+  "original_title": "Поэма без героя（Poem Without a Hero）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "akhmatova",
+  "author_name": "安娜·阿赫玛托娃",
+  "year_display": "写作于1940年起，定稿年代待核（作者页 B144 口径：没有英雄的长诗（通说待核））",
+  "year_sort": 1960,
+  "background": [
+    "作者页（B144）：阿赫玛托娃 major_works 载'没有英雄的长诗（通说待核）'（B144 作者页定位，详见 anhunqu 条核对）。",
+    "文体（通说待核）：回忆1913年彼得堡的艺术世界——三部分的长诗，跨越白银时代的挽歌。"
+  ],
+  "outline": [
+    "1913年的假面舞会——白银时代的回光（通说待核）。",
+    "'没有英雄'：历史的缺席者（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情女声",
+      "identity": "诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "白银时代的挽歌（通说待核）。",
+    "'没有英雄'的悖论（通说待核）。",
+    "战争的见证（作者页 B144 语境——安魂曲同期）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：阿赫玛托娃作品谱系（B144 作者页口径）。",
+      "source": "B144"
+    },
+    {
+      "text": "作者页：阿赫玛托娃为白银时代代表（B144 作者级定位）。",
+      "source": "B144"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "彼得堡文艺史。",
+      "注释（作者自注说）。"
+    ],
+    "editions": [
+      "《没有英雄的长诗》（收于《阿赫玛托娃诗文集》，通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "先《安魂曲》后本作。"
+  },
+  "pending": [
+    "写作—定稿年表（1940—1962说）核对。",
+    "三部分标题（献词/第一部分/尾诗）待核。",
+    "列宁格勒1913年的假面舞会原型待核。"
+  ],
+  "sources": [
+    "B144"
+  ],
+  "year_source": "B144",
+  "author_source": "B144",
+  "related_works": [
+    "anhunqu",
+    "nianzhu",
+    "lianqingdezhongjie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《没有英雄的长诗》回望图",
+    "cards": [
+      {
+        "title": "1913",
+        "text": "假面舞会的回光",
+        "color": "family"
+      },
+      {
+        "title": "没有英雄",
+        "text": "缺席的承担",
+        "color": "main"
+      },
+      {
+        "title": "挽歌",
+        "text": "白银时代的终曲",
+        "color": "gold"
+      },
+      {
+        "title": "见证",
+        "text": "战争的另一面",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

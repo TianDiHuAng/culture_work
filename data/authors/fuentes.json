@@ -1,0 +1,68 @@
+{
+  "id": "fuentes",
+  "name": "卡洛斯·富恩特斯",
+  "foreign_name": "Carlos Fuentes（卡洛斯·富恩特斯，1928-11-11—2012-05-15）",
+  "country": "墨西哥",
+  "birth": 1928,
+  "death": 2012,
+  "birth_year": 1928,
+  "death_year": 2012,
+  "era": "现当代",
+  "summary": "富恩特斯，巴拿马城出生的墨西哥小说家、剧作家、批评家与外交官（Britannica；驻法大使1975—77）——其'experimental, postmodern novels—including Where the Air Is Clear and The Death of Artemio Cruz'探索墨西哥身份并赢得国际声誉（Britannica），1987年获塞万提斯奖（Britannica：the most prestigious Spanish-language literary award）。'La muerte de Artemio Cruz (1962)……established Fuentes as a major international novelist'（B287）；'undoubtedly one of the foremost Mexican writers of the 20th century'（20世纪墨西哥最重要的作家之一——B287）。",
+  "timeline": [
+    {
+      "year": 1928,
+      "text": "11月11日生于巴拿马城（Britannica：Born November 11, 1928, Panama City, Panama）。",
+      "src": "B287"
+    },
+    {
+      "year": 1962,
+      "text": "《阿尔特米奥·克罗斯之死》出版（Britannica：La muerte de Artemio Cruz (1962)）。",
+      "src": "B287"
+    },
+    {
+      "year": 1975,
+      "text": "任驻法大使（Britannica：ambassador to France 1975–77）。",
+      "src": "B287"
+    },
+    {
+      "year": 1987,
+      "text": "获塞万提斯奖（Britannica：Cervantes Prize 1987）。",
+      "src": "B287"
+    },
+    {
+      "year": 2012,
+      "text": "5月15日卒于墨西哥城（Britannica：Died May 15, 2012, Mexico City）。",
+      "src": "B287"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "aertemio",
+      "note": "长篇（B287：1962）"
+    },
+    {
+      "title": "最明净的地区",
+      "note": "（Britannica：Where the Air Is Clear）"
+    },
+    {
+      "title": "换皮",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'experimental, postmodern novels'（B287）。",
+    "墨西哥身份的探察（B287：explored Mexican identity）。",
+    "时序拼贴（临终时刻的三声部——通说待核）。"
+  ],
+  "status": "Britannica 定位富恩特斯为'20世纪墨西哥最重要的作家之一'、1987年塞万提斯奖得主（B287）。",
+  "sources": [
+    "B287"
+  ],
+  "dates_source": "B287",
+  "pending": [
+    "《阿尔特米奥·克罗斯之死》三声部（我/他/神）结构待核。",
+    "1962年出版（Fondo de Cultura说）核对。",
+    "与《最明净的地区》的关系待核。"
+  ]
+}
