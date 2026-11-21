@@ -1,0 +1,100 @@
+{
+  "id": "susongbifu",
+  "title": "诉讼笔录",
+  "original_title": "Le Procès-verbal",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "leclezio",
+  "author_name": "让-马里·古斯塔夫·勒克莱齐奥",
+  "year_display": "1963年（Britannica B381：Le Procès-verbal (1963; The Interrogation)——勒诺多奖）",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B381）：Le Procès-verbal——勒诺多奖（Prix Renaudot）。",
+    "Britannica（B381）：勒克莱齐奥——'emerged independently from contemporaries of the nouveau roman'（独立于新小说派）。",
+    "题材（通说待核）：'亚当·波洛'的无聊漫游——'笔录'的孤独档案。"
+  ],
+  "outline": [
+    "（通说待核）亚当·波洛的海边流浪与'笔录'的传唤。",
+    "（通说待核）'新小说'式的空间与静止。"
+  ],
+  "characters": [
+    {
+      "name": "亚当·波洛",
+      "identity": "流浪者",
+      "note": "（通说待核，B381未载）"
+    }
+  ],
+  "themes": [
+    "'笔录'：孤独的档案（书名语境——通说待核）。",
+    "'独立于新小说派'（B381）。",
+    "流浪与消费社会（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：勒诺多奖（B381）。",
+      "source": "B381"
+    },
+    {
+      "text": "Britannica：2008诺奖（B381 交叉）。",
+      "source": "B381"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'新小说'语境的对照。",
+      "'笔录'的文体。"
+    ],
+    "editions": [
+      "《诉讼笔录》中译本（人民文学等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "勒克莱齐奥处女作；后接《沙漠》。"
+  },
+  "pending": [
+    "亚当·波洛人名核对（通说）。",
+    "1963年出版细节待核。",
+    "'独立于新小说'（B381）评价核对。"
+  ],
+  "sources": [
+    "B381"
+  ],
+  "year_source": "B381",
+  "author_source": "B381",
+  "related_works": [
+    "sha",
+    "weite",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《诉讼笔录》档案结构图",
+    "cards": [
+      {
+        "title": "笔录",
+        "text": "孤独的档案（书名）",
+        "color": "main"
+      },
+      {
+        "title": "亚当",
+        "text": "漫游的传唤（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "新小说",
+        "text": "'独立'的对照（B381）",
+        "color": "antagonist"
+      },
+      {
+        "title": "海滩",
+        "text": "流浪的尽头（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

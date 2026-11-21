@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" width="100%" role="img" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',sans-serif">
+<rect x="0" y="0" width="680" height="340" fill="#fdf9f1" rx="10"/>
+<rect x="14" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="40" width="200" height="6" rx="3" fill="#9a7b2f"/>
+<text x="114.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">丛林</text>
+<text x="24" y="104.0" font-size="12" fill="#555">时间的起源（B373）</text>
+<rect x="228" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="228" y="40" width="200" height="6" rx="3" fill="#8c3b3b"/>
+<text x="328.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">旅程</text>
+<text x="238" y="104.0" font-size="12" fill="#555">'第一人称的寻索'（B373）</text>
+<rect x="442" y="40" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="442" y="40" width="200" height="6" rx="3" fill="#a8642a"/>
+<text x="542.0" y="66.0" font-size="15" fill="#3a3a3a" text-anchor="middle">城市</text>
+<text x="452" y="104.0" font-size="12" fill="#555">逃离的起点（通说）</text>
+<rect x="14" y="174" width="200" height="120" rx="8" fill="#fff" stroke="#d8cdbb"/>
+<rect x="14" y="174" width="200" height="6" rx="3" fill="#3b6b8c"/>
+<text x="114.0" y="200.0" font-size="15" fill="#3a3a3a" text-anchor="middle">阶梯</text>
+<text x="24" y="238.0" font-size="12" fill="#555">'消隐'的路（书名）</text>
+<text x="340.0" y="330" font-size="12" fill="#8a8378" text-anchor="middle">《消隐的阶梯》丛林时间图</text>
+</svg>

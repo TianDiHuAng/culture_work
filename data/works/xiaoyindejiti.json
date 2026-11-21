@@ -1,0 +1,100 @@
+{
+  "id": "xiaoyindejiti",
+  "title": "消隐的阶梯",
+  "original_title": "Los pasos perdidos",
+  "region": "古巴",
+  "era": "近代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "carpentier",
+  "author_name": "阿莱霍·卡彭铁尔",
+  "year_display": "1953年（Britannica B373：The Lost Steps (1953)——'his best-known work'）",
+  "year_sort": 1953,
+  "background": [
+    "Britannica（B373）：'his best-known work'——'a first-person account of a journey to the Orinoco jungle seeking the meaning of life and the origins of time'（第一人称的奥里诺科丛林之旅——寻找生命意义与时间起源）。",
+    "Britannica（B373）：卡彭铁尔——'marvelous American reality'（魔幻现实主义——交叉）。",
+    "题材（通说待核）：音乐家与情人的丛林之旅——'时间的起源'。"
+  ],
+  "outline": [
+    "（通说待核）从纽约到奥里诺科：'乐器'与'城市'的逃离。",
+    "（通说待核）'时间倒流'的丛林与'阶梯'的消隐。"
+  ],
+  "characters": [
+    {
+      "name": "'我'（作曲家）",
+      "identity": "旅行者",
+      "note": "（通说待核，B373未载）"
+    }
+  ],
+  "themes": [
+    "'寻找生命意义与时间起源'（B373）。",
+    "城市与丛林的二元（通说待核）。",
+    "'神奇的现实'（B373：marvelous American reality——交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his best-known work'（B373）。",
+      "source": "B373"
+    },
+    {
+      "text": "Britannica：魔幻现实主义序言（B373 交叉——这个世界的王国）。",
+      "source": "B373"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'时间倒流'的叙事。",
+      "委内瑞拉-哥伦比亚丛林史（通说待核）。"
+    ],
+    "editions": [
+      "《消隐的阶梯》中译名（《消失的足迹》）待核。",
+      "西班牙文原版。"
+    ],
+    "order": "卡彭铁尔成名作；与《这个世界的王国》对读。"
+  },
+  "pending": [
+    "'我'（作曲家）人名核对（通说）。",
+    "1953年出版细节待核。",
+    "'时间倒流'细节待核。"
+  ],
+  "sources": [
+    "B373"
+  ],
+  "year_source": "B373",
+  "author_source": "B373",
+  "related_works": [
+    "zhegeshijiedewanguo",
+    "bainian",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《消隐的阶梯》丛林时间图",
+    "cards": [
+      {
+        "title": "丛林",
+        "text": "时间的起源（B373）",
+        "color": "gold"
+      },
+      {
+        "title": "旅程",
+        "text": "'第一人称的寻索'（B373）",
+        "color": "main"
+      },
+      {
+        "title": "城市",
+        "text": "逃离的起点（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "阶梯",
+        "text": "'消隐'的路（书名）",
+        "color": "family"
+      }
+    ]
+  }
+}

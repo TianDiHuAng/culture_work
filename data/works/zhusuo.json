@@ -1,0 +1,100 @@
+{
+  "id": "zhusuo",
+  "title": "住所",
+  "original_title": "Residencia en la tierra",
+  "region": "智利",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "neruda",
+  "author_name": "巴勃罗·聂鲁达",
+  "year_display": "作者页注记：Britannica——住所（Residence on Earth）——超现实主义苦闷诗（年份通说待核——1933-35三卷说）",
+  "year_sort": 1933,
+  "background": [
+    "作者页注记：住所——'超现实主义苦闷诗（Britannica）'。",
+    "Britannica：聂鲁达——1971诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：'住所'三卷：绝望的独白与物的'航程'。"
+  ],
+  "outline": [
+    "（通说待核）三卷：绝望/焦灼/愤怒（卷名通说待核）。",
+    "（通说待核）'物的颂歌'的前夜（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "苦闷的歌者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'超现实主义苦闷'（B注记）。",
+    "物的航程与衰亡（通说待核）。",
+    "从情诗到政治的中转（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Residence on Earth——超现实主义苦闷诗（作者页注记）。",
+      "source": "B156"
+    },
+    {
+      "text": "Britannica：1971诺奖（作者页交叉——待核）。",
+      "source": "B156"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'超现实'的语流。",
+      "三卷的分期。"
+    ],
+    "editions": [
+      "《住所》中译名（《居住在地上》）待核。",
+      "西班牙文原版。"
+    ],
+    "order": "聂鲁达中期；先于《一般之歌》。"
+  },
+  "pending": [
+    "三卷卷名与年份（1933/1935/1939说）核对（通说）。",
+    "'超现实主义苦闷诗'评价出处核对。",
+    "《马丘比丘》归属《一般之歌》待核。"
+  ],
+  "sources": [
+    "B156"
+  ],
+  "year_source": "B156",
+  "author_source": "B156",
+  "related_works": [
+    "ershisou",
+    "yibanzhige",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《住所》苦闷结构图",
+    "cards": [
+      {
+        "title": "住所",
+        "text": "地上苦闷的居所（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "三卷",
+        "text": "绝望/焦灼/愤怒（通说）",
+        "color": "main"
+      },
+      {
+        "title": "超现实",
+        "text": "语流的夜（B注记）",
+        "color": "antagonist"
+      },
+      {
+        "title": "物",
+        "text": "颂歌的前夜（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

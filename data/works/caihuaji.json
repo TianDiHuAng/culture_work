@@ -1,0 +1,100 @@
+{
+  "id": "caihuaji",
+  "title": "彩画集",
+  "original_title": "Illuminations",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "散文诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "rimbaud",
+  "author_name": "阿蒂尔·兰波",
+  "year_display": "1872-74年写（Britannica B310：Illuminations——40 prose poems + 2 free-verse poems，1872—74年写）",
+  "year_sort": 1873,
+  "background": [
+    "Britannica（B310）：Illuminations——'40 prose poems + 2 free-verse poems，1872—74年写'。",
+    "Britannica（B310）：兰波——《地狱一季》(B310)作者——交叉。",
+    "题材（通说待核）：《都市》《海港》等散文诗的'彩画'——城市的幻象集。"
+  ],
+  "outline": [
+    "（通说待核）散文诗的'彩画'：都市、海港与'狂欢'。",
+    "（通说待核）'Vowels'（元音）色彩论的延伸（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "幻象者'我'",
+      "identity": "通灵者",
+      "note": "（B310 语系）"
+    }
+  ],
+  "themes": [
+    "散文诗的'彩画'（B310：Illuminations）。",
+    "都市幻象（通说待核）。",
+    "'元音'的色彩（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'40 prose poems + 2 free-verse poems'（B310）。",
+      "source": "B310"
+    },
+    {
+      "text": "Britannica：兰波《地狱一季》并列（B310 交叉）。",
+      "source": "B310"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "散文诗的断片。",
+      "'彩画'的词源（Illuminations）。"
+    ],
+    "editions": [
+      "《彩画集》中译名（《灵光集》）待核。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "兰波收官；与《地狱一季》对读。"
+  },
+  "pending": [
+    "篇目（《都市》《海港》说）核对（通说）。",
+    "1886年出版（La Vogue刊说）待核。",
+    "魏尔伦的整理角色待核。"
+  ],
+  "sources": [
+    "B310"
+  ],
+  "year_source": "B310",
+  "author_source": "B310",
+  "related_works": [
+    "diyuzhiji",
+    "zuizhou",
+    "balideyouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《彩画集》幻象结构图",
+    "cards": [
+      {
+        "title": "彩画",
+        "text": "散文诗的幻象（B310）",
+        "color": "gold"
+      },
+      {
+        "title": "都市",
+        "text": "幻象的城市（通说）",
+        "color": "main"
+      },
+      {
+        "title": "元音",
+        "text": "色彩的理论（通说）",
+        "color": "family"
+      },
+      {
+        "title": "狂欢",
+        "text": "夜与海（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "kanguanren",
+  "title": "看管人",
+  "original_title": "The Caretaker",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "pinter",
+  "author_name": "哈罗德·品特",
+  "year_display": "1960年（Britannica B385：The Caretaker (1960)——'secured his reputation'）",
+  "year_sort": 1960,
+  "background": [
+    "Britannica（B385）：'secured his reputation'（确立声誉）——'a wheedling, garrulous old tramp comes to live with two neurotic brothers, upsetting their balance until they evict him'（一个花言巧语、喋喋不休的老流浪汉与两个神经质的兄弟同住，扰乱平衡直至被逐）。",
+    "Britannica（B385）：'Pinteresque'——'resonant silences'。",
+    "题材（通说待核）：戴维斯的'纸'与'鞋'——房间的权力。"
+  ],
+  "outline": [
+    "（通说待核）流浪汉戴维斯与阿斯顿/米克兄弟。",
+    "（通说待核）'看管人'头衔的许诺与驱逐。"
+  ],
+  "characters": [
+    {
+      "name": "戴维斯",
+      "identity": "老流浪汉",
+      "note": "（B385：wheedling, garrulous old tramp）"
+    },
+    {
+      "name": "阿斯顿/米克",
+      "identity": "两兄弟",
+      "note": "（B385：two neurotic brothers）"
+    }
+  ],
+  "themes": [
+    "'看管人'的权力游戏（书名语境——通说待核）。",
+    "'共鸣的沉默'（B385）。",
+    "房间的归属（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'secured his reputation'（B385）。",
+      "source": "B385"
+    },
+    {
+      "text": "Britannica：2005诺奖（B385 交叉）。",
+      "source": "B385"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三房间的空间政治。",
+      "'Pinteresque'停顿。"
+    ],
+    "editions": [
+      "《看管人》中译名（《房屋管理员》）待核。",
+      "英文原版。"
+    ],
+    "order": "品特成名作；与《生日晚会》对读。"
+  },
+  "pending": [
+    "戴维斯/阿斯顿/米克人名核对（B385载tramp/brothers）。",
+    "1960年首演细节待核。",
+    "1963年电影改编说待核。"
+  ],
+  "sources": [
+    "B385"
+  ],
+  "year_source": "B385",
+  "author_source": "B385",
+  "related_works": [
+    "shengriwanhui",
+    "toutougeonv",
+    "dengdaigou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《看管人》房间权力图",
+    "cards": [
+      {
+        "title": "房间",
+        "text": "权力的空间（通说）",
+        "color": "family"
+      },
+      {
+        "title": "戴维斯",
+        "text": "喋喋不休的流浪汉（B385）",
+        "color": "main"
+      },
+      {
+        "title": "驱逐",
+        "text": "平衡的恢复（B385）",
+        "color": "antagonist"
+      },
+      {
+        "title": "沉默",
+        "text": "'共鸣'的停顿（B385）",
+        "color": "gold"
+      }
+    ]
+  }
+}

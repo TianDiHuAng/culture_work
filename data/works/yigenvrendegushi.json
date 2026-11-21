@@ -1,0 +1,105 @@
+{
+  "id": "yigenvrendegushi",
+  "title": "一个女人的故事",
+  "original_title": "Une Femme",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪80年代",
+  "genre": "自传性叙事",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "ernaux",
+  "author_name": "安妮·埃尔诺",
+  "year_display": "1987年（Britannica B380：Une Femme (1987; A Woman's Story)）",
+  "year_sort": 1987,
+  "background": [
+    "Britannica（B380）：Une Femme——'her mother's decline from Alzheimer's'（母亲的阿尔茨海默症衰变）。",
+    "Britannica（B380）：埃尔诺——'lightly fictionalized memoirs...spare, detached prose'。",
+    "题材（通说待核）：母亲从卡昂工厂女工到老年病院——'一个女人'的生与失。"
+  ],
+  "outline": [
+    "（通说待核）母亲的'生'：女工、店主、'女权'的自发。",
+    "（通说待核）阿尔茨海默的'消失'与书写的追回。"
+  ],
+  "characters": [
+    {
+      "name": "母亲",
+      "identity": "女工/店主",
+      "note": "（B380：her mother's decline from Alzheimer's）"
+    },
+    {
+      "name": "女儿（'我'）",
+      "identity": "叙述者",
+      "note": "（B380 语境）"
+    }
+  ],
+  "themes": [
+    "母亲的'衰变'（B380：decline from Alzheimer's）。",
+    "母女之间的'位置'互换（通说待核）。",
+    "'一个女人'的普遍化（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Une Femme (1987)（B380）。",
+      "source": "B380"
+    },
+    {
+      "text": "Britannica：'themes include...her mother's Alzheimer's decline'（B380）。",
+      "source": "B380"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "阿尔茨海默的叙事伦理。",
+      "'平句'的延续。"
+    ],
+    "editions": [
+      "《一个女人的故事》中译本（人民文学/上海人民出版社等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "与《一个男人的位置》成对读。"
+  },
+  "pending": [
+    "母亲名（布兰希说）核对（通说）。",
+    "1987年出版细节待核。",
+    "'卡昂'养老院细节待核。"
+  ],
+  "sources": [
+    "B380"
+  ],
+  "year_source": "B380",
+  "author_source": "B380",
+  "related_works": [
+    "yigenanzhidewei",
+    "suiyue",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一个女人的故事》衰变结构图",
+    "cards": [
+      {
+        "title": "母亲",
+        "text": "阿尔茨海默的衰变（B380）",
+        "color": "main"
+      },
+      {
+        "title": "女儿",
+        "text": "书写的追回（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "女工",
+        "text": "出身的世界（通说）",
+        "color": "family"
+      },
+      {
+        "title": "消失",
+        "text": "'一个女人'的终局（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

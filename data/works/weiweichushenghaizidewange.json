@@ -1,0 +1,100 @@
+{
+  "id": "weiweichushenghaizidewange",
+  "title": "给未出生孩子的挽歌",
+  "original_title": "Kaddis a meg nem született gyermekért",
+  "region": "匈牙利",
+  "era": "近代",
+  "era_detail": "20世纪80年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "匈牙利语",
+  "author_id": "kertesz",
+  "author_name": "凯尔泰斯·伊姆雷",
+  "year_display": "1990年（Britannica B379：Kaddish for a Child Not Born (1990)）",
+  "year_sort": 1990,
+  "background": [
+    "Britannica（B379）：Kaddish for a Child Not Born (1990)——作品列表。",
+    "Britannica（B379）：凯尔泰斯——2002诺奖；《无命运的一生》为其代表作（交叉）。",
+    "题材（通说待核）：幸存者的独白——'不生孩子'的决断与集中营的余波。"
+  ],
+  "outline": [
+    "（通说待核）'卡迪什'（犹太哀祷）：向未出生的孩子解释。",
+    "（通说待核）'奥斯维辛的普遍性'论（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "B.",
+      "identity": "幸存者/叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'给未出生孩子'的哀祷（书名语境——通说待核）。",
+    "幸存者的'普遍'宣称（通说待核）。",
+    "拒绝生育的伦理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Kaddish for a Child Not Born (1990)（B379）。",
+      "source": "B379"
+    },
+    {
+      "text": "Britannica：2002诺奖（B379 交叉）。",
+      "source": "B379"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'卡迪什'的仪式语。",
+      "'普遍化'的论战（通说待核）。"
+    ],
+    "editions": [
+      "《给未出生孩子的挽歌》中译名（《无命运者的挽歌》）待核。",
+      "匈牙利文原版。"
+    ],
+    "order": "凯尔泰斯第二作；承接《无命运的一生》。"
+  },
+  "pending": [
+    "叙述者B.名核对（通说）。",
+    "1990年出版细节待核。",
+    "'卡迪什'仪式细节待核。"
+  ],
+  "sources": [
+    "B379"
+  ],
+  "year_source": "B379",
+  "author_source": "B379",
+  "related_works": [
+    "wumingyundesheng",
+    "moluoyi",
+    "tuyuzhizideneizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《给未出生孩子的挽歌》哀祷结构图",
+    "cards": [
+      {
+        "title": "卡迪什",
+        "text": "哀祷的仪式（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "幸存者",
+        "text": "独白的B.（通说）",
+        "color": "main"
+      },
+      {
+        "title": "拒绝",
+        "text": "不生育的决断（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "奥斯维辛",
+        "text": "余波的普遍（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

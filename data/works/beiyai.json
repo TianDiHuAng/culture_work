@@ -1,0 +1,100 @@
+{
+  "id": "beiyai",
+  "title": "背叛",
+  "original_title": "Betrayal",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代末",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "pinter",
+  "author_name": "哈罗德·品特",
+  "year_display": "1978年（Britannica B385：Betrayal (1978)——1983年自改电影）",
+  "year_sort": 1978,
+  "background": [
+    "Britannica（B385）：Betrayal——'One of his later successes'——'adapted by Pinter as a 1983 film screenplay'。",
+    "Britannica（B385）：品特——'Pinteresque'——2005诺奖。",
+    "题材（通说待核）：倒叙结构——杰里与艾玛的婚外情七年九场。"
+  ],
+  "outline": [
+    "（通说待核）倒叙：从1977的告别回至1968的开始。",
+    "（通说待核）'背叛'的多重：友、妻、自我。"
+  ],
+  "characters": [
+    {
+      "name": "杰里/艾玛/罗伯特",
+      "identity": "三角",
+      "note": "（通说待核，B385未载）"
+    }
+  ],
+  "themes": [
+    "倒叙的时间结构（通说待核）。",
+    "'背叛'的复数（书名语境——通说待核）。",
+    "沉默与酒馆（B385 语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'One of his later successes'（B385）。",
+      "source": "B385"
+    },
+    {
+      "text": "Britannica：2005诺奖（B385 交叉）。",
+      "source": "B385"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "倒叙的时间。",
+      "'小对话'的信息量。"
+    ],
+    "editions": [
+      "《背叛》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "品特后期；与《生日晚会》对照。"
+  },
+  "pending": [
+    "杰里/艾玛/罗伯特人名核对（通说）。",
+    "1978年首演细节待核。",
+    "1983年电影细节待核（B385已载）。"
+  ],
+  "sources": [
+    "B385"
+  ],
+  "year_source": "B385",
+  "author_source": "B385",
+  "related_works": [
+    "shengriwanhui",
+    "kanguanren",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《背叛》倒叙结构图",
+    "cards": [
+      {
+        "title": "倒叙",
+        "text": "从终局回开始（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "背叛",
+        "text": "三重的名（书名）",
+        "color": "main"
+      },
+      {
+        "title": "酒馆",
+        "text": "对话的场地（通说）",
+        "color": "family"
+      },
+      {
+        "title": "沉默",
+        "text": "Pinteresque（B385）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

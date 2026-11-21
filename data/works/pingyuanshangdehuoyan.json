@@ -1,0 +1,100 @@
+{
+  "id": "pingyuanshangdehuoyan",
+  "title": "平原上的火焰",
+  "original_title": "El llano en llamas",
+  "region": "墨西哥",
+  "era": "近代",
+  "era_detail": "20世纪50年代初",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "西班牙语",
+  "author_id": "rulfo",
+  "author_name": "胡安·鲁尔福",
+  "year_display": "1953年（Britannica B352：El llano en llamas (1953; The Burning Plain)——短篇集——多篇首发于 Pan 杂志）",
+  "year_sort": 1953,
+  "background": [
+    "Britannica（B352）：El llano en llamas——短篇'depict the violence of the rural environment and the moral stagnation of its people'（乡村环境的暴力与人的道德停滞）。",
+    "Britannica（B352）：鲁尔福——'one of the finest novelists and short-story creators in 20th-century Latin America'。",
+    "题材（通说待核）：17篇的平原故事——麦克西米连与'背叛'的循环。"
+  ],
+  "outline": [
+    "（通说待核）'我们没去坟里'等篇：平原的暴力档案（篇名通说待核）。",
+    "（通说待核）革命后的墨西哥乡村。"
+  ],
+  "characters": [
+    {
+      "name": "众篇人物",
+      "identity": "农民/匪帮",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'乡村环境的暴力'（B352）。",
+    "'道德停滞'（B352：moral stagnation）。",
+    "短篇的口语调子（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：El llano en llamas (1953)（B352）。",
+      "source": "B352"
+    },
+    {
+      "text": "Britannica：'the violence of the rural environment'（B352）。",
+      "source": "B352"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "口语的省略。",
+      "革命后的墨西哥乡村（通说待核）。"
+    ],
+    "editions": [
+      "《平原上的火焰》中译本（译林等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "鲁尔福短篇首选；先于《佩德罗·巴拉莫》。"
+  },
+  "pending": [
+    "篇数（17篇说）核对（通说）。",
+    "1953年出版细节待核。",
+    "篇名核对（通说）。"
+  ],
+  "sources": [
+    "B352"
+  ],
+  "year_source": "B352",
+  "author_source": "B352",
+  "related_works": [
+    "peideluobalamo",
+    "nongmin",
+    "datatarenshamo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《平原上的火焰》暴力档案图",
+    "cards": [
+      {
+        "title": "平原",
+        "text": "燃烧的土地（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "短篇",
+        "text": "暴力的档案（B352）",
+        "color": "main"
+      },
+      {
+        "title": "停滞",
+        "text": "'道德的停滞'（B352）",
+        "color": "gold"
+      },
+      {
+        "title": "口语",
+        "text": "农民的声音（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

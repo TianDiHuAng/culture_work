@@ -1,0 +1,238 @@
+# -*- coding: utf-8 -*-
+"""批64：零成本 12 部（消隐的阶梯/一个男人的位置/一个女人的故事/给未出生孩子的挽歌/诉讼笔录/看管人/背叛/福地/醉舟/彩画集/平原上的火焰/住所）"""
+import json, pathlib
+
+existing = {p.stem for p in pathlib.Path('data/works').glob('*.json')}
+titles = set()
+for p in pathlib.Path('data/works').glob('*.json'):
+    j = json.loads(p.read_text(encoding='utf-8'))
+    titles.add(j['title'])
+
+def src_of(aid):
+    return json.load(open(f'data/authors/{aid}.json', encoding='utf-8'))['sources'][0]
+
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
+works = [
+{"id":"xiaoyindejiti","title":"消隐的阶梯","original_title":"Los pasos perdidos","region":"古巴","era":"近代","era_detail":"20世纪50年代",
+"genre":"长篇小说","genre_group":"小说","language":"西班牙语","author_id":"carpentier","author_name":"阿莱霍·卡彭铁尔",
+"year_display":"1953年（Britannica B373：The Lost Steps (1953)——'his best-known work'）","year_sort":1953,
+"background":["Britannica（B373）：'his best-known work'——'a first-person account of a journey to the Orinoco jungle seeking the meaning of life and the origins of time'（第一人称的奥里诺科丛林之旅——寻找生命意义与时间起源）。","Britannica（B373）：卡彭铁尔——'marvelous American reality'（魔幻现实主义——交叉）。","题材（通说待核）：音乐家与情人的丛林之旅——'时间的起源'。"],
+"outline":["（通说待核）从纽约到奥里诺科：'乐器'与'城市'的逃离。","（通说待核）'时间倒流'的丛林与'阶梯'的消隐。"],
+"characters":[{"name":"'我'（作曲家）","identity":"旅行者","note":"（通说待核，B373未载）"}],
+"themes":["'寻找生命意义与时间起源'（B373）。",
+ "城市与丛林的二元（通说待核）。",
+ "'神奇的现实'（B373：marvelous American reality——交叉）。"],
+"influence":[{"text":"Britannica：'his best-known work'（B373）。","source":"B373"},{"text":"Britannica：魔幻现实主义序言（B373 交叉——这个世界的王国）。","source":"B373"}],
+"reading":{"difficulties":["'时间倒流'的叙事。","委内瑞拉-哥伦比亚丛林史（通说待核）。"],
+ "editions":["《消隐的阶梯》中译名（《消失的足迹》）待核。","西班牙文原版。"],
+ "order":"卡彭铁尔成名作；与《这个世界的王国》对读。"},
+"pending":["'我'（作曲家）人名核对（通说）。","1953年出版细节待核。","'时间倒流'细节待核。"],
+"sources":["B373"],"year_source":"B373","author_source":"B373","related_works":["zhegeshijiedewanguo","bainian" if "bainian" in existing else "leiyu","huoluan"],
+"svg":G("《消隐的阶梯》丛林时间图",[{"title":"丛林","text":"时间的起源（B373）","color":"gold"},{"title":"旅程","text":"'第一人称的寻索'（B373）","color":"main"},{"title":"城市","text":"逃离的起点（通说）","color":"antagonist"},{"title":"阶梯","text":"'消隐'的路（书名）","color":"family"}])},
+{"id":"yigenanzhidewei","title":"一个男人的位置","original_title":"La Place","region":"法国","era":"近代","era_detail":"20世纪80年代初",
+"genre":"自传性叙事","genre_group":"散文","language":"法语","author_id":"ernaux","author_name":"安妮·埃尔诺",
+"year_display":"1983年（Britannica B380：La Place (1983; A Man's Place)——勒诺多奖）","year_sort":1983,
+"background":["Britannica（B380）：La Place——父亲——勒诺多奖（Prix Renaudot）。","Britannica（B380）：埃尔诺——'spare, detached prose'——'revealing the artifice of her own genre'。","题材（通说待核）：父亲的'位置'——从农民到小店主与'阶层迁移'的羞耻。"],
+"outline":["（通说待核）父亲的死与'平的句子'：不给他的生padding。","（通说待核）'阶级迁移'：女儿的教育与父亲的沉默。"],
+"characters":[{"name":"父亲","identity":"小店主","note":"（B380：her father's working-class life）"},{"name":"女儿（'我'）","identity":"叙述者","note":"（B380 语境）"}],
+"themes":["'父亲的位置'（书名语境——通说待核）。",
+ "阶级迁移的羞耻（通说待核）。",
+ "'简洁疏离'的文体（B380：spare, detached prose）。"],
+"influence":[{"text":"Britannica：勒诺多奖（B380）。","source":"B380"},{"text":"Britannica：2022诺奖（B380 交叉）。","source":"B380"}],
+"reading":{"difficulties":["'平的句子'的文体。","诺曼底小商人社会。"],
+ "editions":["《一个男人的位置》中译本（人民文学/上海人民出版社等——通说待核）。","法文原版。"],
+ "order":"埃尔诺成名作；先于《岁月》。"},
+"pending":["父亲职业细节核对（通说）。","1983年出版（Gallimard说）待核。","'勒诺多奖'（B380已载）核对。"],
+"sources":["B380"],"year_source":"B380","author_source":"B380","related_works":["suiyue","yigenvrendegushi","gududemigong"],
+"svg":G("《一个男人的位置》阶级迁移图",[{"title":"父亲","text":"'位置'的一生（B380）","color":"main"},{"title":"女儿","text":"迁移的羞耻（通说）","color":"antagonist"},{"title":"平句","text":"'简洁疏离'（B380）","color":"gold"},{"title":"诺曼底","text":"小店的世界（通说）","color":"family"}])},
+{"id":"yigenvrendegushi","title":"一个女人的故事","original_title":"Une Femme","region":"法国","era":"近代","era_detail":"20世纪80年代",
+"genre":"自传性叙事","genre_group":"散文","language":"法语","author_id":"ernaux","author_name":"安妮·埃尔诺",
+"year_display":"1987年（Britannica B380：Une Femme (1987; A Woman's Story)）","year_sort":1987,
+"background":["Britannica（B380）：Une Femme——'her mother's decline from Alzheimer's'（母亲的阿尔茨海默症衰变）。","Britannica（B380）：埃尔诺——'lightly fictionalized memoirs...spare, detached prose'。","题材（通说待核）：母亲从卡昂工厂女工到老年病院——'一个女人'的生与失。"],
+"outline":["（通说待核）母亲的'生'：女工、店主、'女权'的自发。","（通说待核）阿尔茨海默的'消失'与书写的追回。"],
+"characters":[{"name":"母亲","identity":"女工/店主","note":"（B380：her mother's decline from Alzheimer's）"},{"name":"女儿（'我'）","identity":"叙述者","note":"（B380 语境）"}],
+"themes":["母亲的'衰变'（B380：decline from Alzheimer's）。",
+ "母女之间的'位置'互换（通说待核）。",
+ "'一个女人'的普遍化（书名语境——通说待核）。"],
+"influence":[{"text":"Britannica：Une Femme (1987)（B380）。","source":"B380"},{"text":"Britannica：'themes include...her mother's Alzheimer's decline'（B380）。","source":"B380"}],
+"reading":{"difficulties":["阿尔茨海默的叙事伦理。","'平句'的延续。"],
+ "editions":["《一个女人的故事》中译本（人民文学/上海人民出版社等——通说待核）。","法文原版。"],
+ "order":"与《一个男人的位置》成对读。"},
+"pending":["母亲名（布兰希说）核对（通说）。","1987年出版细节待核。","'卡昂'养老院细节待核。"],
+"sources":["B380"],"year_source":"B380","author_source":"B380","related_works":["yigenanzhidewei","suiyue","leiyu"],
+"svg":G("《一个女人的故事》衰变结构图",[{"title":"母亲","text":"阿尔茨海默的衰变（B380）","color":"main"},{"title":"女儿","text":"书写的追回（通说）","color":"gold"},{"title":"女工","text":"出身的世界（通说）","color":"family"},{"title":"消失","text":"'一个女人'的终局（通说）","color":"antagonist"}])},
+{"id":"weiweichushenghaizidewange","title":"给未出生孩子的挽歌","original_title":"Kaddis a meg nem született gyermekért","region":"匈牙利","era":"近代","era_detail":"20世纪80年代末",
+"genre":"长篇小说","genre_group":"小说","language":"匈牙利语","author_id":"kertesz","author_name":"凯尔泰斯·伊姆雷",
+"year_display":"1990年（Britannica B379：Kaddish for a Child Not Born (1990)）","year_sort":1990,
+"background":["Britannica（B379）：Kaddish for a Child Not Born (1990)——作品列表。","Britannica（B379）：凯尔泰斯——2002诺奖；《无命运的一生》为其代表作（交叉）。","题材（通说待核）：幸存者的独白——'不生孩子'的决断与集中营的余波。"],
+"outline":["（通说待核）'卡迪什'（犹太哀祷）：向未出生的孩子解释。","（通说待核）'奥斯维辛的普遍性'论（通说待核）。"],
+"characters":[{"name":"B.","identity":"幸存者/叙述者","note":"（通说待核）"}],
+"themes":["'给未出生孩子'的哀祷（书名语境——通说待核）。",
+ "幸存者的'普遍'宣称（通说待核）。",
+ "拒绝生育的伦理（通说待核）。"],
+"influence":[{"text":"Britannica：Kaddish for a Child Not Born (1990)（B379）。","source":"B379"},{"text":"Britannica：2002诺奖（B379 交叉）。","source":"B379"}],
+"reading":{"difficulties":["'卡迪什'的仪式语。","'普遍化'的论战（通说待核）。"],
+ "editions":["《给未出生孩子的挽歌》中译名（《无命运者的挽歌》）待核。","匈牙利文原版。"],
+ "order":"凯尔泰斯第二作；承接《无命运的一生》。"},
+"pending":["叙述者B.名核对（通说）。","1990年出版细节待核。","'卡迪什'仪式细节待核。"],
+"sources":["B379"],"year_source":"B379","author_source":"B379","related_works":["wumingyundesheng","moluoyi","tuyuzhizideneizi"],
+"svg":G("《给未出生孩子的挽歌》哀祷结构图",[{"title":"卡迪什","text":"哀祷的仪式（书名）","color":"gold"},{"title":"幸存者","text":"独白的B.（通说）","color":"main"},{"title":"拒绝","text":"不生育的决断（通说）","color":"antagonist"},{"title":"奥斯维辛","text":"余波的普遍（通说）","color":"family"}])},
+{"id":"susongbifu","title":"诉讼笔录","original_title":"Le Procès-verbal","region":"法国","era":"近代","era_detail":"20世纪60年代",
+"genre":"长篇小说","genre_group":"小说","language":"法语","author_id":"leclezio","author_name":"让-马里·古斯塔夫·勒克莱齐奥",
+"year_display":"1963年（Britannica B381：Le Procès-verbal (1963; The Interrogation)——勒诺多奖）","year_sort":1963,
+"background":["Britannica（B381）：Le Procès-verbal——勒诺多奖（Prix Renaudot）。","Britannica（B381）：勒克莱齐奥——'emerged independently from contemporaries of the nouveau roman'（独立于新小说派）。","题材（通说待核）：'亚当·波洛'的无聊漫游——'笔录'的孤独档案。"],
+"outline":["（通说待核）亚当·波洛的海边流浪与'笔录'的传唤。","（通说待核）'新小说'式的空间与静止。"],
+"characters":[{"name":"亚当·波洛","identity":"流浪者","note":"（通说待核，B381未载）"}],
+"themes":["'笔录'：孤独的档案（书名语境——通说待核）。",
+ "'独立于新小说派'（B381）。",
+ "流浪与消费社会（通说待核）。"],
+"influence":[{"text":"Britannica：勒诺多奖（B381）。","source":"B381"},{"text":"Britannica：2008诺奖（B381 交叉）。","source":"B381"}],
+"reading":{"difficulties":["'新小说'语境的对照。","'笔录'的文体。"],
+ "editions":["《诉讼笔录》中译本（人民文学等——通说待核）。","法文原版。"],
+ "order":"勒克莱齐奥处女作；后接《沙漠》。"},
+"pending":["亚当·波洛人名核对（通说）。","1963年出版细节待核。","'独立于新小说'（B381）评价核对。"],
+"sources":["B381"],"year_source":"B381","author_source":"B381","related_works":["sha","weite","moluoyi"],
+"svg":G("《诉讼笔录》档案结构图",[{"title":"笔录","text":"孤独的档案（书名）","color":"main"},{"title":"亚当","text":"漫游的传唤（通说）","color":"gold"},{"title":"新小说","text":"'独立'的对照（B381）","color":"antagonist"},{"title":"海滩","text":"流浪的尽头（通说）","color":"family"}])},
+{"id":"kanguanren","title":"看管人","original_title":"The Caretaker","region":"英国","era":"现当代","era_detail":"20世纪60年代",
+"genre":"戏剧","genre_group":"戏剧","language":"英语","author_id":"pinter","author_name":"哈罗德·品特",
+"year_display":"1960年（Britannica B385：The Caretaker (1960)——'secured his reputation'）","year_sort":1960,
+"background":["Britannica（B385）：'secured his reputation'（确立声誉）——'a wheedling, garrulous old tramp comes to live with two neurotic brothers, upsetting their balance until they evict him'（一个花言巧语、喋喋不休的老流浪汉与两个神经质的兄弟同住，扰乱平衡直至被逐）。","Britannica（B385）：'Pinteresque'——'resonant silences'。","题材（通说待核）：戴维斯的'纸'与'鞋'——房间的权力。"],
+"outline":["（通说待核）流浪汉戴维斯与阿斯顿/米克兄弟。","（通说待核）'看管人'头衔的许诺与驱逐。"],
+"characters":[{"name":"戴维斯","identity":"老流浪汉","note":"（B385：wheedling, garrulous old tramp）"},{"name":"阿斯顿/米克","identity":"两兄弟","note":"（B385：two neurotic brothers）"}],
+"themes":["'看管人'的权力游戏（书名语境——通说待核）。",
+ "'共鸣的沉默'（B385）。",
+ "房间的归属（通说待核）。"],
+"influence":[{"text":"Britannica：'secured his reputation'（B385）。","source":"B385"},{"text":"Britannica：2005诺奖（B385 交叉）。","source":"B385"}],
+"reading":{"difficulties":["三房间的空间政治。","'Pinteresque'停顿。"],
+ "editions":["《看管人》中译名（《房屋管理员》）待核。","英文原版。"],
+ "order":"品特成名作；与《生日晚会》对读。"},
+"pending":["戴维斯/阿斯顿/米克人名核对（B385载tramp/brothers）。","1960年首演细节待核。","1963年电影改编说待核。"],
+"sources":["B385"],"year_source":"B385","author_source":"B385","related_works":["shengriwanhui","toutougeonv","dengdaigou"],
+"svg":G("《看管人》房间权力图",[{"title":"房间","text":"权力的空间（通说）","color":"family"},{"title":"戴维斯","text":"喋喋不休的流浪汉（B385）","color":"main"},{"title":"驱逐","text":"平衡的恢复（B385）","color":"antagonist"},{"title":"沉默","text":"'共鸣'的停顿（B385）","color":"gold"}])},
+{"id":"beiyai","title":"背叛","original_title":"Betrayal","region":"英国","era":"现当代","era_detail":"20世纪70年代末",
+"genre":"戏剧","genre_group":"戏剧","language":"英语","author_id":"pinter","author_name":"哈罗德·品特",
+"year_display":"1978年（Britannica B385：Betrayal (1978)——1983年自改电影）","year_sort":1978,
+"background":["Britannica（B385）：Betrayal——'One of his later successes'——'adapted by Pinter as a 1983 film screenplay'。","Britannica（B385）：品特——'Pinteresque'——2005诺奖。","题材（通说待核）：倒叙结构——杰里与艾玛的婚外情七年九场。"],
+"outline":["（通说待核）倒叙：从1977的告别回至1968的开始。","（通说待核）'背叛'的多重：友、妻、自我。"],
+"characters":[{"name":"杰里/艾玛/罗伯特","identity":"三角","note":"（通说待核，B385未载）"}],
+"themes":["倒叙的时间结构（通说待核）。",
+ "'背叛'的复数（书名语境——通说待核）。",
+ "沉默与酒馆（B385 语系）。"],
+"influence":[{"text":"Britannica：'One of his later successes'（B385）。","source":"B385"},{"text":"Britannica：2005诺奖（B385 交叉）。","source":"B385"}],
+"reading":{"difficulties":["倒叙的时间。","'小对话'的信息量。"],
+ "editions":["《背叛》中译本（人民文学等——通说待核）。","英文原版。"],
+ "order":"品特后期；与《生日晚会》对照。"},
+"pending":["杰里/艾玛/罗伯特人名核对（通说）。","1978年首演细节待核。","1983年电影细节待核（B385已载）。"],
+"sources":["B385"],"year_source":"B385","author_source":"B385","related_works":["shengriwanhui","kanguanren","leiyu"],
+"svg":G("《背叛》倒叙结构图",[{"title":"倒叙","text":"从终局回开始（通说）","color":"gold"},{"title":"背叛","text":"三重的名（书名）","color":"main"},{"title":"酒馆","text":"对话的场地（通说）","color":"family"},{"title":"沉默","text":"Pinteresque（B385）","color":"antagonist"}])},
+{"id":"fudi","title":"福地","original_title":"Ziemia obiecana","region":"波兰","era":"近代","era_detail":"19世纪90年代末",
+"genre":"长篇小说","genre_group":"小说","language":"波兰语","author_id":"reymont","author_name":"弗拉迪斯拉夫·莱蒙特",
+"year_display":"1899年（Britannica B342：Ziemia obiecana (1899; The Promised Land)——罗兹纺织厂主）","year_sort":1899,
+"background":["Britannica（B342）：Ziemia obiecana——'set in the industrial town of Łódź, portraying textile mill owners' lives'——罗兹纺织工业城（1974年电影）。","Britannica（B342）：莱蒙特——1924诺奖。","题材（通说待核）：三个伙伴（波兰/德/犹太）的发财梦——'福地'的反讽。"],
+"outline":["（通说待核）罗兹：卡罗尔与两个伙伴的工厂赌局。","（通说待核）'福地'（应许之地）的代价。"],
+"characters":[{"name":"卡罗尔·博罗维耶茨基","identity":"波兰厂主","note":"（通说待核，B342未载）"},{"name":"马克斯/莫伊泽","identity":"德/犹伙伴","note":"（通说待核）"}],
+"themes":["工业罗兹的丛林（B342：textile mill owners）。",
+ "'福地'的反讽（书名语境——通说待核）。",
+ "三族的生意（通说待核）。"],
+"influence":[{"text":"Britannica：1974年拍成电影（B342）。","source":"B342"},{"text":"Britannica：1924诺奖（B342 交叉）。","source":"B342"}],
+"reading":{"difficulties":["罗兹三族工业史。","'应许之地'的反讽。"],
+ "editions":["《福地》中译本（人民文学等——通说待核）。","波兰文原版（公有领域）。"],
+ "order":"莱蒙特工业篇；与《农民》对读。"},
+"pending":["卡罗尔等三人名核对（通说）。","1897-98连载与1899成书待核。","1975年电影（瓦伊达说）待核——B342载1974。"],
+"sources":["B342"],"year_source":"B342","author_source":"B342","related_works":["nongmin","sangeshouqiangshou","nvshijizhongshengxiang"],
+"svg":G("《福地》工业丛林图",[{"title":"罗兹","text":"纺织的福地（B342）","color":"gold"},{"title":"三伙伴","text":"三族的赌局（通说）","color":"main"},{"title":"反讽","text":"'应许之地'的代价（书名）","color":"antagonist"},{"title":"工厂","text":"机器与人心（通说）","color":"family"}])},
+{"id":"zuizhou","title":"醉舟","original_title":"Le Bateau ivre","region":"法国","era":"近代","era_detail":"19世纪70年代初",
+"genre":"长诗","genre_group":"诗歌","language":"法语","author_id":"rimbaud","author_name":"阿蒂尔·兰波",
+"year_display":"1871年（Britannica B310：The Drunken Boat written 1871）","year_sort":1871,
+"background":["Britannica（B310）：The Drunken Boat——1871年写。","Britannica（B310）：兰波——'气质的通灵者'说（通说待核——B310 口径）。","题材（通说待核）：脱缆之舟的漂流——'不可能的通灵'航程。"],
+"outline":["（通说待核）'醉舟'自述：脱缆顺流而下的通灵之旅。","（通说待核）'大海'与'诗的破晓'（不采为引文）。"],
+"characters":[{"name":"醉舟","identity":"叙述者","note":"（B310 书名意象）"}],
+"themes":["通灵的漂流（B310 语境——通说待核）。",
+ "'酒'与'诗'的boat（书名）。",
+ "破晓与厌倦（通说待核）。"],
+"influence":[{"text":"Britannica：The Drunken Boat written 1871（B310）。","source":"B310"},{"text":"Britannica：兰波为象征主义先声（B310 作者级——待核）。","source":"B310"}],
+"reading":{"difficulties":["25行的'船'格律（通说待核）。","通灵论（Lettre du voyant说）背景。"],
+ "editions":["《醉舟》中译本（人民文学等——通说待核）。","法文原版（公有领域）。"],
+ "order":"兰波诗歌首选；与《地狱一季》《彩画集》对读。"},
+"pending":["1871年写给魏尔伦说待核（通说）。","'通灵者书信'（5月与8月）日期待核。","25节结构核对。"],
+"sources":["B310"],"year_source":"B310","author_source":"B310","related_works":["diyuzhiji","caihuaji","balideyouyu"],
+"svg":G("《醉舟》通灵漂流图",[{"title":"醉舟","text":"脱缆的漂流（书名）","color":"main"},{"title":"通灵","text":"感官的错乱（B310语境）","color":"gold"},{"title":"大海","text":"诗的破晓（通说）","color":"family"},{"title":"厌倦","text":"靠岸的渴望（通说）","color":"antagonist"}])},
+{"id":"caihuaji","title":"彩画集","original_title":"Illuminations","region":"法国","era":"近代","era_detail":"19世纪70年代",
+"genre":"散文诗集","genre_group":"诗歌","language":"法语","author_id":"rimbaud","author_name":"阿蒂尔·兰波",
+"year_display":"1872-74年写（Britannica B310：Illuminations——40 prose poems + 2 free-verse poems，1872—74年写）","year_sort":1873,
+"background":["Britannica（B310）：Illuminations——'40 prose poems + 2 free-verse poems，1872—74年写'。","Britannica（B310）：兰波——《地狱一季》(B310)作者——交叉。","题材（通说待核）：《都市》《海港》等散文诗的'彩画'——城市的幻象集。"],
+"outline":["（通说待核）散文诗的'彩画'：都市、海港与'狂欢'。","（通说待核）'Vowels'（元音）色彩论的延伸（通说待核）。"],
+"characters":[{"name":"幻象者'我'","identity":"通灵者","note":"（B310 语系）"}],
+"themes":["散文诗的'彩画'（B310：Illuminations）。",
+ "都市幻象（通说待核）。",
+ "'元音'的色彩（通说待核）。"],
+"influence":[{"text":"Britannica：'40 prose poems + 2 free-verse poems'（B310）。","source":"B310"},{"text":"Britannica：兰波《地狱一季》并列（B310 交叉）。","source":"B310"}],
+"reading":{"difficulties":["散文诗的断片。","'彩画'的词源（Illuminations）。"],
+ "editions":["《彩画集》中译名（《灵光集》）待核。","法文原版（公有领域）。"],
+ "order":"兰波收官；与《地狱一季》对读。"},
+"pending":["篇目（《都市》《海港》说）核对（通说）。","1886年出版（La Vogue刊说）待核。","魏尔伦的整理角色待核。"],
+"sources":["B310"],"year_source":"B310","author_source":"B310","related_works":["diyuzhiji","zuizhou","balideyouyu"],
+"svg":G("《彩画集》幻象结构图",[{"title":"彩画","text":"散文诗的幻象（B310）","color":"gold"},{"title":"都市","text":"幻象的城市（通说）","color":"main"},{"title":"元音","text":"色彩的理论（通说）","color":"family"},{"title":"狂欢","text":"夜与海（通说）","color":"antagonist"}])},
+{"id":"pingyuanshangdehuoyan","title":"平原上的火焰","original_title":"El llano en llamas","region":"墨西哥","era":"近代","era_detail":"20世纪50年代初",
+"genre":"短篇小说集","genre_group":"故事集","language":"西班牙语","author_id":"rulfo","author_name":"胡安·鲁尔福",
+"year_display":"1953年（Britannica B352：El llano en llamas (1953; The Burning Plain)——短篇集——多篇首发于 Pan 杂志）","year_sort":1953,
+"background":["Britannica（B352）：El llano en llamas——短篇'depict the violence of the rural environment and the moral stagnation of its people'（乡村环境的暴力与人的道德停滞）。","Britannica（B352）：鲁尔福——'one of the finest novelists and short-story creators in 20th-century Latin America'。","题材（通说待核）：17篇的平原故事——麦克西米连与'背叛'的循环。"],
+"outline":["（通说待核）'我们没去坟里'等篇：平原的暴力档案（篇名通说待核）。","（通说待核）革命后的墨西哥乡村。"],
+"characters":[{"name":"众篇人物","identity":"农民/匪帮","note":"（通说待核）"}],
+"themes":["'乡村环境的暴力'（B352）。",
+ "'道德停滞'（B352：moral stagnation）。",
+ "短篇的口语调子（通说待核）。"],
+"influence":[{"text":"Britannica：El llano en llamas (1953)（B352）。","source":"B352"},{"text":"Britannica：'the violence of the rural environment'（B352）。","source":"B352"}],
+"reading":{"difficulties":["口语的省略。","革命后的墨西哥乡村（通说待核）。"],
+ "editions":["《平原上的火焰》中译本（译林等——通说待核）。","西班牙文原版。"],
+ "order":"鲁尔福短篇首选；先于《佩德罗·巴拉莫》。"},
+"pending":["篇数（17篇说）核对（通说）。","1953年出版细节待核。","篇名核对（通说）。"],
+"sources":["B352"],"year_source":"B352","author_source":"B352","related_works":["peideluobalamo","nongmin","datatarenshamo"],
+"svg":G("《平原上的火焰》暴力档案图",[{"title":"平原","text":"燃烧的土地（书名）","color":"antagonist"},{"title":"短篇","text":"暴力的档案（B352）","color":"main"},{"title":"停滞","text":"'道德的停滞'（B352）","color":"gold"},{"title":"口语","text":"农民的声音（通说）","color":"family"}])},
+{"id":"zhusuo","title":"住所","original_title":"Residencia en la tierra","region":"智利","era":"近代","era_detail":"20世纪30年代",
+"genre":"诗集","genre_group":"诗歌","language":"西班牙语","author_id":"neruda","author_name":"巴勃罗·聂鲁达",
+"year_display":"作者页注记：Britannica——住所（Residence on Earth）——超现实主义苦闷诗（年份通说待核——1933-35三卷说）","year_sort":1933,
+"background":["作者页注记：住所——'超现实主义苦闷诗（Britannica）'。","Britannica：聂鲁达——1971诺奖（作者页交叉——待核）。","题材（通说待核）：'住所'三卷：绝望的独白与物的'航程'。"],
+"outline":["（通说待核）三卷：绝望/焦灼/愤怒（卷名通说待核）。","（通说待核）'物的颂歌'的前夜（通说待核）。"],
+"characters":[{"name":"抒情'我'","identity":"苦闷的歌者","note":"（通说待核）"}],
+"themes":["'超现实主义苦闷'（B注记）。",
+ "物的航程与衰亡（通说待核）。",
+ "从情诗到政治的中转（作者页语境）。"],
+"influence":[{"text":"Britannica：Residence on Earth——超现实主义苦闷诗（作者页注记）。","source":src_of('neruda')},{"text":"Britannica：1971诺奖（作者页交叉——待核）。","source":src_of('neruda')}],
+"reading":{"difficulties":["'超现实'的语流。","三卷的分期。"],
+ "editions":["《住所》中译名（《居住在地上》）待核。","西班牙文原版。"],
+ "order":"聂鲁达中期；先于《一般之歌》。"},
+"pending":["三卷卷名与年份（1933/1935/1939说）核对（通说）。","'超现实主义苦闷诗'评价出处核对。","《马丘比丘》归属《一般之歌》待核。"],
+"sources":[src_of('neruda')],"year_source":src_of('neruda'),"author_source":src_of('neruda'),"related_works":["ershisou","yibanzhige","diyuzhiji"],
+"svg":G("《住所》苦闷结构图",[{"title":"住所","text":"地上苦闷的居所（书名）","color":"gold"},{"title":"三卷","text":"绝望/焦灼/愤怒（通说）","color":"main"},{"title":"超现实","text":"语流的夜（B注记）","color":"antagonist"},{"title":"物","text":"颂歌的前夜（通说）","color":"family"}])},
+]
+created = []
+for w in works:
+    if w['id'] in existing or w['title'] in titles:
+        print('SKIP (dup):', w['id'], w['title'])
+        continue
+    pathlib.Path(f"data/works/{w['id']}.json").write_text(json.dumps(w, ensure_ascii=False, indent=2), encoding='utf-8')
+    created.append(w['id'])
+    print('work', w['id'])
+
+def link(aid, wid, kw=None):
+    p = pathlib.Path(f'data/authors/{aid}.json')
+    j = json.loads(p.read_text(encoding='utf-8'))
+    if not any(m.get('work_id') == wid for m in j['major_works']):
+        done = False
+        if kw:
+            for i, m in enumerate(j['major_works']):
+                if m.get('title') and kw in m['title']:
+                    j['major_works'][i] = {"work_id": wid, "note": m['note']}
+                    done = True; break
+        if not done:
+            j['major_works'].append({"work_id": wid, "note": "（零成本批64）"})
+    p.write_text(json.dumps(j, ensure_ascii=False, indent=2), encoding='utf-8')
+    print('linked', aid, '->', wid)
+
+for wid, aid, kw in [('xiaoyindejiti','carpentier','消隐的阶梯'),('yigenanzhidewei','ernaux','一个男人的位置'),('yigenvrendegushi','ernaux','一个女人的故事'),('weiweichushenghaizidewange','kertesz','给未出生孩子的挽歌'),('susongbifu','leclezio','诉讼笔录'),('kanguanren','pinter','看管人'),('beiyai','pinter','背叛'),('fudi','reymont','福地'),('zuizhou','rimbaud','醉舟'),('caihuaji','rimbaud','彩画集'),('pingyuanshangdehuoyan','rulfo','平原上的火焰'),('zhusuo','neruda','住所')]:
+    if wid in created:
+        link(aid, wid, kw)
+print('BATCH64 DONE')

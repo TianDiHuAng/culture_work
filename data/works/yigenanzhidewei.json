@@ -1,0 +1,105 @@
+{
+  "id": "yigenanzhidewei",
+  "title": "一个男人的位置",
+  "original_title": "La Place",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪80年代初",
+  "genre": "自传性叙事",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "ernaux",
+  "author_name": "安妮·埃尔诺",
+  "year_display": "1983年（Britannica B380：La Place (1983; A Man's Place)——勒诺多奖）",
+  "year_sort": 1983,
+  "background": [
+    "Britannica（B380）：La Place——父亲——勒诺多奖（Prix Renaudot）。",
+    "Britannica（B380）：埃尔诺——'spare, detached prose'——'revealing the artifice of her own genre'。",
+    "题材（通说待核）：父亲的'位置'——从农民到小店主与'阶层迁移'的羞耻。"
+  ],
+  "outline": [
+    "（通说待核）父亲的死与'平的句子'：不给他的生padding。",
+    "（通说待核）'阶级迁移'：女儿的教育与父亲的沉默。"
+  ],
+  "characters": [
+    {
+      "name": "父亲",
+      "identity": "小店主",
+      "note": "（B380：her father's working-class life）"
+    },
+    {
+      "name": "女儿（'我'）",
+      "identity": "叙述者",
+      "note": "（B380 语境）"
+    }
+  ],
+  "themes": [
+    "'父亲的位置'（书名语境——通说待核）。",
+    "阶级迁移的羞耻（通说待核）。",
+    "'简洁疏离'的文体（B380：spare, detached prose）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：勒诺多奖（B380）。",
+      "source": "B380"
+    },
+    {
+      "text": "Britannica：2022诺奖（B380 交叉）。",
+      "source": "B380"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'平的句子'的文体。",
+      "诺曼底小商人社会。"
+    ],
+    "editions": [
+      "《一个男人的位置》中译本（人民文学/上海人民出版社等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "埃尔诺成名作；先于《岁月》。"
+  },
+  "pending": [
+    "父亲职业细节核对（通说）。",
+    "1983年出版（Gallimard说）待核。",
+    "'勒诺多奖'（B380已载）核对。"
+  ],
+  "sources": [
+    "B380"
+  ],
+  "year_source": "B380",
+  "author_source": "B380",
+  "related_works": [
+    "suiyue",
+    "yigenvrendegushi",
+    "gududemigong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一个男人的位置》阶级迁移图",
+    "cards": [
+      {
+        "title": "父亲",
+        "text": "'位置'的一生（B380）",
+        "color": "main"
+      },
+      {
+        "title": "女儿",
+        "text": "迁移的羞耻（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "平句",
+        "text": "'简洁疏离'（B380）",
+        "color": "gold"
+      },
+      {
+        "title": "诺曼底",
+        "text": "小店的世界（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "zuizhou",
+  "title": "醉舟",
+  "original_title": "Le Bateau ivre",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪70年代初",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "rimbaud",
+  "author_name": "阿蒂尔·兰波",
+  "year_display": "1871年（Britannica B310：The Drunken Boat written 1871）",
+  "year_sort": 1871,
+  "background": [
+    "Britannica（B310）：The Drunken Boat——1871年写。",
+    "Britannica（B310）：兰波——'气质的通灵者'说（通说待核——B310 口径）。",
+    "题材（通说待核）：脱缆之舟的漂流——'不可能的通灵'航程。"
+  ],
+  "outline": [
+    "（通说待核）'醉舟'自述：脱缆顺流而下的通灵之旅。",
+    "（通说待核）'大海'与'诗的破晓'（不采为引文）。"
+  ],
+  "characters": [
+    {
+      "name": "醉舟",
+      "identity": "叙述者",
+      "note": "（B310 书名意象）"
+    }
+  ],
+  "themes": [
+    "通灵的漂流（B310 语境——通说待核）。",
+    "'酒'与'诗'的boat（书名）。",
+    "破晓与厌倦（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Drunken Boat written 1871（B310）。",
+      "source": "B310"
+    },
+    {
+      "text": "Britannica：兰波为象征主义先声（B310 作者级——待核）。",
+      "source": "B310"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "25行的'船'格律（通说待核）。",
+      "通灵论（Lettre du voyant说）背景。"
+    ],
+    "editions": [
+      "《醉舟》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "兰波诗歌首选；与《地狱一季》《彩画集》对读。"
+  },
+  "pending": [
+    "1871年写给魏尔伦说待核（通说）。",
+    "'通灵者书信'（5月与8月）日期待核。",
+    "25节结构核对。"
+  ],
+  "sources": [
+    "B310"
+  ],
+  "year_source": "B310",
+  "author_source": "B310",
+  "related_works": [
+    "diyuzhiji",
+    "caihuaji",
+    "balideyouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《醉舟》通灵漂流图",
+    "cards": [
+      {
+        "title": "醉舟",
+        "text": "脱缆的漂流（书名）",
+        "color": "main"
+      },
+      {
+        "title": "通灵",
+        "text": "感官的错乱（B310语境）",
+        "color": "gold"
+      },
+      {
+        "title": "大海",
+        "text": "诗的破晓（通说）",
+        "color": "family"
+      },
+      {
+        "title": "厌倦",
+        "text": "靠岸的渴望（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

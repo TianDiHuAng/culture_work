@@ -1,0 +1,105 @@
+{
+  "id": "fudi",
+  "title": "福地",
+  "original_title": "Ziemia obiecana",
+  "region": "波兰",
+  "era": "近代",
+  "era_detail": "19世纪90年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "波兰语",
+  "author_id": "reymont",
+  "author_name": "弗拉迪斯拉夫·莱蒙特",
+  "year_display": "1899年（Britannica B342：Ziemia obiecana (1899; The Promised Land)——罗兹纺织厂主）",
+  "year_sort": 1899,
+  "background": [
+    "Britannica（B342）：Ziemia obiecana——'set in the industrial town of Łódź, portraying textile mill owners' lives'——罗兹纺织工业城（1974年电影）。",
+    "Britannica（B342）：莱蒙特——1924诺奖。",
+    "题材（通说待核）：三个伙伴（波兰/德/犹太）的发财梦——'福地'的反讽。"
+  ],
+  "outline": [
+    "（通说待核）罗兹：卡罗尔与两个伙伴的工厂赌局。",
+    "（通说待核）'福地'（应许之地）的代价。"
+  ],
+  "characters": [
+    {
+      "name": "卡罗尔·博罗维耶茨基",
+      "identity": "波兰厂主",
+      "note": "（通说待核，B342未载）"
+    },
+    {
+      "name": "马克斯/莫伊泽",
+      "identity": "德/犹伙伴",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "工业罗兹的丛林（B342：textile mill owners）。",
+    "'福地'的反讽（书名语境——通说待核）。",
+    "三族的生意（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1974年拍成电影（B342）。",
+      "source": "B342"
+    },
+    {
+      "text": "Britannica：1924诺奖（B342 交叉）。",
+      "source": "B342"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "罗兹三族工业史。",
+      "'应许之地'的反讽。"
+    ],
+    "editions": [
+      "《福地》中译本（人民文学等——通说待核）。",
+      "波兰文原版（公有领域）。"
+    ],
+    "order": "莱蒙特工业篇；与《农民》对读。"
+  },
+  "pending": [
+    "卡罗尔等三人名核对（通说）。",
+    "1897-98连载与1899成书待核。",
+    "1975年电影（瓦伊达说）待核——B342载1974。"
+  ],
+  "sources": [
+    "B342"
+  ],
+  "year_source": "B342",
+  "author_source": "B342",
+  "related_works": [
+    "nongmin",
+    "sangeshouqiangshou",
+    "nvshijizhongshengxiang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《福地》工业丛林图",
+    "cards": [
+      {
+        "title": "罗兹",
+        "text": "纺织的福地（B342）",
+        "color": "gold"
+      },
+      {
+        "title": "三伙伴",
+        "text": "三族的赌局（通说）",
+        "color": "main"
+      },
+      {
+        "title": "反讽",
+        "text": "'应许之地'的代价（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "工厂",
+        "text": "机器与人心（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
