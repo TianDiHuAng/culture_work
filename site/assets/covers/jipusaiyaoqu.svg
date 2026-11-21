@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="100%" role="img" font-family="'KaiTi','STKaiti','SimSun','Songti SC','Noto Serif CJK SC',serif">
+<rect x="0" y="0" width="400" height="560" fill="#39485e"/>
+<rect x="14" y="14" width="372" height="532" fill="none" stroke="#c4a35c" stroke-width="1.3" opacity="0.75"/>
+<rect x="21" y="21" width="358" height="518" fill="none" stroke="#c4a35c" stroke-width="0.6" opacity="0.45"/>
+<text x="200" y="50" font-size="14" fill="#bcc4cd" text-anchor="middle" letter-spacing="3" font-family="'SimSun','Songti SC','Noto Serif CJK SC',serif">西班牙 · 20世纪20年代</text>
+<path d="M 90 72 q 27 -12 55 0 t 55 0 t 55 0 t 55 0" fill="none" stroke="#c4a35c" stroke-width="1.6" opacity="0.85"/>
+<path d="M 90 84 q 27 -12 55 0 t 55 0 t 55 0 t 55 0" fill="none" stroke="#c4a35c" stroke-width="1.1" opacity="0.5"/>
+<text x="286" y="195.2" font-size="48" fill="#ece5d0" text-anchor="middle">吉</text>
+<text x="286" y="254.7" font-size="48" fill="#ece5d0" text-anchor="middle">普</text>
+<text x="286" y="314.2" font-size="48" fill="#ece5d0" text-anchor="middle">赛</text>
+<text x="286" y="373.8" font-size="48" fill="#ece5d0" text-anchor="middle">谣</text>
+<text x="286" y="433.3" font-size="48" fill="#ece5d0" text-anchor="middle">曲</text>
+<text x="108" y="176.0" font-size="18" fill="#bcc4cd" text-anchor="middle">费</text>
+<text x="108" y="198.5" font-size="18" fill="#bcc4cd" text-anchor="middle">德</text>
+<text x="108" y="221.0" font-size="18" fill="#bcc4cd" text-anchor="middle">里</text>
+<text x="108" y="243.5" font-size="18" fill="#bcc4cd" text-anchor="middle">科</text>
+<text x="108" y="266.0" font-size="18" fill="#bcc4cd" text-anchor="middle">·</text>
+<text x="108" y="288.5" font-size="18" fill="#bcc4cd" text-anchor="middle">加</text>
+<text x="108" y="311.0" font-size="18" fill="#bcc4cd" text-anchor="middle">西</text>
+<text x="108" y="333.5" font-size="18" fill="#bcc4cd" text-anchor="middle">亚</text>
+<text x="108" y="356.0" font-size="18" fill="#bcc4cd" text-anchor="middle">·</text>
+<text x="108" y="378.5" font-size="18" fill="#bcc4cd" text-anchor="middle">洛</text>
+<text x="108" y="401.0" font-size="18" fill="#bcc4cd" text-anchor="middle">尔</text>
+<text x="108" y="423.5" font-size="18" fill="#bcc4cd" text-anchor="middle">卡</text>
+<line x1="108" y1="453.5" x2="108" y2="470" stroke="#c4a35c" stroke-width="1" opacity="0.6"/>
+<rect x="306" y="491" width="52" height="31" rx="4" fill="#9e3223" opacity="0.94"/><rect x="309" y="494" width="46" height="25" rx="2" fill="none" stroke="#f2e6cf" stroke-width="0.8" opacity="0.7"/><text x="332.0" y="511.9" font-size="15" fill="#f2e6cf" text-anchor="middle" font-family="'Georgia','Times New Roman',serif">1928</text>
+</svg>

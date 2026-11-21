@@ -1,0 +1,64 @@
+{
+  "id": "musil",
+  "name": "罗伯特·穆齐尔",
+  "foreign_name": "Robert Musil（罗伯特·穆齐尔，1880-11-06—1942-04-15）",
+  "country": "奥地利",
+  "birth": 1880,
+  "death": 1942,
+  "birth_year": 1880,
+  "death_year": 1942,
+  "era": "近代",
+  "summary": "穆齐尔，奥地利克拉根福生，奥地利-德语小说家——'best known for his monumental unfinished novel'（Der Mann ohne Eigenschaften, 没有个性的人, 1930-43——B353）——'a witty and urbane view of life in the glittering world of the Austro-Hungarian Empire, told from the viewpoint of Ulrich, a fictionalized Musil'（B353）。第一部1930年出版、第二部部分1933年、'a remaining portion was published posthumously in 1943'（B353）。剧作 Die Schwärmer (1920) 等在柏林维也纳上演（B353）。1908年柏林大学博士；一战奥军服役；1938年纳粹吞并奥地利后流亡瑞士（B353）。",
+  "timeline": [
+    {
+      "year": 1880,
+      "text": "11月6日生于克拉根福（B353）。",
+      "src": "B353"
+    },
+    {
+      "year": 1908,
+      "text": "获柏林大学博士学位（B353）。",
+      "src": "B353"
+    },
+    {
+      "year": 1930,
+      "text": "《没有个性的人》第一部出版（B353）。",
+      "src": "B353"
+    },
+    {
+      "year": 1938,
+      "text": "纳粹吞并奥地利后流亡瑞士（B353）。",
+      "src": "B353"
+    },
+    {
+      "year": 1942,
+      "text": "4月15日卒于日内瓦；1943年遗稿出版（B353）。",
+      "src": "B353"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "meiyougexingderen",
+      "note": "1930-43（B353）"
+    },
+    {
+      "title": "狂热者",
+      "note": "（B353：Die Schwärmer (1920)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'机智而摩登'的奥匈帝国浮华世界（B353：witty and urbane）。",
+    "'没有个性'——对性格概念的怀疑（书名语境——通说待核）。",
+    "未完成巨构（B353：monumental unfinished）。"
+  ],
+  "status": "Britannica 定位穆齐尔为未完成巨著《没有个性的人》的作者（B353）。",
+  "sources": [
+    "B353"
+  ],
+  "dates_source": "B353",
+  "pending": [
+    "Young Törless (1906) 未见于本页——不采其详情。",
+    "乌尔里希全名与'平行行动'情节核对（B353未载）。",
+    "'没有个性的人'通行译名（《没有个性的人》）待核。"
+  ]
+}

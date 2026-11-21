@@ -1,0 +1,69 @@
+{
+  "id": "quasimodo",
+  "name": "萨瓦多尔·夸西莫多",
+  "foreign_name": "Salvatore Quasimodo（萨瓦多尔·夸西莫多，1901-08-20—1968-06-14）",
+  "country": "意大利",
+  "birth": 1901,
+  "death": 1968,
+  "birth_year": 1901,
+  "death_year": 1968,
+  "era": "现当代",
+  "summary": "夸西莫多，西西里 Modica 生（铁路职工之子），意大利诗人——1959年诺贝尔文学奖（B354）。'Originally a leader of the Hermetic poets, he became, after World War II, a powerful poet commenting on modern social issues.'（由隐逸派领袖转为战后社会议题的强力诗人——B354）。师从翁加雷蒂与蒙塔莱起步；1930年代'the dry, sophisticated style and abstruse symbolism of Hermeticism'；隐逸期终于 Poesie (1938) 与 Ed è subito sera（瞬息间是夜晚, 1942）（B354）。战后 Giorno dopo giorno (1947)——'Many of his poems recalled the injustices of the fascist regime, the horrors of the war, and Italian guilt.'（B354）——'simple in language, exhibit a concrete and immediate imagery'（B354）。译希腊抒情诗与悲剧家、莎剧六种、聂鲁达等（B354）。",
+  "timeline": [
+    {
+      "year": 1901,
+      "text": "8月20日生于西西里 Modica（B354）。",
+      "src": "B354"
+    },
+    {
+      "year": 1930,
+      "text": "Acque e terre——第一部诗集（B354）。",
+      "src": "B354"
+    },
+    {
+      "year": 1942,
+      "text": "Ed è subito sera（瞬息间是夜晚）——隐逸期收束（B354）。",
+      "src": "B354"
+    },
+    {
+      "year": 1947,
+      "text": "Giorno dopo giorno——战后社会诗歌转向（B354）。",
+      "src": "B354"
+    },
+    {
+      "year": 1959,
+      "text": "获诺贝尔文学奖（B354）。",
+      "src": "B354"
+    },
+    {
+      "year": 1968,
+      "text": "6月14日卒于那不勒斯（B354）。",
+      "src": "B354"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shunxijiandeyewan",
+      "note": "1942（B354）"
+    },
+    {
+      "title": "日复一日",
+      "note": "（B354：Giorno dopo giorno (1947)——中译名待核）"
+    }
+  ],
+  "style": [
+    "隐逸派：'干涩、精微的风格与晦涩的象征'（B354）。",
+    "战后转向：'语言朴素、意象具体直接'（B354）。",
+    "翻译家：希腊抒情诗/悲剧、莎士比亚（B354）。"
+  ],
+  "status": "Britannica 定位夸西莫多为1959年诺奖得主、隐逸派领袖→战后社会诗人（B354）。",
+  "sources": [
+    "B354"
+  ],
+  "dates_source": "B354",
+  "pending": [
+    "Ed è subito sera 通行译名（《瞬息间是夜晚》）待核。",
+    "'Lé quá'等篇目未载——不采。",
+    "1959诺奖授奖词待核。"
+  ]
+}

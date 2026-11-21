@@ -1,0 +1,105 @@
+{
+  "id": "xuehun",
+  "title": "血婚",
+  "original_title": "Bodas de sangre",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "20世纪30年代初",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "西班牙语",
+  "author_id": "lorca",
+  "author_name": "费德里科·加西亚·洛尔卡",
+  "year_display": "1933年（Britannica B355：Bodas de sangre (1933)）",
+  "year_sort": 1933,
+  "background": [
+    "Britannica（B355）：Bodas de sangre——洛尔卡民间悲剧三部曲之一（与 Yerma 1934、La casa de Bernarda Alba 1936 并列——B355 作品列表）。",
+    "Britannica（B355）：洛尔卡帮助开启了西班牙戏剧'second Golden Age'。",
+    "题材（通说待核）：婚礼当夜新娘与旧爱私奔——血缘与激情的死亡追逐。"
+  ],
+  "outline": [
+    "婚礼与私奔：两个男人与一个女人（情节通说待核——B355未载）。",
+    "月亮与乞妇的插场（超自然插场说通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "新娘",
+      "identity": "三部曲女性",
+      "note": "（通说待核，B355未载名）"
+    },
+    {
+      "name": "莱昂纳多",
+      "identity": "旧爱",
+      "note": "（通说待核，B355未载）"
+    }
+  ],
+  "themes": [
+    "激情与婚姻制度的冲突（通说待核）。",
+    "民间悲剧的现代形式（B355：second Golden Age 语境）。",
+    "安达卢西亚的宿命观（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the most important Spanish poet and playwright of the 20th century'（B355）。",
+      "source": "B355"
+    },
+    {
+      "text": "Britannica：西班牙戏剧'second Golden Age'（B355）。",
+      "source": "B355"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西班牙民间悲剧传统。",
+      "歌队与超自然插场（通说待核）。"
+    ],
+    "editions": [
+      "《血婚》中译本（人民文学《洛尔卡戏剧集》等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "洛尔卡戏剧首选；三部曲连读。"
+  },
+  "pending": [
+    "莱昂纳多/母亲人名核对（B355未载）。",
+    "1933年首演细节待核。",
+    "月亮/乞妇插场细节待核。"
+  ],
+  "sources": [
+    "B355"
+  ],
+  "year_source": "B355",
+  "author_source": "B355",
+  "related_works": [
+    "leiyu",
+    "yuwanghaojieche",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《血婚》悲剧三角图",
+    "cards": [
+      {
+        "title": "新娘",
+        "text": "婚姻与激情（通说）",
+        "color": "main"
+      },
+      {
+        "title": "旧爱",
+        "text": "血的冲动（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "新郎",
+        "text": "制度的一方（通说）",
+        "color": "family"
+      },
+      {
+        "title": "月亮",
+        "text": "超自然插场（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

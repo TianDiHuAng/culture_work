@@ -1,0 +1,100 @@
+{
+  "id": "shunxijiandeyewan",
+  "title": "瞬息间是夜晚",
+  "original_title": "Ed è subito sera",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪40年代初",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "quasimodo",
+  "author_name": "萨瓦多尔·夸西莫多",
+  "year_display": "1942年（Britannica B354：Ed è subito sera (1942; And Suddenly Its Evening)——隐逸期收束）",
+  "year_sort": 1942,
+  "background": [
+    "Britannica（B354）：Ed è subito sera——隐逸期终于 Poesie (1938) 与本集（1942）。",
+    "Britannica（B354）：夸西莫多师从翁加雷蒂与蒙塔莱起步；'gradually became a leader of the Hermetic poets'；1930年代'the dry, sophisticated style and abstruse symbolism of Hermeticism'。",
+    "Britannica（B354）：战后转向——Giorno dopo giorno (1947)——'Many of his poems recalled the injustices of the fascist regime, the horrors of the war, and Italian guilt.'"
+  ],
+  "outline": [
+    "西西里乡村的哀歌：'每个人孤独地站在世界的心上'（名句通说待核——B354未载原文）。",
+    "干涩精微的隐逸语体（B354：dry, sophisticated style and abstruse symbolism）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "隐逸诗人",
+      "note": "（B354 语系）"
+    }
+  ],
+  "themes": [
+    "隐逸派的晦涩象征（B354）。",
+    "西西里与流亡的心象（通说待核）。",
+    "战前的静默与战后的爆发（B354：转向语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1959年诺贝尔文学奖（B354）。",
+      "source": "B354"
+    },
+    {
+      "text": "Britannica：'Originally a leader of the Hermetic poets...'（B354）。",
+      "source": "B354"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "隐逸派的省略与浓缩。",
+      "西西里方言地名（通说待核）。"
+    ],
+    "editions": [
+      "《瞬息间是夜晚》中译本（人民文学/译林等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "夸西莫多首选；后接《日复一日》(1947)。"
+  },
+  "pending": [
+    "通行译名（《瞬息间是夜晚》/《而倏然已是黄昏》）待核。",
+    "名句原文核对（B354未载）。",
+    "1942年出版（Mondadori说）待核。"
+  ],
+  "sources": [
+    "B354"
+  ],
+  "year_source": "B354",
+  "author_source": "B354",
+  "related_works": [
+    "wuguigu",
+    "diyuzhiji",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《瞬息间是夜晚》隐逸结构图",
+    "cards": [
+      {
+        "title": "黄昏",
+        "text": "骤至的夜（B354书名）",
+        "color": "main"
+      },
+      {
+        "title": "隐逸派",
+        "text": "干涩精微的象征（B354）",
+        "color": "gold"
+      },
+      {
+        "title": "西西里",
+        "text": "乡村的哀歌（通说）",
+        "color": "family"
+      },
+      {
+        "title": "战后",
+        "text": "转向社会的诗（B354）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

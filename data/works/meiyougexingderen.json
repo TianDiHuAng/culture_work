@@ -1,0 +1,105 @@
+{
+  "id": "meiyougexingderen",
+  "title": "没有个性的人",
+  "original_title": "Der Mann ohne Eigenschaften",
+  "region": "奥地利",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "长篇小说（未完成）",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "musil",
+  "author_name": "罗伯特·穆齐尔",
+  "year_display": "1930-43年（Britannica B353：Der Mann ohne Eigenschaften (1930-43)——第一部1930、第二部部分1933、遗稿1943）",
+  "year_sort": 1930,
+  "background": [
+    "Britannica（B353）：'monumental unfinished novel'——'a witty and urbane view of life in the glittering world of the Austro-Hungarian Empire, told from the viewpoint of Ulrich, a fictionalized Musil'。",
+    "Britannica（B353）：第一部1930年出版、第二部部分1933年、'a remaining portion was published posthumously in 1943'。",
+    "Britannica（B353）：穆齐尔一战服役、1938年流亡瑞士。"
+  ],
+  "outline": [
+    "乌尔里希——'虚构的穆齐尔'——在奥匈帝国浮华世界中的游历（B353：viewpoint of Ulrich）。",
+    "'平行行动'：帝国的自我庆典与乌托邦（情节通说待核——B353未载）。"
+  ],
+  "characters": [
+    {
+      "name": "乌尔里希",
+      "identity": "主角/试验者",
+      "note": "（B353：Ulrich, a fictionalized Musil）"
+    },
+    {
+      "name": "阿加特",
+      "identity": "第二部人物",
+      "note": "（通说待核，B353未载）"
+    }
+  ],
+  "themes": [
+    "'没有个性'：对人格概念的拆解（通说待核）。",
+    "奥匈帝国的浮华与虚无（B353：glittering world）。",
+    "试验生活（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'monumental unfinished novel'（B353）。",
+      "source": "B353"
+    },
+    {
+      "text": "Britannica：1943年遗稿出版（B353）。",
+      "source": "B353"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "未完成的开放结构。",
+      "1913年前后奥匈史与'平行行动'（通说待核）。"
+    ],
+    "editions": [
+      "《没有个性的人》中译本（人民文学等——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "穆齐尔唯一巨著；分部慢读。"
+  },
+  "pending": [
+    "'平行行动'（Parallelaktion）细节核对（B353未载）。",
+    "阿加特/克拉丽瑟人名核对（B353未载）。",
+    "中译本分卷（第一部/第二部）细节待核。"
+  ],
+  "sources": [
+    "B353"
+  ],
+  "year_source": "B353",
+  "author_source": "B353",
+  "related_works": [
+    "zenodeyishi",
+    "yigewushiwan",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《没有个性的人》帝国浮华图",
+    "cards": [
+      {
+        "title": "乌尔里希",
+        "text": "'虚构的穆齐尔'（B353）",
+        "color": "main"
+      },
+      {
+        "title": "奥匈帝国",
+        "text": "浮华的世界（B353）",
+        "color": "gold"
+      },
+      {
+        "title": "'没有个性'",
+        "text": "人格的拆解（通说）",
+        "color": "family"
+      },
+      {
+        "title": "未完成",
+        "text": "1930-43（B353）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

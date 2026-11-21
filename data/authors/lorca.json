@@ -1,0 +1,67 @@
+{
+  "id": "lorca",
+  "name": "费德里科·加西亚·洛尔卡",
+  "foreign_name": "Federico García Lorca（费德里科·加西亚·洛尔卡，1898-06-05—1936-08-18/19）",
+  "country": "西班牙",
+  "birth": 1898,
+  "death": 1936,
+  "birth_year": 1898,
+  "death_year": 1936,
+  "era": "近代",
+  "summary": "洛尔卡，格拉纳达省Fuente Vaqueros生，西班牙诗人与剧作家——'the most important Spanish poet and playwright of the 20th century'（20世纪最重要的西班牙诗人与剧作家——B355），开启了西班牙戏剧'second Golden Age'（B355）。Romancero gitano（吉普赛谣曲, 1928）——18首谣曲，'sold out within a year; many readers mistook Lorca for a Gypsy'（B355）。Bodas de sangre（血婚, 1933）、Yerma (1934)、La casa de Bernarda Alba (1936)（B355）。1927年与阿尔贝蒂等纪念贡戈拉逝世300周年——'Generation of 1927'（B355）。1936年8月16日被国民军逮捕、未经审判——'driven to a remote hillside outside town and shot'（B355）——国民军'abhorred his homosexuality and his liberal views'（B355）。",
+  "timeline": [
+    {
+      "year": 1898,
+      "text": "6月5日生于格拉纳达省Fuente Vaqueros（B355）。",
+      "src": "B355"
+    },
+    {
+      "year": 1928,
+      "text": "Romancero gitano——18首谣曲，一年内售罄（B355）。",
+      "src": "B355"
+    },
+    {
+      "year": 1933,
+      "text": "Bodas de sangre（血婚）（B355）。",
+      "src": "B355"
+    },
+    {
+      "year": 1936,
+      "text": "8月16日被捕，18/19日在Víznar与Alfacar之间被枪杀（B355）。",
+      "src": "B355"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jipusaiyaoqu",
+      "note": "1928（B355）"
+    },
+    {
+      "work_id": "xuehun",
+      "note": "1933（B355）"
+    },
+    {
+      "title": "叶尔玛",
+      "note": "（B355：Yerma (1934)）"
+    },
+    {
+      "title": "贝尔纳达·阿尔巴的家",
+      "note": "（B355：La casa de Bernarda Alba (1936)）"
+    }
+  ],
+  "style": [
+    "安达卢西亚谣曲传统与先锋并置（B355：Romancero gitano 语系）。",
+    "'深歌'诗学（B355：Poema del cante jondo, 1921-25写/1931出版）。",
+    "民间悲剧三部曲（B355：血婚/叶尔玛/阿尔巴之家）。"
+  ],
+  "status": "Britannica 定位洛尔卡为20世纪最重要的西班牙诗人剧作家、'27一代'核心、1936年被杀（B355）。",
+  "sources": [
+    "B355"
+  ],
+  "dates_source": "B355",
+  "pending": [
+    "卒日两说（8月18/19——B355 口径）保留待核。",
+    "Poet in New York 出版年（1940死后说）待核。",
+    "'27一代'成员名单核对（B355载Alberti/Guillén/Salinas）。"
+  ]
+}

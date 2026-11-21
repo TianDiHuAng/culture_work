@@ -1,0 +1,100 @@
+{
+  "id": "jipusaiyaoqu",
+  "title": "吉普赛谣曲",
+  "original_title": "Romancero gitano",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "lorca",
+  "author_name": "费德里科·加西亚·洛尔卡",
+  "year_display": "1928年（Britannica B355：Romancero gitano——1921-27年写、1928年出版——18首谣曲）",
+  "year_sort": 1928,
+  "background": [
+    "Britannica（B355）：18首谣曲——'sold out within a year; many readers mistook Lorca for a Gypsy'（一年内售罄；许多读者误以为洛尔卡是吉普赛人）。",
+    "Britannica（B355）：洛尔卡——'the most important Spanish poet and playwright of the 20th century'。",
+    "Britannica（B355）：1927年纪念贡戈拉逝世300周年的群体——此后被称为'Generation of 1927'。"
+  ],
+  "outline": [
+    "谣曲体（romance传统）与现代意象的融合：月光、吉普赛、血与刀（B355 语系——具体篇目通说待核）。",
+    "《月亮，月亮》等篇目（篇名通说待核——B355未载）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "谣曲叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "安达卢西亚民间谣曲的现代化（B355 语系）。",
+    "吉普赛世界的边缘与暴力（B355：读者误认语境）。",
+    "贡戈拉传统的再创造（B355：Generation of 1927）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：一年内售罄——洛尔卡成名（B355）。",
+      "source": "B355"
+    },
+    {
+      "text": "Britannica：'27一代'的确立（B355）。",
+      "source": "B355"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西班牙谣曲格律（romance 八音节体——通说待核）。",
+      "安达卢西亚意象系统。"
+    ],
+    "editions": [
+      "《吉普赛谣曲》中译本（人民文学/上海译文等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "洛尔卡诗歌首选；后接《诗人在纽约》。"
+  },
+  "pending": [
+    "具体篇目（月/风/普雷希奥萨等）核对（B355未载）。",
+    "1928年出版（Revista de Occidente说）待核。",
+    "'误认为吉普赛人'细节仅 B355 口径。"
+  ],
+  "sources": [
+    "B355"
+  ],
+  "year_source": "B355",
+  "author_source": "B355",
+  "related_works": [
+    "diyuzhiji",
+    "leiyu",
+    "huangliang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吉普赛谣曲》安达卢西亚图",
+    "cards": [
+      {
+        "title": "谣曲",
+        "text": "民间体的现代转化（B355）",
+        "color": "main"
+      },
+      {
+        "title": "月光",
+        "text": "安达卢西亚意象（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "吉普赛",
+        "text": "边缘的世界（B355）",
+        "color": "family"
+      },
+      {
+        "title": "'27一代",
+        "text": "贡戈拉的传统（B355）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
