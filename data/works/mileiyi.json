@@ -1,0 +1,105 @@
+{
+  "id": "mileiyi",
+  "title": "米蕾伊",
+  "original_title": "Mirèio",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪50年代末",
+  "genre": "长篇叙事诗（12歌）",
+  "genre_group": "诗歌",
+  "language": "奥克语（普罗旺斯语）",
+  "author_id": "fmistral",
+  "author_name": "弗雷德里克·米斯特拉尔",
+  "year_display": "1859年（Britannica B362：Mirèio (1859)——'his claim to greatness rests on his first and last long poems'）",
+  "year_sort": 1859,
+  "background": [
+    "Britannica（B362）：Mirèio——富农场主之女爱上穷编篮匠之子，被父母阻挠——'ends with her death in the Church of Les Saintes-Maries-de-la-Mer'。",
+    "Britannica（B362）：'skillfully combines narration, dialogue, description, and lyricism'——'springy, musical quality of its highly individual stanzaic form'。",
+    "Britannica（B362）：以法文题《Mireille》启发了古诺的歌剧（1863）。"
+  ],
+  "outline": [
+    "米蕾伊与樊尚的爱情受阻（B362：love...thwarted by her parents；人名通说待核）。",
+    "圣马利海岸教堂的朝圣与死亡（B362：ends with her death in the Church of Les Saintes-Maries-de-la-Mer）。"
+  ],
+  "characters": [
+    {
+      "name": "米蕾伊",
+      "identity": "农场主之女",
+      "note": "（B362 书名人物）"
+    },
+    {
+      "name": "樊尚",
+      "identity": "编篮匠之子",
+      "note": "（B362：a poor basketmaker's son——名通说待核）"
+    }
+  ],
+  "themes": [
+    "乡土史诗（B362：set in the poet's own time and district）。",
+    "爱情与门第（B362：thwarted by her parents）。",
+    "普罗旺斯风物的百科（B362：poured his love for the countryside）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：古诺歌剧 Mireille (1863)（B362）。",
+      "source": "B362"
+    },
+    {
+      "text": "Britannica：1904诺奖（B362 交叉）。",
+      "source": "B362"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "奥克语文本（读译本）。",
+      "普罗旺斯民俗与圣马利朝圣。"
+    ],
+    "editions": [
+      "《米蕾伊》中译名（《米瑞伊》）待核。",
+      "奥克语原版（公有领域）。"
+    ],
+    "order": "米斯特拉尔首选；与《罗讷河之歌》对读。"
+  },
+  "pending": [
+    "人名（米蕾伊/樊尚——樊尚说待核）核对。",
+    "1859年出版细节待核。",
+    "12歌结构核对（B362：full-scale epics in 12 cantos）。"
+  ],
+  "sources": [
+    "B362"
+  ],
+  "year_source": "B362",
+  "author_source": "B362",
+  "related_works": [
+    "xinnuofusuobaken",
+    "mengya",
+    "chengfaji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《米蕾伊》乡土史诗图",
+    "cards": [
+      {
+        "title": "米蕾伊",
+        "text": "农场主之女（B362）",
+        "color": "main"
+      },
+      {
+        "title": "樊尚",
+        "text": "编篮匠之子（B362）",
+        "color": "gold"
+      },
+      {
+        "title": "门第",
+        "text": "父母的阻挠（B362）",
+        "color": "antagonist"
+      },
+      {
+        "title": "圣马利",
+        "text": "朝圣与死亡（B362）",
+        "color": "family"
+      }
+    ]
+  }
+}

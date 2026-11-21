@@ -1,0 +1,68 @@
+{
+  "id": "fmistral",
+  "name": "弗雷德里克·米斯特拉尔",
+  "foreign_name": "Frédéric Mistral（弗雷德里克·米斯特拉尔，1830-09-08—1914-03-25）",
+  "country": "法国",
+  "birth": 1830,
+  "death": 1914,
+  "birth_year": 1830,
+  "death_year": 1914,
+  "era": "近代",
+  "summary": "米斯特拉尔，法国Maillane生，普罗旺斯语诗人——1904年诺贝尔文学奖（与埃切加赖分享——'for his contributions in literature and philology'——B362）。领导19世纪奥克语复兴：1854年创 Félibrige——'an association for the maintenance of the Provençal language and customs'（B362）；20年编普罗旺斯语大词典 Lou Tresor dóu Félibrige (1878)（B362）。Mirèio（米蕾伊, 1859）——富农场主之女与穷编篮匠之子的爱情悲剧——'skillfully combines narration, dialogue, description, and lyricism'（B362）；Lou Pouèmo dóu Rose（罗讷河之歌, 1897）——两首12歌史诗为其伟大之凭（B362）。'considered one of the greatest poets of France'（B362）。",
+  "timeline": [
+    {
+      "year": 1830,
+      "text": "9月8日生于法国Maillane（B362）。",
+      "src": "B362"
+    },
+    {
+      "year": 1854,
+      "text": "与友人创立 Félibrige（B362）。",
+      "src": "B362"
+    },
+    {
+      "year": 1859,
+      "text": "Mirèio（米蕾伊）——成名史诗（B362）。",
+      "src": "B362"
+    },
+    {
+      "year": 1904,
+      "text": "获诺贝尔文学奖（与埃切加赖分享）（B362）。",
+      "src": "B362"
+    },
+    {
+      "year": 1914,
+      "text": "3月25日卒于Maillane（B362）。",
+      "src": "B362"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "mileiyi",
+      "note": "1859（B362）"
+    },
+    {
+      "title": "罗讷河之歌",
+      "note": "（B362：Lou Pouèmo dóu Rose (1897)——中译名待核）"
+    },
+    {
+      "title": "米斯特拉尔回忆录",
+      "note": "（B362：Moun espelido (1906)——'his best-known work'）"
+    }
+  ],
+  "style": [
+    "奥克语（普罗旺斯语）的复兴书写（B362）。",
+    "'springy, musical quality'的独创诗节（B362）。",
+    "乡土史诗：把家乡倾入诗中（B362：poured his love for the countryside）。"
+  ],
+  "status": "Britannica 定位米斯特拉尔为1904诺奖得主、奥克语复兴的领袖、法国最伟大的诗人之一（B362）。",
+  "sources": [
+    "B362"
+  ],
+  "dates_source": "B362",
+  "pending": [
+    "Mirèio 通行译名（《米蕾伊》/《米瑞伊》）待核。",
+    "与加·米斯特拉尔（Gabriela）无亲属关系——笔名借用说的关系待核。",
+    "Félibrige 后续史待核。"
+  ]
+}

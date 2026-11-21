@@ -1,0 +1,73 @@
+{
+  "id": "mommsen",
+  "name": "特奥多尔·蒙森",
+  "foreign_name": "Theodor Mommsen（特奥多尔·蒙森，1817-11-30—1903-11-01）",
+  "country": "德国",
+  "birth": 1817,
+  "death": 1903,
+  "birth_year": 1817,
+  "death_year": 1903,
+  "era": "近代",
+  "summary": "蒙森，石勒苏益格Garding生，德国历史学家——1902年诺贝尔文学奖（B363）。Römische Geschichte（罗马史）前三卷1854-56年出版——'embodied the new historical method applied to the history of Rome'（B363）；第五卷(1885)写帝国行省史——'No one but Mommsen could have depicted this period in so authoritative a manner'（B363）。主持拉丁铭文集成 Corpus Inscriptionum Latinarum (1863年起)（B363）。'he was an artist...he used the means of poetry and enjoyed exercising his poetic talent'（B363）。Römisches Staatsrecht 三卷 (1871-88)——'if he were to be remembered by anything, it would be by this work'（B363）。",
+  "timeline": [
+    {
+      "year": 1817,
+      "text": "11月30日生于石勒苏益格Garding（B363）。",
+      "src": "B363"
+    },
+    {
+      "year": 1854,
+      "text": "《罗马史》前三卷出版（1854-56）（B363）。",
+      "src": "B363"
+    },
+    {
+      "year": 1858,
+      "text": "入普鲁士科学院、柏林大学任教（B363）。",
+      "src": "B363"
+    },
+    {
+      "year": 1885,
+      "text": "《罗马史》第五卷——帝国行省史（B363）。",
+      "src": "B363"
+    },
+    {
+      "year": 1902,
+      "text": "获诺贝尔文学奖（B363）。",
+      "src": "B363"
+    },
+    {
+      "year": 1903,
+      "text": "11月1日卒于夏洛滕堡（B363）。",
+      "src": "B363"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "luomashi",
+      "note": "1854-56/1885（B363）"
+    },
+    {
+      "title": "罗马公法",
+      "note": "（B363：Römisches Staatsrecht (1871-88)三卷——中译名待核）"
+    },
+    {
+      "title": "拉丁铭文集成",
+      "note": "（B363：Corpus Inscriptionum Latinarum，1863年起——主持）"
+    }
+  ],
+  "style": [
+    "'把古代人从奥林匹斯山请下人间'（B363：come down to earth——转述）。",
+    "19世纪政治社会学词汇写古代（B363）。",
+    "艺术家式的历史文体（B363：he was an artist...means of poetry）。"
+  ],
+  "status": "Britannica 定位蒙森为1902诺奖得主、《罗马史》为其杰作、铭文学宗师（B363）。",
+  "sources": [
+    "B363"
+  ],
+  "dates_source": "B363",
+  "pending": [
+    "《罗马史》通行译本（商务印书馆李稼年译本说）待核。",
+    "'caesarism'之讥细节待核。",
+    "诺奖授奖理由（史学家的文学奖）细节待核。"
+  ]
+}

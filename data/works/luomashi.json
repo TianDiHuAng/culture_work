@@ -1,0 +1,105 @@
+{
+  "id": "luomashi",
+  "title": "罗马史",
+  "original_title": "Römische Geschichte",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪50-80年代",
+  "genre": "史学著作",
+  "genre_group": "散文",
+  "language": "德语",
+  "author_id": "mommsen",
+  "author_name": "特奥多尔·蒙森",
+  "year_display": "1854-56/1885年（Britannica B363：前三卷1854-56——第五卷1885）",
+  "year_sort": 1854,
+  "background": [
+    "Britannica（B363）：'famous for his masterpiece, Römische Geschichte (The History of Rome)'——前三卷1854-56——第五卷(1885)帝国行省史——'No one but Mommsen could have depicted this period in so authoritative a manner'。",
+    "Britannica（B363）：'embodied the new historical method'——批判地审视传统、拒绝启蒙派对古典时代的理想化。",
+    "Britannica（B363）：'he used the means of poetry and enjoyed exercising his poetic talent'——蒙森的文体艺术。"
+  ],
+  "outline": [
+    "共和国史（前三卷，至塔普苏斯战役46 BC——B363）。",
+    "帝国行省史（第五卷，1885——B363）；第四卷（皇帝史）未写——'he felt that he would not be capable of writing it in the same brilliant style'（B363）。"
+  ],
+  "characters": [
+    {
+      "name": "恺撒",
+      "identity": "被推崇的独裁者",
+      "note": "（B363：glorification of the dictator Caesar）"
+    },
+    {
+      "name": "西塞罗/庞培",
+      "identity": "被贬低的对手",
+      "note": "（B363：disparagement）"
+    }
+  ],
+  "themes": [
+    "新史学方法（B363：critical examination of traditions）。",
+    "'去神话化'的罗马史（B363：demythologizing Roman history）。",
+    "对恺撒的推崇与自由主义的张力（B363）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1902年诺贝尔文学奖（B363）。",
+      "source": "B363"
+    },
+    {
+      "text": "Britannica：铭文集成作为学术丰碑（B363 交叉）。",
+      "source": "B363"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "罗马共和政治制度。",
+      "19世纪史学方法的语境。"
+    ],
+    "editions": [
+      "《罗马史》中译本（商务印书馆等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "史学类首选之一；配合《罗马十二帝王传》等古典著作阅读。"
+  },
+  "pending": [
+    "中译本细节核对。",
+    "第四卷未写的细节（B363已载）。",
+    "'squirearchy and the cloth'译法待核。"
+  ],
+  "sources": [
+    "B363"
+  ],
+  "year_source": "B363",
+  "author_source": "B363",
+  "related_works": [
+    "yemanli",
+    "fushide",
+    "luoting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《罗马史》新史学结构图",
+    "cards": [
+      {
+        "title": "罗马共和国",
+        "text": "前三卷的舞台（B363）",
+        "color": "main"
+      },
+      {
+        "title": "铭文",
+        "text": "非文学史料（B363）",
+        "color": "gold"
+      },
+      {
+        "title": "恺撒",
+        "text": "推崇与争议（B363）",
+        "color": "antagonist"
+      },
+      {
+        "title": "文体",
+        "text": "'诗的手段'（B363）",
+        "color": "family"
+      }
+    ]
+  }
+}
