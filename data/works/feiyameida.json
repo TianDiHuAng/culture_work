@@ -1,0 +1,105 @@
+{
+  "id": "feiyameida",
+  "title": "菲亚美达的哀歌",
+  "original_title": "Elegia di Madonna Fiammetta",
+  "region": "意大利",
+  "era": "古代",
+  "era_detail": "14世纪40年代",
+  "genre": "散文爱情独白",
+  "genre_group": "散文",
+  "language": "意大利语（俗语）",
+  "author_id": "boccaccio",
+  "author_name": "乔万尼·薄伽丘",
+  "year_display": "作者页注记：Britannica 列举——菲亚美达的哀歌（俗语作品——年份通说待核）",
+  "year_sort": 1343,
+  "background": [
+    "作者页注记：菲亚美达的哀歌、科尔巴乔——'俗语作品（Britannica 列举）'。",
+    "Britannica：薄伽丘——《十日谈》作者（作者页交叉）。",
+    "题材（通说待核）：菲亚美达被帕姆皮诺抛弃的独白——'原型心理小说'说。"
+  ],
+  "outline": [
+    "（通说待核）被弃女子的九日独白。",
+    "（通说待核）'疯狂'与'理智'的争辩。"
+  ],
+  "characters": [
+    {
+      "name": "菲亚美达",
+      "identity": "独白者",
+      "note": "（B注记：Madonna Fiammetta）"
+    },
+    {
+      "name": "帕姆皮诺",
+      "identity": "负心人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "被弃女性的内心（通说待核）。",
+    "'俗语作品'（B注记）。",
+    "《十日谈》人物的重用（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'俗语作品'（作者页注记）。",
+      "source": "B031"
+    },
+    {
+      "text": "Britannica：《十日谈》为代表作（作者页交叉）。",
+      "source": "B031"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "早期意大利语。",
+      "'独白'的文体源流。"
+    ],
+    "editions": [
+      "《菲亚美达的哀歌》中译名（《菲亚美达的哀歌/疯女哀歌》）待核。",
+      "意大利文原版（公有领域）。"
+    ],
+    "order": "薄伽丘俗语作品；与《十日谈》《名女传》对读。"
+  },
+  "pending": [
+    "1343-44年写作年份待核。",
+    "菲亚美达/帕姆皮诺人名核对（通说）。",
+    "'心理小说原型'评价待核。"
+  ],
+  "sources": [
+    "B031"
+  ],
+  "year_source": "B031",
+  "author_source": "B031",
+  "related_works": [
+    "shiritan",
+    "mingnuzhuan",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《菲亚美达的哀歌》独白结构图",
+    "cards": [
+      {
+        "title": "菲亚美达",
+        "text": "被弃的独白（通说）",
+        "color": "main"
+      },
+      {
+        "title": "疯狂",
+        "text": "理智的争辩（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "俗语",
+        "text": "意大利语的写作（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "哀歌",
+        "text": "女性的声音（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

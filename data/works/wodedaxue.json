@@ -1,0 +1,105 @@
+{
+  "id": "wodedaxue",
+  "title": "我的大学",
+  "original_title": "Мои университеты",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "自传小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "gorky",
+  "author_name": "马克西姆·高尔基",
+  "year_display": "作者页注记：Britannica——自传三部曲（年份通说待核——1923说）",
+  "year_sort": 1923,
+  "background": [
+    "作者页注记：童年/在人间/我的大学——'自传三部曲（Britannica：one of the finest autobiographies in Russian literature）'。",
+    "Britannica：高尔基——俄国作家（作者页语境）。",
+    "题材（通说待核）：喀山的'大学'——贫民窟与面包房的'人民大学'。"
+  ],
+  "outline": [
+    "（通说待核）喀山岁月：革命小组与面包房。",
+    "（通说待核）'我的大学'：没有围墙的大学。"
+  ],
+  "characters": [
+    {
+      "name": "阿列克谢",
+      "identity": "青年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "革命者",
+      "identity": "思想的朋友",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'社会大学'的完成（书名语境——通说待核）。",
+    "自传三部曲之三（B注记）。",
+    "革命思想的萌芽（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of the finest autobiographies in Russian literature'（作者页注记）。",
+      "source": "B259"
+    },
+    {
+      "text": "Britannica：三部曲（作者页注记）。",
+      "source": "B259"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部曲的顺序。",
+      "喀山革命小组语境。"
+    ],
+    "editions": [
+      "《我的大学》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域状态待核）。"
+    ],
+    "order": "三部曲之三；承接《在人间》。"
+  },
+  "pending": [
+    "1923年出版细节待核。",
+    "'革命小组'细节待核。",
+    "三部曲年份口径核对。"
+  ],
+  "sources": [
+    "B259"
+  ],
+  "year_source": "B259",
+  "author_source": "B259",
+  "related_works": [
+    "tongnian",
+    "zaihuang",
+    "zaidiceng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我的大学》无墙大学图",
+    "cards": [
+      {
+        "title": "喀山",
+        "text": "'大学'的课堂（通说）",
+        "color": "main"
+      },
+      {
+        "title": "面包房",
+        "text": "劳动的学院（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "思想",
+        "text": "革命的萌芽（通说）",
+        "color": "family"
+      },
+      {
+        "title": "三部曲",
+        "text": "B注记的位置",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

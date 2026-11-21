@@ -1,0 +1,100 @@
+{
+  "id": "shaoniandeyizhi",
+  "title": "少年的意志",
+  "original_title": "A Boy's Will",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "frost",
+  "author_name": "罗伯特·弗罗斯特",
+  "year_display": "1913年（作者页注记：Britannica——少年的意志 (1913)——伦敦成名作之第一部）",
+  "year_sort": 1913,
+  "background": [
+    "作者页注记：少年的意志 (1913)、波士顿以北 (1914)——'伦敦成名作（Britannica）'。",
+    "Britannica：弗罗斯特——美国诗人（作者页交叉）。",
+    "题材（通说待核）：首部诗集——抒情短诗与新英格兰自然。"
+  ],
+  "outline": [
+    "（通说待核）三十余首抒情诗：雪、花与'流浪'。",
+    "（通说待核）'来到欧洲'之前的美国诗集（1913伦敦出版说）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "青年诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'伦敦成名'的起点（B注记）。",
+    "抒情与叙事的分工（与《波士顿以北》对照——通说待核）。",
+    "新英格兰自然（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'伦敦成名作'（作者页注记）。",
+      "source": "B154"
+    },
+    {
+      "text": "Britannica：弗罗斯特四度普利策说待核（作者页交叉）。",
+      "source": "B154"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "抒情短诗的语调。",
+      "'牧草坡'意象（通说待核）。"
+    ],
+    "editions": [
+      "《少年的意志》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "弗罗斯特首部诗集；后接《波士顿以北》。"
+  },
+  "pending": [
+    "1913年伦敦出版（David Nutt说）待核。",
+    "篇目核对（通说）。",
+    "《到来》（Coming）等篇待核。"
+  ],
+  "sources": [
+    "B154"
+  ],
+  "year_source": "B154",
+  "author_source": "B154",
+  "related_works": [
+    "bosidunyibei",
+    "zhijiage",
+    "caoyeji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《少年的意志》起点图",
+    "cards": [
+      {
+        "title": "少年",
+        "text": "'意志'的开端（书名）",
+        "color": "main"
+      },
+      {
+        "title": "伦敦",
+        "text": "出版的起点（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "抒情",
+        "text": "短诗的雪原（通说）",
+        "color": "family"
+      },
+      {
+        "title": "自然",
+        "text": "新英格兰（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
