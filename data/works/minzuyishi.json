@@ -1,0 +1,100 @@
+{
+  "id": "minzuyishi",
+  "title": "民族轶事",
+  "original_title": "Episodios nacionales",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "19世纪70年代—20世纪初",
+  "genre": "历史小说系列（46部）",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "galdos",
+  "author_name": "贝尼托·佩雷斯·加尔多斯",
+  "year_display": "1873-1912年（Britannica B370：Episodios nacionales——46-novel historical series covering 1805-1874）",
+  "year_sort": 1873,
+  "background": [
+    "Britannica（B370）：'innovatively recreated Spain's 19th-century history'——46部系列覆盖1805-1874。",
+    "Britannica（B370）：加尔多斯——'the greatest Spanish novelist since Cervantes'。",
+    "题材（通说待核）：从特拉法尔加到王政复现——西班牙19世纪的编年。"
+  ],
+  "outline": [
+    "（通说待核）五个系列的分期（通说待核）。",
+    "（通说待核）'萨尔瓦多·蒙萨尔维'等贯穿人物。"
+  ],
+  "characters": [
+    {
+      "name": "蒙萨尔维",
+      "identity": "贯穿人物",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'民族轶事'：历史的小说化（B370）。",
+    "西班牙19世纪的编年（B370：1805-1874）。",
+    "巴尔扎克式的人物复现（B370 对照）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：46-novel series（B370）。",
+      "source": "B370"
+    },
+    {
+      "text": "Britannica：'recreated Spain's 19th-century history'（B370）。",
+      "source": "B370"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "46部的体量。",
+      "西班牙编年史（通说待核）。"
+    ],
+    "editions": [
+      "《民族轶事》中译名（《国民轶事》）待核。",
+      "西班牙文原版（公有领域）。"
+    ],
+    "order": "加尔多斯历史篇；选读首尾各两部。"
+  },
+  "pending": [
+    "46部书单核对（通说）。",
+    "'贯穿人物'说待核。",
+    "1873年首部（La batalla de los Arapiles说）待核。"
+  ],
+  "sources": [
+    "B370"
+  ],
+  "year_source": "B370",
+  "author_source": "B370",
+  "related_works": [
+    "fortunata",
+    "nongmin",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《民族轶事》编年结构图",
+    "cards": [
+      {
+        "title": "46部",
+        "text": "西班牙的编年（B370）",
+        "color": "main"
+      },
+      {
+        "title": "历史",
+        "text": "1805-1874（B370）",
+        "color": "gold"
+      },
+      {
+        "title": "轶事",
+        "text": "个人的入口（书名）",
+        "color": "family"
+      },
+      {
+        "title": "现实",
+        "text": "小说的化用（B370）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "xuanlvyuduwei",
+  "title": "旋律与对位",
+  "original_title": "Point Counter Point",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "20世纪20年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "huxley",
+  "author_name": "阿道司·赫胥黎",
+  "year_display": "1928年（作者页注记：Britannica 列举——旋律与对位 (1928)）",
+  "year_sort": 1928,
+  "background": [
+    "作者页注记：旋律与对位 (1928)、加数加 (1936)——'小说（Britannica 列举）'。",
+    "Britannica：赫胥黎——《美丽新世界》作者（作者页交叉）。",
+    "题材（通说待核）：多线人物的'对位'——音乐化的小说结构。"
+  ],
+  "outline": [
+    "（通说待核）伦敦知识圈的群像：菲利普·夸尔斯的'音乐化'小说理论。",
+    "（通说待核）'对位'：情节的复调。"
+  ],
+  "characters": [
+    {
+      "name": "菲利普·夸尔斯",
+      "identity": "小说家",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "莫兰德",
+      "identity": "漫画家",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'对位法'的小说结构（书名语境——通说待核）。",
+    "知识圈的讽刺（通说待核）。",
+    "'小说中的小说'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Point Counter Point (1928)（作者页注记）。",
+      "source": "B126"
+    },
+    {
+      "text": "Britannica：《美丽新世界》为代表作（作者页交叉）。",
+      "source": "B126"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多线复调。",
+      "1920年代英国知识圈。"
+    ],
+    "editions": [
+      "《旋律与对位》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "赫胥黎现实主义篇；与《美丽新世界》对读。"
+  },
+  "pending": [
+    "夸尔斯/莫兰德人名核对（通说）。",
+    "1928年出版细节待核。",
+    "'音乐化'结构说法待核。"
+  ],
+  "sources": [
+    "B126"
+  ],
+  "year_source": "B126",
+  "author_source": "B126",
+  "related_works": [
+    "leiyu",
+    "meiguobuqu",
+    "weite"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《旋律与对位》复调结构图",
+    "cards": [
+      {
+        "title": "对位",
+        "text": "复调的结构（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "群像",
+        "text": "知识圈的讽刺（通说）",
+        "color": "main"
+      },
+      {
+        "title": "小说中的小说",
+        "text": "元叙事（通说）",
+        "color": "family"
+      },
+      {
+        "title": "1928",
+        "text": "B注记之年",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

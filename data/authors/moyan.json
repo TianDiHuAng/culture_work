@@ -10,20 +10,65 @@
   "era": "现当代",
   "summary": "莫言，原名管谟业，山东高密人，2012年诺贝尔文学奖得主——第一位获此奖的中国籍作家。小学五年级辍学务农（文革），1976年参军，1981年起发表作品，1984—86年就读解放军艺术学院文学系（Britannica）。1986年《红高粱》引起轰动，1987年扩为《红高粱家族》；此后《丰乳肥臀》《檀香刑》《生死疲劳》《蛙》等接连问世。Britannica 称其风格为'充满激情的人文主义'（an impassioned humanism），自述受福克纳、乔伊斯与马尔克斯影响。",
   "timeline": [
-    {"year": "1955-03-05", "text": "生于山东高密东北乡一个农民家庭（Britannica：b. March 5, 1955, Gaomi, Shandong）。", "src": "B087"},
-    {"year": "1966前后", "text": "小学五年级辍学（文化大革命中，Britannica：dropped out of primary school in fifth grade during the Cultural Revolution），务农、放牛。", "src": "B087"},
-    {"year": "1973", "text": "进县棉花加工厂做工（Britannica：worked in a factory in 1973）。", "src": "B087"},
-    {"year": "1976", "text": "参军入伍（Britannica：joined the People's Liberation Army in 1976）。", "src": "B087"},
-    {"year": "1981—1986", "text": "1981年起发表小说（Britannica）；1984—86年入解放军艺术学院文学系（Britannica）；1985年《透明的红萝卜》引起关注（通说待核）。", "src": "B087"},
-    {"year": "1986—1987", "text": "《红高粱》发表于《人民文学》（1986，通说待核），翌年扩为《红高粱家族》；1987年张艺谋电影改编（Britannica：brought him fame, especially after its 1987 film adaptation）。", "src": "B087"},
-    {"year": "1990s—2000s", "text": "《酒国》（1992）《丰乳肥臀》（1995）《檀香刑》（2001）《生死疲劳》（2006）《蛙》（2009）等长篇密集问世（Britannica 列举）。", "src": "B087"},
-    {"year": "2012", "text": "获诺贝尔文学奖——'hallicunatory realism merges folk tales, history and the contemporary'（授奖词大意：幻想现实主义融合民间故事、历史与当代——瑞典学院授奖词通行译法，待核原文）。", "src": "B087"},
-    {"year": "2024", "text": "遭民族主义者起诉、指控其'歪曲中国历史'，政府未支持该主张（Britannica：faced a nationalist-backed lawsuit, though the government showed no sign of endorsing the claims）。", "src": "B087"}
+    {
+      "year": "1955-03-05",
+      "text": "生于山东高密东北乡一个农民家庭（Britannica：b. March 5, 1955, Gaomi, Shandong）。",
+      "src": "B087"
+    },
+    {
+      "year": "1966前后",
+      "text": "小学五年级辍学（文化大革命中，Britannica：dropped out of primary school in fifth grade during the Cultural Revolution），务农、放牛。",
+      "src": "B087"
+    },
+    {
+      "year": "1973",
+      "text": "进县棉花加工厂做工（Britannica：worked in a factory in 1973）。",
+      "src": "B087"
+    },
+    {
+      "year": "1976",
+      "text": "参军入伍（Britannica：joined the People's Liberation Army in 1976）。",
+      "src": "B087"
+    },
+    {
+      "year": "1981—1986",
+      "text": "1981年起发表小说（Britannica）；1984—86年入解放军艺术学院文学系（Britannica）；1985年《透明的红萝卜》引起关注（通说待核）。",
+      "src": "B087"
+    },
+    {
+      "year": "1986—1987",
+      "text": "《红高粱》发表于《人民文学》（1986，通说待核），翌年扩为《红高粱家族》；1987年张艺谋电影改编（Britannica：brought him fame, especially after its 1987 film adaptation）。",
+      "src": "B087"
+    },
+    {
+      "year": "1990s—2000s",
+      "text": "《酒国》（1992）《丰乳肥臀》（1995）《檀香刑》（2001）《生死疲劳》（2006）《蛙》（2009）等长篇密集问世（Britannica 列举）。",
+      "src": "B087"
+    },
+    {
+      "year": "2012",
+      "text": "获诺贝尔文学奖——'hallicunatory realism merges folk tales, history and the contemporary'（授奖词大意：幻想现实主义融合民间故事、历史与当代——瑞典学院授奖词通行译法，待核原文）。",
+      "src": "B087"
+    },
+    {
+      "year": "2024",
+      "text": "遭民族主义者起诉、指控其'歪曲中国历史'，政府未支持该主张（Britannica：faced a nationalist-backed lawsuit, though the government showed no sign of endorsing the claims）。",
+      "src": "B087"
+    }
   ],
   "major_works": [
-    {"work_id": "honggaoliang", "note": "1987，成名作"},
-    {"title": "生死疲劳（2006）、蛙（2009）", "note": "后期长篇（Britannica 列举）"},
-    {"title": "丰乳肥臀（1995）、檀香刑（2001）", "note": "重要长篇（Britannica 列举）"}
+    {
+      "work_id": "honggaoliang",
+      "note": "1987，成名作"
+    },
+    {
+      "title": "生死疲劳（2006）、蛙（2009）",
+      "note": "后期长篇（Britannica 列举）"
+    },
+    {
+      "work_id": "fengrufeibi",
+      "note": "重要长篇（Britannica 列举）"
+    }
   ],
   "style": [
     "幻觉现实主义：Britannica 称其小说'从神话到现实主义、从讽刺到爱情'；民间故事、历史与当代被魔幻化地熔合（诺奖授奖词意）。",
@@ -32,7 +77,9 @@
     "暴力与生命力的并置：酷刑、生育、杀戮与旺盛的生命意志纠缠，是评论争议的焦点。"
   ],
   "status": "莫言是2012年诺贝尔文学奖得主（Britannica），'中国最著名的当代作家之一'（Britannica：one of China's most celebrated contemporary writers）。其获诺奖在中国引发巨大反响与持久争议：赞扬者视其为乡土中国叙事的世界级代表，批评者（包括2024年的起诉者）质疑其对历史的处理——Britannica 客观记录了这一争议及其官方立场。作为'寻根文学'以来乡土叙事的集大成者，他把山东高密写成了世界文学版图上的著名地标。",
-  "sources": ["B087"],
+  "sources": [
+    "B087"
+  ],
   "dates_source": "B087",
   "pending": [
     "诺奖授奖词原文（'hallucinatory realism'的通行中译'魔幻现实主义'与'幻觉现实主义'之别）逐字待核。",

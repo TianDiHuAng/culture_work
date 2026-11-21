@@ -1,0 +1,100 @@
+{
+  "id": "lunsuyu",
+  "title": "论俗语",
+  "original_title": "De vulgari eloquentia",
+  "region": "意大利",
+  "era": "古代",
+  "era_detail": "14世纪初",
+  "genre": "语言学论著",
+  "genre_group": "散文",
+  "language": "拉丁语",
+  "author_id": "dante",
+  "author_name": "但丁",
+  "year_display": "作者页注记：Britannica 列举——论俗语（俗语理论——成书年份通说待核——约1303-05说）",
+  "year_sort": 1304,
+  "background": [
+    "作者页注记：论俗语——'俗语理论（Britannica 列举）'。",
+    "Britannica：但丁——《神曲》以俗语写成（作者页交叉）。",
+    "题材（通说待核）：为俗语辩护——'光辉的俗语'（vulgare illustre）的探求。"
+  ],
+  "outline": [
+    "（通说待核）二卷：俗语优于拉丁语与'光辉俗语'的探求。",
+    "（通说待核）第二卷（未完成）：诗的俗语用法。"
+  ],
+  "characters": [
+    {
+      "name": "（论著无人物）",
+      "identity": "——",
+      "note": "语言学论著"
+    }
+  ],
+  "themes": [
+    "'光辉的俗语'（通说待核）。",
+    "拉丁语与俗语之辩（B注记语境）。",
+    "意大利语的形成（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'俗语理论'（作者页注记）。",
+      "source": "B030"
+    },
+    {
+      "text": "Britannica：《神曲》的俗语写作（作者页交叉）。",
+      "source": "B030"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "中世纪语言学。",
+      "'光辉俗语'的概念。"
+    ],
+    "editions": [
+      "《论俗语》中译本（人民文学等——通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "但丁语言论；与《新生》《帝制论》对读。"
+  },
+  "pending": [
+    "二卷结构核对（通说）。",
+    "约1303-05成书年份待核。",
+    "'光辉俗语'细节待核。"
+  ],
+  "sources": [
+    "B030"
+  ],
+  "year_source": "B030",
+  "author_source": "B030",
+  "related_works": [
+    "xinshengbutan",
+    "dizhilun",
+    "laokong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《论俗语》语言结构图",
+    "cards": [
+      {
+        "title": "俗语",
+        "text": "辩护的对象（书名）",
+        "color": "main"
+      },
+      {
+        "title": "光辉",
+        "text": "'vulgare illustre'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "拉丁",
+        "text": "对照的语言（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "意大利语",
+        "text": "形成的理论（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

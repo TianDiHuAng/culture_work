@@ -1,0 +1,100 @@
+{
+  "id": "wuguoyuwumin",
+  "title": "吾国与吾民",
+  "original_title": "My Country and My People",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "文化论著",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "linyutang",
+  "author_name": "林语堂",
+  "year_display": "1935年（作者页注记：Britannica——吾国与吾民 (1935)、生活的艺术 (1937)——'英文中国介绍'）",
+  "year_sort": 1935,
+  "background": [
+    "作者页注记：吾国与吾民 (1935)、生活的艺术 (1937)——'英文中国介绍（Britannica）'。",
+    "Britannica：林语堂——向西方介绍中国的作家（作者页语境）。",
+    "题材（通说待核）：中国人的性格、心灵与理想——英文世界中国观的名著。"
+  ],
+  "outline": [
+    "（通说待核）'中国人的心灵'与'人生的理想'两编。",
+    "（通说待核）老庄与孔孟的性格分析。"
+  ],
+  "characters": [
+    {
+      "name": "（文化论著无人物）",
+      "identity": "——",
+      "note": "文化随笔"
+    }
+  ],
+  "themes": [
+    "向英文世界介绍中国（B注记）。",
+    "'心灵与理想'的民族自省（通说待核）。",
+    "幽默与闲适的哲学（作者页语境——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'英文中国介绍'（作者页注记）。",
+      "source": "B112"
+    },
+    {
+      "text": "Britannica：林语堂《京华烟云》等（作者页交叉——待核）。",
+      "source": "B112"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "英文写作中的中国术语。",
+      "1930年代的国际语境。"
+    ],
+    "editions": [
+      "《吾国与吾民》（湖南文艺等——通说待核）。",
+      "1935年Reynal & Hitchcock说待核。"
+    ],
+    "order": "林语堂英文首选；后接《生活的艺术》。"
+  },
+  "pending": [
+    "1935年出版细节待核。",
+    "两编结构核对（通说）。",
+    "'赛珍珠序'说待核。"
+  ],
+  "sources": [
+    "B112"
+  ],
+  "year_source": "B112",
+  "author_source": "B112",
+  "related_works": [
+    "jinghuayanyun",
+    "xiaoshuoshilue",
+    "gududemigong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吾国与吾民》介绍结构图",
+    "cards": [
+      {
+        "title": "吾国",
+        "text": "英文里的中国（书名）",
+        "color": "main"
+      },
+      {
+        "title": "心灵",
+        "text": "民族的自省（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "幽默",
+        "text": "闲适的哲学（作者页语境）",
+        "color": "family"
+      },
+      {
+        "title": "1935",
+        "text": "B注记之年",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

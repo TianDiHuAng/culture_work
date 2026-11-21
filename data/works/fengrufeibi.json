@@ -1,0 +1,105 @@
+{
+  "id": "fengrufeibi",
+  "title": "丰乳肥臀",
+  "original_title": "丰乳肥臀",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪90年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "汉语",
+  "author_id": "moyan",
+  "author_name": "莫言",
+  "year_display": "1995年（作者页注记：Britannica 列举——丰乳肥臀 (1995)）",
+  "year_sort": 1995,
+  "background": [
+    "作者页注记：丰乳肥臀 (1995)、檀香刑 (2001)——'重要长篇（Britannica 列举）'。",
+    "Britannica：莫言——2012诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：上官鲁氏与九个子女——从抗战到90年代的母系史诗。"
+  ],
+  "outline": [
+    "（通说待核）母亲与金童：多子女的世纪苦难。",
+    "（通说待核）'丰乳肥臀'：母性身体的纪念碑。"
+  ],
+  "characters": [
+    {
+      "name": "上官鲁氏",
+      "identity": "母亲",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "金童",
+      "identity": "独子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "母性史诗（书名语境——通说待核）。",
+    "20世纪中国的家族史（通说待核）。",
+    "'重要长篇'（B注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'重要长篇'（作者页注记）。",
+      "source": "B087"
+    },
+    {
+      "text": "Britannica：莫言2012诺奖（作者页交叉——待核）。",
+      "source": "B087"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "高密东北乡世系。",
+      "'魔幻乡土'的语体（通说待核）。"
+    ],
+    "editions": [
+      "《丰乳肥臀》（作家出版社等——通说待核）。",
+      "1995年《大家》连载说待核。"
+    ],
+    "order": "莫言长篇首选；与《檀香刑》《红高粱》对读。"
+  },
+  "pending": [
+    "上官鲁氏人名核对（通说）。",
+    "1995年出版细节待核。",
+    "'母系史诗'说法待核。"
+  ],
+  "sources": [
+    "B087"
+  ],
+  "year_source": "B087",
+  "author_source": "B087",
+  "related_works": [
+    "tanxiangxing",
+    "honggaoliang",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《丰乳肥臀》母性史诗图",
+    "cards": [
+      {
+        "title": "母亲",
+        "text": "身体的纪念碑（通说）",
+        "color": "main"
+      },
+      {
+        "title": "九子女",
+        "text": "世纪的分岔（通说）",
+        "color": "family"
+      },
+      {
+        "title": "丰乳肥臀",
+        "text": "命名的大地（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "高密",
+        "text": "魔幻的乡土（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

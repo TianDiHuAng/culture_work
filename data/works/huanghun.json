@@ -1,0 +1,100 @@
+{
+  "id": "huanghun",
+  "title": "黄昏",
+  "original_title": "Вечер（Evening）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "akhmatova",
+  "author_name": "安娜·阿赫玛托娃",
+  "year_display": "1912年（作者页注记：Britannica——黄昏 (1912)——早期）",
+  "year_sort": 1912,
+  "background": [
+    "作者页注记：黄昏 (1912)、念珠 (1914)——'早期（Britannica）'。",
+    "Britannica：阿赫玛托娃——俄国女诗人（作者页语境）。",
+    "题材（通说待核）：首部诗集——爱情短诗与'黄昏'的色调。"
+  ],
+  "outline": [
+    "（通说待核）46首短诗的首集。",
+    "（通说待核）'我披上右手的手套'（不采为引文）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "女诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱情短诗的首集（B注记语境）。",
+    "'黄昏'的色调（书名——通说待核）。",
+    "阿克梅派前奏（流派说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：黄昏 (1912)——早期（作者页注记）。",
+      "source": "B144"
+    },
+    {
+      "text": "Britannica：《安魂曲》为代表作（作者页交叉）。",
+      "source": "B144"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "首集的格律。",
+      "'阿克梅派'归属（待核）。"
+    ],
+    "editions": [
+      "《黄昏》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "阿赫玛托娃首集；后接《念珠》。"
+  },
+  "pending": [
+    "篇数（46首说）核对（通说）。",
+    "1912年出版细节待核。",
+    "'阿克梅派'归属核对。"
+  ],
+  "sources": [
+    "B144"
+  ],
+  "year_source": "B144",
+  "author_source": "B144",
+  "related_works": [
+    "nianzhu",
+    "leiyu",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《黄昏》首集结构图",
+    "cards": [
+      {
+        "title": "黄昏",
+        "text": "爱情的光线（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "首集",
+        "text": "46首短诗（通说）",
+        "color": "main"
+      },
+      {
+        "title": "早期",
+        "text": "B注记的位置",
+        "color": "family"
+      },
+      {
+        "title": "阿克梅",
+        "text": "流派的序曲（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "sangushi",
+  "title": "三故事",
+  "original_title": "Trois contes",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "法语",
+  "author_id": "flaubert",
+  "author_name": "居斯塔夫·福楼拜",
+  "year_display": "1877年（作者页注记：Britannica 列举——三故事 (1877)）",
+  "year_sort": 1877,
+  "background": [
+    "作者页注记：三故事 (1877)——'历史小说与短篇杰作（Britannica 列举）'。",
+    "Britannica：福楼拜——文体家（作者页交叉）。",
+    "题材（通说待核）：《一颗简单的心》《圣朱利安传奇》《希罗狄亚》三篇。"
+  ],
+  "outline": [
+    "（通说待核）全福的一生：从女仆到鹦鹉的圣像化。",
+    "（通说待核）中世纪传奇与圣经故事的改写。"
+  ],
+  "characters": [
+    {
+      "name": "全福",
+      "identity": "女仆",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "圣朱利安",
+      "identity": "传奇骑士",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'简单的心'的圣徒化（通说待核）。",
+    "三时代的结构（古/中世纪/圣经——通说待核）。",
+    "'短篇杰作'（B注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'短篇杰作'（作者页注记）。",
+      "source": "B041"
+    },
+    {
+      "text": "Britannica：福楼拜文体（作者页交叉）。",
+      "source": "B041"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三篇的时代跨度。",
+      "'圣徒传'的戏仿（通说待核）。"
+    ],
+    "editions": [
+      "《三故事》中译名（《三个故事》）待核。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "福楼拜短篇首选；与《包法利夫人》对读。"
+  },
+  "pending": [
+    "三篇标题核对（通说）。",
+    "1877年出版细节待核。",
+    "'鹦鹉'细节待核。"
+  ],
+  "sources": [
+    "B041"
+  ],
+  "year_source": "B041",
+  "author_source": "B041",
+  "related_works": [
+    "salangbo",
+    "qingganjiaoyu",
+    "mengya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《三故事》三时代结构图",
+    "cards": [
+      {
+        "title": "简单的心",
+        "text": "女仆的圣像（通说）",
+        "color": "main"
+      },
+      {
+        "title": "三时代",
+        "text": "古/中世纪/圣经（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "文体",
+        "text": "'杰作'的凝练（B注记）",
+        "color": "family"
+      },
+      {
+        "title": "鹦鹉",
+        "text": "祭坛的传奇（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -10,20 +10,65 @@
   "era": "现当代",
   "summary": "林语堂，福建龙溪（漳州）牧师之子，作家、学者与发明家，'两脚踏东西文化'（其自题，通说待核）。清华、哈佛（1919—22）与莱比锡大学（语言学博士，通说待核）出身；北大、厦门大学教授。1932年创办《论语半月刊》——提倡幽默（'humor'的中文译者之一，通说待核）；1935年《吾国与吾民》以英文写中国而大获成功（Britannica）；1936年定居纽约；1939年《京华烟云》以英文写成并广受赞誉（Britannica：the acclaimed novel Moment in Peking in 1939）。晚年居港，1976年3月26日逝世（Britannica）。",
   "timeline": [
-    {"year": "1895-10-10", "text": "生于福建龙溪（平和县坂仔村——通说待核）长老会牧师家庭（Britannica：The son of a Presbyterian minister）。", "src": "B112"},
-    {"year": "1916—1919", "text": "清华毕业留校任教；赴哈佛比较文学（通说待核）。", "src": "B112"},
-    {"year": "1922—1923", "text": "莱比锡大学语言学博士（通说待核）；回国任北大英文教授。", "src": "B112"},
-    {"year": "1932", "text": "创办《论语半月刊》——Britannica：'totally new to China at that time'（西式讽刺杂志，对当时中国而言全新）；倡'幽默文学'。", "src": "B112"},
-    {"year": "1935", "text": "《吾国与吾民》（My Country and My People）纽约出版——'widely translated and long considered a standard text on China'（被广泛翻译并长期被视为中国的标准文本，Britannica）。", "src": "B112"},
-    {"year": "1936", "text": "举家迁纽约（Britannica：He relocated to New York in 1936）。", "src": "B112"},
-    {"year": "1939", "text": "英文长篇 Moment in Peking《京华烟云》出版——'the acclaimed novel'（广受赞誉的小说，Britannica）；1975年曾提名诺贝尔文学奖（通说待核）。", "src": "B112"},
-    {"year": "1942—1967", "text": "《生活的艺术》（1937，通说待核）、《中国与印度的智慧》（1942，Britannica：The Wisdom of China and India in 1942）；发明中文打字机（通说待核）；编《当代汉英词典》（1972，通说待核）；新加坡南洋大学首任校长（1954—55，通说待核）。", "src": "B112"},
-    {"year": "1976-03-26", "text": "卒于香港（Britannica：died in Hong Kong at age 80）；葬于阳明山（通说待核）。", "src": "B112"}
+    {
+      "year": "1895-10-10",
+      "text": "生于福建龙溪（平和县坂仔村——通说待核）长老会牧师家庭（Britannica：The son of a Presbyterian minister）。",
+      "src": "B112"
+    },
+    {
+      "year": "1916—1919",
+      "text": "清华毕业留校任教；赴哈佛比较文学（通说待核）。",
+      "src": "B112"
+    },
+    {
+      "year": "1922—1923",
+      "text": "莱比锡大学语言学博士（通说待核）；回国任北大英文教授。",
+      "src": "B112"
+    },
+    {
+      "year": "1932",
+      "text": "创办《论语半月刊》——Britannica：'totally new to China at that time'（西式讽刺杂志，对当时中国而言全新）；倡'幽默文学'。",
+      "src": "B112"
+    },
+    {
+      "year": "1935",
+      "text": "《吾国与吾民》（My Country and My People）纽约出版——'widely translated and long considered a standard text on China'（被广泛翻译并长期被视为中国的标准文本，Britannica）。",
+      "src": "B112"
+    },
+    {
+      "year": "1936",
+      "text": "举家迁纽约（Britannica：He relocated to New York in 1936）。",
+      "src": "B112"
+    },
+    {
+      "year": "1939",
+      "text": "英文长篇 Moment in Peking《京华烟云》出版——'the acclaimed novel'（广受赞誉的小说，Britannica）；1975年曾提名诺贝尔文学奖（通说待核）。",
+      "src": "B112"
+    },
+    {
+      "year": "1942—1967",
+      "text": "《生活的艺术》（1937，通说待核）、《中国与印度的智慧》（1942，Britannica：The Wisdom of China and India in 1942）；发明中文打字机（通说待核）；编《当代汉英词典》（1972，通说待核）；新加坡南洋大学首任校长（1954—55，通说待核）。",
+      "src": "B112"
+    },
+    {
+      "year": "1976-03-26",
+      "text": "卒于香港（Britannica：died in Hong Kong at age 80）；葬于阳明山（通说待核）。",
+      "src": "B112"
+    }
   ],
   "major_works": [
-    {"work_id": "jinghuayanyun", "note": "1939；英文长篇"},
-    {"title": "吾国与吾民（1935）、生活的艺术（1937）", "note": "英文中国介绍（Britannica）"},
-    {"title": "苏东坡传（1947）", "note": "英文传记（通说待核）"}
+    {
+      "work_id": "jinghuayanyun",
+      "note": "1939；英文长篇"
+    },
+    {
+      "work_id": "wuguoyuwumin",
+      "note": "英文中国介绍（Britannica）"
+    },
+    {
+      "title": "苏东坡传（1947）",
+      "note": "英文传记（通说待核）"
+    }
   ],
   "style": [
     "'幽默'的输入者：把 humor 译为'幽默'并办刊实践（通说待核）。",
@@ -32,7 +77,9 @@
     "贵族化的中产趣味：《京华烟云》的家族史诗（通说）。"
   ],
   "status": "Britannica 定位林语堂为'中国作家与学者'（Chinese author and scholar）：其《吾国与吾民》'长期被视为中国的标准文本'，其'文学为自我表达而非宣传'的主张在战时中国引发争议（Britannica：His advocacy of literature as self-expression rather than propaganda caused disputes during brief returns to China in 1943 and 1954）。'幽默大师''东方智者'（通说待核）与1975年诺奖提名（通说待核）构成其国际形象。",
-  "sources": ["B112"],
+  "sources": [
+    "B112"
+  ],
   "dates_source": "B112",
   "pending": [
     "莱比锡博士（1923）与清华任教年份待核。",

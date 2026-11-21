@@ -10,17 +10,50 @@
   "era": "现当代",
   "summary": "阿赫玛托娃，'widely regarded as the greatest woman poet in Russian literature'（公认俄国文学最伟大的女诗人——Britannica）。21岁加入阿克梅派（Acmeists）、1910年嫁其领袖古米廖夫（Nikolay Gumilyov，Britannica）；早期《黄昏》（1912）《念珠》（1914）成名（Britannica）——'Acmeist 'beautiful clarity' with her own colloquial voice and psychological depth, often exploring tragic love'（阿克梅派'清澈之美'与自己的口语声及心理深度，多写悲剧爱情——Britannica）。古米廖夫1921年被处决后'faced years of poetic silence and official denunciation, including harsh censure by the Central Committee in 1946'（多年诗默与官方批判，含1946年日丹诺夫严批——Britannica）；子列夫被捕促《安魂曲》——'a poetic monument to suffering under Stalin's terror'（斯大林恐怖下苦难的诗性纪念碑——Britannica）。晚年平反，1964年埃特纳-陶尔米纳奖、1965年牛津荣誉博士（Britannica）。1966年3月5日卒（Britannica）。",
   "timeline": [
-    {"year": "1889-06-23", "text": "生于敖德萨附近（Britannica：Born near Odessa），成长于皇村（通说待核）；笔名取自鞑靼祖先（通说待核）。", "src": "B144"},
-    {"year": "1910—1921", "text": "嫁古米廖夫（1910，Britannica）；加入阿克梅派（Britannica：Joined the Acmeists at 21）；《黄昏》(1912)《念珠》(1914)成名（Britannica）。", "src": "B144"},
-    {"year": "1921", "text": "古米廖夫被处决（Britannica：After Gumilyov's 1921 execution）——'years of poetic silence and official denunciation'（Britannica）。", "src": "B144"},
-    {"year": "1946", "text": "中央委员会（日丹诺夫）严厉批判（Britannica：harsh censure by the Central Committee in 1946）。", "src": "B144"},
-    {"year": "1935—1940", "text": "子列夫被捕促《安魂曲》（Britannica：Her son Lev's arrests inspired Requiem）——'poetic monument to suffering under Stalin's terror'（斯大林恐怖下苦难的诗性纪念碑——Britannica）。", "src": "B144"},
-    {"year": "1964—1966", "text": "1964年埃特纳-陶尔米纳奖（Etna-Taormina prize——Britannica）、1965年牛津荣誉博士（Britannica：honorary Oxford doctorate (1965)）；1966-03-05卒（Britannica）。", "src": "B144"}
+    {
+      "year": "1889-06-23",
+      "text": "生于敖德萨附近（Britannica：Born near Odessa），成长于皇村（通说待核）；笔名取自鞑靼祖先（通说待核）。",
+      "src": "B144"
+    },
+    {
+      "year": "1910—1921",
+      "text": "嫁古米廖夫（1910，Britannica）；加入阿克梅派（Britannica：Joined the Acmeists at 21）；《黄昏》(1912)《念珠》(1914)成名（Britannica）。",
+      "src": "B144"
+    },
+    {
+      "year": "1921",
+      "text": "古米廖夫被处决（Britannica：After Gumilyov's 1921 execution）——'years of poetic silence and official denunciation'（Britannica）。",
+      "src": "B144"
+    },
+    {
+      "year": "1946",
+      "text": "中央委员会（日丹诺夫）严厉批判（Britannica：harsh censure by the Central Committee in 1946）。",
+      "src": "B144"
+    },
+    {
+      "year": "1935—1940",
+      "text": "子列夫被捕促《安魂曲》（Britannica：Her son Lev's arrests inspired Requiem）——'poetic monument to suffering under Stalin's terror'（斯大林恐怖下苦难的诗性纪念碑——Britannica）。",
+      "src": "B144"
+    },
+    {
+      "year": "1964—1966",
+      "text": "1964年埃特纳-陶尔米纳奖（Etna-Taormina prize——Britannica）、1965年牛津荣誉博士（Britannica：honorary Oxford doctorate (1965)）；1966-03-05卒（Britannica）。",
+      "src": "B144"
+    }
   ],
   "major_works": [
-    {"work_id": "anhunqu", "note": "1940；代表作"},
-    {"title": "黄昏（1912）、念珠（1914）", "note": "早期（Britannica）"},
-    {"title": "没有英雄的长诗（通说待核）", "note": "晚期长诗（通说待核）"}
+    {
+      "work_id": "anhunqu",
+      "note": "1940；代表作"
+    },
+    {
+      "work_id": "huanghun",
+      "note": "早期（Britannica）"
+    },
+    {
+      "title": "没有英雄的长诗（通说待核）",
+      "note": "晚期长诗（通说待核）"
+    }
   ],
   "style": [
     "'清澈之美'与口语：Britannica——Acmeist 'beautiful clarity' with her own colloquial voice and psychological depth（阿克梅派清澈之美+自己的口语声与心理深度）。",
@@ -28,7 +61,9 @@
     "'见证者'的诗：《安魂曲》的排队母亲（通说）。"
   ],
   "status": "Britannica 称阿赫玛托娃为'俄国文学最伟大的女诗人'（widely regarded as the greatest woman poet in Russian literature）。《安魂曲》为'斯大林恐怖下苦难的诗性纪念碑'（Britannica）；与曼德尔施塔姆的阿克梅派、与茨维塔耶娃的'双星'（通说待核）。",
-  "sources": ["B144"],
+  "sources": [
+    "B144"
+  ],
   "dates_source": "B144",
   "pending": [
     "《安魂曲》写作与传播（1950s意大利刊出说，通说）待核。",
