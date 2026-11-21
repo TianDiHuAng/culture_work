@@ -1,0 +1,105 @@
+{
+  "id": "yuanhui",
+  "title": "园会",
+  "original_title": "The Garden Party",
+  "region": "新西兰",
+  "era": "近代",
+  "era_detail": "20世纪20年代初",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "mansfield",
+  "author_name": "凯瑟琳·曼斯菲尔德",
+  "year_display": "1922年（Britannica B411：The Garden Party (1922)——含'At the Bay'/'The Voyage'/'The Stranger'/'Daughters of the Late Colonel'）",
+  "year_sort": 1922,
+  "background": [
+    "Britannica（B411）：The Garden Party——含'At the Bay'/'The Voyage'/'The Stranger'/'Daughters of the Late Colonel'——后者'a subtle account of genteel frustration'。",
+    "Britannica（B411）：曼斯菲尔德——'a master of the short story whose style had many overtones of poetry'——受契诃夫影响——'she in turn shaped the short story's development as a literary form'。",
+    "题材（通说待核）：同名篇——劳拉的花园会与死者家庭的'帽子'。"
+  ],
+  "outline": [
+    "（通说待核）劳拉的花园会与邻巷死者的对照。",
+    "（通说待核）'帽子'：阶级的暂停与恢复（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "劳拉",
+      "identity": "谢里丹家小女儿",
+      "note": "（通说待核，B411未载）"
+    },
+    {
+      "name": "亡者之家",
+      "identity": "邻巷穷家",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "阶级的'帽子'暂停（通说待核）。",
+    "'诗意回声'的短篇（B411：many overtones of poetry）。",
+    "'文雅的失意'（B411：genteel frustration——Daughters of the Late Colonel）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'secured her reputation and is typical of her art'（B411——Bliss 交叉）。",
+      "source": "B411"
+    },
+    {
+      "text": "Britannica：'shaped the short story's development as a literary form'（B411）。",
+      "source": "B411"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'诗意回声'的句法。",
+      "新西兰/英国的双地书写（Prelude 交叉——B411）。"
+    ],
+    "editions": [
+      "《园会》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "曼斯菲尔德首选；与《幸福》对读。"
+  },
+  "pending": [
+    "劳拉人名核对（通说）。",
+    "1922年出版（Constable说）待核。",
+    "'Daughters of the Late Colonel'细节待核（B411已载评语）。"
+  ],
+  "sources": [
+    "B411"
+  ],
+  "year_source": "B411",
+  "author_source": "B411",
+  "related_works": [
+    "leiyu",
+    "chunjiuji",
+    "nvpu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《园会》阶级对照图",
+    "cards": [
+      {
+        "title": "花园会",
+        "text": "盛开的玫瑰（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "死者",
+        "text": "邻巷的哀恸（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "帽子",
+        "text": "阶级的暂停（通说）",
+        "color": "main"
+      },
+      {
+        "title": "诗意",
+        "text": "'回声'的短篇（B411）",
+        "color": "family"
+      }
+    ]
+  }
+}

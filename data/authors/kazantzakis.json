@@ -1,0 +1,63 @@
+{
+  "id": "kazantzakis",
+  "name": "尼科斯·卡赞扎基斯",
+  "foreign_name": "Níkos Kazantzákis（尼科斯·卡赞扎基斯，1883-02-18—1957-10-26）",
+  "country": "希腊",
+  "birth": 1883,
+  "death": 1957,
+  "birth_year": 1883,
+  "death_year": 1957,
+  "era": "近代",
+  "summary": "卡赞扎基斯，克里特Iráklion生（时属奥斯曼帝国），希腊作家——'a Greek writer whose prolific output and wide variety of work represent a major contribution to modern Greek literature'（B410）。Zorba the Greek（希腊人左巴, 1946）——'a portrayal of a passionate lover of life and poor-man's philosopher'（B410）；The Last Temptation of Christ (1955)——'a revisionist psychological study of Jesus Christ'（B410）；Odíssa (1938)——33333行荷马《奥德赛》续作史诗（B410）。巴黎随柏格森学哲学（1907-09）（B410）；1945年希腊政府部长（B410）。",
+  "timeline": [
+    {
+      "year": 1883,
+      "text": "2月18日生于克里特Iráklion（B410）。",
+      "src": "B410"
+    },
+    {
+      "year": 1938,
+      "text": "Odíssa——33333行史诗（B410）。",
+      "src": "B410"
+    },
+    {
+      "year": 1946,
+      "text": "Zorba the Greek（希腊人左巴）（B410）。",
+      "src": "B410"
+    },
+    {
+      "year": 1957,
+      "text": "10月26日卒于西德弗赖堡（B410）。",
+      "src": "B410"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xilarenzuoba",
+      "note": "1946（B410）"
+    },
+    {
+      "title": "基督的最后诱惑",
+      "note": "（B410：The Last Temptation of Christ (1955)——中译名待核）"
+    },
+    {
+      "title": "自由或死亡",
+      "note": "（B410：Freedom or Death (1950)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'热爱生活的穷苦人哲学家'（B410：Zorba——poor-man's philosopher）。",
+    "'再造'的耶稣研究（B410：revisionist psychological study）。",
+    "克里特的'自由或死亡'（B410：Freedom or Death）。"
+  ],
+  "status": "Britannica 定位卡赞扎基斯为现代希腊文学的'重大贡献者'（B410）。",
+  "sources": [
+    "B410"
+  ],
+  "dates_source": "B410",
+  "pending": [
+    "《希腊人左巴》通行译名（《希腊人左巴》）待核。",
+    "1964年电影（米夏利斯·卡柯扬尼斯说）待核——B410仅载年份。",
+    "1955年《基督的最后诱惑》被罗马教会列禁书说待核（通说）。"
+  ]
+}

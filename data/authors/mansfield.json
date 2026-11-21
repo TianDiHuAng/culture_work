@@ -1,0 +1,63 @@
+{
+  "id": "mansfield",
+  "name": "凯瑟琳·曼斯菲尔德",
+  "foreign_name": "Katherine Mansfield（凯瑟琳·曼斯菲尔德，原名 Kathleen Mansfield Beauchamp，1888-10-14—1923-01-09）",
+  "country": "新西兰",
+  "birth": 1888,
+  "death": 1923,
+  "birth_year": 1888,
+  "death_year": 1923,
+  "era": "近代",
+  "summary": "曼斯菲尔德，新西兰惠灵顿生，短篇小说家——1923年1月9日卒于法国枫丹白露附近 Gurdjieff 学院，34岁（B411）。Bliss (1920)——'secured her reputation and is typical of her art'（B411）。The Garden Party（园会, 1922）——含'At the Bay'/'The Voyage'/'The Stranger'/'Daughters of the Late Colonel'——后者'a subtle account of genteel frustration'（B411）。'a master of the short story whose style had many overtones of poetry'——受契诃夫影响——'she in turn shaped the short story's development as a literary form'（B411）。",
+  "timeline": [
+    {
+      "year": 1888,
+      "text": "10月14日生于新西兰惠灵顿（B411）。",
+      "src": "B411"
+    },
+    {
+      "year": 1920,
+      "text": "Bliss——声誉确立（B411）。",
+      "src": "B411"
+    },
+    {
+      "year": 1922,
+      "text": "The Garden Party（园会）（B411）。",
+      "src": "B411"
+    },
+    {
+      "year": 1923,
+      "text": "1月9日卒于法国 Gurdjieff 学院（B411）。",
+      "src": "B411"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yuanhui",
+      "note": "1922（B411）"
+    },
+    {
+      "title": "幸福",
+      "note": "（B411：Bliss (1920)——中译名待核）"
+    },
+    {
+      "title": "序曲",
+      "note": "（B411：Prelude (1918)——新西兰家族记忆短篇系列）"
+    }
+  ],
+  "style": [
+    "'诗意回声'的短篇风格（B411：many overtones of poetry）。",
+    "心理冲突+契诃夫影响（B411）。",
+    "'塑造了短篇小说文体的发展'（B411：shaped the short story's development）。"
+  ],
+  "status": "Britannica 定位曼斯菲尔德为短篇大师、短篇小说文体发展的塑造者（B411）。",
+  "sources": [
+    "B411"
+  ],
+  "dates_source": "B411",
+  "pending": [
+    "《园会》通行译名（《园会》）待核。",
+    "Gurdjieff 学院细节（B411已载卒地）待核。",
+    "与契诃夫的影响关系（B411：Chekhov's influence）细节待核。"
+  ]
+}
