@@ -1,0 +1,100 @@
+{
+  "id": "songge1819",
+  "title": "1819年颂歌",
+  "original_title": "The Great Odes (1819)",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪10年代末",
+  "genre": "颂歌组",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "keats",
+  "author_name": "约翰·济慈",
+  "year_display": "1819年（Britannica B395：六颂歌——'On a Grecian Urn'/'To a Nightingale'/'To Autumn'等——'all his greatest poetry came that single year'）",
+  "year_sort": 1819,
+  "background": [
+    "Britannica（B395）：1819颂歌——'On Indolence'/'On a Grecian Urn'/'To Psyche'/'To a Nightingale'/'On Melancholy'/'To Autumn'——'all his greatest poetry came that single year'。",
+    "Britannica（B395）：济慈——'died of tuberculosis in Rome in 1821 at the age of 25'。",
+    "题材（通说待核）：夜莺的古瓶与'秋'——感官的'颂'体。"
+  ],
+  "outline": [
+    "（通说待核）六颂的'感官'序列：听（夜莺）—看（古瓶）—触（秋）。",
+    "（通说待核）'负性能力'说（negative capability——B395正文未载，不采）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "颂者",
+      "note": "（B395 语境）"
+    }
+  ],
+  "themes": [
+    "'所有最伟大的诗都出自这一年'（B395）。",
+    "颂歌体的感官化（通说待核）。",
+    "'人类心灵的痛苦与挣扎'（B395 转述：the agony and strife of human hearts）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'all his greatest poetry came that single year'（B395）。",
+      "source": "B395"
+    },
+    {
+      "text": "Britannica：六颂歌清单（B395）。",
+      "source": "B395"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "颂歌体（ode stanza）。",
+      "1819年的传记语境（弟弟之死说——通说待核）。"
+    ],
+    "editions": [
+      "《1819年颂歌》中译名（《济慈颂歌》）待核。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "济慈首选；与《恩底弥翁》对读。"
+  },
+  "pending": [
+    "六颂歌清单核对（B395已载六题）。",
+    "'负性能力'术语——B395正文未载（不采）。",
+    "《希腊古瓮颂》细节待核（通说）。"
+  ],
+  "sources": [
+    "B395"
+  ],
+  "year_source": "B395",
+  "author_source": "B395",
+  "related_works": [
+    "zuizhou",
+    "caihuaji",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《1819年颂歌》感官结构图",
+    "cards": [
+      {
+        "title": "颂歌年",
+        "text": "'奇迹的一年'（B395）",
+        "color": "gold"
+      },
+      {
+        "title": "夜莺",
+        "text": "听的颂（通说）",
+        "color": "main"
+      },
+      {
+        "title": "古瓮",
+        "text": "看的颂（通说）",
+        "color": "family"
+      },
+      {
+        "title": "秋",
+        "text": "触的颂（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

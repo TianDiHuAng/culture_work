@@ -1,0 +1,68 @@
+{
+  "id": "keats",
+  "name": "约翰·济慈",
+  "foreign_name": "John Keats（约翰·济慈，1795-10-31—1821-02-23）",
+  "country": "英国",
+  "birth": 1795,
+  "death": 1821,
+  "birth_year": 1795,
+  "death_year": 1821,
+  "era": "近代",
+  "summary": "济慈，伦敦生，英国浪漫主义诗人——'died of tuberculosis in Rome in 1821 at the age of 25'（25岁死于肺结核——B395）。1819年颂歌——'On a Grecian Urn'/'To a Nightingale'/'To Autumn'等——'all his greatest poetry came that single year'（所有最伟大的诗都出自这一年——B395）。'On First Looking into Chapman's Homer'——1816商籁（B395）；Endymion——1818——四个1000行部分（B395）；1819年另有'Lamia'/'The Eve of St. Agnes'与未完成的许佩里翁史诗两稿（B395）。",
+  "timeline": [
+    {
+      "year": 1795,
+      "text": "10月31日生于伦敦（B395）。",
+      "src": "B395"
+    },
+    {
+      "year": 1816,
+      "text": "'On First Looking into Chapman's Homer'——商籁（B395）。",
+      "src": "B395"
+    },
+    {
+      "year": 1818,
+      "text": "Endymion——四个1000行部分（B395）。",
+      "src": "B395"
+    },
+    {
+      "year": 1819,
+      "text": "1819颂歌年——'all his greatest poetry came that single year'（B395）。",
+      "src": "B395"
+    },
+    {
+      "year": 1821,
+      "text": "2月23日卒于罗马，25岁（B395）。",
+      "src": "B395"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "songge1819",
+      "note": "1819（B395）"
+    },
+    {
+      "title": "恩底弥翁",
+      "note": "（B395：Endymion (1818)——中译名待核）"
+    },
+    {
+      "title": "许佩里翁的陨落",
+      "note": "（B395：The Fall of Hyperion——Notable Works——中译名待核）"
+    }
+  ],
+  "style": [
+    "1819'颂歌年'的奇迹（B395）。",
+    "'超越自然之美'走向'人类心灵的痛苦与挣扎'（B395 转述）。",
+    "'简洁、直接、如画'措辞的浪漫派对应（无——B395未载风格语，不采）。（风格待核）"
+  ],
+  "status": "Britannica 定位济慈为英国浪漫主义诗人、1819年的奇迹（B395）。",
+  "sources": [
+    "B395"
+  ],
+  "dates_source": "B395",
+  "pending": [
+    "'negative capability'术语——B395 正文未载（不采）。",
+    "'Beauty is truth'——仅问答标题（不采为引文）。",
+    "六颂歌清单核对（B395已载六题）。"
+  ]
+}

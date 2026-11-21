@@ -1,0 +1,68 @@
+{
+  "id": "shelley",
+  "name": "珀西·比希·雪莱",
+  "foreign_name": "Percy Bysshe Shelley（珀西·比希·雪莱，1792-08-04—1822-07-08）",
+  "country": "英国",
+  "birth": 1792,
+  "death": 1822,
+  "birth_year": 1792,
+  "death_year": 1822,
+  "era": "近代",
+  "summary": "雪莱，英国苏塞克斯Field Place生，浪漫主义诗人——1822年7月8日于意大利托斯卡纳海面覆舟溺亡，29岁（B396）。Prometheus Unbound（解放了的普罗米修斯）——1819年秋完成于佛罗伦萨——'inverts the plot of a lost play by Aeschylus'——'the keystone of Shelley's poetic achievement'（雪莱诗歌成就的基石——B396）。Ode to the West Wind（西风颂, 1819）——志在使其词语成为'an unextinguished hearth'的'Ashes and sparks'（B396）。Adonais——'in Spenserian stanzas'悼济慈（B396）。'Poets are the unacknowledged legislators of the world.'——《诗辨》（B396）。The Necessity of Atheism (1811)——被牛津开除（B396）。",
+  "timeline": [
+    {
+      "year": 1792,
+      "text": "8月4日生于苏塞克斯Field Place（B396）。",
+      "src": "B396"
+    },
+    {
+      "year": 1811,
+      "text": "The Necessity of Atheism——被牛津开除（B396）。",
+      "src": "B396"
+    },
+    {
+      "year": 1819,
+      "text": "《解放了的普罗米修斯》完成（佛罗伦萨秋）；《西风颂》（B396）。",
+      "src": "B396"
+    },
+    {
+      "year": 1821,
+      "text": "Adonais——悼济慈；《诗辨》（B396）。",
+      "src": "B396"
+    },
+    {
+      "year": 1822,
+      "text": "7月8日海难溺亡，29岁（B396）。",
+      "src": "B396"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jiefangpu",
+      "note": "1819作/约1820刊（B396）"
+    },
+    {
+      "work_id": "adonisi",
+      "note": "1821（B396）"
+    },
+    {
+      "title": "西风颂",
+      "note": "（B396：Ode to the West Wind (1819)）"
+    }
+  ],
+  "style": [
+    "'柔韧素体诗与繁复抒情格律'的混合（B396：supple blank verse...complex lyric measures）。",
+    "'未熄的炉膛'之'灰烬与火星'（B396：Ashes and sparks）。",
+    "'诗人是世间未被承认的立法者'（B396：《诗辨》引文）。"
+  ],
+  "status": "Britannica 定位雪莱为浪漫主义诗人、《解放了的普罗米修斯》为其'成就基石'（B396）。",
+  "sources": [
+    "B396"
+  ],
+  "dates_source": "B396",
+  "pending": [
+    "《解放了的普罗米修斯》通行译名待核。",
+    "Adonais 引文两句（B396已载）完整核对。",
+    "玛丽·雪莱《弗兰克斯坦》1818（B396交叉）细节待核。"
+  ]
+}

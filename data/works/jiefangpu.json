@@ -1,0 +1,105 @@
+{
+  "id": "jiefangpu",
+  "title": "解放了的普罗米修斯",
+  "original_title": "Prometheus Unbound",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪10年代末",
+  "genre": "抒情剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "shelley",
+  "author_name": "珀西·比希·雪莱",
+  "year_display": "1819年秋完成于佛罗伦萨、约1820年出版（Britannica B396——'the keystone of Shelley's poetic achievement'）",
+  "year_sort": 1820,
+  "background": [
+    "Britannica（B396）：'inverts the plot of a lost play by Aeschylus'（颠倒埃斯库罗斯佚剧的情节——普罗米修斯与朱庇特和解改为推翻）。",
+    "Britannica（B396）：'supple blank verse with a variety of complex lyric measures'——'the keystone of Shelley's poetic achievement'。",
+    "Britannica（B396）：雪莱——1822年海难溺亡，29岁。"
+  ],
+  "outline": [
+    "（通说待核——B396未载剧情）被缚的普罗米修斯拒绝和解：朱庇特的倾覆与'爱'的解放。",
+    "（通说待核）阿特拉斯女与亚洲的'革命'晨曲（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "普罗米修斯",
+      "identity": "被缚的泰坦",
+      "note": "（B396 书名人物）"
+    },
+    {
+      "name": "朱庇特",
+      "identity": "暴君",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'颠倒埃斯库罗斯'——和解改为推翻（B396：inverts the plot）。",
+    "'雪莱诗歌成就的基石'（B396：keystone）。",
+    "素体诗与抒情格律的混合（B396）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the keystone of Shelley's poetic achievement'（B396）。",
+      "source": "B396"
+    },
+    {
+      "text": "Britannica：《西风颂》同刊（B396 交叉）。",
+      "source": "B396"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "抒情剧的'合唱'结构。",
+      "希腊神话原型（埃斯库罗斯佚剧——B396）。"
+    ],
+    "editions": [
+      "《解放了的普罗米修斯》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "雪莱代表作；与《西风颂》《阿多尼》对读。"
+  },
+  "pending": [
+    "四幕结构核对（通说）。",
+    "约1820年出版细节待核。",
+    "'推翻'结局与埃斯库罗斯原剧对照待核（B396已载inverts）。"
+  ],
+  "sources": [
+    "B396"
+  ],
+  "year_source": "B396",
+  "author_source": "B396",
+  "related_works": [
+    "leiyu",
+    "adonisi",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《解放了的普罗米修斯》基石结构图",
+    "cards": [
+      {
+        "title": "普罗米修斯",
+        "text": "拒绝和解（B396：inverts）",
+        "color": "main"
+      },
+      {
+        "title": "基石",
+        "text": "'诗歌成就的基石'（B396）",
+        "color": "gold"
+      },
+      {
+        "title": "朱庇特",
+        "text": "倾覆的暴君（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "解放",
+        "text": "爱的黎明（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

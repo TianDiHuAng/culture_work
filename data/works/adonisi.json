@@ -1,0 +1,100 @@
+{
+  "id": "adonisi",
+  "title": "阿多尼",
+  "original_title": "Adonais",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪20年代初",
+  "genre": "牧歌挽诗",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "shelley",
+  "author_name": "珀西·比希·雪莱",
+  "year_display": "1821年（Britannica B396：Adonais——'in Spenserian stanzas'悼济慈）",
+  "year_sort": 1821,
+  "background": [
+    "Britannica（B396）：Adonais——'in Spenserian stanzas'悼济慈（1821）——引文'The One remains, the many change and pass;'/'Life, like a dome of many-coloured glass,'。",
+    "Britannica（B396）：雪莱——1822年海难——本作为其卒前一年之作。",
+    "题材（通说待核）：'阿多尼'（Adonis 原型）——济慈的'青春'之死。"
+  ],
+  "outline": [
+    "（通说待核）牧歌挽诗：'一'恒存而'多'流变（B396：'The One remains, the many change and pass;'）。",
+    "（通说待核）'彩色玻璃穹顶'般的生命（B396：'Life, like a dome of many-coloured glass,'）。"
+  ],
+  "characters": [
+    {
+      "name": "阿多尼",
+      "identity": "悼亡对象（济慈）",
+      "note": "（B396 书名人物——悼济慈）"
+    }
+  ],
+  "themes": [
+    "'一'恒存与'多'流变（B396 引文）。",
+    "'彩色玻璃穹顶'的生命（B396 引文）。",
+    "斯宾塞体的挽歌（B396：Spenserian stanzas）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'in Spenserian stanzas'悼济慈（B396）。",
+      "source": "B396"
+    },
+    {
+      "text": "Britannica：两句引文（B396 已载）。",
+      "source": "B396"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "斯宾塞体九行节。",
+      "'阿多尼'神话原型（通说待核）。"
+    ],
+    "editions": [
+      "《阿多尼》中译名（《阿多奈斯》）待核。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "雪莱挽歌首选；与《解放了的普罗米修斯》对读。"
+  },
+  "pending": [
+    "引文两句完整核对（B396已载节选）。",
+    "1821年出版细节待核。",
+    "'济慈之死'背景核对（B395交叉：1821-02-23罗马肺结核）。"
+  ],
+  "sources": [
+    "B396"
+  ],
+  "year_source": "B396",
+  "author_source": "B396",
+  "related_works": [
+    "jiefangpu",
+    "songge1819",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阿多尼》挽歌结构图",
+    "cards": [
+      {
+        "title": "一",
+        "text": "'恒存'的哲学（B396引文）",
+        "color": "gold"
+      },
+      {
+        "title": "多",
+        "text": "'流变'的世界（B396引文）",
+        "color": "antagonist"
+      },
+      {
+        "title": "阿多尼",
+        "text": "悼济慈（B396）",
+        "color": "main"
+      },
+      {
+        "title": "穹顶",
+        "text": "'彩色玻璃'的生命（B396引文）",
+        "color": "family"
+      }
+    ]
+  }
+}
