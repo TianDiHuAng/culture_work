@@ -1,0 +1,105 @@
+{
+  "id": "kanbujian3",
+  "title": "看不见的人",
+  "original_title": "Invisible Man",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "ellison",
+  "author_name": "拉尔夫·艾里森",
+  "year_display": "1952年（作者页 B317 口径：Invisible Man (1952)）",
+  "year_sort": 1952,
+  "background": [
+    "作者页（B317）：'the story of an unnamed Black man'——无名黑人的故事（B317 作者页定位）；1953年获 National Book Award（B317）。",
+    "作者（B317）：'shadow and act'——散文集 Shadow and Act (1964)（B317）。",
+    "地位（通说待核）：美国黑人文学的里程碑。"
+  ],
+  "outline": [
+    "无名黑人的地下独白：从南方到哈莱姆——'看不见'的一生（通说待核）。",
+    "'兄弟会'与' unpunished'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "无名叙述者",
+      "identity": "黑人青年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "拉斯?",
+      "identity": "'狂人'",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'看不见'：种族的匿名（通说待核）。",
+    "身份的地下化（通说待核）。",
+    "爵士与蓝调结构（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：'the story of an unnamed Black man'（B317 作者页口径）。",
+      "source": "B317"
+    },
+    {
+      "text": "作者页：1953年 National Book Award（B317 作者级定位）。",
+      "source": "B317"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'看不见'的多义。",
+      "哈莱姆背景。"
+    ],
+    "editions": [
+      "《看不见的人》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "美国黑人文学首选之一。"
+  },
+  "pending": [
+    "1952年出版（Random House说）核对。",
+    "兄弟会/莱因哈特等情节核对。",
+    "1953年 National Book Award（B317 已载）核对。"
+  ],
+  "sources": [
+    "B317"
+  ],
+  "year_source": "B317",
+  "author_source": "B317",
+  "related_works": [
+    "chonger",
+    "zise",
+    "mangcike"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《看不见的人》地下结构图",
+    "cards": [
+      {
+        "title": "地下",
+        "text": "1369盏灯泡（通说）",
+        "color": "main"
+      },
+      {
+        "title": "看不见",
+        "text": "种族的匿名（B317）",
+        "color": "antagonist"
+      },
+      {
+        "title": "兄弟会",
+        "text": "组织的幻影",
+        "color": "family"
+      },
+      {
+        "title": "看不见的人",
+        "text": "书名即主题",
+        "color": "gold"
+      }
+    ]
+  }
+}

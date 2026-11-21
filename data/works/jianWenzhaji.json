@@ -1,0 +1,105 @@
+{
+  "id": "jianWenzhaji",
+  "title": "见闻札记",
+  "original_title": "The Sketch Book of Geoffrey Crayon, Gent.",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "散文随笔集",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "ouwen",
+  "author_name": "华盛顿·欧文",
+  "year_display": "1819—1820年（作者页 B318 口径：The Sketch Book (1819–20)）",
+  "year_sort": 1819,
+  "background": [
+    "作者页（B318）：欧文'first American author to achieve international fame'（首位获得国际声誉的美国作家——B318）；The Sketch Book (1819–20)——含'Rip Van Winkle'与'The Legend of Sleepy Hollow'（B318）。",
+    "《纽约外史》（A History of New York, 1809，署名 Diedrich Knickerbocker——B318）。"
+  ],
+  "outline": [
+    "'瑞普·凡·温克尔'：山中一觉二十年（通说待核）。",
+    "'睡谷传说'：无头骑士（通说待核）。",
+    "英国随笔（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "瑞普·凡·温克尔",
+      "identity": "懒汉",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "伊卡博德·克莱恩",
+      "identity": "教师",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "美国'神话'的发明（通说待核）。",
+    "新旧大陆的对照（通说待核）。",
+    "'克尼科博克'幽默（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'first American author to achieve international fame'（B318）。",
+      "source": "B318"
+    },
+    {
+      "text": "Britannica：The Sketch Book 含'瑞普'与'睡谷'（B318）。",
+      "source": "B318"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "荷马式……不：荷兰移民文化背景。",
+      "'幽默'的古典笔调。"
+    ],
+    "editions": [
+      "《见闻札记》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "美国文学起点之一。"
+  },
+  "pending": [
+    "1819—20连载（John Murray说）核对。",
+    "瑞普/伊卡博德人名核对。",
+    "'睡谷'地名（Sleepy Hollow）待核。"
+  ],
+  "sources": [
+    "B318"
+  ],
+  "year_source": "B318",
+  "author_source": "B318",
+  "related_works": [
+    "hakebei",
+    "jian",
+    "fenwangyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《见闻札记》美国神话图",
+    "cards": [
+      {
+        "title": "瑞普·凡·温克尔",
+        "text": "一觉二十年（通说）",
+        "color": "main"
+      },
+      {
+        "title": "睡谷传说",
+        "text": "无头骑士",
+        "color": "antagonist"
+      },
+      {
+        "title": "伦敦随笔",
+        "text": "旧世界的对照",
+        "color": "gold"
+      },
+      {
+        "title": "克尼科博克",
+        "text": "纽约的笔名（B318）",
+        "color": "family"
+      }
+    ]
+  }
+}

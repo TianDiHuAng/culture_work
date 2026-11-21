@@ -112,6 +112,9 @@ for aid, d in authors.items():
     p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
     print("created author", aid)
 
+def G2(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
 works = {
 "xinshigudeLieshou": {
   "id":"xinshigudeLieshou","title":"心是孤独的猎手","original_title":"The Heart Is a Lonely Hunter","region":"美国","era":"现当代","era_detail":"20世纪",
@@ -148,7 +151,7 @@ works = {
    "editions":["《冷血》（人民文学出版社/南海出版公司版本，通说待核）。","英文原版。"],
    "order":"非虚构小说首选。"},
   "pending":["1966年出版（Random House说）核对。","佩里·史密斯/迪克·希科克/霍尔科姆家人名核对。","'nonfiction novel'术语首用者争议待核。"],
-  "sources":["B316"],"year_source":"B316","author_source":"B316","related_works":["嘉莉妹妹","meiguoren","冷血" ] ,
+  "sources":["B316"],"year_source":"B316","author_source":"B316","related_works":["fenwangyu","meiguoren","woyuditan"] ,
   "svg":G2("《冷血》非虚构结构图",[{"title":"凶案","text":"霍尔科姆家（通说）","color":"antagonist"},{"title":"六年调查","text":"非虚构小说（B316）","color":"main"},{"title":"佩里","text":"凶手的内心","color":"gold"},{"title":"行刑","text":"1965年的绞架（通说）","color":"family"}])
 },
 "kanbujian3": {

@@ -1,0 +1,104 @@
+{
+  "id": "lengxue",
+  "title": "冷血",
+  "original_title": "In Cold Blood",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "非虚构小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "capote",
+  "author_name": "杜鲁门·卡波特",
+  "year_display": "1966年（作者页 B316 口径：In Cold Blood (1966)）",
+  "year_sort": 1966,
+  "background": [
+    "作者页（B316）：'nonfiction novel'（非虚构小说）的先驱之一，In Cold Blood (1966) 写堪萨斯克拉特一家四口被杀案（B316 作者页定位）。",
+    "作者（B316）：Other Voices, Other Rooms (1948) 处女作；《蒂凡尼的早餐》(1958)（B316）。"
+  ],
+  "outline": [
+    "1959年堪萨斯霍尔科姆家四口被杀案——凶手佩里与迪克（通说待核）。",
+    "'非虚构小说'：六年调查与行刑（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "佩里·史密斯",
+      "identity": "凶手",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "迪克·希科克",
+      "identity": "凶手",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'非虚构小说'的诞生（B316：nonfiction novel）。",
+    "犯罪与叙事（通说待核）。",
+    "美国中西部（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：'nonfiction novel'开创者之一（B316 作者页口径）。",
+      "source": "B316"
+    },
+    {
+      "text": "作者页：卡波特1966年 In Cold Blood（B316 作者级定位）。",
+      "source": "B316"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "非虚构与虚构的边界。",
+      "真实犯罪语境。"
+    ],
+    "editions": [
+      "《冷血》（人民文学出版社/南海出版公司版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "非虚构小说首选。"
+  },
+  "pending": [
+    "1966年出版（Random House说）核对。",
+    "佩里·史密斯/迪克·希科克/霍尔科姆家人名核对。",
+    "'nonfiction novel'术语首用者争议待核。"
+  ],
+  "sources": [
+    "B316"
+  ],
+  "year_source": "B316",
+  "author_source": "B316",
+  "related_works": [
+    "fenwangyu",
+    "meiguoren",
+    "woyuditan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《冷血》非虚构结构图",
+    "cards": [
+      {
+        "title": "凶案",
+        "text": "霍尔科姆家（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "六年调查",
+        "text": "非虚构小说（B316）",
+        "color": "main"
+      },
+      {
+        "title": "佩里",
+        "text": "凶手的内心",
+        "color": "gold"
+      },
+      {
+        "title": "行刑",
+        "text": "1965年的绞架（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

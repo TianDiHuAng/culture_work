@@ -1,0 +1,113 @@
+{
+  "id": "xinshigudeLieshou",
+  "title": "心是孤独的猎手",
+  "original_title": "The Heart Is a Lonely Hunter",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mccalles",
+  "author_name": "卡森·麦卡勒斯",
+  "year_display": "1940年（作者页 B315 口径：The Heart Is a Lonely Hunter (1940)）",
+  "year_sort": 1940,
+  "background": [
+    "作者页（B315）：'her novels……explore the spiritual isolation of misfits and outcast characters in the small towns of the South'——本作为其成名作（B315 作者页定位）。",
+    "题材（通说待核）：聋哑人辛格与四位'倾诉者'——南方小镇的精神孤独。"
+  ],
+  "outline": [
+    "哑巴辛格成为小镇精神中心——四位倾诉者的孤独（通说待核）。",
+    "辛格自杀——孤独的崩塌（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "辛格",
+      "identity": "聋哑人",
+      "note": "倾诉的中心（通说待核）"
+    },
+    {
+      "name": "比夫",
+      "identity": "咖啡馆主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "米克",
+      "identity": "少女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "杰克·布朗特",
+      "identity": "流浪者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'孤独的猎手'：倾诉与误解（书名通说待核）。",
+    "南方小镇的'格格不入'（B315：misfits and outcast characters）。",
+    "种族与阶级（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：麦卡勒斯成名作（B315 作者页口径）。",
+      "source": "B315"
+    },
+    {
+      "text": "作者页：'spiritual isolation'主题（B315 作者级定位）。",
+      "source": "B315"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多人物视角。",
+      "'孤独'主题的密度。"
+    ],
+    "editions": [
+      "《心是孤独的猎手》（人民文学出版社/上海三联版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "麦卡勒斯首选。"
+  },
+  "pending": [
+    "1940年出版（Houghton Mifflin说）核对。",
+    "辛格（John Singer）/比夫/米克/布朗特人名核对。",
+    "1968年电影改编待核。"
+  ],
+  "sources": [
+    "B315"
+  ],
+  "year_source": "B315",
+  "author_source": "B315",
+  "related_works": [
+    "嘉莉妹妹",
+    "嘉莉妹妹"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《心是孤独的猎手》倾诉结构图",
+    "cards": [
+      {
+        "title": "辛格",
+        "text": "聋哑的中心（通说）",
+        "color": "main"
+      },
+      {
+        "title": "四位倾诉者",
+        "text": "比夫/米克/布朗特/考普兰（通说）",
+        "color": "family"
+      },
+      {
+        "title": "孤独",
+        "text": "'猎手'即'被猎'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "南方小镇",
+        "text": "1930年代（通说）",
+        "color": "plain"
+      }
+    ]
+  }
+}
