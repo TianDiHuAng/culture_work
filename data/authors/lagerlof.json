@@ -1,0 +1,63 @@
+{
+  "id": "lagerlof",
+  "name": "塞尔玛·拉格洛夫",
+  "foreign_name": "Selma Lagerlöf（塞尔玛·拉格勒夫/拉格洛夫，1858-11-20—1940-03-16）",
+  "country": "瑞典",
+  "birth": 1858,
+  "death": 1940,
+  "birth_year": 1858,
+  "death_year": 1940,
+  "era": "现当代",
+  "summary": "拉格洛夫，瑞典 Mårbacka 人，小说家——'celebrated for lyrical works like Gösta Berlings saga and The Wonderful Adventures of Nils'（以《古斯泰·贝林的故事》《尼尔斯骑鹅旅行记》等抒情之作著称——B311）；1909年'became the first woman and also the first Swedish writer to win the Nobel Prize for Literature'（首位女性与首位瑞典作家诺奖——B311）；以奖金购回 Mårbacka 庄园（B311）。'ranks among the most naturally gifted of modern storytellers'（现代最有天赋的讲故事者之一——B311）。",
+  "timeline": [
+    {
+      "year": 1858,
+      "text": "11月20日生于瑞典 Mårbacka（B311：Born Nov. 20, 1858, Mårbacka, Sweden）。",
+      "src": "B311"
+    },
+    {
+      "year": 1906,
+      "text": "《尼尔斯骑鹅旅行记》2卷出版（1906–07）——'a geography reader for children'（B311）。",
+      "src": "B311"
+    },
+    {
+      "year": 1909,
+      "text": "获诺贝尔文学奖（B311：first woman and first Swedish writer）。",
+      "src": "B311"
+    },
+    {
+      "year": 1940,
+      "text": "3月16日卒于 Mårbacka（B311）。",
+      "src": "B311"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qieelvxing",
+      "note": "2卷（B311：1906–07，'a geography reader for children'）"
+    },
+    {
+      "title": "古斯泰·贝林的故事",
+      "note": "（B311：Gösta Berlings saga）"
+    },
+    {
+      "title": "耶路撒冷",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'最自然天赋的讲故事者之一'（B311：naturally gifted……storytellers）。",
+    "抒情与传说融合（B311 语境：lyrical works）。",
+    "地理读本与童话的嫁接（B311：geography reader for children）。"
+  ],
+  "status": "Britannica 定位拉格洛夫为1909年诺奖得主（首位女性、首位瑞典获奖者）、'现代最有天赋的讲故事者之一'（B311）。",
+  "sources": [
+    "B311"
+  ],
+  "dates_source": "B311",
+  "pending": [
+    "《尼尔斯骑鹅旅行记》中译本（高子英等说）待核。",
+    "1909年诺奖授奖词待核。",
+    "《古斯泰·贝林的故事》1891年说待核。"
+  ]
+}

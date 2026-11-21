@@ -1,0 +1,103 @@
+{
+  "id": "qieelvxing",
+  "title": "骑鹅旅行记",
+  "original_title": "Nils Holgerssons underbara resa genom Sverige（The Wonderful Adventures of Nils）",
+  "region": "瑞典",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "童话（2卷）",
+  "genre_group": "故事集",
+  "language": "瑞典语",
+  "author_id": "lagerlof",
+  "author_name": "塞尔玛·拉格洛夫",
+  "year_display": "1906—1907年2卷出版（Britannica：2 vol. (1906–07)——'a geography reader for children'）",
+  "year_sort": 1906,
+  "background": [
+    "Britannica（B311）：'Nils Holgerssons underbara resa genom Sverige, 2 vol. (1906–07; The Wonderful Adventures of Nils and Further Adventures of Nils)'——'a geography reader for children'（给孩子的地理读本——B311）。",
+    "作者（B311）：1909年诺奖——'first woman and also the first Swedish writer'；'ranks among the most naturally gifted of modern storytellers'。"
+  ],
+  "outline": [
+    "顽童尼尔斯变小、骑鹅随雁群纵贯瑞典——地理读本与童话的嫁接（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "尼尔斯",
+      "identity": "顽童",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "阿卡",
+      "identity": "领头雁",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "瑞典地理的童话化（B311：geography reader）。",
+    "变小的成长（通说待核）。",
+    "人与自然的温柔（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a geography reader for children'——教育与文学的双重设计（B311）。",
+      "source": "B311"
+    },
+    {
+      "text": "作者页：拉格洛夫'现代最有天赋的讲故事者之一'（B311 作者级定位）。",
+      "source": "B311"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "瑞典地名与地理。",
+      "童话与地理读本的切换。"
+    ],
+    "editions": [
+      "《骑鹅旅行记》（人民文学出版社/中国少年儿童出版社版本，通说待核）。",
+      "瑞典文原版。"
+    ],
+    "order": "诺奖童话首选。"
+  },
+  "pending": [
+    "1906—07年2卷出版社说核对。",
+    "尼尔斯/阿卡人名核对。",
+    "原为教育委员会委托说待核。"
+  ],
+  "sources": [
+    "B311"
+  ],
+  "year_source": "B311",
+  "author_source": "B311",
+  "related_works": [
+    "antushengtonghua",
+    "wodeandongnia",
+    "gelintonghua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《骑鹅旅行记》雁群地图",
+    "cards": [
+      {
+        "title": "变小",
+        "text": "狐仙的魔法（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "雁群",
+        "text": "纵贯瑞典",
+        "color": "main"
+      },
+      {
+        "title": "尼尔斯",
+        "text": "顽童的成长",
+        "color": "family"
+      },
+      {
+        "title": "地理读本",
+        "text": "教育设计（B311）",
+        "color": "plain"
+      }
+    ]
+  }
+}

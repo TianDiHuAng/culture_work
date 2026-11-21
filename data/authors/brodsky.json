@@ -1,0 +1,68 @@
+{
+  "id": "brodsky",
+  "name": "约瑟夫·布罗茨基",
+  "foreign_name": "Joseph Brodsky（约瑟夫·布罗茨基，1940-05-24—1996-01-28）",
+  "country": "美国",
+  "birth": 1940,
+  "death": 1996,
+  "birth_year": 1940,
+  "death_year": 1996,
+  "era": "现当代",
+  "summary": "布罗茨基，列宁格勒生，'a Russian-born American poet'（俄国出生的美国诗人——B313）——1987年获诺贝尔文学奖 'for his important lyric and elegiac poems'（抒情诗与挽歌——B313）。1964年判5年苦役（1965缩短）；1972年被逐出苏联，此后居美国（B313：Exiled from the Soviet Union in 1972）；MacArthur fellowship 1981；美国桂冠诗人1991–92（B313）。主要作品含'the essays in Less Than One (1986)'（B313）。",
+  "timeline": [
+    {
+      "year": 1940,
+      "text": "5月24日生于列宁格勒（B313：Born May 24, 1940, Leningrad）。",
+      "src": "B313"
+    },
+    {
+      "year": 1964,
+      "text": "判5年苦役（1965年缩短）（B313：Sentenced 1964……commuted 1965）。",
+      "src": "B313"
+    },
+    {
+      "year": 1972,
+      "text": "被逐出苏联（B313：Exiled from the Soviet Union in 1972）。",
+      "src": "B313"
+    },
+    {
+      "year": 1987,
+      "text": "获诺贝尔文学奖（B313）。",
+      "src": "B313"
+    },
+    {
+      "year": 1996,
+      "text": "1月28日卒于布鲁克林（B313）。",
+      "src": "B313"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xiaoyuyi",
+      "note": "散文集（B313：Less Than One (1986)）"
+    },
+    {
+      "title": "诗选",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "水印",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'lyric and elegiac poems'（B313 授奖词）。",
+    "流亡诗学（B313：exiled……settled in the United States）。",
+    "英语散文随笔（B313：Less Than One）。"
+  ],
+  "status": "Britannica 定位布罗茨基为1987年诺奖得主、俄国出生的美国诗人（B313）；美国桂冠诗人1991–92（B313）。",
+  "sources": [
+    "B313"
+  ],
+  "dates_source": "B313",
+  "pending": [
+    "流亡罪名（'社会寄生'说）待核。",
+    "《小于一》1986年出版（Farrar, Straus说）核对。",
+    "'诗歌应该像步枪射击'说待核。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "canetti",
+  "name": "埃利亚斯·卡内蒂",
+  "foreign_name": "Elias Canetti（埃利亚斯·卡内蒂，1905-07-25—1994-08-14）",
+  "country": "英国",
+  "birth": 1905,
+  "death": 1994,
+  "birth_year": 1905,
+  "death_year": 1994,
+  "era": "现当代",
+  "summary": "卡内蒂，保加利亚鲁塞生、德语写作的小说家与剧作家（Britannica：Bulgarian-born, German-language novelist and playwright）——写群体心理学与权力：'His major work, Masse und Macht (1960; Crowds and Power), is an outgrowth of that interest'（B312 语境）；1981年获诺贝尔文学奖（B312）。《迷惑》——'A planned eight-novel saga of the disorder he saw around him was reduced to Die Blendung (1935; Auto-da-Fé, or The Tower of Babel)'（原计划八部曲缩减为一部——B312 语境）。",
+  "timeline": [
+    {
+      "year": 1905,
+      "text": "7月25日生于保加利亚鲁塞（B312：Born July 25, 1905, Ruse, Bulg.）。",
+      "src": "B312"
+    },
+    {
+      "year": 1935,
+      "text": "《迷惑》出版（B312：Die Blendung (1935)）。",
+      "src": "B312"
+    },
+    {
+      "year": 1960,
+      "text": "《群众与权力》出版（B312：Masse und Macht (1960)——'His major work'）。",
+      "src": "B312"
+    },
+    {
+      "year": 1981,
+      "text": "获诺贝尔文学奖（B312：Nobel Prize 1981）。",
+      "src": "B312"
+    },
+    {
+      "year": 1994,
+      "text": "8月14日卒于苏黎世（B312：died Aug. 14, 1994, Zürich, Switz.）。",
+      "src": "B312"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "mihuo",
+      "note": "长篇（B312：Die Blendung (1935)）"
+    },
+    {
+      "title": "群众与权力",
+      "note": "（B312：Masse und Macht (1960)——'His major work'）"
+    },
+    {
+      "title": "获救之舌",
+      "note": "自传（通说待核）"
+    }
+  ],
+  "style": [
+    "'crowds, the psychopathology of power'（B312 语境）。",
+    "个体与社会的对峙（B312：the position of the individual at odds）。",
+    "巴洛式狂想文体（通说待核）。"
+  ],
+  "status": "Britannica 定位卡内蒂为保加利亚出生德语作家、1981年诺奖得主（B312）。",
+  "sources": [
+    "B312"
+  ],
+  "dates_source": "B312",
+  "pending": [
+    "《迷惑》1935/1936出版（Herbert Reichner说）核对。",
+    "汉斯/彼得·基恩人名核对。",
+    "1981诺奖授奖词待核。"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "xiaoyuyi",
+  "title": "小于一",
+  "original_title": "Less Than One",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "brodsky",
+  "author_name": "约瑟夫·布罗茨基",
+  "year_display": "1986年（作者页 B313 口径：the essays in Less Than One (1986)）",
+  "year_sort": 1986,
+  "background": [
+    "作者页（B313）：布罗茨基 major works 含'the essays in Less Than One (1986)'（B313 作者页定位）。",
+    "作者（B313）：1987年诺奖——'for his important lyric and elegiac poems'；1972年被逐出苏联；美国桂冠诗人1991–92。"
+  ],
+  "outline": [
+    "彼得堡童年、阿赫玛托娃、茨维塔耶娃、Riga？——不：流亡与诗的散文自白（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "布罗茨基",
+      "identity": "散文作者",
+      "note": "（B313）"
+    }
+  ],
+  "themes": [
+    "流亡与语言（通说待核）。",
+    "诗人的前辈（阿赫玛托娃等——通说待核）。",
+    "'小于一'：自我的减法（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：布罗茨基散文代表作（B313 作者页口径）。",
+      "source": "B313"
+    },
+    {
+      "text": "作者页：1987年诺奖——'lyric and elegiac poems'（B313 作者级）。",
+      "source": "B313"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "散文的诗性密度。",
+      "俄苏文学史背景。"
+    ],
+    "editions": [
+      "《小于一》（浙江大学出版社/上海译文版本，通说待核）。",
+      "英文原版（Farrar, Straus）。"
+    ],
+    "order": "布罗茨基散文首选。"
+  },
+  "pending": [
+    "篇目（ Less Than One/Praise of Boredom 等）核对。",
+    "1986年出版（Farrar, Straus and Giroux说）核对。",
+    "'诗歌是语言的最高的存在形式'说待核。"
+  ],
+  "sources": [
+    "B313"
+  ],
+  "year_source": "B313",
+  "author_source": "B313",
+  "related_works": [
+    "anhunqu",
+    "ershoushijian",
+    "mengtiansuibi"
+  ],
+  "x_placeholder": null,
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小于一》流亡散文图",
+    "cards": [
+      {
+        "title": "彼得堡",
+        "text": "童年的语言",
+        "color": "family"
+      },
+      {
+        "title": "流亡",
+        "text": "1972年出走（B313）",
+        "color": "antagonist"
+      },
+      {
+        "title": "前辈诗人",
+        "text": "阿赫玛托娃等",
+        "color": "gold"
+      },
+      {
+        "title": "小于一",
+        "text": "自我的减法",
+        "color": "main"
+      }
+    ]
+  }
+}

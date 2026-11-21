@@ -1,0 +1,98 @@
+{
+  "id": "erzhanyihuilu",
+  "title": "第二次世界大战回忆录",
+  "original_title": "The Second World War（六卷）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "回忆录（六卷）",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "churchill",
+  "author_name": "温斯顿·丘吉尔",
+  "year_display": "1948—1954年六卷出版（通说待核；Britannica B314 正文未载——仅 Nobel Prize 1953 Quick Facts）",
+  "year_sort": 1948,
+  "background": [
+    "作者页（B314）：丘吉尔诺贝尔奖 1953（Quick Facts——'Nobel Prize (1953)'）；演说（B314）：'He excelled in the set speech, on which he always spent enormous pains'。",
+    "六卷（1948—54说——通说待核）；1953年诺奖授奖词（'master of historical description'说——通说待核）。"
+  ],
+  "outline": [
+    "六卷：风云紧急/最光辉的时刻/伟大的同盟/命运的关键/紧缩包围圈/胜利与悲剧（卷名通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "丘吉尔",
+      "identity": "首相·作者",
+      "note": "（B314）"
+    }
+  ],
+  "themes": [
+    "战时 memoir 与历史书写（通说待核）。",
+    "'胜利不惜一切代价'的演说（通说待核）。",
+    "英语民族的历史叙事（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：丘吉尔诺贝尔奖 1953（B314 Quick Facts）。",
+      "source": "B314"
+    },
+    {
+      "text": "作者页：'He excelled in the set speech'（B314）。",
+      "source": "B314"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "六卷体量。",
+      "二战史全景。"
+    ],
+    "editions": [
+      "《第二次世界大战回忆录》（商务印书馆/译林版本，通说待核）。",
+      "英文原版（Cassell/Houghton Mifflin）。"
+    ],
+    "order": "对照《第一次世界大战回忆录》（通说——丘吉尔 World Crisis）。"
+  },
+  "pending": [
+    "六卷卷名与年份核对。",
+    "1953诺奖授奖词（'master of historical description'说）核对。",
+    "'The Second World War'书名（六卷本各卷名）待核。"
+  ],
+  "sources": [
+    "B314"
+  ],
+  "year_source": "B314",
+  "author_source": "B314",
+  "related_works": [
+    "zhanzheng",
+    "yijiubasi",
+    "gulage"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《二战回忆录》六卷结构图",
+    "cards": [
+      {
+        "title": "风云紧急",
+        "text": "卷一（通说）",
+        "color": "family"
+      },
+      {
+        "title": "最光辉的时刻",
+        "text": "卷二（通说）",
+        "color": "main"
+      },
+      {
+        "title": "命运的关键",
+        "text": "卷四（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "胜利与悲剧",
+        "text": "卷六（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

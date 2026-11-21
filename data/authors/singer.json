@@ -1,0 +1,63 @@
+{
+  "id": "singer",
+  "name": "艾萨克·巴什维斯·辛格",
+  "foreign_name": "Isaac Bashevis Singer（艾萨克·巴什维斯·辛格，1903—1991-07-24；生年存疑）",
+  "country": "美国",
+  "birth": 1903,
+  "death": 1991,
+  "birth_year": 1903,
+  "death_year": 1991,
+  "era": "现当代",
+  "summary": "辛格，波兰莱翁钦生（出生日期不确定——B312：Born July 14?, 1903, Leoncin, Poland……year possibly 1904），波兰裔美国作家——以意第绪语写长篇、短篇与散文，1978年获诺贝尔文学奖（B312）。'His fiction depicts Jewish life in Poland and the United States, blending irony, wit, and wisdom with the occult and grotesque'（写波兰与美国的犹太生活，融合反讽、机智、智慧与神秘怪诞——B312）。瑞典学院特别称赞其'in My Father's Court (1966)'（B312）。",
+  "timeline": [
+    {
+      "year": 1903,
+      "text": "生于波兰莱翁钦（出生日期不确定——B312：Born July 14?, 1903……year possibly 1904）。",
+      "src": "B312"
+    },
+    {
+      "year": 1935,
+      "text": "移民美国（1935年说——通说待核）。",
+      "src": "B312"
+    },
+    {
+      "year": 1978,
+      "text": "获诺贝尔文学奖（B312：Nobel Prize for Literature 1978）。",
+      "src": "B312"
+    },
+    {
+      "year": 1991,
+      "text": "7月24日卒于佛罗里达州瑟夫赛德（B312：Died July 24, 1991, Surfside, Florida）。",
+      "src": "B312"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shagua",
+      "note": "短篇（B312：Gimpel the Fool (1957)）"
+    },
+    {
+      "title": "羽毛冠",
+      "note": "（B312：A Crown of Feathers (1973; National Book Award)）"
+    },
+    {
+      "title": "卢布林的魔术师",
+      "note": "（通说待核——B312 未载）"
+    }
+  ],
+  "style": [
+    "'blending irony, wit, and wisdom with the occult and grotesque'（B312）。",
+    "意第绪语写作（B312：novels, short stories, and essays in Yiddish）。",
+    "魔鬼与怪诞（通说待核——其恶魔故事）。"
+  ],
+  "status": "Britannica 定位辛格为意第绪语作家、1978年诺奖得主（B312）；瑞典学院特别称赞《在父亲的法庭上》（B312）。",
+  "sources": [
+    "B312"
+  ],
+  "dates_source": "B312",
+  "pending": [
+    "生年与出生日期的多说并存核对。",
+    "《卢布林的魔术师》1960年说待核。",
+    "《傻瓜吉姆佩尔》与《迈塞斯》关系待核。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "churchill",
+  "name": "温斯顿·丘吉尔",
+  "foreign_name": "Winston Churchill（温斯顿·丘吉尔，1874-11-30—1965-01-24）",
+  "country": "英国",
+  "birth": 1874,
+  "death": 1965,
+  "birth_year": 1874,
+  "death_year": 1965,
+  "era": "现当代",
+  "summary": "丘吉尔，牛津郡布伦海姆宫生，英国政治家——两任首相（1940–45、1951–55——B314）；1953年获诺贝尔文学奖（B314 Quick Facts）。演说（B314）：'He excelled in the set speech, on which he always spent enormous pains'；曾有言语缺陷'until he never wholly lost'；The River War——'brilliantly describes the campaign'；马拉坎德派遣稿'launch him on the career of authorship'（B314）。",
+  "timeline": [
+    {
+      "year": 1874,
+      "text": "11月30日生于牛津郡布伦海姆宫（B314：Born November 30, 1874, Blenheim Palace）。",
+      "src": "B314"
+    },
+    {
+      "year": 1898,
+      "text": "《马拉坎德野战军纪实》出版（B314：The Story of the Malakand Field Force (1898)）。",
+      "src": "B314"
+    },
+    {
+      "year": 1940,
+      "text": "首任首相（1940–45——B314）。",
+      "src": "B314"
+    },
+    {
+      "year": 1953,
+      "text": "获诺贝尔文学奖（B314：Nobel Prize 1953——Quick Facts）。",
+      "src": "B314"
+    },
+    {
+      "year": 1965,
+      "text": "1月24日卒于伦敦（B314）。",
+      "src": "B314"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "erzhanyihuilu",
+      "note": "回忆录六卷（1948—54说——通说待核；B314 正文未载）"
+    },
+    {
+      "title": "马拉坎德野战军纪实、河流战争",
+      "note": "（B314：1898/1899）"
+    },
+    {
+      "title": "英语民族史",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'set speech'的苦工（B314：enormous pains）。",
+    "'heavy but not very mobile guns'（Balfour 语——B314 转引）。",
+    "历史书写以演说家笔法（通说待核）。"
+  ],
+  "status": "Britannica 定位丘吉尔为英国政治家、1953年诺贝尔文学奖得主（B314 Quick Facts）；两次首相（B314）。",
+  "sources": [
+    "B314"
+  ],
+  "dates_source": "B314",
+  "pending": [
+    "《第二次世界大战回忆录》六卷（1948—1954，Houghton Mifflin说）核对——B314 正文未载。",
+    "1953诺奖授奖词（'master of historical description'说）待核。",
+    "《英语民族史》四卷说待核。"
+  ]
+}

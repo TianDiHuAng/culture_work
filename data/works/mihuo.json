@@ -1,0 +1,104 @@
+{
+  "id": "mihuo",
+  "title": "迷惑",
+  "original_title": "Die Blendung（Auto-da-Fé）",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "canetti",
+  "author_name": "埃利亚斯·卡内蒂",
+  "year_display": "1935年（Britannica：Die Blendung (1935; Auto-da-Fé, or The Tower of Babel)）",
+  "year_sort": 1935,
+  "background": [
+    "Britannica（B312）：'A planned eight-novel saga of the disorder he saw around him was reduced to Die Blendung (1935; Auto-da-Fé, or The Tower of Babel)'——原计划八部曲缩为一部。",
+    "作者（B312）：1981诺奖；'His major work, Masse und Macht (1960; Crowds and Power)'；'crowds, the psychopathology of power'（B312 语境）。"
+  ],
+  "outline": [
+    "汉学家彼得·基恩的藏书与房间——被女仆与'弟弟'逐出家门（通说待核）。",
+    "藏书之火（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "彼得·基恩",
+      "identity": "汉学家",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "泰蕾兹",
+      "identity": "女仆",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "藏书人自焚的寓言（通说待核）。",
+    "群众与权力的先声（B312：Masse und Macht 语境）。",
+    "知识分子的脆弱（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'A planned eight-novel saga……was reduced to Die Blendung (1935)'（B312）。",
+      "source": "B312"
+    },
+    {
+      "text": "作者页：卡内蒂1981年诺奖（B312 作者级定位）。",
+      "source": "B312"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "巴洛式狂想文体。",
+      "书痴心理。"
+    ],
+    "editions": [
+      "《迷惑》（中译本信息待核）。",
+      "德文原版（Herbert Reichner）。"
+    ],
+    "order": "先《迷惑》后《群众与权力》。"
+  },
+  "pending": [
+    "1935/1936出版核对。",
+    "彼得·基恩/泰蕾兹人名核对。",
+    "书名 Auto-da-Fé（火刑）的题解待核。"
+  ],
+  "sources": [
+    "B312"
+  ],
+  "year_source": "B312",
+  "author_source": "B312",
+  "related_works": [
+    "dashiyumageeligeta",
+    "di'ertiaojugui",
+    "muqin_brecht"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《迷惑》藏书火图",
+    "cards": [
+      {
+        "title": "藏书",
+        "text": "两万五千册（通说）",
+        "color": "family"
+      },
+      {
+        "title": "基恩",
+        "text": "书痴的疯狂",
+        "color": "main"
+      },
+      {
+        "title": "火",
+        "text": "Auto-da-Fé（B312）",
+        "color": "antagonist"
+      },
+      {
+        "title": "群众",
+        "text": "《群众与权力》的先声",
+        "color": "gold"
+      }
+    ]
+  }
+}

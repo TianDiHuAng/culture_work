@@ -1,0 +1,103 @@
+{
+  "id": "shagua",
+  "title": "傻瓜吉姆佩尔",
+  "original_title": "Gimpel the Fool（גימפל תאַמ）",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "意第绪语",
+  "author_id": "singer",
+  "author_name": "艾萨克·巴什维斯·辛格",
+  "year_display": "1957年（Britannica B312：'the short story, Gimpel the Fool (1957)'）",
+  "year_sort": 1957,
+  "background": [
+    "Britannica（B312）：'the short story, Gimpel the Fool (1957)'——辛格 best-known works 之一；作者：'blending irony, wit, and wisdom with the occult and grotesque'（B312 作者级定位）。",
+    "题材（通说待核）：圣彼得堡？——不：犹太村里被愚弄的面包师吉姆佩尔的'信仰'与'魔鬼'对话。"
+  ],
+  "outline": [
+    "吉姆佩尔被全村愚弄——魔鬼的怂恿与最终的宽恕出走（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "吉姆佩尔",
+      "identity": "面包师",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "埃尔卡",
+      "identity": "妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'傻瓜'的信仰（通说待核——以撒·辛格式）。",
+    "魔鬼与犹太神秘主义（通说待核）。",
+    "宽恕与出走（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：辛格 best-known works 含'Gimpel the Fool (1957)'（B312）。",
+      "source": "B312"
+    },
+    {
+      "text": "Britannica：辛格1978年诺奖（B312 作者级定位）。",
+      "source": "B312"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "意第绪语背景（中译自英译）。",
+      "犹太神秘主义（通说待核）。"
+    ],
+    "editions": [
+      "《傻瓜吉姆佩尔》（收于辛格短篇集，通说待核）。",
+      "英译（Saul Bellow 译——通说待核）。"
+    ],
+    "order": "辛格短篇首选。"
+  },
+  "pending": [
+    "1957年（《评论》Translation说）核对。",
+    "吉姆佩尔/埃尔卡人名核对。",
+    "贝娄英译（1957《常青树评论》说）待核。"
+  ],
+  "sources": [
+    "B312"
+  ],
+  "year_source": "B312",
+  "author_source": "B312",
+  "related_works": [
+    "haorennanxun",
+    "jiugushi",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《傻瓜吉姆佩尔》信仰结构图",
+    "cards": [
+      {
+        "title": "吉姆佩尔",
+        "text": "被愚弄的面包师",
+        "color": "main"
+      },
+      {
+        "title": "魔鬼",
+        "text": "怂恿的声音",
+        "color": "antagonist"
+      },
+      {
+        "title": "宽恕",
+        "text": "出走与流浪",
+        "color": "gold"
+      },
+      {
+        "title": "信仰",
+        "text": "傻瓜的智慧",
+        "color": "family"
+      }
+    ]
+  }
+}

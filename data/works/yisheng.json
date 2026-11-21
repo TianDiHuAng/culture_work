@@ -1,0 +1,104 @@
+{
+  "id": "yisheng",
+  "title": "一生",
+  "original_title": "Une Vie（A Woman's Life）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "maupassant",
+  "author_name": "居·德·莫泊桑",
+  "year_display": "出版年份待核（Britannica B310：Notable Works 列表载'A Woman's Life'——1883年说通说待核）",
+  "year_sort": 1883,
+  "background": [
+    "Britannica（B310）：莫泊桑 major works Quick Facts 载'A Woman's Life'（一生）——正文未载细节（通说待核：约娜的诺曼底庄园故事）。",
+    "作者（B310）：'widely considered the greatest French short-story author'，约300篇短篇；福楼拜门徒——'He is my disciple and I love him like a son'。"
+  ],
+  "outline": [
+    "约娜的一生：修道院→婚姻→丈夫的背叛→儿子的堕落（通说待核）。",
+    "诺曼底庄园的四季（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约娜",
+      "identity": "女庄园主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "于连",
+      "identity": "丈夫",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性一生的幻灭（通说待核）。",
+    "诺曼底乡土（通说）。",
+    "自然主义的婚姻解剖（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：莫泊桑 Notable Works 含'A Woman's Life'（B310）。",
+      "source": "B310"
+    },
+    {
+      "text": "Britannica：莫泊桑为福楼拜门徒、'greatest French short-story author'（B310）。",
+      "source": "B310"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长篇的心理铺陈。",
+      "诺曼底庄园生活。"
+    ],
+    "editions": [
+      "《一生》（人民文学出版社，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "先短篇后《一生》。"
+  },
+  "pending": [
+    "1883年出版（Victor Havard说）核对。",
+    "约娜/于连人名核对。",
+    "《漂亮朋友》1885年说待核。"
+  ],
+  "sources": [
+    "B310"
+  ],
+  "year_source": "B310",
+  "author_source": "B310",
+  "related_works": [
+    "piaoliangpengyou",
+    "baofali",
+    "ouhengliduanpianxuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一生》约娜一生图",
+    "cards": [
+      {
+        "title": "修道院",
+        "text": "梦的开始",
+        "color": "family"
+      },
+      {
+        "title": "婚姻",
+        "text": "于连的背叛",
+        "color": "antagonist"
+      },
+      {
+        "title": "儿子",
+        "text": "二次幻灭",
+        "color": "gold"
+      },
+      {
+        "title": "约娜",
+        "text": "一生如寄",
+        "color": "main"
+      }
+    ]
+  }
+}
