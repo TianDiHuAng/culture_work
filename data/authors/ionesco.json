@@ -1,0 +1,72 @@
+{
+  "id": "ionesco",
+  "name": "欧仁·尤涅斯库",
+  "foreign_name": "Eugène Ionesco（欧仁·尤涅斯库，1909-11-26—1994-03-28）",
+  "country": "法国",
+  "birth": 1909,
+  "death": 1994,
+  "birth_year": 1909,
+  "death_year": 1994,
+  "era": "现当代",
+  "summary": "尤涅斯库，罗马尼亚 Slatina 生、巴黎成家，法国剧作家——'whose one-act antiplay La Cantatrice chauve (1949; The Bald Soprano) inspired a revolution in dramatic techniques and helped inaugurate the Theatre of the Absurd'（其独幕'反戏剧'《秃头歌女》引发戏剧技巧的革命并促成荒诞派——B340）。1970年入选法兰西学院（B340）。他更愿意称自己的戏剧为'theatre of derision'（嘲弄的戏剧——B340）。Rhinoceros（犀牛, 1959）——'a play about totalitarianism, remains Ionesco's most popular work'（B340）。其戏剧呈现'the absurdity of bourgeois life, the meaninglessness of social conventions, and the futile and mechanical nature of modern civilization'（B340）。",
+  "timeline": [
+    {
+      "year": 1909,
+      "text": "11月26日生于罗马尼亚 Slatina（B340）。",
+      "src": "B340"
+    },
+    {
+      "year": 1949,
+      "text": "独幕'反戏剧'《秃头歌女》——促成荒诞派（B340）。",
+      "src": "B340"
+    },
+    {
+      "year": 1959,
+      "text": "《犀牛》——关于极权主义的剧作，其最受欢迎的作品（B340）。",
+      "src": "B340"
+    },
+    {
+      "year": 1970,
+      "text": "入选法兰西学院（B340）。",
+      "src": "B340"
+    },
+    {
+      "year": 1994,
+      "text": "3月28日卒于巴黎（B340）。",
+      "src": "B340"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "toutougeonv",
+      "note": "1949（B340）"
+    },
+    {
+      "work_id": "xiniu",
+      "note": "1959（B340）"
+    },
+    {
+      "title": "椅子",
+      "note": "（B340：Les Chaises (1952)）"
+    },
+    {
+      "title": "国王死去",
+      "note": "（B340：Exit the King (1962)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'反戏剧'与'反逻辑'（B340：antiplay / antilogical）。",
+    "陈词滥调与无序对话（B340：clichés, non sequiturs——'masterly catalog of senseless platitudes'）。",
+    "道具的滑稽增殖直至淹没演员（B340：multiplication of objects on stage）。"
+  ],
+  "status": "Britannica 定位尤涅斯库为荒诞派戏剧的开创者之一、法兰西学院院士（B340）。",
+  "sources": [
+    "B340"
+  ],
+  "dates_source": "B340",
+  "pending": [
+    "《秃头歌女》1949年巴黎首演（Théâtre des Noctambules说）待核。",
+    "《犀牛》1960年伦敦演出细节待核。",
+    "'theatre of derision'通行译名待核。"
+  ]
+}

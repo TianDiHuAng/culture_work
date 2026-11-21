@@ -1,0 +1,68 @@
+{
+  "id": "svevo",
+  "name": "伊塔洛·斯韦沃",
+  "foreign_name": "Italo Svevo（伊塔洛·斯韦沃，原名 Ettore Schmitz，1861-12-19—1928-09-13）",
+  "country": "意大利",
+  "birth": 1861,
+  "death": 1928,
+  "birth_year": 1861,
+  "death_year": 1928,
+  "era": "近代",
+  "summary": "斯韦沃，原名 Ettore Schmitz，的里雅斯特生（时属奥匈帝国），意大利小说家——'a pioneer of the psychological novel in Italy'（意大利心理小说的先驱——B339）。La coscienza di Zeno（泽诺的意识, 1923）——'a brilliant work in the form of a patient's statement for his psychiatrist'（以病人向精神医生的自述为形式的天才之作——B339）——最初自费出版（B339）。1907年他的英语家庭教师是乔伊斯；乔伊斯对其早期两部小说的推崇促使他重返写作（B339）；后经法国评论家 Larbaud 与 Crémieux 扬名（B339）；蒙塔莱1925年在 L'Esame 撰文推崇（B339）。1928年9月13日因车祸卒（B339）。",
+  "timeline": [
+    {
+      "year": 1861,
+      "text": "12月19日生于的里雅斯特（B339：Born Dec. 19, 1861, Trieste, Austrian Empire）。",
+      "src": "B339"
+    },
+    {
+      "year": 1892,
+      "text": "处女作 Una vita——'the agonies of an ineffectual hero'，出版后被忽视（B339）。",
+      "src": "B339"
+    },
+    {
+      "year": 1907,
+      "text": "英语家庭教师乔伊斯到任；乔伊斯的推崇促使其重返写作（B339）。",
+      "src": "B339"
+    },
+    {
+      "year": 1923,
+      "text": "《泽诺的意识》自费出版（B339）。",
+      "src": "B339"
+    },
+    {
+      "year": 1928,
+      "text": "9月13日因车祸卒于 Motta di Livenza（B339）。",
+      "src": "B339"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zenodeyishi",
+      "note": "1923（B339）"
+    },
+    {
+      "title": "暮老/年长之后",
+      "note": "（B339：Senilità (1898)——'featuring another bewildered hero'——中译名待核）"
+    },
+    {
+      "title": "一生",
+      "note": "（B339：Una vita (1892)）"
+    }
+  ],
+  "style": [
+    "病人自述体的心理书写（B339：patient's statement for his psychiatrist）。",
+    "'ineffective hero'——无能者的悲剧（B339：ineffectual/bewildered hero）。",
+    "的里雅斯特商人与作家的双重身份（B339 语境：German-Jewish glassware merchant 之子）。"
+  ],
+  "status": "Britannica 定位斯韦沃为意大利心理小说的先驱；乔伊斯是其文学复出的推手（B339）。",
+  "sources": [
+    "B339"
+  ],
+  "dates_source": "B339",
+  "pending": [
+    "Senilità 通行中译名（《暮老》/《年长之后》）待核。",
+    "《泽诺的意识》1923年 Cappelli 出版社自费出版说待核。",
+    "乔伊斯授课细节（Berlitz学校说）待核。"
+  ]
+}

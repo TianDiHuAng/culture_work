@@ -1,0 +1,100 @@
+{
+  "id": "wuguigu",
+  "title": "乌贼骨",
+  "original_title": "Ossi di seppia",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪20年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "montale",
+  "author_name": "埃乌杰尼奥·蒙塔莱",
+  "year_display": "1925年（Britannica B341：Ossi di seppia (1925; Cuttlefish Bones)）",
+  "year_sort": 1925,
+  "background": [
+    "Britannica（B341）：Ossi di seppia——'expressed the bitter pessimism of the postwar period'（表达了战后年代的苦涩悲观）。",
+    "Britannica（B341）：'A tragic vision of the world as a dry, barren, hostile wilderness'——把世界视为干涸、荒芜、充满敌意的荒野的悲剧性视野。",
+    "Britannica（B341）：蒙塔莱属隐逸派传统——'emotional suggestiveness of words and a symbolism of purely subjective meaning'。"
+  ],
+  "outline": [
+    "利古里亚海岸的'干石'意象群：荒凉之地与'墙缝里的光'（意象通说待核——B341未载具体篇目）。",
+    "'苦涩悲观'的抒情化：个人声音对抗公共语言（B341 语境）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "旁观者/幸存者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "战后苦涩悲观（B341：bitter pessimism of the postwar period）。",
+    "世界即荒野的悲剧视野（B341）。",
+    "隐逸派：主观象征与词的暗示力（B341：Hermeticism）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：蒙塔莱1975年诺奖（B341）。",
+      "source": "B341"
+    },
+    {
+      "text": "Britannica：'progressively more introverted and obscure'——其后来诗风的起点（B341）。",
+      "source": "B341"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "隐逸派的晦涩。",
+      "利古里亚海岸地名（莱里奇等——通说待核）。"
+    ],
+    "editions": [
+      "《乌贼骨》中译本（人民文学/译林等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "蒙塔莱首选；后接《境遇》(1939)。"
+  },
+  "pending": [
+    "具体篇目（《常常身处 mechanical》等）核对——B341未载。",
+    "'干石/墙缝'意象细节待核。",
+    "1925年出版（Pier Angelo Soldini序说）待核。"
+  ],
+  "sources": [
+    "B341"
+  ],
+  "year_source": "B341",
+  "author_source": "B341",
+  "related_works": [
+    "diyuzhiji",
+    "ezhihua",
+    "huangyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《乌贼骨》荒野意象图",
+    "cards": [
+      {
+        "title": "乌贼骨",
+        "text": "海滩的残骸（通说）",
+        "color": "main"
+      },
+      {
+        "title": "荒野",
+        "text": "干涸敌意的世界（B341）",
+        "color": "antagonist"
+      },
+      {
+        "title": "悲观",
+        "text": "战后的苦涩（B341）",
+        "color": "gold"
+      },
+      {
+        "title": "象征",
+        "text": "主观的暗示（B341）",
+        "color": "family"
+      }
+    ]
+  }
+}

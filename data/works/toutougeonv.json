@@ -1,0 +1,105 @@
+{
+  "id": "toutougeonv",
+  "title": "秃头歌女",
+  "original_title": "La Cantatrice chauve",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪40年代末",
+  "genre": "独幕剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "ionesco",
+  "author_name": "欧仁·尤涅斯库",
+  "year_display": "1949年（Britannica B340：La Cantatrice chauve (1949; The Bald Soprano)）",
+  "year_sort": 1949,
+  "background": [
+    "Britannica（B340）：'one-act antiplay'——'inspired a revolution in dramatic techniques and helped inaugurate the Theatre of the Absurd'（其独幕'反戏剧'引发戏剧技巧革命并促成荒诞派）。",
+    "Britannica（B340）：'masterly catalog of senseless platitudes'（对陈腐套话的大师级清点）。",
+    "Britannica（B340）：尤涅斯库自称其戏剧为'theatre of derision'（嘲弄的戏剧）。"
+  ],
+  "outline": [
+    "'反戏剧'：一场由陈词滥调组成的晚餐对话（B340：catalog of senseless platitudes——剧情细节通说待核）。",
+    "剧终人物互换与循环：'秃头歌女'并未出现（剧终细节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "马丁夫妇/史密斯夫妇",
+      "identity": "两对中产夫妇",
+      "note": "（通说待核，B340未载）"
+    },
+    {
+      "name": "消防队长",
+      "identity": "来客",
+      "note": "（通说待核，B340未载）"
+    }
+  ],
+  "themes": [
+    "中产生活的荒诞（B340：the absurdity of bourgeois life）。",
+    "语言的失效：套话的空转（B340：senseless platitudes）。",
+    "'反戏剧'的形式宣言（B340：antiplay / antilogical）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'inspired a revolution in dramatic techniques and helped inaugurate the Theatre of the Absurd'（B340）。",
+      "source": "B340"
+    },
+    {
+      "text": "Britannica：与贝克特等同为荒诞派源头（作者页 B340 定位）。",
+      "source": "B340"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'反戏剧'的舞台惯例。",
+      "伦敦腔套话的法语戏仿（原文语境）。"
+    ],
+    "editions": [
+      "《秃头歌女》中译本（人民文学《荒诞派戏剧集》等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "荒诞派入门首选；后接《犀牛》《等待戈多》。"
+  },
+  "pending": [
+    "1949年首演（Théâtre des Noctambules说）与导演（Nicolas Bataille说）待核。",
+    "史密斯/马丁夫妇人名核对（B340未载）。",
+    "'antiplay'一词通行译法待核。"
+  ],
+  "sources": [
+    "B340"
+  ],
+  "year_source": "B340",
+  "author_source": "B340",
+  "related_works": [
+    "dengdaigou",
+    "liugejuesesouzhao",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《秃头歌女》语言空转图",
+    "cards": [
+      {
+        "title": "晚餐",
+        "text": "套话的清点（B340）",
+        "color": "main"
+      },
+      {
+        "title": "'反戏剧'",
+        "text": "antiplay（B340）",
+        "color": "gold"
+      },
+      {
+        "title": "荒诞派",
+        "text": "由此开幕（B340）",
+        "color": "family"
+      },
+      {
+        "title": "空转",
+        "text": "语言的失效（B340）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

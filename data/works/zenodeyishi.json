@@ -1,0 +1,105 @@
+{
+  "id": "zenodeyishi",
+  "title": "泽诺的意识",
+  "original_title": "La coscienza di Zeno",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "svevo",
+  "author_name": "伊塔洛·斯韦沃",
+  "year_display": "1923年（Britannica B339：La coscienza di Zeno (1923)——自费出版）",
+  "year_sort": 1923,
+  "background": [
+    "Britannica（B339）：'a brilliant work in the form of a patient's statement for his psychiatrist'——小说以病人写给精神医生的自述为形式。",
+    "Britannica（B339）：斯韦沃——'a pioneer of the psychological novel in Italy'。",
+    "Britannica（B339）：本书最初由作者自费出版；此前两部小说出版后被忽视，乔伊斯的推崇促使其重返写作。"
+  ],
+  "outline": [
+    "'病人'泽诺向精神医生自述：戒烟、婚姻、外遇、父丧与商海（自述章节结构通说待核——B339未载细节）。",
+    "'意识'的拖延与自我辩护：心理小说的先驱形式（B339：pioneer of the psychological novel）。"
+  ],
+  "characters": [
+    {
+      "name": "泽诺",
+      "identity": "病人/自述者",
+      "note": "（B339 书名人物）"
+    },
+    {
+      "name": "精神医生",
+      "identity": "自述的接受者",
+      "note": "（通说待核，B339未载）"
+    }
+  ],
+  "themes": [
+    "'意识'即自我辩护的档案（B339：patient's statement 形式）。",
+    "无能者与自欺的喜剧（B339：ineffectual hero 语系）。",
+    "精神分析与小说形式的交汇（B339 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a brilliant work...'（B339）。",
+      "source": "B339"
+    },
+    {
+      "text": "Britannica：乔伊斯推动其复出、法国评论家与蒙塔莱为其扬名（B339）。",
+      "source": "B339"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自述体的不可靠叙述。",
+      "一战前后奥匈治下的的里雅斯特背景。"
+    ],
+    "editions": [
+      "《泽诺的意识》中译本（人民文学/上海译文等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "斯韦沃首选；可后接《暮老》。"
+  },
+  "pending": [
+    "泽诺全名（Cosini说）核对（B339未载）。",
+    "章节名（烟/婚事/妻子之死等）核对。",
+    "1923年自费出版细节核对。"
+  ],
+  "sources": [
+    "B339"
+  ],
+  "year_source": "B339",
+  "author_source": "B339",
+  "related_works": [
+    "yigewushiwan",
+    "chengbao",
+    "xinshigudeLieshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《泽诺的意识》自述结构图",
+    "cards": [
+      {
+        "title": "泽诺",
+        "text": "自述的病人（B339）",
+        "color": "main"
+      },
+      {
+        "title": "精神医生",
+        "text": "自述的档案（B339）",
+        "color": "gold"
+      },
+      {
+        "title": "戒烟",
+        "text": "拖延与自欺（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "意识",
+        "text": "心理小说先驱（B339）",
+        "color": "family"
+      }
+    ]
+  }
+}

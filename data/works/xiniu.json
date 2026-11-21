@@ -1,0 +1,105 @@
+{
+  "id": "xiniu",
+  "title": "犀牛",
+  "original_title": "Le Rhinocéros",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代末",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "ionesco",
+  "author_name": "欧仁·尤涅斯库",
+  "year_display": "1959年（Britannica B340：Rhinoceros (1959)——'a play about totalitarianism, remains Ionesco's most popular work'）",
+  "year_sort": 1959,
+  "background": [
+    "Britannica（B340）：Rhinoceros——'a play about totalitarianism'——'remains Ionesco's most popular work'（关于极权主义；仍是尤涅斯库最受欢迎的作品）。",
+    "Britannica（B340）：尤涅斯库戏剧呈现'意义的失落'与'现代文明的机械性'（the meaninglessness of social conventions, the futile and mechanical nature of modern civilization）。",
+    "题材（通说待核）：小城居民相继变成犀牛——'独善其身'者的抵抗与溃败。"
+  ],
+  "outline": [
+    "城里人一个个'变犀牛'：从街谈巷议到集体兽化（B340：about totalitarianism——变身情节通说待核）。",
+    "贝朗热的独留：'我还是人'的挣扎（人物名与结局通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "贝朗热",
+      "identity": "小职员",
+      "note": "（通说待核，B340未载）"
+    },
+    {
+      "name": "让",
+      "identity": "朋友",
+      "note": "（通说待核，B340未载）"
+    }
+  ],
+  "themes": [
+    "极权主义的'兽化'寓言（B340：about totalitarianism）。",
+    "从众与抵抗（通说待核）。",
+    "现代文明的机械性（B340：futile and mechanical nature of modern civilization）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'remains Ionesco's most popular work'（B340）。",
+      "source": "B340"
+    },
+    {
+      "text": "Britannica：荒诞派开创者之一（B340 定位）。",
+      "source": "B340"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "极权主义的历史语境（1930年代罗马尼亚铁卫团说待核）。",
+      "'变身'的舞台美学。"
+    ],
+    "editions": [
+      "《犀牛》中译本（人民文学/上海译文等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "尤涅斯库代表作；与《秃头歌女》并读。"
+  },
+  "pending": [
+    "贝朗热/让人名核对（B340未载）。",
+    "1959年巴黎首演、1960年伦敦（奥利弗主演说）待核。",
+    "'集体狂热'意象与审巫案的互文待核。"
+  ],
+  "sources": [
+    "B340"
+  ],
+  "year_source": "B340",
+  "author_source": "B340",
+  "related_works": [
+    "toutougeonv",
+    "dengdaigou",
+    "salemwunv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《犀牛》兽化结构图",
+    "cards": [
+      {
+        "title": "犀牛",
+        "text": "极权主义的兽化（B340）",
+        "color": "antagonist"
+      },
+      {
+        "title": "贝朗热",
+        "text": "最后的人（通说）",
+        "color": "main"
+      },
+      {
+        "title": "从众",
+        "text": "一个接一个（通说）",
+        "color": "family"
+      },
+      {
+        "title": "抵抗",
+        "text": "'我还是人'（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}
