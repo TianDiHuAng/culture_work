@@ -1,0 +1,110 @@
+{
+  "id": "fortunata",
+  "title": "福尔图娜塔和哈辛塔",
+  "original_title": "Fortunata y Jacinta",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "19世纪80年代",
+  "genre": "长篇小说（四卷）",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "galdos",
+  "author_name": "贝尼托·佩雷斯·加尔多斯",
+  "year_display": "1886-87年（Britannica B370：Fortunata y Jacinta (1886-87)——四卷——'a paradigm of Spanish realism'——masterpiece）",
+  "year_sort": 1886,
+  "background": [
+    "Britannica（B370）：'a study of two unhappily married women from different social classes'——两个不同阶层的不幸婚姻女人的研究。",
+    "Britannica（B370）：'Madrid's social spectrum through the lives of two women and a wealthy bourgeois'——被称为其杰作（masterpiece）。",
+    "Britannica（B370）：'a paradigm of Spanish realism'（西班牙现实主义的典范）。"
+  ],
+  "outline": [
+    "（通说待核）福尔图娜塔（平民）与哈辛塔（资产阶级）：一夫二妻的三角。",
+    "（通说待核）马德里社会光谱：从兵营到药房。"
+  ],
+  "characters": [
+    {
+      "name": "福尔图娜塔",
+      "identity": "平民女子",
+      "note": "（B370 书名人物）"
+    },
+    {
+      "name": "哈辛塔",
+      "identity": "资产阶级女子",
+      "note": "（B370 书名人物）"
+    },
+    {
+      "name": "胡安·圣菲尔莫",
+      "identity": "富有的资产阶级",
+      "note": "（B370：a wealthy bourgeois——名通说待核）"
+    }
+  ],
+  "themes": [
+    "'马德里社会光谱'（B370）。",
+    "两个女人与一个男人的阶级镜像（B370）。",
+    "现实主义的'典范'（B370：paradigm）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the greatest Spanish novelist since Cervantes'（B370 作者级）。",
+      "source": "B370"
+    },
+    {
+      "text": "Britannica：'a paradigm of Spanish realism'（B370）。",
+      "source": "B370"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "四卷的体量与人物表。",
+      "1868革命前后的马德里史（通说待核）。"
+    ],
+    "editions": [
+      "《福尔图娜塔和哈辛塔》中译名（《福尔图娜塔与哈辛塔》）待核。",
+      "西班牙文原版（公有领域）。"
+    ],
+    "order": "加尔多斯代表作；与巴尔扎克式系列对照。"
+  },
+  "pending": [
+    "胡安·圣菲尔莫人名核对（通说）。",
+    "1886-87年出版细节待核。",
+    "四卷分段核对（通说）。"
+  ],
+  "sources": [
+    "B370"
+  ],
+  "year_source": "B370",
+  "author_source": "B370",
+  "related_works": [
+    "fuluosihemofang",
+    "nongmin",
+    "baofali"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《福尔图娜塔和哈辛塔》阶级镜像图",
+    "cards": [
+      {
+        "title": "福尔图娜塔",
+        "text": "平民的妻子（B370）",
+        "color": "main"
+      },
+      {
+        "title": "哈辛塔",
+        "text": "资产阶级的妻子（B370）",
+        "color": "family"
+      },
+      {
+        "title": "马德里",
+        "text": "'社会光谱'（B370）",
+        "color": "gold"
+      },
+      {
+        "title": "典范",
+        "text": "现实主义的标杆（B370）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

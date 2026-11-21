@@ -1,0 +1,68 @@
+{
+  "id": "galdos",
+  "name": "贝尼托·佩雷斯·加尔多斯",
+  "foreign_name": "Benito Pérez Galdós（贝尼托·佩雷斯·加尔多斯，1843-05-10—1920-01-04）",
+  "country": "西班牙",
+  "birth": 1843,
+  "death": 1920,
+  "birth_year": 1843,
+  "death_year": 1920,
+  "era": "近代",
+  "summary": "加尔多斯，加那利群岛拉斯帕尔马斯生，西班牙小说家——'regarded as the greatest Spanish novelist since Miguel de Cervantes'（塞万提斯之后最伟大的西班牙小说家——B370）；与巴尔扎克、狄更斯并提（B370）；'perfected the Spanish realistic novel and innovatively recreated Spain's 19th-century history'（B370）。Episodios nacionales（民族轶事）46部 (1873-1912)——写1805-1874（B370）。Fortunata y Jacinta（福尔图娜塔和哈辛塔, 1886-87）——四卷——'a paradigm of Spanish realism'——被称为其杰作（B370）。",
+  "timeline": [
+    {
+      "year": 1843,
+      "text": "5月10日生于拉斯帕尔马斯（B370）。",
+      "src": "B370"
+    },
+    {
+      "year": 1870,
+      "text": "首作 La fontana de oro（B370）。",
+      "src": "B370"
+    },
+    {
+      "year": 1873,
+      "text": "《民族轶事》系列开始（至1912共46部）（B370）。",
+      "src": "B370"
+    },
+    {
+      "year": 1886,
+      "text": "Fortunata y Jacinta（1886-87四卷）——'a paradigm of Spanish realism'（B370）。",
+      "src": "B370"
+    },
+    {
+      "year": 1920,
+      "text": "1月4日卒于马德里（B370）。",
+      "src": "B370"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fortunata",
+      "note": "1886-87四卷（B370）"
+    },
+    {
+      "title": "民族轶事",
+      "note": "（B370：Episodios nacionales (1873-1912)——46部）"
+    },
+    {
+      "title": "纳萨林",
+      "note": "（B370：Nazarín (1895)）"
+    }
+  ],
+  "style": [
+    "'完善了西班牙现实主义小说'（B370：perfected the Spanish realistic novel）。",
+    "巴尔扎克式的系列人物（B370：comparison with Balzac——语境）。",
+    "19世纪西班牙史的小说化（B370：recreated Spain's 19th-century history）。"
+  ],
+  "status": "Britannica 定位加尔多斯为塞万提斯之后最伟大的西班牙小说家（B370）。",
+  "sources": [
+    "B370"
+  ],
+  "dates_source": "B370",
+  "pending": [
+    "Fortunata y Jacinta 通行译名（《福尔图娜塔和哈辛塔》）待核。",
+    "《民族轶事》46部清单待核。",
+    "诺奖未得与提名史待核（B370未载）。"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "echegaray",
+  "name": "何塞·埃切加赖",
+  "foreign_name": "José Echegaray y Eizaguirre（何塞·埃切加赖·埃萨吉雷，1832-04-19—1916-09-04）",
+  "country": "西班牙",
+  "birth": 1832,
+  "death": 1916,
+  "birth_year": 1832,
+  "death_year": 1916,
+  "era": "近代",
+  "summary": "埃切加赖，马德里生，数学家、政治家与剧作家——'the leading Spanish dramatist of the last quarter of the 19th century'（19世纪最后25年西班牙最重要的剧作家——B369）；1904年诺贝尔文学奖（与弗雷德里克·米斯特拉尔分享——B369；B362 交叉）。数学教授出身，1868年入政府，1874年任财政部长并参与创办西班牙银行（B369）。第一部剧 El libro talonario (1874)——42岁才上演，此后平均'一年两部'（B369）。O locura o santidad（疯子还是圣徒, 1877）——'he showed that honesty is condemned as madness by society'（B369）。",
+  "timeline": [
+    {
+      "year": 1832,
+      "text": "4月19日生于马德里（B369）。",
+      "src": "B369"
+    },
+    {
+      "year": 1874,
+      "text": "任财政部长、参与创办西班牙银行；第一部剧上演（B369）。",
+      "src": "B369"
+    },
+    {
+      "year": 1877,
+      "text": "O locura o santidad——'诚实被社会判为疯狂'（B369）。",
+      "src": "B369"
+    },
+    {
+      "year": 1904,
+      "text": "获诺贝尔文学奖（与米斯特拉尔分享）（B369）。",
+      "src": "B369"
+    },
+    {
+      "year": 1916,
+      "text": "9月4日卒于马德里（B369）。",
+      "src": "B369"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fengzihaishishengt",
+      "note": "1877（B369）"
+    },
+    {
+      "title": "支票簿",
+      "note": "（B369：El libro talonario (1874)——中译名待核）"
+    }
+  ],
+  "style": [
+    "情节剧式（B369：melodramatic）。",
+    "浪漫主义底色与'论题剧'的转向（B369：almost wholly Romantic / thesis drama under Ibsen's influence）。",
+    "讽刺反转（B369：satiric reversal）。"
+  ],
+  "status": "Britannica 定位埃切加赖为1904诺奖得主、19世纪末西班牙最重要剧作家、数学家与政治家（B369）。",
+  "sources": [
+    "B369"
+  ],
+  "dates_source": "B369",
+  "pending": [
+    "中译名（《疯子还是圣徒》）待核。",
+    "'帮助革新西班牙剧场'细节（B369：helped revolutionize Spanish theatre）待核。",
+    "数学成就（'bounding solids'说）待核——B369未载。"
+  ]
+}

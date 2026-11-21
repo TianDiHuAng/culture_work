@@ -1,0 +1,50 @@
+{
+  "id": "pindar",
+  "name": "品达",
+  "foreign_name": "Pindar（品达，约公元前518—约公元前438）",
+  "country": "希腊",
+  "birth": null,
+  "death": null,
+  "birth_year": -518,
+  "death_year": -438,
+  "era": "古代",
+  "summary": "品达，约前518生于彼奥提亚Cynoscephalae，卒于约前438——'ancient Greece's greatest lyric poet and master of epinicia'（古希腊最伟大的抒情诗人、竞技凯歌大师——B371）。竞技凯歌颂四大赛会优胜者——古代17卷唯四卷（按赛会分卷、共44首）完整传世（B371）。风格：神话叙事、僭妄训诫、'no two odes alike'的多变格律与'Pindaric flights'（B371）。fragment 76 赞雅典获特殊荣誉（B371）。",
+  "timeline": [
+    {
+      "year": -518,
+      "text": "约前518生于彼奥提亚Cynoscephalae（B371）。",
+      "src": "B371"
+    },
+    {
+      "year": -462,
+      "text": "约前462起为希耶罗等僭主作凯歌（首奥林匹克凯歌说——通说待核）。",
+      "src": "B371"
+    },
+    {
+      "year": -446,
+      "text": "前446后卒（约前438，阿尔戈斯——B371）。",
+      "src": "B371"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shenglisong",
+      "note": "四卷44首（B371）"
+    }
+  ],
+  "style": [
+    "竞技凯歌（epinicia）的大师（B371）。",
+    "'Pindaric flights'：主题的急转（B371）。",
+    "对僭妄（hubris）的道德训诫（B371）。"
+  ],
+  "status": "Britannica 定位品达为古希腊最伟大的抒情诗人（B371）。",
+  "sources": [
+    "B371"
+  ],
+  "dates_source": "B371",
+  "pending": [
+    "生卒年（约前518/约前438——B371 口径）待核。",
+    "四卷篇数（44首——B371）核对。",
+    "科林娜逸事（'sow with the hand'——B371）属传闻口径待核。"
+  ]
+}

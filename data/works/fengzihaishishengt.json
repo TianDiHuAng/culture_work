@@ -1,0 +1,100 @@
+{
+  "id": "fengzihaishishengt",
+  "title": "疯子还是圣徒",
+  "original_title": "O locura o santidad",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "西班牙语",
+  "author_id": "echegaray",
+  "author_name": "何塞·埃切加赖",
+  "year_display": "1877年（Britannica B369：O locura o santidad (1877; Madman or Saint)）",
+  "year_sort": 1877,
+  "background": [
+    "Britannica（B369）：'he showed that honesty is condemned as madness by society'——诚实被社会判为疯狂。",
+    "Britannica（B369）：埃切加赖——数学家、政治家与'leading Spanish dramatist of the last quarter of the 19th century'。",
+    "Britannica（B369）：'In all his plays his manner is melodramatic.'——情节剧式。"
+  ],
+  "outline": [
+    "（通说待核——B369未载剧情）'诚实的疯子'：道德者被社会判为疯狂。",
+    "（通说待核）讽刺反转的结局（B369：satiric reversal 语境）。"
+  ],
+  "characters": [
+    {
+      "name": "主角（无名待核）",
+      "identity": "'诚实者'",
+      "note": "（通说待核，B369未载）"
+    }
+  ],
+  "themes": [
+    "'诚实被判为疯狂'（B369）。",
+    "情节剧的形式（B369：melodramatic）。",
+    "论题剧的先声（B369：thesis drama——后期语境交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1904诺奖（B369）。",
+      "source": "B369"
+    },
+    {
+      "text": "Britannica：'helped revolutionize Spanish theatre'（B369）。",
+      "source": "B369"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'论题剧'的辩论结构。",
+      "19世纪西班牙剧坛。"
+    ],
+    "editions": [
+      "《疯子还是圣徒》中译名（《是疯子还是圣人》）待核。",
+      "西班牙文原版（公有领域）。"
+    ],
+    "order": "埃切加赖代表作；了解'情节剧'传统的入口。"
+  },
+  "pending": [
+    "剧情细节核对（通说）。",
+    "1877年首演细节待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B369"
+  ],
+  "year_source": "B369",
+  "author_source": "B369",
+  "related_works": [
+    "aimiliyajialuoti",
+    "yinmouyuaiqing",
+    "richu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《疯子还是圣徒》论题结构图",
+    "cards": [
+      {
+        "title": "诚实",
+        "text": "被判为疯狂（B369）",
+        "color": "main"
+      },
+      {
+        "title": "社会",
+        "text": "价值的颠倒（B369语境）",
+        "color": "antagonist"
+      },
+      {
+        "title": "情节剧",
+        "text": "melodramatic（B369）",
+        "color": "gold"
+      },
+      {
+        "title": "反转",
+        "text": "讽刺的结局（B369）",
+        "color": "family"
+      }
+    ]
+  }
+}

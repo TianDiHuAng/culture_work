@@ -1,0 +1,105 @@
+{
+  "id": "shenglisong",
+  "title": "胜利颂",
+  "original_title": "Epinicia（四卷竞技凯歌）",
+  "region": "希腊",
+  "era": "古代",
+  "era_detail": "公元前5世纪",
+  "genre": "合唱凯歌（四卷44首）",
+  "genre_group": "诗歌",
+  "language": "希腊语（多利安方言）",
+  "author_id": "pindar",
+  "author_name": "品达",
+  "year_display": "约公元前5世纪（Britannica B371：四卷竞技凯歌——44首完整传世——古代17卷唯此四卷完整）",
+  "year_sort": -470,
+  "background": [
+    "Britannica（B371）：'master of epinicia'——颂奥林匹克/皮提亚/地峡/尼米亚四大赛会优胜者——共44首按赛会分卷。",
+    "Britannica（B371）：风格——神话叙事、僭妄训诫、'no two odes alike'、'Pindaric flights'。",
+    "Britannica（B371）：贵族法则——荷马名言'ever to excel and to surpass other men'。"
+  ],
+  "outline": [
+    "（通说待核）凯歌的典型结构：赛况—神话—训诫—祝福。",
+    "（通说待核）'奥林匹亚颂'之首（为希耶罗作说——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "优胜者",
+      "identity": "受颂者",
+      "note": "（B371：victors at the games）"
+    },
+    {
+      "name": "神话人物",
+      "identity": "插入的叙事",
+      "note": "（B371：mythic narratives）"
+    }
+  ],
+  "themes": [
+    "竞技凯歌的仪式（B371）。",
+    "'Pindaric flights'的急转（B371）。",
+    "僭妄（hubris）的训诫（B371）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'ancient Greece's greatest lyric poet'（B371）。",
+      "source": "B371"
+    },
+    {
+      "text": "Britannica：四卷完整传世（或因2世纪教科书使用——B371）。",
+      "source": "B371"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多利安方言（读译本）。",
+      "'品达体'颂歌的结构。"
+    ],
+    "editions": [
+      "《胜利颂》中译名（《奥林匹亚颂》等——通说待核）。",
+      "希腊语原版（公有领域）。"
+    ],
+    "order": "古希腊抒情诗首选；与萨福残篇对读。"
+  },
+  "pending": [
+    "44首篇数核对（B371口径）。",
+    "'首奥林匹克凯歌'细节待核。",
+    "'Pindaric flights'术语通行译名待核。"
+  ],
+  "sources": [
+    "B371"
+  ],
+  "year_source": "B371",
+  "author_source": "B371",
+  "related_works": [
+    "safucanpian",
+    "shiyi",
+    "xunjiexiaoshuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《胜利颂》凯歌结构图",
+    "cards": [
+      {
+        "title": "凯歌",
+        "text": "四大赛会的优胜（B371）",
+        "color": "main"
+      },
+      {
+        "title": "神话",
+        "text": "插入的叙事（B371）",
+        "color": "gold"
+      },
+      {
+        "title": "急转",
+        "text": "'Pindaric flights'（B371）",
+        "color": "antagonist"
+      },
+      {
+        "title": "训诫",
+        "text": "僭妄的警告（B371）",
+        "color": "family"
+      }
+    ]
+  }
+}
