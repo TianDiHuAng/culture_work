@@ -10,21 +10,70 @@
   "era": "古代",
   "summary": "塞万提斯，西班牙文学'最重要、最著名的人物'（Britannica：the most important and celebrated figure in Spanish literature）。勒班陀海战（1571）左手致残——'勒班陀的独臂人'；1575年返国途中被巴巴里海盗掳至阿尔及尔为奴五年，四次越狱未果，1580年赎回（Britannica）。晚年为军舰筹粮收税，因账目问题数次入狱——相传《堂吉诃德》构思于狱中（Britannica 相关问答提及）。1616年4月22日卒于马德里，一周后葬礼简朴（通说待核）。'第一部现代小说'的作者。",
   "timeline": [
-    {"year": "1547-09-29?", "text": "生于阿尔卡拉·德·埃纳雷斯（Britannica：Born September 29?, 1547, Alcalá de Henares——生日带问号），穷外科医生之子。", "src": "B034"},
-    {"year": "1569", "text": "赴意大利（或为避一桩决斗官司，Britannica：possibly fleeing a legal charge），任枢机主教随从。", "src": "B034"},
-    {"year": "1571-10-07", "text": "勒班陀海战：胸部两处中弹、左手残废（Britannica：two chest wounds and a third that left his left hand useless for life）。", "src": "B034"},
-    {"year": "1575—1580", "text": "返国途中船被海盗截获，在阿尔及尔为奴五年、四次越狱未成，1580年9月由三位一体修士赎回（Britannica）。", "src": "B034"},
-    {"year": "1580s", "text": "回国后写剧不获成功；1585年出版田园小说《伽拉苔亚》（通说待核）；任军需官、税吏。", "src": "B034"},
-    {"year": "1597、1602", "text": "因账目问题两度入狱（ Britanne 相关问答：whether he planned Don Quixote while in prison）。", "src": "B034"},
-    {"year": "1605", "text": "《堂吉诃德》第一部出版（Britannica：Part 1 — 1605），立即风靡；1614年出现阿维利亚内达伪续（Britannica），塞万提斯在第二部中回应。", "src": "B010"},
-    {"year": "1613—1615", "text": "《训诫小说集》（1613，Britannica：Novelas exemplares）与《未发表过的八出喜剧与八出幕间短剧》（1615）；1615年《堂吉诃德》第二部出版（Britannica：Part 2 — 1615）。", "src": "B034"},
-    {"year": "1616-04-22", "text": "卒于马德里（Britannica：died April 22, 1616, Madrid），与前妻同葬（通说待核）。1616年也是莎士比亚卒年（两人同年去世但历法相差十日，通说）。", "src": "B034"},
-    {"year": "1617", "text": "遗作《贝雪莱斯和西吉斯蒙达历险记》出版（Britannica：Los trabaios de Persiles y Sigismunda final novel）。", "src": "B034"}
+    {
+      "year": "1547-09-29?",
+      "text": "生于阿尔卡拉·德·埃纳雷斯（Britannica：Born September 29?, 1547, Alcalá de Henares——生日带问号），穷外科医生之子。",
+      "src": "B034"
+    },
+    {
+      "year": "1569",
+      "text": "赴意大利（或为避一桩决斗官司，Britannica：possibly fleeing a legal charge），任枢机主教随从。",
+      "src": "B034"
+    },
+    {
+      "year": "1571-10-07",
+      "text": "勒班陀海战：胸部两处中弹、左手残废（Britannica：two chest wounds and a third that left his left hand useless for life）。",
+      "src": "B034"
+    },
+    {
+      "year": "1575—1580",
+      "text": "返国途中船被海盗截获，在阿尔及尔为奴五年、四次越狱未成，1580年9月由三位一体修士赎回（Britannica）。",
+      "src": "B034"
+    },
+    {
+      "year": "1580s",
+      "text": "回国后写剧不获成功；1585年出版田园小说《伽拉苔亚》（通说待核）；任军需官、税吏。",
+      "src": "B034"
+    },
+    {
+      "year": "1597、1602",
+      "text": "因账目问题两度入狱（ Britanne 相关问答：whether he planned Don Quixote while in prison）。",
+      "src": "B034"
+    },
+    {
+      "year": "1605",
+      "text": "《堂吉诃德》第一部出版（Britannica：Part 1 — 1605），立即风靡；1614年出现阿维利亚内达伪续（Britannica），塞万提斯在第二部中回应。",
+      "src": "B010"
+    },
+    {
+      "year": "1613—1615",
+      "text": "《训诫小说集》（1613，Britannica：Novelas exemplares）与《未发表过的八出喜剧与八出幕间短剧》（1615）；1615年《堂吉诃德》第二部出版（Britannica：Part 2 — 1615）。",
+      "src": "B034"
+    },
+    {
+      "year": "1616-04-22",
+      "text": "卒于马德里（Britannica：died April 22, 1616, Madrid），与前妻同葬（通说待核）。1616年也是莎士比亚卒年（两人同年去世但历法相差十日，通说）。",
+      "src": "B034"
+    },
+    {
+      "year": "1617",
+      "text": "遗作《贝雪莱斯和西吉斯蒙达历险记》出版（Britannica：Los trabaios de Persiles y Sigismunda final novel）。",
+      "src": "B034"
+    }
   ],
   "major_works": [
-    {"work_id": "tangjihede", "note": "1605/1615两部；'第一部现代小说'（Britannica）"},
-    {"title": "训诫小说集（1613）", "note": "'有些篇章接近《堂吉诃德》的微缩水准'（Britannica：attain a level close to that of Don Quixote, on a miniature scale）"},
-    {"title": "伽拉苔亚（1585）、贝雪莱斯（1617）", "note": "田园与拜占庭小说（通说）"}
+    {
+      "work_id": "tangjihede",
+      "note": "1605/1615两部；'第一部现代小说'（Britannica）"
+    },
+    {
+      "work_id": "xunjiexiaoshuo",
+      "note": "'有些篇章接近《堂吉诃德》的微缩水准'（Britannica：attain a level close to that of Don Quixote, on a miniature scale）"
+    },
+    {
+      "title": "伽拉苔亚（1585）、贝雪莱斯（1617）",
+      "note": "田园与拜占庭小说（通说）"
+    }
   ],
   "style": [
     "'伟大的实验者'（Britannica：a great experimenter）：几乎涉足当时所有文学体裁（除史诗）。",
@@ -33,7 +82,10 @@
     "简洁有力的西班牙语：'el manco de Lepanto'的散文为西班牙语确立了典范（通说）。"
   ],
   "status": "Britannica 定位塞万提斯为'西班牙文学中最重要、最著名的人物'，其《堂吉诃德》'全译或节译达六十余种语言'，'常被认为第一部现代小说'（Britannica：often considered the first modern novel）。堂吉诃德与桑丘·潘沙是'世界文学中最眼熟的人物形象'（Britannica：among the most visually familiar fictional characters）。西班牙语世界的最高文学奖'塞万提斯奖'以其命名（通说待核）。",
-  "sources": ["B034", "B010"],
+  "sources": [
+    "B034",
+    "B010"
+  ],
   "dates_source": "B034",
   "pending": [
     "生日（9月29日?）Britannica 标问号——受洗记录为10月9日，生日系推测。",

@@ -10,15 +10,40 @@
   "era": "近代",
   "summary": "莱蒙托夫，莫斯科人，'俄国浪漫主义领袖诗人'（Britannica：Russia's leading Romantic poet），散文家与剧作家。《当代英雄》（1840）——'cynical officer Pechorin'（玩世不恭的军官毕巧林），作者称其为'我们整整一代人的恶习的肖像'（Britannica：whom Lermontov called 'a portrait of the vices of our whole generation'）。1837年悼普希金诗被捕流放高加索（Britannica）；1840年与法国大使之子决斗二度流放、瓦列里克河战功（Britannica：distinguished himself in battle at the Valerik River）。1841年7月27日与军官马尔蒂诺夫决斗死（Britannica：Killed in a duel with officer N.S. Martynov in Pyatigorsk at age 26）。'introduced iron verse into Russian poetry'（引入'铁的诗'，Britannica），影响陀思妥耶夫斯基与托尔斯泰（Britannica：influencing later writers like Dostoyevsky and Tolstoy）。",
   "timeline": [
-    {"year": "1814-10-15", "text": "生于莫斯科（Britannica：Born...in Moscow）；三岁丧母、由外祖母抚养（Britannica：raised by his grandmother after his mother died when he was three）。", "src": "B142"},
-    {"year": "1837", "text": "悼普希金诗（《诗人之死》）被捕流放高加索（Britannica：His 1837 elegy on Pushkin's death led to his arrest and exile to the Caucasus）。", "src": "B142"},
-    {"year": "1840", "text": "《当代英雄》出版（Britannica：A Hero of Our Time (1840)）；与法国大使之子决斗二度流放（Britannica：Exiled a second time in 1840 after a duel with the French ambassador's son）；瓦列里克河战功（Britannica）。", "src": "B142"},
-    {"year": "1841-07-27", "text": "在皮亚季戈尔斯克与马尔蒂诺夫决斗死，年二十六（Britannica：Killed in a duel...at age 26）。", "src": "B142"}
+    {
+      "year": "1814-10-15",
+      "text": "生于莫斯科（Britannica：Born...in Moscow）；三岁丧母、由外祖母抚养（Britannica：raised by his grandmother after his mother died when he was three）。",
+      "src": "B142"
+    },
+    {
+      "year": "1837",
+      "text": "悼普希金诗（《诗人之死》）被捕流放高加索（Britannica：His 1837 elegy on Pushkin's death led to his arrest and exile to the Caucasus）。",
+      "src": "B142"
+    },
+    {
+      "year": "1840",
+      "text": "《当代英雄》出版（Britannica：A Hero of Our Time (1840)）；与法国大使之子决斗二度流放（Britannica：Exiled a second time in 1840 after a duel with the French ambassador's son）；瓦列里克河战功（Britannica）。",
+      "src": "B142"
+    },
+    {
+      "year": "1841-07-27",
+      "text": "在皮亚季戈尔斯克与马尔蒂诺夫决斗死，年二十六（Britannica：Killed in a duel...at age 26）。",
+      "src": "B142"
+    }
   ],
   "major_works": [
-    {"work_id": "dangdaiyingxiong", "note": "1840；代表作"},
-    {"title": "恶魔（The Demon）、假面舞会、姆采里", "note": "诗与剧（Britannica 列举 Demon, Masquerade, Mtsyri）"},
-    {"title": "伊万·瓦西里耶维奇之歌", "note": "（Britannica 列举 'A Song About Tsar Ivan Vasilyevich'）"}
+    {
+      "work_id": "dangdaiyingxiong",
+      "note": "1840；代表作"
+    },
+    {
+      "work_id": "emo",
+      "note": "诗与剧（Britannica 列举 Demon, Masquerade, Mtsyri）"
+    },
+    {
+      "title": "伊万·瓦西里耶维奇之歌",
+      "note": "（Britannica 列举 'A Song About Tsar Ivan Vasilyevich'）"
+    }
   ],
   "style": [
     "'铁的诗'：Britannica——'iron verse'（铁的诗）——刚硬的语言（通说）。",
@@ -26,7 +51,9 @@
     "'多声部'叙事：《当代英雄》五章乱序（通说待核）。"
   ],
   "status": "Britannica 记莱蒙托夫为'俄国浪漫主义领袖诗人'，'introducing iron verse into Russian poetry and influencing later writers like Dostoyevsky and Tolstoy'（引入铁的诗并影响陀思妥耶夫斯基与托尔斯泰）。",
-  "sources": ["B142"],
+  "sources": [
+    "B142"
+  ],
   "dates_source": "B142",
   "pending": [
     "《当代英雄》五章乱序结构（'Bela'始'Tamesi'终——通说待核）待核。",

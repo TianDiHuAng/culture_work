@@ -1,0 +1,100 @@
+{
+  "id": "sadansong",
+  "title": "撒旦颂",
+  "original_title": "Inno a Satana",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "19世纪60年代",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "carducci",
+  "author_name": "焦苏埃·卡尔杜齐",
+  "year_display": "1863年（Britannica B345：Inno a Satana (1863)）",
+  "year_sort": 1863,
+  "background": [
+    "Britannica（B345）：Inno a Satana——'showing his republican, anticlerical feeling'（共和反教权情绪）。",
+    "Britannica（B345）：卡尔杜齐——1906诺奖；'one of the most influential literary figures of his age'。",
+    "题材（通说待核）：'撒旦'作为反叛与理性的隐喻——对教会罗马的挑战。"
+  ],
+  "outline": [
+    "（通说待核）'撒旦'的意象：不是恶魔而是叛逆的理性与美。",
+    "（通说待核）从瓦尔斯到人类进步的颂歌。"
+  ],
+  "characters": [
+    {
+      "name": "撒旦（意象）",
+      "identity": "反叛与理性",
+      "note": "（B345：hymn to Satan——意象细节通说待核）"
+    }
+  ],
+  "themes": [
+    "共和反教权的政治诗（B345）。",
+    "'撒旦'的翻案（通说待核）。",
+    "古典异教的荣光（B345：Odi barbare 语境交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his hymn to Satan, showing his republican, anticlerical feeling'（B345）。",
+      "source": "B345"
+    },
+    {
+      "text": "Britannica：1906诺奖（B345 交叉）。",
+      "source": "B345"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'撒旦'的隐喻系统。",
+      "意大利统一运动史。"
+    ],
+    "editions": [
+      "《撒旦颂》中译本（人民文学等——通说待核）。",
+      "意大利文原版（公有领域）。"
+    ],
+    "order": "卡尔杜齐政治诗首选；与《野蛮颂》对读。"
+  },
+  "pending": [
+    "意象细节核对（通说）。",
+    "1863年发表细节待核。",
+    "'颂歌'结构待核。"
+  ],
+  "sources": [
+    "B345"
+  ],
+  "year_source": "B345",
+  "author_source": "B345",
+  "related_works": [
+    "yemanli",
+    "diyuzhiji",
+    "chengfaji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《撒旦颂》反叛结构图",
+    "cards": [
+      {
+        "title": "撒旦",
+        "text": "理性的反叛（B345语境）",
+        "color": "main"
+      },
+      {
+        "title": "教会",
+        "text": "被挑战的罗马（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "进步",
+        "text": "人类的颂歌（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "共和",
+        "text": "政治的信念（B345）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "chengfaji",
+  "title": "惩罚集",
+  "original_title": "Les Châtiments",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪50年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "hugo",
+  "author_name": "维克多·雨果",
+  "year_display": "1853年（作者页注记：Britannica 列举——惩罚集（1853））",
+  "year_sort": 1853,
+  "background": [
+    "作者页注记：惩罚集 (1853)、静观集 (1856)——'诗集两峰（Britannica 列举）'。",
+    "Britannica：雨果——1851年政变后流亡（作者页语境——待核）。",
+    "题材（通说待核）：对拿破仑三世的 satire 檄文——流亡者的政治怒火。"
+  ],
+  "outline": [
+    "（通说待核——Britannica未载篇目）政变黑史的诗体清算。",
+    "（通说待核）'黑夜'与'黎明'的道德对位。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "流亡者/先知",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "政治讽刺诗的巅峰（通说待核）。",
+    "流亡伦理（1851政变语境——通说待核）。",
+    "诗的人民性（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'诗集两峰'（作者页注记）。",
+      "source": "B040"
+    },
+    {
+      "text": "Britannica：雨果为浪漫主义领袖（作者页语境）。",
+      "source": "B040"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1851年十二月政变史。",
+      "讽刺诗的用典。"
+    ],
+    "editions": [
+      "《惩罚集》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "雨果诗歌首选之一；与《静观集》对读。"
+  },
+  "pending": [
+    "篇目（《4.v.o.》《黑夜》等）核对（Britannica未载）。",
+    "1853年出版（Brussels说）待核。",
+    "'流亡'细节待核。"
+  ],
+  "sources": [
+    "B040"
+  ],
+  "year_source": "B040",
+  "author_source": "B040",
+  "related_works": [
+    "jingjingdedunhe",
+    "balideyouyu",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《惩罚集》檄文结构图",
+    "cards": [
+      {
+        "title": "政变",
+        "text": "历史的黑夜（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "流亡",
+        "text": "诗的立场（通说）",
+        "color": "main"
+      },
+      {
+        "title": "檄文",
+        "text": "怒火的清算（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "黎明",
+        "text": "人民的名字（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

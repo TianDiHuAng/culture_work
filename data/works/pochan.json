@@ -1,0 +1,100 @@
+{
+  "id": "pochan",
+  "title": "破产",
+  "original_title": "En fallit（The Bankrupt）",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "挪威语",
+  "author_id": "bjornson",
+  "author_name": "比奥恩斯彻讷·比昂松",
+  "year_display": "1875年（Britannica B337：En fallit (1875)——戏剧）",
+  "year_sort": 1875,
+  "background": [
+    "Britannica（B337）：En fallit (1875)——戏剧（'The Bankrupt'）。",
+    "Britannica（B337）：'his plays were influential in establishing social realism in Europe'。",
+    "题材（通说待核）：银行家特勒丹的破产——商业诚信的社会剧。"
+  ],
+  "outline": [
+    "（通说待核——B337未载剧情）破产者的道德清算。",
+    "（通说待核）'诚实的破产'与商业社会。"
+  ],
+  "characters": [
+    {
+      "name": "特勒丹",
+      "identity": "银行家",
+      "note": "（通说待核，B337未载）"
+    }
+  ],
+  "themes": [
+    "商业伦理的社会剧（B337：social realism）。",
+    "破产的道德性（书名语境——通说待核）。",
+    "19世纪挪威资本主义（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'influential in establishing social realism in Europe'（B337）。",
+      "source": "B337"
+    },
+    {
+      "text": "Britannica：1903诺奖（B337 交叉）。",
+      "source": "B337"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "北欧商业社会语境。",
+      "'社会剧'的形式。"
+    ],
+    "editions": [
+      "《破产》中译本（人民文学等——通说待核）。",
+      "挪威文原版。"
+    ],
+    "order": "比昂松戏剧首选；与《编辑》对读。"
+  },
+  "pending": [
+    "特勒丹人名核对（B337未载）。",
+    "1875年首演细节待核。",
+    "与易卜生社会问题的关系待核。"
+  ],
+  "sources": [
+    "B337"
+  ],
+  "year_source": "B337",
+  "author_source": "B337",
+  "related_works": [
+    "xinnuofusuobaken",
+    "peierjinte",
+    "jianghu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《破产》社会剧结构图",
+    "cards": [
+      {
+        "title": "破产",
+        "text": "商业的道德（B337）",
+        "color": "antagonist"
+      },
+      {
+        "title": "特勒丹",
+        "text": "诚实的重建（通说）",
+        "color": "main"
+      },
+      {
+        "title": "社会剧",
+        "text": "现实主义的推动（B337）",
+        "color": "gold"
+      },
+      {
+        "title": "家庭",
+        "text": "信用的牵连（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "luoting",
+  "title": "罗亭",
+  "original_title": "Рудин",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "turgenev",
+  "author_name": "伊万·屠格涅夫",
+  "year_display": "1856年（作者页注记：Britannica——罗亭 (1856)）",
+  "year_sort": 1856,
+  "background": [
+    "作者页注记：罗亭、贵族之家、前夜——'（Britannica 列举）'；B141：'1856《罗亭》1859《贵族之家》1860《前夜》'。",
+    "Britannica（B141）：屠格涅夫——《父与子》(1862)作者（交叉）。",
+    "题材（通说待核）：'多余人'罗亭——言辞的英雄与行动的侏儒。"
+  ],
+  "outline": [
+    "（通说待核）罗亭在达里娅庄园的雄辩与娜塔莉亚的考验。",
+    "（通说待核）'在哪里使用我的力量？'的失败回答。"
+  ],
+  "characters": [
+    {
+      "name": "罗亭",
+      "identity": "多余人",
+      "note": "（B141 书名人物）"
+    },
+    {
+      "name": "娜塔莉亚",
+      "identity": "少女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'多余人'谱系（B141 语境）。",
+    "言辞与行动的分裂（通说待核）。",
+    "1840年代思想史（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1856《罗亭》（B141 作者页注记）。",
+      "source": "B141"
+    },
+    {
+      "text": "Britannica：屠格涅夫为俄国文学'四大家'语境（作者页交叉）。",
+      "source": "B141"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'多余人'文学谱系。",
+      "贵族庄园的沙龙语境。"
+    ],
+    "editions": [
+      "《罗亭》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "屠格涅夫长篇首选之一；与《父与子》对读。"
+  },
+  "pending": [
+    "罗亭/娜塔莉亚人名核对（通说）。",
+    "1856年发表（《现代人》说）待核。",
+    "结尾1848巴黎殉难细节待核。"
+  ],
+  "sources": [
+    "B141"
+  ],
+  "year_source": "B141",
+  "author_source": "B141",
+  "related_works": [
+    "fuyuzi",
+    "lierenbiji",
+    "dangdaiyingxiong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《罗亭》多余人结构图",
+    "cards": [
+      {
+        "title": "罗亭",
+        "text": "言辞的英雄（B141）",
+        "color": "main"
+      },
+      {
+        "title": "雄辩",
+        "text": "沙龙的光辉（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "考验",
+        "text": "行动的缺席（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "娜塔莉亚",
+        "text": "被辜负的爱情（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

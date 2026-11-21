@@ -1,0 +1,105 @@
+{
+  "id": "datangyuan",
+  "title": "大教堂",
+  "original_title": "Cathedral",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪80年代初",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "carver",
+  "author_name": "雷蒙德·卡佛",
+  "year_display": "1984年（作者页注记：Britannica——Cathedral (1984)）",
+  "year_sort": 1984,
+  "background": [
+    "作者页注记：大教堂——'（Britannica：1984）'。",
+    "Britannica：卡佛——极简主义（minimalism）代表（作者页语境——待核）。",
+    "题材（通说待核）：普通人的失语与片刻的敞开——盲人与'大教堂'的共绘。"
+  ],
+  "outline": [
+    "（通说待核）同名篇：'我'与盲人共绘大教堂。",
+    "（通说待核）中产失业者的黄昏。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "失语者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "盲人（罗伯特说）",
+      "identity": "来访者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "极简主义与'空缺'（作者页语境——通说待核）。",
+    "日常语流的转机（通说待核）。",
+    "观看与看见（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Cathedral (1984)（作者页注记）。",
+      "source": "B255"
+    },
+    {
+      "text": "Britannica：卡佛'极简主义'定位（作者页语境——待核）。",
+      "source": "B255"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "极简句法的留白。",
+      "1980年代美国失业潮背景（通说待核）。"
+    ],
+    "editions": [
+      "《大教堂》中译本（人民文学/南海等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "卡佛中期首选；与《当我们谈论爱情时我们在谈论什么》对读。"
+  },
+  "pending": [
+    "同名篇细节核对（通说）。",
+    "1984年出版（Knopf说）待核。",
+    "'极简主义'标签的学术争议待核。"
+  ],
+  "sources": [
+    "B255"
+  ],
+  "year_source": "B255",
+  "author_source": "B255",
+  "related_works": [
+    "leiyu",
+    "wuhao",
+    "ershisou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《大教堂》敞开结构图",
+    "cards": [
+      {
+        "title": "盲人",
+        "text": "看不见的引导（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "共绘",
+        "text": "纸上 closures（通说）",
+        "color": "main"
+      },
+      {
+        "title": "失语",
+        "text": "日常的空缺（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "敞开",
+        "text": "极简的转机（B注记语境）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "jixiaoduzhe",
+  "title": "寄小读者",
+  "original_title": "寄小读者",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "通讯散文集",
+  "genre_group": "散文",
+  "language": "汉语",
+  "author_id": "bingxin",
+  "author_name": "冰心",
+  "year_display": "1926年（Britannica：1926——作者页注记）",
+  "year_sort": 1926,
+  "background": [
+    "作者页注记：寄小读者——'（Britannica：1926）'。",
+    "Britannica：冰心——现代中国女作家（作者页语境）。",
+    "题材（通说待核）：1923-26赴美通讯——'爱的哲学'与儿童读者。"
+  ],
+  "outline": [
+    "（通说待核）二十九封通讯：从上海到威尔斯利。",
+    "（通说待核）'爱的哲学'：母爱、童心与自然。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "通讯作者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'爱的哲学'（通说待核）。",
+    "儿童文学的开创（B注记语境）。",
+    "白话文的柔美实验（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：寄小读者 (1926)（作者页注记）。",
+      "source": "B279"
+    },
+    {
+      "text": "Britannica：冰心为中国现代文学代表作家（作者页语境）。",
+      "source": "B279"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "通讯体与散文的边界。",
+      "'新文学'早期的语言实验。"
+    ],
+    "editions": [
+      "《寄小读者》（人民文学出版社《冰心全集》等——通说待核）。",
+      "1926年北新书局说待核。"
+    ],
+    "order": "冰心散文首选；与《繁星》《春水》对读。"
+  },
+  "pending": [
+    "通讯篇数（二十九封说）核对（通说）。",
+    "1926年结集细节待核。",
+    "'爱的哲学'提法出处待核。"
+  ],
+  "sources": [
+    "B279"
+  ],
+  "year_source": "B279",
+  "author_source": "B279",
+  "related_works": [
+    "fanxing",
+    "chunshui",
+    "chengfaji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《寄小读者》通讯结构图",
+    "cards": [
+      {
+        "title": "二十九封",
+        "text": "越洋的通讯（通说）",
+        "color": "main"
+      },
+      {
+        "title": "爱的哲学",
+        "text": "母爱与童心（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "儿童",
+        "text": "最初的读者（B注记）",
+        "color": "family"
+      },
+      {
+        "title": "白话",
+        "text": "柔美的实验（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

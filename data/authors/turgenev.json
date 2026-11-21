@@ -10,17 +10,50 @@
   "era": "近代",
   "summary": "屠格涅夫，奥廖尔人，俄国小说家、诗人与剧作家（Britannica：Russian novelist, poet, and playwright born in Oryol and died near Paris）。《猎人笔记》（1852）'offered sympathetic portraits of peasants'（同情性农民肖像——Britannica）'may have helped build support for the 1861 emancipation of the serfs'（或助推1861农奴解放舆论——Britannica）；《罗亭》（1856）、《贵族之家》（1859）、《前夜》（1860）、《父与子》（1862——虚无主义者巴扎罗夫——Britannica：featuring the nihilist Bazarov）——'drew criticism from both radicals and conservatives, prompting his self-exile in Western Europe'（激进与保守两头挨骂促其自我流放西欧，Britannica）。1883年9月3日卒于巴黎附近布日瓦尔（Britannica）。",
   "timeline": [
-    {"year": "1818-11-09", "text": "生于奥廖尔（Britannica），斯帕斯科耶-卢托维诺沃庄园长大——'wealthy mother, whose dominant character shaped the strong heroines'（专横的母亲塑造其小说中的强势女主人公，Britannica）。", "src": "B141"},
-    {"year": "1838—1841", "text": "柏林学习（Britannica：Studies in Berlin (1838–1841) made him a lifelong believer in Westernization for Russia）——'西方派'。", "src": "B141"},
-    {"year": "1843", "text": "恋波琳娜·维亚尔多（Pauline Viardot，Britannica：his lifelong devotion was to the singer Pauline Viardot, whom he met in 1843; he never married）。", "src": "B141"},
-    {"year": "1852", "text": "《猎人笔记》发表（Britannica：A Sportsman's Sketches (1852)）；因果戈理讣告被捕流放斯帕斯科耶18个月（Britannica：arrested and confined to Spasskoye for 18 months, ostensibly over a Gogol obituary but likely also for his criticism of serfdom）。", "src": "B141"},
-    {"year": "1856—1862", "text": "《罗亭》（1856）《贵族之家》（1859）《前夜》（1860）《父与子》（1862）（Britannica 列举）。", "src": "B141"},
-    {"year": "1883-09-03", "text": "卒于巴黎附近布日瓦尔（Britannica：died near Paris），年六十四。", "src": "B141"}
+    {
+      "year": "1818-11-09",
+      "text": "生于奥廖尔（Britannica），斯帕斯科耶-卢托维诺沃庄园长大——'wealthy mother, whose dominant character shaped the strong heroines'（专横的母亲塑造其小说中的强势女主人公，Britannica）。",
+      "src": "B141"
+    },
+    {
+      "year": "1838—1841",
+      "text": "柏林学习（Britannica：Studies in Berlin (1838–1841) made him a lifelong believer in Westernization for Russia）——'西方派'。",
+      "src": "B141"
+    },
+    {
+      "year": "1843",
+      "text": "恋波琳娜·维亚尔多（Pauline Viardot，Britannica：his lifelong devotion was to the singer Pauline Viardot, whom he met in 1843; he never married）。",
+      "src": "B141"
+    },
+    {
+      "year": "1852",
+      "text": "《猎人笔记》发表（Britannica：A Sportsman's Sketches (1852)）；因果戈理讣告被捕流放斯帕斯科耶18个月（Britannica：arrested and confined to Spasskoye for 18 months, ostensibly over a Gogol obituary but likely also for his criticism of serfdom）。",
+      "src": "B141"
+    },
+    {
+      "year": "1856—1862",
+      "text": "《罗亭》（1856）《贵族之家》（1859）《前夜》（1860）《父与子》（1862）（Britannica 列举）。",
+      "src": "B141"
+    },
+    {
+      "year": "1883-09-03",
+      "text": "卒于巴黎附近布日瓦尔（Britannica：died near Paris），年六十四。",
+      "src": "B141"
+    }
   ],
   "major_works": [
-    {"work_id": "fuyuzi", "note": "1862；代表作（masterpiece——Britannica：His masterpiece Fathers and Sons）"},
-    {"title": "猎人笔记（1852）", "note": "（Britannica）"},
-    {"title": "罗亭、贵族之家、前夜", "note": "（Britannica 列举）"}
+    {
+      "work_id": "fuyuzi",
+      "note": "1862；代表作（masterpiece——Britannica：His masterpiece Fathers and Sons）"
+    },
+    {
+      "title": "猎人笔记（1852）",
+      "note": "（Britannica）"
+    },
+    {
+      "work_id": "luoting",
+      "note": "（Britannica 列举）"
+    }
   ],
   "style": [
     "'简洁而诗意'：'economy of style'（通说待核）——以少量笔墨写'思想的人'（通说）。",
@@ -28,7 +61,9 @@
     "女性形象：'strong heroines'（Britannica：shaped the strong heroines in his fiction）。"
   ],
   "status": "Britannica 记屠格涅夫为'俄国小说家、诗人与剧作家'——其《父与子》为 masterpiece；'猎人笔记'或助推农奴解放（Britannica）；西方派立场（Britannica：lifelong believer in Westernization）使其与陀思妥耶夫斯基等斯拉夫派对立（通说待核）。",
-  "sources": ["B141"],
+  "sources": [
+    "B141"
+  ],
   "dates_source": "B141",
   "pending": [
     "《父与子》1862年出版细节待核。",

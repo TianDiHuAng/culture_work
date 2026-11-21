@@ -1,0 +1,105 @@
+{
+  "id": "beikaiyundechunudi",
+  "title": "被开垦的处女地",
+  "original_title": "Поднятая целина",
+  "region": "苏联",
+  "era": "现当代",
+  "era_detail": "20世纪30-50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "sholokhov",
+  "author_name": "米哈伊尔·肖洛霍夫",
+  "year_display": "1932-60年（作者页注记：Britannica——被开垦的处女地 (1932—60)）",
+  "year_sort": 1932,
+  "background": [
+    "作者页注记：被开垦的处女地 (1932—60)——'集体化小说（Britannica）'。",
+    "Britannica（B098）：肖洛霍夫——1965诺奖；哥萨克作家。",
+    "题材（通说待核）：顿河集体化运动——农业集体化的村庄两卷。"
+  ],
+  "outline": [
+    "（通说待核）集体化：富农清算与集体农庄建立。",
+    "（通说待核）梅霍夫村的两条路线。"
+  ],
+  "characters": [
+    {
+      "name": "达维多夫",
+      "identity": "工人工作队长",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "梅霍夫村",
+      "identity": "集体化的舞台",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "集体化的叙事（B注记：集体化小说）。",
+    "哥萨克社会的转型（B098 语境）。",
+    "政策文学的内部张力（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1965诺贝尔文学奖（B098）。",
+      "source": "B098"
+    },
+    {
+      "text": "Britannica：《静静的顿河》——苏联最广泛阅读（B098 交叉）。",
+      "source": "B098"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "农业集体化史。",
+      "'政策文学'的评价史。"
+    ],
+    "editions": [
+      "《被开垦的处女地》中译本（人民文学等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "肖洛霍夫第二作；与《静静的顿河》《一个人的遭遇》对读。"
+  },
+  "pending": [
+    "达维多夫人名核对（通说）。",
+    "两部年份（1932/1960）核对（B注记）。",
+    "'剽窃疑云'与本作关系待核（B098 载《静静的顿河》相关——本作不涉）。"
+  ],
+  "sources": [
+    "B098"
+  ],
+  "year_source": "B098",
+  "author_source": "B098",
+  "related_works": [
+    "jingjingdedunhe",
+    "yigerendeyu",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《被开垦的处女地》集体化图",
+    "cards": [
+      {
+        "title": "集体化",
+        "text": "村庄的转型（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "顿河",
+        "text": "哥萨克的土地（B098）",
+        "color": "family"
+      },
+      {
+        "title": "路线",
+        "text": "政策的张力（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "工作队",
+        "text": "外来者与村庄（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

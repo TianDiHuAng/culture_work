@@ -1,0 +1,100 @@
+{
+  "id": "jingguanji",
+  "title": "静观集",
+  "original_title": "Les Contemplations",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪50年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "hugo",
+  "author_name": "维克多·雨果",
+  "year_display": "1856年（作者页注记：Britannica 列举——静观集 (1856)）",
+  "year_sort": 1856,
+  "background": [
+    "作者页注记：静观集 (1856)——'诗集两峰（Britannica 列举）'。",
+    "Britannica：雨果——浪漫主义领袖（作者页语境）。",
+    "题材（通说待核）：《昔日与今日》——以亡女莱奥波尔蒂娜为轴的生死之思。"
+  ],
+  "outline": [
+    "（通说待核）从'昔日'到'今日'：丧女之痛的两卷结构。",
+    "（通说待核）冥想与通灵的诗学。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "父亲/冥想者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "丧女的哀歌（通说待核）。",
+    "生死两卷的对称（通说待核）。",
+    "浪漫主义的冥想诗（B注记语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'诗集两峰'（作者页注记）。",
+      "source": "B040"
+    },
+    {
+      "text": "Britannica：雨果诗歌地位（作者页语境）。",
+      "source": "B040"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "两卷结构的年代错位。",
+      "通灵诗学（《她的名字》等——通说待核）。"
+    ],
+    "editions": [
+      "《静观集》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "雨果诗歌第二峰；与《惩罚集》对读。"
+  },
+  "pending": [
+    "篇目核对（Britannica未载）。",
+    "1856年出版细节待核。",
+    "莱奥波尔蒂娜细节待核。"
+  ],
+  "sources": [
+    "B040"
+  ],
+  "year_source": "B040",
+  "author_source": "B040",
+  "related_works": [
+    "chengfaji",
+    "jingjingdedunhe",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《静观集》生死对称图",
+    "cards": [
+      {
+        "title": "昔日",
+        "text": "丧女之前（通说）",
+        "color": "family"
+      },
+      {
+        "title": "今日",
+        "text": "冥想的诗学（通说）",
+        "color": "main"
+      },
+      {
+        "title": "哀歌",
+        "text": "父亲的眼泪（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "通灵",
+        "text": "彼岸的问候（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

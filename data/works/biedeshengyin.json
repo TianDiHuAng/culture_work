@@ -1,0 +1,100 @@
+{
+  "id": "biedeshengyin",
+  "title": "别的声音，别的房间",
+  "original_title": "Other Voices, Other Rooms",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪40年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "capote",
+  "author_name": "杜鲁门·卡波特",
+  "year_display": "1948年（Britannica B332：Other Voices, Other Rooms (1948)——处女作）",
+  "year_sort": 1948,
+  "background": [
+    "Britannica（B332）：Other Voices, Other Rooms——'a sensitive, partly autobiographical portrayal of a boy's search for his father'（一个男孩寻找父亲的敏感的、部分自传性的描写）。",
+    "Britannica（B332）：卡波特处女作长篇。",
+    "题材（通说待核）：少年乔尔在南方老宅的寻父之旅。"
+  ],
+  "outline": [
+    "（通说待核）被弃少年赴南方破败庄园寻父。",
+    "（通说待核）'别的声音'：宅中的怪人与自我确认。"
+  ],
+  "characters": [
+    {
+      "name": "乔尔·诺克斯",
+      "identity": "寻父少年",
+      "note": "（通说待核，B332未载）"
+    }
+  ],
+  "themes": [
+    "寻父与身份（B332：boy's search for his father）。",
+    "南方哥特（B332 语境——待核）。",
+    "青春的自我认识（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'partly autobiographical portrayal of a boy's search for his father'（B332）。",
+      "source": "B332"
+    },
+    {
+      "text": "Britannica：卡波特处女作（B332）。",
+      "source": "B332"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "南方哥特氛围。",
+      "半自传的传记对应。"
+    ],
+    "editions": [
+      "《别的声音，别的房间》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "卡波特首作；与《蒂凡尼的早餐》《冷血》对读。"
+  },
+  "pending": [
+    "乔尔·诺克斯人名核对（B332未载）。",
+    "1948年出版（Random House说）待核。",
+    "'别的房间'意象细节待核。"
+  ],
+  "sources": [
+    "B332"
+  ],
+  "year_source": "B332",
+  "author_source": "B332",
+  "related_works": [
+    "lengxue",
+    "difannidezaocan",
+    "jianjiaogelou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《别的声音，别的房间》寻父图",
+    "cards": [
+      {
+        "title": "乔尔",
+        "text": "寻父的少年（B332）",
+        "color": "main"
+      },
+      {
+        "title": "老宅",
+        "text": "南方的哥特（通说）",
+        "color": "family"
+      },
+      {
+        "title": "父亲",
+        "text": "缺席的目标（B332）",
+        "color": "antagonist"
+      },
+      {
+        "title": "自我",
+        "text": "青春的确认（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

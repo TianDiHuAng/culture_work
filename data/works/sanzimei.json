@@ -1,0 +1,105 @@
+{
+  "id": "sanzimei",
+  "title": "三姊妹",
+  "original_title": "Три сестры（Three Sisters）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "chikefu",
+  "author_name": "安东·契诃夫",
+  "year_display": "1901年（作者页注记：Britannica 列举——三姊妹 (1901)）",
+  "year_sort": 1901,
+  "background": [
+    "作者页注记：海鸥（1896）、三姊妹 (1901)——'戏剧双峰（Britannica 列举）'。",
+    "Britannica（B270）：契诃夫——'Chekhovs gun'与'what is left unsaid'。",
+    "题材（通说待核）：普罗佐洛夫家三姊妹的'到莫斯科去'——岁月的流逝。"
+  ],
+  "outline": [
+    "（通说待核）三姊妹的莫斯科梦与就地扎根。",
+    "（通说待核）军旅的撤离与姐妹的坚守。"
+  ],
+  "characters": [
+    {
+      "name": "奥尔加/玛莎/伊琳娜",
+      "identity": "三姊妹",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "图森巴赫",
+      "identity": "求婚者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'到莫斯科去'的幻梦（通说待核）。",
+    "时间的流逝与忍受（通说待核）。",
+    "'未说出之重'（B270）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'戏剧双峰'（作者页注记）。",
+      "source": "B270"
+    },
+    {
+      "text": "Britannica：契诃夫戏剧传统与莫斯科艺术剧院（B270 语境——待核）。",
+      "source": "B270"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'潜台词'与静止戏剧。",
+      "俄国军官社会。"
+    ],
+    "editions": [
+      "《三姊妹》（人民文学出版社《契诃夫戏剧集》——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "契诃夫戏剧之三；与《海鸥》《樱桃园》对读。"
+  },
+  "pending": [
+    "三姊妹名字核对（通说）。",
+    "1901年首演（莫斯科艺术剧院说）待核。",
+    "结尾'生活还没有过去'台词待核。"
+  ],
+  "sources": [
+    "B270"
+  ],
+  "year_source": "B270",
+  "author_source": "B270",
+  "related_works": [
+    "haiou",
+    "yingtaoyuan",
+    "wanyaniuju"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《三姊妹》流逝结构图",
+    "cards": [
+      {
+        "title": "莫斯科",
+        "text": "永远的远方（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "三姊妹",
+        "text": "岁月的忍受（通说）",
+        "color": "main"
+      },
+      {
+        "title": "军旅",
+        "text": "撤离的空虚（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "潜台词",
+        "text": "未说出之重（B270）",
+        "color": "family"
+      }
+    ]
+  }
+}

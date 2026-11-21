@@ -1,0 +1,100 @@
+{
+  "id": "xunjiexiaoshuo",
+  "title": "训诫小说集",
+  "original_title": "Novelas ejemplares",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "17世纪初",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "西班牙语",
+  "author_id": "cervantes",
+  "author_name": "米格尔·德·塞万提斯",
+  "year_display": "1613年（作者页注记：Britannica——训诫小说集 (1613)——'有些篇章接近《堂吉诃德》的微缩水准'）",
+  "year_sort": 1613,
+  "background": [
+    "作者页注记：训诫小说集 (1613)——'有些篇章接近《堂吉诃德》的微缩水准'（Britannica：attain a level close to that...）。",
+    "Britannica：塞万提斯——《堂吉诃德》作者（作者页语境）。",
+    "题材（通说待核）：十二篇'训诫'小说——流浪汉、爱情与道德教训。"
+  ],
+  "outline": [
+    "（通说待核）十二篇的多样性：吉普赛人、两犬对话、英国西班牙女子。",
+    "（通说待核）'训诫'与写实的平衡。"
+  ],
+  "characters": [
+    {
+      "name": "众篇人物",
+      "identity": "——",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'微缩的堂吉诃德'（Britannica 引语——注记）。",
+    "流浪汉小说传统（通说待核）。",
+    "道德训诫与世俗写作（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'有些篇章接近《堂吉诃德》的微缩水准'（作者页注记）。",
+      "source": "B034"
+    },
+    {
+      "text": "Britannica：塞万提斯为现代小说开创者之一（作者页语境）。",
+      "source": "B034"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "黄金世纪西班牙语。",
+      "'训诫'（ejemplar）的含义。"
+    ],
+    "editions": [
+      "《训诫小说集》中译本（人民文学等——通说待核）。",
+      "西班牙文原版（公有领域）。"
+    ],
+    "order": "《堂吉诃德》后的延伸阅读。"
+  },
+  "pending": [
+    "篇目（《吉普赛姑娘》《狗的对话》等）核对（通说）。",
+    "1613年出版（Madrid说）待核。",
+    "'十二篇'数量核对。"
+  ],
+  "sources": [
+    "B034"
+  ],
+  "year_source": "B034",
+  "author_source": "B034",
+  "related_works": [
+    "tangjihuade",
+    "leiyu",
+    "luoting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《训诫小说集》微缩结构图",
+    "cards": [
+      {
+        "title": "十二篇",
+        "text": "微缩的堂吉诃德（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "流浪汉",
+        "text": "西班牙的街头（通说）",
+        "color": "main"
+      },
+      {
+        "title": "训诫",
+        "text": "道德与写实（通说）",
+        "color": "family"
+      },
+      {
+        "title": "黄金世纪",
+        "text": "语言的巅峰（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

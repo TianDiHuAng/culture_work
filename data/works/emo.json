@@ -1,0 +1,105 @@
+{
+  "id": "emo",
+  "title": "恶魔",
+  "original_title": "Демон（The Demon）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪30-40年代",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "lermontov",
+  "author_name": "米哈伊尔·莱蒙托夫",
+  "year_display": "作者页注记：Britannica 列举 Demon（成稿年份通说待核——生前未全刊）",
+  "year_sort": 1841,
+  "background": [
+    "作者页注记：恶魔（The Demon）、假面舞会、姆采里——'诗与剧（Britannica 列举）'。",
+    "Britannica：莱蒙托夫——《当代英雄》作者（作者页语境）。",
+    "题材（通说待核）：天界'恶魔'对格鲁吉亚少女塔玛拉的爱——否定精神的挽歌。"
+  ],
+  "outline": [
+    "（通说待核）恶魔的飞翔与坠落：爱与毁灭。",
+    "（通说待核）塔玛拉的祈祷与死亡。"
+  ],
+  "characters": [
+    {
+      "name": "恶魔",
+      "identity": "否定之灵",
+      "note": "（B 书名人物）"
+    },
+    {
+      "name": "塔玛拉",
+      "identity": "格鲁吉亚公主",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'否定精神'的浪漫主义（通说待核）。",
+    "拜伦式英雄的俄国变体（通说待核）。",
+    "高加索的东方想象（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Demon 列举（作者页注记）。",
+      "source": "B142"
+    },
+    {
+      "text": "Britannica：莱蒙托夫为普希金之后最重要俄国诗人（作者页语境——待核）。",
+      "source": "B142"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "浪漫主义长诗的语体。",
+      "圣经'堕落天使'原型。"
+    ],
+    "editions": [
+      "《恶魔》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "莱蒙托夫诗歌首选；与《童僧》《姆采里》并读。"
+  },
+  "pending": [
+    "成稿年份（1829-1841多稿说）待核。",
+    "塔玛拉人名核对（通说）。",
+    "生前刊印状态待核。"
+  ],
+  "sources": [
+    "B142"
+  ],
+  "year_source": "B142",
+  "author_source": "B142",
+  "related_works": [
+    "dangdaiyingxiong",
+    "diyuzhiji",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恶魔》否定结构图",
+    "cards": [
+      {
+        "title": "恶魔",
+        "text": "否定的精灵（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "塔玛拉",
+        "text": "爱的瞬间（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "坠落",
+        "text": "毁灭的吻（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "高加索",
+        "text": "东方的舞台（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
