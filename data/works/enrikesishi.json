@@ -1,0 +1,105 @@
+{
+  "id": "enrikesishi",
+  "title": "恩里科四世",
+  "original_title": "Enrico IV",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "意大利语",
+  "author_id": "pirandello",
+  "author_name": "路易吉·皮兰德娄",
+  "year_display": "1922年（Britannica B336：Enrico IV (1922)）",
+  "year_sort": 1922,
+  "background": [
+    "Britannica（B336）：Enrico IV——'the theme is madness, which lies just under the skin of ordinary life'（主题是疯狂，它就藏在日常生活的表皮之下）。",
+    "Britannica（B336）：主人公选择'retirement into unreality in preference to life'（宁愿退入非现实而不愿生活）。",
+    "Britannica（B336）：皮兰德娄——1934诺奖；'theatre within the theatre'的发明者。"
+  ],
+  "outline": [
+    "（通说待核——B336未载剧情）假扮'恩里科四世'的疯狂者维持疯狂十二年后醒来。",
+    "（通说待核）'退入非现实'的选择：清醒者的疯狂辩护。"
+  ],
+  "characters": [
+    {
+      "name": "恩里科四世",
+      "identity": "假疯者",
+      "note": "（B336 书名人物）"
+    },
+    {
+      "name": "玛蒂尔达",
+      "identity": "伯爵夫人",
+      "note": "（通说待核，B336未载）"
+    }
+  ],
+  "themes": [
+    "疯狂与清醒的倒置（B336：madness...under the skin）。",
+    "'退入非现实'的存在选择（B336）。",
+    "面具与身份（B336 作者论语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the theme is madness...'（B336）。",
+      "source": "B336"
+    },
+    {
+      "text": "Britannica：皮兰德娄1934诺奖（B336）。",
+      "source": "B336"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "疯狂与清醒的辩证。",
+      "中世纪扮演的舞台机制。"
+    ],
+    "editions": [
+      "《恩里科四世》中译本（人民文学等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "皮兰德娄进阶；与《六个寻找剧作家的角色》对读。"
+  },
+  "pending": [
+    "剧情细节核对（通说）。",
+    "1922年首演细节待核。",
+    "玛蒂尔达人名待核。"
+  ],
+  "sources": [
+    "B336"
+  ],
+  "year_source": "B336",
+  "author_source": "B336",
+  "related_works": [
+    "liugejuesesouzhao",
+    "yigewushiwan",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恩里科四世》面具结构图",
+    "cards": [
+      {
+        "title": "假疯",
+        "text": "清醒的疯狂（B336）",
+        "color": "main"
+      },
+      {
+        "title": "退入非现实",
+        "text": "拒绝生活（B336）",
+        "color": "gold"
+      },
+      {
+        "title": "宫廷",
+        "text": "中世纪的舞台（通说）",
+        "color": "family"
+      },
+      {
+        "title": "面具",
+        "text": "身份的倒置（B336语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

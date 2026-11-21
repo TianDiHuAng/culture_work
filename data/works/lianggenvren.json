@@ -1,0 +1,105 @@
+{
+  "id": "lianggenvren",
+  "title": "两个女人",
+  "original_title": "La ciociara",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "moravia",
+  "author_name": "阿尔贝托·莫拉维亚",
+  "year_display": "1957年（Britannica B348：La ciociara (1957; Two Women)）",
+  "year_sort": 1957,
+  "background": [
+    "Britannica（B348）：La ciociara——'tells of an adaptation to post-World War II Italian life'（讲述对战后意大利生活的适应）。",
+    "Britannica（B348）：莫拉维亚——'He was a major figure in 20th-century Italian literature.'。",
+    "题材（通说待核）：战争末期的母女流亡——乔恰里亚乡间的逃难与暴力。"
+  ],
+  "outline": [
+    "（通说待核——B348未载剧情）母女从罗马逃往乔恰里亚乡间。",
+    "（通说待核）战争的暴行与幸存。"
+  ],
+  "characters": [
+    {
+      "name": "切塞拉",
+      "identity": "母亲",
+      "note": "（通说待核，B348未载）"
+    },
+    {
+      "name": "罗塞塔",
+      "identity": "女儿",
+      "note": "（通说待核，B348未载）"
+    }
+  ],
+  "themes": [
+    "战后的适应（B348：adaptation to post-World War II Italian life）。",
+    "战争的性暴力（通说待核）。",
+    "母女的保护与错位（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'He was a major figure in 20th-century Italian literature.'（B348）。",
+      "source": "B348"
+    },
+    {
+      "text": "Britannica：莫拉维亚多部改编为电影（B348 交叉——1960年德西卡电影说待核）。",
+      "source": "B348"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "二战末意大利战线。",
+      "'乔恰里亚'地名（原书名 La ciociara）。"
+    ],
+    "editions": [
+      "《两个女人》中译名（《乔恰里亚女人》两说——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "莫拉维亚中期首选。"
+  },
+  "pending": [
+    "切塞拉/罗塞塔人名核对（B348未载）。",
+    "1960年德西卡电影说待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B348"
+  ],
+  "year_source": "B348",
+  "author_source": "B348",
+  "related_works": [
+    "lengmoederen",
+    "shuncongzhe",
+    "bao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《两个女人》逃难结构图",
+    "cards": [
+      {
+        "title": "母女",
+        "text": "战时的逃亡（通说）",
+        "color": "main"
+      },
+      {
+        "title": "乔恰里亚",
+        "text": "乡间的暴力（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "战后",
+        "text": "生活的适应（B348）",
+        "color": "gold"
+      },
+      {
+        "title": "保护",
+        "text": "错位的爱（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "naerqisi",
+  "title": "纳尔齐斯与歌尔德蒙",
+  "original_title": "Narziss und Goldmund",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "20世纪30年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "hesse",
+  "author_name": "赫尔曼·黑塞",
+  "year_display": "1930年（Britannica B137：纳尔齐斯与歌尔德蒙 (1930)）",
+  "year_sort": 1930,
+  "background": [
+    "Britannica（B137）：纳尔齐斯与歌尔德蒙 (1930)——Britannica 列举。",
+    "Britannica（B137）：黑塞主题——'个人挣脱既定文明寻找精神自我'。",
+    "题材（通说待核）：修道院里的两个朋友——精神与感官的两条道路。"
+  ],
+  "outline": [
+    "（通说待核——B137未载剧情）纳尔齐斯的静观之路与歌尔德蒙的流浪之路。",
+    "（通说待核）艺术与死亡：歌尔德蒙的木雕与终点。"
+  ],
+  "characters": [
+    {
+      "name": "纳尔齐斯",
+      "identity": "修士/理性",
+      "note": "（B137 书名人物）"
+    },
+    {
+      "name": "歌尔德蒙",
+      "identity": "流浪者/感官",
+      "note": "（B137 书名人物）"
+    }
+  ],
+  "themes": [
+    "精神与感官的双重道路（通说待核）。",
+    "'挣脱既定文明'（B137）。",
+    "友谊的镜像结构（书名语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1946诺贝尔文学奖（B137）。",
+      "source": "B137"
+    },
+    {
+      "text": "Britannica：黑塞代表作序列（B137：《悉达多》《荒原狼》《玻璃球游戏》等）。",
+      "source": "B137"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "中世纪修道院背景。",
+      "'双重道路'的哲学结构。"
+    ],
+    "editions": [
+      "《纳尔齐斯与歌尔德蒙》中译名（《纳尔奇斯与歌尔德蒙》）待核。",
+      "德文原版。"
+    ],
+    "order": "黑塞中期首选；与《德米安》对读。"
+  },
+  "pending": [
+    "1930年出版（S. Fischer说）待核。",
+    "剧情细节核对（通说）。",
+    "译名两说待核。"
+  ],
+  "sources": [
+    "B137"
+  ],
+  "year_source": "B137",
+  "author_source": "B137",
+  "related_works": [
+    "xinshigudeLieshou",
+    "demian",
+    "boliuqiuyouxi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《纳尔齐斯与歌尔德蒙》双路图",
+    "cards": [
+      {
+        "title": "纳尔齐斯",
+        "text": "静观之路（B137）",
+        "color": "family"
+      },
+      {
+        "title": "歌尔德蒙",
+        "text": "流浪之路（B137）",
+        "color": "main"
+      },
+      {
+        "title": "友谊",
+        "text": "镜像的结构（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "艺术",
+        "text": "感官的救赎（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

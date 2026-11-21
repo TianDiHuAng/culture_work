@@ -1,0 +1,100 @@
+{
+  "id": "beiyanmaidejuren",
+  "title": "被掩埋的巨人",
+  "original_title": "The Buried Giant",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "ishiguro",
+  "author_name": "石黑一雄",
+  "year_display": "2015年（Britannica B130：被掩埋的巨人 (2015)——'记忆与遗忘'）",
+  "year_sort": 2015,
+  "background": [
+    "Britannica（B130）：《被掩埋的巨人》(2015)——'记忆与遗忘（Britannica 列举）'。",
+    "Britannica（B130）：石黑一雄2017诺奖——'uncovered the abyss beneath our illusory sense of connection with the world'；主题'记忆、悔恨、身份'。",
+    "题材（通说待核）：后亚瑟王不列颠——'母龙'的气息使大地遗忘。"
+  ],
+  "outline": [
+    "（通说待核——B130未载剧情）老夫妇渡河寻子：集体遗忘之谜。",
+    "（通说待核）'巨人的坟墓'：被掩埋的记忆终将醒来。"
+  ],
+  "characters": [
+    {
+      "name": "埃克索/比特丽丝",
+      "identity": "老夫妇",
+      "note": "（通说待核，B130未载）"
+    }
+  ],
+  "themes": [
+    "记忆与遗忘（B130）。",
+    "集体创伤的掩埋（通说待核）。",
+    "爱的考验（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2017诺奖（B130）。",
+      "source": "B130"
+    },
+    {
+      "text": "Britannica：'记忆、悔恨、身份'主题（B130）。",
+      "source": "B130"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓言化的中世纪设定。",
+      "记忆伦理的多重声音。"
+    ],
+    "editions": [
+      "《被掩埋的巨人》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "石黑一雄寓言篇；与《克拉拉与太阳》对读。"
+  },
+  "pending": [
+    "埃克索/比特丽丝人名核对（B130未载）。",
+    "2015年出版（Faber说）待核。",
+    "'母龙魁瑞格'细节待核。"
+  ],
+  "sources": [
+    "B130"
+  ],
+  "year_source": "B130",
+  "author_source": "B130",
+  "related_works": [
+    "kelarayutaiyang",
+    "leiyu",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《被掩埋的巨人》遗忘结构图",
+    "cards": [
+      {
+        "title": "迷雾",
+        "text": "大地的遗忘（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "老夫妇",
+        "text": "寻子的旅程（通说）",
+        "color": "main"
+      },
+      {
+        "title": "巨人",
+        "text": "被掩埋的记忆（B130）",
+        "color": "gold"
+      },
+      {
+        "title": "爱",
+        "text": "记忆的考验（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

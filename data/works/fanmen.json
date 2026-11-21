@@ -1,0 +1,105 @@
+{
+  "id": "fanmen",
+  "title": "烦闷",
+  "original_title": "La noia",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪60年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "moravia",
+  "author_name": "阿尔贝托·莫拉维亚",
+  "year_display": "1960年（Britannica B348：La noia (1960; The Empty Canvas)）",
+  "year_sort": 1960,
+  "background": [
+    "Britannica（B348）：La noia——'a painter unable to find meaning either in love or work'（一个在爱与工作中都找不到意义的画家）。",
+    "Britannica（B348）：莫拉维亚——'known for his fictional portrayals of social alienation'。",
+    "题材（通说待核）：画家ino的'烦闷'——存在性无聊与占有式爱情。"
+  ],
+  "outline": [
+    "（通说待核——B348未载剧情）画家的空白画布：创作与欲望的双重瘫痪。",
+    "（通说待核）与塞西莉亚的关系：占有的测试。"
+  ],
+  "characters": [
+    {
+      "name": "画家（诺伊说）",
+      "identity": "主人公",
+      "note": "（通说待核，B348未载）"
+    },
+    {
+      "name": "塞西莉亚",
+      "identity": "少女",
+      "note": "（通说待核，B348未载）"
+    }
+  ],
+  "themes": [
+    "烦闷作为存在状况（B348：unable to find meaning）。",
+    "创作力的瘫痪（通说待核）。",
+    "占有的失败（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a painter unable to find meaning either in love or work'（B348）。",
+      "source": "B348"
+    },
+    {
+      "text": "Britannica：'social alienation'（B348 作者级定位）。",
+      "source": "B348"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'烦闷'（noia）的哲学界定。",
+      "罗马艺术圈背景（通说待核）。"
+    ],
+    "editions": [
+      "《烦闷》中译名（《冷漠的钟点》两说——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "莫拉维亚后期首选。"
+  },
+  "pending": [
+    "主人公名核对（B348未载）。",
+    "1963年电影改编说待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B348"
+  ],
+  "year_source": "B348",
+  "author_source": "B348",
+  "related_works": [
+    "shuncongzhe",
+    "lengmoederen",
+    "zenodeyishi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《烦闷》空白画布图",
+    "cards": [
+      {
+        "title": "空白画布",
+        "text": "创作的瘫痪（通说）",
+        "color": "main"
+      },
+      {
+        "title": "烦闷",
+        "text": "noia 的存在状况（B348）",
+        "color": "gold"
+      },
+      {
+        "title": "占有",
+        "text": "爱的失败（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "疏离",
+        "text": "社会的异化（B348）",
+        "color": "family"
+      }
+    ]
+  }
+}

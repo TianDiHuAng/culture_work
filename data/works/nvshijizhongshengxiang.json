@@ -1,0 +1,105 @@
+{
+  "id": "nvshijizhongshengxiang",
+  "title": "女士及众生相",
+  "original_title": "Gruppenbild mit Dame",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "boll",
+  "author_name": "海因里希·伯尔",
+  "year_display": "1971年（Britannica B350：Group Portrait with Lady (1971)——'his longest novel'）",
+  "year_sort": 1971,
+  "background": [
+    "Britannica（B350）：Group Portrait with Lady——'his longest novel'——'a panorama of German life'（德国生活全景）——通过莱妮·普法伊弗尔周围的人。",
+    "Britannica（B350）：伯尔——1972诺奖；'rubble literature'代表；'the eras leading humanist interpreter of Germanys WWII experience'。",
+    "题材（通说待核）：以'采访拼贴'还原一个普通女性的一生。"
+  ],
+  "outline": [
+    "（通说待核——B350未载剧情）叙述者通过采访莱妮周围的人拼出她的肖像。",
+    "（通说待核）莱妮：被社会放逐却坚守人性的女性。"
+  ],
+  "characters": [
+    {
+      "name": "莱妮·普法伊弗尔",
+      "identity": "女主人公",
+      "note": "（B350：Leni Pfeiffer）"
+    },
+    {
+      "name": "叙述者",
+      "identity": "采访者",
+      "note": "（通说待核，B350未载）"
+    }
+  ],
+  "themes": [
+    "德国生活的全景（B350：a panorama of German life）。",
+    "'众生相'的集体叙事（书名语境）。",
+    "个人责任与历史（B350：personal responsibility）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1972年诺贝尔文学奖（B350）。",
+      "source": "B350"
+    },
+    {
+      "text": "Britannica：'his longest novel'（B350）。",
+      "source": "B350"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "采访拼贴文体。",
+      "德国20世纪史（一战至70年代——通说待核）。"
+    ],
+    "editions": [
+      "《女士及众生相》中译名（《以妇女为中心的群像》两说——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "伯尔长篇收官；与《小丑之见》对读。"
+  },
+  "pending": [
+    "莱妮·普法伊弗尔人名核对（B350拼写）。",
+    "1971年出版细节待核。",
+    "'采访拼贴'结构待核。"
+  ],
+  "sources": [
+    "B350"
+  ],
+  "year_source": "B350",
+  "author_source": "B350",
+  "related_works": [
+    "xiaochou",
+    "katarinabulum",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《女士及众生相》拼贴肖像图",
+    "cards": [
+      {
+        "title": "莱妮",
+        "text": "肖像的中心（B350）",
+        "color": "main"
+      },
+      {
+        "title": "众生",
+        "text": "德国生活全景（B350）",
+        "color": "family"
+      },
+      {
+        "title": "采访",
+        "text": "拼贴的方法（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "放逐",
+        "text": "社会的偏见（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

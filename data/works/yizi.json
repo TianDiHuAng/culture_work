@@ -1,0 +1,105 @@
+{
+  "id": "yizi",
+  "title": "椅子",
+  "original_title": "Les Chaises",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "ionesco",
+  "author_name": "欧仁·尤涅斯库",
+  "year_display": "1952年（Britannica B340：Les Chaises (1952)）",
+  "year_sort": 1952,
+  "background": [
+    "Britannica（B340）：Les Chaises (1952)——剧作列表（剧情细节通说待核）。",
+    "Britannica（B340）：尤涅斯库——'道具的滑稽增殖直至淹没演员'（'humorous multiplication of objects on stage until they overwhelm the actors'）。",
+    "Britannica（B340）：其戏剧呈现'the absurdity of bourgeois life, the meaninglessness of social conventions'。"
+  ],
+  "outline": [
+    "（通说待核——B340未载剧情）老夫妇向越来越满的'椅子'宣讲世界真相。",
+    "（通说待核）椅子的增殖：道具淹没演员（B340）。"
+  ],
+  "characters": [
+    {
+      "name": "老夫妇",
+      "identity": "宣讲者",
+      "note": "（通说待核，B340未载）"
+    },
+    {
+      "name": "演说家",
+      "identity": "哑角",
+      "note": "（通说待核，B340未载）"
+    }
+  ],
+  "themes": [
+    "道具的增殖美学（B340）。",
+    "存在的空转（B340：futile and mechanical nature）。",
+    "'缺席的观众'与无人的真理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：荒诞派开创者之一（B340）。",
+      "source": "B340"
+    },
+    {
+      "text": "Britannica：'道具滑稽增殖'（B340）。",
+      "source": "B340"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "无人物的满台道具调度。",
+      "'演说家'的哑剧性（通说待核）。"
+    ],
+    "editions": [
+      "《椅子》中译本（人民文学《荒诞派戏剧集》等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "尤涅斯库第二作；与《秃头歌女》《犀牛》对读。"
+  },
+  "pending": [
+    "剧情细节核对（通说）。",
+    "1952年首演（Théâtre de la Huchette说）待核。",
+    "演说家角色细节待核。"
+  ],
+  "sources": [
+    "B340"
+  ],
+  "year_source": "B340",
+  "author_source": "B340",
+  "related_works": [
+    "toutougeonv",
+    "dengdaigou",
+    "xiniu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《椅子》增殖结构图",
+    "cards": [
+      {
+        "title": "椅子",
+        "text": "道具的淹没（B340）",
+        "color": "antagonist"
+      },
+      {
+        "title": "老夫妇",
+        "text": "空转的宣讲（通说）",
+        "color": "main"
+      },
+      {
+        "title": "演说家",
+        "text": "缺席的真理（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "荒诞",
+        "text": "意义的失落（B340）",
+        "color": "family"
+      }
+    ]
+  }
+}
