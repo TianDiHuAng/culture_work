@@ -1,0 +1,105 @@
+{
+  "id": "nvpu",
+  "title": "女仆",
+  "original_title": "Les Bonnes",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "genet",
+  "author_name": "让·热内",
+  "year_display": "1947年（Britannica B400：Les Bonnes (1947)——'Theatre of Hatred'）",
+  "year_sort": 1947,
+  "background": [
+    "Britannica（B400）：Les Bonnes (1947)——作品列表；'This Theatre of Hatred attempts to wrest the maximum dramatic power from a social or political situation'（'憎恨的剧场'——从社会或政治情境中榨取最大的戏剧力量）。",
+    "Britannica（B400）：热内——'a French criminal and social outcast turned writer'。",
+    "题材（通说待核）：两女仆扮演'夫人'的仪式戏——克莱尔与索朗日的谋杀排演（原型帕潘姐妹案——通说待核）。"
+  ],
+  "outline": [
+    "（通说待核）'夫人'与'女仆'的角色互换仪式。",
+    "（通说待核）'茶'与毒药的谋杀排演。"
+  ],
+  "characters": [
+    {
+      "name": "克莱尔/索朗日",
+      "identity": "两女仆",
+      "note": "（通说待核，B400未载）"
+    },
+    {
+      "name": "夫人",
+      "identity": "被扮演者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'憎恨的剧场'（B400：Theatre of Hatred）。",
+    "角色互换的仪式（通说待核）。",
+    "仆与主的戏中戏（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Theatre of Hatred'（B400）。",
+      "source": "B400"
+    },
+    {
+      "text": "Britannica：'criminal and social outcast turned writer'（B400 作者级）。",
+      "source": "B400"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'仪式戏'的结构。",
+      "帕潘姐妹案原型（通说待核）。"
+    ],
+    "editions": [
+      "《女仆》中译本（人民文学《热内戏剧集》等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "热内戏剧首选；与《鲜花圣母》对读。"
+  },
+  "pending": [
+    "克莱尔/索朗日人名核对（通说）。",
+    "1947年首演细节待核。",
+    "帕潘姐妹案原型待核。"
+  ],
+  "sources": [
+    "B400"
+  ],
+  "year_source": "B400",
+  "author_source": "B400",
+  "related_works": [
+    "xianhuashengmu",
+    "yuwanghaojieche",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《女仆》仪式戏结构图",
+    "cards": [
+      {
+        "title": "互换",
+        "text": "夫人的扮演（通说）",
+        "color": "main"
+      },
+      {
+        "title": "憎恨",
+        "text": "'憎恨的剧场'（B400）",
+        "color": "gold"
+      },
+      {
+        "title": "毒茶",
+        "text": "排演的谋杀（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "仪式",
+        "text": "夜夜的重复（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

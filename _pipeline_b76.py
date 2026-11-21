@@ -22,6 +22,9 @@ for p in pathlib.Path('data/works').glob('*.json'):
     j = json.loads(p.read_text(encoding='utf-8'))
     titles.add(j['title'])
 
+def src_of(aid):
+    return json.load(open(f'data/authors/{aid}.json', encoding='utf-8'))['sources'][0]
+
 def G(caption, cards):
     return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
 

@@ -1,0 +1,100 @@
+{
+  "id": "haibinmuyuan",
+  "title": "海滨墓园",
+  "original_title": "Le Cimetière marin",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "valery",
+  "author_name": "保尔·瓦雷里",
+  "year_display": "1920年（Britannica B405：Le Cimetière marin (1920)——收入 Charmes (1922)）",
+  "year_sort": 1920,
+  "background": [
+    "Britannica（B405）：'broods by the sea at noon on Being and Not-Being, on the living and the dead'（正午在海上沉思存在与不存在、生者与死者）。",
+    "Britannica（B405）：塞特墓地——瓦雷里今葬于此（B405）。",
+    "Britannica（B405）：瓦雷里——'纯诗'——'free of message'探语言的音乐本质。"
+  ],
+  "outline": [
+    "（通说待核——B405未载诗节）'正午'的静止与风的'完整'。",
+    "（通说待核）'起风了！……必须试着活下去'（不采为引文）。"
+  ],
+  "characters": [
+    {
+      "name": "冥想者'我'",
+      "identity": "墓园的沉思者",
+      "note": "（B405 语境）"
+    }
+  ],
+  "themes": [
+    "'存在与不存在、生者与死者'（B405：Being and Not-Being...）。",
+    "'纯诗'的巅峰实践（B405：free of message）。",
+    "塞特的自传地（B405：今葬于此）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：收入 Charmes (1922)（B405）。",
+      "source": "B405"
+    },
+    {
+      "text": "Britannica：1925法兰西学院、国葬（B405 交叉）。",
+      "source": "B405"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "十节的正午'静'结构（通说待核）。",
+      "'纯诗'的音乐性。"
+    ],
+    "editions": [
+      "《海滨墓园》中译本（人民文学/卞之琳译本说——通说待核）。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "瓦雷里首选；与《年轻的命运女神》对读。"
+  },
+  "pending": [
+    "诗节结构与'风'转折核对（通说）。",
+    "1920年发表（《南方手册》说）待核。",
+    "卞之琳译本细节待核。"
+  ],
+  "sources": [
+    "B405"
+  ],
+  "year_source": "B405",
+  "author_source": "B405",
+  "related_works": [
+    "mingyunvshen",
+    "diyuzhiji",
+    "wuguigu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《海滨墓园》正午沉思图",
+    "cards": [
+      {
+        "title": "正午",
+        "text": "'存在与不存在'（B405）",
+        "color": "gold"
+      },
+      {
+        "title": "墓园",
+        "text": "塞特的自传地（B405）",
+        "color": "main"
+      },
+      {
+        "title": "风",
+        "text": "'必须活着'的转折（通说）",
+        "color": "family"
+      },
+      {
+        "title": "纯诗",
+        "text": "语言的音乐（B405）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

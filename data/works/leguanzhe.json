@@ -1,0 +1,105 @@
+{
+  "id": "leguanzhe",
+  "title": "乐观者的女儿",
+  "original_title": "The Optimist's Daughter",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代初",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "welty",
+  "author_name": "尤多拉·韦尔蒂",
+  "year_display": "1972年（Britannica B406：The Optimist's Daughter (1972)——'won a Pulitzer Prize'）",
+  "year_sort": 1972,
+  "background": [
+    "Britannica（B406）：The Optimist's Daughter——'won a Pulitzer Prize'（普利策奖）。",
+    "Britannica（B406）：韦尔蒂——密西西比州杰克逊——'American short-story writer'；1980总统自由勋章。",
+    "题材（通说待核）：'乐观者'法官之死的归乡——继母与故友的和解。"
+  ],
+  "outline": [
+    "（通说待核）贝基·麦凯尔瓦法官之死与劳雷尔的返乡。",
+    "（通说待核）'乐观者'：父亲的绰号与女儿的成长。"
+  ],
+  "characters": [
+    {
+      "name": "劳雷尔",
+      "identity": "设计师/女儿",
+      "note": "（通说待核，B406未载）"
+    },
+    {
+      "name": "法官麦凯尔瓦",
+      "identity": "'乐观者'父亲",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'乐观者'与丧亲（书名语境——通说待核）。",
+    "密西西比小镇（B406：Jackson 语境）。",
+    "'亲子的纽带、爱与悲伤'（页面问答口径——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'won a Pulitzer Prize'（B406）。",
+      "source": "B406"
+    },
+    {
+      "text": "Britannica：1980总统自由勋章（B406 交叉）。",
+      "source": "B406"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "南方方言的幽默。",
+      "'丧亲'的心理层次。"
+    ],
+    "editions": [
+      "《乐观者的女儿》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "韦尔蒂长篇首选；与《绿幕》对读。"
+  },
+  "pending": [
+    "劳雷尔人名核对（通说）。",
+    "1972年出版细节待核。",
+    "'普利策奖'（B406已载）核对。"
+  ],
+  "sources": [
+    "B406"
+  ],
+  "year_source": "B406",
+  "author_source": "B406",
+  "related_works": [
+    "leiyu",
+    "hunlidechengyuan",
+    "xinshigudeLieshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《乐观者的女儿》丧亲结构图",
+    "cards": [
+      {
+        "title": "父亲",
+        "text": "'乐观者'的死（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "劳雷尔",
+        "text": "返乡的女儿（通说）",
+        "color": "main"
+      },
+      {
+        "title": "继母",
+        "text": "荒唐的房东（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "普利策",
+        "text": "1972（B406）",
+        "color": "family"
+      }
+    ]
+  }
+}

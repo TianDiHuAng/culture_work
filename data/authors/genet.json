@@ -38,6 +38,10 @@
   ],
   "major_works": [
     {
+      "work_id": "nvpu",
+      "note": "（B40x 本作）"
+    },
+    {
       "work_id": "xianhuashengmu",
       "note": "1943（B400）"
     },

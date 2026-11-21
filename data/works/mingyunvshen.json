@@ -1,0 +1,100 @@
+{
+  "id": "mingyunvshen",
+  "title": "年轻的命运女神",
+  "original_title": "La Jeune Parque",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪10年代末",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "valery",
+  "author_name": "保尔·瓦雷里",
+  "year_display": "1917年（Britannica B405：La Jeune Parque (1917; The Young Fate)——'His greatest poem is considered La Jeune Parque'）",
+  "year_sort": 1917,
+  "background": [
+    "Britannica（B405）：'His greatest poem is considered La Jeune Parque (1917; The Young Fate)'——三女神中最年轻者的意识觉醒——黎明的海边在'永葆宁谧的不朽'与'拥抱人世'之间犹疑——历时五年完成。",
+    "Britannica（B405）：瓦雷里——'rise at dawn each day, meditate for several hours on scientific method, consciousness, and the nature of language'。",
+    "题材（通说待核）：512行的'意识'独白（行数通说待核）。"
+  ],
+  "outline": [
+    "（通说待核）黎明海边的女神：不朽与人世之间的犹疑（B405：hesitates by the sea at dawn）。",
+    "（通说待核）'意识'觉醒的自白（B405：consciousness awakening）。"
+  ],
+  "characters": [
+    {
+      "name": "年轻的命运女神",
+      "identity": "犹疑者",
+      "note": "（B405 书名人物——the youngest of the three Fates）"
+    }
+  ],
+  "themes": [
+    "'意识在沉思欲望与行动意志之间的张力'（B405：the tension within the human consciousness...）。",
+    "'历时五年'（B405）。",
+    "'古典形式'的现代智性（B405：always classical in form）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'His greatest poem is considered La Jeune Parque'（B405）。",
+      "source": "B405"
+    },
+    {
+      "text": "Britannica：'variations on the theme of the tension...'（B405）。",
+      "source": "B405"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "512行的'意识'独白（行数通说待核）。",
+      "'命运女神'神话底本。"
+    ],
+    "editions": [
+      "《年轻的命运女神》中译名（《命运女神》）待核。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "瓦雷里进阶；先读《海滨墓园》。"
+  },
+  "pending": [
+    "行数（512行说）核对（通说）。",
+    "1917年出版（NRF说）待核。",
+    "'五年完成'核对（B405已载）。"
+  ],
+  "sources": [
+    "B405"
+  ],
+  "year_source": "B405",
+  "author_source": "B405",
+  "related_works": [
+    "haibinmuyuan",
+    "xuboliweng",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《年轻的命运女神》犹疑结构图",
+    "cards": [
+      {
+        "title": "女神",
+        "text": "黎明的犹疑（B405）",
+        "color": "main"
+      },
+      {
+        "title": "不朽",
+        "text": "宁谧的诱惑（B405）",
+        "color": "family"
+      },
+      {
+        "title": "人世",
+        "text": "拥抱的冲动（B405）",
+        "color": "gold"
+      },
+      {
+        "title": "意识",
+        "text": "张力的变奏（B405）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
