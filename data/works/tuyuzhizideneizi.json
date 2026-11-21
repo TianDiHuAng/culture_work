@@ -1,0 +1,98 @@
+{
+  "id": "tuyuzhizideneizi",
+  "title": "土生子",
+  "original_title": "Native Son",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "wright",
+  "author_name": "理查德·赖特",
+  "year_display": "1940年（作者页 B317 口径：Native Son 1940）",
+  "year_sort": 1940,
+  "background": [
+    "作者页（B317）：'the first African American writer to gain a large white readership'——本作为其成名作。",
+    "题材（通说待核）：芝加哥黑人青年比格·托马斯的犯罪与审判——种族主义的暴力循环。"
+  ],
+  "outline": [
+    "误杀→藏尸→逃亡→审判（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "比格·托马斯",
+      "identity": "黑人青年",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "种族主义与暴力（通说待核）。",
+    "恐惧的循环（通说待核）。",
+    "自然主义与社会抗议（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the first African American writer to gain a large white readership'（B317）。",
+      "source": "B317"
+    },
+    {
+      "text": "作者页：'disturbing and brutally honest'（B317）。",
+      "source": "B317"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "种族主义语境。",
+      "暴力描写。"
+    ],
+    "editions": [
+      "《土生子》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "赖特首选。"
+  },
+  "pending": [
+    "1940年出版（Harper & Brothers说）核对。",
+    "比格·托马斯人名核对。",
+    "书名'Native Son'中译（土生子/ native son）待核。"
+  ],
+  "sources": [
+    "B317"
+  ],
+  "year_source": "B317",
+  "author_source": "B317",
+  "related_works": [
+    "kanbujian3",
+    "chonger",
+    "zise"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《土生子》暴力结构图",
+    "cards": [
+      {
+        "title": "比格·托马斯",
+        "text": "黑人的愤怒",
+        "color": "main"
+      },
+      {
+        "title": "误杀",
+        "text": "恐惧的循环",
+        "color": "antagonist"
+      },
+      {
+        "title": "审判",
+        "text": "社会的共谋",
+        "color": "gold"
+      },
+      {
+        "title": "土生子",
+        "text": "书名的隐喻",
+        "color": "family"
+      }
+    ]
+  }
+}

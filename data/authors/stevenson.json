@@ -8,31 +8,21 @@
   "birth_year": 1850,
   "death_year": 1894,
   "era": "近代",
-  "summary": "史蒂文森，爱丁堡人，苏格兰散文家、诗人与小说、游记作家——'a writer of originality and power who produced brilliant adventure stories with subtle moral overtones'（以原创与力量写出带微妙道德意味的精彩冒险故事——Britannica B294）。'best known for his novels Treasure Island (1881), Kidnapped (1886)'（《金银岛》《绑架》——B294 Quick Facts；金银岛通行1883年说待核）。放弃法律改从文学，晚年居萨摩亚（B294）。",
+  "summary": "史蒂文森，爱丁堡人，苏格兰散文家、诗人与小说、游记作家——'a writer of originality and power who produced brilliant adventure stories with subtle moral overtones'（B294）。'best known for his novels Treasure Island (1881), Kidnapped (1886)'（B294 Quick Facts——金银岛通行1883年说待核）。放弃法律改从文学，晚年居萨摩亚（B294）。",
   "timeline": [
     {
       "year": 1850,
-      "text": "11月13日生于爱丁堡（B294：Born November 13, 1850, Edinburgh, Scotland）。",
+      "text": "11月13日生于爱丁堡（B294）。",
       "src": "B294"
     },
     {
       "year": 1875,
-      "text": "获苏格兰律师资格（B294：Called to the Scottish bar July 1875）。",
-      "src": "B294"
-    },
-    {
-      "year": 1880,
-      "text": "与范妮·奥斯本结婚（B294：married Fanny Osbourne early 1880）。",
-      "src": "B294"
-    },
-    {
-      "year": 1886,
-      "text": "《化身博士》出版（通说待核；B294 Quick Facts 载 Kidnapped (1886)）。",
+      "text": "获苏格兰律师资格（B294）。",
       "src": "B294"
     },
     {
       "year": 1894,
-      "text": "12月3日卒于萨摩亚瓦伊利马（B294：Died December 3, 1894, Vailima, Samoa）。",
+      "text": "12月3日卒于萨摩亚（B294）。",
       "src": "B294"
     }
   ],
@@ -42,27 +32,27 @@
       "note": "中篇（1886年说——通说待核）"
     },
     {
-      "title": "金银岛、绑架",
-      "note": "（B294：Treasure Island、Kidnapped (1886)）"
+      "title": "金银岛",
+      "note": "（B294 Quick Facts 载 1881——通行1883说待核）"
     },
     {
-      "title": "儿童诗园",
-      "note": "（通说待核）"
+      "title": "绑架",
+      "note": "（B294：Kidnapped (1886)）"
     }
   ],
   "style": [
     "'原创与力量'的冒险故事、'微妙的道德意味'（B294）。",
     "善恶双重人格的心理分化（《化身博士》——通说待核）。",
-    "游记与冒险的交织（B294 语境：fiction and travel writer）。"
+    "游记与冒险的交织（B294 语境）。"
   ],
-  "status": "Britannica 定位史蒂文森为苏格兰散文家、诗人与小说/游记作家（'原创与力量'——B294）；44岁早逝于萨摩亚（B294）。",
+  "status": "Britannica 定位史蒂文森为苏格兰散文家、诗人与小说/游记作家（B294）。",
   "sources": [
     "B294"
   ],
   "dates_source": "B294",
   "pending": [
-    "《金银岛》1883年（书刊年份）与 Britannica 页 1881 说核对。",
     "《化身博士》1886年出版细节核对。",
-    "萨摩亚晚年（'Vailima'居所）待核。"
+    "《金银岛》1883年（书刊年份）与 Britannica 页 1881 说核对。",
+    "萨摩亚晚年待核。"
   ]
 }
