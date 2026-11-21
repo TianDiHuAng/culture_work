@@ -1,40 +1,68 @@
 {
   "id": "thackeray",
-  "name": "萨克雷",
-  "foreign_name": "William Makepeace Thackeray（威廉·梅克比斯·萨克雷，1811-07-18 — 1863-12-24）",
+  "name": "威廉·梅克比斯·萨克雷",
+  "foreign_name": "William Makepeace Thackeray（威廉·梅克比斯·萨克雷，1811-07-18—1863-12-24）",
   "country": "英国",
-  "birth": "1811-07-18",
-  "death": "1863-12-24",
+  "birth": 1811,
+  "death": 1863,
   "birth_year": 1811,
   "death_year": 1863,
   "era": "近代",
-  "summary": "萨克雷，加尔各答人（东印度公司行政官之子，Britannica），狄更斯的对手、英国讽刺小说大家。剑桥未毕业；1832年继承2万镑遗产却'gambling and unlucky speculations and investments'（赌博与失败投资——Britannica）挥霍殆尽，为养家成为记者与漫画家。《名利场》（1847—48）副题'没有英雄的小说'（A Novel without a Hero——通说待核）确立其反情节剧的写实立场；1857年竞选议会失败、1860年创办《康希尔杂志》（Britannica）。1863年卒于伦敦，西敏寺立半身像（Britannica）。",
+  "summary": "萨克雷，加尔各答生（东印度公司行政官之子），英国小说家——'an English novelist whose reputation rests chiefly on Vanity Fair'（声誉主要建立在《名利场》上——B393）。Vanity Fair（名利场）连载1847-48——副题'A Novel Without a Hero'（无英雄的小说）——'satirizes the foolishness and selfishness of people chasing after vanities'（B393）。两个对照女性：Amelia Sedley 与'ambitious adventuress'Becky Sharp——'the novel's central character'（B393）。'Thackeray was considered a rival to Dickens'（被视为狄更斯的对手——B393）。价值在'narrative skill, subtle characterization, descriptive power'（B393）。",
   "timeline": [
-    {"year": "1811-07-18", "text": "生于加尔各答（Britannica：Born July 18, 1811, in Calcutta, India）；1816年父死后被送回英国（Britannica）。", "src": "B121"},
-    {"year": "1829—1832", "text": "查特豪斯公学与剑桥三一学院（未获学位，Britannica）。", "src": "B121"},
-    {"year": "1832—1836", "text": "继承遗产并挥霍殆尽（Britannica：Inherited £20,000 in 1832 but lost it）；1836年与'penniless Irish girl'结婚（Britannica：married a 'penniless Irish girl' in 1836），转行记者。", "src": "B121"},
-    {"year": "1840—1846", "text": "妻子1840年精神失常（Britannica：his wife went insane in 1840），成'effectively a widower raising three daughters'（事实上的鳏夫养三女，Britannica）。", "src": "B121"},
-    {"year": "1847—1848", "text": "《名利场》连载带来'fame and prosperity'（名利与富足，Britannica）。", "src": "B121"},
-    {"year": "1849—1860", "text": "《潘登尼斯》（1849—50）、《亨利·埃斯蒙德》（1852）、《纽可谟一家》（1853—55）；1852年《亨利·埃斯蒙德》历史小说（Britannica）；1857年竞选议会失败；'加里克俱乐部之争'与狄更斯决裂（1858，Britannica）；1860年创办《康希尔杂志》（Britannica）。", "src": "B121"},
-    {"year": "1863-12-24", "text": "卒于伦敦，年五十二（Britannica）；死后西敏寺半身像纪念（Britannica：Commemorated with a bust in Westminster Abbey）。", "src": "B121"}
+    {
+      "year": 1811,
+      "text": "7月18日生于加尔各答（B393）。",
+      "src": "B393"
+    },
+    {
+      "year": 1832,
+      "text": "继承£20,000——旋因赌博与投机而失（B393：'He soon lost his fortune...'）。",
+      "src": "B393"
+    },
+    {
+      "year": 1847,
+      "text": "《名利场》连载（1847-48）（B393）。",
+      "src": "B393"
+    },
+    {
+      "year": 1860,
+      "text": "创办并主编 The Cornhill Magazine（B393）。",
+      "src": "B393"
+    },
+    {
+      "year": 1863,
+      "text": "12月24日卒于伦敦（B393）。",
+      "src": "B393"
+    }
   ],
   "major_works": [
-    {"work_id": "minglichang", "note": "1847—48；代表作"},
-    {"title": "亨利·埃斯蒙德（1852）、潘登尼斯（1850）", "note": "其他名作（Britannica 列举）"},
-    {"title": "势利者集", "note": "讽刺小品（通说）"}
+    {
+      "work_id": "minglichang",
+      "note": "1847-48连载（B393）"
+    },
+    {
+      "title": "巴里·林登的命运",
+      "note": "（B393：The Luck of Barry Lyndon (1844)——首部全长作品——中译名待核）"
+    },
+    {
+      "title": "势利者集",
+      "note": "（B393：The Book of Snobs (1848)——中译名待核）"
+    }
   ],
   "style": [
-    "反情节剧的写实：'he favored realism over melodrama, satirized snobbery and social hypocrisy'（Britannica——偏爱写实而非情节剧，讽刺势利与社会伪善）。",
-    "'没有英雄的小说'：全人物皆'势利者'（通说）。",
-    "叙述者的闲谈体：佯装'sportsman'的漫画家叙述者（通说）。",
-    "中上阶级全景：Britannica——'wrote about middle- and upper-class life'。"
+    "'无英雄的小说'（B393：A Novel Without a Hero）。",
+    "'追逐虚荣者的愚蠢与自私'的讽刺（B393）。",
+    "'叙事技巧、细微的人物刻画、描写力'（B393）。"
   ],
-  "status": "Britannica 定位萨克雷为与狄更斯并列的维多利亚小说巨头（'A rival to Dickens'），以讽刺'势利与社会虚伪'著称。其《名利场》' Vanity Fair'语出《天路历程》——把社会比作'名利市场'。",
-  "sources": ["B121"],
-  "dates_source": "B121",
+  "status": "Britannica 定位萨克雷为《名利场》作者、狄更斯的'对手'（B393）。",
+  "sources": [
+    "B393"
+  ],
+  "dates_source": "B393",
   "pending": [
-    "《名利场》副题'A Novel without a Hero'出处待核。",
-    "加里克俱乐部之争细节待核。",
-    "笔名（George Fitz-Boodle 等，Britannica：Early pen names included 'Mr. Michael Angelo Titmarsh, Fitz-Boodle...'）待核。"
+    "《名利场》通行译名待核。",
+    "Becky Sharp 全名（Rebecca——通说）待核。",
+    "与狄更斯'对手'说的出处核对（B393口径）。"
   ]
 }

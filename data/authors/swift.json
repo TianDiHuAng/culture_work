@@ -1,44 +1,68 @@
 {
   "id": "swift",
-  "name": "斯威夫特",
-  "foreign_name": "Jonathan Swift（乔纳森·斯威夫特，1667-11-30 — 1745-10-19）",
+  "name": "乔纳森·斯威夫特",
+  "foreign_name": "Jonathan Swift（乔纳森·斯威夫特，1667-11-30—1745-10-19）",
   "country": "爱尔兰",
-  "birth": "1667-11-30",
-  "death": "1745-10-19",
+  "birth": 1667,
+  "death": 1745,
   "birth_year": 1667,
   "death_year": 1745,
   "era": "近代",
-  "summary": "斯威夫特，都柏林人（父为英格兰裔，出生前去世），英裔爱尔兰作家、圣公会牧师，'英语史上最重要的散文讽刺作家之一'（Britannica：one of the foremost prose satirists in the history of English-language literature）。都柏林三一学院毕业，长期任穆尔庄园威廉·坦普尔爵士秘书；1713年起任圣帕特里克大教堂教长至死。托利党文宣主笔（《考察者》），晚年成为爱尔兰民族利益的代言人（《布商的信》《一个温和的建议》）。《格列佛游记》（1726）使其名垂世界文学。",
+  "summary": "斯威夫特，都柏林生，英裔爱尔兰作家——'the foremost prose satirist in the English language'（英语最伟大的散文讽刺家——B394）。A Tale of a Tub（一只桶的故事, 1704）——匿名散文讽刺（B394）；Gulliver's Travels（格列佛游记, 1726）——'a parody of a travel narrative' mocking English customs and politics（B394）；'A Modest Proposal'（一个温和的建议, 1729）——讽刺短论批判英格兰对爱尔兰的剥削——'suggests living conditions in Ireland could be improved by butchering the children of poor Irish citizens and selling them as food'（B394）。引文——'Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own.'（B394 Quick Facts）。",
   "timeline": [
-    {"year": "1667-11-30", "text": "生于都柏林（Britannica），父亲为律师（King's Inns 管事，Britannica），出生前去世。", "src": "B035"},
-    {"year": "1682—1686", "text": "都柏林三一学院学士（BA 1686，Britannica）；1692年获牛津文学硕士（Britannica：MA Oxford 1692）。", "src": "B035"},
-    {"year": "1689—1699", "text": "任穆尔庄园坦普尔爵士秘书（Britannica：secretary to Sir William Temple at Moor Park），其间结识'斯特拉'（Esther Johnson，Britannica）。", "src": "B035"},
-    {"year": "1695-01", "text": "受任圣公会牧师（Britannica：Ordained Anglican priest January 1695），短期任基尔鲁特教区牧师。", "src": "B035"},
-    {"year": "1704", "text": "《一只木桶的故事》（A Tale of a Tub，匿名）与《书的战争》出版（Britannica），讽刺宗教与学术狂妄。", "src": "B035"},
-    {"year": "1710—1714", "text": "加入托利党内阁，主编《考察者》周刊（1710—11，Britannica）；1711年《盟军的行为》（Britannica：The Conduct of the Allies）。", "src": "B035"},
-    {"year": "1713", "text": "任圣帕特里克大教堂教长（Dean of St. Patrick's Cathedral, 1713–45，Britannica）；1714年托利党垮台后回都柏林。", "src": "B035"},
-    {"year": "1724—1726", "text": "《布商的信》（1724，抗英货币特许）使其成为爱尔兰英雄（通说待核）；1726-10-28《格列佛游记》匿名出版（Britannica：Published anonymously October 28, 1726）。", "src": "B009"},
-    {"year": "1729", "text": "《一个温和的建议》（A Modest Proposal，Britannica）——'savage satire on England's exploitation of Ireland'（对英格兰剥削爱尔兰的野蛮讽刺，Britannica）。", "src": "B035"},
-    {"year": "1742—1745", "text": "晚年患病（梅尼埃尔综合征之说，通说待核），1745年10月19日卒于都柏林，葬于圣帕特里克教堂（Britannica），与'斯特拉'墓室相邻（通说待核）；遗产三分之一捐建圣帕特里克精神病院（通说待核）。", "src": "B035"}
+    {
+      "year": 1667,
+      "text": "11月30日生于都柏林（B394）。",
+      "src": "B394"
+    },
+    {
+      "year": 1704,
+      "text": "A Tale of a Tub——匿名出版（B394）。",
+      "src": "B394"
+    },
+    {
+      "year": 1726,
+      "text": "《格列佛游记》（B394）。",
+      "src": "B394"
+    },
+    {
+      "year": 1729,
+      "text": "'A Modest Proposal'——讽刺短论（B394）。",
+      "src": "B394"
+    },
+    {
+      "year": 1745,
+      "text": "10月19日卒于都柏林（B394）。",
+      "src": "B394"
+    }
   ],
   "major_works": [
-    {"work_id": "geliefo", "note": "1726；'斯威夫特最伟大的讽刺作品'（Britannica Gulliver 条目）"},
-    {"title": "一只木桶的故事（1704）", "note": "宗教讽刺（Britannica）"},
-    {"title": "一个温和的建议（1729）", "note": "散文讽刺的巅峰（Britannica）"}
+    {
+      "work_id": "geliefu",
+      "note": "1726（B394）"
+    },
+    {
+      "title": "一只桶的故事",
+      "note": "（B394：A Tale of a Tub (1704)——中译名待核）"
+    },
+    {
+      "title": "一个温和的建议",
+      "note": "（B394：A Modest Proposal (1729)——中译名待核）"
+    }
   ],
   "style": [
-    "'严肃口吻的讽刺'：以假面（ironic invented personas，Britannica）说话——疯人、先知、医生、船长，读者必须自己识破。",
-    "简练精确的散文：'新古典主义散文的典范'（通说）；《一个温和的建议》被称为英语讽刺的完美标本。",
-    "攻击人类自大：从科学（拉普他飞岛）到政治（小人国）到人性（慧骃国）——'exuberance of satiric wit'（Britannica）。",
-    "自我引用的经典语录：'讽刺是一面镜子，观者通常看到所有人的脸，唯独没有自己的'（Britannica 引 Swift 自语）。"
+    "'英语最伟大的散文讽刺家'（B394）。",
+    "'戏仿游记体'（B394：a parody of a travel narrative）。",
+    "'讽刺是一面镜子'（B394 Quick Facts 引文）。"
   ],
-  "status": "斯威夫特是英语讽刺文学的最高峰：Britannica 称其'英语语言文学史上最重要的散文讽刺作家之一'。他以爱尔兰教长之身终身为爱尔兰利益抗争，被都柏林市民视为英雄（通说待核）。《格列佛游记》因其想象力被当成儿童读物流传，而其原意是政治与人性批判——这一'误读史'本身是文学接受研究的经典案例。其坟墓铭文（'此处长眠着熊熊怒火的勇士……'，拉丁文自撰墓铭大意，待核）显示其以'愤怒的自由'自许的一生。",
-  "sources": ["B035", "B009"],
-  "dates_source": "B035",
+  "status": "Britannica 定位斯威夫特为英语最伟大的散文讽刺家（B394）。",
+  "sources": [
+    "B394"
+  ],
+  "dates_source": "B394",
   "pending": [
-    "梅尼埃尔综合征（晚年眩晕病）诊断的医学史争议待核。",
-    "'斯特拉'与斯威夫特的关系（秘密婚姻说）为传记学界长期争论，待核。",
-    "《布商的信》事件与爱尔兰'伍德半便士'币案的细节待核。",
-    "自撰墓志铭（ubi saeva indignatio...）原文逐字待核。"
+    "《格列佛游记》通行译名待核。",
+    "四卷（小人国/大人国/飞岛/慧骃国）细节核对（B394未载——通说）。",
+    "'Isaac Bickerstaff'笔名细节（B394已载）待核。"
   ]
 }
