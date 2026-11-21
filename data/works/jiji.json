@@ -1,0 +1,105 @@
+{
+  "id": "jiji",
+  "title": "吉吉",
+  "original_title": "Gigi",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "colette",
+  "author_name": "西多妮-加布里埃尔·科莱特",
+  "year_display": "1944年（Britannica B404：Gigi (1944)——改编舞台与电影——1958年音乐电影）",
+  "year_sort": 1944,
+  "background": [
+    "Britannica（B404）：Gigi——girl raised by two elderly sisters to become a courtesan（被两老姐妹养大成'交际花'的女孩）——改编舞台与电影——1958年音乐电影（Maurice Chevalier/Louis Jourdan/Leslie Caron）。",
+    "Britannica（B404）：科莱特——'the annalist of female existence'——'the pains and pleasures of love'。",
+    "题材（通说待核）：吉吉拒绝'职业'——'我要嫁给他'的颠倒。"
+  ],
+  "outline": [
+    "（通说待核——B404未载剧情）吉吉与加斯顿：'规矩'的反叛。",
+    "（通说待核）外婆阿莉西娅与姨们的'职业'训练。"
+  ],
+  "characters": [
+    {
+      "name": "吉吉",
+      "identity": "少女",
+      "note": "（B404 书名人物）"
+    },
+    {
+      "name": "加斯顿",
+      "identity": "富商",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'交际花'制度与拒绝（通说待核）。",
+    "'女性存在的编年史'（B404：the annalist of female existence）。",
+    "婚姻 vs '职业'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1958年音乐电影（B404）。",
+      "source": "B404"
+    },
+    {
+      "text": "Britannica：'an outstanding French writer of the first half of the 20th century'（B404）。",
+      "source": "B404"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'美好年代'巴黎背景（通说待核）。",
+      "'轻'语体的反抗。"
+    ],
+    "editions": [
+      "《吉吉》中译本（人民文学等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "科莱特晚期首选；与《谢利》对读。"
+  },
+  "pending": [
+    "吉吉/加斯顿人名核对（通说）。",
+    "1944年出版细节待核。",
+    "1958年音乐电影核对（B404已载主演）。"
+  ],
+  "sources": [
+    "B404"
+  ],
+  "year_source": "B404",
+  "author_source": "B404",
+  "related_works": [
+    "difannidezaocan",
+    "jueshi",
+    "minglichang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《吉吉》反叛结构图",
+    "cards": [
+      {
+        "title": "吉吉",
+        "text": "拒绝'职业'（通说）",
+        "color": "main"
+      },
+      {
+        "title": "两姨",
+        "text": "'职业'的教练（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "加斯顿",
+        "text": "富商的爱（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "婚姻",
+        "text": "颠倒的结局（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

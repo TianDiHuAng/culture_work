@@ -1,0 +1,63 @@
+{
+  "id": "apollinaire",
+  "name": "纪尧姆·阿波利奈尔",
+  "foreign_name": "Guillaume Apollinaire（纪尧姆·阿波利奈尔，1880-08-26—1918-11-09）",
+  "country": "法国",
+  "birth": 1880,
+  "death": 1918,
+  "birth_year": 1880,
+  "death_year": 1918,
+  "era": "近代",
+  "summary": "阿波利奈尔，罗马生（波兰移民之女与意大利军官之子——'he kept his origins secret'），法国诗人——1918年11月9日卒于巴黎，38岁——'Weakened by war wounds, he died of Spanish influenza'（战伤削弱后死于西班牙流感——B403）。Alcools（醇酒集, 1913）——'his poetic masterpiece, always without punctuation'（始终无标点——B403）；Calligrammes（图像诗, 1918）——诗即图像（版式排布）——'dominated by images of war'（B403）。剧《蒂雷西亚的乳房》——'believed to be the first use of the term' surrealist——'he can be considered a forebear of Surrealism'（超现实主义的先祖——B403）。'took part in all the avant-garde movements'、'helped to direct poetry into unexplored channels'（B403）。",
+  "timeline": [
+    {
+      "year": 1880,
+      "text": "8月26日生于罗马（B403）。",
+      "src": "B403"
+    },
+    {
+      "year": 1913,
+      "text": "Alcools（醇酒集）——'无标点'杰作（B403）。",
+      "src": "B403"
+    },
+    {
+      "year": 1917,
+      "text": "《蒂雷西亚的乳房》——首用 surrealiste 一词（B403）。",
+      "src": "B403"
+    },
+    {
+      "year": 1918,
+      "text": "Calligrammes（图像诗）；11月9日卒于巴黎（西班牙流感）（B403）。",
+      "src": "B403"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "chunjiuji",
+      "note": "1913（B403）"
+    },
+    {
+      "work_id": "tuxiangshi",
+      "note": "1918（B403：Calligrammes）"
+    },
+    {
+      "title": "被杀害的诗人",
+      "note": "（B403：Le Poète assassiné (1916)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'始终无标点'的诗歌（B403：always without punctuation）。",
+    "图像诗：诗即图像（B403：Calligrammes）。",
+    "'不同寻常的词语组合'求'惊讶'（B403：unusual verbal associations）。"
+  ],
+  "status": "Britannica 定位阿波利奈尔为超现实主义的先祖、先锋运动的全参与者（B403）。",
+  "sources": [
+    "B403"
+  ],
+  "dates_source": "B403",
+  "pending": [
+    "Alcools 通行译名（《醇酒集》/《烧酒集》）待核。",
+    "《米拉波桥》未见于 B403（不采其细节）。",
+    "'surrealiste'首用说核对（B381口径'believed to be the first use'）。"
+  ]
+}

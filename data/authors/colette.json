@@ -1,0 +1,68 @@
+{
+  "id": "colette",
+  "name": "西多妮-加布里埃尔·科莱特",
+  "foreign_name": "Sidonie-Gabrielle Colette（西多妮-加布里埃尔·科莱特，1873-01-28—1954-08-03）",
+  "country": "法国",
+  "birth": 1873,
+  "death": 1954,
+  "birth_year": 1873,
+  "death_year": 1954,
+  "era": "近代",
+  "summary": "科莱特，法国Saint-Sauveur-en-Puisaye生——'an outstanding French writer of the first half of the 20th century'（20世纪上半叶杰出的法国作家——B404）；'the pains and pleasures of love'——写'everything that germinates, blossoms, or flies'（一切'发芽、开花或飞翔'之物——B404）。Claudine 四部（1900-1903）以夫名 Willy 出版——'Locking her in a room..., Willy forced her to write'（B404）。Chéri（谢利, 1920）、Gigi（吉吉, 1944）——改编舞台与电影、1958年音乐电影（B404）。'the annalist of female existence'（女性存在的编年史家——B404）；1945年入龚古尔学院（B404）。",
+  "timeline": [
+    {
+      "year": 1873,
+      "text": "1月28日生于法国Saint-Sauveur-en-Puisaye（B404）。",
+      "src": "B404"
+    },
+    {
+      "year": 1900,
+      "text": "Claudine 系列（1900-03）以夫名 Willy 出版（B404）。",
+      "src": "B404"
+    },
+    {
+      "year": 1920,
+      "text": "Chéri（谢利）（B404）。",
+      "src": "B404"
+    },
+    {
+      "year": 1944,
+      "text": "Gigi（吉吉）（B404）。",
+      "src": "B404"
+    },
+    {
+      "year": 1954,
+      "text": "8月3日卒于巴黎（B404）。",
+      "src": "B404"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jiji",
+      "note": "1944（B404）"
+    },
+    {
+      "title": "谢利",
+      "note": "（B404：Chéri (1920)）"
+    },
+    {
+      "title": "青苗",
+      "note": "（B404：Le Blé en herbe (1923)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'女性存在的编年史家'（B404：the annalist of female existence）。",
+    "'爱的痛苦与欢愉'（B404：the pains and pleasures of love）。",
+    "'发芽、开花或飞翔'的一切（B404）。"
+  ],
+  "status": "Britannica 定位科莱特为20世纪上半叶杰出法国作家、龚古尔学院成员（B404）。",
+  "sources": [
+    "B404"
+  ],
+  "dates_source": "B404",
+  "pending": [
+    "Gigi 通行译名（《吉吉》）待核。",
+    "Claudine 四部归属（夫名 Willy——B404口径）细节待核。",
+    "1958年电影（米高梅说）待核。"
+  ]
+}

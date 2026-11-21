@@ -1,0 +1,100 @@
+{
+  "id": "chunjiuji",
+  "title": "醇酒集",
+  "original_title": "Alcools",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "apollinaire",
+  "author_name": "纪尧姆·阿波利奈尔",
+  "year_display": "1913年（Britannica B403：Alcools (1913)——'his poetic masterpiece, always without punctuation'）",
+  "year_sort": 1913,
+  "background": [
+    "Britannica（B403）：Alcools——'his poetic masterpiece, always without punctuation'（其诗歌杰作、始终无标点）——混亚历山大体/规则诗节/短无韵行。",
+    "Britannica（B403）：阿波利奈尔——'helped to direct poetry into unexplored channels'——'took part in all the avant-garde movements'。",
+    "Britannica（B403）：'Chanson du mal-aimé'——失恋英文女子所启（本集内名篇——B403 提及）。"
+  ],
+  "outline": [
+    "（通说待核——B403未载篇目）'米拉波桥'等篇（篇目通说待核——B403未载）。",
+    "（通说待核）'无标点'的抒情流。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "现代歌者",
+      "note": "（B403 语境）"
+    }
+  ],
+  "themes": [
+    "'始终无标点'（B403：always without punctuation）。",
+    "古典格律与现代短行的混编（B403：alexandrines...short unrhymed lines）。",
+    "'未探之诗路'（B403：unexplored channels）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his poetic masterpiece'（B403）。",
+      "source": "B403"
+    },
+    {
+      "text": "Britannica：'helped to direct poetry into unexplored channels'（B403）。",
+      "source": "B403"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "无标点的语流。",
+      "象征主义与立体派的交叉（B403 语境）。"
+    ],
+    "editions": [
+      "《醇酒集》中译名（《烧酒集》）待核。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "阿波利奈尔首选；后接《图像诗》。"
+  },
+  "pending": [
+    "篇目（《米拉波桥》——B403未载）核对（通说）。",
+    "1913年出版细节待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B403"
+  ],
+  "year_source": "B403",
+  "author_source": "B403",
+  "related_works": [
+    "diyuzhiji",
+    "leiyu",
+    "balideyouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《醇酒集》无标点结构图",
+    "cards": [
+      {
+        "title": "无标点",
+        "text": "'始终无标点'（B403）",
+        "color": "gold"
+      },
+      {
+        "title": "醇酒",
+        "text": "醉意的诗行（书名）",
+        "color": "main"
+      },
+      {
+        "title": "混编",
+        "text": "古典与短行（B403）",
+        "color": "family"
+      },
+      {
+        "title": "先锋",
+        "text": "运动的全参与者（B403）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
