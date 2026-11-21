@@ -5,15 +5,15 @@
   "region": "法国",
   "era": "现当代",
   "era_detail": "20世纪",
-  "genre": "十卷大河小说",
+  "genre": "大河小说（十卷）",
   "genre_group": "小说",
   "language": "法语",
   "author_id": "rolland",
   "author_name": "罗曼·罗兰",
-  "year_display": "1904—1912年十卷（Britannica：Jean-Christophe, 10 vol. (1904–12)——'a prime example of the roman fleuve'）",
+  "year_display": "1904—1912年十卷（作者页B276口径：Jean-Christophe 10卷 (1904–12)——'a prime example of the roman fleuve'）",
   "year_sort": 1908,
   "background": [
-    "Britannica（B276）：'Rolland's masterpiece, Jean-Christophe... is a prime example of the roman fleuve（novel cycle）in France'；10卷刊于 Les Cahiers de la Quinzaine（B276）。",
+    "Britannica（B276）：'Rolland's masterpiece, Jean-Christophe... is a prime example of the roman fleuve (novel cycle) in France'；10卷刊于 Les Cahiers de la Quinzaine（B276）。",
     "题材（通说待核）：德国血统的音乐家约翰·克利斯朵夫·克拉夫特的一生——以贝多芬为原型（B276：Vie de Beethoven 语境）。"
   ],
   "outline": [
