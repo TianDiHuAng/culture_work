@@ -1,0 +1,100 @@
+{
+  "id": "sunxingzhe",
+  "title": "孙行者：他的伪书",
+  "original_title": "Tripmaster Monkey: His Fake Book",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪80年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "kingston",
+  "author_name": "汤亭亭",
+  "year_display": "1989年（作者页注记：Britannica 列举）",
+  "year_sort": 1989,
+  "background": [
+    "作者页注记：孙行者：他的伪书——'（Britannica 列举）'。",
+    "Britannica：汤婷婷——华裔美国作家（《女勇士》《中国佬》作者——交叉）。",
+    "题材（通说待核）：惠特曼·阿新——1960年代旧金山的华裔'猴王'剧作家。"
+  ],
+  "outline": [
+    "（通说待核）阿新的独角戏：'猴王'的街头表演。",
+    "（通说待核）'伪书'：惠特曼的《草叶集》底本（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "惠特曼·阿新",
+      "identity": "华裔青年",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'猴王'的美国化（通说待核）。",
+    "'伪书'（fake book）的双关（书名语境）。",
+    "60年代反文化（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Tripmaster Monkey（作者页注记）。",
+      "source": "B164"
+    },
+    {
+      "text": "Britannica：《女勇士》为成名作（作者页交叉）。",
+      "source": "B164"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'惠特曼·阿新'名字的戏谑。",
+      "60年代旧金山。"
+    ],
+    "editions": [
+      "《孙行者：他的伪书》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "汤婷亭三部曲之三；与《中国佬》对读。"
+  },
+  "pending": [
+    "阿新人名核对（通说）。",
+    "1989年出版（Knopf说）待核。",
+    "'独角戏'结构待核。"
+  ],
+  "sources": [
+    "B164"
+  ],
+  "year_source": "B164",
+  "author_source": "B164",
+  "related_works": [
+    "zhongguolao",
+    "xiangtianhuhan",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《孙行者》猴王结构图",
+    "cards": [
+      {
+        "title": "阿新",
+        "text": "华裔的猴王（通说）",
+        "color": "main"
+      },
+      {
+        "title": "伪书",
+        "text": "戏仿的底本（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "旧金山",
+        "text": "60年代的街头（通说）",
+        "color": "family"
+      },
+      {
+        "title": "表演",
+        "text": "独白的舞台（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

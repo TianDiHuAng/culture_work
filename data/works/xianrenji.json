@@ -1,0 +1,105 @@
+{
+  "id": "xianrenji",
+  "title": "先人祭",
+  "original_title": "Dziady",
+  "region": "波兰",
+  "era": "近代",
+  "era_detail": "19世纪20-30年代",
+  "genre": "诗剧",
+  "genre_group": "戏剧",
+  "language": "波兰语",
+  "author_id": "mickiewicz",
+  "author_name": "亚当·密茨凯维奇",
+  "year_display": "作者页注记：Britannica 语境（Dziady——成稿年代通说待核——第二/四部1823、第三部1832说）",
+  "year_sort": 1823,
+  "background": [
+    "作者页注记：先人祭——'诗剧（Britannica 语境：Dziady——通说待核）'。",
+    "Britannica：密茨凯维奇——波兰民族诗人（作者页语境）。",
+    "题材（通说待核）：'先人祭'（亡灵节仪式）——古斯塔夫的 love 与'康拉德'的爱国。"
+  ],
+  "outline": [
+    "（通说待核）乡村的亡灵祭仪式与鬼魂的诉说。",
+    "（通说待核）第三部：维尔诺囚禁与'康拉德'的自比。"
+  ],
+  "characters": [
+    {
+      "name": "古斯塔夫/康拉德",
+      "identity": "转变的叙述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "魔鬼/神甫",
+      "identity": "仪式人物",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "民间仪式与民族叙事（通说待核）。",
+    "'爱'向'爱国'的转变（通说待核）。",
+    "沙俄统治下的波兰（B注记语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Dziady 列举（作者页注记）。",
+      "source": "B268"
+    },
+    {
+      "text": "Britannica：密茨凯维奇《塔杜施先生》为代表作（作者页交叉）。",
+      "source": "B268"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "四部结构（二/四/一/三）。",
+      "民间祭仪词汇。"
+    ],
+    "editions": [
+      "《先人祭》中译本（人民文学等——通说待核）。",
+      "波兰文原版（公有领域）。"
+    ],
+    "order": "密茨凯维奇诗剧首选；与《塔杜施先生》对读。"
+  },
+  "pending": [
+    "四部结构与年份核对（通说）。",
+    "1968年波兰演出风波待核。",
+    "'康拉德'细节待核。"
+  ],
+  "sources": [
+    "B268"
+  ],
+  "year_source": "B268",
+  "author_source": "B268",
+  "related_works": [
+    "tadushixiansheng",
+    "emo",
+    "jipusaiyaoqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《先人祭》亡灵结构图",
+    "cards": [
+      {
+        "title": "亡灵祭",
+        "text": "仪式的框架（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "古斯塔夫",
+        "text": "失恋的幽灵（通说）",
+        "color": "main"
+      },
+      {
+        "title": "康拉德",
+        "text": "爱国的高呼（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "维尔诺",
+        "text": "囚禁的教堂（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

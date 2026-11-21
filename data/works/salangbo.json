@@ -1,0 +1,105 @@
+{
+  "id": "salangbo",
+  "title": "萨朗波",
+  "original_title": "Salammbô",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪60年代初",
+  "genre": "历史小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "flaubert",
+  "author_name": "居斯塔夫·福楼拜",
+  "year_display": "1862年（作者页注记：Britannica 列举——萨朗波 (1862)）",
+  "year_sort": 1862,
+  "background": [
+    "作者页注记：萨朗波 (1862)、三故事 (1877)——'历史小说与短篇杰作（Britannica 列举）'。",
+    "Britannica：福楼拜——现代小说文体家（作者页交叉）。",
+    "题材（通说待核）：公元前3世纪迦太基雇佣兵起义——马托与萨朗波。"
+  ],
+  "outline": [
+    "（通说待核）雇佣兵起义：马托攻入迦太基。",
+    "（通说待核）萨朗波取回'神衣'与马托之死。"
+  ],
+  "characters": [
+    {
+      "name": "萨朗波",
+      "identity": "迦太基将军之女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "马托",
+      "identity": "利比亚雇佣兵",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'考古式'的历史小说（通说待核）。",
+    "东方主义的图像（通说待核）。",
+    "'神衣'的象征（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'历史小说'（作者页注记）。",
+      "source": "B041"
+    },
+    {
+      "text": "Britannica：福楼拜文体（作者页交叉）。",
+      "source": "B041"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "布匿战争史。",
+      "考古化的语言。"
+    ],
+    "editions": [
+      "《萨朗波》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "福楼拜历史篇；与《情感教育》对读。"
+  },
+  "pending": [
+    "萨朗波/马托人名核对（通说）。",
+    "1862年出版细节待核。",
+    "'神衣'细节待核。"
+  ],
+  "sources": [
+    "B041"
+  ],
+  "year_source": "B041",
+  "author_source": "B041",
+  "related_works": [
+    "qingganjiaoyu",
+    "baofali",
+    "mengya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《萨朗波》历史考古图",
+    "cards": [
+      {
+        "title": "迦太基",
+        "text": "起义的战场（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "萨朗波",
+        "text": "神衣的守护者（通说）",
+        "color": "main"
+      },
+      {
+        "title": "马托",
+        "text": "雇佣兵的爱（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "考古",
+        "text": "文体的雄心（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

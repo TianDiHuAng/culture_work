@@ -1,0 +1,100 @@
+{
+  "id": "aijing",
+  "title": "爱经",
+  "original_title": "Ars amatoria",
+  "region": "罗马",
+  "era": "古代",
+  "era_detail": "公元前1世纪末",
+  "genre": "教谕诗",
+  "genre_group": "诗歌",
+  "language": "拉丁语",
+  "author_id": "ovid",
+  "author_name": "奥维德",
+  "year_display": "约公元前2年（作者页注记：Britannica——爱经（Ars amatoria）——流放原因之一——年份通说待核）",
+  "year_sort": -2,
+  "background": [
+    "作者页注记：爱经——'（Britannica：流放原因之一）'。",
+    "Britannica：奥维德——《变形记》作者（作者页交叉）。",
+    "题材（通说待核）：求爱与保持爱——罗马宴会的'调情手册'。"
+  ],
+  "outline": [
+    "（通说待核）三卷：如何找到、赢得与保持爱人。",
+    "（通说待核）'库迈的门'与流放的阴影（交叉）。"
+  ],
+  "characters": [
+    {
+      "name": "教师之'我'",
+      "identity": "求爱导师",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'爱的技艺'（B注记：Ars amatoria）。",
+    "流放的'原因之一'（B注记）。",
+    "奥古斯都道德立法的冲突（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'流放原因之一'（作者页注记）。",
+      "source": "B237"
+    },
+    {
+      "text": "Britannica：《变形记》为代表作（作者页交叉）。",
+      "source": "B237"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "教谕诗的戏谑。",
+      "奥古斯都时代的道德法。"
+    ],
+    "editions": [
+      "《爱经》中译本（人民文学等——通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "奥维德侧面；与《变形记》对读。"
+  },
+  "pending": [
+    "三卷结构核对（通说）。",
+    "约前2年出版待核。",
+    "流放（公元8年）与本作关系待核。"
+  ],
+  "sources": [
+    "B237"
+  ],
+  "year_source": "B237",
+  "author_source": "B237",
+  "related_works": [
+    "shiyi",
+    "aigeji",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《爱经》教谕结构图",
+    "cards": [
+      {
+        "title": "爱",
+        "text": "技艺的教导（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "罗马",
+        "text": "宴会的沙龙（通说）",
+        "color": "main"
+      },
+      {
+        "title": "流放",
+        "text": "'原因之一'（B注记）",
+        "color": "antagonist"
+      },
+      {
+        "title": "教谕",
+        "text": "戏谑的诗体（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

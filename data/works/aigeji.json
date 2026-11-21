@@ -1,0 +1,100 @@
+{
+  "id": "aigeji",
+  "title": "哀歌集",
+  "original_title": "Tristia",
+  "region": "罗马",
+  "era": "古代",
+  "era_detail": "公元1世纪初",
+  "genre": "哀歌集",
+  "genre_group": "诗歌",
+  "language": "拉丁语",
+  "author_id": "ovid",
+  "author_name": "奥维德",
+  "year_display": "公元8年后（作者页注记：Britannica——哀歌集（Tristia）、黑海书简——流放期作品——年份通说待核）",
+  "year_sort": 8,
+  "background": [
+    "作者页注记：哀歌集（Tristia）、黑海书简——'流放期作品（Britannica）'。",
+    "Britannica：奥维德——公元8年被流放（作者页交叉——待核）。",
+    "题材（通说待核）：黑海托米斯的流亡诗——致奥古斯都、妻子与友人的书简。"
+  ],
+  "outline": [
+    "（通说待核）五卷哀歌：流亡的冬天与'棺材'自比。",
+    "（通说待核）'黑海书简'（Epistulae ex Ponto）的续写。"
+  ],
+  "characters": [
+    {
+      "name": "流亡者'我'",
+      "identity": "被放逐的诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "流亡与'消逝的声名'（通说待核）。",
+    "'哀歌'体的晚年（B注记）。",
+    "对奥古斯都的求赦（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：流放期作品（作者页注记）。",
+      "source": "B237"
+    },
+    {
+      "text": "Britannica：《变形记》为代表作（作者页交叉）。",
+      "source": "B237"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哀歌格律。",
+      "'卡门'（carmen et error）之谜（通说待核）。"
+    ],
+    "editions": [
+      "《哀歌集》中译名（《悲歌》）待核。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "奥维德晚年；与《爱经》对照。"
+  },
+  "pending": [
+    "五卷结构核对（通说）。",
+    "'carmen et error'之谜待核。",
+    "公元8年流放细节待核。"
+  ],
+  "sources": [
+    "B237"
+  ],
+  "year_source": "B237",
+  "author_source": "B237",
+  "related_works": [
+    "aijing",
+    "shiyi",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《哀歌集》流亡结构图",
+    "cards": [
+      {
+        "title": "黑海",
+        "text": "流亡的冬天（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "哀歌",
+        "text": "书简的诗体（书名）",
+        "color": "main"
+      },
+      {
+        "title": "求赦",
+        "text": "致皇帝的信（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "声名",
+        "text": "罗马的回望（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

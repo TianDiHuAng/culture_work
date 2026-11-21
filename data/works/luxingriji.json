@@ -1,0 +1,100 @@
+{
+  "id": "luxingriji",
+  "title": "旅行日记",
+  "original_title": "Journal de voyage en Italie",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "16世纪（身后1774出版）",
+  "genre": "日记",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "montaigne",
+  "author_name": "蒙田",
+  "year_display": "1774年出版（Britannica B296：Journal de voyage published 1774——写于1580-81说待核）",
+  "year_sort": 1774,
+  "background": [
+    "Britannica（B296）：旅行日记——'Journal de voyage published 1774'（1774年出版）。",
+    "Britannica（B296）：蒙田——《随笔集》作者（作者页交叉）。",
+    "题材（通说待核）：1580-81年意大利之行——从巴黎经瑞士到罗马的日记（由秘书记录+亲笔后半）。"
+  ],
+  "outline": [
+    "（通说待核）瑞士与意大利的观察：温泉、客栈与罗马。",
+    "（通说待核）'罗马公民'荣誉与《随笔》的增订。"
+  ],
+  "characters": [
+    {
+      "name": "蒙田",
+      "identity": "旅行者",
+      "note": "（B296 语境）"
+    }
+  ],
+  "themes": [
+    "'观察自己'的旅行（通说待核）。",
+    "身后1774年的出版（B296）。",
+    "《随笔》第三卷的母体（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Journal de voyage published 1774（B296）。",
+      "source": "B296"
+    },
+    {
+      "text": "Britannica：《随笔集》为代表作（B296 交叉）。",
+      "source": "B296"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记的两手笔（秘书/亲笔——通说待核）。",
+      "16世纪意大利地理。"
+    ],
+    "editions": [
+      "《蒙田意大利之旅》中译名（《旅行日记》）待核。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "蒙田侧写；与《随笔集》对读。"
+  },
+  "pending": [
+    "写作年份（1580-81说）与出版年（1774——B296）双口径核对。",
+    "'罗马公民'细节待核。",
+    "秘书记录比例待核。"
+  ],
+  "sources": [
+    "B296"
+  ],
+  "year_source": "B296",
+  "author_source": "B296",
+  "related_works": [
+    "leiyu",
+    "renshijian",
+    "luomashi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《旅行日记》观察结构图",
+    "cards": [
+      {
+        "title": "旅行",
+        "text": "意大利的道路（通说）",
+        "color": "main"
+      },
+      {
+        "title": "日记",
+        "text": "观察的方法（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "身后",
+        "text": "1774的出版（B296）",
+        "color": "antagonist"
+      },
+      {
+        "title": "随笔",
+        "text": "第三卷的母体（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

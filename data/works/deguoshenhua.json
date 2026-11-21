@@ -1,0 +1,100 @@
+{
+  "id": "deguoshenhua",
+  "title": "德国神话",
+  "original_title": "Deutsche Mythologie",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪30年代",
+  "genre": "神话研究",
+  "genre_group": "散文",
+  "language": "德语",
+  "author_id": "grimm",
+  "author_name": "雅各布·格林",
+  "year_display": "1835年（作者页注记：Britannica——德国神话 (1835)）",
+  "year_sort": 1835,
+  "background": [
+    "作者页注记：德国神话——'（Britannica：1835）'。",
+    "Britannica：格林——童话与语言学的双峰（作者页语境——待核）。",
+    "题材（通说待核）：日耳曼诸神的'堕落史'——从神话到民间信仰与童话。"
+  ],
+  "outline": [
+    "（通说待核）诸神（沃坦等）的残留：习俗、传说与迷信。",
+    "（通说待核）'神话→传说→童话'的降解序列。"
+  ],
+  "characters": [
+    {
+      "name": "（研究著作无人物）",
+      "identity": "——",
+      "note": "神话研究"
+    }
+  ],
+  "themes": [
+    "日耳曼神话的重建（B注记：1835）。",
+    "'神话-传说-童话'的降解（通说待核）。",
+    "语言学的证据法（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Deutsche Mythologie (1835)（作者页注记）。",
+      "source": "B263"
+    },
+    {
+      "text": "Britannica：格林兄弟《儿童与家庭童话集》为代表作（作者页交叉）。",
+      "source": "B263"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "19世纪语言学方法。",
+      "北欧/德意志神话的对应。"
+    ],
+    "editions": [
+      "《德国神话》中译名（《德意志神话学》）待核。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "格林学术侧面；与《童话集》对读。"
+  },
+  "pending": [
+    "1835年出版细节待核。",
+    "'沃坦'章细节待核。",
+    "与《童话集》的方法关联待核。"
+  ],
+  "sources": [
+    "B263"
+  ],
+  "year_source": "B263",
+  "author_source": "B263",
+  "related_works": [
+    "haidenvren",
+    "chouxiaoya",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《德国神话》降解结构图",
+    "cards": [
+      {
+        "title": "神话",
+        "text": "诸神的时代（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "传说",
+        "text": "民间的残留（通说）",
+        "color": "main"
+      },
+      {
+        "title": "童话",
+        "text": "最后的形态（通说）",
+        "color": "family"
+      },
+      {
+        "title": "语言学",
+        "text": "证据的方法（作者页语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

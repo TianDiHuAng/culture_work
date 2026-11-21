@@ -1,0 +1,105 @@
+{
+  "id": "tilang",
+  "title": "提堂",
+  "original_title": "Bring Up the Bodies",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mantel",
+  "author_name": "希拉里·曼特尔",
+  "year_display": "2012年（作者页注记：Britannica——提堂 (2012)——三部曲之一）",
+  "year_sort": 2012,
+  "background": [
+    "作者页注记：提堂 (2012)、镜与光 (2020)——'三部曲（Britannica）'。",
+    "Britannica：曼特尔——都铎历史小说（作者页交叉——克伦威尔三部曲）。",
+    "题材（通说待核）：克伦威尔与安妮·博林的倒台——第二部。"
+  ],
+  "outline": [
+    "（通说待核）安妮·博林的审判：克伦威尔的织网。",
+    "（通说待核）'提堂'（Bring up the Bodies）：召唤嫌疑人。"
+  ],
+  "characters": [
+    {
+      "name": "托马斯·克伦威尔",
+      "identity": "首席国务大臣",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "安妮·博林",
+      "identity": "王后",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "权力机器的运转（通说待核）。",
+    "'克伦威尔三部曲'之二（B注记）。",
+    "历史小说的当代声誉（布克奖说——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：三部曲（作者页注记）。",
+      "source": "B131"
+    },
+    {
+      "text": "Britannica：《狼厅》2009布克奖说（作者页交叉——待核）。",
+      "source": "B131"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "都铎宫廷史。",
+      "'现在时'叙述（通说待核）。"
+    ],
+    "editions": [
+      "《提堂》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "三部曲第二部；先读《狼厅》。"
+  },
+  "pending": [
+    "2012布克奖说待核。",
+    "克伦威尔/安妮人名核对（通说）。",
+    "'三部曲'卷次核对。"
+  ],
+  "sources": [
+    "B131"
+  ],
+  "year_source": "B131",
+  "author_source": "B131",
+  "related_works": [
+    "sangeshouqiangshou",
+    "fuluosihemofang",
+    "kasiteqiaoshizhang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《提堂》权力织网图",
+    "cards": [
+      {
+        "title": "克伦威尔",
+        "text": "织网的大臣（通说）",
+        "color": "main"
+      },
+      {
+        "title": "安妮",
+        "text": "倒台的王后（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "都铎",
+        "text": "宫廷的舞台（通说）",
+        "color": "family"
+      },
+      {
+        "title": "三部曲",
+        "text": "B注记的位置",
+        "color": "gold"
+      }
+    ]
+  }
+}
