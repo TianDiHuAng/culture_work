@@ -1,0 +1,105 @@
+{
+  "id": "yueliangyuhuoyan",
+  "title": "月亮与篝火",
+  "original_title": "La luna e i falò",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪50年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "pavese",
+  "author_name": "切萨雷·帕韦泽",
+  "year_display": "1950年（Britannica B374：La luna e i falò (1950)——'the novel considered his best'）",
+  "year_sort": 1950,
+  "background": [
+    "Britannica（B374）：'a bleak, yet compassionate story of a hero who tries to find himself by visiting the place in which he grew up'——主角重返生长之地寻找自己。",
+    "Britannica（B374）：'the novel considered his best'（被认为其最佳）。",
+    "Britannica（B374）：帕韦泽——1943-45与游击队同驻皮埃蒙特——本作的'返乡'背景。"
+  ],
+  "outline": [
+    "（通说待核）'鳗鱼'回到山谷：寻找'自己生长的地方'（B374：visiting the place in which he grew up）。",
+    "（通说待核）法西斯岁月的毁灭与乡愁的幻灭。"
+  ],
+  "characters": [
+    {
+      "name": "'鳗鱼'",
+      "identity": "归乡者",
+      "note": "（通说待核，B374未载人名）"
+    },
+    {
+      "name": "尼托",
+      "identity": "旧友",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'还乡'的幻灭（B374：bleak, yet compassionate）。",
+    "战争对乡村的摧毁（通说待核）。",
+    "'山谷'的神话化（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the novel considered his best'（B374）。",
+      "source": "B374"
+    },
+    {
+      "text": "Britannica：帕韦泽的游击队经历（B374 交叉）。",
+      "source": "B374"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'鳗鱼'的绰号叙事。",
+      "朗格山谷的地理（通说待核）。"
+    ],
+    "editions": [
+      "《月亮与篝火》中译本（人民文学等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "帕韦泽首选；与《生活的职业》对读。"
+  },
+  "pending": [
+    "'鳗鱼'/尼托人名核对（通说）。",
+    "1950年出版（Einaudi说）待核。",
+    "'山谷'地名细节待核。"
+  ],
+  "sources": [
+    "B374"
+  ],
+  "year_source": "B374",
+  "author_source": "B374",
+  "related_works": [
+    "bao",
+    "lengmoederen",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《月亮与篝火》还乡结构图",
+    "cards": [
+      {
+        "title": "还乡",
+        "text": "'寻找自己'（B374）",
+        "color": "main"
+      },
+      {
+        "title": "山谷",
+        "text": "生长的地方（B374）",
+        "color": "gold"
+      },
+      {
+        "title": "战争",
+        "text": "毁灭的岁月（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "篝火",
+        "text": "焚烧的乡愁（书名意象）",
+        "color": "family"
+      }
+    ]
+  }
+}

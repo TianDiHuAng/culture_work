@@ -1,0 +1,67 @@
+{
+  "id": "pavese",
+  "name": "切萨雷·帕韦泽",
+  "foreign_name": "Cesare Pavese（切萨雷·帕韦泽，1908-09-09—1950-08-27）",
+  "country": "意大利",
+  "birth": 1908,
+  "death": 1950,
+  "birth_year": 1908,
+  "death_year": 1950,
+  "era": "近代",
+  "summary": "帕韦泽，意大利Santo Stefano Belbo生，小说家、诗人、翻译家——Einaudi出版社创始人之一与终身编辑（B374）。La luna e i falò（月亮与篝火, 1950）——'a bleak, yet compassionate story of a hero who tries to find himself by visiting the place in which he grew up'——'the novel considered his best'（B374）。1935年因反法西斯入狱；1943-45年与游击队同驻皮埃蒙特（B374）；译斯坦贝克、海明威、福克纳、梅尔维尔（含《白鲸》）（B374）。获斯特雷加奖后不久——1950年8月27日在旅馆房间自杀（B374）。",
+  "timeline": [
+    {
+      "year": 1908,
+      "text": "9月9日生于Santo Stefano Belbo（B374）。",
+      "src": "B374"
+    },
+    {
+      "year": 1935,
+      "text": "因反法西斯活动入狱（B374）。",
+      "src": "B374"
+    },
+    {
+      "year": 1943,
+      "text": "与游击队同驻皮埃蒙特（1943-45）（B374）。",
+      "src": "B374"
+    },
+    {
+      "year": 1950,
+      "text": "《月亮与篝火》出版；获斯特雷加奖后不久自杀（B374）。",
+      "src": "B374"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shenghuodezhiye",
+      "note": "（B374 本作）"
+    },
+    {
+      "work_id": "yueliangyuhuoyan",
+      "note": "1950（B374）"
+    },
+    {
+      "title": "生活的职业",
+      "note": "（B374：Il mestiere di vivere (1952)——日记 1935-50）"
+    },
+    {
+      "title": "艰难之活",
+      "note": "（B374：Lavorare stanca (1936)——首部诗集——中译名待核）"
+    }
+  ],
+  "style": [
+    "'苍凉而悲悯'的乡愁叙事（B374：bleak, yet compassionate）。",
+    "新现实主义与神话的对位（通说待核）。",
+    "翻译家的美语化文体（B374：翻译史清单）。"
+  ],
+  "status": "Britannica 定位帕韦泽为 Einaudi 奠基编辑、《月亮与篝火》为其最佳（B374）。",
+  "sources": [
+    "B374"
+  ],
+  "dates_source": "B374",
+  "pending": [
+    "'斯特雷加奖'（La bella estate 1949——B374）细节待核。",
+    "自杀细节（旅馆房间——B374）口径待核。",
+    "《月亮与篝火》通行译名待核。"
+  ]
+}

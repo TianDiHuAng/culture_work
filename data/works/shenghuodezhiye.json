@@ -1,0 +1,100 @@
+{
+  "id": "shenghuodezhiye",
+  "title": "生活的职业",
+  "original_title": "Il mestiere di vivere",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪30-50年代",
+  "genre": "日记",
+  "genre_group": "散文",
+  "language": "意大利语",
+  "author_id": "pavese",
+  "author_name": "切萨雷·帕韦泽",
+  "year_display": "1952年（Britannica B374：Il mestiere di vivere, diario 1935-1950 (1952)——日记）",
+  "year_sort": 1952,
+  "background": [
+    "Britannica（B374）：Il mestiere di vivere, diario 1935-1950 (1952)——1935-1950年的日记。",
+    "Britannica（B374）：帕韦泽——1950年自杀——日记为其内心档案。",
+    "题材（通说待核）：'生活的职业'——写作、政治与绝望的日课。"
+  ],
+  "outline": [
+    "（通说待核）十五年的日记：从狱中到自杀前夜。",
+    "（通说待核）'著名的句子'（不采为引文——细节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "帕韦泽",
+      "identity": "日记者",
+      "note": "（B374 语境）"
+    }
+  ],
+  "themes": [
+    "'生活的职业'（书名语境——通说待核）。",
+    "写作与政治的自省（B374 语境）。",
+    "绝望的日课（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Il mestiere di vivere (1952)（B374）。",
+      "source": "B374"
+    },
+    {
+      "text": "Britannica：1950年自杀（B374 交叉）。",
+      "source": "B374"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记的碎片性。",
+      "'句子'与生活的互文。"
+    ],
+    "editions": [
+      "《生活的职业》中译本（人民文学等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "帕韦泽内心档案；与《月亮与篝火》对读。"
+  },
+  "pending": [
+    "日记起讫（1935-1950——B374）核对。",
+    "1952年出版（Einaudi说）待核。",
+    "'著名句子'细节待核（不采为引文）。"
+  ],
+  "sources": [
+    "B374"
+  ],
+  "year_source": "B374",
+  "author_source": "B374",
+  "related_works": [
+    "yueliangyuhuoyan",
+    "zenodeyishi",
+    "lu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《生活的职业》日记结构图",
+    "cards": [
+      {
+        "title": "日记",
+        "text": "十五年的日课（B374）",
+        "color": "main"
+      },
+      {
+        "title": "职业",
+        "text": "'生活'的技艺（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "绝望",
+        "text": "自杀前夜（B374交叉）",
+        "color": "antagonist"
+      },
+      {
+        "title": "写作",
+        "text": "内心的档案（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
