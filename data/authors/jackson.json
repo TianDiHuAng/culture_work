@@ -1,0 +1,72 @@
+{
+  "id": "jackson",
+  "name": "杰克·伦敦",
+  "foreign_name": "Jack London（杰克·伦敦，原名 John Griffith Chaney，1876-01-12—1916-11-22）",
+  "country": "美国",
+  "birth": 1876,
+  "death": 1916,
+  "birth_year": 1876,
+  "death_year": 1916,
+  "era": "近代",
+  "summary": "伦敦，旧金山生（原名 John Griffith Chaney），美国作家——The Call of the Wild（野性的呼唤, 1903）——'often considered to be Jack London's masterpiece'（常被认为其杰作——B407）——最广为阅读。Martin Eden（马丁·伊登, 1909）——自传小说（B407）。The Iron Heel（铁蹄, 1908）——'a fantasy of the future that is a terrifying anticipation of fascism'（对法西斯主义的可怖预言——B407）。'To Build a Fire' (1908)——'masterly depiction of humankind's inability to overcome nature'（B407）。1894年'became a militant socialist'——'maintained his socialist beliefs almost to the end of his life'（B407）。17年写约50本书——'the highest-paid writer in the United States at that time'（B407）。",
+  "timeline": [
+    {
+      "year": 1876,
+      "text": "1月12日生于旧金山（B407）。",
+      "src": "B407"
+    },
+    {
+      "year": 1897,
+      "text": "赴克朗代克淘金——空手而归改行写作（B407：left UC Berkeley after one year to seek a fortune in the Klondike gold rush）。",
+      "src": "B407"
+    },
+    {
+      "year": 1903,
+      "text": "《野性的呼唤》——常被认为其杰作（B407）。",
+      "src": "B407"
+    },
+    {
+      "year": 1909,
+      "text": "《马丁·伊登》——自传小说（B407）。",
+      "src": "B407"
+    },
+    {
+      "year": 1916,
+      "text": "11月22日卒于加州Glen Ellen（B407）。",
+      "src": "B407"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "dizudelang",
+      "note": "（B40x 本作）"
+    },
+    {
+      "work_id": "yexingdehuhuan",
+      "note": "1903（B407）"
+    },
+    {
+      "work_id": "madingyideng",
+      "note": "1909（B407）"
+    },
+    {
+      "title": "铁蹄",
+      "note": "（B407：The Iron Heel (1908)）"
+    }
+  ],
+  "style": [
+    "克朗代克淘金的北方书写（B407：Klondike gold rush）。",
+    "'是法西斯主义可怖预言'的未来幻想（B407：The Iron Heel）。",
+    "'人类无法战胜自然'的描写（B407：To Build a Fire）。"
+  ],
+  "status": "Britannica 定位伦敦为《野性的呼唤》作者、当时美国稿酬最高的作家（B407）。",
+  "sources": [
+    "B407"
+  ],
+  "dates_source": "B407",
+  "pending": [
+    "《野性的呼唤》通行译名待核。",
+    "'最高稿酬'口径核对（B407：highest-paid writer at that time）。",
+    "社会主义活动细节（B407）待核。"
+  ]
+}

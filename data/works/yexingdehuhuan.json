@@ -1,0 +1,105 @@
+{
+  "id": "yexingdehuhuan",
+  "title": "野性的呼唤",
+  "original_title": "The Call of the Wild",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "jackson",
+  "author_name": "杰克·伦敦",
+  "year_display": "1903年（Britannica B407：The Call of the Wild (1903)——'often considered to be Jack London's masterpiece'）",
+  "year_sort": 1903,
+  "background": [
+    "Britannica（B407）：Buck——圣伯纳/苏格兰牧羊犬混血雪橇犬之旅——'often considered to be Jack London's masterpiece'——最广为阅读。",
+    "Britannica（B407）：伦敦——克朗代克淘金（'to seek a fortune in the Klondike gold rush'）——空手而归改行写作。",
+    "Britannica（B407）：伦敦——1894年'became a militant socialist'。"
+  ],
+  "outline": [
+    "（通说待核——B407未载剧情）巴克被偷卖至北方：雪橇犬的'野性呼唤'。",
+    "（通说待核）桑顿的爱与荒野的最终回归。"
+  ],
+  "characters": [
+    {
+      "name": "巴克（Buck）",
+      "identity": "混血雪橇犬",
+      "note": "（B407：a St. Bernard/Scotch collie mix）"
+    },
+    {
+      "name": "约翰·桑顿",
+      "identity": "最后的主人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'野性的呼唤'：文明的褪去（书名语境——通说待核）。",
+    "克朗代克的北方（B407：Klondike gold rush）。",
+    "自然主义与'适者生存'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'often considered to be Jack London's masterpiece'（B407）。",
+      "source": "B407"
+    },
+    {
+      "text": "Britannica：'most widely read work'（B407）。",
+      "source": "B407"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "动物视点的叙述。",
+      "淘金热的北方环境。"
+    ],
+    "editions": [
+      "《野性的呼唤》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "伦敦首选；与《白牙》《马丁·伊登》对读。"
+  },
+  "pending": [
+    "巴克血统核对（B407已载混血）。",
+    "1903年出版（Macmillan说）待核。",
+    "'野性'回归结尾细节待核。"
+  ],
+  "sources": [
+    "B407"
+  ],
+  "year_source": "B407",
+  "author_source": "B407",
+  "related_works": [
+    "maodeyaolan",
+    "dulidemen",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《野性的呼唤》野性回归图",
+    "cards": [
+      {
+        "title": "巴克",
+        "text": "雪橇犬的旅程（B407）",
+        "color": "main"
+      },
+      {
+        "title": "野性",
+        "text": "'呼唤'的归宿（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "克朗代克",
+        "text": "淘金的北方（B407）",
+        "color": "antagonist"
+      },
+      {
+        "title": "爱",
+        "text": "最后的文明（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

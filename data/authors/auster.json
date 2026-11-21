@@ -1,0 +1,68 @@
+{
+  "id": "auster",
+  "name": "保罗·奥斯特",
+  "foreign_name": "Paul Auster（保罗·奥斯特，1947-02-03—2024-04-30）",
+  "country": "美国",
+  "birth": 1947,
+  "death": 2024,
+  "birth_year": 1947,
+  "death_year": 2024,
+  "era": "现当代",
+  "summary": "奥斯特，新泽西Newark生，美国作家——2024年4月30日卒于布鲁克林（77岁）（B408）。'gained renown for a series of experimental detective stories published collectively as The New York Trilogy (1987)'（实验侦探小说系列《纽约三部曲》——B408）：City of Glass (1985)——犯罪小说家被卷入谜案承担多重身份；Ghosts (1986)——私家侦探 Blue 受雇于 White 调查 Black；The Locked Room (1986)——作家研究失踪作者渐取其身份（B408）。'often concerned with the search for identity and personal meaning'（常关注身份与个人意义的追寻——B408）。The Invention of Solitude (1982)——'both a memoir about the death of his father and a meditation on the act of writing'（B408）。4 3 2 1 (2017)——主角 Archie Ferguson 'experiences four alternate lives'（B408）。",
+  "timeline": [
+    {
+      "year": 1947,
+      "text": "2月3日生于新泽西Newark（B408）。",
+      "src": "B408"
+    },
+    {
+      "year": 1982,
+      "text": "The Invention of Solitude——父亡回忆+写作冥想（B408）。",
+      "src": "B408"
+    },
+    {
+      "year": 1987,
+      "text": "《纽约三部曲》合集出版（B408）。",
+      "src": "B408"
+    },
+    {
+      "year": 2017,
+      "text": "4 3 2 1——七年首部长篇（B408）。",
+      "src": "B408"
+    },
+    {
+      "year": 2024,
+      "text": "4月30日卒于布鲁克林（B408）。",
+      "src": "B408"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "niuyuesanbuqu",
+      "note": "1987（B408）"
+    },
+    {
+      "title": "孤独及其所创造的",
+      "note": "（B408：The Invention of Solitude (1982)——中译名待核）"
+    },
+    {
+      "title": "4 3 2 1",
+      "note": "（B408：2017——四种平行人生）"
+    }
+  ],
+  "style": [
+    "'实验侦探小说'（B408：experimental detective stories）。",
+    "'身份与个人意义的追寻'（B408：search for identity and personal meaning）。",
+    "玻璃城的'多重身份'（B408：City of Glass 语境）。"
+  ],
+  "status": "Britannica 定位奥斯特为《纽约三部曲》作者、2024年卒（B408）。",
+  "sources": [
+    "B408"
+  ],
+  "dates_source": "B408",
+  "pending": [
+    "《纽约三部曲》通行译名待核。",
+    "'烟'（Smoke 1995——B408）剧本细节待核。",
+    "与妻子 Siri Hustvedt 合著说待核（B408未载——不采）。"
+  ]
+}

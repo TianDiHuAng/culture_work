@@ -1,0 +1,106 @@
+{
+  "id": "niuyuesanbuqu",
+  "title": "纽约三部曲",
+  "original_title": "The New York Trilogy",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪80年代",
+  "genre": "实验小说（三部曲）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "auster",
+  "author_name": "保罗·奥斯特",
+  "year_display": "1987年（Britannica B408：The New York Trilogy (1987)——'experimental detective stories'）",
+  "year_sort": 1987,
+  "background": [
+    "Britannica（B408）：'gained renown for a series of experimental detective stories published collectively as The New York Trilogy (1987)'。",
+    "Britannica（B408）：City of Glass (1985)——犯罪小说家被卷入谜案承担多重身份；Ghosts (1986)——Blue 受雇于 White 调查 Black；The Locked Room (1986)——作家研究失踪作者渐取其身份。",
+    "Britannica（B408）：'often concerned with the search for identity and personal meaning'。"
+  ],
+  "outline": [
+    "《玻璃城》：作家奎因'成为'侦探（B408：takes on multiple identities）。",
+    "《幽灵》：Blue 调查 Black 的自我镜像（B383 式——B408）。",
+    "《锁闭的房间》：研究者'成为'失踪者（B408）。"
+  ],
+  "characters": [
+    {
+      "name": "奎因",
+      "identity": "玻璃城的作家",
+      "note": "（B408：City of Glass——通说待核）"
+    },
+    {
+      "name": "Blue/Black/White",
+      "identity": "幽灵的名字",
+      "note": "（B408：Ghosts——B408已载）"
+    }
+  ],
+  "themes": [
+    "'身份与个人意义的追寻'（B408：search for identity and personal meaning）。",
+    "'实验侦探小说'（B408）。",
+    "'多重身份'的承担（B408：City of Glass）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'gained renown for...'（B408）。",
+      "source": "B408"
+    },
+    {
+      "text": "Britannica：'The Invention of Solitude'（B408 交叉）。",
+      "source": "B408"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "侦探类型的解构。",
+      "'身份'的哲学追问。"
+    ],
+    "editions": [
+      "《纽约三部曲》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "奥斯特首选；后接《孤独及其所创造的》。"
+  },
+  "pending": [
+    "奎因/Blue/Black人名核对（B408已载 Ghosts 三名）。",
+    "三部合集1987年（Sun & Moon说）待核。",
+    "'玻璃城'细节待核。"
+  ],
+  "sources": [
+    "B408"
+  ],
+  "year_source": "B408",
+  "author_source": "B408",
+  "related_works": [
+    "wuhhaotuchang",
+    "moluoyi",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《纽约三部曲》身份追寻图",
+    "cards": [
+      {
+        "title": "玻璃城",
+        "text": "多重身份（B408）",
+        "color": "main"
+      },
+      {
+        "title": "幽灵",
+        "text": "Blue 与 Black（B408）",
+        "color": "gold"
+      },
+      {
+        "title": "锁闭的房间",
+        "text": "成为失踪者（B408）",
+        "color": "family"
+      },
+      {
+        "title": "追寻",
+        "text": "'身份与意义'（B408）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "dizudelang",
+  "title": "铁蹄",
+  "original_title": "The Iron Heel",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "jackson",
+  "author_name": "杰克·伦敦",
+  "year_display": "1908年（Britannica B407：The Iron Heel (1908)——'a fantasy of the future that is a terrifying anticipation of fascism'）",
+  "year_sort": 1908,
+  "background": [
+    "Britannica（B407）：The Iron Heel——'a fantasy of the future that is a terrifying anticipation of fascism'（对未来幻想——法西斯主义的可怖预言）。",
+    "Britannica（B407）：伦敦——1894年'became a militant socialist'——'maintained his socialist beliefs almost to the end of his life'。",
+    "题材（通说待核）：寡头'铁蹄'与工人起义——手稿残卷的框形叙事。"
+  ],
+  "outline": [
+    "（通说待核）'铁蹄'寡头政权的镇压与芝加哥暴动。",
+    "（通说待核）'手稿'在'七百年后'被释读的框架。"
+  ],
+  "characters": [
+    {
+      "name": "欧内斯特·埃弗哈德",
+      "identity": "社会主义者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "艾薇丝",
+      "identity": "妻子/记录者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'法西斯主义的可怖预言'（B407）。",
+    "寡头政治的幻象（书名语境——通说待核）。",
+    "'手稿残卷'的框架（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a terrifying anticipation of fascism'（B407）。",
+      "source": "B407"
+    },
+    {
+      "text": "Britannica：'militant socialist'（B407 交叉）。",
+      "source": "B407"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "未来史框架。",
+      "1900年代美国劳工运动。"
+    ],
+    "editions": [
+      "《铁蹄》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "伦敦政治篇；与《马丁·伊登》对读。"
+  },
+  "pending": [
+    "埃弗哈德/艾薇丝人名核对（通说）。",
+    "1908年出版细节待核。",
+    "'手稿'框架细节待核。"
+  ],
+  "sources": [
+    "B407"
+  ],
+  "year_source": "B407",
+  "author_source": "B407",
+  "related_works": [
+    "madingyideng",
+    "yexingdehuhuan",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《铁蹄》预言结构图",
+    "cards": [
+      {
+        "title": "铁蹄",
+        "text": "寡头的镇压（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "预言",
+        "text": "'法西斯主义的可怖预言'（B407）",
+        "color": "gold"
+      },
+      {
+        "title": "手稿",
+        "text": "七百年后的释读（通说）",
+        "color": "family"
+      },
+      {
+        "title": "起义",
+        "text": "芝加哥的暴动（通说）",
+        "color": "main"
+      }
+    ]
+  }
+}
