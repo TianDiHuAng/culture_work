@@ -1,0 +1,105 @@
+{
+  "id": "wodemihaier",
+  "title": "我的米海尔",
+  "original_title": "Mikhaʾel sheli",
+  "region": "以色列",
+  "era": "现当代",
+  "era_detail": "20世纪60年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "希伯来语",
+  "author_id": "aoz",
+  "author_name": "阿摩司·奥兹",
+  "year_display": "1968年（Britannica B329：My Michael (1968)）",
+  "year_sort": 1968,
+  "background": [
+    "Britannica（B329）：My Michael (1968)——Britannica 列举。",
+    "Britannica（B329）：奥兹——'in whose works Israeli society is unapologetically scrutinized'。",
+    "题材（通说待核）：汉娜的独白——对地质学家丈夫米海尔的想象与疏离。"
+  ],
+  "outline": [
+    "（通说待核——B329未载剧情）汉娜的第一人称独白与白日梦。",
+    "（通说待核）耶路撒冷的阿拉伯邻居双胞胎意象。"
+  ],
+  "characters": [
+    {
+      "name": "汉娜",
+      "identity": "叙述者",
+      "note": "（通说待核，B329未载）"
+    },
+    {
+      "name": "米海尔",
+      "identity": "丈夫",
+      "note": "（B329 书名人物）"
+    }
+  ],
+  "themes": [
+    "婚姻内部的疏离（通说待核）。",
+    "女性欲望的书写（通说待核）。",
+    "耶路撒冷的政治潜流（B329：society scrutinized 语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：奥兹作品序列（B329）。",
+      "source": "B329"
+    },
+    {
+      "text": "Britannica：'unapologetically scrutinized'（B329）。",
+      "source": "B329"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "女性独白的不可靠性。",
+      "1950年代耶路撒冷背景。"
+    ],
+    "editions": [
+      "《我的米海尔》中译本（译林出版社等——通说待核）。",
+      "希伯来文原版。"
+    ],
+    "order": "奥兹早期首选；与《爱与黑暗的故事》对读。"
+  },
+  "pending": [
+    "汉娜/米海尔人名核对（B329未载细节）。",
+    "1968年出版（Am Oved说）待核。",
+    "双胞胎意象细节待核。"
+  ],
+  "sources": [
+    "B329"
+  ],
+  "year_source": "B329",
+  "author_source": "B329",
+  "related_works": [
+    "aiyuheandegushi",
+    "youda",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我的米海尔》独白结构图",
+    "cards": [
+      {
+        "title": "汉娜",
+        "text": "独白的洪流（通说）",
+        "color": "main"
+      },
+      {
+        "title": "米海尔",
+        "text": "沉默的丈夫（B329书名）",
+        "color": "family"
+      },
+      {
+        "title": "耶路撒冷",
+        "text": "政治的潜流（B329）",
+        "color": "antagonist"
+      },
+      {
+        "title": "白日梦",
+        "text": "欲望的通道（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

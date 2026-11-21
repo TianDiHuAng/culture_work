@@ -1,0 +1,105 @@
+{
+  "id": "doushiwodeerzi",
+  "title": "都是我的儿子",
+  "original_title": "All My Sons",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪40年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "amiller",
+  "author_name": "阿瑟·米勒",
+  "year_display": "1947年（Britannica B325：All My Sons (1947)——第一部重要剧作获Tony奖）",
+  "year_sort": 1947,
+  "background": [
+    "Britannica（B325）：All My Sons——'first important play, won a Tony'。",
+    "Britannica（B325）：米勒把'普通人'置于悲剧中心。",
+    "题材（通说待核）：战争期间发售缺陷气缸的工厂主乔·凯勒——利润与责任。"
+  ],
+  "outline": [
+    "（通说待核——B325未载剧情）凯勒家的秘密与阵亡飞行员。",
+    "（通说待核）'都是我的儿子'：责任的普遍化。"
+  ],
+  "characters": [
+    {
+      "name": "乔·凯勒",
+      "identity": "工厂主",
+      "note": "（通说待核，B325未载）"
+    },
+    {
+      "name": "克里斯",
+      "identity": "儿子",
+      "note": "（通说待核，B325未载）"
+    }
+  ],
+  "themes": [
+    "社会责任与家庭神话（通说待核）。",
+    "'普通人'的道德重量（B325）。",
+    "战争经济的伦理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：All My Sons (1947)——'first important play, won a Tony'（B325）。",
+      "source": "B325"
+    },
+    {
+      "text": "Britannica：《推销员之死》为其巅峰（B325 交叉）。",
+      "source": "B325"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "易卜生式回溯结构（通说待核）。",
+      "二战军需工业背景。"
+    ],
+    "editions": [
+      "《都是我的儿子》中译本（人民文学《阿瑟·米勒戏剧集》等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "米勒成名作；后接《推销员之死》。"
+  },
+  "pending": [
+    "乔·凯勒/克里斯/拉里人名核对（B325未载）。",
+    "1947年首演（Coronet Theatre说）待核。",
+    "Tony奖类别待核。"
+  ],
+  "sources": [
+    "B325"
+  ],
+  "year_source": "B325",
+  "author_source": "B325",
+  "related_works": [
+    "tuixiaoyuanzhisi",
+    "salemwunv",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《都是我的儿子》责任结构图",
+    "cards": [
+      {
+        "title": "乔·凯勒",
+        "text": "发战争财的父亲（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "阵亡者",
+        "text": "'我的儿子们'（通说）",
+        "color": "main"
+      },
+      {
+        "title": "秘密",
+        "text": "信件的真相（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "责任",
+        "text": "普通人道德（B325）",
+        "color": "family"
+      }
+    ]
+  }
+}

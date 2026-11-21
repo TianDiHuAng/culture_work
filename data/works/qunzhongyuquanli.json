@@ -1,0 +1,100 @@
+{
+  "id": "qunzhongyuquanli",
+  "title": "群众与权力",
+  "original_title": "Masse und Macht",
+  "region": "奥地利",
+  "era": "现当代",
+  "era_detail": "20世纪60年代",
+  "genre": "论著",
+  "genre_group": "散文",
+  "language": "德语",
+  "author_id": "canetti",
+  "author_name": "埃利亚斯·卡内蒂",
+  "year_display": "1960年（Britannica B312：Masse und Macht (1960)——'His major work'）",
+  "year_sort": 1960,
+  "background": [
+    "Britannica（B312）：Masse und Macht (1960)——'His major work'（其巨著）。",
+    "Britannica（B312）：卡内蒂——1981诺奖（与布罗赫并列条目口径——covers: singer, canetti）。",
+    "题材（通说待核）：群众的类型学与权力的象征——人类学式的政体解剖。"
+  ],
+  "outline": [
+    "（通说待核）群众四类型：环形/开放/猎捕/内聚（分类通说待核）。",
+    "（通说待核）权力的想象学：幸存者与命令。"
+  ],
+  "characters": [
+    {
+      "name": "（论著无人物）",
+      "identity": "——",
+      "note": "人类学式论著"
+    }
+  ],
+  "themes": [
+    "群众心理学（B312：major work 定位）。",
+    "权力的符号学（通说待核）。",
+    "幸存者作为权力原型（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'His major work'（B312）。",
+      "source": "B312"
+    },
+    {
+      "text": "Britannica：1981诺奖交叉（B312 口径）。",
+      "source": "B312"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "人类学式的分类体系。",
+      "多文明材料的并置。"
+    ],
+    "editions": [
+      "《群众与权力》中译本（广西师大等——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "卡内蒂首选；与《迷惘》对读。"
+  },
+  "pending": [
+    "群众分类术语核对（通说）。",
+    "1960年出版（Hanser说）待核。",
+    "诺奖授奖词引用待核。"
+  ],
+  "sources": [
+    "B312"
+  ],
+  "year_source": "B312",
+  "author_source": "B312",
+  "related_works": [
+    "miwang",
+    "leiyu",
+    "aiyuheandegushi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《群众与权力》解剖结构图",
+    "cards": [
+      {
+        "title": "群众",
+        "text": "四类型学（通说）",
+        "color": "main"
+      },
+      {
+        "title": "权力",
+        "text": "幸存者的符号（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "命令",
+        "text": "权力的话语（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "人类学",
+        "text": "跨文明的材料（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

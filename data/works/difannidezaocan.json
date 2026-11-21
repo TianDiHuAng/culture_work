@@ -1,0 +1,105 @@
+{
+  "id": "difannidezaocan",
+  "title": "蒂凡尼的早餐",
+  "original_title": "Breakfast at Tiffany's",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代末",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "capote",
+  "author_name": "杜鲁门·卡波特",
+  "year_display": "1958年（Britannica B332：Breakfast at Tiffany's (1958)）",
+  "year_sort": 1958,
+  "background": [
+    "Britannica（B332）：Breakfast at Tiffany's——Holly Golightly——'a young fey café society girl'（B332）。",
+    "Britannica（B332）：卡波特——'nonfiction novel'的先驱；In Cold Blood 为其巅峰（交叉）。",
+    "题材（通说待核）：纽约'unamed nameless'叙述者眼中的霍莉——野性、漂泊与'蒂凡尼'的安宁想象。"
+  ],
+  "outline": [
+    "（通说待核——B332未载剧情）霍莉与叙述者的公寓友谊与她的消失。",
+    "（通说待核）'蒂凡尼'：不上锁的安宁想象。"
+  ],
+  "characters": [
+    {
+      "name": "霍莉·戈莱特利",
+      "identity": "café society girl",
+      "note": "（B332：Holly Golightly——'a young fey café society girl'）"
+    },
+    {
+      "name": "叙述者",
+      "identity": "作家",
+      "note": "（通说待核，B332未载）"
+    }
+  ],
+  "themes": [
+    "漂泊与归属（通说待核）。",
+    "'蒂凡尼'：消费时代的安宁想象（通说待核）。",
+    "纽约战后都市风情（B332 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a young fey café society girl'（B332）。",
+      "source": "B332"
+    },
+    {
+      "text": "Britannica：卡波特 In Cold Blood 为'nonfiction novel'巅峰（B332 交叉）。",
+      "source": "B332"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'café society'语境。",
+      "第一人称回忆框架。"
+    ],
+    "editions": [
+      "《蒂凡尼的早餐》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "卡波特入门首选；后接《冷血》。"
+  },
+  "pending": [
+    "霍莉人名核对（B332拼写）。",
+    "1961年电影改编（奥黛丽·赫本说）待核。",
+    "1958年出版细节待核。"
+  ],
+  "sources": [
+    "B332"
+  ],
+  "year_source": "B332",
+  "author_source": "B332",
+  "related_works": [
+    "lengxue",
+    "biedeshengyin",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《蒂凡尼的早餐》漂泊结构图",
+    "cards": [
+      {
+        "title": "霍莉",
+        "text": "café society girl（B332）",
+        "color": "main"
+      },
+      {
+        "title": "纽约",
+        "text": "战后的漂泊（通说）",
+        "color": "family"
+      },
+      {
+        "title": "蒂凡尼",
+        "text": "安宁的想象（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "消失",
+        "text": "无名的去向（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
