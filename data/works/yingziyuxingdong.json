@@ -1,0 +1,100 @@
+{
+  "id": "yingziyuxingdong",
+  "title": "影子与行动",
+  "original_title": "Shadow and Act",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "ellison",
+  "author_name": "拉尔夫·艾里森",
+  "year_display": "1964年（Britannica B334：Shadow and Act (1964)）",
+  "year_sort": 1964,
+  "background": [
+    "Britannica（B334）：Shadow and Act (1964)——散文集（与 Going to the Territory (1986) 并列）。",
+    "Britannica（B334）：艾里森——Invisible Man——1953 National Book Award。",
+    "题材（通说待核）：文学、爵士与种族的随笔——'影子'与'行动'的双义。"
+  ],
+  "outline": [
+    "（通说待核）论爵士、论《看不见的人》的创作与批评回应。",
+    "（通说待核）'影子与行动'：非裔美国人经验的两面。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "散文家",
+      "note": "（B334 语境）"
+    }
+  ],
+  "themes": [
+    "爵士乐与文学（通说待核）。",
+    "对'抗议小说'标签的拒绝（通说待核）。",
+    "'影子'：书名的双关（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Shadow and Act (1964)（B334）。",
+      "source": "B334"
+    },
+    {
+      "text": "Britannica：'first Black author to win that honor'（B334 交叉）。",
+      "source": "B334"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "爵士术语。",
+      "1950-60年代批评语境。"
+    ],
+    "editions": [
+      "《影子与行动》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "艾里森散文首选；与《看不见的人》对读。"
+  },
+  "pending": [
+    "篇目核对（B334未载）。",
+    "1964年出版（Random House说）待核。",
+    "'抗议小说'论战细节待核。"
+  ],
+  "sources": [
+    "B334"
+  ],
+  "year_source": "B334",
+  "author_source": "B334",
+  "related_works": [
+    "kanbujian3",
+    "xiayicijiangshiliehuo",
+    "tuyuzhizideneizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《影子与行动》双关结构图",
+    "cards": [
+      {
+        "title": "影子",
+        "text": "看不见的人（书名）",
+        "color": "main"
+      },
+      {
+        "title": "行动",
+        "text": "爵士的即兴（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "随笔",
+        "text": "批评的阵地（B334）",
+        "color": "family"
+      },
+      {
+        "title": "标签",
+        "text": "'抗议小说'之辩（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

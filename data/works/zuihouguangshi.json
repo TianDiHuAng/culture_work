@@ -1,0 +1,100 @@
+{
+  "id": "zuihouguangshi",
+  "title": "最后时光",
+  "original_title": "Closing Time",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "21世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "heller",
+  "author_name": "约瑟夫·海勒",
+  "year_display": "作者页注记：Britannica——Closing Time（年份通说待核——1994说）",
+  "year_sort": 1994,
+  "background": [
+    "作者页注记：最后时光——'（Britannica：Closing Time）'。",
+    "Britannica：海勒——Catch-22 作者（作者页交叉）。",
+    "题材（通说待核）：《第二十二条军规》的续篇——老兵们的'末日'聚会。"
+  ],
+  "outline": [
+    "（通说待核）约塞连们的老年重聚与'关闭时间'。",
+    "（通说待核）美国的黄昏与死亡的黑玩笑。"
+  ],
+  "characters": [
+    {
+      "name": "约塞连等",
+      "identity": "老兵",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'黑色幽默'的晚年变奏（作者页语境——通说待核）。",
+    "代际的终结（书名语境）。",
+    "美国的自我清算（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Closing Time（作者页注记）。",
+      "source": "B281"
+    },
+    {
+      "text": "Britannica：Catch-22 为代表作（作者页交叉）。",
+      "source": "B281"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "续篇的互文。",
+      "1990年代美国政治讽刺。"
+    ],
+    "editions": [
+      "《最后时光》中译名（《关上时间》）待核。",
+      "英文原版。"
+    ],
+    "order": "海勒收官之作；先读《第二十二条军规》。"
+  },
+  "pending": [
+    "1994年出版细节待核。",
+    "约塞连回归细节待核。",
+    "中译名待核。"
+  ],
+  "sources": [
+    "B281"
+  ],
+  "year_source": "B281",
+  "author_source": "B281",
+  "related_works": [
+    "leiyu",
+    "meiguobuqu",
+    "toutougeonv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《最后时光》末日聚会图",
+    "cards": [
+      {
+        "title": "重聚",
+        "text": "老兵的晚年（通说）",
+        "color": "main"
+      },
+      {
+        "title": "关上时间",
+        "text": "末日的玩笑（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "军规",
+        "text": "续篇的互文（作者页语境）",
+        "color": "family"
+      },
+      {
+        "title": "黑色幽默",
+        "text": "美国的黄昏（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

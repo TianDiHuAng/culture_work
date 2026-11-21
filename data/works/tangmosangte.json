@@ -1,0 +1,105 @@
+{
+  "id": "tangmosangte",
+  "title": "汤姆·奥·桑特",
+  "original_title": "Tam o' Shanter",
+  "region": "苏格兰",
+  "era": "近代",
+  "era_detail": "18世纪90年代初",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "苏格兰语",
+  "author_id": "burnsburns",
+  "author_name": "罗伯特·彭斯",
+  "year_display": "1791年（Britannica B299：汤姆·奥·桑特——1791，mock-heroic）",
+  "year_sort": 1791,
+  "background": [
+    "Britannica（B299）：Tam o' Shanter——1791——mock-heroic（模仿英雄体）。",
+    "Britannica（B299）：彭斯——苏格兰民族诗人（作者页交叉）。",
+    "题材（通说待核）：汤姆酒醉夜归——教堂里巫鬼的狂欢与被追逐。"
+  ],
+  "outline": [
+    "（通说待核）汤姆从酒馆夜归遇鬼。",
+    "（通说待核）'剪短的尾巴'：巫婆追过桥。"
+  ],
+  "characters": [
+    {
+      "name": "汤姆",
+      "identity": "醉汉",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "南妮",
+      "identity": "巫婆",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "苏格兰民间鬼话（通说待核）。",
+    "mock-heroic 的滑稽史诗（B299）。",
+    "'故事'与'教训'的插叙（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Tam o' Shanter (1791)——mock-heroic（B299）。",
+      "source": "B299"
+    },
+    {
+      "text": "Britannica：彭斯诗歌地位（B299 作者页）。",
+      "source": "B299"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "苏格兰方言。",
+      "mock-heroic 的反讽。"
+    ],
+    "editions": [
+      "《汤姆·奥·桑特》中译本（人民文学等——通说待核）。",
+      "苏格兰语原版（公有领域）。"
+    ],
+    "order": "彭斯叙事诗首选；与《一朵红红的玫瑰》对读。"
+  },
+  "pending": [
+    "南妮人名核对（通说）。",
+    "1791年写作（致Francis Grose信说）待核。",
+    "'剪尾'细节待核。"
+  ],
+  "sources": [
+    "B299"
+  ],
+  "year_source": "B299",
+  "author_source": "B299",
+  "related_works": [
+    "diyuzhiji",
+    "xinnuofusuobaken",
+    "pochan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《汤姆·奥·桑特》鬼夜结构图",
+    "cards": [
+      {
+        "title": "汤姆",
+        "text": "酒醉的夜归（通说）",
+        "color": "main"
+      },
+      {
+        "title": "教堂",
+        "text": "巫鬼的狂欢（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "桥",
+        "text": "逃命的界线（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "mock-heroic",
+        "text": "滑稽史诗（B299）",
+        "color": "family"
+      }
+    ]
+  }
+}

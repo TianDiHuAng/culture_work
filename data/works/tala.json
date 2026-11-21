@@ -1,0 +1,100 @@
+{
+  "id": "tala",
+  "title": "塔拉",
+  "original_title": "Tala",
+  "region": "智利",
+  "era": "近代",
+  "era_detail": "20世纪30年代末",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "gmistral",
+  "author_name": "加夫列拉·米斯特拉尔",
+  "year_display": "1938年（Britannica B343：Tala (1938; 'Destruction')）",
+  "year_sort": 1938,
+  "background": [
+    "Britannica（B343）：Tala——'Destruction'——与 Ternura、Lagar 一起'evidence a broader interest'。",
+    "Britannica（B343）：米斯特拉尔——1945诺奖——'love of children and of the downtrodden remained her principal themes'。",
+    "题材（通说待核）：《美洲》等诗——从母性之爱扩展到大陆之爱。"
+  ],
+  "outline": [
+    "（通说待核）'塔拉'（毁坏）的题意与美洲主题。",
+    "（通说待核）'Sol y Luna'等组诗（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "教师/诗人",
+      "note": "（B343 语境）"
+    }
+  ],
+  "themes": [
+    "'更广的兴趣'（B343：a broader interest）。",
+    "美洲的大陆之爱（通说待核）。",
+    "爱与毁坏（书名语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'evidence a broader interest'（B343）。",
+      "source": "B343"
+    },
+    {
+      "text": "Britannica：1945诺奖（B343 交叉）。",
+      "source": "B343"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'塔拉'词义（毁坏——B343）。",
+      "智利—墨西哥的旅程诗（通说待核）。"
+    ],
+    "editions": [
+      "《塔拉》中译本（人民文学等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "米斯特拉尔中期；与《荒凉》对读。"
+  },
+  "pending": [
+    "篇目核对（B343未载）。",
+    "1938年出版（Buenos Aires说）待核。",
+    "'美洲'主题细节待核。"
+  ],
+  "sources": [
+    "B343"
+  ],
+  "year_source": "B343",
+  "author_source": "B343",
+  "related_works": [
+    "huangliang",
+    "ershisou",
+    "jipusaiyaoqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《塔拉》美洲之爱图",
+    "cards": [
+      {
+        "title": "塔拉",
+        "text": "毁坏的命名（B343）",
+        "color": "antagonist"
+      },
+      {
+        "title": "美洲",
+        "text": "大陆的爱（通说）",
+        "color": "main"
+      },
+      {
+        "title": " broader",
+        "text": "兴趣的扩展（B343）",
+        "color": "gold"
+      },
+      {
+        "title": "母性",
+        "text": "主题的延续（B343语境）",
+        "color": "family"
+      }
+    ]
+  }
+}

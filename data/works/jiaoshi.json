@@ -1,0 +1,105 @@
+{
+  "id": "jiaoshi",
+  "title": "教师",
+  "original_title": "The Professor",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪40-50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "charlotte-bronte",
+  "author_name": "夏洛蒂·勃朗特",
+  "year_display": "身后出版（作者页注记：Britannica——The Professor was published posthumously——年份通说待核——1857说）",
+  "year_sort": 1857,
+  "background": [
+    "作者页注记：教师——'首作身后出版（Britannica：The Professor was published posthumously）'。",
+    "Britannica：夏洛蒂·勃朗特——勃朗特三姐妹（作者页语境）。",
+    "题材（通说待核）：威廉·克里姆斯沃思的 Belgian 教书生涯——第一人称男性叙述。"
+  ],
+  "outline": [
+    "（通说待核）威廉在布鲁塞尔的教书生涯与Angioletti? （人物细节通说待核）。",
+    "（通说待核）'教师'的独立与婚姻。"
+  ],
+  "characters": [
+    {
+      "name": "威廉·克里姆斯沃思",
+      "identity": "教师/叙述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "弗朗西丝·亨利",
+      "identity": "学生/爱人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "自食其力的伦理（通说待核）。",
+    "男性第一人称的勃朗特实验（通说待核）。",
+    "布鲁塞尔经历的自传对应（作者页语境——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'The Professor was published posthumously'（作者页注记）。",
+      "source": "B101"
+    },
+    {
+      "text": "Britannica：《简·爱》为代表作（作者页交叉）。",
+      "source": "B101"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "男性叙述者的语调。",
+      "'首作被拒'的出版史（通说待核）。"
+    ],
+    "editions": [
+      "《教师》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "勃朗特学者向阅读；与《维莱特》对读。"
+  },
+  "pending": [
+    "1857年出版（Smith Elder说）待核。",
+    "威廉·克里姆斯沃思人名核对（通说）。",
+    "与《维莱特》的互文待核。"
+  ],
+  "sources": [
+    "B101"
+  ],
+  "year_source": "B101",
+  "author_source": "B101",
+  "related_works": [
+    "sheli",
+    "weilaite",
+    "jianai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《教师》首作结构图",
+    "cards": [
+      {
+        "title": "教师",
+        "text": "自食其力（通说）",
+        "color": "main"
+      },
+      {
+        "title": "布鲁塞尔",
+        "text": "异国的讲台（通说）",
+        "color": "family"
+      },
+      {
+        "title": "身后",
+        "text": "出版的曲折（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "婚姻",
+        "text": "独立的完成（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "dingxiang",
+  "title": "定向",
+  "original_title": "Prosanatolismoi（Orientations）",
+  "region": "希腊",
+  "era": "近代",
+  "era_detail": "20世纪40年代初",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "希腊语",
+  "author_id": "elytis",
+  "author_name": "奥季修斯·埃利蒂斯",
+  "year_display": "1940年（Britannica B357：Prosanatolismoi (1940; Orientations)——collection of works to that date）",
+  "year_sort": 1940,
+  "background": [
+    "Britannica（B357）：Prosanatolismoi——'collection of works to that date'（此前作品合集）。",
+    "Britannica（B357）：埃利蒂斯——受法国超现实主义影响（尤其艾吕雅）；刊于 Nea grammata——'30一代'。",
+    "题材（通说待核）：爱琴海的'透明'与光的颂歌——成名前作合集。"
+  ],
+  "outline": [
+    "（通说待核）爱琴海岛屿的光与透明的意象群。",
+    "（通说待核）'东方化'（Orientations）的命名：面向东方。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "光之诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱琴海的光（书名语境——通说待核）。",
+    "超现实主义与希腊民歌（B357）。",
+    "'30一代'的位置（B357）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Prosanatolismoi (1940)（B357）。",
+      "source": "B357"
+    },
+    {
+      "text": "Britannica：1979诺奖（B357 交叉）。",
+      "source": "B357"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "超现实主义语汇。",
+      "希腊海岛地理。"
+    ],
+    "editions": [
+      "《定向》中译名（《方位》）待核。",
+      "希腊文原版。"
+    ],
+    "order": "埃利蒂斯成名前作；后接《理所应当》。"
+  },
+  "pending": [
+    "篇目核对（B357未载）。",
+    "1940年出版细节待核。",
+    "'Orientations'译名待核。"
+  ],
+  "sources": [
+    "B357"
+  ],
+  "year_source": "B357",
+  "author_source": "B357",
+  "related_works": [
+    "zhidezansongde",
+    "shenhualishi",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《定向》爱琴海光图",
+    "cards": [
+      {
+        "title": "光",
+        "text": "爱琴海的透明（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "定向",
+        "text": "面向东方（书名）",
+        "color": "main"
+      },
+      {
+        "title": "超现实",
+        "text": "法国的影响（B357）",
+        "color": "family"
+      },
+      {
+        "title": "战争",
+        "text": "1940的阴影（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

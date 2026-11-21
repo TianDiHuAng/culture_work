@@ -1,0 +1,105 @@
+{
+  "id": "enpeiduokele",
+  "title": "恩培多克勒之死",
+  "original_title": "Der Tod des Empedokles",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪90年代末",
+  "genre": "戏剧诗（未完成三稿）",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "holderlin",
+  "author_name": "弗里德里希·荷尔德林",
+  "year_display": "约1798年起（Britannica B338：Der Tod des Empedokles——begun c. 1798——first version nearly complete, fragments of 2nd and 3rd versions survive）",
+  "year_sort": 1798,
+  "background": [
+    "Britannica（B338）：恩培多克勒之死——约1798年起——第一稿接近完成，第二、三稿存断片。",
+    "Britannica（B338）：荷尔德林——'a prophet of spiritual renewal, of \"the return of the gods\"'。",
+    "题材（通说待核）：哲学家恩培多克勒投身埃特纳火山——神人与民众的悲剧。"
+  ],
+  "outline": [
+    "（通说待核）恩培多克勒的放逐与民众的仰望。",
+    "（通说待核）火山之跳：'回归诸神'的终局。"
+  ],
+  "characters": [
+    {
+      "name": "恩培多克勒",
+      "identity": "哲学家",
+      "note": "（B338 书名人物）"
+    },
+    {
+      "name": "民众",
+      "identity": "合唱",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'神与人'的界限（通说待核）。",
+    "火山的浪漫主义死亡（通说待核）。",
+    "戏剧诗的三稿（B338：fragments of 2nd and 3rd versions）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：三稿存断片（B338）。",
+      "source": "B338"
+    },
+    {
+      "text": "Britannica：'uniquely expressive style'（B338 作者级）。",
+      "source": "B338"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三稿的版本比较。",
+      "前苏格拉底哲学语境。"
+    ],
+    "editions": [
+      "《恩培多克勒之死》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "荷尔德林戏剧尝试；与《许珀里翁》对读。"
+  },
+  "pending": [
+    "三稿年份（1797-1799说）待核。",
+    "'火山之死'传说细节待核。",
+    "希腊哲学原型（阿格里真托的恩培多克勒）待核。"
+  ],
+  "sources": [
+    "B338"
+  ],
+  "year_source": "B338",
+  "author_source": "B338",
+  "related_works": [
+    "xuboliweng",
+    "mianbingyujiu",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恩培多克勒之死》火山结构图",
+    "cards": [
+      {
+        "title": "恩培多克勒",
+        "text": "哲学家的自我神化（通说）",
+        "color": "main"
+      },
+      {
+        "title": "火山",
+        "text": "回归的终点（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "三稿",
+        "text": "未完成的断片（B338）",
+        "color": "family"
+      },
+      {
+        "title": "民众",
+        "text": "仰望与驱逐（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

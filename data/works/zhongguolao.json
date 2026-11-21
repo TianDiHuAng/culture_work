@@ -1,0 +1,100 @@
+{
+  "id": "zhongguolao",
+  "title": "中国佬",
+  "original_title": "China Men",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代末",
+  "genre": "长篇小说（混合文体）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "kingston",
+  "author_name": "汤亭亭",
+  "year_display": "1980年（作者页注记：Britannica——中国佬 (1980)——美国图书奖）",
+  "year_sort": 1980,
+  "background": [
+    "作者页注记：中国佬 (1980)——'美国图书奖（Britannica）'。",
+    "Britannica：汤婷婷——华裔美国作家（作者页语境——待核）。",
+    "题材（通说待核）：华裔移民男性四代——神话、历史与家族的编织。"
+  ],
+  "outline": [
+    "（通说待核）从'曾祖父'到'父亲'：内华达筑路与洗衣馆。",
+    "（通说待核）神话插入（鲁滨逊/屈原等——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "曾祖父/高祖父/父亲",
+      "identity": "移民四代",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "华裔移民的'无名'史（通说待核）。",
+    "神话与历史的编织（作者页语境）。",
+    "'美国图书奖'（B注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：China Men (1980)——美国图书奖（作者页注记）。",
+      "source": "B164"
+    },
+    {
+      "text": "Britannica：《女勇士》为成名作（作者页交叉）。",
+      "source": "B164"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "混合文体（神话+家史）。",
+      "华人移民法案史（通说待核）。"
+    ],
+    "editions": [
+      "《中国佬》中译本（漓江等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "汤亭亭第二作；与《女勇士》对读。"
+  },
+  "pending": [
+    "代际人名核对（通说）。",
+    "1980年出版（Knopf说）待核。",
+    "'美国图书奖'（American Book Award——B注记）核对。"
+  ],
+  "sources": [
+    "B164"
+  ],
+  "year_source": "B164",
+  "author_source": "B164",
+  "related_works": [
+    "kanbujian3",
+    "xiangtianhuhan",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《中国佬》四代结构图",
+    "cards": [
+      {
+        "title": "四代",
+        "text": "移民的链条（通说）",
+        "color": "main"
+      },
+      {
+        "title": "筑路",
+        "text": "内华达的铁轨（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "神话",
+        "text": "编织的插入（作者页语境）",
+        "color": "gold"
+      },
+      {
+        "title": "无名",
+        "text": "史册的空白（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

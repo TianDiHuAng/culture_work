@@ -1,0 +1,100 @@
+{
+  "id": "fengkuangdeai",
+  "title": "疯狂的爱",
+  "original_title": "L'Amour fou",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪30年代末",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "breton",
+  "author_name": "安德烈·布勒东",
+  "year_display": "1937年（Britannica B344：L'Amour fou (1937; Mad Love)——中译名待核）",
+  "year_sort": 1937,
+  "background": [
+    "Britannica（B344）：L'Amour fou——'Mad Love'——作品列表。",
+    "Britannica（B344）：布勒东——超现实主义'chief promoter and one of the founders'。",
+    "题材（通说待核）：与神秘女子寻物之旅——'疯狂的爱'的对象化。"
+  ],
+  "outline": [
+    "（通说待核）布洛涅森林的寻物与'客观偶发'（objet à fonctionnement symbolique——通说待核）。",
+    "（通说待核）超现实主义爱情的宣言。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "诗人",
+      "note": "（B344 语境）"
+    }
+  ],
+  "themes": [
+    "'疯狂的爱'：超现实的爱情观（书名语境——通说待核）。",
+    "'客观偶发'物的理论（通说待核）。",
+    "自动写作的叙事化（B344 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：L'Amour fou (1937)（B344）。",
+      "source": "B344"
+    },
+    {
+      "text": "Britannica：超现实主义运动定位（B344 作者级）。",
+      "source": "B344"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "' objet '理论术语。",
+      "巴黎的地形学。"
+    ],
+    "editions": [
+      "《疯狂的爱》中译本（人民文学等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "布勒东散文篇；与《娜佳》《磁场》对读。"
+  },
+  "pending": [
+    "' objet à fonctionnement symbolique '术语核对（通说）。",
+    "1937年出版细节待核。",
+    "寻物之旅细节待核。"
+  ],
+  "sources": [
+    "B344"
+  ],
+  "year_source": "B344",
+  "author_source": "B344",
+  "related_works": [
+    "najia",
+    "cichang",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《疯狂的爱》寻物结构图",
+    "cards": [
+      {
+        "title": "寻物",
+        "text": "客观的偶发（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "疯狂",
+        "text": "爱的超现实（书名）",
+        "color": "main"
+      },
+      {
+        "title": "布洛涅森林",
+        "text": "巴黎的地形（通说）",
+        "color": "family"
+      },
+      {
+        "title": "宣言",
+        "text": "爱情的诗学（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

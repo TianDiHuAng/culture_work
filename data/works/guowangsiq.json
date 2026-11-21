@@ -1,0 +1,105 @@
+{
+  "id": "guowangsiq",
+  "title": "国王死去",
+  "original_title": "Le Roi se meurt",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "ionesco",
+  "author_name": "欧仁·尤涅斯库",
+  "year_display": "1962年（Britannica B340：Exit the King (1962)——中译名待核）",
+  "year_sort": 1962,
+  "background": [
+    "Britannica（B340）：Exit the King (1962)——剧作列表。",
+    "Britannica（B340）：尤涅斯库——荒诞派开创者之一；'theatre of derision'。",
+    "题材（通说待核）：国王贝朗热一世的90分钟死去——死亡作为倒数计时。"
+  ],
+  "outline": [
+    "（通说待核）王后玛尔戈的告别与王国的坍缩。",
+    "（通说待核）'90分钟'的死亡倒计时。"
+  ],
+  "characters": [
+    {
+      "name": "贝朗热一世",
+      "identity": "国王",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "玛尔戈王后",
+      "identity": "第一任王后",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "死亡的独角戏（通说待核）。",
+    "'derision'的告别（B340：theatre of derision）。",
+    "王权的崩塌（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Exit the King (1962)（B340）。",
+      "source": "B340"
+    },
+    {
+      "text": "Britannica：荒诞派开创者（B340 交叉）。",
+      "source": "B340"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "死亡的舞台化。",
+      "与《犀牛》的对照。"
+    ],
+    "editions": [
+      "《国王死去》中译名（《国王临终》两说——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "尤涅斯库中期；与《犀牛》《椅子》对读。"
+  },
+  "pending": [
+    "贝朗热人名核对（通说）。",
+    "1962年首演细节待核。",
+    "'90分钟'结构待核。"
+  ],
+  "sources": [
+    "B340"
+  ],
+  "year_source": "B340",
+  "author_source": "B340",
+  "related_works": [
+    "xiniu",
+    "yizi",
+    "toutougeonv"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《国王死去》倒计时图",
+    "cards": [
+      {
+        "title": "国王",
+        "text": "90分钟的死去（通说）",
+        "color": "main"
+      },
+      {
+        "title": "王后",
+        "text": "告别的劝导（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "王国",
+        "text": "坍缩的疆域（通说）",
+        "color": "family"
+      },
+      {
+        "title": "嘲讽",
+        "text": "'theatre of derision'（B340）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

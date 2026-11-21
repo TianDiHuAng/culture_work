@@ -1,0 +1,110 @@
+{
+  "id": "baixuehuanghou",
+  "title": "白雪皇后",
+  "original_title": "Snedronningen（The Snow Queen）",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "19世纪40年代",
+  "genre": "童话",
+  "genre_group": "故事集",
+  "language": "丹麦语",
+  "author_id": "andersen",
+  "author_name": "安徒生",
+  "year_display": "作者页注记：Britannica 语境——白雪皇后（发表年份通说待核——1844说）",
+  "year_sort": 1844,
+  "background": [
+    "作者页注记：海的女儿、丑小鸭、白雪皇后——'（Britannica 语境）'。",
+    "Britannica：安徒生——童话作家（作者页语境）。",
+    "题材（通说待核）：镜子的碎片入心——格尔达雪原寻友。"
+  ],
+  "outline": [
+    "（通说待核）卡伊被镜片与白雪皇后带走。",
+    "（通说待核）格尔达的冬季寻友与吻的融化。"
+  ],
+  "characters": [
+    {
+      "name": "格尔达",
+      "identity": "寻友少女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "卡伊",
+      "identity": "被带走男孩",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "白雪皇后",
+      "identity": "冰雪之宫主人",
+      "note": "（书名人物）"
+    }
+  ],
+  "themes": [
+    "'理性的冰'与'心的火'（通说待核）。",
+    "七段故事的旅程结构（通说待核）。",
+    "善的救赎（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：安徒生童话序列（作者页注记）。",
+      "source": "B262"
+    },
+    {
+      "text": "Britannica：安徒生为童话大师（作者页语境）。",
+      "source": "B262"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "七个故事的结构（通说待核）。",
+      "'镜子的碎片'寓意。"
+    ],
+    "editions": [
+      "《白雪皇后》（人民文学出版社《安徒生童话全集》等——通说待核）。",
+      "丹麦文原版（公有领域）。"
+    ],
+    "order": "安徒生代表作；与《海的女儿》《丑小鸭》对读。"
+  },
+  "pending": [
+    "1844年发表（《新童话》第二集说）待核。",
+    "七段结构核对（通说）。",
+    "'泰恩'等名词细节待核。"
+  ],
+  "sources": [
+    "B262"
+  ],
+  "year_source": "B262",
+  "author_source": "B262",
+  "related_works": [
+    "haidenvren",
+    "chouxiaoya",
+    "baimaqishi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《白雪皇后》冰火结构图",
+    "cards": [
+      {
+        "title": "镜片",
+        "text": "理性的碎片（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "格尔达",
+        "text": "寻友的火（通说）",
+        "color": "main"
+      },
+      {
+        "title": "雪宫",
+        "text": "冰雪的王国（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "吻",
+        "text": "融化的救赎（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

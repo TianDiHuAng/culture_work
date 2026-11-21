@@ -1,0 +1,100 @@
+{
+  "id": "shui",
+  "title": "水",
+  "original_title": "水",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪30年代初",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语",
+  "author_id": "dingling",
+  "author_name": "丁玲",
+  "year_display": "1931年（作者页注记：Britannica——水 (1931)）",
+  "year_sort": 1931,
+  "background": [
+    "作者页注记：水 (1931)——'社会主义现实主义（Britannica）'。",
+    "Britannica：丁玲——现代中国女作家（作者页语境）。",
+    "题材（通说待核）：十六省水灾的农民群像——集体化的视角转换。"
+  ],
+  "outline": [
+    "（通说待核）洪水中农民从个人求生到集体觉醒。",
+    "（通说待核）'水'：既是灾难也是人民之力。"
+  ],
+  "characters": [
+    {
+      "name": "农民群像",
+      "identity": "——",
+      "note": "（通说待核——无单一主角）"
+    }
+  ],
+  "themes": [
+    "'社会主义现实主义'的先声（B注记）。",
+    "灾难叙事的集体化（通说待核）。",
+    "从个人到群像的转换（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：水 (1931)（作者页注记）。",
+      "source": "B170"
+    },
+    {
+      "text": "Britannica：丁玲左翼转向（作者页语境——待核）。",
+      "source": "B170"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1931年江淮大水史。",
+      "'群像'的无主角结构。"
+    ],
+    "editions": [
+      "《水》（人民文学出版社《丁玲全集》等——通说待核）。",
+      "1931年发表（《北斗》说）待核。"
+    ],
+    "order": "丁玲左翼阶段；与《莎菲女士的日记》对照。"
+  },
+  "pending": [
+    "1931年发表刊物核对。",
+    "'群像'结构细节待核。",
+    "'社会主义现实主义'评价（B注记）核对。"
+  ],
+  "sources": [
+    "B170"
+  ],
+  "year_source": "B170",
+  "author_source": "B170",
+  "related_works": [
+    "shafeinushideriji",
+    "zaidiceng",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《水》洪水群像图",
+    "cards": [
+      {
+        "title": "洪水",
+        "text": "灾难的浪（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "农民",
+        "text": "群像的觉醒（通说）",
+        "color": "main"
+      },
+      {
+        "title": "集体",
+        "text": "从求生到组织（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "左翼",
+        "text": "现实的转向（B注记）",
+        "color": "family"
+      }
+    ]
+  }
+}
