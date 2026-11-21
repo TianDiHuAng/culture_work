@@ -123,7 +123,7 @@ W("yinduzhixing","印度之行","A Passage to India","英国","现当代","20世
 G2("《印度之行》审判结构图",[{"title":"马拉巴山洞","text":"指控的空白","color":"antagonist"},{"title":"审判","text":"英印分裂（B282）","color":"main"},{"title":"菲尔丁","text":"连接的尝试","color":"gold"},{"title":"平衡","text":"不安的结尾（B282）","color":"family"}])),
 ]
 
-for wid, d in works:
+for wid, d in works.items():
     p = pathlib.Path(f"data/works/{wid}.json")
     p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
     print("created work", wid)
