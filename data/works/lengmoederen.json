@@ -1,0 +1,105 @@
+{
+  "id": "lengmoederen",
+  "title": "冷漠的人",
+  "original_title": "Gli indifferenti",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪20年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "moravia",
+  "author_name": "阿尔贝托·莫拉维亚",
+  "year_display": "1929年（Britannica B348：Gli indifferenti (1929; Time of Indifference)）",
+  "year_sort": 1929,
+  "background": [
+    "Britannica（B348）：'a scathingly realistic study of the moral corruption of a middle-class mother and two of her children'——对一个中产母亲与其两个孩子的道德败坏的辛辣现实主义研究。",
+    "Britannica（B348）：莫拉维亚——'known for his fictional portrayals of social alienation'。",
+    "题材（通说待核）：丧夫的中产母亲与情人周旋，子女的'冷漠'与家庭的溃散。"
+  ],
+  "outline": [
+    "中产母亲与两个孩子：情人的操纵与家庭的道德溃散（B348：moral corruption of a middle-class mother and two of her children；情节通说待核）。",
+    "'冷漠'作为道德瘫痪的形式（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "玛利亚格拉齐亚",
+      "identity": "母亲",
+      "note": "（通说待核，B348未载）"
+    },
+    {
+      "name": "米凯莱/卡拉",
+      "identity": "子女",
+      "note": "（通说待核，B348未载）"
+    }
+  ],
+  "themes": [
+    "社会疏离（B348：social alienation）。",
+    "中产的道德败坏（B348：moral corruption）。",
+    "'冷漠'——行动能力的瘫痪（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'He was a major figure in 20th-century Italian literature.'（B348）。",
+      "source": "B348"
+    },
+    {
+      "text": "Britannica：处女作即确立其现实主义路数（B348 定位）。",
+      "source": "B348"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "法西斯前夕的意大利中产社会（时代背景通说待核）。",
+      "'冷漠'的心理剖析。"
+    ],
+    "editions": [
+      "《冷漠的人》中译本（人民文学/上海译文等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "莫拉维亚首选；后接《顺从者》。"
+  },
+  "pending": [
+    "玛利亚格拉齐亚/米凯莱/卡拉人名核对（B348未载）。",
+    "1929年出版（Alpes说）待核。",
+    "中译名两说（《冷漠的人》/《冷漠者们》）待核。"
+  ],
+  "sources": [
+    "B348"
+  ],
+  "year_source": "B348",
+  "author_source": "B348",
+  "related_works": [
+    "leiyu",
+    "yigewushiwan",
+    "wuhao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《冷漠的人》道德溃散图",
+    "cards": [
+      {
+        "title": "母亲",
+        "text": "被操纵的中产（通说）",
+        "color": "family"
+      },
+      {
+        "title": "子女",
+        "text": "'冷漠'的瘫痪（通说）",
+        "color": "main"
+      },
+      {
+        "title": "情人",
+        "text": "道德败坏的推手（B348语境）",
+        "color": "antagonist"
+      },
+      {
+        "title": "疏离",
+        "text": "社会异化（B348）",
+        "color": "gold"
+      }
+    ]
+  }
+}

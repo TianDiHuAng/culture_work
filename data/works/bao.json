@@ -1,0 +1,107 @@
+{
+  "id": "bao",
+  "title": "豹",
+  "original_title": "Il Gattopardo",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪50年代（死后出版）",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "lampedusa",
+  "author_name": "朱塞佩·托马西·迪·兰佩杜萨",
+  "year_display": "1958年死后出版（Britannica B349：Il gattopardo (1958, posthumous)——'only completed novel'）",
+  "year_sort": 1958,
+  "background": [
+    "Britannica（B349）：Il gattopardo——'rejected by publishers during his lifetime, brought him world acclaim with its posthumous publication'（生前被拒、死后出版举世闻名）——'one of the most striking in 20th-century Italian literature'。",
+    "Britannica（B349）：'a psychological study of Don Fabrizio, prince of Salina'——萨利纳亲王目睹1860年代权力从波旁贵族移向新意大利王国与自由资产阶级。",
+    "Britannica（B349）：侄子投机革命并'攀上新兴阶层'（joins the revolution opportunistically and marries into the rising class）。"
+  ],
+  "outline": [
+    "萨利纳亲王堂·法布里奇奥的心理研究：贵族的黄昏（B349：psychological study of Don Fabrizio）。",
+    "侄子的投机与'新兴阶层'的婚姻（B349）。",
+    "1860年代：加里波第与新意大利王国（时代背景通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "堂·法布里奇奥",
+      "identity": "萨利纳亲王",
+      "note": "（B349：Don Fabrizio, prince of Salina）"
+    },
+    {
+      "name": "侄子",
+      "identity": "投机者",
+      "note": "（B349：nephew——名字通说待核）"
+    }
+  ],
+  "themes": [
+    "贵族的挽歌（B349：心理研究）。",
+    "权力的转移：波旁→意大利王国→自由资产阶级（B349）。",
+    "投机的胜利与'豹'的终结（B349 侄子线）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of the most striking in 20th-century Italian literature'（B349）。",
+      "source": "B349"
+    },
+    {
+      "text": "Britannica：'only completed novel'——死后出版的传奇（B349）。",
+      "source": "B349"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1860年代意大利统一史（加里波第远征西西里——通说待核）。",
+      "西西里贵族的世界。"
+    ],
+    "editions": [
+      "《豹》中译本（人民文学/译林等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "兰佩杜萨唯一长篇；与《故事集》(1961)对读。"
+  },
+  "pending": [
+    "侄子名（唐克雷迪说）核对（B349未载）。",
+    "1958年出版商（Feltrinelli说）待核。",
+    "1963年维斯孔蒂电影说待核。",
+    "西西里舞会开篇细节待核。"
+  ],
+  "sources": [
+    "B349"
+  ],
+  "year_source": "B349",
+  "author_source": "B349",
+  "related_works": [
+    "leiyu",
+    "leiyu",
+    "qieelvxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《豹》权力转移图",
+    "cards": [
+      {
+        "title": "堂·法布里奇奥",
+        "text": "贵族的黄昏（B349）",
+        "color": "main"
+      },
+      {
+        "title": "侄子",
+        "text": "投机的新兴阶层（B349）",
+        "color": "antagonist"
+      },
+      {
+        "title": "1860年代",
+        "text": "波旁→意大利王国（B349）",
+        "color": "gold"
+      },
+      {
+        "title": "豹",
+        "text": "濒危的物种（B349意象）",
+        "color": "family"
+      }
+    ]
+  }
+}

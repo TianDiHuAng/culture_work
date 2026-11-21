@@ -10,19 +10,64 @@
   "era": "现当代",
   "summary": "贝克特，都柏林人，20世纪最激进的戏剧与小说革新者，1969年诺贝尔文学奖得主。英法双语写作；都柏林三一学院毕业，1928—30年巴黎任乔伊斯助手（通说待核）；二战中参加法国抵抗运动获战争十字勋章（Britannica），后隐居乡下做农业劳工（Britannica）。《等待戈多》（1953）使其成为'荒诞派戏剧'的命名性人物（Britannica，Esslin 撰）。晚年作品愈发精简——'Less is more'的极端实践者。1989年12月22日卒于巴黎。",
   "timeline": [
-    {"year": "1906-04-13", "text": "生于都柏林近郊福克洛克（Britannica：born April 13?, 1906, Foxrock, County Dublin——生日带问号）；三一学院罗曼语系（通说待核）。", "src": "B094"},
-    {"year": "1928—1930", "text": "巴黎高等师范学院英语讲师，结识乔伊斯（'contrary to legend, he never worked as Joyce's secretary'——Britannica 明确辟谣'秘书说'）。", "src": "B094"},
-    {"year": "1930s", "text": "巡回讲师、伦敦psychosis治疗（通说待核：Tavistock诊所）；批评集《普鲁斯特论》（1931，通说待核）。", "src": "B094"},
-    {"year": "1938—1945", "text": "定居巴黎；1941年加入法国抵抗运动，1942年躲藏（Britannica：joined the French Resistance in 1941, went into hiding in 1942），在鲁西荣做农活；战后获战争十字勋章（Britannica：later received the Croix de Guerre）。", "src": "B094"},
-    {"year": "1946—1952", "text": "'贫困的启示'时期（通说待核）：以法语写作三部曲《莫洛伊》《马龙之死》《无法称呼的人》（Britannica：the prose trilogy）与《等待戈多》（1948—49写成，通说待核）。", "src": "B094"},
-    {"year": "1953", "text": "《等待戈多》1月巴黎首演（Britannica：first staged in Paris in January 1953）——荒诞派戏剧的经典化起点（Britannica：associated with the Theatre of the Absurd）。", "src": "B094"},
-    {"year": "1957—1970", "text": "《终局》（1957）、《克拉普的最后一盘录音带》（1958）、《快乐的日子》（1961，Britannica 列举）；1969年获诺贝尔文学奖（Britannica：won the Nobel Prize in Literature in 1969）——拒绝出席以免发表演说（Britannica：declined to travel to Stockholm to avoid giving a public speech）。", "src": "B094"},
-    {"year": "1970—1989", "text": "自我导演的'精确舞台'时期（柏林席勒剧院等，通说待核）；《克拉普最后》影视、电视剧实验（通说待核）；1989-12-22卒于巴黎，与妻子苏珊娜同月去世（通说待核）。", "src": "B094"}
+    {
+      "year": "1906-04-13",
+      "text": "生于都柏林近郊福克洛克（Britannica：born April 13?, 1906, Foxrock, County Dublin——生日带问号）；三一学院罗曼语系（通说待核）。",
+      "src": "B094"
+    },
+    {
+      "year": "1928—1930",
+      "text": "巴黎高等师范学院英语讲师，结识乔伊斯（'contrary to legend, he never worked as Joyce's secretary'——Britannica 明确辟谣'秘书说'）。",
+      "src": "B094"
+    },
+    {
+      "year": "1930s",
+      "text": "巡回讲师、伦敦psychosis治疗（通说待核：Tavistock诊所）；批评集《普鲁斯特论》（1931，通说待核）。",
+      "src": "B094"
+    },
+    {
+      "year": "1938—1945",
+      "text": "定居巴黎；1941年加入法国抵抗运动，1942年躲藏（Britannica：joined the French Resistance in 1941, went into hiding in 1942），在鲁西荣做农活；战后获战争十字勋章（Britannica：later received the Croix de Guerre）。",
+      "src": "B094"
+    },
+    {
+      "year": "1946—1952",
+      "text": "'贫困的启示'时期（通说待核）：以法语写作三部曲《莫洛伊》《马龙之死》《无法称呼的人》（Britannica：the prose trilogy）与《等待戈多》（1948—49写成，通说待核）。",
+      "src": "B094"
+    },
+    {
+      "year": "1953",
+      "text": "《等待戈多》1月巴黎首演（Britannica：first staged in Paris in January 1953）——荒诞派戏剧的经典化起点（Britannica：associated with the Theatre of the Absurd）。",
+      "src": "B094"
+    },
+    {
+      "year": "1957—1970",
+      "text": "《终局》（1957）、《克拉普的最后一盘录音带》（1958）、《快乐的日子》（1961，Britannica 列举）；1969年获诺贝尔文学奖（Britannica：won the Nobel Prize in Literature in 1969）——拒绝出席以免发表演说（Britannica：declined to travel to Stockholm to avoid giving a public speech）。",
+      "src": "B094"
+    },
+    {
+      "year": "1970—1989",
+      "text": "自我导演的'精确舞台'时期（柏林席勒剧院等，通说待核）；《克拉普最后》影视、电视剧实验（通说待核）；1989-12-22卒于巴黎，与妻子苏珊娜同月去世（通说待核）。",
+      "src": "B094"
+    }
   ],
   "major_works": [
-    {"work_id": "dengdaigou", "note": "1953；'his most celebrated play'（Britannica）"},
-    {"title": "终局（1957）、快乐的日子（1961）", "note": "荒诞剧双璧（Britannica 列举）"},
-    {"title": "莫洛伊三部曲（1947—50）", "note": "法语小说三部曲（Britannica）"}
+    {
+      "work_id": "dengdaigou",
+      "note": "1953；'his most celebrated play'（Britannica）"
+    },
+    {
+      "title": "终局（1957）、快乐的日子（1961）",
+      "note": "荒诞剧双璧（Britannica 列举）"
+    },
+    {
+      "title": "莫洛伊三部曲（1947—50）",
+      "note": "法语小说三部曲（Britannica）"
+    },
+    {
+      "work_id": "moluoyi",
+      "note": "莫洛伊三部曲之一（B094）"
+    }
   ],
   "style": [
     "极简主义：'minimalist, stripped-down writing focused on existential themes and the human condition'（Britannica）——从'字多'到'字少'的毕生减法。",
@@ -31,7 +76,9 @@
     "黑色幽默：'荒诞'包裹爱尔兰式的滑稽（通说待核）。"
   ],
   "status": "Britannica（Esslin 撰）定位贝克特为荒诞派戏剧的核心人物，其剧作以极简笔法处理'生存与人类境况'的主题。《等待戈多》使'戈多'（Godot）成为世界语言的符号（通说待核）。他拒绝一切阐释（'我的作品没有可理解的信息'——通说待核），却成为20世纪后半叶剧场艺术的方向标：从品特到当代'慢剧场'皆承其余泽。",
-  "sources": ["B094"],
+  "sources": [
+    "B094"
+  ],
   "dates_source": "B094",
   "pending": [
     "生日（4月13日?）Britannica 带问号（一说5月）。",

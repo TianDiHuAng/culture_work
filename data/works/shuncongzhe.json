@@ -1,0 +1,100 @@
+{
+  "id": "shuncongzhe",
+  "title": "顺从者",
+  "original_title": "Il conformista",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪50年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "moravia",
+  "author_name": "阿尔贝托·莫拉维亚",
+  "year_display": "1951年（Britannica B348：Il conformista (1951; The Conformist)）",
+  "year_sort": 1951,
+  "background": [
+    "Britannica（B348）：Il conformista——处理'themes of isolation and alienation'（隔离与异化的主题）。",
+    "Britannica（B348）：莫拉维亚多部作品改编为电影。",
+    "题材（通说待核）：法西斯时期，一个渴望'正常'的青年接受密探任务——顺从作为逃避。"
+  ],
+  "outline": [
+    "'顺从者'加入体制：密探任务与内心的空洞（情节通说待核——B348未载）。",
+    "隔夜时刻的选择与崩溃（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "马尔切洛",
+      "identity": "'顺从者'",
+      "note": "（通说待核，B348未载）"
+    }
+  ],
+  "themes": [
+    "顺从即异化（B348：isolation and alienation）。",
+    "法西斯时代的中产心理（通说待核）。",
+    "'正常'渴望的恐怖（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'themes of isolation and alienation'（B348）。",
+      "source": "B348"
+    },
+    {
+      "text": "Britannica：莫拉维亚为20世纪意大利文学主要人物（B348）。",
+      "source": "B348"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "法西斯语境（1930年代罗马——通说待核）。",
+      "心理—政治小说的双层。"
+    ],
+    "editions": [
+      "《顺从者》中译本（人民文学/上海译文等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "莫拉维亚进阶；可后接《烦闷》。"
+  },
+  "pending": [
+    "马尔切洛人名与剧情细节核对（B348未载）。",
+    "1970年贝尔托鲁奇电影说待核（B348仅称'多部改编'）。",
+    "1951年出版细节待核。"
+  ],
+  "sources": [
+    "B348"
+  ],
+  "year_source": "B348",
+  "author_source": "B348",
+  "related_works": [
+    "leiyu",
+    "leiyu",
+    "xiniu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《顺从者》顺从结构图",
+    "cards": [
+      {
+        "title": "'顺从者'",
+        "text": "异化的执行者（B348语境）",
+        "color": "main"
+      },
+      {
+        "title": "体制",
+        "text": "法西斯的引力（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "疏离",
+        "text": "isolation and alienation（B348）",
+        "color": "gold"
+      },
+      {
+        "title": "'正常'",
+        "text": "空洞的渴望（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

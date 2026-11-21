@@ -1,0 +1,68 @@
+{
+  "id": "moravia",
+  "name": "阿尔贝托·莫拉维亚",
+  "foreign_name": "Alberto Moravia（阿尔贝托·莫拉维亚，原名 Alberto Pincherle，1907-11-28—1990-09-26）",
+  "country": "意大利",
+  "birth": 1907,
+  "death": 1990,
+  "birth_year": 1907,
+  "death_year": 1990,
+  "era": "现当代",
+  "summary": "莫拉维亚，原名 Alberto Pincherle，罗马生，意大利小说家——'known for his fictional portrayals of social alienation'（以社会疏离的虚构书写著称——B348）；'He was a major figure in 20th-century Italian literature.'（B348）。Gli indifferenti（冷漠的人, 1929）——'a scathingly realistic study of the moral corruption of a middle-class mother and two of her children'（B348）；Il conformista（顺从者, 1951）——'themes of isolation and alienation'（B348）；La ciociara（两个女人/乔恰里亚女人, 1957）——'tells of an adaptation to post-World War II Italian life'（B348）；La noia（烦闷, 1960）——'a painter unable to find meaning either in love or work'（B348）。妻为小说家 Elsa Morante；多部改编为电影（B348）。",
+  "timeline": [
+    {
+      "year": 1907,
+      "text": "11月28日生于罗马（B348）。",
+      "src": "B348"
+    },
+    {
+      "year": 1929,
+      "text": "处女作 Gli indifferenti——中产道德败坏的现实主义研究（B348）。",
+      "src": "B348"
+    },
+    {
+      "year": 1951,
+      "text": "Il conformista（顺从者）——疏离与异化的主题（B348）。",
+      "src": "B348"
+    },
+    {
+      "year": 1957,
+      "text": "La ciociara（两个女人）——战后意大利的适应（B348）。",
+      "src": "B348"
+    },
+    {
+      "year": 1990,
+      "text": "9月26日卒于罗马（B348）。",
+      "src": "B348"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "lengmoederen",
+      "note": "1929（B348）"
+    },
+    {
+      "work_id": "shuncongzhe",
+      "note": "1951（B348）"
+    },
+    {
+      "title": "两个女人",
+      "note": "（B348：La ciociara (1957)——中译名两说待核）"
+    }
+  ],
+  "style": [
+    "社会疏离的虚构书写（B348：social alienation）。",
+    "'辛辣的现实主义'（B348：scathingly realistic）。",
+    "中产阶级的道德解剖（B348）。"
+  ],
+  "status": "Britannica 定位莫拉维亚为20世纪意大利文学主要人物（B348）。",
+  "sources": [
+    "B348"
+  ],
+  "dates_source": "B348",
+  "pending": [
+    "Gli indifferenti 通行译名（《冷漠的人》）待核。",
+    "与 Elsa Morante 的婚姻年份待核。",
+    "电影改编清单待核。"
+  ]
+}

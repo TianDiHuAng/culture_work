@@ -1,0 +1,59 @@
+{
+  "id": "lampedusa",
+  "name": "朱塞佩·托马西·迪·兰佩杜萨",
+  "foreign_name": "Giuseppe Tomasi di Lampedusa（朱塞佩·托马西·迪·兰佩杜萨，帕尔马公爵、兰佩杜萨亲王，1896-12-23—1957-07-23）",
+  "country": "意大利",
+  "birth": 1896,
+  "death": 1957,
+  "birth_year": 1896,
+  "death_year": 1957,
+  "era": "现当代",
+  "summary": "兰佩杜萨，巴勒莫（西西里）生——帕尔马公爵、兰佩杜萨亲王，西西里贵族之家（B349）。一战炮兵军官，被俘关押匈牙利后逃脱、徒步返意（B349）；精神崩溃断送外交前程，此后'an intensely private life of intellectual activity'（B349）。Il gattopardo（豹）为其'only completed novel'——'rejected by publishers during his lifetime, brought him world acclaim with its posthumous publication'（生前被拒、死后1958年出版而举世闻名——B349）——'one of the most striking in 20th-century Italian literature'（B349）。死后另出 Racconti (1961)——含未完成长篇首章与自传短篇（B349）。",
+  "timeline": [
+    {
+      "year": 1896,
+      "text": "12月23日生于巴勒莫（西西里贵族之家——B349）。",
+      "src": "B349"
+    },
+    {
+      "year": 1915,
+      "text": "一战服役为炮兵军官，被俘匈牙利、逃脱徒步返意（年份通说待核——B349未载服役年）。",
+      "src": "B349"
+    },
+    {
+      "year": 1957,
+      "text": "7月23日卒于罗马；生前书稿被拒（B349）。",
+      "src": "B349"
+    },
+    {
+      "year": 1958,
+      "text": "《豹》死后出版，举世闻名（B349）。",
+      "src": "B349"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "bao",
+      "note": "1958死后出版（B349）"
+    },
+    {
+      "title": "故事集",
+      "note": "（B349：Racconti (1961死后)）"
+    }
+  ],
+  "style": [
+    "贵族的挽歌视角（B349：心理研究 Don Fabrizio）。",
+    "'one of the most striking in 20th-century Italian literature'（B349）。",
+    " intensely private 的智性生活（B349）。"
+  ],
+  "status": "Britannica 定位兰佩杜萨为死后成名的西西里贵族作家，《豹》为其唯一完成的长篇（B349）。",
+  "sources": [
+    "B349"
+  ],
+  "dates_source": "B349",
+  "pending": [
+    "一战服役年份核对（B349未载）。",
+    "《豹》出版商（Giulio Einaudi 拒稿说）待核。",
+    "Racconti 篇目细节待核。"
+  ]
+}
