@@ -1,0 +1,68 @@
+{
+  "id": "csimon",
+  "name": "克洛德·西蒙",
+  "foreign_name": "Claude Simon（克洛德·欧仁·亨利·西蒙，1913-10-10—2005-07-06）",
+  "country": "法国",
+  "birth": 1913,
+  "death": 2005,
+  "birth_year": 1913,
+  "death_year": 2005,
+  "era": "现当代",
+  "summary": "西蒙，马达加斯加塔那那利佛生，法国作家——1985年诺贝尔文学奖（B391）；'whose works are among the most authentic representatives of the French nouveau roman'（法国新小说最纯正的代表之一——B391）。La Route des Flandres（弗兰德公路, 1960）——与《草》《宫》《史》构成循环四部——'Many critics consider these novels, especially La Route des Flandres, to be his most important work'（B391）。风格：叙述与意识流混合——'lacking all punctuation and heavy with 1,000-word sentences'——'to capture the very progression of life'（B391）。1940年5月被德军俘、逃脱、参加抵抗运动（B391）。",
+  "timeline": [
+    {
+      "year": 1913,
+      "text": "10月10日生于马达加斯加塔那那利佛（B391）。",
+      "src": "B391"
+    },
+    {
+      "year": 1940,
+      "text": "5月被德军俘、逃脱、参加抵抗运动（B391）。",
+      "src": "B391"
+    },
+    {
+      "year": 1960,
+      "text": "La Route des Flandres——'most important work'（B391）。",
+      "src": "B391"
+    },
+    {
+      "year": 1985,
+      "text": "获诺贝尔文学奖（B391）。",
+      "src": "B391"
+    },
+    {
+      "year": 2005,
+      "text": "7月6日卒于巴黎（B391）。",
+      "src": "B391"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "fulandegonglu",
+      "note": "1960（B391）"
+    },
+    {
+      "title": "历史",
+      "note": "（B391：Histoire (1967)）"
+    },
+    {
+      "title": "农事诗",
+      "note": "（B391：Les Géorgiques (1981)——中译名待核）"
+    }
+  ],
+  "style": [
+    "新小说的'最纯正代表'（B391）。",
+    "'无标点的千词长句'（B391：lacking all punctuation...1,000-word sentences）。",
+    "'捕捉生命的推进本身'（B391）。"
+  ],
+  "status": "Britannica 定位克洛德·西蒙为1985诺奖得主、法国新小说的代表（B391）。",
+  "sources": [
+    "B391"
+  ],
+  "dates_source": "B391",
+  "pending": [
+    "《弗兰德公路》通行译名待核。",
+    "'千词长句'细节核对（B391口径）。",
+    "'循环四部'（La Route/L'Herbe/La Palace/Histoire）核对（B391已载）。"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "qiedao",
+  "title": "企鹅岛",
+  "original_title": "L'Île des Pingouins",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "france",
+  "author_name": "阿纳托尔·法朗士",
+  "year_display": "1908年（Britannica B392：L'Île des Pingouins (1908)——'An extended satire of French society through the ages'）",
+  "year_sort": 1908,
+  "background": [
+    "Britannica（B392）：'An extended satire of French society through the ages'（历代法国社会的长篇讽刺）。",
+    "Britannica（B392）：法朗士——1921诺奖；德雷福斯事件后转向社会关怀。",
+    "题材（通说待核）：近视修士把企鹅误认为人——'受洗'而衍生的伪岛史。"
+  ],
+  "outline": [
+    "（通说待核）圣马埃尔修士为企鹅'施洗'——伦理的喜剧开端。",
+    "（通说待核）八卷企鹅岛编年：从建国到'未来'的末世（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "圣马埃尔",
+      "identity": "近视修士",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "企鹅岛民",
+      "identity": "讽喻人类",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'历代法国社会的长篇讽刺'（B392）。",
+    "施洗误会的原型喜剧（通说待核）。",
+    "'历史'的循环讽喻（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'An extended satire of French society through the ages'（B392）。",
+      "source": "B392"
+    },
+    {
+      "text": "Britannica：1921诺奖（B392 交叉）。",
+      "source": "B392"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "讽喻的历史层次。",
+      "'企鹅'与'人'的镜像。"
+    ],
+    "editions": [
+      "《企鹅岛》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "法朗士讽刺首选；与《诸神渴了》对读。"
+  },
+  "pending": [
+    "圣马埃尔修士细节核对（通说）。",
+    "1908年出版细节待核。",
+    "八卷结构核对（通说）。"
+  ],
+  "sources": [
+    "B392"
+  ],
+  "year_source": "B392",
+  "author_source": "B392",
+  "related_works": [
+    "leiyu",
+    "minzuyishi",
+    "sangeshouqiangshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《企鹅岛》讽喻结构图",
+    "cards": [
+      {
+        "title": "企鹅",
+        "text": "被误认的人类（通说）",
+        "color": "main"
+      },
+      {
+        "title": "施洗",
+        "text": "误会的开端（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "讽刺",
+        "text": "'历代法国社会'（B392）",
+        "color": "family"
+      },
+      {
+        "title": "编年",
+        "text": "八卷的岛史（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "fulandegonglu",
+  "title": "弗兰德公路",
+  "original_title": "La Route des Flandres",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪60年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "csimon",
+  "author_name": "克洛德·西蒙",
+  "year_display": "1960年（Britannica B391：La Route des Flandres (1960)——'his most important work'说）",
+  "year_sort": 1960,
+  "background": [
+    "Britannica（B391）：与 L'Herbe/La Palace/Histoire 构成循环四部——'Many critics consider these novels, especially La Route des Flandres, to be his most important work'。",
+    "Britannica（B391）：风格——'lacking all punctuation and heavy with 1,000-word sentences'——'to capture the very progression of life'。",
+    "Britannica（B391）：西蒙——1940年5月被德军俘、逃脱、参加抵抗运动——1940溃败为其素材（交叉——待核）。"
+  ],
+  "outline": [
+    "（通说待核——B391未载剧情）1940年溃退的骑兵与'德·雷谢尔'的传说。",
+    "（通说待核）'公路'上马匹与人体的'色彩'流。"
+  ],
+  "characters": [
+    {
+      "name": "乔治",
+      "identity": "骑兵/叙述者",
+      "note": "（通说待核，B391未载）"
+    },
+    {
+      "name": "德·雷谢尔",
+      "identity": "旧贵族",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "1940溃败的'色彩'书写（通说待核）。",
+    "'无标点'的意识流（B391）。",
+    "循环四部的人物复现（B391）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1985诺奖（B391）。",
+      "source": "B391"
+    },
+    {
+      "text": "Britannica：'his most important work'说（B391）。",
+      "source": "B391"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'千词长句'（B391）。",
+      "1940年法国溃败史。"
+    ],
+    "editions": [
+      "《弗兰德公路》中译本（漓江/人民文学等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "西蒙代表作；新小说读者首选。"
+  },
+  "pending": [
+    "乔治/德·雷谢尔人名核对（通说）。",
+    "1960年出版细节待核。",
+    "'四部循环'结构核对（B391已载四部名）。"
+  ],
+  "sources": [
+    "B391"
+  ],
+  "year_source": "B391",
+  "author_source": "B391",
+  "related_works": [
+    "zaidiceng",
+    "meiguobuqu",
+    "wuhhaotuchang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《弗兰德公路》溃败色彩图",
+    "cards": [
+      {
+        "title": "公路",
+        "text": "溃败的行军（通说）",
+        "color": "main"
+      },
+      {
+        "title": "千词长句",
+        "text": "'无标点'的意识流（B391）",
+        "color": "gold"
+      },
+      {
+        "title": "循环",
+        "text": "四部的人物复现（B391）",
+        "color": "family"
+      },
+      {
+        "title": "色彩",
+        "text": "马匹与人体（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

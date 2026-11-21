@@ -1,0 +1,68 @@
+{
+  "id": "france",
+  "name": "阿纳托尔·法朗士",
+  "foreign_name": "Anatole France（阿纳托尔·法朗士，原名 Jacques-Anatole-François Thibault，1844-04-16—1924-10-12）",
+  "country": "法国",
+  "birth": 1844,
+  "death": 1924,
+  "birth_year": 1844,
+  "death_year": 1924,
+  "era": "近代",
+  "summary": "法朗士，巴黎生，法国作家——1921年诺贝尔文学奖（B392）。L'Île des Pingouins（企鹅岛, 1908）——'An extended satire of French society through the ages'（历代法国社会的长篇讽刺——B392）。Les Dieux ont soif（诸神渴了, 1912）——'A condemnation of fanaticism set during the French Revolution'（法国大革命中的狂热主义批判——B392）。Crainquebille (1903)——'dramatizes the unjust treatment of a small tradesman'（B392）。1896年入选法兰西学院（B392）；德雷福斯事件使其写作转向社会关怀（B392）。",
+  "timeline": [
+    {
+      "year": 1844,
+      "text": "4月16日生于巴黎（B392）。",
+      "src": "B392"
+    },
+    {
+      "year": 1896,
+      "text": "入选法兰西学院（B392）。",
+      "src": "B392"
+    },
+    {
+      "year": 1908,
+      "text": "《企鹅岛》（B392）。",
+      "src": "B392"
+    },
+    {
+      "year": 1921,
+      "text": "获诺贝尔文学奖（B392）。",
+      "src": "B392"
+    },
+    {
+      "year": 1924,
+      "text": "10月12日卒于Saint-Cyr-sur-Loire（B392）。",
+      "src": "B392"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qiedao",
+      "note": "1908（B392）"
+    },
+    {
+      "title": "诸神渴了",
+      "note": "（B392：Les Dieux ont soif (1912)——中译名待核）"
+    },
+    {
+      "title": "苔依丝",
+      "note": "（B392：Thaïs (1890)）"
+    }
+  ],
+  "style": [
+    "'历代法国社会的长篇讽刺'（B392：Penguin Island）。",
+    "'狂热主义的批判'（B392：The Gods Are Athirst）。",
+    "古典的'优雅'与怀疑主义（作者级语境——通说待核）。"
+  ],
+  "status": "Britannica 定位法朗士为1921诺奖得主、社会关怀转向的古典讽刺家（B392）。",
+  "sources": [
+    "B392"
+  ],
+  "dates_source": "B392",
+  "pending": [
+    "《企鹅岛》通行译名待核。",
+    "德雷福斯事件细节（B392：pro-Dreyfus commitment）待核。",
+    "'法兰西学院'1896年（B392）核对。"
+  ]
+}
