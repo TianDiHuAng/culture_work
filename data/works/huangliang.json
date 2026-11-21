@@ -1,0 +1,101 @@
+{
+  "id": "huangliang",
+  "title": "荒凉",
+  "original_title": "Desolación",
+  "region": "智利",
+  "era": "现当代",
+  "era_detail": "20世纪20年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "gmistral",
+  "author_name": "加夫列拉·米斯特拉尔",
+  "year_display": "1922年（Britannica B343：Desolación (1922)——早期作品集）",
+  "year_sort": 1922,
+  "background": [
+    "Britannica（B343）：Desolación——'A collection of her early works'，含'Dolor'——'detailing the aftermath of a love affair that was ended by the suicide'。",
+    "Britannica（B343）：米斯特拉尔主题——'love of children and of the downtrodden remained her principal themes'；风格——'warmth of feeling and emotional power'。",
+    "Britannica（B343）：1914年以'Sonetos de la muerte'（死亡十四行诗）获智利奖而成名——本集收录其成名期作品。"
+  ],
+  "outline": [
+    "死亡十四行诗：'Sonetos de la muerte'的挽歌体（B343：成名作——篇目收录通说待核）。",
+    "'Dolor'：因自杀而终结的爱恋及其余波（B343）。",
+    "教师之诗：对儿童与底层者的爱（B343）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "教师/诗人",
+      "note": "（B343 教师出身的自传语境）"
+    }
+  ],
+  "themes": [
+    "对孩子的爱（B343：love of children）。",
+    "对底层者的爱（B343：the downtrodden）。",
+    "死亡与哀悼（B343：'Sonetos de la muerte'/'Dolor' 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1945年诺奖——首位拉美得主（B343）。",
+      "source": "B343"
+    },
+    {
+      "text": "Britannica：英译者含 Langston Hughes、Ursula K. Le Guin（B343）。",
+      "source": "B343"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西班牙语美洲诗歌的宗教语调。",
+      "智利北部乡村背景。"
+    ],
+    "editions": [
+      "《荒凉》中译本（人民文学等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "米斯特拉尔首选；后接《塔拉》(1938)。"
+  },
+  "pending": [
+    "'Dolor'篇目细节核对。",
+    "1922年出版（ Instituto de las Españas，纽约说）待核。",
+    "'自杀'事件的传记细节待核（B343未载姓名）。"
+  ],
+  "sources": [
+    "B343"
+  ],
+  "year_source": "B343",
+  "author_source": "B343",
+  "related_works": [
+    "ershishou",
+    "diyuzhiji",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《荒凉》挽歌结构图",
+    "cards": [
+      {
+        "title": "死亡十四行",
+        "text": "成名的挽歌体（B343）",
+        "color": "main"
+      },
+      {
+        "title": "Dolor",
+        "text": "爱之殇（B343）",
+        "color": "antagonist"
+      },
+      {
+        "title": "儿童",
+        "text": "教师的主题（B343）",
+        "color": "gold"
+      },
+      {
+        "title": "荒凉",
+        "text": "情感的暖与痛（B343）",
+        "color": "family"
+      }
+    ]
+  }
+}

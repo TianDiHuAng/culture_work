@@ -1,0 +1,68 @@
+{
+  "id": "gmistral",
+  "name": "加夫列拉·米斯特拉尔",
+  "foreign_name": "Gabriela Mistral（加夫列拉·米斯特拉尔，原名 Lucila Godoy Alcayaga，1889-04-07—1957-01-10）",
+  "country": "智利",
+  "birth": 1889,
+  "death": 1957,
+  "birth_year": 1889,
+  "death_year": 1957,
+  "era": "现当代",
+  "summary": "米斯特拉尔，原名 Lucila Godoy Alcayaga，智利Vicuña生，诗人、教师与外交官——1945年诺贝尔文学奖——'the first Latin American to win the Nobel Prize for Literature'（首位获诺奖的拉美作家——B343）。Desolación（荒凉, 1922）——早期作品集，含'Dolor'——'detailing the aftermath of a love affair that was ended by the suicide'（B343）；Tala（塔拉, 1938）、Lagar（压榨, 1954）——'evidence a broader interest'（B343）。主题：'love of children and of the downtrodden remained her principal themes'（对孩子的爱与对底层者的爱——B343）；风格：'warmth of feeling and emotional power'（B343）。15岁任小学教师，后为教授、教育者、文化部长与外交官（B343）。1914年以'Sonetos de la muerte'成名（B343）。",
+  "timeline": [
+    {
+      "year": 1889,
+      "text": "4月7日生于智利Vicuña（B343）。",
+      "src": "B343"
+    },
+    {
+      "year": 1914,
+      "text": "以'Sonetos de la muerte'（死亡十四行诗）获智利奖，成名（B343）。",
+      "src": "B343"
+    },
+    {
+      "year": 1922,
+      "text": "Desolación（荒凉）——早期作品集（B343）。",
+      "src": "B343"
+    },
+    {
+      "year": 1945,
+      "text": "获诺贝尔文学奖——首位拉美得主（B343）。",
+      "src": "B343"
+    },
+    {
+      "year": 1957,
+      "text": "1月10日卒于纽约州Hempstead（B343）。",
+      "src": "B343"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "huangliang",
+      "note": "1922（B343）"
+    },
+    {
+      "title": "塔拉",
+      "note": "（B343：Tala, 1938——'Destruction'）"
+    },
+    {
+      "title": "母性的诗",
+      "note": "（B343：Ternura (1924, 1945扩；'Tenderness')——中译名待核）"
+    }
+  ],
+  "style": [
+    "'warmth of feeling and emotional power'（B343）。",
+    "死亡十四行诗的挽歌体（B343：'Sonetos de la muerte'）。",
+    "儿童与底层者的主题（B343）。"
+  ],
+  "status": "Britannica 定位米斯特拉尔为首位拉美诺奖得主、教师出身的诗人外交官（B343）。",
+  "sources": [
+    "B343"
+  ],
+  "dates_source": "B343",
+  "pending": [
+    "卒地（纽约州Hempstead——一说长岛）待核。",
+    "Ternura/Lagar 通行中译名待核。",
+    "笔名取自 D'Annunzio 与 Frédéric Mistral 之说仅 B343 口径。"
+  ]
+}

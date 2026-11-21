@@ -1,0 +1,68 @@
+{
+  "id": "reymont",
+  "name": "弗拉迪斯拉夫·莱蒙特",
+  "foreign_name": "Władysław Reymont（弗拉迪斯拉夫·莱蒙特，1867-05-07—1925-12-05）",
+  "country": "波兰",
+  "birth": 1867,
+  "death": 1925,
+  "birth_year": 1867,
+  "death_year": 1925,
+  "era": "近代",
+  "summary": "莱蒙特，俄属波兰Kobiele Wielkie生，波兰小说家——1924年诺贝尔文学奖（B342）。Chłopi（农民, 1904-09）四卷——'a chronicle of peasant life during the four seasons of a year'（四季农事编年——B342）——'Written almost entirely in peasant dialect'（几乎全用农民方言写成——B342）——'won for Reymont the Nobel Prize'（B342）。Ziemia obiecana（福地, 1899）——罗兹纺织工业城（B342）；Rok 1794 三卷（1913-18）——波兰被瓜分初期（B342）。早期农村短篇受自然主义强影响（B342）。",
+  "timeline": [
+    {
+      "year": 1867,
+      "text": "5月7日生于俄属波兰Kobiele Wielkie（B342）。",
+      "src": "B342"
+    },
+    {
+      "year": 1899,
+      "text": "Ziemia obiecana（福地）——罗兹纺织厂主的生活（B342）。",
+      "src": "B342"
+    },
+    {
+      "year": 1904,
+      "text": "《农民》四卷（1904-09）开始出版（B342）。",
+      "src": "B342"
+    },
+    {
+      "year": 1924,
+      "text": "获诺贝尔文学奖（B342：'won for Reymont the Nobel Prize'）。",
+      "src": "B342"
+    },
+    {
+      "year": 1925,
+      "text": "12月5日卒于华沙（B342）。",
+      "src": "B342"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "nongmin",
+      "note": "1904-09四卷（B342）"
+    },
+    {
+      "title": "福地",
+      "note": "（B342：Ziemia obiecana, 1899）"
+    },
+    {
+      "title": "1794年",
+      "note": "（B342：Rok 1794, 1913-18三卷）"
+    }
+  ],
+  "style": [
+    "农民方言的编年体（B342：peasant dialect / chronicle）。",
+    "自然主义的农村书写（B342：早期短篇 the strong influence of Naturalism）。",
+    "工业城市的批判（《福地》——B342 语境）。"
+  ],
+  "status": "Britannica 定位莱蒙特为1924年诺奖得主、《农民》为其获奖之作（B342）。",
+  "sources": [
+    "B342"
+  ],
+  "dates_source": "B342",
+  "pending": [
+    "《农民》四卷书名（秋冬卷次）核对。",
+    "《福地》通行中译名（《福地》/《应许之地》）待核。",
+    "1924诺奖授奖理由细节待核。"
+  ]
+}

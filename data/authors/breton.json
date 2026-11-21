@@ -1,0 +1,73 @@
+{
+  "id": "breton",
+  "name": "安德烈·布勒东",
+  "foreign_name": "André Breton（安德烈·布勒东，1896-02-18—1966-09-28）",
+  "country": "法国",
+  "birth": 1896,
+  "death": 1966,
+  "birth_year": 1896,
+  "death_year": 1966,
+  "era": "现当代",
+  "summary": "布勒东，法国Tinchebray生，诗人与理论家——'chief promoter and one of the founders of the Surrealist movement'（超现实主义运动的主要推动者与创始人之一——B344）。1924年宣言定义超现实主义：'pure psychic automatism, by which it is intended to express…the real process of thought'、'the dictation of thought, free from any control by the reason'——超现实主义'aimed to eliminate the distinction between dream and reality, reason and madness'（B344）。与苏波合著 Les Champs magnétiques（磁场, 1920）——'the first example of the Surrealist technique of automatic writing'（B344）。Nadja（娜佳, 1928）——'merged everyday occurrences with psychological aberrations'（B344）。医学出身、读弗洛伊德（1921年会面）；1935年与共产党决裂；二战流亡美国，1946年返法（B344）。",
+  "timeline": [
+    {
+      "year": 1896,
+      "text": "2月18日生于法国Tinchebray（B344）。",
+      "src": "B344"
+    },
+    {
+      "year": 1919,
+      "text": "与阿拉贡、苏波创办 Littérature 杂志（B344）。",
+      "src": "B344"
+    },
+    {
+      "year": 1924,
+      "text": "《超现实主义宣言》——运动的正式定义（B344）。",
+      "src": "B344"
+    },
+    {
+      "year": 1928,
+      "text": "Nadja（娜佳）出版（B344）。",
+      "src": "B344"
+    },
+    {
+      "year": 1942,
+      "text": "流亡美国期间组织耶鲁超现实主义展并发表第三宣言（B344）。",
+      "src": "B344"
+    },
+    {
+      "year": 1966,
+      "text": "9月28日卒于巴黎（B344）。",
+      "src": "B344"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "najia",
+      "note": "1928（B344）"
+    },
+    {
+      "title": "磁场",
+      "note": "（B344：Les Champs magnétiques, 1920——与苏波合著）"
+    },
+    {
+      "title": "疯狂的爱",
+      "note": "（B344：L'Amour fou (1937; Mad Love)——中译名待核）"
+    }
+  ],
+  "style": [
+    "自动写作（B344：automatic writing）。",
+    "梦与现实边界的消除（B344）。",
+    "宣言体的理论写作（B344：1924/1930两宣言）。"
+  ],
+  "status": "Britannica 定位布勒东为超现实主义运动的首席推动者（B344）。",
+  "sources": [
+    "B344"
+  ],
+  "dates_source": "B344",
+  "pending": [
+    "Nadja 中译名（《娜佳》/《娜嘉》）待核。",
+    "1921年弗洛伊德会面细节（维也纳说）待核。",
+    "宣言通行译本细节待核。"
+  ]
+}

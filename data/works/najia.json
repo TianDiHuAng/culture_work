@@ -1,0 +1,105 @@
+{
+  "id": "najia",
+  "title": "娜佳",
+  "original_title": "Nadja",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪20年代",
+  "genre": "小说（自传性散文）",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "breton",
+  "author_name": "安德烈·布勒东",
+  "year_display": "1928年（Britannica B344：Nadja (1928)）",
+  "year_sort": 1928,
+  "background": [
+    "Britannica（B344）：Nadja——'merged everyday occurrences with psychological aberrations'（把日常事件与心理异象熔为一体）。",
+    "Britannica（B344）：布勒东为超现实主义'chief promoter and one of the founders'；1924宣言定义'pure psychic automatism'。",
+    "题材（通说待核）：'我'与神秘女子娜佳在巴黎街头相遇——疯癫与诗意的边界。"
+  ],
+  "outline": [
+    "巴黎街头的日常相遇与'心理异象'的交织（B344：everyday occurrences...psychological aberrations）。",
+    "娜佳其人（原型说通说待核）：谵妄中的'自由精灵'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "叙述者",
+      "note": "（B344 自传性语境）"
+    },
+    {
+      "name": "娜佳",
+      "identity": "神秘女子",
+      "note": "（B344 书名人物）"
+    }
+  ],
+  "themes": [
+    "梦与现实的边界消除（B344：eliminate the distinction between dream and reality）。",
+    "自动写作的叙事化（B344：automatic writing）。",
+    "谵妄与诗意（B344：psychological aberrations 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：超现实主义运动的核心文本之一（B344 定位）。",
+      "source": "B344"
+    },
+    {
+      "text": "Britannica：'merged everyday occurrences with psychological aberrations'（B344）。",
+      "source": "B344"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "超现实主义术语（自动写作/客体）。",
+      "1920年代巴黎的先锋派圈层。"
+    ],
+    "editions": [
+      "《娜佳》中译名（《娜佳》/《娜嘉》）——通说待核。",
+      "法文原版。"
+    ],
+    "order": "布勒东首选；配合《超现实主义宣言》阅读。"
+  },
+  "pending": [
+    "娜佳原型（Jacquina Roque说/其他）待核。",
+    "1928年初版与1963年修订版差异待核。",
+    "人物照片插入的'档案性'细节待核。"
+  ],
+  "sources": [
+    "B344"
+  ],
+  "year_source": "B344",
+  "author_source": "B344",
+  "related_works": [
+    "diyuzhiji",
+    "toutougeonv",
+    "kanbujian3"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《娜佳》谵妄结构图",
+    "cards": [
+      {
+        "title": "娜佳",
+        "text": "'自由精灵'（通说）",
+        "color": "main"
+      },
+      {
+        "title": "巴黎街头",
+        "text": "日常与异象（B344）",
+        "color": "gold"
+      },
+      {
+        "title": "自动写作",
+        "text": "超现实主义方法（B344）",
+        "color": "family"
+      },
+      {
+        "title": "谵妄",
+        "text": "疯癫与诗意（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

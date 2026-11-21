@@ -1,0 +1,105 @@
+{
+  "id": "nongmin",
+  "title": "农民",
+  "original_title": "Chłopi",
+  "region": "波兰",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说（四卷）",
+  "genre_group": "小说",
+  "language": "波兰语",
+  "author_id": "reymont",
+  "author_name": "弗拉迪斯拉夫·莱蒙特",
+  "year_display": "1904-09年（Britannica B342：Chłopi 四卷出版——'won for Reymont the Nobel Prize'）",
+  "year_sort": 1904,
+  "background": [
+    "Britannica（B342）：Chłopi（农民, 1904-09）四卷——'a chronicle of peasant life during the four seasons of a year'（一年四季农民生活的编年）。",
+    "Britannica（B342）：'Written almost entirely in peasant dialect'——几乎全用农民方言写成。",
+    "Britannica（B342）：'won for Reymont the Nobel Prize'——1924年诺奖之获奖作。"
+  ],
+  "outline": [
+    "四季结构：秋、冬、春、夏的村庄编年（卷次对应通说待核——B342未载卷名）。",
+    "热乌雷莫村：土地、婚姻与教堂的政治（村名与情节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "安蒂克",
+      "identity": "青年农民",
+      "note": "（通说待核，B342未载）"
+    },
+    {
+      "name": "波瑞娜",
+      "identity": "安蒂克之妻",
+      "note": "（通说待核，B342未载）"
+    }
+  ],
+  "themes": [
+    "四季农事的编年体（B342）。",
+    "方言书写的农民史诗（B342：peasant dialect）。",
+    "土地与婚姻的政治（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'won for Reymont the Nobel Prize'（B342）。",
+      "source": "B342"
+    },
+    {
+      "text": "Britannica：1973年拍成电影（B342：filmed 1973）。",
+      "source": "B342"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "方言译本的失落感。",
+      "波兰乡村的教会与家族结构。"
+    ],
+    "editions": [
+      "《农民》中译本（人民文学等——通说待核）。",
+      "波兰文原版。"
+    ],
+    "order": "波兰小说首选；可后接《福地》。"
+  },
+  "pending": [
+    "四季卷名（秋/冬/春/夏）核对（B342未载卷次名）。",
+    "安蒂克/波瑞娜人名核对（B342未载）。",
+    "热乌雷莫村名待核。"
+  ],
+  "sources": [
+    "B342"
+  ],
+  "year_source": "B342",
+  "author_source": "B342",
+  "related_works": [
+    "beijingudetounao",
+    "niwanghechuqu",
+    "qieelvxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《农民》四季结构图",
+    "cards": [
+      {
+        "title": "四季",
+        "text": "农事编年（B342）",
+        "color": "family"
+      },
+      {
+        "title": "方言",
+        "text": "农民的语言（B342）",
+        "color": "gold"
+      },
+      {
+        "title": "土地",
+        "text": "村庄的政治（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "诺奖",
+        "text": "1924（B342）",
+        "color": "main"
+      }
+    ]
+  }
+}
