@@ -1,0 +1,105 @@
+{
+  "id": "gushiji",
+  "title": "故事集",
+  "original_title": "Racconti",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪60年代（死后出版）",
+  "genre": "短篇集（死后）",
+  "genre_group": "故事集",
+  "language": "意大利语",
+  "author_id": "lampedusa",
+  "author_name": "朱塞佩·托马西·迪·兰佩杜萨",
+  "year_display": "1961年（Britannica B349：Racconti ('Stories', 1961, posthumous)——含未完成长篇首章与自传短篇——部分译为 Two Stories and a Memory (1962)）",
+  "year_sort": 1961,
+  "background": [
+    "Britannica（B349）：Racconti (1961, posthumous)——'includes an unfinished novel's first chapter and a short memoir'——部分译为 Two Stories and a Memory (1962)。",
+    "Britannica（B349）：兰佩杜萨——《豹》作者——'only completed novel'。",
+    "题材（通说待核）：《利高雷塔》与《教授与美人鱼》等——猫与孤儿的短篇。"
+  ],
+  "outline": [
+    "（通说待核）《利高雷塔》：小孤儿与黑猫的故事。",
+    "（通说待核）未完成长篇的首章（I gioielli说——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "利高雷塔",
+      "identity": "黑猫",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "孤女",
+      "identity": "短篇主角",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'死后出版'的遗珠（B349）。",
+    "猫与孤儿的寓言（通说待核）。",
+    "西西里的挽歌（B349 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Racconti (1961, posthumous)（B349）。",
+      "source": "B349"
+    },
+    {
+      "text": "Britannica：《豹》为'only completed novel'（B349 交叉）。",
+      "source": "B349"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "遗稿的编定。",
+      "'猫'的寓言调子。"
+    ],
+    "editions": [
+      "《故事集》中译名（《兰佩杜萨短篇集》）待核。",
+      "意大利文原版。"
+    ],
+    "order": "《豹》后的补篇。"
+  },
+  "pending": [
+    "篇目（利高雷塔/教授与美人鱼说）核对（通说）。",
+    "1961年出版（Feltrinelli说）待核。",
+    "未完成长篇名待核。"
+  ],
+  "sources": [
+    "B349"
+  ],
+  "year_source": "B349",
+  "author_source": "B349",
+  "related_works": [
+    "bao",
+    "mingnuzhuan",
+    "xinnuofusuobaken"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《故事集》遗珠结构图",
+    "cards": [
+      {
+        "title": "遗珠",
+        "text": "死后的出版（B349）",
+        "color": "gold"
+      },
+      {
+        "title": "利高雷塔",
+        "text": "猫的寓言（通说）",
+        "color": "main"
+      },
+      {
+        "title": "孤儿",
+        "text": "短篇的孩子（通说）",
+        "color": "family"
+      },
+      {
+        "title": "西西里",
+        "text": "挽歌的调子（B349语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

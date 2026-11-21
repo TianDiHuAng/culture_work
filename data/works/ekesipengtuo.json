@@ -1,0 +1,100 @@
+{
+  "id": "ekesipengtuo",
+  "title": "埃克蓬托",
+  "original_title": "Ex Ponto",
+  "region": "南斯拉夫",
+  "era": "近代",
+  "era_detail": "20世纪10年代末",
+  "genre": "散文诗集",
+  "genre_group": "散文",
+  "language": "塞尔维亚-克罗地亚语",
+  "author_id": "andric",
+  "author_name": "伊沃·安德里奇",
+  "year_display": "1918年（Britannica B376：Ex Ponto (1918)——'a contemplative, lyrical prose work written during his internment by Austro-Hungarian authorities'）",
+  "year_sort": 1918,
+  "background": [
+    "Britannica（B376）：Ex Ponto——'a contemplative, lyrical prose work written during his internment by Austro-Hungarian authorities'（一战奥匈拘禁期的沉思散文）。",
+    "Britannica（B376）：'His works are written soberly, in language of great beauty and purity.'",
+    "题材（通说待核）：拘禁期的信札式散文——母亲的祈祷与'波'的意象。"
+  ],
+  "outline": [
+    "（通说待核）拘禁中的信札：致母亲与故人。",
+    "（通说待核）'埃克蓬托'：海之外的罗马地名（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "拘禁者'我'",
+      "identity": "写信人",
+      "note": "（B376 语境）"
+    }
+  ],
+  "themes": [
+    "拘禁的沉思（B376：contemplative, lyrical）。",
+    "'优美纯净的语言'（B376）。",
+    "母与海的意象（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a contemplative, lyrical prose work'（B376）。",
+      "source": "B376"
+    },
+    {
+      "text": "Britannica：1961诺奖（B376 交叉）。",
+      "source": "B376"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "信札散文的文体。",
+      "一战拘禁史。"
+    ],
+    "editions": [
+      "《埃克蓬托》中译名（《异乡人》）待核。",
+      "塞尔维亚-克罗地亚语原版（公有领域）。"
+    ],
+    "order": "安德里奇起点；与《德里纳河上的桥》对读。"
+  },
+  "pending": [
+    "'埃克蓬托'地名含义核对（通说）。",
+    "1918年出版细节待核。",
+    "信札收件人核对（通说）。"
+  ],
+  "sources": [
+    "B376"
+  ],
+  "year_source": "B376",
+  "author_source": "B376",
+  "related_works": [
+    "derinahe",
+    "telafunikejishi",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《埃克蓬托》拘禁沉思图",
+    "cards": [
+      {
+        "title": "拘禁",
+        "text": "一战的海岸（B376）",
+        "color": "antagonist"
+      },
+      {
+        "title": "信札",
+        "text": "沉思的散文（B376）",
+        "color": "main"
+      },
+      {
+        "title": "母亲",
+        "text": "祈祷的远方（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "纯净",
+        "text": "'优美'的语言（B376）",
+        "color": "family"
+      }
+    ]
+  }
+}

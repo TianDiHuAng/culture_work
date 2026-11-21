@@ -1,0 +1,105 @@
+{
+  "id": "ganbugou",
+  "title": "干谷",
+  "original_title": "干谷",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语",
+  "author_id": "shencongwen",
+  "author_name": "沈从文",
+  "year_display": "作者页注记：Britannica 语境（湘西短篇——年份通说待核）",
+  "year_sort": 1930,
+  "background": [
+    "作者页注记：干谷——'（Britannica 语境——湘西短篇）'——篇目口径待核。",
+    "Britannica：沈从文——京派小说家（作者页语境）。",
+    "题材（通说待核）：湘西的少女与隐士——'干谷'的静与火。"
+  ],
+  "outline": [
+    "（通说待核）干谷的隐居者与白耳一族。",
+    "（通说待核）'火'与'静'的湘西辩证。"
+  ],
+  "characters": [
+    {
+      "name": "幺幺",
+      "identity": "少女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "隐士",
+      "identity": "谷中人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "湘西的'干谷'（书名语境——通说待核）。",
+    "少女与隐士（通说待核）。",
+    "'水'与'火'的意象（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：沈从文短篇传统（作者页语境——待核）。",
+      "source": "C008"
+    },
+    {
+      "text": "Britannica：《边城》为代表作（作者页交叉）。",
+      "source": "C008"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "湘西口语与文言的混合。",
+      "'干谷'的地名虚构。"
+    ],
+    "editions": [
+      "《干谷》（人民文学出版社《沈从文全集》等——通说待核）。",
+      "1930年代刊物发表说待核。"
+    ],
+    "order": "沈从文短篇侧选；与《边城》对读。"
+  },
+  "pending": [
+    "篇目归属核对（'干谷'是否为沈作——通说待核）。",
+    "发表年份与刊物待核。",
+    "人物名核对（通说）。"
+  ],
+  "sources": [
+    "C008"
+  ],
+  "year_source": "C008",
+  "author_source": "C008",
+  "related_works": [
+    "biancheng",
+    "bianshanchi",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《干谷》湘西辩证图",
+    "cards": [
+      {
+        "title": "干谷",
+        "text": "静的谷（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "少女",
+        "text": "火的注视（通说）",
+        "color": "main"
+      },
+      {
+        "title": "隐士",
+        "text": "谷中的时代（通说）",
+        "color": "family"
+      },
+      {
+        "title": "湘西",
+        "text": "水的世界（作者页语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

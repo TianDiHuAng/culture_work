@@ -1,0 +1,105 @@
+{
+  "id": "datangtangdelibaozha",
+  "title": "大教堂里的爆炸",
+  "original_title": "El siglo de las luces",
+  "region": "古巴",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "历史小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "carpentier",
+  "author_name": "阿莱霍·卡彭铁尔",
+  "year_display": "1962年（作者页注记：Britannica——Explosion in a Cathedral (1962)——历史小说——'prompted Nobel Prize calls that never materialized'）",
+  "year_sort": 1962,
+  "background": [
+    "作者页注记：大教堂里的爆炸——'（Britannica：Explosion in a Cathedral (1962)——历史小说 on the French Revolution's impact on the Caribbean——'prompted Nobel Prize calls that never materialized'）'。",
+    "Britannica（B373）：卡彭铁尔——'marvelous American reality'。",
+    "题材（通说待核）：加勒比与法国大革命——'启蒙的世纪'的爆炸。"
+  ],
+  "outline": [
+    "（通说待核）哈瓦那三姐弟与维克多·于格斯的远征。",
+    "（通说待核）'启蒙'的火与大教堂的爆炸。"
+  ],
+  "characters": [
+    {
+      "name": "维克多·于格斯",
+      "identity": "法国使节",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "索菲亚",
+      "identity": "姐姐",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "法国大革命冲击加勒比（B注记）。",
+    "'启蒙的世纪'的反讽（书名直译——通说待核）。",
+    "历史与'神奇'（B373 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'prompted Nobel Prize calls'（作者页注记）。",
+      "source": "B373"
+    },
+    {
+      "text": "Britannica：魔幻现实主义定位（B373 交叉）。",
+      "source": "B373"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "加勒比革命史。",
+      "'巴洛克'句法（通说待核）。"
+    ],
+    "editions": [
+      "《大教堂里的爆炸》中译名（《启蒙世纪》）待核。",
+      "西班牙文原版。"
+    ],
+    "order": "卡彭铁尔历史篇；与《这个世界的王国》对读。"
+  },
+  "pending": [
+    "于格斯/索菲亚人名核对（通说）。",
+    "1962年出版细节待核。",
+    "'诺奖呼声'说核对（作者页注记）。"
+  ],
+  "sources": [
+    "B373"
+  ],
+  "year_source": "B373",
+  "author_source": "B373",
+  "related_works": [
+    "zhegeshijiedewanguo",
+    "xiaoyindejiti",
+    "sangeshouqiangshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《大教堂里的爆炸》革命火种图",
+    "cards": [
+      {
+        "title": "爆炸",
+        "text": "启蒙的火（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "加勒比",
+        "text": "革命的航路（通说）",
+        "color": "main"
+      },
+      {
+        "title": "于格斯",
+        "text": "远征的使节（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "巴洛克",
+        "text": "句法的火药（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

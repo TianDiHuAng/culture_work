@@ -1,0 +1,100 @@
+{
+  "id": "shenghuodedesu",
+  "title": "生活的艺术",
+  "original_title": "The Importance of Living",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "文化论著",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "linyutang",
+  "author_name": "林语堂",
+  "year_display": "1937年（作者页注记：Britannica——生活的艺术 (1937)——'英文中国介绍'）",
+  "year_sort": 1937,
+  "background": [
+    "作者页注记：生活的艺术 (1937)——'英文中国介绍（Britannica）'（与《吾国与吾民》1935 并列）。",
+    "Britannica：林语堂——向西方介绍中国的作家（作者页语境）。",
+    "题材（通说待核）：'闲适哲学'——躺椅、茶与烟的'生活的艺术'。"
+  ],
+  "outline": [
+    "（通说待核）'醒觉'与'人类的快乐'诸章。",
+    "（通说待核）'闲适'与'玩物'的辩护。"
+  ],
+  "characters": [
+    {
+      "name": "（文化论著无人物）",
+      "identity": "——",
+      "note": "文化随笔"
+    }
+  ],
+  "themes": [
+    "'闲适哲学'（通说待核）。",
+    "'英文中国介绍'（B注记）。",
+    "茶、烟与躺椅的仪式（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'英文中国介绍'（作者页注记）。",
+      "source": "B112"
+    },
+    {
+      "text": "Britannica：林语堂《吾国与吾民》（作者页交叉）。",
+      "source": "B112"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "英文的'闲适'语体。",
+      "中国生活细节的英译。"
+    ],
+    "editions": [
+      "《生活的艺术》（湖南文艺等——通说待核）。",
+      "1937年Reynal & Hitchcock说待核。"
+    ],
+    "order": "林语堂英文第二作；与《吾国与吾民》对读。"
+  },
+  "pending": [
+    "1937年出版细节待核。",
+    "章节结构核对（通说）。",
+    "'美国畅销榜'说（通说）待核。"
+  ],
+  "sources": [
+    "B112"
+  ],
+  "year_source": "B112",
+  "author_source": "B112",
+  "related_works": [
+    "wuguoyuwumin",
+    "gududemigong",
+    "rensheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《生活的艺术》闲适结构图",
+    "cards": [
+      {
+        "title": "闲适",
+        "text": "生活的哲学（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "茶与烟",
+        "text": "日常的仪式（通说）",
+        "color": "main"
+      },
+      {
+        "title": "英文",
+        "text": "世界的读者（B注记）",
+        "color": "family"
+      },
+      {
+        "title": "躺椅",
+        "text": "'快活'的姿势（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

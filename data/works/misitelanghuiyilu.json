@@ -1,0 +1,100 @@
+{
+  "id": "misitelanghuiyilu",
+  "title": "米斯特拉尔回忆录",
+  "original_title": "Moun espelido（Mes origines）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "回忆录",
+  "genre_group": "散文",
+  "language": "奥克语（普罗旺斯语）",
+  "author_id": "fmistral",
+  "author_name": "弗雷德里克·米斯特拉尔",
+  "year_display": "1906年（Britannica B362：Moun espelido（Mes origines, 1906; Memoirs of Mistral）——'his best-known work'）",
+  "year_sort": 1906,
+  "background": [
+    "Britannica（B362）：Moun espelido——'his best-known work'（其最知名之作）。",
+    "Britannica（B362）：米斯特拉尔——1904诺奖；Félibrige 创始人。",
+    "题材（通说待核）：'我的镜子'（Moun espelido 直译）——童年、Félibrige 与语志业。"
+  ],
+  "outline": [
+    "（通说待核）'我的镜子'：马亚纳的童年与语言觉醒。",
+    "（通说待核）'Félibrige'七人组（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "米斯特拉尔",
+      "identity": "回忆者",
+      "note": "（B362 语境）"
+    }
+  ],
+  "themes": [
+    "'我的镜子'（书名直译——通说待核）。",
+    "语言复兴的自述（B362：Félibrige）。",
+    "诺奖资金的博物馆（B362 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his best-known work'（B362）。",
+      "source": "B362"
+    },
+    {
+      "text": "Britannica：1904诺奖（B362 交叉）。",
+      "source": "B362"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "奥克语自述（读译本）。",
+      "'Félibrige'的史。"
+    ],
+    "editions": [
+      "《米斯特拉尔回忆录》中译名（《我的出身》）待核。",
+      "奥克语原版（公有领域）。"
+    ],
+    "order": "米斯特拉尔自传；与《米蕾伊》对读。"
+  },
+  "pending": [
+    "'Moun espelido'直译（我的镜子）核对。",
+    "1906年出版细节待核。",
+    "'七人组'细节待核。"
+  ],
+  "sources": [
+    "B362"
+  ],
+  "year_source": "B362",
+  "author_source": "B362",
+  "related_works": [
+    "mileiyi",
+    "luonhezhege",
+    "yigenanzhidewei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《米斯特拉尔回忆录》镜子结构图",
+    "cards": [
+      {
+        "title": "镜子",
+        "text": "'我的出身'（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "马亚纳",
+        "text": "童年的村（B362）",
+        "color": "main"
+      },
+      {
+        "title": "Félibrige",
+        "text": "复兴的社团（B362）",
+        "color": "family"
+      },
+      {
+        "title": "语言",
+        "text": "普罗旺斯的业（B362）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

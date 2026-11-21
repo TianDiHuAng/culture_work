@@ -1,0 +1,100 @@
+{
+  "id": "kuangrezhe",
+  "title": "狂热者",
+  "original_title": "Die Schwärmer",
+  "region": "奥地利",
+  "era": "近代",
+  "era_detail": "20世纪20年代初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "musil",
+  "author_name": "罗伯特·穆齐尔",
+  "year_display": "1920年（Britannica B353：Die Schwärmer (1920; The Enthusiasts)——'were performed in Berlin and Vienna'——中译名待核）",
+  "year_sort": 1920,
+  "background": [
+    "Britannica（B353）：Die Schwärmer——'a play'——'were performed in Berlin and Vienna'（柏林维也纳上演）。",
+    "Britannica（B353）：穆齐尔——'monumental unfinished novel'（《没有个性的人》）作者（交叉）。",
+    "题材（通说待核）：'狂热者'的对话剧——理性与狂热的舞台实验。"
+  ],
+  "outline": [
+    "（通说待核）'对话体'的舞台：理性与激情的辩者。",
+    "（通说待核）'狂热者'的群像（人物通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "辩者群像",
+      "identity": "——",
+      "note": "（通说待核，B353未载）"
+    }
+  ],
+  "themes": [
+    "'狂热'与理性（书名语境——通说待核）。",
+    "对话剧的形式（B353：a play）。",
+    "《没有个性的人》的前奏（B353 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'were performed in Berlin and Vienna'（B353）。",
+      "source": "B353"
+    },
+    {
+      "text": "Britannica：穆齐尔巨著（B353 交叉）。",
+      "source": "B353"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "对话剧的抽象。",
+      "维也纳文化圈（通说待核）。"
+    ],
+    "editions": [
+      "《狂热者》中译名（《狂热者们》）待核。",
+      "德文原版（公有领域状态待核）。"
+    ],
+    "order": "穆齐尔戏剧侧写；与《没有个性的人》对读。"
+  },
+  "pending": [
+    "1920年上演细节待核。",
+    "人物与结构核对（通说）。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B353"
+  ],
+  "year_source": "B353",
+  "author_source": "B353",
+  "related_works": [
+    "meiyougexingderen",
+    "zenodeyishi",
+    "shengriwanhui"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《狂热者》对话结构图",
+    "cards": [
+      {
+        "title": "狂热",
+        "text": "理性的舞台（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "对话剧",
+        "text": "辩者的群像（通说）",
+        "color": "main"
+      },
+      {
+        "title": "柏林维也纳",
+        "text": "上演的城市（B353）",
+        "color": "family"
+      },
+      {
+        "title": "前奏",
+        "text": "巨著的预演（B353交叉）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

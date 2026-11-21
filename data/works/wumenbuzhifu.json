@@ -1,0 +1,105 @@
+{
+  "id": "wumenbuzhifu",
+  "title": "我们不能付钱？我们不付！",
+  "original_title": "Non si paga, non si paga!",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪70年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "意大利语",
+  "author_id": "dariofo",
+  "author_name": "达里奥·福",
+  "year_display": "1974年（Britannica B383：We Can't Pay? We Won't Pay! (Non si paga, non si paga!)）",
+  "year_sort": 1974,
+  "background": [
+    "Britannica（B383）：We Can't Pay? We Won't Pay! (1974)——剧作列表。",
+    "Britannica（B383）：福——'a theatrical caricaturist with a flair for social agitation'。",
+    "题材（通说待核）：物价暴涨的'自助'超市——两个主妇的'掏空'与藏匿。"
+  ],
+  "outline": [
+    "（通说待核）'不付钱'的超市行动与藏匿的 goods。",
+    "（通说待核）警察的搜寻与'怀孕'的假肚。"
+  ],
+  "characters": [
+    {
+      "name": "安东尼娅",
+      "identity": "主妇",
+      "note": "（通说待核，B383未载）"
+    },
+    {
+      "name": "乔瓦娜",
+      "identity": "主妇",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'不付钱'的抗议（书名语境——通说待核）。",
+    "物价与家庭（通说待核）。",
+    "commedia dell'arte 的当代（B383 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：We Can't Pay? We Won't Pay! (1974)（B383）。",
+      "source": "B383"
+    },
+    {
+      "text": "Britannica：1997诺奖（B383 交叉）。",
+      "source": "B383"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "闹剧的节奏。",
+      "1970年代意大利物价。"
+    ],
+    "editions": [
+      "《我们不能付钱？我们不付！》中译名（《拒不付账》）待核。",
+      "意大利文原版。"
+    ],
+    "order": "达里奥·福喜剧首选；与《意外死亡》对读。"
+  },
+  "pending": [
+    "安东尼娅/乔瓦娜人名核对（通说）。",
+    "1974年首演细节待核。",
+    "'自助'超市细节待核。"
+  ],
+  "sources": [
+    "B383"
+  ],
+  "year_source": "B383",
+  "author_source": "B383",
+  "related_works": [
+    "yigewuzhengfuzhisi",
+    "huajishenmiju",
+    "richu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我们不付钱》超市抗议图",
+    "cards": [
+      {
+        "title": "不付钱",
+        "text": "物价的反抗（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "主妇",
+        "text": "藏匿的肚子（通说）",
+        "color": "main"
+      },
+      {
+        "title": "警察",
+        "text": "搜查的闹剧（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "超市",
+        "text": "'自助'的反转（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
