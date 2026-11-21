@@ -1,0 +1,105 @@
+{
+  "id": "shengriwanhui",
+  "title": "生日晚会",
+  "original_title": "The Birthday Party",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代末",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "pinter",
+  "author_name": "哈罗德·品特",
+  "year_display": "1958年（Britannica B385：The Birthday Party——1958首演——'puzzled the London audiences and lasted only a week'）",
+  "year_sort": 1958,
+  "background": [
+    "Britannica（B385）：首部多幕剧——'puzzled the London audiences and lasted only a week'——确立'comedy of menace'（威胁的喜剧）。",
+    "Britannica（B385）：'disjointed and oddly ambivalent conversation that is punctuated by resonant silences'——'Pinteresque'。",
+    "题材（通说待核）：海滨寄宿屋的生日聚会——两个'来客'与斯坦利的审讯。"
+  ],
+  "outline": [
+    "（通说待核）戈德堡与麦卡恩的'审讯'：生日庆典的颠倒。",
+    "（通说待核）梅格的'生日'与斯坦利的崩解。"
+  ],
+  "characters": [
+    {
+      "name": "斯坦利",
+      "identity": "寄宿者/前钢琴师",
+      "note": "（通说待核，B385未载）"
+    },
+    {
+      "name": "戈德堡",
+      "identity": "来客",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'威胁的喜剧'（B385：comedy of menace）。",
+    "'共鸣的沉默'（B385：resonant silences）。",
+    "身份的审讯（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'comedy of menace'的确立（B385）。",
+      "source": "B385"
+    },
+    {
+      "text": "Britannica：2005诺奖（B385 交叉）。",
+      "source": "B385"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'沉默'的读法。",
+      "'威胁'的日常化。"
+    ],
+    "editions": [
+      "《生日晚会》中译名（《生日聚会》）待核。",
+      "英文原版。"
+    ],
+    "order": "品特首选；后接《看管人》《背叛》。"
+  },
+  "pending": [
+    "斯坦利/戈德堡人名核对（通说）。",
+    "1958年首演（Lyric Hammersmith说）待核。",
+    "'一剧一周'细节核对（B385已载）。"
+  ],
+  "sources": [
+    "B385"
+  ],
+  "year_source": "B385",
+  "author_source": "B385",
+  "related_works": [
+    "dengdaigou",
+    "toutougeonv",
+    "yizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《生日晚会》威胁结构图",
+    "cards": [
+      {
+        "title": "生日",
+        "text": "颠倒的庆典（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "来客",
+        "text": "审讯的威胁（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "沉默",
+        "text": "'共鸣的沉默'（B385）",
+        "color": "main"
+      },
+      {
+        "title": "寄宿屋",
+        "text": "海滨的盒子（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pinter",
+  "name": "哈罗德·品特",
+  "foreign_name": "Harold Pinter（哈罗德·品特，1930-10-10—2008-12-24）",
+  "country": "英国",
+  "birth": 1930,
+  "death": 2008,
+  "birth_year": 1930,
+  "death_year": 2008,
+  "era": "现当代",
+  "summary": "品特，伦敦东区（犹太裁缝之子）生，英国剧作家——2005年诺贝尔文学奖（B385）；2007法国荣誉军团骑士（B385）。The Birthday Party（生日晚会, 1958）——首部多幕剧——'puzzled the London audiences and lasted only a week'——确立'comedy of menace'（威胁的喜剧——B385）。The Caretaker (1960)——'secured his reputation'（B385）。Betrayal (1978)（B385）。'understatement, small talk, reticence—and even silence'；'disjointed and oddly ambivalent conversation that is punctuated by resonant silences'；'Pinteresque'（B385）。流派：荒诞派（B385）。",
+  "timeline": [
+    {
+      "year": 1930,
+      "text": "10月10日生于伦敦（B385）。",
+      "src": "B385"
+    },
+    {
+      "year": 1958,
+      "text": "《生日晚会》首演——仅演一周，后成经典（B385）。",
+      "src": "B385"
+    },
+    {
+      "year": 1960,
+      "text": "The Caretaker——声誉确立（B385）。",
+      "src": "B385"
+    },
+    {
+      "year": 2005,
+      "text": "获诺贝尔文学奖（B385）。",
+      "src": "B385"
+    },
+    {
+      "year": 2008,
+      "text": "12月24日卒于伦敦（B385）。",
+      "src": "B385"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shengriwanhui",
+      "note": "1958（B385）"
+    },
+    {
+      "title": "看管人",
+      "note": "（B385：The Caretaker (1960)——中译名待核）"
+    },
+    {
+      "title": "背叛",
+      "note": "（B385：Betrayal (1978)）"
+    }
+  ],
+  "style": [
+    "'威胁的喜剧'（B385：comedy of menace）。",
+    "'轻描淡写、闲谈、缄默——甚至沉默'（B385）。",
+    "'Pinteresque'：'共鸣的沉默'点断的对话（B385）。"
+  ],
+  "status": "Britannica 定位品特为2005诺奖得主、荒诞派'沉默'戏剧的代表（B385）。",
+  "sources": [
+    "B385"
+  ],
+  "dates_source": "B385",
+  "pending": [
+    "《生日晚会》通行译名（《生日聚会》）待核。",
+    "'comedy of menace'术语出处（Esslin说——通说待核）。",
+    "电影剧本清单细节（B385已载）核对。"
+  ]
+}
