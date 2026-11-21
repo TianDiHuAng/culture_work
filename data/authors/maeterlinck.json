@@ -1,0 +1,68 @@
+{
+  "id": "maeterlinck",
+  "name": "莫里斯·梅特林克",
+  "foreign_name": "Maurice Maeterlinck（莫里斯·梅特林克，1862-08-29—1949-05-06）",
+  "country": "比利时",
+  "birth": 1862,
+  "death": 1949,
+  "birth_year": 1862,
+  "death_year": 1949,
+  "era": "近代",
+  "summary": "梅特林克，根特生，比利时剧作家——1911年诺贝尔文学奖（B372）。Pelléas et Mélisande（佩利亚斯与梅丽桑德, 1892）——'the unquestioned masterpiece of Symbolist drama'（象征主义戏剧无可争议的杰作——B372）——启德彪西1902年歌剧（B372）。L'Oiseau bleu（青鸟, 1908）——'allegorical fantasy conceived as a play for children'——1908年莫斯科艺术剧院首演——Tyltyl与Mytyl寻找'幸福的青鸟，却发现它就在自家后院'（B372）。影响霍夫曼斯塔尔、叶芝、辛格与奥尼尔——'no Belgian dramatist had greater effect on worldwide audiences'（B372）。",
+  "timeline": [
+    {
+      "year": 1862,
+      "text": "8月29日生于根特（B372）。",
+      "src": "B372"
+    },
+    {
+      "year": 1892,
+      "text": "Pelléas et Mélisande——象征主义戏剧杰作（B372）。",
+      "src": "B372"
+    },
+    {
+      "year": 1908,
+      "text": "L'Oiseau bleu——莫斯科艺术剧院首演（B372）。",
+      "src": "B372"
+    },
+    {
+      "year": 1911,
+      "text": "获诺贝尔文学奖（B372）。",
+      "src": "B372"
+    },
+    {
+      "year": 1949,
+      "text": "5月6日卒于尼斯（B372）。",
+      "src": "B372"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qingniao",
+      "note": "1908（B372）"
+    },
+    {
+      "work_id": "peiliyasi",
+      "note": "1892（B372）"
+    },
+    {
+      "title": "蜜蜂的生活",
+      "note": "（B372：La Vie des abeilles (1901)）"
+    }
+  ],
+  "style": [
+    "象征主义戏剧（B372：Symbolist drama）。",
+    "'无可救药的忧郁与厄运'的氛围（B372：hopeless melancholy and doom）。",
+    "寓意童话剧（B372：allegorical fantasy）。"
+  ],
+  "status": "Britannica 定位梅特林克为1911诺奖得主、象征主义戏剧宗师、影响世界剧坛的比利时作家（B372）。",
+  "sources": [
+    "B372"
+  ],
+  "dates_source": "B372",
+  "pending": [
+    "《青鸟》通行译名核对。",
+    "'伯爵'封号（1932——B372）细节待核。",
+    "'静止戏剧'（static drama）术语待核（B372未载）。"
+  ]
+}

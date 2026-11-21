@@ -1,0 +1,105 @@
+{
+  "id": "qingniao",
+  "title": "青鸟",
+  "original_title": "L'Oiseau bleu",
+  "region": "比利时",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "寓意童话剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "maeterlinck",
+  "author_name": "莫里斯·梅特林克",
+  "year_display": "1908年（Britannica B372：L'Oiseau bleu (1908)——莫斯科艺术剧院首演）",
+  "year_sort": 1908,
+  "background": [
+    "Britannica（B372）：'allegorical fantasy conceived as a play for children'——为儿童构思的寓意幻想剧。",
+    "Britannica（B372）：Tyltyl与Mytyl寻找'Blue Bird of Happiness, only to discover it in their own backyard'——幸福的青鸟就在自家后院。",
+    "Britannica（B372）：1908年莫斯科艺术剧院首演。"
+  ],
+  "outline": [
+    "（通说待核——B372未载全剧情）兄妹寻找青鸟的历程：记忆之国、夜宫、未来之国。",
+    "（通说待核）归家后发现青鸟（就在后院）。"
+  ],
+  "characters": [
+    {
+      "name": "迪迪尔（Tyltyl）",
+      "identity": "男孩",
+      "note": "（B372：Tyltyl——中译名通说待核）"
+    },
+    {
+      "name": "米迪尔（Mytyl）",
+      "identity": "女孩",
+      "note": "（B372：Mytyl）"
+    }
+  ],
+  "themes": [
+    "'幸福就在身边'（B372：in their own backyard）。",
+    "寓意的旅行结构（B372：allegorical fantasy）。",
+    "儿童的戏剧（B372：play for children）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：莫斯科艺术剧院1908首演（B372）。",
+      "source": "B372"
+    },
+    {
+      "text": "Britannica：1911诺奖（B372 交叉）。",
+      "source": "B372"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓意的符号系统。",
+      "'静'的舞台美学（作者页语境——待核）。"
+    ],
+    "editions": [
+      "《青鸟》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "梅特林克首选；与《佩利亚斯与梅丽桑德》对读。"
+  },
+  "pending": [
+    "迪迪尔/米迪尔通行译名核对。",
+    "1908年首演细节待核。",
+    "六幕十二场结构核对（通说）。"
+  ],
+  "sources": [
+    "B372"
+  ],
+  "year_source": "B372",
+  "author_source": "B372",
+  "related_works": [
+    "peiliyasi",
+    "haidenvren",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《青鸟》寓意旅行图",
+    "cards": [
+      {
+        "title": "青鸟",
+        "text": "幸福的象征（B372）",
+        "color": "gold"
+      },
+      {
+        "title": "兄妹",
+        "text": "寻找的旅程（通说）",
+        "color": "main"
+      },
+      {
+        "title": "后院",
+        "text": "'就在身边'（B372）",
+        "color": "family"
+      },
+      {
+        "title": "夜宫",
+        "text": "寓意的站台（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "beernadajia",
+  "title": "贝尔纳达·阿尔巴的家",
+  "original_title": "La casa de Bernarda Alba",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "西班牙语",
+  "author_id": "lorca",
+  "author_name": "费德里科·加西亚·洛尔卡",
+  "year_display": "1936年（Britannica B355：La casa de Bernarda Alba (1936)）",
+  "year_sort": 1936,
+  "background": [
+    "Britannica（B355）：La casa de Bernarda Alba (1936)——民间悲剧三部曲之三（作者卒年作品）。",
+    "Britannica（B355）：洛尔卡1936年8月被杀（作者页交叉）。",
+    "题材（通说待核）：寡母贝尔纳达的'八年守丧'——五个女儿的锁闭与反抗。"
+  ],
+  "outline": [
+    "（通说待核）丧服中的五姐妹与求婚者佩贝。",
+    "（通说待核）'白色的墙'：压抑的房子与最后一声枪响。"
+  ],
+  "characters": [
+    {
+      "name": "贝尔纳达·阿尔巴",
+      "identity": "寡母",
+      "note": "（B355 书名人物）"
+    },
+    {
+      "name": "阿德莉亚",
+      "identity": "最幼女儿",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'守丧'与压制（通说待核）。",
+    "全女性剧（通说待核）。",
+    "'纯洁'的暴政（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：民间悲剧三部曲之三（B355）。",
+      "source": "B355"
+    },
+    {
+      "text": "Britannica：1936年被杀——未及见其上演（交叉——待核）。",
+      "source": "B355"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "全女班的舞台。",
+      "安达卢西亚的荣誉制。"
+    ],
+    "editions": [
+      "《贝尔纳达·阿尔巴的家》中译名（《阿尔巴家的女人们》两说——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "三部曲之三；洛尔卡戏剧收官。"
+  },
+  "pending": [
+    "阿德莉亚/佩贝人名核对（通说）。",
+    "1936年写作、1945年首演说待核。",
+    "'八年'守丧细节待核。"
+  ],
+  "sources": [
+    "B355"
+  ],
+  "year_source": "B355",
+  "author_source": "B355",
+  "related_works": [
+    "xuehun",
+    "yeerma",
+    "yuwanghaojieche"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阿尔巴之家》压抑结构图",
+    "cards": [
+      {
+        "title": "贝尔纳达",
+        "text": "'守丧'的暴政（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "五姐妹",
+        "text": "锁闭的青春（通说）",
+        "color": "main"
+      },
+      {
+        "title": "白墙",
+        "text": "压抑的房子（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "枪声",
+        "text": "终局的爆发（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

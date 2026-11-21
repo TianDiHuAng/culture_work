@@ -1,0 +1,100 @@
+{
+  "id": "satula",
+  "title": "萨图拉",
+  "original_title": "Satura",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "montale",
+  "author_name": "埃乌杰尼奥·蒙塔莱",
+  "year_display": "1962年（Britannica B341：Satura (1962)）",
+  "year_sort": 1962,
+  "background": [
+    "Britannica（B341）：Satura (1962)——蒙塔莱晚期诗集。",
+    "Britannica（B341）：蒙塔莱——1975诺奖；'progressively more introverted and obscure'。",
+    "题材（通说待核）：'萨图拉'（拉丁语'混合祭品'说——通说待核）：悼亡妻与自嘲。"
+  ],
+  "outline": [
+    "（通说待核）悼亡妻莫塞利的诗（与Xenia 1966并读——B341交叉）。",
+    "（通说待核）'拉丁语satura'的词源：混合的祭品。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "晚期的隐逸诗人",
+      "note": "（B341 语系）"
+    }
+  ],
+  "themes": [
+    "悼亡与自嘲（通说待核）。",
+    "'拉丁'词源的诗学（书名语境——通说待核）。",
+    "'更内省'（B341：more introverted）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Satura (1962)（B341）。",
+      "source": "B341"
+    },
+    {
+      "text": "Britannica：1975诺奖（B341 交叉）。",
+      "source": "B341"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "晚期语体的'闲谈'化（通说待核）。",
+      "拉丁词源。"
+    ],
+    "editions": [
+      "《萨图拉》中译名待核。",
+      "意大利文原版。"
+    ],
+    "order": "蒙塔莱晚期；与《境遇》对读。"
+  },
+  "pending": [
+    "'satura'词源说核对（通说）。",
+    "1962年出版细节待核。",
+    "悼亡诗篇目待核。"
+  ],
+  "sources": [
+    "B341"
+  ],
+  "year_source": "B341",
+  "author_source": "B341",
+  "related_works": [
+    "wuguigu",
+    "jingyu",
+    "shunxijiandeyewan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《萨图拉》晚期结构图",
+    "cards": [
+      {
+        "title": "萨图拉",
+        "text": "'混合祭品'（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "悼亡",
+        "text": "亡妻的缺席（通说）",
+        "color": "main"
+      },
+      {
+        "title": "自嘲",
+        "text": "晚期的反讽（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "拉丁",
+        "text": "词源的诗学（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

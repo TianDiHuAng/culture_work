@@ -1,0 +1,105 @@
+{
+  "id": "peiliyasi",
+  "title": "佩利亚斯与梅丽桑德",
+  "original_title": "Pelléas et Mélisande",
+  "region": "比利时",
+  "era": "近代",
+  "era_detail": "19世纪90年代初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "法语",
+  "author_id": "maeterlinck",
+  "author_name": "莫里斯·梅特林克",
+  "year_display": "1892年（Britannica B372：Pelléas et Mélisande (1892)——'the unquestioned masterpiece of Symbolist drama'）",
+  "year_sort": 1892,
+  "background": [
+    "Britannica（B372）：'the unquestioned masterpiece of Symbolist drama'（象征主义戏剧无可争议的杰作）。",
+    "Britannica（B372）：'conveys a mood of hopeless melancholy and doom'——启德彪西1902年歌剧。",
+    "题材（通说待核）：海底王国出走的梅丽桑德与两兄弟的爱情——井、发与死亡。"
+  ],
+  "outline": [
+    "（通说待核）梅丽桑德与戈洛、佩利亚斯的三角。",
+    "（通说待核）'发'的坠落与井底的失落。"
+  ],
+  "characters": [
+    {
+      "name": "梅丽桑德",
+      "identity": "神秘少女",
+      "note": "（B372 书名人物）"
+    },
+    {
+      "name": "佩利亚斯",
+      "identity": "年轻王子",
+      "note": "（B372 书名人物）"
+    }
+  ],
+  "themes": [
+    "'绝望的忧郁与厄运'（B372：hopeless melancholy and doom）。",
+    "象征主义戏剧的杰作（B372）。",
+    "静默与暗示（作者页语境——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：德彪西歌剧（1902）（B372）。",
+      "source": "B372"
+    },
+    {
+      "text": "Britannica：影响叶芝、辛格、奥尼尔（B372 作者级）。",
+      "source": "B372"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "象征主义的'潜文本'。",
+      "与德彪西歌剧的对读。"
+    ],
+    "editions": [
+      "《佩利亚斯与梅丽桑德》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "梅特林克戏剧巅峰；与《青鸟》对读。"
+  },
+  "pending": [
+    "剧情细节核对（通说）。",
+    "1892年出版/首演细节待核。",
+    "德彪西歌剧1902年首演核对。"
+  ],
+  "sources": [
+    "B372"
+  ],
+  "year_source": "B372",
+  "author_source": "B372",
+  "related_works": [
+    "qingniao",
+    "xuboliweng",
+    "dengdaigou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《佩利亚斯与梅丽桑德》象征结构图",
+    "cards": [
+      {
+        "title": "梅丽桑德",
+        "text": "厄运的化身（B372语境）",
+        "color": "main"
+      },
+      {
+        "title": "发",
+        "text": "坠落的信物（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "井",
+        "text": "失落的深处（通说）",
+        "color": "family"
+      },
+      {
+        "title": "象征",
+        "text": "戏剧的巅峰（B372）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

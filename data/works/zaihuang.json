@@ -1,0 +1,105 @@
+{
+  "id": "zaihuang",
+  "title": "在人间",
+  "original_title": "В людях",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "自传小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "gorky",
+  "author_name": "马克西姆·高尔基",
+  "year_display": "作者页注记：Britannica——自传三部曲（年份通说待核——1916说）",
+  "year_sort": 1916,
+  "background": [
+    "作者页注记：童年/在人间/我的大学——'自传三部曲（Britannica：one of the finest autobiographies in Russian literature）'。",
+    "Britannica：高尔基——俄国作家（作者页语境）。",
+    "题材（通说待核）：阿列克谢的'人间'学徒岁月：鞋店、绘图的作坊与轮船。"
+  ],
+  "outline": [
+    "（通说待核）'人间'：伏尔加河上的洗碗工与画坊学徒。",
+    "（通说待核）'大学'之前的'社会大学'。"
+  ],
+  "characters": [
+    {
+      "name": "阿列克谢",
+      "identity": "少年学徒",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "厨师（'司炉'说）",
+      "identity": "书籍的引路人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'社会大学'的学徒（书名语境——通说待核）。",
+    "自传三部曲之二（B注记）。",
+    "书籍的救赎（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of the finest autobiographies in Russian literature'（作者页注记）。",
+      "source": "B259"
+    },
+    {
+      "text": "Britannica：三部曲（作者页注记）。",
+      "source": "B259"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部曲的顺序。",
+      "19世纪末俄国的底层行业。"
+    ],
+    "editions": [
+      "《在人间》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域状态待核）。"
+    ],
+    "order": "三部曲之二；承接《童年》。"
+  },
+  "pending": [
+    "1916年出版细节待核。",
+    "'社会大学'说法待核。",
+    "人物名核对（通说）。"
+  ],
+  "sources": [
+    "B259"
+  ],
+  "year_source": "B259",
+  "author_source": "B259",
+  "related_works": [
+    "tongnian",
+    "zaidiceng",
+    "muqin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《在人间》学徒结构图",
+    "cards": [
+      {
+        "title": "人间",
+        "text": "社会的大学（书名）",
+        "color": "main"
+      },
+      {
+        "title": "轮船",
+        "text": "伏尔加的劳动（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "书籍",
+        "text": "暗夜的救赎（通说）",
+        "color": "family"
+      },
+      {
+        "title": "三部曲",
+        "text": "B注记的定位",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
