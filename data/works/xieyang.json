@@ -1,0 +1,105 @@
+{
+  "id": "xieyang",
+  "title": "斜阳",
+  "original_title": "斜陽",
+  "region": "日本",
+  "era": "近代",
+  "era_detail": "20世纪40年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "dazaiosamu",
+  "author_name": "太宰治",
+  "year_display": "1947年（作者页注记：Britannica——斜阳 1947年）",
+  "year_sort": 1947,
+  "background": [
+    "作者页注记：斜阳——'1947年（Britannica）'。",
+    "Britannica：太宰治——'私小说'传统（作者页语境——待核）。",
+    "题材（通说待核）：没落贵族的战后——加子的日记与'斜阳族'。"
+  ],
+  "outline": [
+    "（通说待核）加子与母亲：战后贵族的优雅与凋零。",
+    "（通说待核）弟弟直治的自杀与'斜阳'意象。"
+  ],
+  "characters": [
+    {
+      "name": "加子",
+      "identity": "日记叙述者",
+      "note": "（通说待核，Britannica未载）"
+    },
+    {
+      "name": "直治",
+      "identity": "弟弟",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "贵族制的没落（通说待核）。",
+    "'斜阳族'：战后的身份（通说待核——词源为本作）。",
+    "私小说的血肉（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：斜阳 (1947)（作者页注记）。",
+      "source": "B211"
+    },
+    {
+      "text": "Britannica：《人间失格》为代表作（作者页交叉）。",
+      "source": "B211"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "战后日本贵族制。",
+      "日记体与私小说传统。"
+    ],
+    "editions": [
+      "《斜阳》中译本（人民文学/上海译文等——通说待核）。",
+      "日文原版（公有领域状态待核）。"
+    ],
+    "order": "太宰治第二代表作；与《人间失格》对读。"
+  },
+  "pending": [
+    "加子/直治人名核对（通说）。",
+    "1947年发表（《新潮》说）待核。",
+    "'斜阳族'成为流行语的细节待核。"
+  ],
+  "sources": [
+    "B211"
+  ],
+  "year_source": "B211",
+  "author_source": "B211",
+  "related_works": [
+    "renshijian",
+    "luoshengmen",
+    "hetong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《斜阳》没落结构图",
+    "cards": [
+      {
+        "title": "斜阳",
+        "text": "贵族的余晖（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "加子",
+        "text": "日记的优雅（通说）",
+        "color": "main"
+      },
+      {
+        "title": "直治",
+        "text": "弟弟的自杀（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "战后",
+        "text": "身份的崩塌（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

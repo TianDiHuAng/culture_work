@@ -1,0 +1,100 @@
+{
+  "id": "mianbingyujiu",
+  "title": "面饼与酒",
+  "original_title": "Brod und Wein",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "哀歌",
+  "genre_group": "诗歌",
+  "language": "德语",
+  "author_id": "holderlin",
+  "author_name": "弗里德里希·荷尔德林",
+  "year_display": "1798-1801年（Britannica B338：Brod und Wein——1798-1801哀歌）",
+  "year_sort": 1800,
+  "background": [
+    "Britannica（B338）：Brod und Wein——1798-1801年哀歌（与'Menons Klagen um Diotima'并列）。",
+    "Britannica（B338）：'a prophet of spiritual renewal, of \"the return of the gods\"'——哀歌体。",
+    "Britannica（B338）：'especially admired for his uniquely expressive style'。"
+  ],
+  "outline": [
+    "（通说待核——B338未载细节）'面包是大地之果，酒是大地之果'（通说待核——不采为引文）的圣餐意象。",
+    "（通说待核）'贫乏时代'诗人何为的追问。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "哀歌者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'诸神的黑夜'与'贫乏时代'（通说待核）。",
+    "圣餐意象：面饼与酒（B338 书名）。",
+    "'诗人如鹰鹫'的使命（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Brod und Wein——1798-1801哀歌（B338）。",
+      "source": "B338"
+    },
+    {
+      "text": "Britannica：'uniquely expressive style'（B338 作者级）。",
+      "source": "B338"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哀歌体（elegiac couplets——通说待核）。",
+      "荷尔德林的希腊崇拜。"
+    ],
+    "editions": [
+      "《面饼与酒》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "荷尔德林诗歌首选；与《许珀里翁》对读。"
+  },
+  "pending": [
+    "篇内结构（九节说）核对（通说）。",
+    "'贫乏时代'说法出处待核。",
+    "与《许珀里翁·狄奥蒂玛》哀歌的关系待核。"
+  ],
+  "sources": [
+    "B338"
+  ],
+  "year_source": "B338",
+  "author_source": "B338",
+  "related_works": [
+    "xuboliweng",
+    "diyuzhiji",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《面饼与酒》哀歌结构图",
+    "cards": [
+      {
+        "title": "面饼与酒",
+        "text": "圣餐的意象（B338）",
+        "color": "gold"
+      },
+      {
+        "title": "贫乏时代",
+        "text": "诸神的黑夜（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "诗人",
+        "text": "鹰鹫的使命（通说）",
+        "color": "main"
+      },
+      {
+        "title": "哀歌",
+        "text": "1798-1801（B338）",
+        "color": "family"
+      }
+    ]
+  }
+}

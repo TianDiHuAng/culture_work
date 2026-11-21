@@ -10,21 +10,70 @@
   "era": "近代",
   "summary": "陀思妥耶夫斯基，莫斯科人（父为平民医院医生），'通常被视为有史以来最出色的小说家之一'（Britannica，Gary Saul Morson 撰）。1849年因参加彼得拉舍夫斯基小组被捕，在谢苗诺夫校场经历'假处决'，改判西伯利亚苦役四年（Britannica）——这段经历'加深了其俄罗斯东正教信仰与对个人自由的珍视'（Britannica）。癫痫终生伴随；晚年以口述完成《赌徒》（还赌债）。代表作《地下室手记》《罪与罚》《白痴》《群魔》《卡拉马佐夫兄弟》。'深刻塑造了现代主义、存在主义、心理学与神学'（Britannica：Nietzsche, Freud, Sartre 皆受其影响）。",
   "timeline": [
-    {"year": "1821-11-11", "text": "生于莫斯科（儒略历10月30日；新历11月11日——Britannica：Born November 11 [Oct. 30, O.S.], 1821, Moscow）。", "src": "B042"},
-    {"year": "1845", "text": "处女作《穷人》获别林斯基激赏，'新的果戈理出现了'（通说待核）。", "src": "B042"},
-    {"year": "1849", "text": "因彼得拉舍夫斯基小组被捕；谢苗诺夫校场假处决（死前一刻宣读赦令，Britannica：endured a mock execution at Semyonovsky Square）。", "src": "B042"},
-    {"year": "1850—1854", "text": "鄂木斯克苦役四年（Britannica：Four years of hard labor in Siberia）；1854年充军塞米巴拉金斯克（通说待核）。", "src": "B042"},
-    {"year": "1857—1866", "text": "与玛丽亚·伊萨耶娃结婚（通说待核）；《死屋手记》（1861—62）、《地下室手记》（1864）发表；1864年兄长与妻子接连病逝、负债累累（通说待核）。", "src": "B042"},
-    {"year": "1866", "text": "《罪与罚》在《俄国导报》连载（Britannica Crime 条目：First published in 1866；'serially in a literary journal'）；为偿还赌债以26天口述完成《赌徒》（Britannica：once dictated The Gambler to a stenographer due to gambling debts）。", "src": "B018"},
-    {"year": "1867", "text": "与速记员安娜·格里戈里耶夫娜结婚并逃债出国四年（德国、瑞士、意大利——通说待核）。", "src": "B042"},
-    {"year": "1871—1876", "text": "回国；《群魔》（1872）；主编《公民报》并开始《作家日记》（1873—81，Britannica：A Writer's Diary / The Diary of a Writer）。", "src": "B042"},
-    {"year": "1879—1881", "text": "《卡拉马佐夫兄弟》（1879—80，《俄国导报》连载）——最后一部长篇（Britannica：final novel; faith, freedom, evil）；1880年莫斯科普希金纪念演讲（通说待核）。", "src": "B042"},
-    {"year": "1881-02-09", "text": "肺动脉出血卒于圣彼得堡（Britannica：died February 9 [Jan. 28, O.S.], 1881, St. Petersburg），年五十九。", "src": "B042"}
+    {
+      "year": "1821-11-11",
+      "text": "生于莫斯科（儒略历10月30日；新历11月11日——Britannica：Born November 11 [Oct. 30, O.S.], 1821, Moscow）。",
+      "src": "B042"
+    },
+    {
+      "year": "1845",
+      "text": "处女作《穷人》获别林斯基激赏，'新的果戈理出现了'（通说待核）。",
+      "src": "B042"
+    },
+    {
+      "year": "1849",
+      "text": "因彼得拉舍夫斯基小组被捕；谢苗诺夫校场假处决（死前一刻宣读赦令，Britannica：endured a mock execution at Semyonovsky Square）。",
+      "src": "B042"
+    },
+    {
+      "year": "1850—1854",
+      "text": "鄂木斯克苦役四年（Britannica：Four years of hard labor in Siberia）；1854年充军塞米巴拉金斯克（通说待核）。",
+      "src": "B042"
+    },
+    {
+      "year": "1857—1866",
+      "text": "与玛丽亚·伊萨耶娃结婚（通说待核）；《死屋手记》（1861—62）、《地下室手记》（1864）发表；1864年兄长与妻子接连病逝、负债累累（通说待核）。",
+      "src": "B042"
+    },
+    {
+      "year": "1866",
+      "text": "《罪与罚》在《俄国导报》连载（Britannica Crime 条目：First published in 1866；'serially in a literary journal'）；为偿还赌债以26天口述完成《赌徒》（Britannica：once dictated The Gambler to a stenographer due to gambling debts）。",
+      "src": "B018"
+    },
+    {
+      "year": "1867",
+      "text": "与速记员安娜·格里戈里耶夫娜结婚并逃债出国四年（德国、瑞士、意大利——通说待核）。",
+      "src": "B042"
+    },
+    {
+      "year": "1871—1876",
+      "text": "回国；《群魔》（1872）；主编《公民报》并开始《作家日记》（1873—81，Britannica：A Writer's Diary / The Diary of a Writer）。",
+      "src": "B042"
+    },
+    {
+      "year": "1879—1881",
+      "text": "《卡拉马佐夫兄弟》（1879—80，《俄国导报》连载）——最后一部长篇（Britannica：final novel; faith, freedom, evil）；1880年莫斯科普希金纪念演讲（通说待核）。",
+      "src": "B042"
+    },
+    {
+      "year": "1881-02-09",
+      "text": "肺动脉出血卒于圣彼得堡（Britannica：died February 9 [Jan. 28, O.S.], 1881, St. Petersburg），年五十九。",
+      "src": "B042"
+    }
   ],
   "major_works": [
-    {"work_id": "zuiyufa", "note": "1866；'first masterpiece'（Britannica）"},
-    {"title": "地下室手记（1864）", "note": "'挑战决定论与空想社会主义'（Britannica）——存在主义先声"},
-    {"title": "卡拉马佐夫兄弟（1879—80）", "note": "信仰、自由与恶的总纲（Britannica）"}
+    {
+      "work_id": "zuiyufa",
+      "note": "1866；'first masterpiece'（Britannica）"
+    },
+    {
+      "work_id": "dixiashishouji",
+      "note": "'挑战决定论与空想社会主义'（Britannica）——存在主义先声"
+    },
+    {
+      "title": "卡拉马佐夫兄弟（1879—80）",
+      "note": "信仰、自由与恶的总纲（Britannica）"
+    }
   ],
   "style": [
     "'感到思想'的人物：Britannica——characters who 'feel ideas'（把思想作为血肉来体验的人物），哲学辩论化为情感风暴。",
@@ -33,7 +82,10 @@
     "场景的极端化：假处决、赌场、法庭戏、杀人前夜——把人物逼到存在的边缘。"
   ],
   "status": "Britannica 称陀思妥耶夫斯基'通常被视为有史以来最出色的小说家之一'、'文学中最伟大的心理学家'之一（among the greatest psychologists in literature）。其影响：尼采、弗洛伊德、萨特与整个存在主义、现代主义（Britannica：profoundly shaped modernism, existentialism...）。'他的作品被称为预言性的'（prophetic——对革命行为的预见，Britannica）；《卡拉马佐夫兄弟》的'宗教大法官'章成为20世纪神学与政治哲学的必读文本（通说待核）。",
-  "sources": ["B042", "B018"],
+  "sources": [
+    "B042",
+    "B018"
+  ],
   "dates_source": "B042",
   "pending": [
     "假处决的日期（1849年12月22日说）与赦令细节待核。",

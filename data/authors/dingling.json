@@ -10,19 +10,60 @@
   "era": "现当代",
   "summary": "丁玲，湖南临澧人，'中国20世纪文学领军人物之一'（Britannica：a leading 20th-century Chinese author）。早期'流行的半自传性短篇小说塑造大胆独立热情女主角'（Britannica：popular, partly autobiographical short stories featuring 'daring, independent, and passionate' heroines）。约1930年加入左联、1932年入党（Britannica），'转向工人农民革命者主题'（Britannica：turning to themes of workers, peasants, and revolutionaries）——《水》(1931)被赞'社会主义现实主义范本'（Britannica：praised as a model of Socialist Realism）。《太阳照在桑干河上》(1948)——'首部获苏联斯大林奖的中国小说'(1951)（Britannica：the first Chinese novel to win the Soviet Stalin Prize (1951)）。1933—36年被国民党监禁（Britannica）、1957年被打成右派开除党籍、文革中入狱（Britannica）、1979年恢复党籍（Britannica）。'她的母亲独立反传统观点、与被处决诗人胡也频恋情、延安毛泽东时期塑造写作'（Britannica）。1986年3月4日卒（通说待核）。",
   "timeline": [
-    {"year": "1904-10-12", "text": "生于湖南临澧（Britannica：born in Hunan province；临澧——通说待核）。", "src": "B170"},
-    {"year": "1927—1930", "text": "《莎菲女士的日记》（1928，通说待核）成名——'daring, independent, and passionate'（大胆独立热情——Britannica）。", "src": "B170"},
-    {"year": "1930—1932", "text": "加入左联（1930，Britannica）、入党（1932，Britannica）。", "src": "B170"},
-    {"year": "1933—1936", "text": "被国民党监禁（Britannica：imprisoned by Nationalists (1933–36)）。", "src": "B170"},
-    {"year": "1936—1949", "text": "赴延安（通说待核）；1942年参加延安文艺座谈会（通说待核）；《太阳照在桑干河上》(1948，Britannica)。", "src": "B170"},
-    {"year": "1951", "text": "苏联斯大林文学奖（Britannica：the first Chinese novel to win the Soviet Stalin Prize (1951)）。", "src": "B170"},
-    {"year": "1957—1979", "text": "1957年被打成右派开除党籍（Britannica：censured and expelled from the party as a rightist in 1957）、文革中入狱（Britannica：jailed during the Cultural Revolution）；1979年恢复党籍（Britannica：restored in 1979）。", "src": "B170"},
-    {"year": "1979—1986", "text": "晚年复出；1986-03-04卒（通说待核）。", "src": "B170"}
+    {
+      "year": "1904-10-12",
+      "text": "生于湖南临澧（Britannica：born in Hunan province；临澧——通说待核）。",
+      "src": "B170"
+    },
+    {
+      "year": "1927—1930",
+      "text": "《莎菲女士的日记》（1928，通说待核）成名——'daring, independent, and passionate'（大胆独立热情——Britannica）。",
+      "src": "B170"
+    },
+    {
+      "year": "1930—1932",
+      "text": "加入左联（1930，Britannica）、入党（1932，Britannica）。",
+      "src": "B170"
+    },
+    {
+      "year": "1933—1936",
+      "text": "被国民党监禁（Britannica：imprisoned by Nationalists (1933–36)）。",
+      "src": "B170"
+    },
+    {
+      "year": "1936—1949",
+      "text": "赴延安（通说待核）；1942年参加延安文艺座谈会（通说待核）；《太阳照在桑干河上》(1948，Britannica)。",
+      "src": "B170"
+    },
+    {
+      "year": "1951",
+      "text": "苏联斯大林文学奖（Britannica：the first Chinese novel to win the Soviet Stalin Prize (1951)）。",
+      "src": "B170"
+    },
+    {
+      "year": "1957—1979",
+      "text": "1957年被打成右派开除党籍（Britannica：censured and expelled from the party as a rightist in 1957）、文革中入狱（Britannica：jailed during the Cultural Revolution）；1979年恢复党籍（Britannica：restored in 1979）。",
+      "src": "B170"
+    },
+    {
+      "year": "1979—1986",
+      "text": "晚年复出；1986-03-04卒（通说待核）。",
+      "src": "B170"
+    }
   ],
   "major_works": [
-    {"work_id": "sangganhe", "note": "1948；斯大林奖"},
-    {"title": "莎菲女士的日记（1928）", "note": "成名作（Britannica 语境）"},
-    {"title": "水（1931）", "note": "社会主义现实主义（Britannica）"}
+    {
+      "work_id": "sangganhe",
+      "note": "1948；斯大林奖"
+    },
+    {
+      "work_id": "shafeinushideriji",
+      "note": "成名作（Britannica 语境）"
+    },
+    {
+      "title": "水（1931）",
+      "note": "社会主义现实主义（Britannica）"
+    }
   ],
   "style": [
     "'大胆独立热情的女主角'：Britannica——早期半自传性小说（Britannica）。",
@@ -30,7 +71,9 @@
     "个人经历入虚构：Britannica——母的反传统/胡也频恋情/延安毛泽东（Britannica）。"
   ],
   "status": "Britannica 称丁玲为'中国20世纪文学领军人物之一'（a leading 20th-century Chinese author）——经历从'左翼作家'到'右派'到'平反'的完整曲线（Britannica：censured and expelled...restored in 1979）。",
-  "sources": ["B170"],
+  "sources": [
+    "B170"
+  ],
   "dates_source": "B170",
   "pending": [
     "卒日（1986-03-04，通说）Britannica 未直书——待核。",

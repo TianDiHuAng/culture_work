@@ -1,0 +1,105 @@
+{
+  "id": "dixiashishouji",
+  "title": "地下室手记",
+  "original_title": "Записки из подполья",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪60年代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "dostoevsky",
+  "author_name": "费奥多尔·陀思妥耶夫斯基",
+  "year_display": "1864年（作者页注记：Britannica——地下室手记 (1864)——'挑战决定论与空想社会主义'——存在主义先声）",
+  "year_sort": 1864,
+  "background": [
+    "作者页注记：地下室手记 (1864)——'挑战决定论与空想社会主义'（Britannica）——存在主义先声。",
+    "Britannica：陀思妥耶夫斯基——俄国小说家（作者页语境）。",
+    "题材（通说待核）：'地下室人'的两部分自白——自我意识的自虐与'二二得四'的算术反叛。"
+  ],
+  "outline": [
+    "（通说待核）第一部分：'地下室人'的哲学独白——反对水晶宫。",
+    "（通说待核）第二部分：丽莎与雪中追悔的往事。"
+  ],
+  "characters": [
+    {
+      "name": "'地下室人'",
+      "identity": "退休公务员",
+      "note": "（通说待核，Britannica未载）"
+    },
+    {
+      "name": "丽莎",
+      "identity": "妓女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "自由意志对决定论的反叛（Britannica 注记：挑战决定论）。",
+    "自我意识的病态（通说待核）。",
+    "存在主义先声（Britannica 注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'挑战决定论与空想社会主义'（作者页注记）。",
+      "source": "B042"
+    },
+    {
+      "text": "Britannica：陀思妥耶夫斯基为'人类灵魂的伟大审问者'说待核（不采）。",
+      "source": "B042"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "独白体的自我矛盾。",
+      "1860年代俄国虚无主义语境（通说待核）。"
+    ],
+    "editions": [
+      "《地下室手记》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "陀氏思想门槛；后接《罪与罚》。"
+  },
+  "pending": [
+    "人物名（地下室人/丽莎）核对（通说）。",
+    "1864年发表（《时代》杂志说）待核。",
+    "'水晶宫'指涉（车尔尼雪夫斯基说）待核。"
+  ],
+  "sources": [
+    "B042"
+  ],
+  "year_source": "B042",
+  "author_source": "B042",
+  "related_works": [
+    "zuoyufa",
+    "baichi",
+    "renshijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《地下室手记》反叛结构图",
+    "cards": [
+      {
+        "title": "地下室",
+        "text": "'我'的洞穴（通说）",
+        "color": "main"
+      },
+      {
+        "title": "二二得四",
+        "text": "算术的反叛（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "水晶宫",
+        "text": "决定论的靶子（Britannica注记）",
+        "color": "antagonist"
+      },
+      {
+        "title": "丽莎",
+        "text": "雪中的羞耻（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

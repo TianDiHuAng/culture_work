@@ -1,0 +1,105 @@
+{
+  "id": "zaidiceng",
+  "title": "在底层",
+  "original_title": "На дне（The Lower Depths）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "gorky",
+  "author_name": "马克西姆·高尔基",
+  "year_display": "1902年（作者页注记：Britannica——The Lower Depths (1902)）",
+  "year_sort": 1902,
+  "background": [
+    "作者页注记：在底层——'戏剧（Britannica：The Lower Depths (1902)）'。",
+    "Britannica：高尔基——俄国作家、'社会主义现实主义'命名者（作者页语境——待核）。",
+    "题材（通说待核）：科斯蒂廖夫的地下室客栈——流浪汉们的'人'之辩论。"
+  ],
+  "outline": [
+    "（通说待核）鲁卡的出现：谎言的安慰与真相的残忍。",
+    "（通说待核）'人——这声音听起来多么骄傲'（通说待核——不直接引文）。"
+  ],
+  "characters": [
+    {
+      "name": "鲁卡",
+      "identity": "流浪朝圣者",
+      "note": "（通说待核，Britannica未载）"
+    },
+    {
+      "name": "沙金",
+      "identity": "赌徒",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "安慰性的谎言 vs 残酷的真理（通说待核）。",
+    "'底层'的社会档案（书名语境）。",
+    "'人'的颂歌与虚无（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Lower Depths (1902)（作者页注记）。",
+      "source": "B259"
+    },
+    {
+      "text": "Britannica：高尔基戏剧序列（作者页语境）。",
+      "source": "B259"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "群像戏的'潜台词'。",
+      "1902年俄国社会语境。"
+    ],
+    "editions": [
+      "《在底层》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "高尔基戏剧首选；与《母亲》对读。"
+  },
+  "pending": [
+    "鲁卡/沙金人名核对（通说）。",
+    "1902年首演（莫斯科艺术剧院说）待核。",
+    "'人'的台词核对（不采为引文）。"
+  ],
+  "sources": [
+    "B259"
+  ],
+  "year_source": "B259",
+  "author_source": "B259",
+  "related_works": [
+    "muqin",
+    "haiou",
+    "sanzimei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《在底层》地下室客栈图",
+    "cards": [
+      {
+        "title": "地下室",
+        "text": "社会的底层（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "鲁卡",
+        "text": "谎言的安慰（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "沙金",
+        "text": "真理的辩才（通说）",
+        "color": "main"
+      },
+      {
+        "title": "'人'",
+        "text": "骄傲与虚无（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

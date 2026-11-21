@@ -1,0 +1,100 @@
+{
+  "id": "sigesizhongzou",
+  "title": "四个四重奏",
+  "original_title": "Four Quartets",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "组诗",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "eliot",
+  "author_name": "T.S.艾略特",
+  "year_display": "1943年（作者页注记：Britannica——四个四重奏 (1943)——'considered his masterpiece'）",
+  "year_sort": 1943,
+  "background": [
+    "作者页注记：四个四重奏 (1943)——'considered his masterpiece'（Britannica）。",
+    "Britannica：艾略特——1948诺奖（作者页语境——待核）。",
+    "题材（通说待核）：《焚毁的诺顿》《东库克》《干塞尔维吉斯》《小吉丁》——时间与永恒的四重奏。"
+  ],
+  "outline": [
+    "（通说待核）四首组诗的'现在与过去'时间冥想。",
+    "（通说待核）'旋转门'与'火与玫瑰'的终点。"
+  ],
+  "characters": [
+    {
+      "name": "冥想之'我'",
+      "identity": "诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "时间的哲学（书名语境——通说待核）。",
+    "'现在时间与过去时间'开篇（通说待核——不直接引文）。",
+    "宗教沉思的晚期艾略特（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'considered his masterpiece'（作者页注记）。",
+      "source": "B100"
+    },
+    {
+      "text": "Britannica：《荒原》为其成名作（作者页交叉）。",
+      "source": "B100"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "组诗的互文结构。",
+      "基督教神秘主义语境（通说待核）。"
+    ],
+    "editions": [
+      "《四个四重奏》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "艾略特晚期首选；与《荒原》对读。"
+  },
+  "pending": [
+    "四首标题与年份（1935-1942分别发表说）核对。",
+    "1943年结集细节待核。",
+    "'杰作'评价出处（Britannica 注记）核对。"
+  ],
+  "sources": [
+    "B100"
+  ],
+  "year_source": "B100",
+  "author_source": "B100",
+  "related_works": [
+    "kanbujian3",
+    "wuguigu",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《四个四重奏》时间结构图",
+    "cards": [
+      {
+        "title": "诺顿",
+        "text": "时间的大门（通说）",
+        "color": "main"
+      },
+      {
+        "title": "四重奏",
+        "text": "音乐的对应（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "永恒",
+        "text": "时间的交叉点（通说）",
+        "color": "family"
+      },
+      {
+        "title": "杰作",
+        "text": "Britannica 之评（B注记）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

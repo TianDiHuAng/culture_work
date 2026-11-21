@@ -1,0 +1,100 @@
+{
+  "id": "sangeshibing",
+  "title": "三个士兵",
+  "original_title": "Three Soldiers",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪20年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dospassos",
+  "author_name": "约翰·多斯·帕索斯",
+  "year_display": "1921年（Britannica B347：Three Soldiers (1921)——反战）",
+  "year_sort": 1921,
+  "background": [
+    "Britannica（B347）：Three Soldiers——反战小说（antiwar novel）。",
+    "Britannica（B347）：多斯·帕索斯——一战救护车志愿司机（作者页交叉）。",
+    "题材（通说待核）：三个美国士兵在法国——战争机器的碾磨。"
+  ],
+  "outline": [
+    "（通说待核）三人各自的战场轨迹与幻灭。",
+    "（通说待核）'军队'作为非人化机器。"
+  ],
+  "characters": [
+    {
+      "name": "安德鲁斯等三人",
+      "identity": "美国士兵",
+      "note": "（通说待核，B347未载人名）"
+    }
+  ],
+  "themes": [
+    "反战（B347：antiwar novel）。",
+    "军事机器的非人化（通说待核）。",
+    "艺术家的战争（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Three Soldiers (1921)——antiwar novel（B347）。",
+      "source": "B347"
+    },
+    {
+      "text": "Britannica：U.S.A. 的前奏（B347 语境）。",
+      "source": "B347"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "一战美军后勤史。",
+      "三人视角的交替。"
+    ],
+    "editions": [
+      "《三个士兵》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "多斯·帕索斯首作；后接《曼哈顿中转站》。"
+  },
+  "pending": [
+    "三人名核对（通说：Andrews/Fuselli/Carroll说）。",
+    "1921年出版细节待核。",
+    "'反战'评价（B347）核对。"
+  ],
+  "sources": [
+    "B347"
+  ],
+  "year_source": "B347",
+  "author_source": "B347",
+  "related_works": [
+    "manhadundian",
+    "meiguobuqu",
+    "laorenhai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《三个士兵》反战结构图",
+    "cards": [
+      {
+        "title": "三人",
+        "text": "战争的三个侧面（通说）",
+        "color": "main"
+      },
+      {
+        "title": "军队",
+        "text": "非人化的机器（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "反战",
+        "text": "B347 定位",
+        "color": "gold"
+      },
+      {
+        "title": "幻灭",
+        "text": "从法国到法庭（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

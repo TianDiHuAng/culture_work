@@ -1,0 +1,100 @@
+{
+  "id": "shigetu",
+  "title": "诗歌集",
+  "original_title": "Buch der Lieder",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪20年代末",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "德语",
+  "author_id": "heine",
+  "author_name": "海因里希·海涅",
+  "year_display": "1827年（作者页注记：Britannica——诗歌集 (1827)——抒情诗）",
+  "year_sort": 1827,
+  "background": [
+    "作者页注记：诗歌集 (1827)——'抒情诗（Britannica）'。",
+    "Britannica：海涅——德语诗人与散文家（作者页语境）。",
+    "题材（通说待核）：《北海之歌》等组诗——民歌调与浪漫主义讽刺的融合。"
+  ],
+  "outline": [
+    "（通说待核）情歌与北海组诗的两极。",
+    "（通说待核）'浪漫主义的反讽'：民谣体与反讽的并置。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "歌者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "民歌调的抒情（B注记语境）。",
+    "浪漫主义的反讽（通说待核）。",
+    "'北海'组诗的现代性（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：诗歌集 (1827)（作者页注记）。",
+      "source": "B139"
+    },
+    {
+      "text": "Britannica：海涅为19世纪德语诗歌代表（作者页语境）。",
+      "source": "B139"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "德语韵律。",
+      "浪漫主义民歌传统。"
+    ],
+    "editions": [
+      "《诗歌集》中译名（《歌集》）待核。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "海涅诗歌首选；与《德国，一个冬天的童话》对读。"
+  },
+  "pending": [
+    "组篇（《北海》等）核对（通说）。",
+    "1827年出版（Hambourg说）待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B139"
+  ],
+  "year_source": "B139",
+  "author_source": "B139",
+  "related_works": [
+    "dongtiantonghua",
+    "xuboliweng",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《诗歌集》两极结构图",
+    "cards": [
+      {
+        "title": "情歌",
+        "text": "民歌的调子（通说）",
+        "color": "main"
+      },
+      {
+        "title": "北海",
+        "text": "现代的波涛（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "反讽",
+        "text": "浪漫的自我解构（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "1827",
+        "text": "结集之年（B注记）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "shiyi",
+  "title": "诗艺",
+  "original_title": "Ars Poetica",
+  "region": "罗马",
+  "era": "古代",
+  "era_detail": "公元前1世纪",
+  "genre": "诗体信札（诗论）",
+  "genre_group": "散文",
+  "language": "拉丁语",
+  "author_id": "horace",
+  "author_name": "贺拉斯",
+  "year_display": "约公元前19-18年（Britannica B302：Ars Poetica——约19—18 BC）",
+  "year_sort": -19,
+  "background": [
+    "Britannica（B302）：Ars Poetica——'约19-18 BC'。",
+    "Britannica（B302）：贺拉斯——《颂歌》（Odes）作者、奥古斯都时代诗人。",
+    "题材（通说待核）：致皮索父子的诗学信札——'合式'（decorum）、寓教于乐。"
+  ],
+  "outline": [
+    "（通说待核）诗的'合式'：题材与语言的匹配。",
+    "（通说待核）'寓教于乐'（omne tulit punctum...——不直接引文）。"
+  ],
+  "characters": [
+    {
+      "name": "皮索父子",
+      "identity": "受信人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'合式'原则（通说待核）。",
+    "诗人的修养与天才（通说待核）。",
+    "罗马古典主义的纲领（B302 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Ars Poetica（B302）。",
+      "source": "B302"
+    },
+    {
+      "text": "Britannica：贺拉斯《颂歌》的地位（B302 作者页）。",
+      "source": "B302"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "拉丁语诗体信札。",
+      "古典修辞学语境。"
+    ],
+    "editions": [
+      "《诗艺》中译本（人民文学《缪灵珠译文集》等——通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "西方诗论源头之一；与《诗学》对读。"
+  },
+  "pending": [
+    "'寓教于乐'拉丁原文核对（不采译文为引文）。",
+    "收信人（皮索说）核对。",
+    "与《诗学》的传承关系待核。"
+  ],
+  "sources": [
+    "B302"
+  ],
+  "year_source": "B302",
+  "author_source": "B302",
+  "related_works": [
+    "geti",
+    "xunjiexiaoshuo",
+    "laokong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《诗艺》合式结构图",
+    "cards": [
+      {
+        "title": "合式",
+        "text": "古典主义的准则（通说）",
+        "color": "main"
+      },
+      {
+        "title": "皮索父子",
+        "text": "受信人（通说）",
+        "color": "family"
+      },
+      {
+        "title": "寓教于乐",
+        "text": "诗的功能（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "罗马",
+        "text": "奥古斯都时代（B302）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

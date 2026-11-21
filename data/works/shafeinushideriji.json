@@ -1,0 +1,105 @@
+{
+  "id": "shafeinushideriji",
+  "title": "莎菲女士的日记",
+  "original_title": "莎菲女士的日记",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪20年代末",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "汉语",
+  "author_id": "dingling",
+  "author_name": "丁玲",
+  "year_display": "1928年（作者页注记：Britannica 语境——成名作）",
+  "year_sort": 1928,
+  "background": [
+    "作者页注记：莎菲女士的日记 (1928)——'成名作（Britannica 语境）'。",
+    "Britannica：丁玲——现代中国女作家（作者页语境）。",
+    "题材（通说待核）：日记体——病中莎菲对凌吉士的欲望与蔑视。"
+  ],
+  "outline": [
+    "（通说待核）莎菲的日记：肺病疗养的冬春。",
+    "（通说待核）'灵与肉'的分裂与胜利的颓然。"
+  ],
+  "characters": [
+    {
+      "name": "莎菲",
+      "identity": "病中女学生",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "凌吉士",
+      "identity": "南洋侨生",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性欲望的大胆书写（通说待核）。",
+    "日记体的内心独白（通说待核）。",
+    "'五四'之后的个性解放（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：丁玲成名作（作者页注记）。",
+      "source": "B170"
+    },
+    {
+      "text": "Britannica：丁玲《太阳照在桑干河上》获斯大林奖说（作者页交叉——待核）。",
+      "source": "B170"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记体的时间碎片。",
+      "1928年北京公寓语境（通说待核）。"
+    ],
+    "editions": [
+      "《莎菲女士的日记》（人民文学出版社《丁玲全集》等——通说待核）。",
+      "1928年《小说月报》说待核。"
+    ],
+    "order": "丁玲成名作；与《水》《太阳照在桑干河上》对照。"
+  },
+  "pending": [
+    "莎菲/凌吉士人名核对（通说）。",
+    "1928年发表（《小说月报》说）待核。",
+    "'成名作'评价（Britannica 语境）核对。"
+  ],
+  "sources": [
+    "B170"
+  ],
+  "year_source": "B170",
+  "author_source": "B170",
+  "related_works": [
+    "kanbujian3",
+    "cheng",
+    "rensheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《莎菲女士的日记》欲望结构图",
+    "cards": [
+      {
+        "title": "莎菲",
+        "text": "病中的日记（通说）",
+        "color": "main"
+      },
+      {
+        "title": "凌吉士",
+        "text": "'卑劣的灵魂'（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "欲望",
+        "text": "灵与肉的分裂（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "日记",
+        "text": "女性的声音（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "gusitaibeilin",
+  "title": "古斯泰·贝林的故事",
+  "original_title": "Gösta Berlings saga",
+  "region": "瑞典",
+  "era": "近代",
+  "era_detail": "19世纪90年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "瑞典语",
+  "author_id": "lagerlof",
+  "author_name": "塞尔玛·拉格洛夫",
+  "year_display": "1891年（作者页注记：Britannica B311——Gösta Berlings saga——年份通说待核）",
+  "year_sort": 1891,
+  "background": [
+    "作者页（B311）注记：Gösta Berlings saga——拉格洛夫代表作之一（骑鹅旅行记作者）。",
+    "Britannica（B311）：拉格洛夫——1909诺奖（首位女作家得主说待核——B311 口径）。",
+    "题材（通说待核）：被革职的牧师古斯泰与'恶魔的骑士团'——瑞典庄园传奇。"
+  ],
+  "outline": [
+    "（通说待核）牧师古斯泰被革职后加入农庄的狂欢骑士团。",
+    "（通说待核）辛克莱夫人的救赎与雪夜试炼。"
+  ],
+  "characters": [
+    {
+      "name": "古斯泰·贝林",
+      "identity": "革职牧师",
+      "note": "（B311 书名人物）"
+    },
+    {
+      "name": "玛格丽特·辛克莱",
+      "identity": "农庄女主人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "传奇与现实的交织（通说待核）。",
+    "'恶魔骑士团'的狂欢（通说待核）。",
+    "瑞典庄圆的浪漫主义（B311 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：拉格洛夫1909诺奖（B311 作者页语境）。",
+      "source": "B311"
+    },
+    {
+      "text": "Britannica：《骑鹅旅行记》为代表作（B311 交叉）。",
+      "source": "B311"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "瑞典浪漫主义传统。",
+      "传奇化的人物群像。"
+    ],
+    "editions": [
+      "《古斯泰·贝林的故事》中译名（《古斯泰·贝林传奇》）待核。",
+      "瑞典文原版（公有领域）。"
+    ],
+    "order": "拉格洛夫成名作；先于《骑鹅旅行记》。"
+  },
+  "pending": [
+    "1891年出版细节待核。",
+    "人物名（古斯泰/辛克莱）核对（通说）。",
+    "'恶魔骑士团'细节待核。"
+  ],
+  "sources": [
+    "B311"
+  ],
+  "year_source": "B311",
+  "author_source": "B311",
+  "related_works": [
+    "qieelvxing",
+    "nongmin",
+    "xinnuofusuobaken"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《古斯泰·贝林》传奇结构图",
+    "cards": [
+      {
+        "title": "古斯泰",
+        "text": "革职的牧师（B311）",
+        "color": "main"
+      },
+      {
+        "title": "骑士团",
+        "text": "狂欢的流浪（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "救赎",
+        "text": "雪夜的试炼（通说）",
+        "color": "family"
+      },
+      {
+        "title": "传奇",
+        "text": "现实的魔化（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
