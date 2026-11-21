@@ -1,0 +1,100 @@
+{
+  "id": "dulidemen",
+  "title": "独立的人们",
+  "original_title": "Sjálfstætt fólk",
+  "region": "冰岛",
+  "era": "现当代",
+  "era_detail": "20世纪30年代",
+  "genre": "长篇小说（两部）",
+  "genre_group": "小说",
+  "language": "冰岛语",
+  "author_id": "laxness",
+  "author_name": "哈尔多尔·拉克斯内斯",
+  "year_display": "1934-35年（Britannica B361：Sjálfstætt fólk (Independent People, 1934-35)）",
+  "year_sort": 1934,
+  "background": [
+    "Britannica（B361）：'the story of an impoverished farmer and his struggle to retain his economic independence'（一个赤贫农夫与其保持经济独立的斗争）。",
+    "Britannica（B361）：拉克斯内斯——1955诺奖——瑞典学院'with having renewed the great narrative art of Iceland'；'the most creative Icelandic writer of the 20th century'。",
+    "Britannica（B361）：同期 Salka Valka (1931-32)——'deals with the plight of working people in an Icelandic fishing village'。"
+  ],
+  "outline": [
+    "赤贫农夫的'独立'之战：羊、债与家庭（B361：struggle to retain his economic independence；人名通说待核）。",
+    "'独立'的代价：孤傲与失去（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "比约尔图·科勒克",
+      "identity": "农夫",
+      "note": "（通说待核，B361未载）"
+    }
+  ],
+  "themes": [
+    "经济独立的执念（B361）。",
+    "冰岛农庄的生存史诗（B361 语境）。",
+    "孤傲的悲剧（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1955诺奖——'renewed the great narrative art of Iceland'（B361）。",
+      "source": "B361"
+    },
+    {
+      "text": "Britannica：'the most creative Icelandic writer of the 20th century'（B361）。",
+      "source": "B361"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "冰岛农庄经济与氏族记忆。",
+      "'独立'的反讽结构（通说待核）。"
+    ],
+    "editions": [
+      "《独立的人们》中译本（人民文学等——通说待核）。",
+      "冰岛文原版。"
+    ],
+    "order": "拉克斯内斯首选；后接《冰岛之钟》。"
+  },
+  "pending": [
+    "农夫名（比约尔图·科勒克说）核对（B361未载）。",
+    "两部结构（'独立之诗'与'财产之诗'说）待核。",
+    "1934-35出版细节待核。"
+  ],
+  "sources": [
+    "B361"
+  ],
+  "year_source": "B361",
+  "author_source": "B361",
+  "related_works": [
+    "nongmin",
+    "peideluobalamo",
+    "qieelvxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《独立的人们》荒原独立图",
+    "cards": [
+      {
+        "title": "农夫",
+        "text": "'独立'之战（B361）",
+        "color": "main"
+      },
+      {
+        "title": "荒原",
+        "text": "冰岛的生存（B361语境）",
+        "color": "family"
+      },
+      {
+        "title": "债",
+        "text": "独立的代价（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "叙事艺术",
+        "text": "'更新'的诺奖辞（B361）",
+        "color": "gold"
+      }
+    ]
+  }
+}

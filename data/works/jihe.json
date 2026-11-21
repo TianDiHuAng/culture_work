@@ -1,0 +1,100 @@
+{
+  "id": "jihe",
+  "title": "饥饿",
+  "original_title": "Sult",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪80年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "挪威语",
+  "author_id": "hamsun",
+  "author_name": "克努特·汉姆生",
+  "year_display": "1890年（Britannica B360：Sult (Hunger, 1890)——半自传）",
+  "year_sort": 1890,
+  "background": [
+    "Britannica（B360）：'the story of a starving young writer in Norway'——半自传。",
+    "Britannica（B360）：'marked a clear departure from the social realism of the typical Norwegian novel of the period'——与当时挪威小说的社会现实主义决裂。",
+    "Britannica（B360）：'Its refreshing viewpoint and impulsive, lyrical style had an electrifying effect on European writers.'"
+  ],
+  "outline": [
+    "饥饿中的年轻作家在城市街头流浪：身体与理智的滑坡（B360：story of a starving young writer in Norway；城市名克里斯蒂安尼亚说通说待核）。",
+    "冲动而抒情的第一人称独白（B360：impulsive, lyrical style）。"
+  ],
+  "characters": [
+    {
+      "name": "无名作家",
+      "identity": "'我'",
+      "note": "（B360：starving young writer——半自传）"
+    }
+  ],
+  "themes": [
+    "饥饿的身体政治（B360）。",
+    "'我'的冲动与自我欺骗（B360：impulsive style 语境）。",
+    "与社会现实主义的决裂（B360）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'had an electrifying effect on European writers'（B360）。",
+      "source": "B360"
+    },
+    {
+      "text": "Britannica：高尔基、托马斯·曼、辛格'acknowledged him as a master'（B360）。",
+      "source": "B360"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "饥饿中的心理谵妄。",
+      "19世纪90年代奥斯陆（克里斯蒂安尼亚）背景（通说待核）。"
+    ],
+    "editions": [
+      "《饥饿》中译本（人民文学/上海译文等——通说待核）。",
+      "挪威文原版。"
+    ],
+    "order": "汉姆生首选；后接《大地的成长》。"
+  },
+  "pending": [
+    "城市名（克里斯蒂安尼亚说）核对（B360未载）。",
+    "1890年出版（Nielsen & Lydvo说）待核。",
+    "半自传细节核对（B360口径）。"
+  ],
+  "sources": [
+    "B360"
+  ],
+  "year_source": "B360",
+  "author_source": "B360",
+  "related_works": [
+    "zenodeyishi",
+    "leiyu",
+    "chengbao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《饥饿》身体滑坡图",
+    "cards": [
+      {
+        "title": "'我'",
+        "text": "饥饿的作家（B360）",
+        "color": "main"
+      },
+      {
+        "title": "街头",
+        "text": "城市的流浪（通说）",
+        "color": "family"
+      },
+      {
+        "title": "谵妄",
+        "text": "冲动的独白（B360）",
+        "color": "gold"
+      },
+      {
+        "title": "现实主义",
+        "text": "被决裂的传统（B360）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

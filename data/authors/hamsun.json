@@ -1,0 +1,68 @@
+{
+  "id": "hamsun",
+  "name": "克努特·汉姆生",
+  "foreign_name": "Knut Hamsun（克努特·汉姆生，1859-08-04—1952-02-19）",
+  "country": "挪威",
+  "birth": 1859,
+  "death": 1952,
+  "birth_year": 1859,
+  "death_year": 1952,
+  "era": "近代",
+  "summary": "汉姆生，挪威Lom生——1920年诺贝尔文学奖（B360）。Sult（饥饿, 1890）——半自传——'the story of a starving young writer in Norway'——'marked a clear departure from the social realism of the typical Norwegian novel of the period'——'Its refreshing viewpoint and impulsive, lyrical style had an electrifying effect on European writers.'（B360）。Pan (1894)——'asocial heroes'（B360）；Markens grøde（大地的成长, 1917）——'expresses a back-to-nature philosophy'（B360）。风格影响'Gorky, Thomas Mann, and Isaac Bashevis Singer'——'acknowledged him as a master'（B360）。二战支持德军占领挪威——战后以叛国罪拘禁、因年龄撤诉、判经济合作罚重款——'collaboration with the Nazis seriously damaged his reputation'（B360）。",
+  "timeline": [
+    {
+      "year": 1859,
+      "text": "8月4日生于挪威Lom（B360）。",
+      "src": "B360"
+    },
+    {
+      "year": 1890,
+      "text": "Sult（饥饿）——欧洲文坛的电击效应（B360）。",
+      "src": "B360"
+    },
+    {
+      "year": 1917,
+      "text": "Markens grøde（大地的成长）（B360）。",
+      "src": "B360"
+    },
+    {
+      "year": 1920,
+      "text": "获诺贝尔文学奖（B360）。",
+      "src": "B360"
+    },
+    {
+      "year": 1945,
+      "text": "战后因亲纳粹被拘禁；1952-02-19卒于Grimstad附近（B360：imprisoned as a traitor...age撤诉；卒年92岁）。",
+      "src": "B360"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jihe",
+      "note": "1890（B360）"
+    },
+    {
+      "work_id": "dadidechengzhang",
+      "note": "1917（B360）"
+    },
+    {
+      "title": "潘",
+      "note": "（B360：Pan (1894)）"
+    }
+  ],
+  "style": [
+    "'冲动而抒情'的风格（B360：impulsive, lyrical style）。",
+    "'asocial heroes'的反英雄（B360）。",
+    "归自然的哲学（B360：back-to-nature）。"
+  ],
+  "status": "Britannica 定位汉姆生为1920诺奖得主、影响高尔基/托马斯·曼/辛格的'大师'（B360）——并载其纳粹合作的污点（B360）。",
+  "sources": [
+    "B360"
+  ],
+  "dates_source": "B360",
+  "pending": [
+    "'欧洲作家的电击效应'具体影响对象待核（B360仅载高尔基/曼/辛格承认）。",
+    "拘禁与罚金细节待核（B360口径）。",
+    "中译名（《饥饿》）待核。"
+  ]
+}

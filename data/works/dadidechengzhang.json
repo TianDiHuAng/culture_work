@@ -1,0 +1,105 @@
+{
+  "id": "dadidechengzhang",
+  "title": "大地的成长",
+  "original_title": "Markens grøde",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "挪威语",
+  "author_id": "hamsun",
+  "author_name": "克努特·汉姆生",
+  "year_display": "1917年（Britannica B360：Markens grøde (Growth of the Soil, 1917)）",
+  "year_sort": 1917,
+  "background": [
+    "Britannica（B360）：'expresses a back-to-nature philosophy'（表达'归自然'的哲学）。",
+    "Britannica（B360）：本作发表三年后（1920）获诺贝尔文学奖（'Won the Nobel Prize for Literature in 1920'——B360 语境）。",
+    "题材（通说待核）：拓荒者艾萨克在荒原开垦——土地与生育的史诗。"
+  ],
+  "outline": [
+    "（通说待核——B360未载剧情）拓荒者与荒原：开垦、婚姻与生育。",
+    "（通说待核）现代性的侵入：矿线与金钱。"
+  ],
+  "characters": [
+    {
+      "name": "艾萨克",
+      "identity": "拓荒者",
+      "note": "（通说待核，B360未载）"
+    },
+    {
+      "name": "英格尔",
+      "identity": "妻子",
+      "note": "（通说待核，B360未载）"
+    }
+  ],
+  "themes": [
+    "'归自然'哲学（B360：back-to-nature）。",
+    "土地与生育的史诗（通说待核）。",
+    "对进步的'漠然或不敬'（B360：indifferent to or took an irreverent view of progress——Pan 语境延伸）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1920年诺贝尔文学奖（B360）。",
+      "source": "B360"
+    },
+    {
+      "text": "Britannica：'back-to-nature philosophy'（B360）。",
+      "source": "B360"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "挪威荒原农耕社会。",
+      "与《饥饿》的文风对比。"
+    ],
+    "editions": [
+      "《大地的成长》中译本（人民文学等——通说待核）。",
+      "挪威文原版。"
+    ],
+    "order": "汉姆生进阶；与《饥饿》对读。"
+  },
+  "pending": [
+    "艾萨克/英格尔人名核对（B360未载）。",
+    "剧情细节核对（通说）。",
+    "1920诺奖授奖理由与本作的关系待核。"
+  ],
+  "sources": [
+    "B360"
+  ],
+  "year_source": "B360",
+  "author_source": "B360",
+  "related_works": [
+    "nongmin",
+    "qieelvxing",
+    "peideluobalamo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《大地的成长》垦荒图",
+    "cards": [
+      {
+        "title": "荒原",
+        "text": "归自然（B360）",
+        "color": "gold"
+      },
+      {
+        "title": "拓荒者",
+        "text": "开垦与生育（通说）",
+        "color": "main"
+      },
+      {
+        "title": "现代性",
+        "text": "'不敬'的进步（B360）",
+        "color": "antagonist"
+      },
+      {
+        "title": "大地",
+        "text": "生育的史诗（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

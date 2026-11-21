@@ -1,0 +1,63 @@
+{
+  "id": "laxness",
+  "name": "哈尔多尔·拉克斯内斯",
+  "foreign_name": "Halldór Laxness（哈尔多尔·拉克斯内斯，原名 Halldór Kiljan Gudjónsson，1902-04-23—1998-02-08）",
+  "country": "冰岛",
+  "birth": 1902,
+  "death": 1998,
+  "birth_year": 1902,
+  "death_year": 1998,
+  "era": "现当代",
+  "summary": "拉克斯内斯，雷克雅未克生，冰岛小说家——1955年诺贝尔文学奖（B361）——瑞典学院'with having renewed the great narrative art of Iceland'（更新了冰岛伟大的叙事艺术——B361）；'the most creative Icelandic writer of the 20th century'（B361）。Sjálfstætt fólk（独立的人们, 1934-35）——'the story of an impoverished farmer and his struggle to retain his economic independence'（B361）；Salka Valka (1931-32)——'deals with the plight of working people in an Icelandic fishing village'（B361）；Heimsljós (1937-40) 四卷（B361）；Íslandsklukkan（冰岛之钟, 1943-46）三部曲（B361）。1950年代后'more lyrical and introspective'（B361）。",
+  "timeline": [
+    {
+      "year": 1902,
+      "text": "4月23日生于雷克雅未克（B361）。",
+      "src": "B361"
+    },
+    {
+      "year": 1934,
+      "text": "Sjálfstætt fólk（独立的人们, 1934-35）（B361）。",
+      "src": "B361"
+    },
+    {
+      "year": 1955,
+      "text": "获诺贝尔文学奖（B361）。",
+      "src": "B361"
+    },
+    {
+      "year": 1998,
+      "text": "2月8日卒于雷克雅未克近郊（B361）。",
+      "src": "B361"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "dulidemen",
+      "note": "1934-35（B361）"
+    },
+    {
+      "title": "冰岛之钟",
+      "note": "（B361：Íslandsklukkan (1943-46)——三部曲）"
+    },
+    {
+      "title": "会唱歌的鱼",
+      "note": "（B361：Brekkukotsannáll (1957; The Fish Can Sing)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'更新了冰岛伟大的叙事艺术'（B361：诺奖引语）。",
+    "穷苦渔村与农庄的现实主义（B361）。",
+    "晚期的抒情与内省（B361：more lyrical and introspective）。"
+  ],
+  "status": "Britannica 定位拉克斯内斯为'20世纪冰岛最具创造力的作家'、1955诺奖得主（B361）。",
+  "sources": [
+    "B361"
+  ],
+  "dates_source": "B361",
+  "pending": [
+    "Sjálfstætt fólk 通行译名（《独立的人们》）待核。",
+    "'冰岛之钟'三部曲卷名待核。",
+    "1955诺奖授奖词全文待核。"
+  ]
+}

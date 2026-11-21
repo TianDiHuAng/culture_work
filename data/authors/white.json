@@ -1,0 +1,73 @@
+{
+  "id": "white",
+  "name": "帕特里克·怀特",
+  "foreign_name": "Patrick White（帕特里克·怀特，1912-05-28—1990-09-30）",
+  "country": "澳大利亚",
+  "birth": 1912,
+  "death": 1990,
+  "birth_year": 1912,
+  "death_year": 1990,
+  "era": "现当代",
+  "summary": "怀特，伦敦生（澳大利亚作家），1973年诺贝尔文学奖（B359）——首位澳籍得主（'首位'提法B359未载——待核）。'White saw Australia as a country in a highly volatile process of growth and self-definition'（B359）；'His style is dense with myth, symbol, and allegory.'（B359）；'His deepest concern is for mans sense of isolation and his search for meaning.'（B359）。Voss (1957)、Riders in the Chariot (1961)、The Tree of Man (1955)——反映其'conception of Australia'——'individual, critical, poetic imagination'（B359）。处女作 Happy Valley (1939)——'showed the influence of D.H. Lawrence and Thomas Hardy'（B359）。",
+  "timeline": [
+    {
+      "year": 1912,
+      "text": "5月28日生于伦敦（B359）。",
+      "src": "B359"
+    },
+    {
+      "year": 1939,
+      "text": "Happy Valley——处女作（B359）。",
+      "src": "B359"
+    },
+    {
+      "year": 1955,
+      "text": "The Tree of Man（人树）（B359）。",
+      "src": "B359"
+    },
+    {
+      "year": 1957,
+      "text": "Voss（沃斯）（B359）。",
+      "src": "B359"
+    },
+    {
+      "year": 1973,
+      "text": "获诺贝尔文学奖（B359）。",
+      "src": "B359"
+    },
+    {
+      "year": 1990,
+      "text": "9月30日卒于悉尼（B359）。",
+      "src": "B359"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "vosi",
+      "note": "1957（B359）"
+    },
+    {
+      "title": "人树",
+      "note": "（B359：The Tree of Man (1955)——中译名待核）"
+    },
+    {
+      "title": "战车上的乘客",
+      "note": "（B359：Riders in the Chariot (1961)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'神话、象征与寓言'的密织风格（B359）。",
+    "'孤离感与意义追寻'的深层关切（B359）。",
+    "澳大利亚的自我定义（B359：growth and self-definition）。"
+  ],
+  "status": "Britannica 定位怀特为1973年诺奖得主、澳大利亚民族想象的核心书写者（B359）。",
+  "sources": [
+    "B359"
+  ],
+  "dates_source": "B359",
+  "pending": [
+    "'首位澳大利亚诺奖得主'提法待核（B359未载）。",
+    "Voss 剧情（探险家穿越内陆说）待核（B359未载）。",
+    "中译名（《沃斯》）待核。"
+  ]
+}

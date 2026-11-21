@@ -1,0 +1,105 @@
+{
+  "id": "vosi",
+  "title": "沃斯",
+  "original_title": "Voss",
+  "region": "澳大利亚",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "white",
+  "author_name": "帕特里克·怀特",
+  "year_display": "1957年（Britannica B359：Voss (1957)——与《人树》《战车上的乘客》并列为'conception of Australia'之作）",
+  "year_sort": 1957,
+  "background": [
+    "Britannica（B359）：Voss、Riders in the Chariot、The Tree of Man——怀特'conception of Australia'的反映——'individual, critical, poetic imagination'。",
+    "Britannica（B359）：'White saw Australia as a country in a highly volatile process of growth and self-definition'。",
+    "Britannica（B359）：'His style is dense with myth, symbol, and allegory.'；'His deepest concern is for mans sense of isolation and his search for meaning.'"
+  ],
+  "outline": [
+    "（通说待核——B359未载剧情）探险家沃斯率队穿越澳大利亚内陆的幻觉之旅。",
+    "（通说待核）内陆荒野与书信中的灵魂对话。"
+  ],
+  "characters": [
+    {
+      "name": "沃斯",
+      "identity": "探险家",
+      "note": "（B359 书名人物——细节通说待核）"
+    },
+    {
+      "name": "劳拉",
+      "identity": "书信对方",
+      "note": "（通说待核，B359未载）"
+    }
+  ],
+  "themes": [
+    "澳大利亚的自我定义（B359）。",
+    "孤离感与意义追寻（B359：mans sense of isolation and his search for meaning）。",
+    "神话、象征与寓言（B359：dense with myth, symbol, and allegory）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1973年诺贝尔文学奖（B359）。",
+      "source": "B359"
+    },
+    {
+      "text": "Britannica：'individual, critical, poetic imagination'（B359）。",
+      "source": "B359"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "神话—象征的密织文体（B359）。",
+      "19世纪殖民探险史（通说待核）。"
+    ],
+    "editions": [
+      "《沃斯》中译本（人民文学/译林等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "怀特首选；后接《人树》。"
+  },
+  "pending": [
+    "沃斯/劳拉人名核对（B359未载细节）。",
+    "剧情概要核对（探险家穿越内陆说——通说）。",
+    "1957年出版（Viking说）待核。"
+  ],
+  "sources": [
+    "B359"
+  ],
+  "year_source": "B359",
+  "author_source": "B359",
+  "related_works": [
+    "xueseziwuxian",
+    "meiyougexingderen",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《沃斯》内陆之旅图",
+    "cards": [
+      {
+        "title": "探险队",
+        "text": "穿越内陆（通说）",
+        "color": "main"
+      },
+      {
+        "title": "荒野",
+        "text": "民族的自我定义（B359）",
+        "color": "gold"
+      },
+      {
+        "title": "孤离",
+        "text": "'意义追寻'（B359）",
+        "color": "family"
+      },
+      {
+        "title": "书信",
+        "text": "灵魂的对话（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
