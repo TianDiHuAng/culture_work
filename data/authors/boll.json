@@ -1,0 +1,68 @@
+{
+  "id": "boll",
+  "name": "海因里希·伯尔",
+  "foreign_name": "Heinrich Böll（海因里希·伯尔，1917-12-21—1985-07-16）",
+  "country": "德国",
+  "birth": 1917,
+  "death": 1985,
+  "birth_year": 1917,
+  "death_year": 1985,
+  "era": "现当代",
+  "summary": "伯尔，科隆生，德国小说家——1972年诺贝尔文学奖（B350）。六年德军服役（列兵/下士，俄线等）——'the frightful fate of being a soldier and having to wish that the war might be lost.'（B350）。The Clown（小丑, 1963）——主角'deteriorates through drinking from being a well-paid entertainer to a begging street musician'——批判社会伪善（B350）；The Lost Honour of Katharina Blum（1974）——'attacked modern journalistic ethics'（B350）；Group Portrait with Lady (1971)——'a panorama of German life'（B350）。罗马天主教和平主义者；'rubble literature'（废墟文学）代表；'the eras leading humanist interpreter of Germanys WWII experience'（B350）。",
+  "timeline": [
+    {
+      "year": 1917,
+      "text": "12月21日生于科隆（B350）。",
+      "src": "B350"
+    },
+    {
+      "year": 1938,
+      "text": "服强制劳役，此后六年德军服役——受伤、逃离、被俘（B350）。",
+      "src": "B350"
+    },
+    {
+      "year": 1949,
+      "text": "The Train Was on Time——士兵生活的阴郁（B350）。",
+      "src": "B350"
+    },
+    {
+      "year": 1972,
+      "text": "获诺贝尔文学奖（B350）。",
+      "src": "B350"
+    },
+    {
+      "year": 1985,
+      "text": "7月16日卒于科隆近郊Bornheim-Merten（B350）。",
+      "src": "B350"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xiaochou",
+      "note": "1963（B350）"
+    },
+    {
+      "work_id": "katarinabulum",
+      "note": "1974（B350）"
+    },
+    {
+      "title": "女士及众生相",
+      "note": "（B350：Group Portrait with Lady (1971)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'废墟文学'（B350：rubble literature）。",
+    "简朴的散文与锋利的讽刺（B350：austere prose and sharp satire）。",
+    "个人责任与和平主义（B350：Roman Catholic pacifist）。"
+  ],
+  "status": "Britannica 定位伯尔为1972诺奖得主、德国二战经验的'首要人文主义者'（B350）。",
+  "sources": [
+    "B350"
+  ],
+  "dates_source": "B350",
+  "pending": [
+    "The Clown 通行译名（《小丑之见》/《小丑》）待核。",
+    "Katharina Blum 通行译名待核。",
+    "'废墟文学'提法出处（47年聚会说）待核。"
+  ]
+}

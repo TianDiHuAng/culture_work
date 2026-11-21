@@ -1,0 +1,63 @@
+{
+  "id": "buzzati",
+  "name": "迪诺·布扎蒂",
+  "foreign_name": "Dino Buzzati（迪诺·布扎蒂，1906-10-16—1972-01-28）",
+  "country": "意大利",
+  "birth": 1906,
+  "death": 1972,
+  "birth_year": 1906,
+  "death_year": 1972,
+  "era": "现当代",
+  "summary": "布扎蒂，贝卢诺生，意大利小说家、记者——1928年入米兰晚邮报，'He stayed with the newspaper for the rest of his life'（B351）；二战随意大利海军在非洲任随军记者（B351）。Il deserto dei Tartari（鞑靼人沙漠, 1940）——'generally considered Buzzatis finest'（B351）——边哨士兵'poised in expectancy for an enemy who never comes and unable to go forward or retreat'（等待永不来的敌人，不能前进亦不能撤退——B351）。早期山岳小说'introduced the Kafkaesque surrealism, symbolism, and absurdity'（B351）；其写作有'uniquely devastating skill and detached sense of irony and humor'（B351）。",
+  "timeline": [
+    {
+      "year": 1906,
+      "text": "10月16日生于贝卢诺（B351）。",
+      "src": "B351"
+    },
+    {
+      "year": 1928,
+      "text": "入米兰晚邮报，终身未离（B351）。",
+      "src": "B351"
+    },
+    {
+      "year": 1940,
+      "text": "Il deserto dei Tartari（鞑靼人沙漠）——其最佳（B351）。",
+      "src": "B351"
+    },
+    {
+      "year": 1972,
+      "text": "1月28日卒于罗马（B351）。",
+      "src": "B351"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "datatarenshamo",
+      "note": "1940（B351）"
+    },
+    {
+      "title": "六十篇",
+      "note": "（B351：Sessanta racconti (1958)——中译名待核）"
+    },
+    {
+      "title": "爱",
+      "note": "（B351：Un amore (1963)——中译名待核）"
+    }
+  ],
+  "style": [
+    "卡夫卡式的超现实与荒诞（B351：Kafkaesque surrealism, symbolism, and absurdity）。",
+    "疏离的反讽与幽默（B351：detached sense of irony）。",
+    "'等待'的主题（B351：expectancy for an enemy who never comes）。"
+  ],
+  "status": "Britannica 定位布扎蒂为晚邮报终身记者、《鞑靼人沙漠》为其最佳（B351）。",
+  "sources": [
+    "B351"
+  ],
+  "dates_source": "B351",
+  "pending": [
+    "《鞑靼人沙漠》通行译名两说（/《鞑靼人草原》）待核。",
+    "堡名（Bastiani说）待核（B351未载）。",
+    "德罗戈人名待核（B351未载）。"
+  ]
+}

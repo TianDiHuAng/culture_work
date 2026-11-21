@@ -1,0 +1,105 @@
+{
+  "id": "katarinabulum",
+  "title": "丧失名誉的卡塔琳娜·布鲁姆",
+  "original_title": "Die verlorene Ehre der Katharina Blum",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "boll",
+  "author_name": "海因里希·伯尔",
+  "year_display": "1974年（Britannica B350：The Lost Honour of Katharina Blum (1974)）",
+  "year_sort": 1974,
+  "background": [
+    "Britannica（B350）：'attacked modern journalistic ethics'（抨击现代新闻伦理）与德国价值观。",
+    "Britannica（B350）：伯尔——'personal responsibility'的反复主题；1972诺奖。",
+    "题材（通说待核）：无辜女子被小报摧毁——'名誉'的媒体绞杀。"
+  ],
+  "outline": [
+    "'新闻自由'如何毁灭一个普通人：报道、审讯与名誉的丧失（B350：attacked modern journalistic ethics；情节通说待核）。",
+    "暴力与媒体的共谋（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "卡塔琳娜·布鲁姆",
+      "identity": "女管家",
+      "note": "（B350 书名人物）"
+    },
+    {
+      "name": "托特格斯",
+      "identity": "记者",
+      "note": "（通说待核，B350未载）"
+    }
+  ],
+  "themes": [
+    "新闻伦理的批判（B350）。",
+    "'名誉'的社会机制（B350 书名）。",
+    "个人责任（B350：recurring focus on personal responsibility）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'attacked modern journalistic ethics'（B350）。",
+      "source": "B350"
+    },
+    {
+      "text": "Britannica：1977年电影改编说待核（B348式'多部改编'未载本作——不采）。",
+      "source": "B350"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1970年代西德恐怖主义背景（巴德尔-迈因霍夫说待核）。",
+      "新闻文体拼贴（通说待核）。"
+    ],
+    "editions": [
+      "《丧失名誉的卡塔琳娜·布鲁姆》中译本（人民文学等——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "伯尔进阶；与《小丑之见》对读。"
+  },
+  "pending": [
+    "托特格斯人名核对（B350未载）。",
+    "1977年施隆多夫电影说待核。",
+    "'新闻拼贴'文体细节待核。"
+  ],
+  "sources": [
+    "B350"
+  ],
+  "year_source": "B350",
+  "author_source": "B350",
+  "related_works": [
+    "leiyu",
+    "xinshigudeLieshou",
+    "bao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《卡塔琳娜·布鲁姆》名誉绞杀图",
+    "cards": [
+      {
+        "title": "卡塔琳娜",
+        "text": "被摧毁的普通人（B350）",
+        "color": "main"
+      },
+      {
+        "title": "小报",
+        "text": "新闻伦理的靶子（B350）",
+        "color": "antagonist"
+      },
+      {
+        "title": "名誉",
+        "text": "社会的绞索（B350）",
+        "color": "gold"
+      },
+      {
+        "title": "审讯",
+        "text": "体制的共谋（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

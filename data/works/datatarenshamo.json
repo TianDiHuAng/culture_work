@@ -1,0 +1,105 @@
+{
+  "id": "datatarenshamo",
+  "title": "鞑靼人沙漠",
+  "original_title": "Il deserto dei Tartari",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪30年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "buzzati",
+  "author_name": "迪诺·布扎蒂",
+  "year_display": "1940年（Britannica B351：Il deserto dei Tartari (1940；亦译 The Stronghold)——'generally considered Buzzatis finest'）",
+  "year_sort": 1940,
+  "background": [
+    "Britannica（B351）：'generally considered Buzzatis finest'——边哨士兵'poised in expectancy for an enemy who never comes and unable to go forward or retreat'（等待永不来的敌人，不能前进亦不能撤退）。",
+    "Britannica（B351）：布扎蒂早期山岳小说'introduced the Kafkaesque surrealism, symbolism, and absurdity'；受卡夫卡影响而有其'own ironic, detached humor'。",
+    "Britannica（B351）：布扎蒂——晚邮报终身记者。"
+  ],
+  "outline": [
+    "边疆要塞的等待：士兵们终身守候从不来的'鞑靼人'（B351：expectancy for an enemy who never comes；堡名与人物名通说待核）。",
+    "'不能前进亦不能撤退'：一生的消耗（B351）。"
+  ],
+  "characters": [
+    {
+      "name": "德罗戈",
+      "identity": "新兵",
+      "note": "（通说待核，B351未载）"
+    },
+    {
+      "name": "堡",
+      "identity": "要塞",
+      "note": "（B351：frontier post——名待核）"
+    }
+  ],
+  "themes": [
+    "等待的荒诞（B351）。",
+    "'不能前进亦不能撤退'的存在困境（B351）。",
+    "卡夫卡式荒诞的意大利化（B351：Kafkaesque surrealism）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'generally considered Buzzatis finest'（B351）。",
+      "source": "B351"
+    },
+    {
+      "text": "Britannica：'detached sense of irony and humor'（B351）。",
+      "source": "B351"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'等待'的时间感（一生与一日的交错）。",
+      "与《城堡》《等待戈多》的互文。"
+    ],
+    "editions": [
+      "《鞑靼人沙漠》中译本（人民文学/上海译文等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "布扎蒂首选；可与《城堡》《等待戈多》对读。"
+  },
+  "pending": [
+    "德罗戈人名核对（B351未载）。",
+    "堡名（Bastiani说）待核。",
+    "1976年电影改编说待核。"
+  ],
+  "sources": [
+    "B351"
+  ],
+  "year_source": "B351",
+  "author_source": "B351",
+  "related_works": [
+    "chengbao",
+    "dengdaigou",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《鞑靼人沙漠》等待结构图",
+    "cards": [
+      {
+        "title": "要塞",
+        "text": "边哨的一生（B351）",
+        "color": "family"
+      },
+      {
+        "title": "鞑靼人",
+        "text": "从不来的敌人（B351）",
+        "color": "antagonist"
+      },
+      {
+        "title": "等待",
+        "text": "'不能进亦不能退'（B351）",
+        "color": "main"
+      },
+      {
+        "title": "荒诞",
+        "text": "卡夫卡式的荒原（B351）",
+        "color": "gold"
+      }
+    ]
+  }
+}

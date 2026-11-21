@@ -1,54 +1,59 @@
 {
   "id": "rulfo",
   "name": "胡安·鲁尔福",
-  "foreign_name": "Juan Rulfo（胡安·鲁尔福，1917—1986）",
+  "foreign_name": "Juan Rulfo（胡安·鲁尔福，全名 Juan Nepomuceno Carlos Pérez Rulfo Vizcaíno，1917-05-16—1986-01-07）",
   "country": "墨西哥",
   "birth": 1917,
   "death": 1986,
   "birth_year": 1917,
   "death_year": 1986,
   "era": "现当代",
-  "summary": "鲁尔福，墨西哥作家——'regarded as one of the finest novelists and short-story writers in 20th-century Latin America despite publishing essentially only two books'（仅出版约两本书即被视为20世纪拉美最优秀的小说家与短篇家之一——Britannica）。其小说汲取墨西哥乡村的暴力经验、影响魔幻现实主义运动（Britannica）。《佩德罗·巴拉莫》（1955）：'examines the physical and moral disintegration of a laconic cacique'，'set in a mythical hell on earth inhabited by the dead'（B244）。'He had an enormous impact on those Latin American authors, including Gabriel García Márquez'（B244）。",
+  "summary": "鲁尔福，墨西哥生（生地页面存疑——B352 研究者注记），墨西哥小说家——'considered one of the finest novelists and short-story creators in 20th-century Latin America'（B352）；'often seen as the last of the novelists of the Mexican Revolution'（常被视为墨西哥革命最后一位小说家——B352）。El llano en llamas（平原上的火焰, 1953）——短篇'depict the violence of the rural environment and the moral stagnation of its people'（B352）。Pedro Páramo（佩德罗·巴拉莫, 1955）——'the physical and moral disintegration of a laconic cacique (boss)'——'set in a mythical hell on earth inhabited by the dead'（B352）。技巧：'stream of consciousness, flashbacks, and shifting points of view'（B352）；'an avowed follower of the American novelist William Faulkner'（B352）；影响马尔克斯等魔幻现实主义作家——'did not theorize about it'（B352）。",
   "timeline": [
     {
       "year": 1917,
-      "text": "5月16日生于墨西哥（Britannica：Born May 16, 1917 (Apulco?, Mexico)——出生地该页存疑）。",
-      "src": "B244"
+      "text": "5月16日生于墨西哥（生地存疑——B352 研究者注记）。",
+      "src": "B352"
+    },
+    {
+      "year": 1953,
+      "text": "El llano en llamas（平原上的火焰）——短篇集（B352）。",
+      "src": "B352"
     },
     {
       "year": 1955,
-      "text": "《佩德罗·巴拉莫》出版（Britannica：1955）。",
-      "src": "B244"
+      "text": "Pedro Páramo（佩德罗·巴拉莫）（B352）。",
+      "src": "B352"
     },
     {
       "year": 1986,
-      "text": "1月7日卒于墨西哥城（Britannica：died January 7, 1986, Mexico City）。",
-      "src": "B244"
+      "text": "1月7日卒于墨西哥城（B352）。",
+      "src": "B352"
     }
   ],
   "major_works": [
     {
       "work_id": "peideluobalamo",
-      "note": "中长篇（Britannica：1955）"
+      "note": "1955（B352）"
     },
     {
-      "title": "燃烧的原野",
-      "note": "短篇集（通说待核）"
+      "title": "平原上的火焰",
+      "note": "（B352：El llano en llamas (1953)——中译名待核）"
     }
   ],
   "style": [
-    "乡村暴力的诗意回声（Britannica：Mexico's rural violence）。",
-    "生死一体的'科马拉'：亡灵的地理（Britannica：mythical hell on earth inhabited by the dead）。",
-    "沉默的卡西克：权力与其败坏（Britannica：physical and moral disintegration of a laconic cacique）。"
+    "'意识流、闪回与视点漂移'（B352）。",
+    "福克纳的自觉追随者（B352）。",
+    "乡村暴力的凝视（B352：violence of the rural environment）。"
   ],
-  "status": "Britannica 定位鲁尔福为拉美20世纪最优秀小说家之一（两书立身）；'enormous impact'于马尔克斯等魔幻现实主义作家（B244）。",
+  "status": "Britannica 定位鲁尔福为20世纪拉美最优秀的小说家/短篇家之一、魔幻现实主义的先声（B352）。",
   "sources": [
-    "B244"
+    "B352"
   ],
-  "dates_source": "B244",
+  "dates_source": "B352",
   "pending": [
-    "出生地（Apulco?）与圣加布里埃尔镇说核对。",
-    "《燃烧的原野》（El Llano en llamas，1953）待核。",
-    "科马拉村名与'巴拉莫'词义（parámo）考订待核。"
+    "生地核对（Apulco? / San Gabriel说——B352 存疑注记）。",
+    "Comala 镇名核对（B352未载——通说）。",
+    "1955年出版史细节待核。"
   ]
 }

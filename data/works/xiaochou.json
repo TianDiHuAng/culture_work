@@ -1,0 +1,100 @@
+{
+  "id": "xiaochou",
+  "title": "小丑之见",
+  "original_title": "Ansichten eines Clowns",
+  "region": "德国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "boll",
+  "author_name": "海因里希·伯尔",
+  "year_display": "1963年（Britannica B350：The Clown (Ansichten eines Clowns, 1963)）",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B350）：The Clown——主角'deteriorates through drinking from being a well-paid entertainer to a begging street musician'（借酒沉沦：从高薪滑稽演员到街头卖艺乞丐）。",
+    "Britannica（B350）：本作'critiques societal hypocrisy'（批判社会伪善）。",
+    "Britannica（B350）：伯尔——'the eras leading humanist interpreter of Germanys WWII experience'；罗马天主教和平主义者。"
+  ],
+  "outline": [
+    "小丑汉斯的自述：一日之间从舞台到街头（B350：deteriorates through drinking；人物名与一日结构通说待核）。",
+    "天主教中产社会的伪善：婚姻、教义与金钱（B350：critiques societal hypocrisy）。"
+  ],
+  "characters": [
+    {
+      "name": "汉斯·施尼尔",
+      "identity": "小丑",
+      "note": "（通说待核，B350未载）"
+    }
+  ],
+  "themes": [
+    "社会伪善的批判（B350）。",
+    "沉沦与尊严（B350：deteriorates through drinking）。",
+    "天主教中产的婚姻伦理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：伯尔1972年诺奖——'the eras leading humanist interpreter of Germanys WWII experience'（B350）。",
+      "source": "B350"
+    },
+    {
+      "text": "Britannica：'austere prose and sharp satire'（B350）。",
+      "source": "B350"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西德天主教社会背景。",
+      "'一日结构'的自述形式（通说待核）。"
+    ],
+    "editions": [
+      "《小丑之见》中译本（人民文学/上海译文等——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "伯尔首选；后接《丧失名誉的卡塔琳娜·布鲁姆》。"
+  },
+  "pending": [
+    "汉斯·施尼尔等人名核对（B350未载）。",
+    "'一日结构'说法待核。",
+    "1963年出版（Kiepenheuer & Witsch说）待核。"
+  ],
+  "sources": [
+    "B350"
+  ],
+  "year_source": "B350",
+  "author_source": "B350",
+  "related_works": [
+    "leiyu",
+    "xueseziwuxian",
+    "zenodeyishi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小丑之见》沉沦结构图",
+    "cards": [
+      {
+        "title": "小丑",
+        "text": "从舞台到街头（B350）",
+        "color": "main"
+      },
+      {
+        "title": "伪善",
+        "text": "社会的靶心（B350）",
+        "color": "antagonist"
+      },
+      {
+        "title": "天主教",
+        "text": "和平主义者的目光（B350）",
+        "color": "gold"
+      },
+      {
+        "title": "沉沦",
+        "text": "借酒的滑落（B350）",
+        "color": "family"
+      }
+    ]
+  }
+}
