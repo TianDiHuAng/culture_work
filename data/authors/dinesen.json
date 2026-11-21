@@ -1,0 +1,68 @@
+{
+  "id": "dinesen",
+  "name": "伊萨克·迪内森",
+  "foreign_name": "Isak Dinesen（伊萨克·迪内森，原名 Karen Christence Dinesen，男爵夫人 Blixen-Finecke，1885-04-17—1962-09-07）",
+  "country": "丹麦",
+  "birth": 1885,
+  "death": 1962,
+  "birth_year": 1885,
+  "death_year": 1962,
+  "era": "近代",
+  "summary": "迪内森（男爵夫人布利克森），丹麦Rungsted生——Seven Gothic Tales（七篇哥特故事, 1934）——'highly polished narratives in the Romantic tradition'——'incorporate the themes of eros and dreams'（B388）。Out of Africa（走出非洲, 1937）——肯尼亚岁月的非虚构回忆——'a poetic reminiscence of her triumphs and her sorrows on the loss of her farm'——'an almost mystical love of Africa and its people'（B388）。1914年嫁表兄男爵、经营咖啡庄园、1921年离异后'continued to operate the plantation for 10 years'——'mismanagement, drought, and the falling price of coffee forced her return to Denmark'（B388）。先英文后丹麦文重写（B388）。",
+  "timeline": [
+    {
+      "year": 1885,
+      "text": "4月17日生于丹麦Rungsted（B388）。",
+      "src": "B388"
+    },
+    {
+      "year": 1914,
+      "text": "嫁表兄男爵赴肯尼亚经营咖啡庄园（B388）。",
+      "src": "B388"
+    },
+    {
+      "year": 1934,
+      "text": "Seven Gothic Tales——'浪漫传统的打磨叙事'（B388）。",
+      "src": "B388"
+    },
+    {
+      "year": 1937,
+      "text": "Out of Africa（走出非洲）（B388）。",
+      "src": "B388"
+    },
+    {
+      "year": 1962,
+      "text": "9月7日卒于Rungsted（B388）。",
+      "src": "B388"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zouchufeizhou",
+      "note": "1937（B388）"
+    },
+    {
+      "title": "七篇哥特故事",
+      "note": "（B388：Seven Gothic Tales (1934)——中译名待核）"
+    },
+    {
+      "title": "冬天的故事集",
+      "note": "（B388：Winter's Tales (1942)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'浪漫传统的打磨叙事'（B388：highly polished narratives）。",
+    "'eros 与梦'的主题（B388）。",
+    "'对非洲及其人民近乎神秘的爱'（B388）。"
+  ],
+  "status": "Britannica 定位迪内森为《走出非洲》作者、哥特故事与回忆录的双栖作家（B388）。",
+  "sources": [
+    "B388"
+  ],
+  "dates_source": "B388",
+  "pending": [
+    "诺奖与否——B388 页未提（不采）。",
+    "《走出非洲》1985年电影说待核（通说）。",
+    "Denys Finch Hatton 卒年（1931说）待核。"
+  ]
+}

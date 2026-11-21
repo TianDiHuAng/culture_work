@@ -1,0 +1,105 @@
+{
+  "id": "zouchufeizhou",
+  "title": "走出非洲",
+  "original_title": "Out of Africa",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "回忆录",
+  "genre_group": "散文",
+  "language": "英语（丹麦文重写）",
+  "author_id": "dinesen",
+  "author_name": "伊萨克·迪内森",
+  "year_display": "1937年（Britannica B388：Out of Africa (1937; Den afrikanske farm)）",
+  "year_sort": 1937,
+  "background": [
+    "Britannica（B388）：肯尼亚岁月的非虚构回忆——'a poetic reminiscence of her triumphs and her sorrows on the loss of her farm'——'an almost mystical love of Africa and its people'。",
+    "Britannica（B388）：1914年嫁表兄男爵、经营咖啡庄园、1921年离异后'continued to operate the plantation for 10 years'——'mismanagement, drought, and the falling price of coffee forced her return to Denmark'。",
+    "Britannica（B388）：'She initially wrote first in English and then rewrote her books in Danish'。"
+  ],
+  "outline": [
+    "（通说待核）庄园的岁月：土著、猎游与'文明'的边界。",
+    "（通说待核）庄园的失去与'走出非洲'的告别。"
+  ],
+  "characters": [
+    {
+      "name": "男爵夫人（'我'）",
+      "identity": "庄园主",
+      "note": "（B388 语境）"
+    },
+    {
+      "name": "丹尼斯·芬奇·哈顿",
+      "identity": "猎人伴侣",
+      "note": "（B388：Denys Finch Hatton——通说待核）"
+    }
+  ],
+  "themes": [
+    "'近乎神秘的非洲之爱'（B388：an almost mystical love）。",
+    "庄园的失去（B388：the loss of her farm）。",
+    "'诗意回忆'的非虚构（B388：poetic reminiscence）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'poetic reminiscence'（B388）。",
+      "source": "B388"
+    },
+    {
+      "text": "Britannica：'almost mystical love of Africa'（B388）。",
+      "source": "B388"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "回忆录与自传的边界。",
+      "肯尼亚殖民史（通说待核）。"
+    ],
+    "editions": [
+      "《走出非洲》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "迪内森代表作；与《七篇哥特故事》对读。"
+  },
+  "pending": [
+    "丹尼斯·芬奇·哈顿卒年（1931说）待核。",
+    "1937年出版细节待核。",
+    "1985年电影改编说待核（通说）。"
+  ],
+  "sources": [
+    "B388"
+  ],
+  "year_source": "B388",
+  "author_source": "B388",
+  "related_works": [
+    "gushiji",
+    "luomansailuo",
+    "xiaoyindejiti"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《走出非洲》庄园回忆图",
+    "cards": [
+      {
+        "title": "非洲",
+        "text": "'神秘的爱'（B388）",
+        "color": "gold"
+      },
+      {
+        "title": "庄园",
+        "text": "咖啡的岁月（通说）",
+        "color": "main"
+      },
+      {
+        "title": "失去",
+        "text": "'triumphs and sorrows'（B388）",
+        "color": "antagonist"
+      },
+      {
+        "title": "走出",
+        "text": "告别的诗（书名）",
+        "color": "family"
+      }
+    ]
+  }
+}

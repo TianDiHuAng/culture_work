@@ -1,0 +1,100 @@
+{
+  "id": "balabasi",
+  "title": "巴拉巴斯",
+  "original_title": "Barabbas",
+  "region": "瑞典",
+  "era": "近代",
+  "era_detail": "20世纪50年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "瑞典语",
+  "author_id": "lagerkvist",
+  "author_name": "帕尔·拉格克维斯特",
+  "year_display": "1950年（Britannica B387：Barabbas (1950)——'With Barabbas (1950) he achieved world recognition'）",
+  "year_sort": 1950,
+  "background": [
+    "Britannica（B387）：'With Barabbas (1950) he achieved world recognition'（由此世界闻名）。",
+    "Britannica（B387）：拉格克维斯特——1951诺奖。",
+    "题材（通说待核）：被释放的强盗巴拉巴斯——目睹基督之死后的黑暗求索。"
+  ],
+  "outline": [
+    "（通说待核）巴拉巴斯被释放：'代他'而死者的追随。",
+    "（通说待核）黑暗中'信'与'不信'的摇摆。"
+  ],
+  "characters": [
+    {
+      "name": "巴拉巴斯",
+      "identity": "被释放的强盗",
+      "note": "（B387 书名人物）"
+    }
+  ],
+  "themes": [
+    "'黑暗中'的信仰求索（通说待核）。",
+    "'代他'的救赎反讽（书名语境——通说待核）。",
+    "一战的悲观底色（B387：Ångest 语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'achieved world recognition'（B387）。",
+      "source": "B387"
+    },
+    {
+      "text": "Britannica：1951诺奖（B387 交叉）。",
+      "source": "B387"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "宗教寓意的解读。",
+      "'强盗'视点的福音对照。"
+    ],
+    "editions": [
+      "《巴拉巴斯》中译名（《巴拉巴》）待核。",
+      "瑞典文原版。"
+    ],
+    "order": "拉格克维斯特首选；与《侏儒》对读。"
+  },
+  "pending": [
+    "巴拉巴斯人名核对（B387书名）。",
+    "1950年出版细节待核。",
+    "1961年电影改编说待核（通说）。"
+  ],
+  "sources": [
+    "B387"
+  ],
+  "year_source": "B387",
+  "author_source": "B387",
+  "related_works": [
+    "derinahe",
+    "dulidemen",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《巴拉巴斯》黑暗求索图",
+    "cards": [
+      {
+        "title": "巴拉巴斯",
+        "text": "被释放的强盗（B387）",
+        "color": "main"
+      },
+      {
+        "title": "黑暗",
+        "text": "信仰的求索（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "十字架",
+        "text": "'代他'的反讽（通说）",
+        "color": "family"
+      },
+      {
+        "title": "1950",
+        "text": "世界闻名之年（B387）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

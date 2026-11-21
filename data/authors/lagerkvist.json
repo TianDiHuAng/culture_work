@@ -1,0 +1,68 @@
+{
+  "id": "lagerkvist",
+  "name": "帕尔·拉格克维斯特",
+  "foreign_name": "Pär Fabian Lagerkvist（帕尔·法比安·拉格克维斯特，1891-05-23—1974-07-11）",
+  "country": "瑞典",
+  "birth": 1891,
+  "death": 1974,
+  "birth_year": 1891,
+  "death_year": 1974,
+  "era": "近代",
+  "summary": "拉格克维斯特，瑞典韦克舍生，作家——1951年诺贝尔文学奖（B387）。Dvärgen（侏儒, 1944）——'became his first best-seller'（首部畅销书——B387）；Barabbas（巴拉巴斯, 1950）——'With Barabbas (1950) he achieved world recognition'（B387）。Ångest（苦闷, 1916）——一战悲观（B387）；Bödeln（刽子手, 1933）——'a protest against brutality'（B387）。'The influence of his early years remained strong despite his introduction to modern scientific ideas.'（B387）。",
+  "timeline": [
+    {
+      "year": 1891,
+      "text": "5月23日生于瑞典韦克舍（B387）。",
+      "src": "B387"
+    },
+    {
+      "year": 1916,
+      "text": "Ångest（苦闷）——一战悲观（B387）。",
+      "src": "B387"
+    },
+    {
+      "year": 1944,
+      "text": "Dvärgen（侏儒）——首部畅销书（B387）。",
+      "src": "B387"
+    },
+    {
+      "year": 1951,
+      "text": "获诺贝尔文学奖（B387）。",
+      "src": "B387"
+    },
+    {
+      "year": 1974,
+      "text": "7月11日卒于斯德哥尔摩（B387）。",
+      "src": "B387"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "balabasi",
+      "note": "1950（B387）"
+    },
+    {
+      "title": "侏儒",
+      "note": "（B387：Dvärgen (1944)——中译名待核）"
+    },
+    {
+      "title": "刽子手",
+      "note": "（B387：Bödeln (1933)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'善恶'寓意的宗教书写（B387：Barabbas/Dvärgen 语境）。",
+    "一战的悲观与暴力的抗议（B387：Ångest/Bödeln）。",
+    "'早期影响始终强烈'（B387 引文）。"
+  ],
+  "status": "Britannica 定位拉格克维斯特为1951诺奖得主、《巴拉巴斯》使其世界闻名（B387）。",
+  "sources": [
+    "B387"
+  ],
+  "dates_source": "B387",
+  "pending": [
+    "《巴拉巴斯》通行译名（《巴拉巴》）待核。",
+    "《侏儒》剧情细节待核（B387未载）。",
+    "'stage oratorio'（Låt människan leva 1949）细节待核。"
+  ]
+}
