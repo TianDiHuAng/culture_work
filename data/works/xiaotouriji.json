@@ -1,0 +1,100 @@
+{
+  "id": "xiaotouriji",
+  "title": "小偷日记",
+  "original_title": "Journal du voleur",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪40年代末",
+  "genre": "自传性小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "genet",
+  "author_name": "让·热内",
+  "year_display": "1949年（Britannica B400：Journal du voleur (1949; The Thief's Journal)）",
+  "year_sort": 1949,
+  "background": [
+    "Britannica（B400）：Journal du voleur——'The Thief's Journal'——作品列表。",
+    "Britannica（B400）：热内——'transformed erotic and often obscene subject matter into a poetic vision of the universe'。",
+    "题材（通说待核）：流浪欧洲的'小偷'自述——背叛作为'美德'。"
+  ],
+  "outline": [
+    "（通说待核）西班牙/比利时的流浪：监狱、乞讨与'背叛'。",
+    "（通说待核）'物品'的圣化（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "热内（'我'）",
+      "identity": "小偷/流浪者",
+      "note": "（B400 语境）"
+    }
+  ],
+  "themes": [
+    "'背叛'的美学（通说待核）。",
+    "'情色题材的诗性宇宙'（B400）。",
+    "'预先赦免'的自白（B400：pardoned in advance 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Journal du voleur (1949)（B400）。",
+      "source": "B400"
+    },
+    {
+      "text": "Britannica：'poetic vision of the universe'（B400）。",
+      "source": "B400"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'自传'的虚构性。",
+      "'背叛'的伦理倒置。"
+    ],
+    "editions": [
+      "《小偷日记》中译本（人民文学等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "热内自传篇；与《鲜花圣母》对读。"
+  },
+  "pending": [
+    "流浪路线核对（通说）。",
+    "1949年出版（Gallimard说）待核。",
+    "'背叛'段落细节待核。"
+  ],
+  "sources": [
+    "B400"
+  ],
+  "year_source": "B400",
+  "author_source": "B400",
+  "related_works": [
+    "xianhuashengmu",
+    "nvpu",
+    "gududemigong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小偷日记》流浪结构图",
+    "cards": [
+      {
+        "title": "小偷",
+        "text": "流浪的自述（书名）",
+        "color": "main"
+      },
+      {
+        "title": "背叛",
+        "text": "'美德'的倒置（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "诗性",
+        "text": "'宇宙的图景'（B400）",
+        "color": "gold"
+      },
+      {
+        "title": "欧洲",
+        "text": "监狱与街道（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

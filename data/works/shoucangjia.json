@@ -1,0 +1,105 @@
+{
+  "id": "shoucangjia",
+  "title": "收藏家",
+  "original_title": "The Collector",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fowles",
+  "author_name": "约翰·福尔斯",
+  "year_display": "1963年（Britannica B399：The Collector (1963; filmed 1965)——'about a shy man who kidnaps a girl in a hapless search for love'）",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B399）：The Collector——'about a shy man who kidnaps a girl in a hapless search for love'（一个害羞的男人绑架女孩、徒劳寻找爱情）——1965年拍成电影。",
+    "Britannica（B399）：福尔斯——'combine psychological probings—chiefly of sex and love—with an interest in social and philosophical issues'。",
+    "题材（通说待核）：职员弗雷迪'收藏'艺术生米兰达——双声部的囚室。"
+  ],
+  "outline": [
+    "（通说待核）弗雷迪的'收藏'与米兰达的反抗日记。",
+    "（通说待核）'蝴蝶'的标本与'爱'的失败。"
+  ],
+  "characters": [
+    {
+      "name": "弗雷迪·克莱格",
+      "identity": "收藏者",
+      "note": "（通说待核，B399未载）"
+    },
+    {
+      "name": "米兰达·格雷",
+      "identity": "艺术生",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'收藏'与'爱'的混淆（B399：hapless search for love）。",
+    "双声部的囚室叙事（通说待核）。",
+    "阶级与品味（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a shy man who kidnaps a girl...'（B399）。",
+      "source": "B399"
+    },
+    {
+      "text": "Britannica：1965年电影（B399）。",
+      "source": "B399"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双声部的对照。",
+      "'收藏'的心理。"
+    ],
+    "editions": [
+      "《收藏家》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "福尔斯首作；先于《法国中尉的女人》。"
+  },
+  "pending": [
+    "弗雷迪/米兰达人名核对（通说）。",
+    "1963年出版（Jonathan Cape说）待核。",
+    "'蝴蝶'意象待核。"
+  ],
+  "sources": [
+    "B399"
+  ],
+  "year_source": "B399",
+  "author_source": "B399",
+  "related_works": [
+    "faguozhongweidenvren",
+    "salemwunv",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《收藏家》囚室结构图",
+    "cards": [
+      {
+        "title": "收藏",
+        "text": "'爱'的失败（B399）",
+        "color": "antagonist"
+      },
+      {
+        "title": "弗雷迪",
+        "text": "害羞的绑架者（B399）",
+        "color": "main"
+      },
+      {
+        "title": "米兰达",
+        "text": "日记的反抗（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "蝴蝶",
+        "text": "标本的隐喻（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "qipiangetegushi",
+  "title": "七篇哥特故事",
+  "original_title": "Seven Gothic Tales",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "dinesen",
+  "author_name": "伊萨克·迪内森",
+  "year_display": "1934年（Britannica B388：Seven Gothic Tales (1934；丹麦题 Syv fantastiske fortællinger)——'highly polished narratives in the Romantic tradition'）",
+  "year_sort": 1934,
+  "background": [
+    "Britannica（B388）：'highly polished narratives in the Romantic tradition'——'incorporate the themes of eros and dreams'。",
+    "Britannica（B388）：迪内森——'She initially wrote first in English and then rewrote her books in Danish'。",
+    "题材（通说待核）：《数风暴的人》等七篇——'eros 与梦'的哥特浪漫。"
+  ],
+  "outline": [
+    "（通说待核）七篇的框架故事与讲述者。",
+    "（通说待核）'哥特'的浪漫化（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "众讲述者",
+      "identity": "框架人物",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'eros 与梦'（B388：incorporate the themes of eros and dreams）。",
+    "'浪漫传统的打磨叙事'（B388）。",
+    "'先英文后丹麦文'（B388）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'highly polished narratives in the Romantic tradition'（B388）。",
+      "source": "B388"
+    },
+    {
+      "text": "Britannica：'eros and dreams'（B388）。",
+      "source": "B388"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "框架叙事的层。",
+      "'哥特'的浪漫化。"
+    ],
+    "editions": [
+      "《七篇哥特故事》中译名（《七个哥特式故事》）待核。",
+      "英文原版。"
+    ],
+    "order": "迪内森虚构篇；与《走出非洲》对读。"
+  },
+  "pending": [
+    "七篇篇名核对（通说）。",
+    "1934年出版（Random House说）待核。",
+    "'打磨叙事'评价核对（B388已载）。"
+  ],
+  "sources": [
+    "B388"
+  ],
+  "year_source": "B388",
+  "author_source": "B388",
+  "related_works": [
+    "zouchufeizhou",
+    "sha",
+    "yuanhui"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《七篇哥特故事》框架结构图",
+    "cards": [
+      {
+        "title": "七篇",
+        "text": "哥特的浪漫（B388）",
+        "color": "main"
+      },
+      {
+        "title": "eros",
+        "text": "与梦的主题（B388）",
+        "color": "gold"
+      },
+      {
+        "title": "框架",
+        "text": "讲述者的层（通说）",
+        "color": "family"
+      },
+      {
+        "title": "打磨",
+        "text": "'polished narratives'（B388）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

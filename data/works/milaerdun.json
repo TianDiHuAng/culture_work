@@ -1,0 +1,105 @@
+{
+  "id": "milaerdun",
+  "title": "弥尔顿",
+  "original_title": "Milton",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "长诗（预言书）",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "blake",
+  "author_name": "威廉·布莱克",
+  "year_display": "1804-?11年（Britannica B397：Milton (1804-?11)——含'Jerusalem'歌词——'which has become a kind of second national anthem in Britain'）",
+  "year_sort": 1804,
+  "background": [
+    "Britannica（B397）：Milton (1804-?11)——含'Jerusalem'歌词——'which has become a kind of second national anthem in Britain'（已成为英国的第二国歌）。",
+    "Britannica（B397）：布莱克——'etched, printed, coloured, stitched, and sold'自印自售。",
+    "题材（通说待核）：弥尔顿的'自我'重返人间——四原力（Zoas）的合一。"
+  ],
+  "outline": [
+    "（通说待核）弥尔顿从天国下行：'自我牺牲'的叙事。",
+    "（通说待核）'耶路撒冷'歌词的结尾（B397：second national anthem）。"
+  ],
+  "characters": [
+    {
+      "name": "弥尔顿",
+      "identity": "下行者",
+      "note": "（B397 书名人物）"
+    },
+    {
+      "name": "布莱克（双重）",
+      "identity": "叙述者/先知",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'自我牺牲'的下行（通说待核）。",
+    "'耶路撒冷'：'在英国的绿色宜人之地建耶路撒冷'（不采为引文——歌词细节通说待核）。",
+    "预言书的自印（B397：illuminated printing 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a kind of second national anthem in Britain'（B397）。",
+      "source": "B397"
+    },
+    {
+      "text": "Britannica：illuminated printing（B397 交叉）。",
+      "source": "B397"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "预言书的神话体系（Zoas——通说待核）。",
+      "'下行'的结构。"
+    ],
+    "editions": [
+      "《弥尔顿》中译名（《弥尔顿》）待核。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "布莱克预言书首选；后接《耶路撒冷》。"
+  },
+  "pending": [
+    "'1804-?11'年份口径核对（B397）。",
+    "'耶路撒冷'歌词（And did those feet...）核对——不采为引文。",
+    "'四原力'体系待核（通说）。"
+  ],
+  "sources": [
+    "B397"
+  ],
+  "year_source": "B397",
+  "author_source": "B397",
+  "related_works": [
+    "tianzhenyujiy",
+    "leiyu",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《弥尔顿》下行结构图",
+    "cards": [
+      {
+        "title": "弥尔顿",
+        "text": "天国的下行（通说）",
+        "color": "main"
+      },
+      {
+        "title": "耶路撒冷",
+        "text": "'第二国歌'（B397）",
+        "color": "gold"
+      },
+      {
+        "title": "自我牺牲",
+        "text": "预言的主题（通说）",
+        "color": "family"
+      },
+      {
+        "title": "自印",
+        "text": "彩色印刷（B397交叉）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

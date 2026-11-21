@@ -1,0 +1,100 @@
+{
+  "id": "gudujisuozao",
+  "title": "孤独及其所创造的",
+  "original_title": "The Invention of Solitude",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪80年代初",
+  "genre": "回忆录/散文",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "auster",
+  "author_name": "保罗·奥斯特",
+  "year_display": "1982年（Britannica B408：The Invention of Solitude (1982)——'both a memoir about the death of his father and a meditation on the act of writing'）",
+  "year_sort": 1982,
+  "background": [
+    "Britannica（B408）：'both a memoir about the death of his father and a meditation on the act of writing'（父亡回忆+写作冥想）。",
+    "Britannica（B408）：奥斯特——'often concerned with the search for identity and personal meaning'。",
+    "题材（通说待核）：《孤独及其所创造的》两部——'父之肖像'与'记忆之书'。"
+  ],
+  "outline": [
+    "（通说待核）第一部：'父之肖像'——父亲的死亡与空白。",
+    "（通说待核）第二部：'记忆之书'——儿子的诞生。"
+  ],
+  "characters": [
+    {
+      "name": "奥斯特/父亲",
+      "identity": "回忆的双方",
+      "note": "（B408 语境）"
+    }
+  ],
+  "themes": [
+    "'父亡回忆+写作冥想'（B408）。",
+    "'孤独'的发明（书名语境——通说待核）。",
+    "'身份与个人意义的追寻'（B408 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'both a memoir about the death of his father and a meditation on the act of writing'（B408）。",
+      "source": "B408"
+    },
+    {
+      "text": "Britannica：《纽约三部曲》为成名作（B408 交叉）。",
+      "source": "B408"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "两部结构（父/子）。",
+      "'偶然'与'记忆'的哲学（通说待核）。"
+    ],
+    "editions": [
+      "《孤独及其所创造的》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "奥斯特散文首选；与《纽约三部曲》对读。"
+  },
+  "pending": [
+    "两部标题核对（通说）。",
+    "1982年出版（Sun说）待核。",
+    "'父亲的空白'细节待核。"
+  ],
+  "sources": [
+    "B408"
+  ],
+  "year_source": "B408",
+  "author_source": "B408",
+  "related_works": [
+    "niuyuesanbuqu",
+    "zenodeyishi",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《孤独及其所创造的》父子结构图",
+    "cards": [
+      {
+        "title": "父之肖像",
+        "text": "空白的死亡（通说）",
+        "color": "main"
+      },
+      {
+        "title": "记忆之书",
+        "text": "儿子的诞生（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "孤独",
+        "text": "'发明'的动词（书名）",
+        "color": "family"
+      },
+      {
+        "title": "写作",
+        "text": "'行动的冥想'（B408）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

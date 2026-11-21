@@ -1,0 +1,100 @@
+{
+  "id": "zhuru",
+  "title": "侏儒",
+  "original_title": "Dvärgen",
+  "region": "瑞典",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "瑞典语",
+  "author_id": "lagerkvist",
+  "author_name": "帕尔·拉格克维斯特",
+  "year_display": "1944年（Britannica B387：Dvärgen (1944; The Dwarf)——'became his first best-seller'）",
+  "year_sort": 1944,
+  "background": [
+    "Britannica（B387）：'not until his novel Dvärgen (1944; The Dwarf) appeared that he had unqualified success with Swedish critics'——'became his first best-seller'。",
+    "Britannica（B387）：拉格克维斯特——1951诺奖；Bödeln (1933)——'a protest against brutality'（交叉）。",
+    "题材（通说待核）：宫廷侏儒皮卡里诺的'恶'日记——马基雅维利式的僭主。"
+  ],
+  "outline": [
+    "（通说待核）侏儒的日记：'恶'的天真陈述。",
+    "（通说待核）战争、毒酒与艺术的毁灭。"
+  ],
+  "characters": [
+    {
+      "name": "皮卡里诺",
+      "identity": "宫廷侏儒",
+      "note": "（通说待核，B387未载）"
+    }
+  ],
+  "themes": [
+    "'恶'的天真书写（通说待核）。",
+    "'首部畅销书'（B387：first best-seller）。",
+    "二战的寓言（B387：Bödeln 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'became his first best-seller'（B387）。",
+      "source": "B387"
+    },
+    {
+      "text": "Britannica：1951诺奖（B387 交叉）。",
+      "source": "B387"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'恶'的日记体。",
+      "文艺复兴宫廷背景（通说待核）。"
+    ],
+    "editions": [
+      "《侏儒》中译名（《矮人》）待核。",
+      "瑞典文原版。"
+    ],
+    "order": "拉格克维斯特进阶；与《巴拉巴斯》对读。"
+  },
+  "pending": [
+    "皮卡里诺人名核对（通说）。",
+    "1944年出版细节待核。",
+    "'日记'结构待核。"
+  ],
+  "sources": [
+    "B387"
+  ],
+  "year_source": "B387",
+  "author_source": "B387",
+  "related_works": [
+    "balabasi",
+    "moluoyi",
+    "tuyuzhizideneizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《侏儒》恶之日记图",
+    "cards": [
+      {
+        "title": "侏儒",
+        "text": "'恶'的天真（通说）",
+        "color": "main"
+      },
+      {
+        "title": "日记",
+        "text": "陈述的档案（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "宫廷",
+        "text": "文艺复兴的僭主（通说）",
+        "color": "family"
+      },
+      {
+        "title": "畅销",
+        "text": "'first best-seller'（B387）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

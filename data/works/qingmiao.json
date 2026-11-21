@@ -1,0 +1,105 @@
+{
+  "id": "qingmiao",
+  "title": "青苗",
+  "original_title": "Le Blé en herbe",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "colette",
+  "author_name": "西多妮-加布里埃尔·科莱特",
+  "year_display": "1923年（Britannica B404：Le Blé en herbe (1923; The Ripening Seed)）",
+  "year_sort": 1923,
+  "background": [
+    "Britannica（B404）：Le Blé en herbe——'The Ripening Seed'——作品列表。",
+    "Britannica（B404）：科莱特——'the annalist of female existence'——'the pains and pleasures of love'。",
+    "题材（通说待核）：菲洛与万达的布列塔尼暑假——'青苗'的初爱。"
+  ],
+  "outline": [
+    "（通说待核）两个少年的海滩初爱。",
+    "（通说待核）'青苗'：未熟之爱的收获。"
+  ],
+  "characters": [
+    {
+      "name": "菲洛",
+      "identity": "少年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "万达",
+      "identity": "少女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'初爱'的成熟（书名语境——通说待核）。",
+    "'发芽、开花或飞翔'（B404：everything that...）。",
+    "布列塔尼的夏天（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Le Blé en herbe (1923)（B404）。",
+      "source": "B404"
+    },
+    {
+      "text": "Britannica：'the pains and pleasures of love'（B404）。",
+      "source": "B404"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'青苗'的隐喻。",
+      "布列塔尼海滨（通说待核）。"
+    ],
+    "editions": [
+      "《青苗》中译名（《麦青时节》）待核。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "科莱特中期；与《吉吉》对读。"
+  },
+  "pending": [
+    "菲洛/万达人名核对（通说）。",
+    "1923年出版细节待核。",
+    "'布列塔尼'细节待核。"
+  ],
+  "sources": [
+    "B404"
+  ],
+  "year_source": "B404",
+  "author_source": "B404",
+  "related_works": [
+    "jiji",
+    "difannidezaocan",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《青苗》初爱结构图",
+    "cards": [
+      {
+        "title": "青苗",
+        "text": "未熟的麦（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "初爱",
+        "text": "海滩的夏天（通说）",
+        "color": "main"
+      },
+      {
+        "title": "两少年",
+        "text": "成熟的落差（通说）",
+        "color": "family"
+      },
+      {
+        "title": "布列塔尼",
+        "text": "海滨的世界（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

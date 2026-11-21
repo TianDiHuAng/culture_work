@@ -1,0 +1,100 @@
+{
+  "id": "zhushenkele",
+  "title": "诸神渴了",
+  "original_title": "Les Dieux ont soif",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "france",
+  "author_name": "阿纳托尔·法朗士",
+  "year_display": "1912年（Britannica B392：Les Dieux ont soif (1912)——'A condemnation of fanaticism set during the French Revolution'）",
+  "year_sort": 1912,
+  "background": [
+    "Britannica（B392）：'A condemnation of fanaticism set during the French Revolution'（法国大革命背景的狂热主义批判）。",
+    "Britannica（B392）：法朗士——1921诺奖；德雷福斯事件后转向社会关怀。",
+    "题材（通说待核）：画家加莫兰的革命狂热——断头台的'诸神之渴'。"
+  ],
+  "outline": [
+    "（通说待核）加莫兰：从画家到革命法庭的判官。",
+    "（通说待核）'诸神渴了'：血与理性的讽刺。"
+  ],
+  "characters": [
+    {
+      "name": "加莫兰",
+      "identity": "画家/判官",
+      "note": "（通说待核，B392未载）"
+    }
+  ],
+  "themes": [
+    "'狂热主义的批判'（B392：condemnation of fanaticism）。",
+    "大革命的恐怖统治（B392：French Revolution）。",
+    "'诸神渴了'的隐喻（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'A condemnation of fanaticism...'（B392）。",
+      "source": "B392"
+    },
+    {
+      "text": "Britannica：1921诺奖（B392 交叉）。",
+      "source": "B392"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "大革命恐怖期史。",
+      "'狂热'的哲学批判。"
+    ],
+    "editions": [
+      "《诸神渴了》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "法朗士晚期；与《企鹅岛》对读。"
+  },
+  "pending": [
+    "加莫兰人名核对（通说）。",
+    "1912年出版细节待核。",
+    "'断头台'细节待核。"
+  ],
+  "sources": [
+    "B392"
+  ],
+  "year_source": "B392",
+  "author_source": "B392",
+  "related_works": [
+    "qiedao",
+    "bainian",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《诸神渴了》狂热批判图",
+    "cards": [
+      {
+        "title": "诸神",
+        "text": "'渴了'的隐喻（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "狂热",
+        "text": "'批判'的对象（B392）",
+        "color": "antagonist"
+      },
+      {
+        "title": "加莫兰",
+        "text": "画家变判官（通说）",
+        "color": "main"
+      },
+      {
+        "title": "大革命",
+        "text": "断头台的时代（B392）",
+        "color": "family"
+      }
+    ]
+  }
+}

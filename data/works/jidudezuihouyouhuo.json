@@ -1,0 +1,105 @@
+{
+  "id": "jidudezuihouyouhuo",
+  "title": "基督的最后诱惑",
+  "original_title": "O televtaíos pirasmós",
+  "region": "希腊",
+  "era": "近代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "希腊语",
+  "author_id": "kazantzakis",
+  "author_name": "尼科斯·卡赞扎基斯",
+  "year_display": "1955年（Britannica B410：The Last Temptation of Christ (1955)——'a revisionist psychological study of Jesus Christ'）",
+  "year_sort": 1955,
+  "background": [
+    "Britannica（B410）：'a revisionist psychological study of Jesus Christ'（基督的修正主义心理研究）。",
+    "Britannica（B410）：卡赞扎基斯——'a major contribution to modern Greek literature'；1988年电影改编（B410）。",
+    "题材（通说待核）：'最后诱惑'：十字架上的幻梦——做凡人的可能。"
+  ],
+  "outline": [
+    "（通说待核）基督的'人性'挣扎与犹大的'合作'。",
+    "（通说待核）'最后诱惑'：家庭生活的幻梦。"
+  ],
+  "characters": [
+    {
+      "name": "基督",
+      "identity": "'再造'的主角",
+      "note": "（B410：revisionist study）"
+    },
+    {
+      "name": "犹大",
+      "identity": "背叛者/合作者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'修正主义心理研究'（B410：revisionist psychological study）。",
+    "'最后的诱惑'：凡人之梦（书名语境——通说待核）。",
+    "教会与文学的争议（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a revisionist psychological study of Jesus Christ'（B410）。",
+      "source": "B410"
+    },
+    {
+      "text": "Britannica：1988年电影改编（B410）。",
+      "source": "B410"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "福音的'再造'叙事。",
+      "教会争议史（通说待核）。"
+    ],
+    "editions": [
+      "《基督的最后诱惑》中译本（人民文学等——通说待核）。",
+      "希腊文原版。"
+    ],
+    "order": "卡赞扎基斯进阶；先读《希腊人左巴》。"
+  },
+  "pending": [
+    "'十字架上幻梦'细节核对（通说）。",
+    "1955年出版细节待核。",
+    "'列禁书'说待核（通说）。"
+  ],
+  "sources": [
+    "B410"
+  ],
+  "year_source": "B410",
+  "author_source": "B410",
+  "related_works": [
+    "xilarenzuoba",
+    "derinahe",
+    "dizhilun"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《基督的最后诱惑》诱惑结构图",
+    "cards": [
+      {
+        "title": "最后诱惑",
+        "text": "凡人之梦（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "基督",
+        "text": "'再造'的人性（B410）",
+        "color": "main"
+      },
+      {
+        "title": "犹大",
+        "text": "合作的背叛者（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "十字架",
+        "text": "命运的支点（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

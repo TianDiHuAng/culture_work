@@ -1,0 +1,100 @@
+{
+  "id": "auster4321",
+  "title": "4 3 2 1",
+  "original_title": "4 3 2 1",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "21世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "auster",
+  "author_name": "保罗·奥斯特",
+  "year_display": "2017年（Britannica B408：4 3 2 1 (2017)——七年首部长篇——主角 Archie Ferguson 'experiences four alternate lives'）",
+  "year_sort": 2017,
+  "background": [
+    "Britannica（B408）：4 3 2 1——七年首部长篇——主角 Archie Ferguson 'experiences four alternate lives'（经历四种平行人生）。",
+    "Britannica（B408）：奥斯特——'often concerned with the search for identity and personal meaning'。",
+    "题材（通说待核）：弗格森的四条人生线：1956-1989的美国编年。"
+  ],
+  "outline": [
+    "（通说待核）弗格森的四重人生：记者/翻译/革命者/影评人（版本通说待核）。",
+    "（通说待核）'四三二一'的倒数结构。"
+  ],
+  "characters": [
+    {
+      "name": "阿奇·弗格森",
+      "identity": "四重主角",
+      "note": "（B408：Archie Ferguson）"
+    }
+  ],
+  "themes": [
+    "'四种平行人生'（B408：four alternate lives）。",
+    "美国编年（1956-1989——通说待核）。",
+    "'身份'的复数（B408 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'experiences four alternate lives'（B408）。",
+      "source": "B408"
+    },
+    {
+      "text": "Britannica：'七年首部长篇'（B408）。",
+      "source": "B408"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "四线的平行结构。",
+      "美国60-80年代编年。"
+    ],
+    "editions": [
+      "《4 3 2 1》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "奥斯特收官之作；与《纽约三部曲》对读。"
+  },
+  "pending": [
+    "四线职业细节核对（通说）。",
+    "2017年出版（Henry Holt说）待核。",
+    "'弗格森'名核对（B408已载）。"
+  ],
+  "sources": [
+    "B408"
+  ],
+  "year_source": "B408",
+  "author_source": "B408",
+  "related_works": [
+    "niuyuesanbuqu",
+    "gudujisuozao",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《4 3 2 1》四重人生图",
+    "cards": [
+      {
+        "title": "四重",
+        "text": "'alternate lives'（B408）",
+        "color": "gold"
+      },
+      {
+        "title": "弗格森",
+        "text": "一个名字四人（B408）",
+        "color": "main"
+      },
+      {
+        "title": "美国",
+        "text": "1956-1989（通说）",
+        "color": "family"
+      },
+      {
+        "title": "倒数",
+        "text": "4 3 2 1（书名）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

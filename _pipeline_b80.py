@@ -1,0 +1,238 @@
+# -*- coding: utf-8 -*-
+"""批80：零成本 12 部（孤独及其所创造的/4 3 2 1/诸神渴了/小偷日记/青苗/基督的最后诱惑/恩底弥翁/侏儒/七篇哥特故事/野草在歌唱/收藏家/弥尔顿）"""
+import json, pathlib
+
+existing = {p.stem for p in pathlib.Path('data/works').glob('*.json')}
+titles = set()
+for p in pathlib.Path('data/works').glob('*.json'):
+    j = json.loads(p.read_text(encoding='utf-8'))
+    titles.add(j['title'])
+
+def src_of(aid):
+    return json.load(open(f'data/authors/{aid}.json', encoding='utf-8'))['sources'][0]
+
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
+works = [
+{"id":"gudujisuozao","title":"孤独及其所创造的","original_title":"The Invention of Solitude","region":"美国","era":"现当代","era_detail":"20世纪80年代初",
+"genre":"回忆录/散文","genre_group":"散文","language":"英语","author_id":"auster","author_name":"保罗·奥斯特",
+"year_display":"1982年（Britannica B408：The Invention of Solitude (1982)——'both a memoir about the death of his father and a meditation on the act of writing'）","year_sort":1982,
+"background":["Britannica（B408）：'both a memoir about the death of his father and a meditation on the act of writing'（父亡回忆+写作冥想）。","Britannica（B408）：奥斯特——'often concerned with the search for identity and personal meaning'。","题材（通说待核）：《孤独及其所创造的》两部——'父之肖像'与'记忆之书'。"],
+"outline":["（通说待核）第一部：'父之肖像'——父亲的死亡与空白。","（通说待核）第二部：'记忆之书'——儿子的诞生。"],
+"characters":[{"name":"奥斯特/父亲","identity":"回忆的双方","note":"（B408 语境）"}],
+"themes":["'父亡回忆+写作冥想'（B408）。",
+ "'孤独'的发明（书名语境——通说待核）。",
+ "'身份与个人意义的追寻'（B408 交叉）。"],
+"influence":[{"text":"Britannica：'both a memoir about the death of his father and a meditation on the act of writing'（B408）。","source":"B408"},{"text":"Britannica：《纽约三部曲》为成名作（B408 交叉）。","source":"B408"}],
+"reading":{"difficulties":["两部结构（父/子）。","'偶然'与'记忆'的哲学（通说待核）。"],
+ "editions":["《孤独及其所创造的》中译本（人民文学等——通说待核）。","英文原版。"],
+ "order":"奥斯特散文首选；与《纽约三部曲》对读。"},
+"pending":["两部标题核对（通说）。","1982年出版（Sun说）待核。","'父亲的空白'细节待核。"],
+"sources":["B408"],"year_source":"B408","author_source":"B408","related_works":["niuyuesanbuqu","zenodeyishi","moluoyi"],
+"svg":G("《孤独及其所创造的》父子结构图",[{"title":"父之肖像","text":"空白的死亡（通说）","color":"main"},{"title":"记忆之书","text":"儿子的诞生（通说）","color":"gold"},{"title":"孤独","text":"'发明'的动词（书名）","color":"family"},{"title":"写作","text":"'行动的冥想'（B408）","color":"antagonist"}])},
+{"id":"auster4321","title":"4 3 2 1","original_title":"4 3 2 1","region":"美国","era":"现当代","era_detail":"21世纪10年代",
+"genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"auster","author_name":"保罗·奥斯特",
+"year_display":"2017年（Britannica B408：4 3 2 1 (2017)——七年首部长篇——主角 Archie Ferguson 'experiences four alternate lives'）","year_sort":2017,
+"background":["Britannica（B408）：4 3 2 1——七年首部长篇——主角 Archie Ferguson 'experiences four alternate lives'（经历四种平行人生）。","Britannica（B408）：奥斯特——'often concerned with the search for identity and personal meaning'。","题材（通说待核）：弗格森的四条人生线：1956-1989的美国编年。"],
+"outline":["（通说待核）弗格森的四重人生：记者/翻译/革命者/影评人（版本通说待核）。","（通说待核）'四三二一'的倒数结构。"],
+"characters":[{"name":"阿奇·弗格森","identity":"四重主角","note":"（B408：Archie Ferguson）"}],
+"themes":["'四种平行人生'（B408：four alternate lives）。",
+ "美国编年（1956-1989——通说待核）。",
+ "'身份'的复数（B408 交叉）。"],
+"influence":[{"text":"Britannica：'experiences four alternate lives'（B408）。","source":"B408"},{"text":"Britannica：'七年首部长篇'（B408）。","source":"B408"}],
+"reading":{"difficulties":["四线的平行结构。","美国60-80年代编年。"],
+ "editions":["《4 3 2 1》中译本（人民文学等——通说待核）。","英文原版。"],
+ "order":"奥斯特收官之作；与《纽约三部曲》对读。"},
+"pending":["四线职业细节核对（通说）。","2017年出版（Henry Holt说）待核。","'弗格森'名核对（B408已载）。"],
+"sources":["B408"],"year_source":"B408","author_source":"B408","related_works":["niuyuesanbuqu","gudujisuozao","meiguobuqu"],
+"svg":G("《4 3 2 1》四重人生图",[{"title":"四重","text":"'alternate lives'（B408）","color":"gold"},{"title":"弗格森","text":"一个名字四人（B408）","color":"main"},{"title":"美国","text":"1956-1989（通说）","color":"family"},{"title":"倒数","text":"4 3 2 1（书名）","color":"antagonist"}])},
+{"id":"zhushenkele","title":"诸神渴了","original_title":"Les Dieux ont soif","region":"法国","era":"近代","era_detail":"20世纪10年代",
+"genre":"长篇小说","genre_group":"小说","language":"法语","author_id":"france","author_name":"阿纳托尔·法朗士",
+"year_display":"1912年（Britannica B392：Les Dieux ont soif (1912)——'A condemnation of fanaticism set during the French Revolution'）","year_sort":1912,
+"background":["Britannica（B392）：'A condemnation of fanaticism set during the French Revolution'（法国大革命背景的狂热主义批判）。","Britannica（B392）：法朗士——1921诺奖；德雷福斯事件后转向社会关怀。","题材（通说待核）：画家加莫兰的革命狂热——断头台的'诸神之渴'。"],
+"outline":["（通说待核）加莫兰：从画家到革命法庭的判官。","（通说待核）'诸神渴了'：血与理性的讽刺。"],
+"characters":[{"name":"加莫兰","identity":"画家/判官","note":"（通说待核，B392未载）"}],
+"themes":["'狂热主义的批判'（B392：condemnation of fanaticism）。",
+ "大革命的恐怖统治（B392：French Revolution）。",
+ "'诸神渴了'的隐喻（书名语境——通说待核）。"],
+"influence":[{"text":"Britannica：'A condemnation of fanaticism...'（B392）。","source":"B392"},{"text":"Britannica：1921诺奖（B392 交叉）。","source":"B392"}],
+"reading":{"difficulties":["大革命恐怖期史。","'狂热'的哲学批判。"],
+ "editions":["《诸神渴了》中译本（人民文学等——通说待核）。","法文原版（公有领域）。"],
+ "order":"法朗士晚期；与《企鹅岛》对读。"},
+"pending":["加莫兰人名核对（通说）。","1912年出版细节待核。","'断头台'细节待核。"],
+"sources":["B392"],"year_source":"B392","author_source":"B392","related_works":["qiedao","bainian" if "bainian" in existing else "leiyu","meiguobuqu"],
+"svg":G("《诸神渴了》狂热批判图",[{"title":"诸神","text":"'渴了'的隐喻（书名）","color":"gold"},{"title":"狂热","text":"'批判'的对象（B392）","color":"antagonist"},{"title":"加莫兰","text":"画家变判官（通说）","color":"main"},{"title":"大革命","text":"断头台的时代（B392）","color":"family"}])},
+{"id":"xiaotouriji","title":"小偷日记","original_title":"Journal du voleur","region":"法国","era":"近代","era_detail":"20世纪40年代末",
+"genre":"自传性小说","genre_group":"小说","language":"法语","author_id":"genet","author_name":"让·热内",
+"year_display":"1949年（Britannica B400：Journal du voleur (1949; The Thief's Journal)）","year_sort":1949,
+"background":["Britannica（B400）：Journal du voleur——'The Thief's Journal'——作品列表。","Britannica（B400）：热内——'transformed erotic and often obscene subject matter into a poetic vision of the universe'。","题材（通说待核）：流浪欧洲的'小偷'自述——背叛作为'美德'。"],
+"outline":["（通说待核）西班牙/比利时的流浪：监狱、乞讨与'背叛'。","（通说待核）'物品'的圣化（通说待核）。"],
+"characters":[{"name":"热内（'我'）","identity":"小偷/流浪者","note":"（B400 语境）"}],
+"themes":["'背叛'的美学（通说待核）。",
+ "'情色题材的诗性宇宙'（B400）。",
+ "'预先赦免'的自白（B400：pardoned in advance 交叉）。"],
+"influence":[{"text":"Britannica：Journal du voleur (1949)（B400）。","source":"B400"},{"text":"Britannica：'poetic vision of the universe'（B400）。","source":"B400"}],
+"reading":{"difficulties":["'自传'的虚构性。","'背叛'的伦理倒置。"],
+ "editions":["《小偷日记》中译本（人民文学等——通说待核）。","法文原版。"],
+ "order":"热内自传篇；与《鲜花圣母》对读。"},
+"pending":["流浪路线核对（通说）。","1949年出版（Gallimard说）待核。","'背叛'段落细节待核。"],
+"sources":["B400"],"year_source":"B400","author_source":"B400","related_works":["xianhuashengmu","nvpu","gududemigong"],
+"svg":G("《小偷日记》流浪结构图",[{"title":"小偷","text":"流浪的自述（书名）","color":"main"},{"title":"背叛","text":"'美德'的倒置（通说）","color":"antagonist"},{"title":"诗性","text":"'宇宙的图景'（B400）","color":"gold"},{"title":"欧洲","text":"监狱与街道（通说）","color":"family"}])},
+{"id":"qingmiao","title":"青苗","original_title":"Le Blé en herbe","region":"法国","era":"近代","era_detail":"20世纪20年代",
+"genre":"长篇小说","genre_group":"小说","language":"法语","author_id":"colette","author_name":"西多妮-加布里埃尔·科莱特",
+"year_display":"1923年（Britannica B404：Le Blé en herbe (1923; The Ripening Seed)）","year_sort":1923,
+"background":["Britannica（B404）：Le Blé en herbe——'The Ripening Seed'——作品列表。","Britannica（B404）：科莱特——'the annalist of female existence'——'the pains and pleasures of love'。","题材（通说待核）：菲洛与万达的布列塔尼暑假——'青苗'的初爱。"],
+"outline":["（通说待核）两个少年的海滩初爱。","（通说待核）'青苗'：未熟之爱的收获。"],
+"characters":[{"name":"菲洛","identity":"少年","note":"（通说待核）"},{"name":"万达","identity":"少女","note":"（通说待核）"}],
+"themes":["'初爱'的成熟（书名语境——通说待核）。",
+ "'发芽、开花或飞翔'（B404：everything that...）。",
+ "布列塔尼的夏天（通说待核）。"],
+"influence":[{"text":"Britannica：Le Blé en herbe (1923)（B404）。","source":"B404"},{"text":"Britannica：'the pains and pleasures of love'（B404）。","source":"B404"}],
+"reading":{"difficulties":["'青苗'的隐喻。","布列塔尼海滨（通说待核）。"],
+ "editions":["《青苗》中译名（《麦青时节》）待核。","法文原版（公有领域状态待核）。"],
+ "order":"科莱特中期；与《吉吉》对读。"},
+"pending":["菲洛/万达人名核对（通说）。","1923年出版细节待核。","'布列塔尼'细节待核。"],
+"sources":["B404"],"year_source":"B404","author_source":"B404","related_works":["jiji","difannidezaocan","leiyu"],
+"svg":G("《青苗》初爱结构图",[{"title":"青苗","text":"未熟的麦（书名）","color":"gold"},{"title":"初爱","text":"海滩的夏天（通说）","color":"main"},{"title":"两少年","text":"成熟的落差（通说）","color":"family"},{"title":"布列塔尼","text":"海滨的世界（通说）","color":"antagonist"}])},
+{"id":"jidudezuihouyouhuo","title":"基督的最后诱惑","original_title":"O televtaíos pirasmós","region":"希腊","era":"近代","era_detail":"20世纪50年代",
+"genre":"长篇小说","genre_group":"小说","language":"希腊语","author_id":"kazantzakis","author_name":"尼科斯·卡赞扎基斯",
+"year_display":"1955年（Britannica B410：The Last Temptation of Christ (1955)——'a revisionist psychological study of Jesus Christ'）","year_sort":1955,
+"background":["Britannica（B410）：'a revisionist psychological study of Jesus Christ'（基督的修正主义心理研究）。","Britannica（B410）：卡赞扎基斯——'a major contribution to modern Greek literature'；1988年电影改编（B410）。","题材（通说待核）：'最后诱惑'：十字架上的幻梦——做凡人的可能。"],
+"outline":["（通说待核）基督的'人性'挣扎与犹大的'合作'。","（通说待核）'最后诱惑'：家庭生活的幻梦。"],
+"characters":[{"name":"基督","identity":"'再造'的主角","note":"（B410：revisionist study）"},{"name":"犹大","identity":"背叛者/合作者","note":"（通说待核）"}],
+"themes":["'修正主义心理研究'（B410：revisionist psychological study）。",
+ "'最后的诱惑'：凡人之梦（书名语境——通说待核）。",
+ "教会与文学的争议（通说待核）。"],
+"influence":[{"text":"Britannica：'a revisionist psychological study of Jesus Christ'（B410）。","source":"B410"},{"text":"Britannica：1988年电影改编（B410）。","source":"B410"}],
+"reading":{"difficulties":["福音的'再造'叙事。","教会争议史（通说待核）。"],
+ "editions":["《基督的最后诱惑》中译本（人民文学等——通说待核）。","希腊文原版。"],
+ "order":"卡赞扎基斯进阶；先读《希腊人左巴》。"},
+"pending":["'十字架上幻梦'细节核对（通说）。","1955年出版细节待核。","'列禁书'说待核（通说）。"],
+"sources":["B410"],"year_source":"B410","author_source":"B410","related_works":["xilarenzuoba","derinahe","dizhilun"],
+"svg":G("《基督的最后诱惑》诱惑结构图",[{"title":"最后诱惑","text":"凡人之梦（书名）","color":"gold"},{"title":"基督","text":"'再造'的人性（B410）","color":"main"},{"title":"犹大","text":"合作的背叛者（通说）","color":"antagonist"},{"title":"十字架","text":"命运的支点（通说）","color":"family"}])},
+{"id":"endimiweng","title":"恩底弥翁","original_title":"Endymion","region":"英国","era":"近代","era_detail":"19世纪10年代末",
+"genre":"长诗","genre_group":"诗歌","language":"英语","author_id":"keats","author_name":"约翰·济慈",
+"year_display":"1818年（Britannica B395：Endymion (1818)——四个1000行部分）","year_sort":1818,
+"background":["Britannica（B395）：Endymion——1818——'four 1,000-line sections'（四个1000行部分）。","Britannica（B395）：济慈——1819年颂歌年（交叉）。","题材（通说待核）：恩底弥翁与月神——'一件美的事物是永远的喜悦'（首行——不采为引文）。"],
+"outline":["（通说待核）四书结构：皮尼亚—海底—宙斯—赫利俄斯？（四书名通说待核）。","（通说待核）月神塞勒涅与牧羊人恩底弥翁。"],
+"characters":[{"name":"恩底弥翁","identity":"牧羊人","note":"（B395 书名人物）"},{"name":"塞勒涅/辛西娅","identity":"月神","note":"（通说待核）"}],
+"themes":["'美'的追寻（首行语境——通说待核）。",
+ "四书的'千行'实验（B395）。",
+ "神话的浪漫化（通说待核）。"],
+"influence":[{"text":"Britannica：'four 1,000-line sections'（B395）。","source":"B395"},{"text":"Britannica：1819颂歌年的前奏（B395 交叉）。","source":"B395"}],
+"reading":{"difficulties":["四书的迂回叙事。","'首行'名句核对（不采为引文）。"],
+ "editions":["《恩底弥翁》中译本（人民文学等——通说待核）。","英文原版（公有领域）。"],
+ "order":"济慈长诗；与《1819年颂歌》对读。"},
+"pending":["四书名核对（通说）。","1818年出版细节待核。","'首行'名句核对（不采为引文）。"],
+"sources":["B395"],"year_source":"B395","author_source":"B395","related_works":["songge1819","xuboliweng","jiefangpu"],
+"svg":G("《恩底弥翁》四书结构图",[{"title":"四书","text":"'千行'的实验（B395）","color":"gold"},{"title":"恩底弥翁","text":"月神的恋人（B395）","color":"main"},{"title":"美","text":"'永远的喜悦'（通说——不采为引文）","color":"family"},{"title":"1818","text":"批评的挫折（通说）","color":"antagonist"}])},
+{"id":"zhuru","title":"侏儒","original_title":"Dvärgen","region":"瑞典","era":"近代","era_detail":"20世纪40年代",
+"genre":"长篇小说","genre_group":"小说","language":"瑞典语","author_id":"lagerkvist","author_name":"帕尔·拉格克维斯特",
+"year_display":"1944年（Britannica B387：Dvärgen (1944; The Dwarf)——'became his first best-seller'）","year_sort":1944,
+"background":["Britannica（B387）：'not until his novel Dvärgen (1944; The Dwarf) appeared that he had unqualified success with Swedish critics'——'became his first best-seller'。","Britannica（B387）：拉格克维斯特——1951诺奖；Bödeln (1933)——'a protest against brutality'（交叉）。","题材（通说待核）：宫廷侏儒皮卡里诺的'恶'日记——马基雅维利式的僭主。"],
+"outline":["（通说待核）侏儒的日记：'恶'的天真陈述。","（通说待核）战争、毒酒与艺术的毁灭。"],
+"characters":[{"name":"皮卡里诺","identity":"宫廷侏儒","note":"（通说待核，B387未载）"}],
+"themes":["'恶'的天真书写（通说待核）。",
+ "'首部畅销书'（B387：first best-seller）。",
+ "二战的寓言（B387：Bödeln 交叉）。"],
+"influence":[{"text":"Britannica：'became his first best-seller'（B387）。","source":"B387"},{"text":"Britannica：1951诺奖（B387 交叉）。","source":"B387"}],
+"reading":{"difficulties":["'恶'的日记体。","文艺复兴宫廷背景（通说待核）。"],
+ "editions":["《侏儒》中译名（《矮人》）待核。","瑞典文原版。"],
+ "order":"拉格克维斯特进阶；与《巴拉巴斯》对读。"},
+"pending":["皮卡里诺人名核对（通说）。","1944年出版细节待核。","'日记'结构待核。"],
+"sources":["B387"],"year_source":"B387","author_source":"B387","related_works":["balabasi","moluoyi","tuyuzhizideneizi"],
+"svg":G("《侏儒》恶之日记图",[{"title":"侏儒","text":"'恶'的天真（通说）","color":"main"},{"title":"日记","text":"陈述的档案（书名）","color":"gold"},{"title":"宫廷","text":"文艺复兴的僭主（通说）","color":"family"},{"title":"畅销","text":"'first best-seller'（B387）","color":"antagonist"}])},
+{"id":"qipiangetegushi","title":"七篇哥特故事","original_title":"Seven Gothic Tales","region":"丹麦","era":"近代","era_detail":"20世纪30年代",
+"genre":"短篇小说集","genre_group":"故事集","language":"英语","author_id":"dinesen","author_name":"伊萨克·迪内森",
+"year_display":"1934年（Britannica B388：Seven Gothic Tales (1934；丹麦题 Syv fantastiske fortællinger)——'highly polished narratives in the Romantic tradition'）","year_sort":1934,
+"background":["Britannica（B388）：'highly polished narratives in the Romantic tradition'——'incorporate the themes of eros and dreams'。","Britannica（B388）：迪内森——'She initially wrote first in English and then rewrote her books in Danish'。","题材（通说待核）：《数风暴的人》等七篇——'eros 与梦'的哥特浪漫。"],
+"outline":["（通说待核）七篇的框架故事与讲述者。","（通说待核）'哥特'的浪漫化（通说待核）。"],
+"characters":[{"name":"众讲述者","identity":"框架人物","note":"（通说待核）"}],
+"themes":["'eros 与梦'（B388：incorporate the themes of eros and dreams）。",
+ "'浪漫传统的打磨叙事'（B388）。",
+ "'先英文后丹麦文'（B388）。"],
+"influence":[{"text":"Britannica：'highly polished narratives in the Romantic tradition'（B388）。","source":"B388"},{"text":"Britannica：'eros and dreams'（B388）。","source":"B388"}],
+"reading":{"difficulties":["框架叙事的层。","'哥特'的浪漫化。"],
+ "editions":["《七篇哥特故事》中译名（《七个哥特式故事》）待核。","英文原版。"],
+ "order":"迪内森虚构篇；与《走出非洲》对读。"},
+"pending":["七篇篇名核对（通说）。","1934年出版（Random House说）待核。","'打磨叙事'评价核对（B388已载）。"],
+"sources":["B388"],"year_source":"B388","author_source":"B388","related_works":["zouchufeizhou","sha","yuanhui"],
+"svg":G("《七篇哥特故事》框架结构图",[{"title":"七篇","text":"哥特的浪漫（B388）","color":"main"},{"title":"eros","text":"与梦的主题（B388）","color":"gold"},{"title":"框架","text":"讲述者的层（通说）","color":"family"},{"title":"打磨","text":"'polished narratives'（B388）","color":"antagonist"}])},
+{"id":"yecaoidgechang","title":"野草在歌唱","original_title":"The Grass Is Singing","region":"英国","era":"近代","era_detail":"20世纪50年代",
+"genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"lessing","author_name":"多丽丝·莱辛",
+"year_display":"1950年（Britannica B389：The Grass Is Singing (1950)——'about a white farmer, his wife, and their African servant in Rhodesia'）","year_sort":1950,
+"background":["Britannica（B389）：The Grass Is Singing——'about a white farmer, his wife, and their African servant in Rhodesia'（罗德西亚的白人农夫、妻子与非洲仆人）。","Britannica（B389）：莱辛——2007诺奖；'people involved in the social and political upheavals of the 20th century'。","题材（通说待核）：玛丽·特纳的孤独与被杀——种族秩序的崩解。"],
+"outline":["（通说待核）玛丽的孤独与摩西的'反常'关系。","（通说待核）'草地歌唱'：开篇的凶案回声（通说待核）。"],
+"characters":[{"name":"玛丽·特纳","identity":"农场主妻","note":"（通说待核）"},{"name":"摩西","identity":"非洲仆人","note":"（B389：their African servant）"}],
+"themes":["罗德西亚的种族秩序（B389：Rhodesia）。",
+ "'社会政治动荡中人'（B389：social and political upheavals）。",
+ "'草地歌唱'的意象（书名语境——通说待核）。"],
+"influence":[{"text":"Britannica：'about a white farmer, his wife, and their African servant in Rhodesia'（B389）。","source":"B389"},{"text":"Britannica：2007诺奖（B389 交叉）。","source":"B389"}],
+"reading":{"difficulties":["南罗德西亚殖民语境。","'凶案'的开篇倒叙。"],
+ "editions":["《野草在歌唱》中译本（人民文学等——通说待核）。","英文原版。"],
+ "order":"莱辛首作；先于《金色笔记》。"},
+"pending":["玛丽/摩西人名核对（通说）。","1950年出版细节待核。","'草地歌唱'意象待核。"],
+"sources":["B389"],"year_source":"B389","author_source":"B389","related_works":["jinsanbiji","kanbujian3","xiangtianhuhan"],
+"svg":G("《野草在歌唱》种族崩解图",[{"title":"草地","text":"'歌唱'的意象（书名）","color":"gold"},{"title":"玛丽","text":"白人的孤独（通说）","color":"main"},{"title":"摩西","text":"仆人的反常（通说）","color":"antagonist"},{"title":"罗德西亚","text":"秩序的崩解（B389）","color":"family"}])},
+{"id":"shoucangjia","title":"收藏家","original_title":"The Collector","region":"英国","era":"现当代","era_detail":"20世纪60年代",
+"genre":"长篇小说","genre_group":"小说","language":"英语","author_id":"fowles","author_name":"约翰·福尔斯",
+"year_display":"1963年（Britannica B399：The Collector (1963; filmed 1965)——'about a shy man who kidnaps a girl in a hapless search for love'）","year_sort":1963,
+"background":["Britannica（B399）：The Collector——'about a shy man who kidnaps a girl in a hapless search for love'（一个害羞的男人绑架女孩、徒劳寻找爱情）——1965年拍成电影。","Britannica（B399）：福尔斯——'combine psychological probings—chiefly of sex and love—with an interest in social and philosophical issues'。","题材（通说待核）：职员弗雷迪'收藏'艺术生米兰达——双声部的囚室。"],
+"outline":["（通说待核）弗雷迪的'收藏'与米兰达的反抗日记。","（通说待核）'蝴蝶'的标本与'爱'的失败。"],
+"characters":[{"name":"弗雷迪·克莱格","identity":"收藏者","note":"（通说待核，B399未载）"},{"name":"米兰达·格雷","identity":"艺术生","note":"（通说待核）"}],
+"themes":["'收藏'与'爱'的混淆（B399：hapless search for love）。",
+ "双声部的囚室叙事（通说待核）。",
+ "阶级与品味（通说待核）。"],
+"influence":[{"text":"Britannica：'a shy man who kidnaps a girl...'（B399）。","source":"B399"},{"text":"Britannica：1965年电影（B399）。","source":"B399"}],
+"reading":{"difficulties":["双声部的对照。","'收藏'的心理。"],
+ "editions":["《收藏家》中译本（人民文学等——通说待核）。","英文原版。"],
+ "order":"福尔斯首作；先于《法国中尉的女人》。"},
+"pending":["弗雷迪/米兰达人名核对（通说）。","1963年出版（Jonathan Cape说）待核。","'蝴蝶'意象待核。"],
+"sources":["B399"],"year_source":"B399","author_source":"B399","related_works":["faguozhongweidenvren","salemwunv","leiyu"],
+"svg":G("《收藏家》囚室结构图",[{"title":"收藏","text":"'爱'的失败（B399）","color":"antagonist"},{"title":"弗雷迪","text":"害羞的绑架者（B399）","color":"main"},{"title":"米兰达","text":"日记的反抗（通说）","color":"gold"},{"title":"蝴蝶","text":"标本的隐喻（通说）","color":"family"}])},
+{"id":"milaerdun","title":"弥尔顿","original_title":"Milton","region":"英国","era":"近代","era_detail":"19世纪初",
+"genre":"长诗（预言书）","genre_group":"诗歌","language":"英语","author_id":"blake","author_name":"威廉·布莱克",
+"year_display":"1804-?11年（Britannica B397：Milton (1804-?11)——含'Jerusalem'歌词——'which has become a kind of second national anthem in Britain'）","year_sort":1804,
+"background":["Britannica（B397）：Milton (1804-?11)——含'Jerusalem'歌词——'which has become a kind of second national anthem in Britain'（已成为英国的第二国歌）。","Britannica（B397）：布莱克——'etched, printed, coloured, stitched, and sold'自印自售。","题材（通说待核）：弥尔顿的'自我'重返人间——四原力（Zoas）的合一。"],
+"outline":["（通说待核）弥尔顿从天国下行：'自我牺牲'的叙事。","（通说待核）'耶路撒冷'歌词的结尾（B397：second national anthem）。"],
+"characters":[{"name":"弥尔顿","identity":"下行者","note":"（B397 书名人物）"},{"name":"布莱克（双重）","identity":"叙述者/先知","note":"（通说待核）"}],
+"themes":["'自我牺牲'的下行（通说待核）。",
+ "'耶路撒冷'：'在英国的绿色宜人之地建耶路撒冷'（不采为引文——歌词细节通说待核）。",
+ "预言书的自印（B397：illuminated printing 交叉）。"],
+"influence":[{"text":"Britannica：'a kind of second national anthem in Britain'（B397）。","source":"B397"},{"text":"Britannica：illuminated printing（B397 交叉）。","source":"B397"}],
+"reading":{"difficulties":["预言书的神话体系（Zoas——通说待核）。","'下行'的结构。"],
+ "editions":["《弥尔顿》中译名（《弥尔顿》）待核。","英文原版（公有领域）。"],
+ "order":"布莱克预言书首选；后接《耶路撒冷》。"},
+"pending":["'1804-?11'年份口径核对（B397）。","'耶路撒冷'歌词（And did those feet...）核对——不采为引文。","'四原力'体系待核（通说）。"],
+"sources":["B397"],"year_source":"B397","author_source":"B397","related_works":["tianzhenyujiy","jierusal" if "jierusal" in existing else "leiyu","xuboliweng"],
+"svg":G("《弥尔顿》下行结构图",[{"title":"弥尔顿","text":"天国的下行（通说）","color":"main"},{"title":"耶路撒冷","text":"'第二国歌'（B397）","color":"gold"},{"title":"自我牺牲","text":"预言的主题（通说）","color":"family"},{"title":"自印","text":"彩色印刷（B397交叉）","color":"antagonist"}])},
+]
+created = []
+for w in works:
+    if w['id'] in existing or w['title'] in titles:
+        print('SKIP (dup):', w['id'], w['title'])
+        continue
+    pathlib.Path(f"data/works/{w['id']}.json").write_text(json.dumps(w, ensure_ascii=False, indent=2), encoding='utf-8')
+    created.append(w['id'])
+    print('work', w['id'])
+
+def link(aid, wid, kw=None):
+    p = pathlib.Path(f'data/authors/{aid}.json')
+    j = json.loads(p.read_text(encoding='utf-8'))
+    if not any(m.get('work_id') == wid for m in j['major_works']):
+        done = False
+        if kw:
+            for i, m in enumerate(j['major_works']):
+                if m.get('title') and kw in m['title']:
+                    j['major_works'][i] = {"work_id": wid, "note": m['note']}
+                    done = True; break
+        if not done:
+            j['major_works'].append({"work_id": wid, "note": "（零成本批80）"})
+    p.write_text(json.dumps(j, ensure_ascii=False, indent=2), encoding='utf-8')
+    print('linked', aid, '->', wid)
+
+for wid, aid, kw in [('gudujisuozao','auster','孤独及其所创造的'),('auster4321','auster','4 3 2 1'),('zhushenkele','france','诸神渴了'),('xiaotouriji','genet','小偷日记'),('qingmiao','colette','青苗'),('jidudezuihouyouhuo','kazantzakis','基督的最后诱惑'),('endimiweng','keats','恩底弥翁'),('zhuru','lagerkvist','侏儒'),('qipiangetegushi','dinesen','七篇哥特故事'),('yecaoidgechang','lessing','野草在歌唱'),('shoucangjia','fowles','收藏家'),('milaerdun','blake','弥尔顿')]:
+    if wid in created:
+        link(aid, wid, kw)
+print('BATCH80 DONE')

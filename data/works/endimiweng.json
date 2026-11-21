@@ -1,0 +1,105 @@
+{
+  "id": "endimiweng",
+  "title": "恩底弥翁",
+  "original_title": "Endymion",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪10年代末",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "keats",
+  "author_name": "约翰·济慈",
+  "year_display": "1818年（Britannica B395：Endymion (1818)——四个1000行部分）",
+  "year_sort": 1818,
+  "background": [
+    "Britannica（B395）：Endymion——1818——'four 1,000-line sections'（四个1000行部分）。",
+    "Britannica（B395）：济慈——1819年颂歌年（交叉）。",
+    "题材（通说待核）：恩底弥翁与月神——'一件美的事物是永远的喜悦'（首行——不采为引文）。"
+  ],
+  "outline": [
+    "（通说待核）四书结构：皮尼亚—海底—宙斯—赫利俄斯？（四书名通说待核）。",
+    "（通说待核）月神塞勒涅与牧羊人恩底弥翁。"
+  ],
+  "characters": [
+    {
+      "name": "恩底弥翁",
+      "identity": "牧羊人",
+      "note": "（B395 书名人物）"
+    },
+    {
+      "name": "塞勒涅/辛西娅",
+      "identity": "月神",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'美'的追寻（首行语境——通说待核）。",
+    "四书的'千行'实验（B395）。",
+    "神话的浪漫化（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'four 1,000-line sections'（B395）。",
+      "source": "B395"
+    },
+    {
+      "text": "Britannica：1819颂歌年的前奏（B395 交叉）。",
+      "source": "B395"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "四书的迂回叙事。",
+      "'首行'名句核对（不采为引文）。"
+    ],
+    "editions": [
+      "《恩底弥翁》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "济慈长诗；与《1819年颂歌》对读。"
+  },
+  "pending": [
+    "四书名核对（通说）。",
+    "1818年出版细节待核。",
+    "'首行'名句核对（不采为引文）。"
+  ],
+  "sources": [
+    "B395"
+  ],
+  "year_source": "B395",
+  "author_source": "B395",
+  "related_works": [
+    "songge1819",
+    "xuboliweng",
+    "jiefangpu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恩底弥翁》四书结构图",
+    "cards": [
+      {
+        "title": "四书",
+        "text": "'千行'的实验（B395）",
+        "color": "gold"
+      },
+      {
+        "title": "恩底弥翁",
+        "text": "月神的恋人（B395）",
+        "color": "main"
+      },
+      {
+        "title": "美",
+        "text": "'永远的喜悦'（通说——不采为引文）",
+        "color": "family"
+      },
+      {
+        "title": "1818",
+        "text": "批评的挫折（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

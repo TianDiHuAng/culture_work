@@ -1,0 +1,105 @@
+{
+  "id": "yecaoidgechang",
+  "title": "野草在歌唱",
+  "original_title": "The Grass Is Singing",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lessing",
+  "author_name": "多丽丝·莱辛",
+  "year_display": "1950年（Britannica B389：The Grass Is Singing (1950)——'about a white farmer, his wife, and their African servant in Rhodesia'）",
+  "year_sort": 1950,
+  "background": [
+    "Britannica（B389）：The Grass Is Singing——'about a white farmer, his wife, and their African servant in Rhodesia'（罗德西亚的白人农夫、妻子与非洲仆人）。",
+    "Britannica（B389）：莱辛——2007诺奖；'people involved in the social and political upheavals of the 20th century'。",
+    "题材（通说待核）：玛丽·特纳的孤独与被杀——种族秩序的崩解。"
+  ],
+  "outline": [
+    "（通说待核）玛丽的孤独与摩西的'反常'关系。",
+    "（通说待核）'草地歌唱'：开篇的凶案回声（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "玛丽·特纳",
+      "identity": "农场主妻",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "摩西",
+      "identity": "非洲仆人",
+      "note": "（B389：their African servant）"
+    }
+  ],
+  "themes": [
+    "罗德西亚的种族秩序（B389：Rhodesia）。",
+    "'社会政治动荡中人'（B389：social and political upheavals）。",
+    "'草地歌唱'的意象（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'about a white farmer, his wife, and their African servant in Rhodesia'（B389）。",
+      "source": "B389"
+    },
+    {
+      "text": "Britannica：2007诺奖（B389 交叉）。",
+      "source": "B389"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "南罗德西亚殖民语境。",
+      "'凶案'的开篇倒叙。"
+    ],
+    "editions": [
+      "《野草在歌唱》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "莱辛首作；先于《金色笔记》。"
+  },
+  "pending": [
+    "玛丽/摩西人名核对（通说）。",
+    "1950年出版细节待核。",
+    "'草地歌唱'意象待核。"
+  ],
+  "sources": [
+    "B389"
+  ],
+  "year_source": "B389",
+  "author_source": "B389",
+  "related_works": [
+    "jinsanbiji",
+    "kanbujian3",
+    "xiangtianhuhan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《野草在歌唱》种族崩解图",
+    "cards": [
+      {
+        "title": "草地",
+        "text": "'歌唱'的意象（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "玛丽",
+        "text": "白人的孤独（通说）",
+        "color": "main"
+      },
+      {
+        "title": "摩西",
+        "text": "仆人的反常（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "罗德西亚",
+        "text": "秩序的崩解（B389）",
+        "color": "family"
+      }
+    ]
+  }
+}
