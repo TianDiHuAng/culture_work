@@ -1,0 +1,105 @@
+{
+  "id": "luzhezhezhe",
+  "title": "裸者与死者",
+  "original_title": "The Naked and the Dead",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪40年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mailer",
+  "author_name": "诺曼·梅勒",
+  "year_display": "1948年（Britannica B409：The Naked and the Dead (1948)——'hailed immediately as one of the finest American novels to come out of World War II'）",
+  "year_sort": 1948,
+  "background": [
+    "Britannica（B409）：'hailed immediately as one of the finest American novels to come out of World War II'（立即被誉为二战最佳美国小说之一）——索邦求学期间写。",
+    "Britannica（B409）：'follows a platoon of 13 American soldiers stationed on the Japanese-held island of Anopopei in the Pacific'（太平洋日占虚构岛 Anopopei 上的13人排）。",
+    "Britannica（B409）：梅勒——哈佛1943航空工程、1944-46太平洋服役。"
+  ],
+  "outline": [
+    "（通说待核——B409未载剧情）安诺波佩岛登陆战：卡明斯将军与赫恩中尉的权力角斗。",
+    "（通说待核）'箱子'式的排级群像与飞行员的'时间机器'插入。"
+  ],
+  "characters": [
+    {
+      "name": "卡明斯将军",
+      "identity": "师指挥官",
+      "note": "（通说待核，B409未载）"
+    },
+    {
+      "name": "赫恩",
+      "identity": "中尉",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'二战最佳美国小说之一'（B409）。",
+    "军阶与权力的政治（通说待核）。",
+    "13人排的群像（B409：a platoon of 13 American soldiers）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'hailed immediately as one of the finest American novels to come out of World War II'（B409）。",
+      "source": "B409"
+    },
+    {
+      "text": "Britannica：梅勒'新新闻主义'（B409 交叉）。",
+      "source": "B409"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "群像的插章结构（'时间机器'——通说待核）。",
+      "太平洋战场史。"
+    ],
+    "editions": [
+      "《裸者与死者》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "梅勒首作；与《刽子手之歌》对读。"
+  },
+  "pending": [
+    "卡明斯/赫恩人名核对（通说）。",
+    "1948年出版（Holt说）待核。",
+    "'时间机器'插章细节待核。"
+  ],
+  "sources": [
+    "B409"
+  ],
+  "year_source": "B409",
+  "author_source": "B409",
+  "related_works": [
+    "sangeshibing",
+    "wuhhaotuchang",
+    "sanzimei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《裸者与死者》群像结构图",
+    "cards": [
+      {
+        "title": "13人排",
+        "text": "太平洋的岛屿（B409）",
+        "color": "main"
+      },
+      {
+        "title": "权力",
+        "text": "将军与中尉（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "裸者",
+        "text": "战争剥夺的一切（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "死者",
+        "text": "群岛的代价（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

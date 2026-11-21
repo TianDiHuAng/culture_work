@@ -1,0 +1,68 @@
+{
+  "id": "mailer",
+  "name": "诺曼·梅勒",
+  "foreign_name": "Norman Mailer（诺曼·梅勒，1923-01-31—2007-11-10）",
+  "country": "美国",
+  "birth": 1923,
+  "death": 2007,
+  "birth_year": 1923,
+  "death_year": 2007,
+  "era": "现当代",
+  "summary": "梅勒，新泽西Long Branch生，美国作家——'New Journalism'——'combines the imaginative subjectivity of literature with the more objective qualities of journalism'（新新闻主义：文学的想象主观性+新闻的客观性——B409）。The Naked and the Dead（裸者与死者, 1948）——索邦求学期间写——'hailed immediately as one of the finest American novels to come out of World War II'（B409）——'follows a platoon of 13 American soldiers stationed on the Japanese-held island of Anopopei in the Pacific'（B409）。The Executioner's Song (1979)——'Pulitzer Prize-winning novel based on the life of convicted murderer Gary Gilmore'（B409）。The Armies of the Night (1968)——普利策+全国图书奖（B409）。",
+  "timeline": [
+    {
+      "year": 1923,
+      "text": "1月31日生于新泽西Long Branch（B409）。",
+      "src": "B409"
+    },
+    {
+      "year": 1948,
+      "text": "《裸者与死者》——'二战最佳美国小说之一'（B409）。",
+      "src": "B409"
+    },
+    {
+      "year": 1968,
+      "text": "The Armies of the Night——普利策+全国图书奖（B409）。",
+      "src": "B409"
+    },
+    {
+      "year": 1979,
+      "text": "《刽子手之歌》——普利策奖（B409）。",
+      "src": "B409"
+    },
+    {
+      "year": 2007,
+      "text": "11月10日卒于纽约（B409）。",
+      "src": "B409"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "luzhezhezhe",
+      "note": "1948（B409）"
+    },
+    {
+      "work_id": "guizishouzhige",
+      "note": "1979普利策奖（B409）"
+    },
+    {
+      "title": "夜幕下的大军",
+      "note": "（B409：The Armies of the Night (1968)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'新新闻主义'（B409：New Journalism——'imaginative subjectivity of literature...objective qualities of journalism'）。",
+    "二战太平洋战场的群体肖像（B409：a platoon of 13 American soldiers）。",
+    "'真人真事'的非虚构小说（B409：Gary Gilmore）。"
+  ],
+  "status": "Britannica 定位梅勒为'新新闻主义'代表、两获普利策奖（B409）。",
+  "sources": [
+    "B409"
+  ],
+  "dates_source": "B409",
+  "pending": [
+    "《裸者与死者》通行译名（《裸者与死者》）待核。",
+    "Anopopei 岛（虚构）核对。",
+    "1969年纽约市长竞选（B409已载）细节待核。"
+  ]
+}

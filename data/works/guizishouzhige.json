@@ -1,0 +1,105 @@
+{
+  "id": "guizishouzhige",
+  "title": "刽子手之歌",
+  "original_title": "The Executioner's Song",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代末",
+  "genre": "非虚构小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mailer",
+  "author_name": "诺曼·梅勒",
+  "year_display": "1979年（Britannica B409：The Executioner's Song (1979)——'Pulitzer Prize-winning novel based on the life of convicted murderer Gary Gilmore'）",
+  "year_sort": 1979,
+  "background": [
+    "Britannica（B409）：'Pulitzer Prize-winning novel based on the life of convicted murderer Gary Gilmore'（基于杀人犯加里·吉尔摩生平的普利策奖小说）。",
+    "Britannica（B409）：'New Journalism'——'combines the imaginative subjectivity of literature with the more objective qualities of journalism'。",
+    "题材（通说待核）：吉尔摩要求的死刑执行——'行刑者之歌'的西部叙事。"
+  ],
+  "outline": [
+    "（通说待核）吉尔摩出狱、杀人、自请死刑——'西部的声音'。",
+    "（通说待核）执行前夜的媒体与宗教。"
+  ],
+  "characters": [
+    {
+      "name": "加里·吉尔摩",
+      "identity": "死刑犯",
+      "note": "（B409：convicted murderer Gary Gilmore）"
+    },
+    {
+      "name": "妮可",
+      "identity": "恋人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'行刑者之歌'：死刑的仪式（书名语境——通说待核）。",
+    "'新新闻主义'的实录（B409）。",
+    "西部与暴力的神话（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Pulitzer Prize-winning'（B409）。",
+      "source": "B409"
+    },
+    {
+      "text": "Britannica：'New Journalism'（B409 作者级）。",
+      "source": "B409"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'非虚构小说'的实录性。",
+      "1976-77年犹他州死刑案（通说待核）。"
+    ],
+    "editions": [
+      "《刽子手之歌》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "梅勒非虚构篇；与《裸者与死者》对读。"
+  },
+  "pending": [
+    "吉尔摩案细节核对（1976年杀人/1977年1月行刑说——通说）。",
+    "1979年出版（Little, Brown说）待核。",
+    "'西部之声'结构待核。"
+  ],
+  "sources": [
+    "B409"
+  ],
+  "year_source": "B409",
+  "author_source": "B409",
+  "related_works": [
+    "luzhezhezhe",
+    "katarinabulum",
+    "wuhhaotuchang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《刽子手之歌》行刑结构图",
+    "cards": [
+      {
+        "title": "吉尔摩",
+        "text": "自请死刑（B409语境）",
+        "color": "main"
+      },
+      {
+        "title": "行刑者",
+        "text": "'之歌'的仪式（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "新新闻",
+        "text": "实录的文学（B409）",
+        "color": "family"
+      },
+      {
+        "title": "西部",
+        "text": "暴力的神话（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
