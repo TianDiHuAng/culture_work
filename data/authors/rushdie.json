@@ -1,68 +1,68 @@
 {
   "id": "rushdie",
-  "name": "萨尔曼·拉什迪",
-  "foreign_name": "Salman Rushdie（萨尔曼·拉什迪，1947-06-19— ）",
+  "name": "萨尔曼·鲁西迪",
+  "foreign_name": "Salman Rushdie（萨尔曼·鲁西迪，1947-06-19—）",
   "country": "英国",
   "birth": 1947,
   "death": null,
   "birth_year": 1947,
   "death_year": null,
   "era": "现当代",
-  "summary": "拉什迪，生于孟买的英裔美籍小说家（Britannica：Indian-born British-American novelist），以《午夜之子》《撒旦诗篇》等寓言性作品著称（Britannica：known for allegorical works like Midnight's Children and The Satanic Verses）。《午夜之子》（1981）获布克奖，并获'布克中的布克'（1993）与'布克奖40年最佳'（2008）（Britannica：a fable about modern India, was an unexpected critical and popular success）。1989年因《撒旦诗篇》遭伊朗精神领袖霍梅尼下令追杀（fatwa），隐匿近十年；2022年在纽约文学活动遇袭受伤（Britannica：a 2022 knife attack……cost him an eye）。",
+  "summary": "鲁西迪，孟买生（英籍印度裔），小说家——Midnight's Children（午夜之子, 1981）——'a fable about modern India'（关于现代印度的寓言——B378）——布克奖(1981)、Booker of Bookers(1993)、Best of the Booker(2008)（B378）。The Satanic Verses（撒旦诗篇, 1988）——1989年霍梅尼'issued a fatwa'并悬赏——隐居约十年——1998年伊朗不再执行（B378）——日译者1991被杀、意译者被刺、挪威出版商被枪击（B378）。2022年8月在纽约州遇袭失去一眼（B378）。2007年封爵（B378）。",
   "timeline": [
     {
       "year": 1947,
-      "text": "生于孟买（Britannica：June 19, 1947——born in Bombay）。",
-      "src": "B213"
+      "text": "6月19日生于孟买（B378）。",
+      "src": "B378"
     },
     {
       "year": 1981,
-      "text": "《午夜之子》出版并获布克奖（Britannica：received the Booker Prize in 1981 for Midnight's Children）。",
-      "src": "B213"
+      "text": "《午夜之子》——布克奖（B378）。",
+      "src": "B378"
     },
     {
       "year": 1989,
-      "text": "《撒旦诗篇》引发 fatwa（Britannica：February 14, 1989）。",
-      "src": "B213"
+      "text": "霍梅尼对《撒旦诗篇》发布法特瓦——隐居约十年（B378）。",
+      "src": "B378"
     },
     {
       "year": 2007,
-      "text": "受封爵士（Britannica：knighted）。",
-      "src": "B213"
+      "text": "获封爵士（B378）。",
+      "src": "B378"
     },
     {
       "year": 2022,
-      "text": "8月在纽约州肖托夸遇袭（Britannica：attacked in Chautauqua, New York）。",
-      "src": "B213"
+      "text": "8月在纽约州遇袭失去一眼；袭击者被判罪（B378）。",
+      "src": "B378"
     }
   ],
   "major_works": [
     {
-      "work_id": "wuzhizidezi",
-      "note": "长篇（Britannica：1981 Booker）"
+      "work_id": "wuzhizi",
+      "note": "1981（B378）"
     },
     {
       "title": "撒旦诗篇",
-      "note": "1988年（Britannica）"
+      "note": "（B378：The Satanic Verses (1988)）"
     },
     {
-      "title": "羞耻、摩尔人的最后叹息",
-      "note": "（通说待核）"
+      "title": "羞耻",
+      "note": "（B378：Shame (1983)）"
     }
   ],
   "style": [
-    "魔幻现实主义与印度口述传统的嫁接：'想象的历史'（通说）。",
-    "多语混成（英语+印地语/乌尔都语词汇）与不可靠叙述（通说）。",
-    "政治寓言：以个体的诞生隐喻国家的诞生（通说）。"
+    "'关于现代印度的寓言'（B378）。",
+    "魔幻现实主义与英语的重铸（B378 语境——通说待核）。",
+    "'历史'与'想象'的争辩（B378 语境）。"
   ],
-  "status": "Britannica 定位拉什迪为'关于言论自由与审查辩论的中心人物'（a central figure in debates about free speech and censorship）；《午夜之子》为布克奖史上最佳（布克中的布克——Britannica）。",
+  "status": "Britannica 定位鲁西迪为布克奖三度加冕的作家、法特瓦事件的当事人（B378）。",
   "sources": [
-    "B213"
+    "B378"
   ],
-  "dates_source": "B213",
+  "dates_source": "B378",
   "pending": [
-    "《午夜之子》中译本信息待核。",
-    "三亿零一分钟印度史（'30分钟'倍数说）细节待核。",
-    "2022遇袭案后续（Britannica 已载2026年定罪进展）可更新。"
+    "《午夜之子》通行译名待核。",
+    "'Booker of Bookers'评奖细节（B378已载）待核。",
+    "2022年袭击案的司法后续（2026年7月恐怖主义罪名——B378口径）核对。"
   ]
 }

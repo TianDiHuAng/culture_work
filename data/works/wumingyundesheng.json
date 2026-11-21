@@ -1,0 +1,100 @@
+{
+  "id": "wumingyundesheng",
+  "title": "无命运的一生",
+  "original_title": "Sorstalanság",
+  "region": "匈牙利",
+  "era": "近代",
+  "era_detail": "20世纪70年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "匈牙利语",
+  "author_id": "kertesz",
+  "author_name": "凯尔泰斯·伊姆雷",
+  "year_display": "1975年（Britannica B379：Sorstalanság (1975)——60年代中期完成）",
+  "year_sort": 1975,
+  "background": [
+    "Britannica（B379）：叙述者'confronts the inexplicable horror of human degradation not with outrage or resistance but with seemingly incomprehensible complacency and detachment'。",
+    "Britannica（B379）：1990年德译本后更受关注——译成10余种语言——2005年自改编电影。",
+    "Britannica（B379）：凯尔泰斯——14岁被逐奥斯维辛、布痕瓦尔德——1945年5月获释。"
+  ],
+  "outline": [
+    "（通说待核）科维什·久尔吉的奥斯维辛-布痕瓦尔德：'步骤'式的适应。",
+    "（通说待核）'无命运'：没有选择的选择。"
+  ],
+  "characters": [
+    {
+      "name": "科维什·久尔吉",
+      "identity": "15岁被逐者",
+      "note": "（通说待核，B379未载）"
+    }
+  ],
+  "themes": [
+    "'麻木与超然'（B379：complacency and detachment）。",
+    "'无命运'：拒绝悲剧的姿态（书名语境——通说待核）。",
+    "人的贬抑的'不可理解'（B379：inexplicable horror）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2002诺奖（B379）。",
+      "source": "B379"
+    },
+    {
+      "text": "Britannica：'translated into more than 10 languages'（B379）。",
+      "source": "B379"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'疏离'叙述的伦理。",
+      "奥斯维辛-布痕瓦尔德史。"
+    ],
+    "editions": [
+      "《无命运的一生》中译本（人民文学等——通说待核）。",
+      "匈牙利文原版。"
+    ],
+    "order": "凯尔泰斯首选；后接《给未出生孩子的挽歌》。"
+  },
+  "pending": [
+    "科维什·久尔吉人名核对（通说）。",
+    "1975年出版（Szépirodalmi说）待核。",
+    "'下一步'（Légszomj）等细节待核。"
+  ],
+  "sources": [
+    "B379"
+  ],
+  "year_source": "B379",
+  "author_source": "B379",
+  "related_works": [
+    "leiyu",
+    "moluoyi",
+    "tuyuzhizideneizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《无命运的一生》疏离结构图",
+    "cards": [
+      {
+        "title": "无命运",
+        "text": "拒绝悲剧的命名（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "久尔吉",
+        "text": "'麻木'的见证（B379）",
+        "color": "main"
+      },
+      {
+        "title": "奥斯维辛",
+        "text": "贬抑的不可解（B379）",
+        "color": "antagonist"
+      },
+      {
+        "title": "步骤",
+        "text": "适应的逻辑（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "suiyue",
+  "title": "岁月",
+  "original_title": "Les Années",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "21世纪初",
+  "genre": "自传性叙事",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "ernaux",
+  "author_name": "安妮·埃尔诺",
+  "year_display": "2008年（Britannica B380：Les Années (2008)——'her masterpiece'——'a personal and collective history of postwar France'）",
+  "year_sort": 2008,
+  "background": [
+    "Britannica（B380）：'her masterpiece'——'a personal and collective history of postwar France'（战后法国的个人与集体史）——获杜拉斯奖与莫里亚克奖——英译2019入围布克。",
+    "Britannica（B380）：埃尔诺——'lightly fictionalized memoirs...written in spare, detached prose'——'revealing the artifice of her own genre'。",
+    "Britannica（B380）：2022诺奖——'courage and clinical acuity'。"
+  ],
+  "outline": [
+    "（通说待核）'无人称'的岁月档案：照片、歌曲、广告与事件。",
+    "（通说待核）'拯救关于某物曾经存在的记忆'（不采为引文）。"
+  ],
+  "characters": [
+    {
+      "name": "'她'（无人称）",
+      "identity": "记忆的主体",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'个人与集体的战后法国史'（B380）。",
+    "'无人称自传'（通说待核）。",
+    "'文类的造作'的自我揭示（B380：artifice of her own genre）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2022诺奖——'courage and clinical acuity'（B380）。",
+      "source": "B380"
+    },
+    {
+      "text": "Britannica：'her masterpiece'（B380）。",
+      "source": "B380"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'无人称'的代词实验。",
+      "法国消费社会年表。"
+    ],
+    "editions": [
+      "《岁月》中译名（《悠悠岁月》）待核。",
+      "法文原版。"
+    ],
+    "order": "埃尔诺集大成之作；与《一个男人的位置》对读。"
+  },
+  "pending": [
+    "'无人称自传'说法待核。",
+    "2008年出版（Gallimard说）待核。",
+    "2025年伦敦西区舞台改编（B380）待核。"
+  ],
+  "sources": [
+    "B380"
+  ],
+  "year_source": "B380",
+  "author_source": "B380",
+  "related_works": [
+    "leiyu",
+    "zenodeyishi",
+    "gududemigong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《岁月》无人称结构图",
+    "cards": [
+      {
+        "title": "无人称",
+        "text": "记忆的语法（通说）",
+        "color": "main"
+      },
+      {
+        "title": "岁月",
+        "text": "战后法国（B380）",
+        "color": "gold"
+      },
+      {
+        "title": "照片",
+        "text": "时代的底片（通说）",
+        "color": "family"
+      },
+      {
+        "title": "造作",
+        "text": "文类的自觉（B380）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

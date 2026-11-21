@@ -1,0 +1,68 @@
+{
+  "id": "kertesz",
+  "name": "凯尔泰斯·伊姆雷",
+  "foreign_name": "Imre Kertész（凯尔泰斯·伊姆雷，1929-11-09—2016-03-31）",
+  "country": "匈牙利",
+  "birth": 1929,
+  "death": 2016,
+  "birth_year": 1929,
+  "death_year": 2016,
+  "era": "现当代",
+  "summary": "凯尔泰斯，布达佩斯生，匈牙利小说家——2002年诺贝尔文学奖（B379）。14岁被逐奥斯维辛、后布痕瓦尔德——1945年5月获释（B379）。Sorstalanság（无命运的一生, 1975年出版）——叙述者'confronts the inexplicable horror of human degradation not with outrage or resistance but with seemingly incomprehensible complacency and detachment'（以'麻木与超然'面对人的贬抑——B379）——1990年德译本后广受关注、译成10余种语言、2005年自改编电影（B379）。靠翻译尼采、弗洛伊德等为生（B379）。",
+  "timeline": [
+    {
+      "year": 1929,
+      "text": "11月9日生于布达佩斯（B379）。",
+      "src": "B379"
+    },
+    {
+      "year": 1944,
+      "text": "14岁被逐奥斯维辛、布痕瓦尔德（B379）。",
+      "src": "B379"
+    },
+    {
+      "year": 1975,
+      "text": "《无命运的一生》出版（B379）。",
+      "src": "B379"
+    },
+    {
+      "year": 2002,
+      "text": "获诺贝尔文学奖（B379）。",
+      "src": "B379"
+    },
+    {
+      "year": 2016,
+      "text": "3月31日卒于布达佩斯（B379）。",
+      "src": "B379"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "wumingyundesheng",
+      "note": "1975（B379）"
+    },
+    {
+      "title": "给未出生孩子的挽歌",
+      "note": "（B379：Kaddish for a Child Not Born (1990)——中译名待核）"
+    },
+    {
+      "title": "惨败",
+      "note": "（B379：Fiasco (1988)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'麻木与超然'的集中营叙事（B379：complacency and detachment）。",
+    "'无命运'：对命运的拒绝命名（书名语境——通说待核）。",
+    "翻译家式的精确（B379：Nietzsche/Freud 等）。"
+  ],
+  "status": "Britannica 定位凯尔泰斯为2002诺奖得主、大屠杀文学的'疏离'书写者（B379）。",
+  "sources": [
+    "B379"
+  ],
+  "dates_source": "B379",
+  "pending": [
+    "《无命运的一生》通行译名（《无命运者》/《无命运的人生》）待核。",
+    "'1960年代中期完成'（B379）细节待核。",
+    "2005年电影改编（导演说法）待核。"
+  ]
+}

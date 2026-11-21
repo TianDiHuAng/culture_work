@@ -1,0 +1,68 @@
+{
+  "id": "ernaux",
+  "name": "安妮·埃尔诺",
+  "foreign_name": "Annie Ernaux（安妮·埃尔诺，原名 Annie Duchesne，1940-09-01—）",
+  "country": "法国",
+  "birth": 1940,
+  "death": null,
+  "birth_year": 1940,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "埃尔诺，法国Lillebonne生（工人家庭），作家——2022年诺贝尔文学奖——瑞典学院赞其'courage and clinical acuity'揭示'the roots, estrangements and collective restraints of personal memory'（个人记忆的根源、疏离与集体规训——B380）。'lightly fictionalized memoirs...written in spare, detached prose'（轻度虚构的自传、简洁疏离的散文——B380）——'revealing the artifice of her own genre'（揭示自身文类的造作——B380）。Les Années（岁月, 2008）——'her masterpiece'——'a personal and collective history of postwar France'（战后法国的个人与集体史——B380）——获杜拉斯奖与莫里亚克奖（B380）。La Place (1983)——勒诺多奖（B380）。",
+  "timeline": [
+    {
+      "year": 1940,
+      "text": "9月1日生于Lillebonne（B380）。",
+      "src": "B380"
+    },
+    {
+      "year": 1974,
+      "text": "Les Armoires vides——首作（B380）。",
+      "src": "B380"
+    },
+    {
+      "year": 1983,
+      "text": "La Place——勒诺多奖（B380）。",
+      "src": "B380"
+    },
+    {
+      "year": 2008,
+      "text": "《岁月》——'her masterpiece'（B380）。",
+      "src": "B380"
+    },
+    {
+      "year": 2022,
+      "text": "获诺贝尔文学奖（B380）。",
+      "src": "B380"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "suiyue",
+      "note": "2008（B380）"
+    },
+    {
+      "title": "一个男人的位置",
+      "note": "（B380：La Place (1983)——中译名待核）"
+    },
+    {
+      "title": "一个女人的故事",
+      "note": "（B380：Une Femme (1987)）"
+    }
+  ],
+  "style": [
+    "'简洁疏离的散文'（B380：spare, detached prose）。",
+    "'轻度虚构的自传'与'文类的造作'（B380）。",
+    "'个人记忆的集体规训'（B380：collective restraints）。"
+  ],
+  "status": "Britannica 定位埃尔诺为2022诺奖得主、《岁月》为其杰作（B380）。",
+  "sources": [
+    "B380"
+  ],
+  "dates_source": "B380",
+  "pending": [
+    "《岁月》通行译名（《悠悠岁月》）待核。",
+    "2025年伦敦西区舞台改编（Eline Arbo——B380）待核。",
+    "'自'fiction'术语归属（与杜布拉夫卡之辩）待核——B380未载。"
+  ]
+}
