@@ -1,0 +1,68 @@
+{
+  "id": "valery",
+  "name": "保尔·瓦雷里",
+  "foreign_name": "Paul Valéry（保尔·瓦雷里，全名 Ambroise-Paul-Toussaint-Jules Valéry，1871-10-30—1945-07-20）",
+  "country": "法国",
+  "birth": 1871,
+  "death": 1945,
+  "birth_year": 1871,
+  "death_year": 1945,
+  "era": "近代",
+  "summary": "瓦雷里，法国塞特生，诗人——La Jeune Parque（年轻的命运女神, 1917）——'His greatest poem is considered La Jeune Parque'（被认为其最伟大的诗——B405）——三女神中最年轻者的意识觉醒、黎明海边的犹疑——历时五年完成（B405）。Le Cimetière marin（海滨墓园, 1920，收入 Charmes (1922)）——'broods by the sea at noon on Being and Not-Being, on the living and the dead'（正午在海上沉思存在与不存在——B405）——塞特墓地（今葬于此）。Monsieur Teste（泰斯特先生, 1896）——'an almost disembodied intellect who knows but two values, the possible and the impossible'（B405）。纯诗——'free of message'探语言的音乐本质（B405）。'rise at dawn each day, meditate for several hours'（B405）。1925法兰西学院、1937法兰西公学院诗学教授、国葬（B405）。",
+  "timeline": [
+    {
+      "year": 1871,
+      "text": "10月30日生于法国塞特（B405）。",
+      "src": "B405"
+    },
+    {
+      "year": 1896,
+      "text": "La Soirée avec Monsieur Teste（与泰斯特先生夜谈）（B405）。",
+      "src": "B405"
+    },
+    {
+      "year": 1917,
+      "text": "La Jeune Parque——五年写就的'最伟大之诗'（B405）。",
+      "src": "B405"
+    },
+    {
+      "year": 1925,
+      "text": "入选法兰西学院（B405）。",
+      "src": "B405"
+    },
+    {
+      "year": 1945,
+      "text": "7月20日卒于巴黎——国葬（B405）。",
+      "src": "B405"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "haibinmuyuan",
+      "note": "1920（B405，收入 Charmes 1922）"
+    },
+    {
+      "work_id": "mingyunvshen",
+      "note": "1917（B405）"
+    },
+    {
+      "title": "泰斯特先生",
+      "note": "（B405：Monsieur Teste (1896)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'纯诗'：'free of message'探语言的音乐本质（B405）。",
+    "'黎明即起、默想数小时'的智性生活（B405）。",
+    "《海滨墓园》的正午沉思（B405：Being and Not-Being）。"
+  ],
+  "status": "Britannica 定位瓦雷里为'纯诗'理论家与实践者、La Jeune Parque 为其最伟大之诗（B405）。",
+  "sources": [
+    "B405"
+  ],
+  "dates_source": "B405",
+  "pending": [
+    "《海滨墓园》通行译名待核。",
+    "La Jeune Parque 通行译名（《年轻的命运女神》）待核。",
+    "《 Cahiers 》笔记（B405：famous Cahiers）出版细节待核。"
+  ]
+}

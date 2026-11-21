@@ -1,0 +1,68 @@
+{
+  "id": "welty",
+  "name": "尤多拉·韦尔蒂",
+  "foreign_name": "Eudora Welty（尤多拉·韦尔蒂，1909-04-13—2001-07-23）",
+  "country": "美国",
+  "birth": 1909,
+  "death": 2001,
+  "birth_year": 1909,
+  "death_year": 2001,
+  "era": "现当代",
+  "summary": "韦尔蒂，密西西比州杰克逊生（卒于同地，92岁），美国短篇作家（B406）。'Why I Live at the P.O.'——'a comic monologue about a young woman escaping her eccentric family'（页面问答口径）——A Curtain of Green (1941)中'两篇被选集最多'之一（B406）。The Optimist's Daughter (1972)——'won a Pulitzer Prize'（普利策奖——B406）。Delta Wedding (1946)——首部长篇（B406）。普利策奖+1980总统自由勋章（B406）；'Welty's first short story was published in 1936'（B406）；摄影是终生爱好（B406）。",
+  "timeline": [
+    {
+      "year": 1909,
+      "text": "4月13日生于密西西比州杰克逊（B406）。",
+      "src": "B406"
+    },
+    {
+      "year": 1936,
+      "text": "首篇短篇发表（B406）。",
+      "src": "B406"
+    },
+    {
+      "year": 1941,
+      "text": "A Curtain of Green——短篇集（B406）。",
+      "src": "B406"
+    },
+    {
+      "year": 1972,
+      "text": "《乐观者的女儿》——普利策奖（B406）。",
+      "src": "B406"
+    },
+    {
+      "year": 2001,
+      "text": "7月23日卒于杰克逊（B406）。",
+      "src": "B406"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "leguanzhe",
+      "note": "1972普利策奖（B406）"
+    },
+    {
+      "title": "绿幕",
+      "note": "（B406：A Curtain of Green (1941)——中译名待核）"
+    },
+    {
+      "title": "德尔塔婚礼",
+      "note": "（B406：Delta Wedding (1946)——首部长篇——中译名待核）"
+    }
+  ],
+  "style": [
+    "密西西比小镇的'喜剧独白'（B406：Why I Live at the P.O.——页面问答口径）。",
+    "'短篇作家'的集中营式观察（B406：American short-story writer）。",
+    "摄影的终生爱好（B406：photography remained a lifelong interest）。"
+  ],
+  "status": "Britannica 定位韦尔蒂为美国短篇作家、普利策奖得主（B406）。",
+  "sources": [
+    "B406"
+  ],
+  "dates_source": "B406",
+  "pending": [
+    "《乐观者的女儿》通行译名待核。",
+    "'Why I Live at the P.O.'描述（页面问答口径）核对。",
+    "1980总统自由勋章（B406已载）核对。"
+  ]
+}
