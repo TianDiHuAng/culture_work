@@ -1,0 +1,100 @@
+{
+  "id": "mifengdeshenghuo",
+  "title": "蜜蜂的生活",
+  "original_title": "La Vie des abeilles",
+  "region": "比利时",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "散文集（自然随笔）",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "maeterlinck",
+  "author_name": "莫里斯·梅特林克",
+  "year_display": "1901年（Britannica B372：La Vie des abeilles (1901)）",
+  "year_sort": 1901,
+  "background": [
+    "Britannica（B372）：La Vie des abeilles——梅特林克作品列表（与 Le Trésor des humbles 1896 并列）。",
+    "Britannica（B372）：梅特林克——1911诺奖；象征主义戏剧家。",
+    "题材（通说待核）：蜂巢的'哲学'——蜂王、雄蜂与工蜂的乌托邦观察。"
+  ],
+  "outline": [
+    "（通说待核）蜂巢的观察：分蜂、蜂王的诞生与屠杀。",
+    "（通说待核）'蜜蜂的生活'作为人类社会的镜。"
+  ],
+  "characters": [
+    {
+      "name": "蜂王",
+      "identity": "巢的君主",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "蜂巢的'共和国'（通说待核）。",
+    "自然随笔的科学诗（B372 语系）。",
+    "'命运'的哲学（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：La Vie des abeilles (1901)（B372）。",
+      "source": "B372"
+    },
+    {
+      "text": "Britannica：1911诺奖（B372 交叉）。",
+      "source": "B372"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "养蜂学的术语。",
+      "'拟人'的限度。"
+    ],
+    "editions": [
+      "《蜜蜂的生活》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "梅特林克散文首选；与《青鸟》对读。"
+  },
+  "pending": [
+    "篇目结构核对（通说）。",
+    "1901年出版细节待核。",
+    "'拟人化'限度待核。"
+  ],
+  "sources": [
+    "B372"
+  ],
+  "year_source": "B372",
+  "author_source": "B372",
+  "related_works": [
+    "qingniao",
+    "peiliyasi",
+    "jichengzhe"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《蜜蜂的生活》蜂巢哲学图",
+    "cards": [
+      {
+        "title": "蜂巢",
+        "text": "共和国的镜（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "蜂王",
+        "text": "屠杀与诞生的循环（通说）",
+        "color": "main"
+      },
+      {
+        "title": "自然",
+        "text": "科学诗（B372语系）",
+        "color": "family"
+      },
+      {
+        "title": "命运",
+        "text": "哲学的底色（作者页语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

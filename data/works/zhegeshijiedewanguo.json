@@ -1,0 +1,105 @@
+{
+  "id": "zhegeshijiedewanguo",
+  "title": "这个世界的王国",
+  "original_title": "El reino de este mundo",
+  "region": "古巴",
+  "era": "近代",
+  "era_detail": "20世纪40年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "carpentier",
+  "author_name": "阿莱霍·卡彭铁尔",
+  "year_display": "1949年（Britannica B373：El reino de este mundo (1949)——'the first to enjoy wide acclaim'）",
+  "year_sort": 1949,
+  "background": [
+    "Britannica（B373）：'is about the Haitian revolution'——海地革命史。",
+    "Britannica（B373）：其序言'expounds on magic realism, which he defines as the representation of \"marvelous American reality\"'——魔幻现实主义的经典表述。",
+    "Britannica（B373）：卡彭铁尔——音乐学家与作家（B053 交叉：马尔克斯承之）。"
+  ],
+  "outline": [
+    "（通说待核）海地革命（1750-1820——B373 交叉口径）：黑奴蒂-诺埃尔的见证。",
+    "（通说待核）'人变兽'的神奇现实：马坎达尔的神迹与烧毁。"
+  ],
+  "characters": [
+    {
+      "name": "蒂-诺埃尔",
+      "identity": "黑奴/见证者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "马坎达尔",
+      "identity": "起义领袖",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'神奇的美国现实'（B373：marvelous American reality）。",
+    "海地革命的暴力循环（B373：Haitian revolution）。",
+    "'信者见神迹'的叙事伦理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：魔幻现实主义序言（B373）。",
+      "source": "B373"
+    },
+    {
+      "text": "Britannica：马尔克斯等拉美作家的先声（B053 交叉）。",
+      "source": "B053"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "海地革命史（杜桑等——通说待核）。",
+      "'神奇现实'与'魔幻'的术语。"
+    ],
+    "editions": [
+      "《这个世界的王国》中译名（《人间王国》）待核。",
+      "西班牙文原版。"
+    ],
+    "order": "魔幻现实主义源头首选；与《百年孤独》对读。"
+  },
+  "pending": [
+    "蒂-诺埃尔/马坎达尔人名核对（通说）。",
+    "1949年出版细节待核。",
+    "'1750-1820'年代口径核对（B373 交叉）。"
+  ],
+  "sources": [
+    "B373"
+  ],
+  "year_source": "B373",
+  "author_source": "B373",
+  "related_works": [
+    "peideluobalamo",
+    "bainian",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《这个世界的王国》神奇现实图",
+    "cards": [
+      {
+        "title": "神奇现实",
+        "text": "'marvelous American reality'（B373）",
+        "color": "gold"
+      },
+      {
+        "title": "海地革命",
+        "text": "黑奴的世纪（B373）",
+        "color": "main"
+      },
+      {
+        "title": "神迹",
+        "text": "信者的叙事（通说）",
+        "color": "family"
+      },
+      {
+        "title": "白人",
+        "text": "碾压的秩序（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

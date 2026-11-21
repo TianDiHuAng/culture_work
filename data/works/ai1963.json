@@ -1,0 +1,105 @@
+{
+  "id": "ai1963",
+  "title": "爱",
+  "original_title": "Un amore",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "buzzati",
+  "author_name": "迪诺·布扎蒂",
+  "year_display": "1963年（Britannica B351：Un amore (1963)——中译名待核）",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B351）：Un amore (1963)——'a novel about a middle-aged man and a devious young woman'。",
+    "Britannica（B351）：布扎蒂——'detached sense of irony and humor'。",
+    "题材（通说待核）：中年建筑师与米兰妓女拉伊达——痴迷与观察。"
+  ],
+  "outline": [
+    "（通说待核）中年男子的痴恋：'观察'与占有。",
+    "（通说待核）米兰的夜色与'爱'的账目。"
+  ],
+  "characters": [
+    {
+      "name": "乔瓦尼",
+      "identity": "中年建筑师",
+      "note": "（通说待核，B351未载）"
+    },
+    {
+      "name": "拉伊达",
+      "identity": "年轻女子",
+      "note": "（通说待核，B351：a devious young woman）"
+    }
+  ],
+  "themes": [
+    "痴迷的观察者（B351：middle-aged man and a devious young woman）。",
+    "'爱'的商品化（通说待核）。",
+    "米兰都市（B351 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Un amore (1963)（B351）。",
+      "source": "B351"
+    },
+    {
+      "text": "Britannica：'detached sense of irony'（B351）。",
+      "source": "B351"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'痴恋'的心理。",
+      "1960年代米兰都市史。"
+    ],
+    "editions": [
+      "《爱》中译名（《爱情》）待核。",
+      "意大利文原版。"
+    ],
+    "order": "布扎蒂'爱'篇；与《鞑靼人沙漠》对读。"
+  },
+  "pending": [
+    "乔瓦尼/拉伊达人名核对（B351未载人名）。",
+    "1963年出版细节待核。",
+    "'建筑'职业细节待核。"
+  ],
+  "sources": [
+    "B351"
+  ],
+  "year_source": "B351",
+  "author_source": "B351",
+  "related_works": [
+    "datatarenshamo",
+    "liushipian",
+    "mengya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《爱》痴迷结构图",
+    "cards": [
+      {
+        "title": "痴迷",
+        "text": "中年的凝视（通说）",
+        "color": "main"
+      },
+      {
+        "title": "拉伊达",
+        "text": "'狡黠的年轻女子'（B351）",
+        "color": "antagonist"
+      },
+      {
+        "title": "米兰",
+        "text": "都市的夜（通说）",
+        "color": "family"
+      },
+      {
+        "title": "反讽",
+        "text": "疏离的目光（B351）",
+        "color": "gold"
+      }
+    ]
+  }
+}

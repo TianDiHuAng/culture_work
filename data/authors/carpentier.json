@@ -1,0 +1,68 @@
+{
+  "id": "carpentier",
+  "name": "阿莱霍·卡彭铁尔",
+  "foreign_name": "Alejo Carpentier（阿莱霍·卡彭铁尔，1904-12-26—1980-04-24）",
+  "country": "古巴",
+  "birth": 1904,
+  "death": 1980,
+  "birth_year": 1904,
+  "death_year": 1980,
+  "era": "近代",
+  "summary": "卡彭铁尔，生于洛桑（法父俄母）——'Carpentier claimed throughout his life that he was Cuban-born'（一生自称古巴生——B373）——1980年卒于巴黎。El reino de este mundo（这个世界的王国, 1949）——'the first to enjoy wide acclaim'——写海地革命——其序言'expounds on magic realism...the representation of \"marvelous American reality\"'（神奇的现实——魔幻现实主义的经典表述——B373）。The Lost Steps（消隐的阶梯, 1953）——'his best-known work'（B373）。音乐学家：Music in Cuba (1946)（B373）。1977年塞万提斯奖（B373）。",
+  "timeline": [
+    {
+      "year": 1904,
+      "text": "12月26日生于洛桑，襁褓中抵哈瓦那（B373）。",
+      "src": "B373"
+    },
+    {
+      "year": 1928,
+      "text": "逃马查多独裁至巴黎（B373）。",
+      "src": "B373"
+    },
+    {
+      "year": 1949,
+      "text": "El reino de este mundo——魔幻现实主义序言（B373）。",
+      "src": "B373"
+    },
+    {
+      "year": 1953,
+      "text": "The Lost Steps——'best-known work'（B373）。",
+      "src": "B373"
+    },
+    {
+      "year": 1980,
+      "text": "4月24日卒于巴黎（B373）。",
+      "src": "B373"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zhegeshijiedewanguo",
+      "note": "1949（B373）"
+    },
+    {
+      "title": "消隐的阶梯",
+      "note": "（B373：The Lost Steps (1953)——'his best-known work'）"
+    },
+    {
+      "title": "大教堂里的爆炸",
+      "note": "（B370式列举：Explosion in a Cathedral (1962)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'神奇的现实'（B373：marvelous American reality）。",
+    "音乐学家的史前史方法（B373：Music in Cuba 交叉）。",
+    "巴洛克句法（'barroco'说——通说待核）。"
+  ],
+  "status": "Britannica 定位卡彭铁尔为魔幻现实主义概念的阐述者、拉美先锋（B373；B053 交叉：马尔克斯承之）。",
+  "sources": [
+    "B373"
+  ],
+  "dates_source": "B373",
+  "pending": [
+    "生地（洛桑）与'自称古巴生'的矛盾口径核对（B373）。",
+    "《消隐的阶梯》通行译名待核。",
+    "'巴洛克'风格说法待核。"
+  ]
+}
