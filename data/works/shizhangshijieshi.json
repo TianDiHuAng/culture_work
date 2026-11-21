@@ -1,0 +1,100 @@
+{
+  "id": "shizhangshijieshi",
+  "title": "10 1/2章世界史",
+  "original_title": "A History of the World in 10½ Chapters",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪80年代末",
+  "genre": "长篇小说（章节体）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "barnes",
+  "author_name": "朱利安·巴恩斯",
+  "year_display": "1989年（Britannica B290：A History of the World in 10½ Chapters (1989)）",
+  "year_sort": 1989,
+  "background": [
+    "Britannica（B290）：A History of the World in 10½ Chapters (1989)——作者页列举。",
+    "Britannica（B290）：巴恩斯 Flaubert's Parrot (1984)——'a humorous mixture of biography, fiction, and literary criticism'——本作延续其文体实验。",
+    "Britannica（B290）：The Sense of an Ending——'uses an unreliable narrator to explore the subjects of memory and aging'（2011布克奖）。"
+  ],
+  "outline": [
+    "（通说待核——B290未载篇目）以挪亚方舟木虫为'第1章'的世界史碎片。",
+    "（通说待核）'半章'：论爱与历史的插叙。"
+  ],
+  "characters": [
+    {
+      "name": "众声叙述者",
+      "identity": "章节体",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "历史的不可靠叙述（B290：《终结的感觉》unreliable narrator 语系）。",
+    "挪亚方舟的戏仿（通说待核）。",
+    "爱与幸存（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：巴恩斯2011布克奖（B290）。",
+      "source": "B290"
+    },
+    {
+      "text": "Britannica：'biography, fiction, and literary criticism'的混合文体（B290 交叉）。",
+      "source": "B290"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "章节体的松散性。",
+      "历史与虚构的边界。"
+    ],
+    "editions": [
+      "《10 1/2章世界史》中译本（译林等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "巴恩斯文体实验首选；后接《终结的感觉》。"
+  },
+  "pending": [
+    "'第半章'细节核对（通说）。",
+    "1989年出版（Jonathan Cape说）待核。",
+    "章节名核对（B290未载）。"
+  ],
+  "sources": [
+    "B290"
+  ],
+  "year_source": "B290",
+  "author_source": "B290",
+  "related_works": [
+    "zhongjiendeganjue",
+    "leiyu",
+    "aiyuheandegushi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《10½章世界史》章节体图",
+    "cards": [
+      {
+        "title": "章节体",
+        "text": "世界史的碎片（B290）",
+        "color": "main"
+      },
+      {
+        "title": "挪亚方舟",
+        "text": "戏仿的开端（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "半章",
+        "text": "论爱与历史（通说）",
+        "color": "family"
+      },
+      {
+        "title": "不可靠",
+        "text": "叙述的底色（B290语系）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

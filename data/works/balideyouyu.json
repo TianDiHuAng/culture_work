@@ -1,0 +1,100 @@
+{
+  "id": "balideyouyu",
+  "title": "巴黎的忧郁",
+  "original_title": "Le Spleen de Paris（Petits poèmes en prose）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪60年代",
+  "genre": "散文诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "baudelaire",
+  "author_name": "夏尔·波德莱尔",
+  "year_display": "1868年（Britannica B309：Petits poèmes en prose (1868)——《恶之花》作者页口径）",
+  "year_sort": 1868,
+  "background": [
+    "Britannica（B309）：Petits poèmes en prose——'the most successful and innovative early experiment in prose poetry'（散文诗最早、最成功、最具创新性的实验）。",
+    "Britannica（B309）：波德莱尔《恶之花》(1857)——'perhaps the most important and influential poetry collection published in Europe in the 19th century'——本集为其姊妹篇。",
+    "题材（通说待核）：巴黎人群像——穷苦人、老人、寡妇、狗与镜子。"
+  ],
+  "outline": [
+    "（通说待核——B309未载篇目）五十篇散文诗的城市速写。",
+    "（通说待核）《穷人》式的苦难清单与'现代生活的画家'目光。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "城市漫游者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "散文诗的形式发明（B309）。",
+    "都市人群与'无聊'（书名 Le Spleen——通说待核）。",
+    "现代性的美学（B309 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the most successful and innovative early experiment in prose poetry'（B309）。",
+      "source": "B309"
+    },
+    {
+      "text": "Britannica：《恶之花》的19世纪影响力定位（B309 交叉）。",
+      "source": "B309"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "散文诗与格律诗的边界。",
+      "第二帝国巴黎的城市史（通说待核）。"
+    ],
+    "editions": [
+      "《巴黎的忧郁》中译本（人民文学/上海译文等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "《恶之花》后读；散文诗源流首选。"
+  },
+  "pending": [
+    "篇目（《穷人的眼睛》等）核对（B309未载）。",
+    "1868年死后出版细节待核。",
+    "'五十篇'数量待核。"
+  ],
+  "sources": [
+    "B309"
+  ],
+  "year_source": "B309",
+  "author_source": "B309",
+  "related_works": [
+    "diyuzhiji",
+    "ezhihua",
+    "wuguigu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《巴黎的忧郁》城市速写图",
+    "cards": [
+      {
+        "title": "散文诗",
+        "text": "形式的发明（B309）",
+        "color": "gold"
+      },
+      {
+        "title": "巴黎人群",
+        "text": "城市的众生（通说）",
+        "color": "main"
+      },
+      {
+        "title": "Spleen",
+        "text": "无聊与忧郁（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "漫游者",
+        "text": "现代生活的目光（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
