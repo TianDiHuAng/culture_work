@@ -1,0 +1,104 @@
+{
+  "id": "xuboliweng",
+  "title": "许珀里翁",
+  "original_title": "Hyperion",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪90年代",
+  "genre": "书信体小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "holderlin",
+  "author_name": "弗里德里希·荷尔德林",
+  "year_display": "1799年（Britannica B338：Hyperion 第二卷1799年出版——第一卷以断片刊于席勒《新塔莉亚》）",
+  "year_sort": 1799,
+  "background": [
+    "Britannica（B338）：Hyperion——'elegiac story of a disillusioned fighter for the liberation of Greece'（哀歌体的、幻想破灭的希腊解放战士故事）——未完成。",
+    "Britannica（B338）：苏塞特·贡塔尔在书中以希腊名'Diotima'出现。",
+    "Britannica（B338）：荷尔德林——'a prophet of spiritual renewal, of \"the return of the gods\"'；他把希腊诸神看作'real living forces whose presence manifests itself to humans in sun and earth, sea and sky'。"
+  ],
+  "outline": [
+    "希腊解放战士许珀里翁的幻灭：从革命理想退回美的回忆（B338：disillusioned fighter for the liberation of Greece；书信体情节通说待核）。",
+    "'狄奥蒂玛'：爱情与希腊理想的化身（B338：Susette Gontard under the Greek name of 'Diotima'）。"
+  ],
+  "characters": [
+    {
+      "name": "许珀里翁",
+      "identity": "书信体叙述者",
+      "note": "（B338 书名人物）"
+    },
+    {
+      "name": "狄奥蒂玛",
+      "identity": "爱人",
+      "note": "（B338：Diotima——原型苏塞特·贡塔尔）"
+    }
+  ],
+  "themes": [
+    "希腊理想与德国现实之落差（B336 无关——B338：disillusioned fighter 语境）。",
+    "'诸神回归'的精神更新预言（B338：a prophet of spiritual renewal）。",
+    "哀歌体：面饼与酒的乡土之爱（B338：Brod und Wein 同期哀歌）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'almost totally forgotten for nearly 100 years'后于20世纪初重新发现，今列最伟大的德语诗人（B338）。",
+      "source": "B338"
+    },
+    {
+      "text": "Britannica：'especially admired for his uniquely expressive style'（B338）。",
+      "source": "B338"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "书信体与哀歌语体的交叉。",
+      "德国观念论与希腊崇拜背景（通说待核）。"
+    ],
+    "editions": [
+      "中译名待核（《许珀里翁》/《徐培里翁》）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "荷尔德林首选；后接《面饼与酒》等诗。"
+  },
+  "pending": [
+    "中译名两说待核。",
+    "第二卷1799（第一卷1797-98断片说）核对。",
+    "《恩培多克勒之死》三稿细节待核。"
+  ],
+  "sources": [
+    "B338"
+  ],
+  "year_source": "B338",
+  "author_source": "B338",
+  "related_works": [
+    "fushide",
+    "dongtiantonghua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《许珀里翁》理想幻灭图",
+    "cards": [
+      {
+        "title": "许珀里翁",
+        "text": "幻灭的解放战士（B338）",
+        "color": "main"
+      },
+      {
+        "title": "狄奥蒂玛",
+        "text": "希腊之名（B338）",
+        "color": "gold"
+      },
+      {
+        "title": "诸神",
+        "text": "'回归'的预言（B338）",
+        "color": "family"
+      },
+      {
+        "title": "现实",
+        "text": "德国的落差（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

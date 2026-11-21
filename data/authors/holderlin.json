@@ -1,0 +1,63 @@
+{
+  "id": "holderlin",
+  "name": "弗里德里希·荷尔德林",
+  "foreign_name": "Friedrich Hölderlin（弗里德里希·荷尔德林，1770-03-20—1843-06-07）",
+  "country": "德国",
+  "birth": 1770,
+  "death": 1843,
+  "birth_year": 1770,
+  "death_year": 1843,
+  "era": "近代",
+  "summary": "荷尔德林，内卡河畔劳芬生，德语诗人——'a prophet of spiritual renewal, of \"the return of the gods\"'（精神更新与'诸神回归'的先知——B338）。Hyperion——'elegiac story of a disillusioned fighter for the liberation of Greece'，第二卷1799年出版（B338）；书中苏塞特·贡塔尔以希腊名'Diotima'出现（B338）。1798-1801年哀歌《面饼与酒》（Brod und Wein）等（B338）。1802年自波尔多返回时已患重度精神分裂，其后36年住图宾根木匠家中（B338）。生前几乎无闻、被遗忘近100年，20世纪初被重新发现——今列最伟大的德语诗人，'especially admired for his uniquely expressive style'（B338）。",
+  "timeline": [
+    {
+      "year": 1770,
+      "text": "3月20日生于内卡河畔劳芬（B338）。",
+      "src": "B338"
+    },
+    {
+      "year": 1799,
+      "text": "Hyperion 第二卷出版（第一卷断片刊于席勒《新塔莉亚》——B338）。",
+      "src": "B338"
+    },
+    {
+      "year": 1802,
+      "text": "自波尔多返回，'suffering from an advanced stage of schizophrenia'（B338）。",
+      "src": "B338"
+    },
+    {
+      "year": 1843,
+      "text": "6月7日卒于图宾根；此前在木匠家中住了36年（B338）。",
+      "src": "B338"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xuboliweng",
+      "note": "（B338：Hyperion 第二卷1799）"
+    },
+    {
+      "title": "面饼与酒",
+      "note": "（B338：Brod und Wein——1798-1801哀歌）"
+    },
+    {
+      "title": "恩培多克勒之死",
+      "note": "（B338：Der Tod des Empedokles——约1798年起，三稿）"
+    }
+  ],
+  "style": [
+    "颂歌语体：献给自由、人性、和谐、友谊与自然（B338）。",
+    "'uniquely expressive style'——独一无二的抒情表达（B338）。",
+    "希腊诸神为'real living forces whose presence manifests itself to humans in sun and earth, sea and sky'（B338）。"
+  ],
+  "status": "Britannica 定位荷尔德林为被遗忘百年后于20世纪初重新发现的德语大诗人（B338）。",
+  "sources": [
+    "B338"
+  ],
+  "dates_source": "B338",
+  "pending": [
+    "Hyperion 通行中译名（《许珀里翁》/《徐培里翁》）待核。",
+    "'塔乌里岛航行'等未核实篇目不采。",
+    "1806年图宾根诊所细节待核。"
+  ]
+}

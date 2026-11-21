@@ -1,0 +1,68 @@
+{
+  "id": "pirandello",
+  "name": "路易吉·皮兰德娄",
+  "foreign_name": "Luigi Pirandello（路易吉·皮兰德娄，1867-06-28—1936-12-10）",
+  "country": "意大利",
+  "birth": 1867,
+  "death": 1936,
+  "birth_year": 1867,
+  "death_year": 1936,
+  "era": "近代",
+  "summary": "皮兰德娄，西西里阿格里真托生，意大利剧作家与小说家——1934年诺贝尔文学奖（B336）。Sei personaggi in cerca d'autore（六个寻找剧作家的角色, 1921）——'the most arresting presentation of the typical Pirandellian contrast between art, which is unchanging, and life, which is an inconstant flux'（B336）——首创'戏中戏'（theatre within the theatre）装置（B336）。其妻之病'determined the theme of his most characteristic work'——对流动多变人格的探究（B336）。身份论：'a person is one, no one and a hundred thousand, according to his appearance to this person or that'（B336）。1936年遗愿仅'a hearse of the poor, the horse and the coachman'（B336）。",
+  "timeline": [
+    {
+      "year": 1867,
+      "text": "6月28日生于西西里阿格里真托（B336）。",
+      "src": "B336"
+    },
+    {
+      "year": 1921,
+      "text": "《六个寻找剧作家的角色》罗马首演（B336：Sei personaggi in cerca d'autore (1921)）。",
+      "src": "B336"
+    },
+    {
+      "year": 1923,
+      "text": "巴黎演出使其名扬欧洲（B336：Its 1923 Paris production made him widely known）。",
+      "src": "B336"
+    },
+    {
+      "year": 1934,
+      "text": "获诺贝尔文学奖（B336）。",
+      "src": "B336"
+    },
+    {
+      "year": 1936,
+      "text": "12月10日卒于罗马（B336）。",
+      "src": "B336"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "liugejuesesouzhao",
+      "note": "1921（B336）"
+    },
+    {
+      "work_id": "yigewushiwan",
+      "note": "1925-26（B336）"
+    },
+    {
+      "title": "恩里科四世",
+      "note": "（B336：Enrico IV (1922)——'the theme is madness, which lies just under the skin of ordinary life'）"
+    }
+  ],
+  "style": [
+    "'戏中戏'装置的发明者（B336：theatre within the theatre）。",
+    "艺术不变与生活流变之对立（B336）。",
+    "'苦涩的怜悯'：'My art is full of bitter compassion for all those who deceive themselves'（B336）。"
+  ],
+  "status": "Britannica 定位皮兰德娄为1934年诺奖得主、荒诞派戏剧的先驱影响者（影响贝克特/尤涅斯库/热内/萨特——B336）。",
+  "sources": [
+    "B336"
+  ],
+  "dates_source": "B336",
+  "pending": [
+    "六角色（父亲/母亲/继女）人名核对（B336未载）。",
+    "1921年罗马首演剧场（Valle Theatre说）待核。",
+    "《恩里科四世》剧情细节待核。"
+  ]
+}

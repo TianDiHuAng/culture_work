@@ -1,0 +1,100 @@
+{
+  "id": "yigewushiwan",
+  "title": "一个、无、十万个",
+  "original_title": "Uno, nessuno e centomila",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "意大利语",
+  "author_id": "pirandello",
+  "author_name": "路易吉·皮兰德娄",
+  "year_display": "1925-26年（Britannica B336：Uno, nessuno e centomila (1925-26)）",
+  "year_sort": 1925,
+  "background": [
+    "Britannica（B336）：'the most original and the most typical of his novels'——皮兰德娄最具原创性、最典型的小说。",
+    "Britannica（B336）：小说探究'他人如何看待他与他如何看待自己'之别（exploring how others see him differently than he sees himself）。",
+    "Britannica（B336）：皮兰德娄身份论——'a person is one, no one and a hundred thousand, according to his appearance to this person or that'。"
+  ],
+  "outline": [
+    "主人公因妻子之镜发现自我在他人眼中分裂为'十万个'（剧情通说待核——B336未载细节）。",
+    "对'自我面具'的执念与自我抹除（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "主人公（维塔利亚诺说）",
+      "identity": "银行职员",
+      "note": "（通说待核，B336未载人名）"
+    }
+  ],
+  "themes": [
+    "他人之镜中的自我分裂（B336：how others see him differently）。",
+    "'一、无、十万'的身份算术（B336 书名与作者论）。",
+    "自我欺骗的怜悯（B336：'My art is full of bitter compassion for all those who deceive themselves'）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the most original and the most typical of his novels'（B336）。",
+      "source": "B336"
+    },
+    {
+      "text": "Britannica：妻子之病'determined the theme of his most characteristic work'（B336）。",
+      "source": "B336"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "心理—哲学小说的抽象性。",
+      "'面具'（maschera）术语体系。"
+    ],
+    "editions": [
+      "中译名待核（《一个，无，十万个》等）。",
+      "意大利文原版。"
+    ],
+    "order": "皮兰德娄进阶；先读《六个寻找剧作家的角色》。"
+  },
+  "pending": [
+    "主人公名（维塔利亚诺说）与妻子名核对（B336未载）。",
+    "中译名两说待核。",
+    "1925-26年连载出版细节待核。"
+  ],
+  "sources": [
+    "B336"
+  ],
+  "year_source": "B336",
+  "author_source": "B336",
+  "related_works": [
+    "liugejuesesouzhao",
+    "xuboliweng",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一个、无、十万个》自我分裂图",
+    "cards": [
+      {
+        "title": "镜子",
+        "text": "他人之眼（B336语境）",
+        "color": "gold"
+      },
+      {
+        "title": "一个",
+        "text": "自认的我",
+        "color": "main"
+      },
+      {
+        "title": "十万个",
+        "text": "他人眼中的我",
+        "color": "antagonist"
+      },
+      {
+        "title": "面具",
+        "text": "自欺的怜悯（B336）",
+        "color": "family"
+      }
+    ]
+  }
+}

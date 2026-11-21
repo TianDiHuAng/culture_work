@@ -1,0 +1,110 @@
+{
+  "id": "liugejuesesouzhao",
+  "title": "六个寻找剧作家的角色",
+  "original_title": "Sei personaggi in cerca d'autore",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "意大利语",
+  "author_id": "pirandello",
+  "author_name": "路易吉·皮兰德娄",
+  "year_display": "1921年（Britannica B336：Sei personaggi in cerca d'autore (1921)）",
+  "year_sort": 1921,
+  "background": [
+    "Britannica（B336）：'the most arresting presentation of the typical Pirandellian contrast between art, which is unchanging, and life, which is an inconstant flux'——皮兰德娄式'艺术不变/生活流变'对立最惊人的呈现。",
+    "Britannica（B336）：被作者抛弃的角色登台，'with more vitality than the real actors'；本剧引入'theatre within the theatre'装置——被弃角色直面将要扮演他们的演员。",
+    "Britannica（B336）：1923年巴黎演出使其名扬；影响了法国戏剧、荒诞派（贝克特、尤涅斯库、热内）、阿努伊、萨特与T.S.艾略特诗剧。"
+  ],
+  "outline": [
+    "排练场上，六个被作者抛弃的角色闯入，要求剧团上演他们未曾完成的故事（B336：rejected characters...confront the actors who would portray them）。",
+    "戏中戏的层层展开：'真实'与'扮演'无法区分（剧情细节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "父亲",
+      "identity": "六角色之首",
+      "note": "（通说待核，B336未载人名）"
+    },
+    {
+      "name": "继女",
+      "identity": "六角色之一",
+      "note": "（通说待核，B336未载）"
+    },
+    {
+      "name": "剧团经理",
+      "identity": "排练主持",
+      "note": "（通说待核，B336未载）"
+    }
+  ],
+  "themes": [
+    "艺术不变与生活流变之对立（B336：art...unchanging / life...an inconstant flux）。",
+    "'戏中戏'：戏剧自身的主题化（B336：theatre within the theatre）。",
+    "身份的流动性（B336 作者论：'one, no one and a hundred thousand, according to his appearance to this person or that'）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：影响法国戏剧、荒诞派（贝克特/尤涅斯库/热内）、阿努伊、萨特与T.S.艾略特诗剧（B336）。",
+      "source": "B336"
+    },
+    {
+      "text": "Britannica：1923年巴黎演出使其名扬（B336）。",
+      "source": "B336"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "元戏剧的套层结构。",
+      "皮兰德娄'幽默论'背景（B336：L'umorismo (1908)——论文）。"
+    ],
+    "editions": [
+      "《六个寻找剧作家的角色》中译本（人民文学/上海译文等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "皮兰德娄首选；再读《恩里科四世》（1922）。"
+  },
+  "pending": [
+    "六角色人名核对（B336未载）。",
+    "1921年罗马首演剧场待核。",
+    "1923年巴黎制作（Pitoëff说）待核。"
+  ],
+  "sources": [
+    "B336"
+  ],
+  "year_source": "B336",
+  "author_source": "B336",
+  "related_works": [
+    "dengdaigou",
+    "yingtaoyuan",
+    "manchangdeheian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《六个寻找剧作家的角色》元戏剧结构图",
+    "cards": [
+      {
+        "title": "六角色",
+        "text": "被作者抛弃者（B336）",
+        "color": "main"
+      },
+      {
+        "title": "演员",
+        "text": "扮演者被直面（B336）",
+        "color": "antagonist"
+      },
+      {
+        "title": "戏中戏",
+        "text": "theatre within theatre（B336）",
+        "color": "gold"
+      },
+      {
+        "title": "生活",
+        "text": "不变的Art/流变的生活",
+        "color": "family"
+      }
+    ]
+  }
+}

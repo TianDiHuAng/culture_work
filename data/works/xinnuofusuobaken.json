@@ -1,0 +1,104 @@
+{
+  "id": "xinnuofusuobaken",
+  "title": "辛诺夫·索巴肯",
+  "original_title": "Synnøve Solbakken",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪50年代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "挪威语",
+  "author_id": "bjornson",
+  "author_name": "比奥恩斯彻讷·比昂松",
+  "year_display": "1857年（Britannica B337：Synnøve Solbakken (1857)——农庄故事）",
+  "year_sort": 1857,
+  "background": [
+    "Britannica（B337）：Synnøve Solbakken (1857)——农庄故事（peasant tale）；英译名 Trust and Trial、Love and Life in Norway、Sunny Hill。",
+    "Britannica（B337）：比昂松'sought to stimulate national pride in Norway's history and achievements and to present ideals'。",
+    "Britannica（B337）：'saga material was turned into plays, contemporary material into novels or peasant tales'——'轮作式'写作。"
+  ],
+  "outline": [
+    "两个农庄之间的青年男女：家族宿怨与田园理想（情节通说待核——B337未载细节）。",
+    "和解与婚礼：挪威农庄的道德理想（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "托尔（Thorbjörn说）",
+      "identity": "农庄青年",
+      "note": "（通说待核，B337未载人名）"
+    },
+    {
+      "name": "辛诺夫",
+      "identity": "Solbakken农庄之女",
+      "note": "（书名人物，B337）"
+    }
+  ],
+  "themes": [
+    "农庄故事与民族浪漫主义（B337：peasant tales；national pride）。",
+    " ideals 的文学呈现（B337：to present ideals）。",
+    "宿怨与和解的乡土伦理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：与《快乐的男孩》(1860)等构成农庄故事序列（B337 作品列表）。",
+      "source": "B337"
+    },
+    {
+      "text": "Britannica：比昂松为挪威'四大家'之一（B337）。",
+      "source": "B337"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "挪威乡土社会与路德宗背景（通说待核）。",
+      "'农庄故事'类型传统（通说待核）。"
+    ],
+    "editions": [
+      "中译名待核（《辛诺夫·索巴肯》）。",
+      "挪威文原版。"
+    ],
+    "order": "比昂松入门；与《快乐的男孩》对读。"
+  },
+  "pending": [
+    "青年男主人名（Thorbjörn说）核对（B337未载）。",
+    "中译名待核。",
+    "1857年出版细节待核。"
+  ],
+  "sources": [
+    "B337"
+  ],
+  "year_source": "B337",
+  "author_source": "B337",
+  "related_works": [
+    "qieelvxing",
+    "peierjinte"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《辛诺夫·索巴肯》农庄结构图",
+    "cards": [
+      {
+        "title": "两个农庄",
+        "text": "宿怨与和解（通说）",
+        "color": "family"
+      },
+      {
+        "title": "辛诺夫",
+        "text": "农庄之女（B337）",
+        "color": "main"
+      },
+      {
+        "title": "理想",
+        "text": "'呈现理想'（B337）",
+        "color": "gold"
+      },
+      {
+        "title": "民族自豪",
+        "text": "历史的骄傲（B337）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

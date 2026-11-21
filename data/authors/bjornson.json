@@ -1,0 +1,72 @@
+{
+  "id": "bjornson",
+  "name": "比奥恩斯彻讷·比昂松",
+  "foreign_name": "Bjørnstjerne Bjørnson（比奥恩斯彻讷·马丁尼乌斯·比昂松，1832-12-08—1910-04-26）",
+  "country": "挪威",
+  "birth": 1832,
+  "death": 1910,
+  "birth_year": 1832,
+  "death_year": 1910,
+  "era": "近代",
+  "summary": "比昂松，挪威Kvikne生，作家、剧作家与诗人——1903年诺贝尔文学奖（B337）。与易卜生、基兰、约纳斯·李并称19世纪挪威文学'四大家'（'the four great ones'——B337）。其诗'Ja, vi elsker dette landet'为挪威国歌歌词（B337）。'his plays were influential in establishing social realism in Europe'（B337）。写作如轮作：'saga material was turned into plays, contemporary material into novels or peasant tales'（B337）。1857-59年任卑尔根剧院艺术总监——易卜生的继任者（B337）。晚年自认社会主义者，致力于和平与国际谅解（B337）。",
+  "timeline": [
+    {
+      "year": 1832,
+      "text": "12月8日生于挪威Kvikne（B337）。",
+      "src": "B337"
+    },
+    {
+      "year": 1857,
+      "text": "任卑尔根剧院艺术总监——易卜生的继任者；同年农庄故事 Synnøve Solbakken（B337）。",
+      "src": "B337"
+    },
+    {
+      "year": 1870,
+      "text": "《诗集与歌集》初版（含后来成为国歌歌词的诗——B337：Digte og sange (1870)）。",
+      "src": "B337"
+    },
+    {
+      "year": 1903,
+      "text": "获诺贝尔文学奖（B337）。",
+      "src": "B337"
+    },
+    {
+      "year": 1910,
+      "text": "4月26日卒于巴黎（B337）。",
+      "src": "B337"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xinnuofusuobaken",
+      "note": "1857农庄故事（B337）"
+    },
+    {
+      "title": "快乐的男孩",
+      "note": "（B337：En glad gut (1860)——中译名待核）"
+    },
+    {
+      "title": "破产",
+      "note": "（B337：En fallit (1875)——戏剧）"
+    },
+    {
+      "title": "超越人力",
+      "note": "（B337：Over Ævne I og II (1883, 1895)——为他赢得国际声誉的 drama 说待核：'The two dramas that brought him an international reputation were thus written in self-imposed exile'）"
+    }
+  ],
+  "style": [
+    "民族浪漫主义：'to stimulate national pride in Norway's history and achievements and to present ideals'（B337）。",
+    "农庄故事（peasant tales）与社会现实主义剧作（B337）。",
+    "'轮作式'写作：史诗素材入戏、当代素材入小说或农庄故事（B337）。"
+  ],
+  "status": "Britannica 定位比昂松为1903年诺奖得主、挪威'四大家'之一、欧洲社会现实主义的推动者（B337）。",
+  "sources": [
+    "B337"
+  ],
+  "dates_source": "B337",
+  "pending": [
+    "Synnøve Solbakken 通行中译名待核。",
+    "国歌歌词采用年份（1860s-1906）待核。",
+    "'两部戏剧因自我放逐而写并带来国际声誉'指哪两部待核（B337指向 Over Ævne 但需核对）。"
+  ]
+}
