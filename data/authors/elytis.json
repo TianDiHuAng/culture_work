@@ -1,0 +1,64 @@
+{
+  "id": "elytis",
+  "name": "奥季修斯·埃利蒂斯",
+  "foreign_name": "Odysseus Elytis（奥季修斯·埃利蒂斯，原名 Alepoudhelis，1911-11-02—1996-03-18）",
+  "country": "希腊",
+  "birth": 1911,
+  "death": 1996,
+  "birth_year": 1911,
+  "death_year": 1996,
+  "era": "现当代",
+  "summary": "埃利蒂斯，克里特Iráklion生，希腊诗人——1979年诺贝尔文学奖（B357）。青年弃家族姓 Alepoudhelis——以免与家族肥皂生意相混（B357）。受法国超现实主义影响（尤其艾吕雅）；刊于 Nea grammata——'30一代'（B357）。1941年后在阿尔巴尼亚抗意作战；1945年《阿尔巴尼亚战役阵亡中尉的英雄挽歌》——'became an anthem to the cause of freedom'（B357）。To Axion Esti（1959）——长诗——'the speaker explores the essence of his being as well as the identity of his country and people'——Theodorakis 谱曲后'became immensely popular and helped Elytis earn the Nobel Prize'（B357）。",
+  "timeline": [
+    {
+      "year": 1911,
+      "text": "11月2日生于克里特Iráklion（B357）。",
+      "src": "B357"
+    },
+    {
+      "year": 1940,
+      "text": "Prosanatolismoi（定向）——此前作品合集（B357）。",
+      "src": "B357"
+    },
+    {
+      "year": 1959,
+      "text": "To Axion Esti——长诗（B357）。",
+      "src": "B357"
+    },
+    {
+      "year": 1979,
+      "text": "获诺贝尔文学奖（B357）。",
+      "src": "B357"
+    },
+    {
+      "year": 1996,
+      "text": "3月18日卒于雅典（B357）。",
+      "src": "B357"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zhidezansongde",
+      "note": "1959（B357）"
+    },
+    {
+      "title": "定向",
+      "note": "（B357：Prosanatolismoi (1940)——中译名待核）"
+    }
+  ],
+  "style": [
+    "爱琴海的光与透明（书名语境——通说待核）。",
+    "超现实主义与希腊民歌传统（B357 语境）。",
+    "自由的颂歌（B357：anthem to the cause of freedom）。"
+  ],
+  "status": "Britannica 定位埃利蒂斯为1979年诺奖得主、《理所应当》(To Axion Esti)为其代表作（B357）。",
+  "sources": [
+    "B357"
+  ],
+  "dates_source": "B357",
+  "pending": [
+    "To Axion Esti 通行译名（《理所应当》/《值得赞颂的》）待核。",
+    "'受 Theodorakis 谱曲'细节待核（B357 口径）。",
+    "内战后'15年沉默'细节待核。"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "shenhualishi",
+  "title": "神话与历史",
+  "original_title": "Mithistórima",
+  "region": "希腊",
+  "era": "现当代",
+  "era_detail": "20世纪30年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "希腊语",
+  "author_id": "seferis",
+  "author_name": "乔治·塞菲里斯",
+  "year_display": "1935年（Britannica B356：Mithistórima (1935; Myth-History)）",
+  "year_sort": 1935,
+  "background": [
+    "Britannica（B356）：塞菲里斯——'the most distinguished Greek poet of the generation of the 30s'——其作'shows a deep feeling for the tragic predicament of the Greeks'。",
+    "Britannica（B356）：Strofí (1931) 出版时被誉'the poet of the future'——本集为其中期代表作。",
+    "题材（通说待核）：以神话人物（奥德修斯等）折射现代希腊的流亡与离散。"
+  ],
+  "outline": [
+    "神话与历史的对位：古典之'神'与现代之'史'（B356 书名语境；篇目通说待核）。",
+    "流亡者的海：爱琴海的记忆政治（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "外交官诗人",
+      "note": "（B356 语境）"
+    }
+  ],
+  "themes": [
+    "希腊人的悲剧处境（B356）。",
+    "神话的现代化（B356：Myth-History）。",
+    "流亡与离散（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1963年诺贝尔文学奖——首位希腊得主（B356；'first Greek literature Nobel laureate' 见 B357 交叉）。",
+      "source": "B356"
+    },
+    {
+      "text": "Britannica：'the poet of the future'（B356——Strofí 之誉）。",
+      "source": "B356"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "希腊神话典故。",
+      "'30一代'的语体。"
+    ],
+    "editions": [
+      "《神话与历史》中译名（通说待核）。",
+      "希腊文原版。"
+    ],
+    "order": "塞菲里斯进阶；先读《转折点》。"
+  },
+  "pending": [
+    "具体篇目（《王亚辛》未见于B356）核对。",
+    "1935年出版细节待核。",
+    "中译名两说（《神话与历史》/《神话史》)待核。"
+  ],
+  "sources": [
+    "B356"
+  ],
+  "year_source": "B356",
+  "author_source": "B356",
+  "related_works": [
+    "wuguigu",
+    "diyuzhiji",
+    "huangliang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《神话与历史》神话对位图",
+    "cards": [
+      {
+        "title": "神话",
+        "text": "古典的回声（B356）",
+        "color": "gold"
+      },
+      {
+        "title": "历史",
+        "text": "现代的流亡（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "悲剧处境",
+        "text": "希腊人的感受（B356）",
+        "color": "main"
+      },
+      {
+        "title": "海",
+        "text": "爱琴海的记忆（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

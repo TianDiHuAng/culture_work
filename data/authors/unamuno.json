@@ -1,0 +1,68 @@
+{
+  "id": "unamuno",
+  "name": "米格尔·德·乌纳穆诺",
+  "foreign_name": "Miguel de Unamuno（米格尔·德·乌纳穆诺，1864-09-29—1936-12-31）",
+  "country": "西班牙",
+  "birth": 1864,
+  "death": 1936,
+  "birth_year": 1864,
+  "death_year": 1936,
+  "era": "近代",
+  "summary": "乌纳穆诺，毕尔巴鄂生，西班牙小说家、散文家与哲学家——'an early existentialist who concerned himself largely with the tension between intellect and emotion, faith and reason'（早期存在主义者，关心理智与情感、信仰与理性之张力——B358）。Del sentimiento trágico de la vida（生命的悲剧意识, 1913）——'stressed the vital role spiritual anxiety plays in driving man to live the fullest possible life'（B358）。Abel Sánchez (1917)——'his most famous novel'——'a modern re-creation of the biblical story of Cain and Abel'（该隐与亚伯的现代重写——B358）。San Manuel Bueno, mártir (1933)——'the story of an unbelieving priest'（不信神的教士——B358）。散文主题：'the need to preserve ones personal integrity in the face of social conformity, fanaticism, and hypocrisy'（B358）。",
+  "timeline": [
+    {
+      "year": 1864,
+      "text": "9月29日生于毕尔巴鄂（B358）。",
+      "src": "B358"
+    },
+    {
+      "year": 1913,
+      "text": "Del sentimiento trágico de la vida——'生命的悲剧意识'（B358）。",
+      "src": "B358"
+    },
+    {
+      "year": 1917,
+      "text": "Abel Sánchez——最著名的小说（B358）。",
+      "src": "B358"
+    },
+    {
+      "year": 1933,
+      "text": "San Manuel Bueno, mártir——不信神的教士（B358）。",
+      "src": "B358"
+    },
+    {
+      "year": 1936,
+      "text": "12月31日卒于萨拉曼卡（B358）。",
+      "src": "B358"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "abeiersangchensi",
+      "note": "1917（B358）"
+    },
+    {
+      "title": "生命的悲剧意识",
+      "note": "（B358：1913——哲学散文）"
+    },
+    {
+      "title": "圣曼努埃尔·布埃诺，殉道者",
+      "note": "（B358：1933——中译名待核）"
+    }
+  ],
+  "style": [
+    "'基督徒的痛苦'：理性与信仰的张力（B358）。",
+    "个人完整性对从众/狂热/伪善的抵抗（B358）。",
+    "堂吉诃德式的民族自省（B358：Vida de Don Quijote y Sancho）。"
+  ],
+  "status": "Britannica 定位乌纳穆诺为早期存在主义者、'98一代'核心（'98一代'提法B358未载——待核）。",
+  "sources": [
+    "B358"
+  ],
+  "dates_source": "B358",
+  "pending": [
+    "Abel Sánchez 通行译名待核。",
+    "'98一代'提法核对（B358未载）。",
+    "Niebla (1914) 页面仅列名——剧情不采。"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "abeiersangchensi",
+  "title": "阿贝尔·桑切斯",
+  "original_title": "Abel Sánchez: una historia de pasión",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "unamuno",
+  "author_name": "米格尔·德·乌纳穆诺",
+  "year_display": "1917年（Britannica B358：Abel Sánchez (1917)——'his most famous novel'）",
+  "year_sort": 1917,
+  "background": [
+    "Britannica（B358）：'his most famous novel'——'a modern re-creation of the biblical story of Cain and Abel'（该隐与亚伯故事的现代重写）。",
+    "Britannica（B358）：乌纳穆诺——'an early existentialist'——理智与情感、信仰与理性之张力。",
+    "题材（通说待核）：华金与阿贝尔终生的嫉妒——嫉妒作为'该隐'的现代名。"
+  ],
+  "outline": [
+    "一个'该隐'的现代重写：华金对阿贝尔的终生嫉妒（B358：modern re-creation of the biblical story of Cain and Abel；人名通说待核）。",
+    "嫉妒的哲学化：'该隐情结'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "华金",
+      "identity": "嫉妒者/'该隐'",
+      "note": "（通说待核，B358未载）"
+    },
+    {
+      "name": "阿贝尔·桑切斯",
+      "identity": "被嫉妒者/'亚伯'",
+      "note": "（B358 书名人物）"
+    }
+  ],
+  "themes": [
+    "嫉妒的心理学与神学（B358：Cain and Abel 语境）。",
+    "信仰与理性之张力（B358）。",
+    "个人完整性对伪善社会的抵抗（B358 散文主题语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his most famous novel'（B358）。",
+      "source": "B358"
+    },
+    {
+      "text": "Britannica：'a modern re-creation of the biblical story of Cain and Abel'（B358）。",
+      "source": "B358"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "圣经原型（该隐与亚伯）。",
+      "'98一代'语境（提法待核——B358未载）。"
+    ],
+    "editions": [
+      "《阿贝尔·桑切斯》中译本（人民文学等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "乌纳穆诺小说首选；配合《生命的悲剧意识》。"
+  },
+  "pending": [
+    "华金/阿贝尔人名核对（B358未载华金）。",
+    "1917年出版细节待核。",
+    "'nivola'术语待核（B358未载——不采）。"
+  ],
+  "sources": [
+    "B358"
+  ],
+  "year_source": "B358",
+  "author_source": "B358",
+  "related_works": [
+    "yigewushiwan",
+    "xinshigudeLieshou",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阿贝尔·桑切斯》嫉妒结构图",
+    "cards": [
+      {
+        "title": "华金",
+        "text": "现代'该隐'（通说）",
+        "color": "main"
+      },
+      {
+        "title": "阿贝尔",
+        "text": "被嫉妒的'亚伯'（B358）",
+        "color": "antagonist"
+      },
+      {
+        "title": "嫉妒",
+        "text": "终生的激情（B358书名）",
+        "color": "gold"
+      },
+      {
+        "title": "理性与信仰",
+        "text": "张力的哲学（B358）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "zhidezansongde",
+  "title": "理所应当",
+  "original_title": "To Axion Esti",
+  "region": "希腊",
+  "era": "现当代",
+  "era_detail": "20世纪50年代末",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "希腊语",
+  "author_id": "elytis",
+  "author_name": "奥季修斯·埃利蒂斯",
+  "year_display": "1959年（Britannica B357：To Axion Esti (1959)）",
+  "year_sort": 1959,
+  "background": [
+    "Britannica（B357）：长诗——'the speaker explores the essence of his being as well as the identity of his country and people'（探索自我存在的本质与其国家、人民的身份）。",
+    "Britannica（B357）：Theodorakis 为其谱曲——'became immensely popular and helped Elytis earn the Nobel Prize'。",
+    "Britannica（B357）：埃利蒂斯——1979诺奖；受法国超现实主义（尤其艾吕雅）影响。"
+  ],
+  "outline": [
+    "诗体的民族自画像：诗人之'我'与希腊之'我们'（B357：essence of his being...identity of his country and people）。",
+    "赞美诗结构的借用（结构通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "言说者",
+      "identity": "诗人之'我'",
+      "note": "（B357：the speaker）"
+    }
+  ],
+  "themes": [
+    "存在与民族身份的双重探索（B357）。",
+    "自由的颂歌（B357：anthem to the cause of freedom——1945作语境）。",
+    "诗与音乐（B357：Theodorakis 谱曲）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1979年诺贝尔文学奖（B357）。",
+      "source": "B357"
+    },
+    {
+      "text": "Britannica：'became immensely popular'（B357）。",
+      "source": "B357"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "东正教礼拜仪文的结构借用（通说待核）。",
+      "超现实主义语汇。"
+    ],
+    "editions": [
+      "中译名（《理所应当》/《值得赞颂的》）待核。",
+      "希腊文原版。"
+    ],
+    "order": "埃利蒂斯首选。"
+  },
+  "pending": [
+    "中译名两说待核。",
+    "礼拜仪文结构（'圣咏'说）待核。",
+    "Theodorakis 谱曲年份待核。"
+  ],
+  "sources": [
+    "B357"
+  ],
+  "year_source": "B357",
+  "author_source": "B357",
+  "related_works": [
+    "leiyu",
+    "leiyu",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "To Axion Esti 颂歌结构图",
+    "cards": [
+      {
+        "title": "之'我'",
+        "text": "存在的本质（B357）",
+        "color": "main"
+      },
+      {
+        "title": "之'我们'",
+        "text": "民族的身份（B357）",
+        "color": "family"
+      },
+      {
+        "title": "音乐",
+        "text": "Theodorakis 谱曲（B357）",
+        "color": "gold"
+      },
+      {
+        "title": "自由",
+        "text": "颂歌的底色（B357）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

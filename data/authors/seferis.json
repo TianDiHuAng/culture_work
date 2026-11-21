@@ -1,0 +1,64 @@
+{
+  "id": "seferis",
+  "name": "乔治·塞菲里斯",
+  "foreign_name": "George Seferis（乔治·塞菲里斯，原名 Giōrgios Stylianou Seferiadēs，1900-03-13—1971-09-20）",
+  "country": "希腊",
+  "birth": 1900,
+  "death": 1971,
+  "birth_year": 1900,
+  "death_year": 1971,
+  "era": "现当代",
+  "summary": "塞菲里斯，士麦那生（今土耳其伊兹密尔），希腊诗人、散文家与外交官——1963年诺贝尔文学奖（B356）；'the most distinguished Greek poet of the generation of the 30s'（'30一代'最杰出的希腊诗人——B356）；其作'shows a deep feeling for the tragic predicament of the Greeks'（对希腊人悲剧处境的深切感受——B356）。Strofí（转折点, 1931）——获'the poet of the future'之誉（B356）；Mithistórima（神话与历史, 1935）（B356）。巴黎学法律后入外交界：战前伦敦/阿尔巴尼亚，战时随流亡政府，1957-62驻伦敦大使（B356）。",
+  "timeline": [
+    {
+      "year": 1900,
+      "text": "3月13日生于士麦那（B356）。",
+      "src": "B356"
+    },
+    {
+      "year": 1931,
+      "text": "Strofí（转折点）——首部诗集（B356）。",
+      "src": "B356"
+    },
+    {
+      "year": 1935,
+      "text": "Mithistórima（神话与历史）（B356）。",
+      "src": "B356"
+    },
+    {
+      "year": 1963,
+      "text": "获诺贝尔文学奖（B356）。",
+      "src": "B356"
+    },
+    {
+      "year": 1971,
+      "text": "9月20日卒于雅典（B356）。",
+      "src": "B356"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shenhualishi",
+      "note": "1935（B356）"
+    },
+    {
+      "title": "转折点",
+      "note": "（B356：Strofí (1931)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'对希腊人悲剧处境的深切感受'（B356）。",
+    "神话与个人史的编织（B356：Mithistórima 书名语境）。",
+    "外交官诗人的国际视野（B356 语境）。"
+  ],
+  "status": "Britannica 定位塞菲里斯为1963年诺奖得主、'30一代'最杰出的希腊诗人（B356）。",
+  "sources": [
+    "B356"
+  ],
+  "dates_source": "B356",
+  "pending": [
+    "Mithistórima 通行译名（《神话与历史》）待核。",
+    "'亚辛之王'等篇目未见于 B356——不采。",
+    "1963诺奖授奖词待核。"
+  ]
+}
