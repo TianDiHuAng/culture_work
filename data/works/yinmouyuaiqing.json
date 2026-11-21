@@ -1,0 +1,105 @@
+{
+  "id": "yinmouyuaiqing",
+  "title": "阴谋与爱情",
+  "original_title": "Kabale und Liebe",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪80年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "schiller",
+  "author_name": "弗里德里希·席勒",
+  "year_display": "1784年（Britannica B366：Kabale und Liebe (1784)）",
+  "year_sort": 1784,
+  "background": [
+    "Britannica（B366）：'the revolt of elemental human feeling against the artificialities of convention'——'the vigour of its social criticism'。",
+    "Britannica（B366）：贵族青年与平民之恋——'combine to make Kabale und Liebe great theatre'。",
+    "题材（通说待核）：斐迪南与露易丝——宫廷阴谋下的毒酒悲剧。"
+  ],
+  "outline": [
+    "（B366）'原始人性情感对人工惯例的反叛'——贵族青年与平民少女之恋（B366：love of a young aristocrat for a girl of humble origin）。",
+    "（通说待核）宰相之父的阴谋与毒杀结局。"
+  ],
+  "characters": [
+    {
+      "name": "斐迪南",
+      "identity": "贵族青年",
+      "note": "（通说待核，B366未载名）"
+    },
+    {
+      "name": "露易丝",
+      "identity": "乐师之女",
+      "note": "（通说待核，B366未载）"
+    }
+  ],
+  "themes": [
+    "阶级壁垒与爱情（B366：social criticism）。",
+    "'人工惯例'的反抗（B366）。",
+    "市民悲剧的德语高峰（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'great theatre'（B366）。",
+      "source": "B366"
+    },
+    {
+      "text": "Britannica：曼海姆驻场剧作家时期作品（B366 语境）。",
+      "source": "B366"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "18世纪德国等级社会。",
+      "市民悲剧（bürgerliches Trauerspiel）传统（通说待核）。"
+    ],
+    "editions": [
+      "《阴谋与爱情》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "席勒代表作；与《强盗》对读。"
+  },
+  "pending": [
+    "斐迪南/露易丝人名核对（B366未载）。",
+    "1784年首演细节待核。",
+    "'市民悲剧'归类说法待核。"
+  ],
+  "sources": [
+    "B366"
+  ],
+  "year_source": "B366",
+  "author_source": "B366",
+  "related_works": [
+    "qiangdao",
+    "tangkaluosi",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阴谋与爱情》阶级冲突图",
+    "cards": [
+      {
+        "title": "斐迪南",
+        "text": "贵族的反叛（通说）",
+        "color": "main"
+      },
+      {
+        "title": "露易丝",
+        "text": "平民的爱情（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "阴谋",
+        "text": "宫廷的毒计（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "反叛",
+        "text": "'原始情感对惯例'（B366）",
+        "color": "family"
+      }
+    ]
+  }
+}

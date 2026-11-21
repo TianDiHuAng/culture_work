@@ -1,0 +1,110 @@
+{
+  "id": "tangkaluosi",
+  "title": "堂卡洛斯",
+  "original_title": "Don Carlos",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪80年代末",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "schiller",
+  "author_name": "弗里德里希·席勒",
+  "year_display": "1787年（Britannica B366：Don Carlos——第一部素体诗主要剧作）",
+  "year_sort": 1787,
+  "background": [
+    "Britannica（B366）：西班牙宫廷剧——腓力二世、伊丽莎白·德·瓦卢瓦与爱上继母的堂卡洛斯——'broad political implications'。",
+    "Britannica（B366）：'the complex, brooding, and tragic figure of King Philip'。",
+    "Britannica（B366）：与歌德《伊菲革涅亚》'definitely established it [blank verse] as the recognized medium of German poetic drama'（Lessing《智者纳坦》1779 已用素体诗）。"
+  ],
+  "outline": [
+    "（B366）父子冲突从家庭扩展到政治：佛兰德的自由（'broad political implications'）。",
+    "（通说待核）波萨侯爵的理想主义与宗教裁判所。"
+  ],
+  "characters": [
+    {
+      "name": "腓力二世",
+      "identity": "西班牙国王",
+      "note": "（B366：King Philip——'complex, brooding, and tragic figure'）"
+    },
+    {
+      "name": "堂卡洛斯",
+      "identity": "王子",
+      "note": "（B366 书名人物——爱上继母）"
+    },
+    {
+      "name": "伊丽莎白",
+      "identity": "继母/王后",
+      "note": "（B366：Elizabeth of Valois）"
+    }
+  ],
+  "themes": [
+    "家庭与政治的双重冲突（B366）。",
+    "自由的政治理想（波萨台词——通说待核）。",
+    "素体诗的德语确立（B366）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'established...as the recognized medium of German poetic drama'（B366）。",
+      "source": "B366"
+    },
+    {
+      "text": "Britannica：'wealth of exciting and moving scenes'（B366）。",
+      "source": "B366"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "16世纪西班牙宫廷史。",
+      "素体诗（Blankvers）语感。"
+    ],
+    "editions": [
+      "《堂卡洛斯》中译名（《唐·卡洛斯》两说）待核。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "席勒过渡之作；后接《华伦斯坦》《威廉·退尔》。"
+  },
+  "pending": [
+    "中译名两说待核。",
+    "1787年出版细节待核。",
+    "波萨侯爵与宗教裁判所细节待核（通说）。"
+  ],
+  "sources": [
+    "B366"
+  ],
+  "year_source": "B366",
+  "author_source": "B366",
+  "related_works": [
+    "qiangdao",
+    "yinmouyuaiqing",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《堂卡洛斯》双重冲突图",
+    "cards": [
+      {
+        "title": "腓力二世",
+        "text": "'阴郁的悲剧形象'（B366）",
+        "color": "antagonist"
+      },
+      {
+        "title": "堂卡洛斯",
+        "text": "爱上继母的王子（B366）",
+        "color": "main"
+      },
+      {
+        "title": "伊丽莎白",
+        "text": "瓦卢瓦的王后（B366）",
+        "color": "family"
+      },
+      {
+        "title": "政治",
+        "text": "家庭的延展（B366）",
+        "color": "gold"
+      }
+    ]
+  }
+}

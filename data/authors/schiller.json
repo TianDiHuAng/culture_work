@@ -1,0 +1,85 @@
+{
+  "id": "schiller",
+  "name": "弗里德里希·席勒",
+  "foreign_name": "Friedrich Schiller（弗里德里希·席勒，全名 Johann Christoph Friedrich von Schiller，1759-11-10—1805-05-09）",
+  "country": "德国",
+  "birth": 1759,
+  "death": 1805,
+  "birth_year": 1759,
+  "death_year": 1805,
+  "era": "近代",
+  "summary": "席勒，符腾堡Marbach生，德国剧作家、诗人与文学理论家——'a leading German dramatist, poet, and literary theorist'（B366）。Die Räuber（强盗, 1781）——Karl Moor 为'sublime criminal'——'a scathing indictment of a society that could drive so fundamentally noble a character to a career of crime'（B366）——1782年1月13日曼海姆首演'a milestone in the history of the German theatre'（B366）。Kabale und Liebe（阴谋与爱情, 1784）——'the revolt of elemental human feeling against the artificialities of convention'（B366）。Don Carlos (1787)——与歌德《伊菲革涅亚》确立素体诗为德语诗剧媒介（B366）。'An die Freude'（欢乐颂）——被贝多芬第九交响曲采用（B366）。1794年与歌德订交——'a union of opposites'（B366）。Wallenstein 三部曲 (1800-01)、Maria Stuart (1801)、Wilhelm Tell (1804)（B366）。",
+  "timeline": [
+    {
+      "year": 1759,
+      "text": "11月10日生于符腾堡Marbach（B366）。",
+      "src": "B366"
+    },
+    {
+      "year": 1781,
+      "text": "Die Räuber（强盗）出版；1782曼海姆首演——德国剧场史里程碑（B366）。",
+      "src": "B366"
+    },
+    {
+      "year": 1784,
+      "text": "Kabale und Liebe（阴谋与爱情）（B366）。",
+      "src": "B366"
+    },
+    {
+      "year": 1787,
+      "text": "Don Carlos——第一部素体诗主要剧作（B366）。",
+      "src": "B366"
+    },
+    {
+      "year": 1794,
+      "text": "与歌德订交——'union of opposites'（B366）。",
+      "src": "B366"
+    },
+    {
+      "year": 1805,
+      "text": "5月9日卒于魏玛（B366）。",
+      "src": "B366"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "weimateer",
+      "note": "（B366 本作）"
+    },
+    {
+      "work_id": "qiangdao",
+      "note": "1781（B366）"
+    },
+    {
+      "work_id": "yinmouyuaiqing",
+      "note": "1784（B366）"
+    },
+    {
+      "work_id": "tangkaluosi",
+      "note": "1787（B366）"
+    },
+    {
+      "title": "威廉·退尔",
+      "note": "（B366：Wilhelm Tell (1804)）"
+    },
+    {
+      "title": "华伦斯坦",
+      "note": "（B366：Wallenstein 三部曲 (1800-01)）"
+    }
+  ],
+  "style": [
+    "'权力之滥用'的终身主题（B366：the use and abuse of power）。",
+    "'崇高罪犯'的道德辩证（B366：sublime criminal）。",
+    "素体诗德语诗剧的确立者之一（B366）。"
+  ],
+  "status": "Britannica 定位席勒为德国最重要的剧作家/诗人/理论家之一、魏玛古典主义双星之一（B366——与歌德并称语境）。",
+  "sources": [
+    "B366"
+  ],
+  "dates_source": "B366",
+  "pending": [
+    "《威廉·退尔》《华伦斯坦》《玛丽亚·斯图亚特》剧情细节待核（B366仅列名）。",
+    "1782年首演剧场名（Mannheim National Theatre——B366 已载）。",
+    "《欢乐颂》创作年（1785说）待核。"
+  ]
+}

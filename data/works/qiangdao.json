@@ -1,0 +1,105 @@
+{
+  "id": "qiangdao",
+  "title": "强盗",
+  "original_title": "Die Räuber",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪80年代初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "schiller",
+  "author_name": "弗里德里希·席勒",
+  "year_display": "1781年（Britannica B366：Die Räuber (1781)——1782-01-13曼海姆首演'a milestone in the history of the German theatre'）",
+  "year_sort": 1781,
+  "background": [
+    "Britannica（B366）：'a stirring protest against stifling convention and corruption in high places'——Karl Moor 被代表为'sublime criminal'。",
+    "Britannica（B366）：'a scathing indictment of a society that could drive so fundamentally noble a character to a career of crime'。",
+    "Britannica（B366）：首演'created a sensation'——'a milestone in the history of the German theatre'。"
+  ],
+  "outline": [
+    "（B366）卡尔·穆尔被弟弗兰茨构陷而落草——'暴力与无政府不是可行替代'的发现与自首。",
+    "（B366）'以法律与道德之名写作'的辩护与控诉并存。"
+  ],
+  "characters": [
+    {
+      "name": "卡尔·穆尔",
+      "identity": "强盗首领/'崇高罪犯'",
+      "note": "（B366：Karl Moor——sublime criminal）"
+    },
+    {
+      "name": "弗兰茨",
+      "identity": "恶弟",
+      "note": "（B366：villainous younger brother）"
+    }
+  ],
+  "themes": [
+    "对压制性惯例与上层腐败的抗议（B366）。",
+    "暴力不能改良社会（B366：violence and anarchy do not offer a workable alternative）。",
+    "狂飙突进的爆发力（时代语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：德国剧场史里程碑（B366）。",
+      "source": "B366"
+    },
+    {
+      "text": "Britannica：'sublime criminal'——浪漫主义反英雄原型（B366）。",
+      "source": "B366"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "狂飙突进语境。",
+      "五幕的激情独白。"
+    ],
+    "editions": [
+      "《强盗》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "席勒首作；与《阴谋与爱情》对读。"
+  },
+  "pending": [
+    "1782-01-13首演细节（B366已载日期）剧场核对。",
+    "'狂飙突进'归属说法待核。",
+    "穆尔父子名核对（B366 载 Karl/Franz/Count Moor）。"
+  ],
+  "sources": [
+    "B366"
+  ],
+  "year_source": "B366",
+  "author_source": "B366",
+  "related_works": [
+    "yinmouyuaiqing",
+    "fushide",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《强盗》控诉结构图",
+    "cards": [
+      {
+        "title": "卡尔·穆尔",
+        "text": "'崇高罪犯'（B366）",
+        "color": "main"
+      },
+      {
+        "title": "社会",
+        "text": "逼良为盗的控诉（B366）",
+        "color": "antagonist"
+      },
+      {
+        "title": "弗兰茨",
+        "text": "构陷的恶弟（B366）",
+        "color": "gold"
+      },
+      {
+        "title": "自首",
+        "text": "法律的归顺（B366）",
+        "color": "family"
+      }
+    ]
+  }
+}
