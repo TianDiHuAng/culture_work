@@ -1,0 +1,100 @@
+{
+  "id": "muxingdeshi",
+  "title": "母性的诗",
+  "original_title": "Ternura",
+  "region": "智利",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "gmistral",
+  "author_name": "加夫列拉·米斯特拉尔",
+  "year_display": "1924年（Britannica B343：Ternura (1924, 1945扩；'Tenderness')——中译名待核）",
+  "year_sort": 1924,
+  "background": [
+    "Britannica（B343）：Ternura——'Tenderness'——1924年初版、1945年扩充——'evidence a broader interest'。",
+    "Britannica（B343）：米斯特拉尔——1945诺奖——'love of children and of the downtrodden remained her principal themes'。",
+    "题材（通说待核）：母性诗与摇篮曲——'对孩子的爱'的凝集。"
+  ],
+  "outline": [
+    "（通说待核）摇篮曲与童谣的集。",
+    "（通说待核）1945年扩充版的新篇。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "教师/母亲形象",
+      "note": "（B343 语系）"
+    }
+  ],
+  "themes": [
+    "'对孩子的爱'（B343：love of children）。",
+    "'温柔'（Ternura）的题意（书名——通说待核）。",
+    "摇篮曲的民间体（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Ternura (1924, 1945扩)（B343）。",
+      "source": "B343"
+    },
+    {
+      "text": "Britannica：1945诺奖（B343 交叉）。",
+      "source": "B343"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "摇篮曲的韵。",
+      "'母性'主题的界定。"
+    ],
+    "editions": [
+      "《母性的诗》中译名（《温柔》）待核。",
+      "西班牙文原版。"
+    ],
+    "order": "米斯特拉尔母性篇；与《荒凉》对读。"
+  },
+  "pending": [
+    "1924年初版细节待核。",
+    "1945年扩充篇目待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B343"
+  ],
+  "year_source": "B343",
+  "author_source": "B343",
+  "related_works": [
+    "huangliang",
+    "tala",
+    "ershisou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《母性的诗》温柔结构图",
+    "cards": [
+      {
+        "title": "温柔",
+        "text": "Ternura 的题意（B343）",
+        "color": "gold"
+      },
+      {
+        "title": "摇篮曲",
+        "text": "童谣的集（通说）",
+        "color": "main"
+      },
+      {
+        "title": "教师",
+        "text": "对孩子的爱（B343）",
+        "color": "family"
+      },
+      {
+        "title": "扩充",
+        "text": "1945的新篇（B343）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

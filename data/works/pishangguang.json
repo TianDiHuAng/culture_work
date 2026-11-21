@@ -1,0 +1,100 @@
+{
+  "id": "pishangguang",
+  "title": "披光",
+  "original_title": "Světlem oděná",
+  "region": "捷克",
+  "era": "近代",
+  "era_detail": "20世纪40年代初",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "捷克语",
+  "author_id": "seifert",
+  "author_name": "雅罗斯拉夫·塞弗尔特",
+  "year_display": "1940年（Britannica B386：Světlem oděná (1940; Robed in Light)——中译名待核）",
+  "year_sort": 1940,
+  "background": [
+    "Britannica（B386）：Světlem oděná (1940; Robed in Light)——诗集列表。",
+    "Britannica（B386）：塞弗尔特——从'proletarian poetry'转向'so-called pure poetry'的抒情要素。",
+    "Britannica（B386）：最常写'历史与捷克-斯洛伐克的其他方面'——本集处于占领前夕（1940说待核）。"
+  ],
+  "outline": [
+    "（通说待核——B386未载篇目）'披光'的布拉格抒情：母爱与城市。",
+    "（通说待核）占领年代的暗影（时代背景通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "捷克诗人",
+      "note": "（B386 语境）"
+    }
+  ],
+  "themes": [
+    "'纯诗'的抒情要素（B386：so-called pure poetry）。",
+    "布拉格与母性（通说待核）。",
+    "历史与个人的对位（B386：the history...of Czechoslovakia）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1984诺奖——'first Czech'（B386）。",
+      "source": "B386"
+    },
+    {
+      "text": "Britannica：'so-called pure poetry'（B386）。",
+      "source": "B386"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "捷克语（读译本）。",
+      "'纯诗'论语境（通说待核）。"
+    ],
+    "editions": [
+      "《披光》中译名（《被光所装扮》）待核。",
+      "捷克文原版（公有领域状态待核）。"
+    ],
+    "order": "塞弗尔特中期；与《泪水中的城市》对读。"
+  },
+  "pending": [
+    "1940年出版细节待核。",
+    "篇目核对（B386未载）。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B386"
+  ],
+  "year_source": "B386",
+  "author_source": "B386",
+  "related_works": [
+    "shiqishoushi",
+    "xianrenji",
+    "nianzhu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《披光》抒情结构图",
+    "cards": [
+      {
+        "title": "光",
+        "text": "'披光'的布拉格（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "纯诗",
+        "text": "抒情的转向（B386）",
+        "color": "main"
+      },
+      {
+        "title": "母爱",
+        "text": "城市的日常（通说）",
+        "color": "family"
+      },
+      {
+        "title": "占领",
+        "text": "历史的暗影（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

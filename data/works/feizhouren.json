@@ -1,0 +1,105 @@
+{
+  "id": "feizhouren",
+  "title": "非洲人",
+  "original_title": "L'Africain",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "21世纪初",
+  "genre": "回忆录",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "leclezio",
+  "author_name": "让-马里·古斯塔夫·勒克莱齐奥",
+  "year_display": "2004年（Britannica B381：L'Africain (2004)——memoir of reunion with his father after WWII）",
+  "year_sort": 2004,
+  "background": [
+    "Britannica（B381）：L'Africain——'memoir of reunion with his father after WWII'（二战后与父亲重逢的回忆录）。",
+    "Britannica（B381）：勒克莱齐奥——2008诺奖；Onitsha (1991)——'semiautobiographical, inspired by his childhood in Nigeria'（交叉）。",
+    "题材（通说待核）：尼日利亚童年与父亲的医生岁月——'非洲人'的自我命名。"
+  ],
+  "outline": [
+    "（通说待核）战后与医生父亲的奥尼查重逢。",
+    "（通说待核）'非洲人'：自我的地理发现。"
+  ],
+  "characters": [
+    {
+      "name": "父亲",
+      "identity": "战地医生",
+      "note": "（B381：reunion with his father）"
+    },
+    {
+      "name": "小勒克莱齐奥",
+      "identity": "孩子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'非洲人'的自我命名（书名语境——通说待核）。",
+    "父子重逢（B381）。",
+    "尼日利亚童年（B381：Onitsha 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：L'Africain (2004)（B381）。",
+      "source": "B381"
+    },
+    {
+      "text": "Britannica：2008诺奖（B381 交叉）。",
+      "source": "B381"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "殖民地尼日利亚语境。",
+      "回忆录的'地理自传'。"
+    ],
+    "editions": [
+      "《非洲人》中译本（人民文学等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "勒克莱齐奥回忆录；与《奥尼查》对读。"
+  },
+  "pending": [
+    "父亲名（乔治·勒克莱齐奥说）待核。",
+    "2004年出版细节待核。",
+    "与 Onitsha 的互文待核。"
+  ],
+  "sources": [
+    "B381"
+  ],
+  "year_source": "B381",
+  "author_source": "B381",
+  "related_works": [
+    "sha",
+    "susongbifu",
+    "gududemigong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《非洲人》重逢结构图",
+    "cards": [
+      {
+        "title": "重逢",
+        "text": "二战后的父子（B381）",
+        "color": "gold"
+      },
+      {
+        "title": "非洲人",
+        "text": "自我的命名（书名）",
+        "color": "main"
+      },
+      {
+        "title": "奥尼查",
+        "text": "童年的镇（B381交叉）",
+        "color": "family"
+      },
+      {
+        "title": "医生",
+        "text": "父亲的战场（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

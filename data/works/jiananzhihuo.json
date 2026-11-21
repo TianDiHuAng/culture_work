@@ -1,0 +1,100 @@
+{
+  "id": "jiananzhihuo",
+  "title": "艰难之活",
+  "original_title": "Lavorare stanca",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪30年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "pavese",
+  "author_name": "切萨雷·帕韦泽",
+  "year_display": "1936年（Britannica B374：Lavorare stanca (1936; Hard Labor)——首部抒情诗集——1935出狱后）",
+  "year_sort": 1936,
+  "background": [
+    "Britannica（B374）：Lavorare stanca——'first lyric poetry volume, after his 1935 prison release'（1935年出狱后的首部抒情诗集）。",
+    "Britannica（B374）：帕韦泽——'the novel considered his best'为《月亮与篝火》（交叉）。",
+    "题材（通说待核）：《成熟之男》等短诗——'Hard Labor'的题意（通说待核）。"
+  ],
+  "outline": [
+    "（通说待核）出狱后的短诗：Langhe 的村与海。",
+    "（通说待核）'艰苦劳动'（Hard Labor）的题意。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "出狱的诗人",
+      "note": "（B374 语境）"
+    }
+  ],
+  "themes": [
+    "出狱后的第一书（B374）。",
+    "'艰难之活'的题意（书名——通说待核）。",
+    "Langhe 乡村（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'first lyric poetry volume, after his 1935 prison release'（B374）。",
+      "source": "B374"
+    },
+    {
+      "text": "Britannica：1950年自杀（B374 交叉）。",
+      "source": "B374"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "短诗的口语。",
+      "'Hard Labor'的翻译。"
+    ],
+    "editions": [
+      "《艰难之活》中译名（《劳动使人疲惫》）待核。",
+      "意大利文原版（公有领域状态待核）。"
+    ],
+    "order": "帕韦泽诗歌首选；与《月亮与篝火》对读。"
+  },
+  "pending": [
+    "篇目（《成熟之男》说）核对（通说）。",
+    "1936年出版细节待核。",
+    "英译 Hard Labor (1976——B374)核对。"
+  ],
+  "sources": [
+    "B374"
+  ],
+  "year_source": "B374",
+  "author_source": "B374",
+  "related_works": [
+    "yueliangyuhuoyan",
+    "shenghuodezhiye",
+    "wuguigu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《艰难之活》出狱结构图",
+    "cards": [
+      {
+        "title": "出狱",
+        "text": "1935年的自由（B374）",
+        "color": "antagonist"
+      },
+      {
+        "title": "短诗",
+        "text": "Langhe 的村与海（通说）",
+        "color": "main"
+      },
+      {
+        "title": "艰难",
+        "text": "'Hard Labor'（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "写作",
+        "text": "诗的起点（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

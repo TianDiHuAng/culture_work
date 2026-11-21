@@ -1,0 +1,100 @@
+{
+  "id": "zhipiaobu",
+  "title": "支票簿",
+  "original_title": "El libro talonario",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "西班牙语",
+  "author_id": "echegaray",
+  "author_name": "何塞·埃切加赖",
+  "year_display": "1874年（Britannica B369：El libro talonario（'The Checkbook'）——'His first play...not produced until 1874, when he was 42'）",
+  "year_sort": 1874,
+  "background": [
+    "Britannica（B369）：El libro talonario——'His first play, El libro talonario (The Checkbook), was not produced until 1874, when he was 42'。",
+    "Britannica（B369）：此后平均'一年两部'。",
+    "题材（通说待核）：支票簿的金钱与爱情悲剧（处女作情节通说待核）。"
+  ],
+  "outline": [
+    "（通说待核）处女作的情节细节核对。",
+    "（通说待核）42岁'重启'人生（数学家→剧作家）。"
+  ],
+  "characters": [
+    {
+      "name": "（待核）",
+      "identity": "——",
+      "note": "（通说待核，B369未载）"
+    }
+  ],
+  "themes": [
+    "处女作：政坛转向戏剧（B369）。",
+    "情节剧的起点（B369：melodramatic 交叉）。",
+    "'42岁'的传奇（B369）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'His first play'（B369）。",
+      "source": "B369"
+    },
+    {
+      "text": "Britannica：1904诺奖（B369 交叉）。",
+      "source": "B369"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "处女作的戏剧史定位。",
+      "'支票簿'标题的直译。"
+    ],
+    "editions": [
+      "《支票簿》中译名（《记账簿》）待核。",
+      "西班牙文原版（公有领域）。"
+    ],
+    "order": "埃切加赖起点；对照《疯子还是圣徒》。"
+  },
+  "pending": [
+    "剧情细节核对（通说）。",
+    "1874年首演剧场待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B369"
+  ],
+  "year_source": "B369",
+  "author_source": "B369",
+  "related_works": [
+    "fengzihaishishengt",
+    "yinmouyuaiqing",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《支票簿》处女作结构图",
+    "cards": [
+      {
+        "title": "支票簿",
+        "text": "金钱的戏剧（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "42岁",
+        "text": "戏剧的起点（B369）",
+        "color": "main"
+      },
+      {
+        "title": "数学家",
+        "text": "政坛的转身（B369）",
+        "color": "family"
+      },
+      {
+        "title": "情节剧",
+        "text": "melodramatic（B369）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

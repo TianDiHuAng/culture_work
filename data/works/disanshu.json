@@ -1,0 +1,105 @@
+{
+  "id": "disanshu",
+  "title": "第三书",
+  "original_title": "Tiers livre des faits et dits héroïques du noble Pantagruel",
+  "region": "法国",
+  "era": "古代",
+  "era_detail": "16世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "rabelais",
+  "author_name": "弗朗索瓦·拉伯雷",
+  "year_display": "1546年（Britannica B365：Tiers livre (1546)——'Rabelais's most profound work'）",
+  "year_sort": 1546,
+  "background": [
+    "Britannica（B365）：Tiers livre——'Rabelais's most profound work'——Pantagruel 'has now deepened into a Stoico-Christian inerrant sage'；Panurge 'a lover of self and deluded by the devil, is now an adept at making black seem white'。",
+    "Britannica（B365）：献给纳瓦拉王后玛格丽特——旋即被索邦斥为异端——逃亡梅斯（B365）。",
+    "Britannica（B365）：'ends enigmatically with a mock eulogy in which hemp is praised for its myriad uses'。"
+  ],
+  "outline": [
+    "Panurge 的婚姻咨询：神学家/医生/怀疑论者/掷签（B365：He consults...all to no effect because of his self-love）。",
+    "'神瓶'之旅的决定与'大麻'的颂歌收尾（B365）。"
+  ],
+  "characters": [
+    {
+      "name": "庞大固埃",
+      "identity": "'斯多葛-基督教'的圣人（B365）",
+      "note": "B365：Stoico-Christian inerrant sage"
+    },
+    {
+      "name": "巴汝奇",
+      "identity": "自爱的咨询者",
+      "note": "（B365：a lover of self...making black seem white）"
+    }
+  ],
+  "themes": [
+    "'自爱'的咨询循环（B365：because of his self-love）。",
+    "'最深刻的作品'（B365：most profound work）。",
+    "'大麻'的滑稽颂（B365：mock eulogy）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Rabelais's most profound work'（B365）。",
+      "source": "B365"
+    },
+    {
+      "text": "Britannica：索邦斥为异端与逃亡（B365 交叉）。",
+      "source": "B365"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "咨询结构的多声部。",
+      "斯多葛-基督教语汇（B365）。"
+    ],
+    "editions": [
+      "《第三书》中译名（《巨人传》第三部——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "《巨人传》第三部；接《第四书》。"
+  },
+  "pending": [
+    "'神瓶'咨询细节核对（B365已载梗概）。",
+    "1546年出版（royal privilège说）待核。",
+    "'大麻'收尾的解读待核。"
+  ],
+  "sources": [
+    "B365"
+  ],
+  "year_source": "B365",
+  "author_source": "B365",
+  "related_works": [
+    "jurenzhuan",
+    "xunjiexiaoshuo",
+    "mingnuzhuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《第三书》咨询结构图",
+    "cards": [
+      {
+        "title": "咨询",
+        "text": "自爱的循环（B365）",
+        "color": "main"
+      },
+      {
+        "title": "神瓶",
+        "text": "旅途的决定（B365）",
+        "color": "gold"
+      },
+      {
+        "title": "'最深刻'",
+        "text": "Britannica 之评（B365）",
+        "color": "family"
+      },
+      {
+        "title": "大麻",
+        "text": "滑稽的颂歌（B365）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

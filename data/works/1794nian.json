@@ -1,0 +1,100 @@
+{
+  "id": "1794nian",
+  "title": "1794年",
+  "original_title": "Rok 1794",
+  "region": "波兰",
+  "era": "近代",
+  "era_detail": "20世纪10-20年代",
+  "genre": "历史小说（三卷）",
+  "genre_group": "小说",
+  "language": "波兰语",
+  "author_id": "reymont",
+  "author_name": "弗拉迪斯拉夫·莱蒙特",
+  "year_display": "1913-18年（Britannica B342：Rok 1794, 3 vol. (1913-18)——'depicts Poland at the start of the partitions in the late 18th century'）",
+  "year_sort": 1913,
+  "background": [
+    "Britannica（B342）：Rok 1794 三卷（1913-18）——'depicts Poland at the start of the partitions in the late 18th century'（波兰被瓜分初期）。",
+    "Britannica（B342）：莱蒙特——1924诺奖。",
+    "题材（通说待核）：柯希丘什科起义前夜——1794年的华沙。"
+  ],
+  "outline": [
+    "（通说待核）三卷的起义编年：最后的波兰。",
+    "（通说待核）柯希丘什科的'克拉科夫宣誓'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "柯希丘什科",
+      "identity": "起义领袖",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "瓜分初期的波兰（B342）。",
+    "起义的编年（书名语境——通说待核）。",
+    "历史小说的三卷（B342）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Rok 1794 (1913-18)（B342）。",
+      "source": "B342"
+    },
+    {
+      "text": "Britannica：1924诺奖（B342 交叉）。",
+      "source": "B342"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "柯希丘什科起义史。",
+      "三卷的编年。"
+    ],
+    "editions": [
+      "《1794年》中译名（《最后的波兰》）待核。",
+      "波兰文原版（公有领域）。"
+    ],
+    "order": "莱蒙特历史篇；与《农民》《福地》对读。"
+  },
+  "pending": [
+    "三卷卷名核对（通说）。",
+    "1913-18出版细节待核（B342口径）。",
+    "柯希丘什科细节待核。"
+  ],
+  "sources": [
+    "B342"
+  ],
+  "year_source": "B342",
+  "author_source": "B342",
+  "related_works": [
+    "nongmin",
+    "fudi",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《1794年》起义编年图",
+    "cards": [
+      {
+        "title": "1794",
+        "text": "瓜分初期的波兰（B342）",
+        "color": "main"
+      },
+      {
+        "title": "起义",
+        "text": "最后的挣扎（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "三卷",
+        "text": "编年的结构（B342）",
+        "color": "family"
+      },
+      {
+        "title": "诺奖",
+        "text": "1924（B342交叉）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

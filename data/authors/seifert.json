@@ -1,0 +1,73 @@
+{
+  "id": "seifert",
+  "name": "雅罗斯拉夫·塞弗尔特",
+  "foreign_name": "Jaroslav Seifert（雅罗斯拉夫·塞弗尔特，1901-09-23—1986-01-10）",
+  "country": "捷克",
+  "birth": 1901,
+  "death": 1986,
+  "birth_year": 1901,
+  "death_year": 1986,
+  "era": "近代",
+  "summary": "塞弗尔特，布拉格生，捷克诗人——1984年诺贝尔文学奖——'the first Czech to win the Nobel Prize for Literature'（首位获诺奖的捷克人——B386）。早期'proletarian poetry'——后转向'so-called pure poetry'的抒情要素（B386）；最常写'历史与捷克-斯洛伐克的其他方面'（B386）。1929年'broke with the Communist Party'（B386）；谴责1968年苏联入侵；'among the first to sign' Charter 77（七七宪章，1977年1月）（B386）。记者至1950年；约30卷诗集（B386）；1966年'民族诗人'称号（B386）。",
+  "timeline": [
+    {
+      "year": 1901,
+      "text": "9月23日生于布拉格（B386）。",
+      "src": "B386"
+    },
+    {
+      "year": 1920,
+      "text": "首部诗集 Město v slzách（泪水中的城市）（B386）。",
+      "src": "B386"
+    },
+    {
+      "year": 1929,
+      "text": "与共产党决裂（B386）。",
+      "src": "B386"
+    },
+    {
+      "year": 1977,
+      "text": "'七七宪章'首批签名者（B386）。",
+      "src": "B386"
+    },
+    {
+      "year": 1984,
+      "text": "获诺贝尔文学奖——首位捷克得主（B386）。",
+      "src": "B386"
+    },
+    {
+      "year": 1986,
+      "text": "1月10日卒于布拉格（B386）。",
+      "src": "B386"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "pishangguang",
+      "note": "1940（B386：Světlem oděná——中译名待核）"
+    },
+    {
+      "title": "泪水中的城市",
+      "note": "（B386：Město v slzách (1920)——首部诗集——中译名待核）"
+    },
+    {
+      "title": "铺满泥土的头盔",
+      "note": "（B386：Přílba hlíny (1945)——中译名待核）"
+    }
+  ],
+  "style": [
+    "从'无产阶级诗'到'纯诗'的抒情（B386）。",
+    "捷克历史与日常的诗歌书写（B386）。",
+    "'七七宪章'的道德立场（B386）。"
+  ],
+  "status": "Britannica 定位塞弗尔特为1984诺奖得主、首位捷克诺奖作家、宪章首批签名者（B386）。",
+  "sources": [
+    "B386"
+  ],
+  "dates_source": "B386",
+  "pending": [
+    "Světlem oděná 通行译名（《披光》/《被光所装扮》）待核。",
+    "'30卷'总数核对（B386：roughly 30）。",
+    "1981年回忆录名待核。"
+  ]
+}

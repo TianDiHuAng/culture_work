@@ -1,0 +1,100 @@
+{
+  "id": "telafunikejishi",
+  "title": "特拉夫尼克纪事",
+  "original_title": "Travnička hronika",
+  "region": "南斯拉夫",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "塞尔维亚-克罗地亚语",
+  "author_id": "andric",
+  "author_name": "伊沃·安德里奇",
+  "year_display": "1945年（Britannica B376：Travnička hronika (1945; Bosnian Story)）",
+  "year_sort": 1945,
+  "background": [
+    "Britannica（B376）：Travnička hronika——'shows Bosnia through French, Austrian, and Ottoman consuls in Travnik during Napoleon's era'（拿破仑时代特拉夫尼克的三领事视角）。",
+    "Britannica（B376）：'language of great beauty and purity'。",
+    "题材（通说待核）：法/奥/奥斯曼三领事的波斯尼亚博弈。"
+  ],
+  "outline": [
+    "（通说待核）三领事视角的'纪事'：达维勒与外交的迷局。",
+    "（通说待核）'纪事'体与波斯尼亚的耐心。"
+  ],
+  "characters": [
+    {
+      "name": "达维勒",
+      "identity": "法国领事",
+      "note": "（通说待核，B376未载）"
+    }
+  ],
+  "themes": [
+    "三帝国的外交博弈（B376）。",
+    "'纪事'的文体（书名语境——通说待核）。",
+    "波斯尼亚的'耐心'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：与《德里纳河上的桥》同年（1945——B376）。",
+      "source": "B376"
+    },
+    {
+      "text": "Britannica：1961诺奖（B376 交叉）。",
+      "source": "B376"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "拿破仑时代外交史。",
+      "'纪事'的编年腔。"
+    ],
+    "editions": [
+      "《特拉夫尼克纪事》中译名（《波斯尼亚故事》）待核。",
+      "塞尔维亚-克罗地亚语原版。"
+    ],
+    "order": "安德里奇第二作；与《德里纳河上的桥》对读。"
+  },
+  "pending": [
+    "达维勒人名核对（通说）。",
+    "1945年出版细节待核。",
+    "'三领事'细节待核。"
+  ],
+  "sources": [
+    "B376"
+  ],
+  "year_source": "B376",
+  "author_source": "B376",
+  "related_works": [
+    "derinahe",
+    "sangeshouqiangshou",
+    "fudi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《特拉夫尼克纪事》三领事图",
+    "cards": [
+      {
+        "title": "三领事",
+        "text": "法/奥/奥斯曼（B376）",
+        "color": "gold"
+      },
+      {
+        "title": "特拉夫尼克",
+        "text": "波黑的舞台（书名）",
+        "color": "main"
+      },
+      {
+        "title": "拿破仑",
+        "text": "时代的风（B376）",
+        "color": "antagonist"
+      },
+      {
+        "title": "纪事",
+        "text": "编年的文体（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

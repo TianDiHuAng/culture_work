@@ -1,0 +1,100 @@
+{
+  "id": "canbai",
+  "title": "惨败",
+  "original_title": "A kudarc",
+  "region": "匈牙利",
+  "era": "近代",
+  "era_detail": "20世纪80年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "匈牙利语",
+  "author_id": "kertesz",
+  "author_name": "凯尔泰斯·伊姆雷",
+  "year_display": "1988年（Britannica B379：A kudarc / Fiasco (1988)）",
+  "year_sort": 1988,
+  "background": [
+    "Britannica（B379）：Fiasco (1988)——作品列表（《无命运的一生》之后）。",
+    "Britannica（B379）：凯尔泰斯——2002诺奖。",
+    "题材（通说待核）：'惨败'——作家K·的审查与'第二本书'的失败（通说待核）。"
+  ],
+  "outline": [
+    "（通说待核）作家K与审查：'惨败'作为文学命运。",
+    "（通说待核）与《无命运的一生》的互文（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "作家K",
+      "identity": "叙述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "审查与写作（通说待核）。",
+    "'惨败'的书名反讽（书名语境）。",
+    "三部曲的中篇（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Fiasco (1988)（B379）。",
+      "source": "B379"
+    },
+    {
+      "text": "Britannica：2002诺奖（B379 交叉）。",
+      "source": "B379"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部曲的顺序。",
+      "社会主义审查语境（通说待核）。"
+    ],
+    "editions": [
+      "《惨败》中译名（《失败》）待核。",
+      "匈牙利文原版。"
+    ],
+    "order": "凯尔泰斯三部曲之二。"
+  },
+  "pending": [
+    "作家K细节核对（通说）。",
+    "1988年出版细节待核。",
+    "'三部曲'说法待核。"
+  ],
+  "sources": [
+    "B379"
+  ],
+  "year_source": "B379",
+  "author_source": "B379",
+  "related_works": [
+    "wumingyundesheng",
+    "weiweichushenghaizidewange",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《惨败》审查结构图",
+    "cards": [
+      {
+        "title": "惨败",
+        "text": "文学的反讽（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "作家K",
+        "text": "审查下的写作（通说）",
+        "color": "main"
+      },
+      {
+        "title": "三部曲",
+        "text": "与《无命运》互文（通说）",
+        "color": "family"
+      },
+      {
+        "title": "1988",
+        "text": "B注记之年",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
