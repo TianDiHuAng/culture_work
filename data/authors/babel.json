@@ -1,0 +1,68 @@
+{
+  "id": "babel",
+  "name": "伊萨克·巴别尔",
+  "foreign_name": "Isaac Babel（伊萨克·巴别尔，1894-06-30—1940-01-27）",
+  "country": "苏联",
+  "birth": 1894,
+  "death": 1940,
+  "birth_year": 1894,
+  "death_year": 1940,
+  "era": "近代",
+  "summary": "巴别尔，敖德萨生，苏联作家——1940年1月27日凌晨1:30被处决（B402：1月26日判——次日1:30行刑）；1939年5月15日被捕（间谍与反苏罪）——酷刑下签供词后翻供——1954年平反——被没收的私人档案'disappeared without a trace'（B402）。Konarmiya（骑兵军, 1926）——苏波战争——1920春以 Kiril Lyutov 笔名入布琼尼第一骑兵军——'probes the clash between revolutionary ideals and brutal violence'（B402）。Tales of Odessa（敖德萨故事, 1931）——Benya Krik——'a mock Jewish messiah'（B402）。'aphoristic precision, combined with the metaphoric extravagance of Modernist poetry'（格言式的精确+现代主义诗的隐喻铺张——B402）；'the genre of literary silence'（'沉默的文学'——1934作家代表大会——B402）。",
+  "timeline": [
+    {
+      "year": 1894,
+      "text": "6月30日生于敖德萨（B402）。",
+      "src": "B402"
+    },
+    {
+      "year": 1920,
+      "text": "以笔名 Lyutov 加入布琼尼第一骑兵军（B402）。",
+      "src": "B402"
+    },
+    {
+      "year": 1926,
+      "text": "《骑兵军》初版（B402）。",
+      "src": "B402"
+    },
+    {
+      "year": 1939,
+      "text": "5月15日被捕（B402）。",
+      "src": "B402"
+    },
+    {
+      "year": 1940,
+      "text": "1月27日凌晨1:30被处决；1954年平反（B402）。",
+      "src": "B402"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "qibingjun",
+      "note": "1926（B402）"
+    },
+    {
+      "work_id": "aodesagushi",
+      "note": "1931（B402）"
+    },
+    {
+      "title": "日落",
+      "note": "（B402：Zakat (1927)——唯一成功的舞台剧——中译名待核）"
+    }
+  ],
+  "style": [
+    "'格言式的精确+现代主义诗的隐喻铺张'（B402）。",
+    "'沉默的文学'（B402：the genre of literary silence）。",
+    "犹太人'机智角色'而非单纯受害者（B402：resourceful characters）。"
+  ],
+  "status": "Britannica 定位巴别尔为被处决的天才短篇家、'沉默的文学'的提出者（B402）。",
+  "sources": [
+    "B402"
+  ],
+  "dates_source": "B402",
+  "pending": [
+    "《骑兵军》通行译名（《红色骑兵军》）待核。",
+    "处决细节核对（B402：1:30 am）。",
+    "影响 Philip Roth/Grace Paley（B402口径）待核。"
+  ]
+}

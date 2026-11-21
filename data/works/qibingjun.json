@@ -1,0 +1,105 @@
+{
+  "id": "qibingjun",
+  "title": "骑兵军",
+  "original_title": "Конармия（Red Cavalry）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "短篇集（骑兵军日记）",
+  "genre_group": "故事集",
+  "language": "俄语",
+  "author_id": "babel",
+  "author_name": "伊萨克·巴别尔",
+  "year_display": "1926年（Britannica B402：Konarmiya——first published 1926，revised 1931，enlarged 1933）",
+  "year_sort": 1926,
+  "background": [
+    "Britannica（B402）：'probes the clash between revolutionary ideals and brutal violence'（探究革命理想与残酷暴力的冲突）。",
+    "Britannica（B402）：1920春以 Kiril Lyutov 笔名加入布琼尼第一骑兵军（YugROSTA 记者）；叙述者 Lyutov——'ostensibly autobiographical'。",
+    "Britannica（B402）：布琼尼1924/1928公开抨击——开篇'Crossing the Zbruch'、结篇'Rebbe's Son'。"
+  ],
+  "outline": [
+    "（通说待核——B402未载篇目细节）'渡过兹布鲁奇河'的战地日记式短篇。",
+    "（通说待核）犹太城镇与哥萨克骑兵的相撞。"
+  ],
+  "characters": [
+    {
+      "name": "柳托夫",
+      "identity": "记者/叙述者",
+      "note": "（B402：Lyutov——'ostensibly autobiographical'）"
+    },
+    {
+      "name": "布琼尼",
+      "identity": "骑兵军军长",
+      "note": "（B402：Semyon Budenny——1924/1928抨击）"
+    }
+  ],
+  "themes": [
+    "'革命理想与残酷暴力的冲突'（B402）。",
+    "'表面上自传'的叙述者（B402：ostensibly autobiographical）。",
+    "犹太'经师'与哥萨克'刀'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'aphoristic precision...metaphoric extravagance'（B402）。",
+      "source": "B402"
+    },
+    {
+      "text": "Britannica：影响 Philip Roth/Grace Paley（B402）。",
+      "source": "B402"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记体的短篇连缀。",
+      "苏波战争史（1919-20——B402）。"
+    ],
+    "editions": [
+      "《骑兵军》中译本（人民文学/浙江文艺等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "巴别尔首选；与《敖德萨故事》对读。"
+  },
+  "pending": [
+    "篇目（《渡过兹布鲁奇河》/《拉比之子》——B402已载首末篇）核对。",
+    "1926年出版细节待核。",
+    "布琼尼抨击细节待核（B402口径）。"
+  ],
+  "sources": [
+    "B402"
+  ],
+  "year_source": "B402",
+  "author_source": "B402",
+  "related_works": [
+    "aodesagushi",
+    "moyan",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《骑兵军》冲突结构图",
+    "cards": [
+      {
+        "title": "理想",
+        "text": "革命的誓言（B402）",
+        "color": "gold"
+      },
+      {
+        "title": "暴力",
+        "text": "'残酷的暴力'（B402）",
+        "color": "antagonist"
+      },
+      {
+        "title": "柳托夫",
+        "text": "'表面自传'（B402）",
+        "color": "main"
+      },
+      {
+        "title": "犹太镇",
+        "text": "刀锋下的经师（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

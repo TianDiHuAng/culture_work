@@ -1,0 +1,105 @@
+{
+  "id": "aodesagushi",
+  "title": "敖德萨故事",
+  "original_title": "Одесские рассказы（Tales of Odessa）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪20-30年代",
+  "genre": "短篇集",
+  "genre_group": "故事集",
+  "language": "俄语",
+  "author_id": "babel",
+  "author_name": "伊萨克·巴别尔",
+  "year_display": "1931年（Britannica B402：Tales of Odessa (1931)——敖德萨犹太黑社会——首篇'The King' 1921-06-23 Moryak 刊）",
+  "year_sort": 1931,
+  "background": [
+    "Britannica（B402）：Tales of Odessa——敖德萨犹太黑社会——Benya Krik——'a mock Jewish messiah'（犹太假弥赛亚）——Rabelaisian 故事兼'闯入'俄国文学的寓言。",
+    "Britannica（B402）：叙述者'with spectacles on his nose and autumn in his heart'（鼻子上架着眼镜、心里装着秋天）。",
+    "Britannica（B402）：1927年电影 Benya Krik——巴别尔出售剧本——自认失败——被禁一年。"
+  ],
+  "outline": [
+    "（通说待核——B402未载篇目细节）'王'别尼亚·克里克的敖德萨黑帮故事。",
+    "（通说待核）'如何在大敖德萨成为老者'等篇（篇名通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "别尼亚·克里克",
+      "identity": "'犹太假弥赛亚'/黑帮王",
+      "note": "（B402：Benya Krik——'a mock Jewish messiah'）"
+    },
+    {
+      "name": "眼镜少年",
+      "identity": "叙述者",
+      "note": "（B402：with spectacles on his nose and autumn in his heart）"
+    }
+  ],
+  "themes": [
+    "'犹太假弥赛亚'的黑帮史诗（B402）。",
+    "'Rabelaisian'的夸张喜剧（B402：Rabelaisian stories）。",
+    "'闯入'俄国文学的寓言（B402：allegory of Babel muscling in）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a mock Jewish messiah'（B402）。",
+      "source": "B402"
+    },
+    {
+      "text": "Britannica：1927年电影被禁一年（B402）。",
+      "source": "B402"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "敖德萨犹太黑话。",
+      "'Rabelaisian'的夸张。"
+    ],
+    "editions": [
+      "《敖德萨故事》中译本（人民文学等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "巴别尔第二篇；与《骑兵军》对读。"
+  },
+  "pending": [
+    "别尼亚·克里克人名核对（B402已载）。",
+    "1931年出版细节待核。",
+    "1927年电影禁映细节待核（B402口径）。"
+  ],
+  "sources": [
+    "B402"
+  ],
+  "year_source": "B402",
+  "author_source": "B402",
+  "related_works": [
+    "qibingjun",
+    "gushiji",
+    "moyan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《敖德萨故事》黑帮史诗图",
+    "cards": [
+      {
+        "title": "别尼亚·克里克",
+        "text": "'犹太假弥赛亚'（B402）",
+        "color": "main"
+      },
+      {
+        "title": "敖德萨",
+        "text": "黑社会的城市（B402）",
+        "color": "gold"
+      },
+      {
+        "title": "眼镜与秋天",
+        "text": "叙述者的自嘲（B402）",
+        "color": "family"
+      },
+      {
+        "title": "Rabelaisian",
+        "text": "夸张的喜剧（B402）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

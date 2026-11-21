@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="100%" role="img" font-family="'KaiTi','STKaiti','SimSun','Songti SC','Noto Serif CJK SC',serif">
+<rect x="0" y="0" width="400" height="560" fill="#54232a"/>
+<rect x="14" y="14" width="372" height="532" fill="none" stroke="#c9a45c" stroke-width="1.3" opacity="0.75"/>
+<rect x="21" y="21" width="358" height="518" fill="none" stroke="#c9a45c" stroke-width="0.6" opacity="0.45"/>
+<text x="200" y="50" font-size="14" fill="#d8b9a4" text-anchor="middle" letter-spacing="3" font-family="'SimSun','Songti SC','Noto Serif CJK SC',serif">俄国 · 20世纪20-30年代</text>
+<rect x="112" y="68" width="8" height="8" transform="rotate(45 116 72)" fill="none" stroke="#c9a45c" stroke-width="1.3" opacity="0.8"/>
+<rect x="154" y="68" width="8" height="8" transform="rotate(45 158 72)" fill="none" stroke="#c9a45c" stroke-width="1.3" opacity="0.8"/>
+<rect x="196" y="68" width="8" height="8" transform="rotate(45 200 72)" fill="none" stroke="#c9a45c" stroke-width="1.3" opacity="0.8"/>
+<rect x="238" y="68" width="8" height="8" transform="rotate(45 242 72)" fill="none" stroke="#c9a45c" stroke-width="1.3" opacity="0.8"/>
+<rect x="280" y="68" width="8" height="8" transform="rotate(45 284 72)" fill="none" stroke="#c9a45c" stroke-width="1.3" opacity="0.8"/>
+<text x="286" y="195.2" font-size="48" fill="#efe6d4" text-anchor="middle">敖</text>
+<text x="286" y="254.7" font-size="48" fill="#efe6d4" text-anchor="middle">德</text>
+<text x="286" y="314.2" font-size="48" fill="#efe6d4" text-anchor="middle">萨</text>
+<text x="286" y="373.8" font-size="48" fill="#efe6d4" text-anchor="middle">故</text>
+<text x="286" y="433.3" font-size="48" fill="#efe6d4" text-anchor="middle">事</text>
+<text x="108" y="176.0" font-size="20" fill="#d8b9a4" text-anchor="middle">伊</text>
+<text x="108" y="201.0" font-size="20" fill="#d8b9a4" text-anchor="middle">萨</text>
+<text x="108" y="226.0" font-size="20" fill="#d8b9a4" text-anchor="middle">克</text>
+<text x="108" y="251.0" font-size="20" fill="#d8b9a4" text-anchor="middle">·</text>
+<text x="108" y="276.0" font-size="20" fill="#d8b9a4" text-anchor="middle">巴</text>
+<text x="108" y="301.0" font-size="20" fill="#d8b9a4" text-anchor="middle">别</text>
+<text x="108" y="326.0" font-size="20" fill="#d8b9a4" text-anchor="middle">尔</text>
+<line x1="108" y1="358.0" x2="108" y2="386" stroke="#c9a45c" stroke-width="1" opacity="0.6"/>
+<rect x="306" y="491" width="52" height="31" rx="4" fill="#9e3223" opacity="0.94"/><rect x="309" y="494" width="46" height="25" rx="2" fill="none" stroke="#f2e6cf" stroke-width="0.8" opacity="0.7"/><text x="332.0" y="511.9" font-size="15" fill="#f2e6cf" text-anchor="middle" font-family="'Georgia','Times New Roman',serif">1931</text>
+</svg>

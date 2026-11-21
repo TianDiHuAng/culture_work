@@ -1,0 +1,105 @@
+{
+  "id": "xiaoyinhewo",
+  "title": "小银和我",
+  "original_title": "Platero y yo",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "散文诗集",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "jrjimenez",
+  "author_name": "胡安·拉蒙·希梅内斯",
+  "year_display": "1917年（Britannica B401：Platero y yo (1917)——'the story of a man and his donkey'）",
+  "year_sort": 1917,
+  "background": [
+    "Britannica（B401）：'the story of a man and his donkey'（一个人与他的驴的故事）——经英译在美国流行。",
+    "Britannica（B401）：希梅内斯——1956诺奖；'la poesía desnuda'（裸体诗）。",
+    "题材（通说待核）：与小银（驴）的莫格尔对话——140余章的散文诗。"
+  ],
+  "outline": [
+    "（通说待核）'小银'（Platero）：柔软的小驴与莫格尔的风物。",
+    "（通说待核）'孩子们……不要给小银面包'（不采为引文——首段细节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "小银（Platero）",
+      "identity": "驴",
+      "note": "（B401 书名人物）"
+    },
+    {
+      "name": "'我'",
+      "identity": "诗人",
+      "note": "（B401 语境）"
+    }
+  ],
+  "themes": [
+    "'人与驴'的对话（B401）。",
+    "'裸体诗'的散文实践（B401：la poesía desnuda）。",
+    "莫格尔的风物志（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the story of a man and his donkey'（B401）。",
+      "source": "B401"
+    },
+    {
+      "text": "Britannica：1956诺奖（B401 交叉）。",
+      "source": "B401"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "散文诗的节奏。",
+      "安达卢西亚小镇风物。"
+    ],
+    "editions": [
+      "《小银和我》中译本（人民文学等——通说待核）。",
+      "西班牙文原版（公有领域状态待核）。"
+    ],
+    "order": "希梅内斯首选；与《一个新婚诗人的日记》对读。"
+  },
+  "pending": [
+    "章数（138章说）核对（通说）。",
+    "1917年出版细节待核。",
+    "'小银'译名两说（《普特拉塞洛》）待核。"
+  ],
+  "sources": [
+    "B401"
+  ],
+  "year_source": "B401",
+  "author_source": "B401",
+  "related_works": [
+    "jipusaiyaoqu",
+    "leiyu",
+    "wuguigu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小银和我》对话结构图",
+    "cards": [
+      {
+        "title": "小银",
+        "text": "柔软的驴（B401）",
+        "color": "main"
+      },
+      {
+        "title": "莫格尔",
+        "text": "小镇的风物（通说）",
+        "color": "family"
+      },
+      {
+        "title": "裸体诗",
+        "text": "'去掉多余要素'（B401）",
+        "color": "gold"
+      },
+      {
+        "title": "对话",
+        "text": "人与驴（B401）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
