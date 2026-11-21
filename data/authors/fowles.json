@@ -1,0 +1,63 @@
+{
+  "id": "fowles",
+  "name": "约翰·福尔斯",
+  "foreign_name": "John Fowles（约翰·福尔斯，1926-03-31—2005-11-05）",
+  "country": "英国",
+  "birth": 1926,
+  "death": 2005,
+  "birth_year": 1926,
+  "death_year": 2005,
+  "era": "现当代",
+  "summary": "福尔斯，英国Leigh-on-Sea生，小说家——2005年卒于Lyme Regis（B399）。The French Lieutenant's Woman（法国中尉的女人, 1969，电影1981）——'arguably Fowles's best-known work'——19世纪英国爱情故事——'combined elements of the Victorian novel with postmodern works and featured alternate endings'（维多利亚小说与后现代的混合、多重结局——B399）。The Collector (1963)——'about a shy man who kidnaps a girl in a hapless search for love'（B399）。'combine psychological probings—chiefly of sex and love—with an interest in social and philosophical issues'（B399）。",
+  "timeline": [
+    {
+      "year": 1926,
+      "text": "3月31日生于英国Leigh-on-Sea（B399）。",
+      "src": "B399"
+    },
+    {
+      "year": 1963,
+      "text": "The Collector（收藏家）（B399）。",
+      "src": "B399"
+    },
+    {
+      "year": 1969,
+      "text": "《法国中尉的女人》（B399）。",
+      "src": "B399"
+    },
+    {
+      "year": 2005,
+      "text": "11月5日卒于Lyme Regis（B399）。",
+      "src": "B399"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "faguozhongweidenvren",
+      "note": "1969（B399）"
+    },
+    {
+      "title": "收藏家",
+      "note": "（B399：The Collector (1963)——中译名待核）"
+    },
+    {
+      "title": "魔术师",
+      "note": "（B399：The Magus (1965)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'维多利亚小说与后现代的混合'（B399：combined elements...）。",
+    "'多重结局'（B399：featured alternate endings）。",
+    "'心理探询（性与爱）+社会哲学关切'（B399）。"
+  ],
+  "status": "Britannica 定位福尔斯为《法国中尉的女人》作者（B399）。",
+  "sources": [
+    "B399"
+  ],
+  "dates_source": "B399",
+  "pending": [
+    "《法国中尉的女人》通行译名待核。",
+    "'多重结局'细节（两种结局说——通说）待核。",
+    "萨拉人物细节待核（B399未载）。"
+  ]
+}

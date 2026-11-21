@@ -1,0 +1,105 @@
+{
+  "id": "faguozhongweidenvren",
+  "title": "法国中尉的女人",
+  "original_title": "The French Lieutenant's Woman",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fowles",
+  "author_name": "约翰·福尔斯",
+  "year_display": "1969年（Britannica B399：The French Lieutenant's Woman (1969; filmed 1981)——'arguably Fowles's best-known work'）",
+  "year_sort": 1969,
+  "background": [
+    "Britannica（B399）：'combined elements of the Victorian novel with postmodern works and featured alternate endings'（维多利亚小说与后现代的混合、多重结局）。",
+    "Britannica（B399）：'arguably Fowles's best-known work'——19世纪英国爱情故事。",
+    "Britannica（B399）：福尔斯——'combine psychological probings—chiefly of sex and love—with an interest in social and philosophical issues'。"
+  ],
+  "outline": [
+    "（通说待核——B399未载剧情）萨拉·伍德拉夫与化石学家查尔斯的维多利亚恋情。",
+    "（通说待核）'多重结局'：叙述者的两难选择（B399：featured alternate endings）。"
+  ],
+  "characters": [
+    {
+      "name": "萨拉·伍德拉夫",
+      "identity": "'法国中尉的女人'",
+      "note": "（通说待核，B399未载）"
+    },
+    {
+      "name": "查尔斯·史密森",
+      "identity": "化石学家",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'维多利亚小说与后现代的混合'（B399）。",
+    "'多重结局'（B399：alternate endings）。",
+    "'性与爱的心理探询'（B399：psychological probings）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'arguably Fowles's best-known work'（B399）。",
+      "source": "B399"
+    },
+    {
+      "text": "Britannica：1981年电影改编（B399）。",
+      "source": "B399"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "叙述者闯入（第13章——通说待核）。",
+      "维多利亚习俗与达尔文主义（通说待核）。"
+    ],
+    "editions": [
+      "《法国中尉的女人》中译本（人民文学/百花等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "福尔斯代表作；与《收藏家》对读。"
+  },
+  "pending": [
+    "萨拉/查尔斯人名核对（通说）。",
+    "1969年出版（Jonathan Cape说）待核。",
+    "'两种结局'细节待核（通说）。"
+  ],
+  "sources": [
+    "B399"
+  ],
+  "year_source": "B399",
+  "author_source": "B399",
+  "related_works": [
+    "aimaa",
+    "kasiteqiaoshizhang",
+    "fudi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《法国中尉的女人》多重结局图",
+    "cards": [
+      {
+        "title": "萨拉",
+        "text": "码头的谜（通说）",
+        "color": "main"
+      },
+      {
+        "title": "多重结局",
+        "text": "'alternate endings'（B399）",
+        "color": "gold"
+      },
+      {
+        "title": "维多利亚",
+        "text": "与后现代的混合（B399）",
+        "color": "family"
+      },
+      {
+        "title": "化石",
+        "text": "时间的层理（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

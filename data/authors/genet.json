@@ -1,0 +1,68 @@
+{
+  "id": "genet",
+  "name": "让·热内",
+  "foreign_name": "Jean Genet（让·热内，1910-12-19—1986-04-15）",
+  "country": "法国",
+  "birth": 1910,
+  "death": 1986,
+  "birth_year": 1910,
+  "death_year": 1986,
+  "era": "近代",
+  "summary": "热内，巴黎生，法国作家——'a French criminal and social outcast turned writer'（罪犯与被弃者转作家——B400）；'transformed erotic and often obscene subject matter into a poetic vision of the universe'（把情色甚至猥亵题材转化为宇宙的诗性图景——B400）。Notre-Dame des Fleurs（鲜花圣母, 1943）——1942年囚于Fresnes狱中写——'vividly portray[s] the prewar Montmartre underworld'（B400）。The Maids (1947)、The Balcony (1956)、The Screens (1961)（B400）。'This Theatre of Hatred attempts to wrest the maximum dramatic power from a social or political situation'（'憎恨的剧场'——B400）。'pardoned in advance'（第十次定罪后作家代表团请愿获终身赦免——B400）。",
+  "timeline": [
+    {
+      "year": 1910,
+      "text": "12月19日生于巴黎（B400）。",
+      "src": "B400"
+    },
+    {
+      "year": 1942,
+      "text": "Fresnes狱中开始写作（《鲜花圣母》——B400）。",
+      "src": "B400"
+    },
+    {
+      "year": 1947,
+      "text": "The Maids 与 Querelle de Brest（B400）。",
+      "src": "B400"
+    },
+    {
+      "year": 1949,
+      "text": "第十次定罪后获'预先赦免'（B400：pardoned in advance）。",
+      "src": "B400"
+    },
+    {
+      "year": 1986,
+      "text": "4月15日卒于巴黎（B400）。",
+      "src": "B400"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xianhuashengmu",
+      "note": "1943（B400）"
+    },
+    {
+      "title": "女仆",
+      "note": "（B400：Les Bonnes (1947)——中译名待核）"
+    },
+    {
+      "title": "小偷日记",
+      "note": "（B400：Journal du voleur (1949)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'情色与猥亵题材的诗性宇宙'（B400：poetic vision of the universe）。",
+    "'憎恨的剧场'（B400：Theatre of Hatred）。",
+    "'最极端的反叛与无政府主义'（B400：anarchist of the most extreme sort）。"
+  ],
+  "status": "Britannica 定位热内为'罪犯转作家'、憎恨剧场的创造者（B400）。",
+  "sources": [
+    "B400"
+  ],
+  "dates_source": "B400",
+  "pending": [
+    "《鲜花圣母》通行译名（《玫瑰花与播音婢》两说——待核）。",
+    "'预先赦免'细节核对（B400口径）。",
+    "萨特《圣热内》说——B400页未提（不采）。"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "xianhuashengmu",
+  "title": "鲜花圣母",
+  "original_title": "Notre-Dame des Fleurs",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "genet",
+  "author_name": "让·热内",
+  "year_display": "1943年（Britannica B400：Notre-Dame des Fleurs (1943)——1942年Fresnes狱中写）",
+  "year_sort": 1943,
+  "background": [
+    "Britannica（B400）：'vividly portray[s] the prewar Montmartre underworld of thugs, pimps, and perverts'（生动描绘战前蒙马特的黑社会——恶棍、皮条客与'变态者'）。",
+    "Britannica（B400）：'transformed erotic and often obscene subject matter into a poetic vision of the universe'（把情色甚至猥亵题材转化为宇宙的诗性图景）。",
+    "Britannica（B400）：热内——'a French criminal and social outcast turned writer'；1942年囚于 Fresnes 狱中写。"
+  ],
+  "outline": [
+    "（通说待核——B400未载剧情）圣母神像与死去的'娇美'达令：狱中的想象葬礼。",
+    "（通说待核）蒙马特黑社会的'圣徒传'式颠倒。"
+  ],
+  "characters": [
+    {
+      "name": "'娇美'达令",
+      "identity": "死者/神像",
+      "note": "（通说待核，B400未载）"
+    },
+    {
+      "name": "圣母",
+      "identity": "狱中幻象",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'黑社会的圣徒传'（通说待核）。",
+    "'情色题材的诗性宇宙'（B400）。",
+    "葬礼作为创作（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'vividly portray[s] the prewar Montmartre underworld'（B400）。",
+      "source": "B400"
+    },
+    {
+      "text": "Britannica：'poetic vision of the universe'（B400）。",
+      "source": "B400"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'颠倒'的圣徒传语体。",
+      "狱中写作的伦理。"
+    ],
+    "editions": [
+      "《鲜花圣母》中译名（《玫瑰奇迹》）待核。",
+      "法文原版。"
+    ],
+    "order": "热内首选；与《小偷日记》对读。"
+  },
+  "pending": [
+    "'娇美'达令名核对（Divine说——通说）。",
+    "1943年出版（Morihien私下印说）待核。",
+    "'蒙马特'细节待核。"
+  ],
+  "sources": [
+    "B400"
+  ],
+  "year_source": "B400",
+  "author_source": "B400",
+  "related_works": [
+    "wuzhizidezi",
+    "qiaowandefangjian",
+    "zenodeyishi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《鲜花圣母》狱中幻象图",
+    "cards": [
+      {
+        "title": "圣母",
+        "text": "狱中的幻象（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "葬礼",
+        "text": "想象的仪式（通说）",
+        "color": "main"
+      },
+      {
+        "title": "蒙马特",
+        "text": "黑社会的圣传（B400）",
+        "color": "antagonist"
+      },
+      {
+        "title": "诗性",
+        "text": "'宇宙的图景'（B400）",
+        "color": "family"
+      }
+    ]
+  }
+}
