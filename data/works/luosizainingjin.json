@@ -1,0 +1,104 @@
+{
+  "id": "luosizainingjin",
+  "title": "螺丝在拧紧",
+  "original_title": "The Turn of the Screw",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "19世纪末",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "henryjames",
+  "author_name": "亨利·詹姆斯",
+  "year_display": "1898年（作者页B297口径：The Turn of the Screw (1898)——'best remembered'）",
+  "year_sort": 1898,
+  "background": [
+    "Britannica（B297）：'Today he is best remembered as the author of the novel The Portrait of a Lady (1881) and the novella The Turn of the Screw (1898).'（B297）。",
+    "作者（B297）：'a key transitional figure between literary realism and Modernism'。",
+    "题材（通说待核）：家庭女教师与两个孩子的幽灵故事——'被污染的'哥特叙事。"
+  ],
+  "outline": [
+    "女教师的幽灵见闻：'看不见的'恐惧（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "女教师",
+      "identity": "家庭教师",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "迈尔斯与弗洛拉",
+      "identity": "孩子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'幽灵'与'心理'的双重解读（通说待核）。",
+    "不可靠叙述（通说待核）。",
+    "哥特与心理的融合（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'best remembered as the author of……The Turn of the Screw (1898)'（B297）。",
+      "source": "B297"
+    },
+    {
+      "text": "作者页：'key transitional figure between literary realism and Modernism'（B297 作者级）。",
+      "source": "B297"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'幽灵'还是'幻觉'的解读。",
+      "叙事框套。"
+    ],
+    "editions": [
+      "《螺丝在拧紧》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "亨利·詹姆斯哥特之作。"
+  },
+  "pending": [
+    "1898年出版（Macmillan说）核对。",
+    "女教师/迈尔斯/弗洛拉人名核对。",
+    "'幽灵还是幻觉'的学术争论待核。"
+  ],
+  "sources": [
+    "B297"
+  ],
+  "year_source": "B297",
+  "author_source": "B297",
+  "related_works": [
+    "jianWenzhaji",
+    "weite",
+    "嘉莉妹妹"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "哥特结构图",
+    "cards": [
+      {
+        "title": "女教师",
+        "text": "幽灵的目击者（通说）",
+        "color": "main"
+      },
+      {
+        "title": "孩子",
+        "text": "迈尔斯与弗洛拉",
+        "color": "gold"
+      },
+      {
+        "title": "幽灵",
+        "text": "看不见的威胁",
+        "color": "antagonist"
+      },
+      {
+        "title": "解读",
+        "text": "幽灵还是幻觉",
+        "color": "family"
+      }
+    ]
+  }
+}

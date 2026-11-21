@@ -10,14 +10,14 @@
   "language": "英语",
   "author_id": "oconnor",
   "author_name": "弗兰纳里·奥康纳",
-  "year_display": "1952年（作者页 B291 口径：Wise Blood (1952)）",
+  "year_display": "1952年（作者页B291口径：Wise Blood (1952)）",
   "year_sort": 1952,
   "background": [
     "作者页（B291）：奥康纳 major_works 载'Wise Blood (1952)'（B291 作者页定位，详见 haorennanxun 条核对）。",
     "题材（通说待核）：退伍兵黑兹尔·莫茨的'无教会'布道——拒绝基督却离不开基督。"
   ],
   "outline": [
-    "黑兹尔创立'无基督之教'——荒诞布道与最后的自毁（通说待核）。"
+    "黑兹尔创立'无教会之教'——荒诞布道与最后的自毁（通说待核）。"
   ],
   "characters": [
     {
@@ -76,7 +76,7 @@
     "type": "grid",
     "width": 680,
     "height": 340,
-    "caption": "《慧血》悖论结构图",
+    "caption": "悖论结构图",
     "cards": [
       {
         "title": "无教会",

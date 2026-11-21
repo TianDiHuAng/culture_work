@@ -1,0 +1,103 @@
+{
+  "id": "quanliyurongyao",
+  "title": "权力与荣耀",
+  "original_title": "The Power and the Glory",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "greene",
+  "author_name": "格雷厄姆·格林",
+  "year_display": "1940年（Britannica B320：The Power and the Glory (1940)）",
+  "year_sort": 1940,
+  "background": [
+    "Britannica（B320）：'Many of his best-known works, including The Power and the Glory (1940)……center on Roman Catholic themes'；'emphasize the presence of evil as a palpable force'。",
+    "题材（通说待核）：墨西哥革命时期一名威士忌神父的逃亡——'威士忌神父'的殉道。"
+  ],
+  "outline": [
+    "无名神父在宗教迫害下逃亡——最终自愿返回送死（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "神父",
+      "identity": "天主教神父",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "中尉",
+      "identity": "追捕者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "信仰与迫害（通说待核）。",
+    "'恶'作为可感的实在（B320：evil as a palpable force）。",
+    "殉道的含混性（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'The Power and the Glory (1940)……center on Roman Catholic themes'（B320）。",
+      "source": "B320"
+    },
+    {
+      "text": "Britannica：格林'one of the most widely read British novelists of the 20th century'（B320 作者级）。",
+      "source": "B320"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "天主教语境。",
+      "墨西哥革命史。"
+    ],
+    "editions": [
+      "《权力与荣耀》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "格林代表作。"
+  },
+  "pending": [
+    "1940年出版（Heinemann说）核对。",
+    "神父/中尉人名核对。",
+    "'威士忌神父'绰号待核。"
+  ],
+  "sources": [
+    "B320"
+  ],
+  "year_source": "B320",
+  "author_source": "B320",
+  "related_works": [
+    "lianqingdezhongjie",
+    "muqin_brecht",
+    "fengsheng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "殉道结构图",
+    "cards": [
+      {
+        "title": "逃亡",
+        "text": "威士忌神父",
+        "color": "main"
+      },
+      {
+        "title": "追捕",
+        "text": "中尉的追踪",
+        "color": "antagonist"
+      },
+      {
+        "title": "殉道",
+        "text": "信仰的代价",
+        "color": "gold"
+      },
+      {
+        "title": "天主教",
+        "text": "B320 主题",
+        "color": "family"
+      }
+    ]
+  }
+}

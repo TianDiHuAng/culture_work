@@ -1,0 +1,99 @@
+{
+  "id": "yigepingnianyishujiadehuaxiang",
+  "title": "一个青年艺术家的画像",
+  "original_title": "A Portrait of the Artist as a Young Man",
+  "region": "爱尔兰",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "joyce",
+  "author_name": "詹姆斯·乔伊斯",
+  "year_display": "1916年（作者页B321口径：A Portrait of the Artist as a Young Man (1916)）",
+  "year_sort": 1916,
+  "background": [
+    "Britannica（B321）：乔伊斯 major works 含'A Portrait of the Artist as a Young Man (1916)'（B321 作者页定位）。",
+    "作者（B321）：'His literary masterpiece is Ulysses (1922)'；Dubliners (1914)。",
+    "题材（通说待核）：斯蒂芬·迪达勒斯从童年到大学的成长——'艺术家画像'的自传性小说。"
+  ],
+  "outline": [
+    "斯蒂芬·迪达勒斯：从童年到大学——宗教、家庭、艺术的觉醒（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "斯蒂芬·迪达勒斯",
+      "identity": "青年",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "成长小说与艺术觉醒（通说待核）。",
+    "'流亡即我的艺术'（通说待核）。",
+    "意识流前奏（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：乔伊斯代表作（B321 作者页口径）。",
+      "source": "B321"
+    },
+    {
+      "text": "作者页：乔伊斯'His literary masterpiece is Ulysses'（B321 作者级）。",
+      "source": "B321"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "意识流前奏的叙事。",
+      "爱尔兰天主教背景。"
+    ],
+    "editions": [
+      "《一个青年艺术家的画像》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先《都柏林人》后本作→《尤利西斯》。"
+  },
+  "pending": [
+    "1916年出版（B.W. Huebsch说）核对。",
+    "斯蒂芬·迪达勒斯人名核对。",
+    "'流亡即我的艺术'出处待核。"
+  ],
+  "sources": [
+    "B321"
+  ],
+  "year_source": "B321",
+  "author_source": "B321",
+  "related_works": [
+    "dubolinen",
+    "youlisisi",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "成长结构图",
+    "cards": [
+      {
+        "title": "童年",
+        "text": "教会学校",
+        "color": "family"
+      },
+      {
+        "title": "觉醒",
+        "text": "性与宗教",
+        "color": "main"
+      },
+      {
+        "title": "流亡",
+        "text": "'流亡即我的艺术'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "艺术家",
+        "text": "画像的完成",
+        "color": "plain"
+      }
+    ]
+  }
+}

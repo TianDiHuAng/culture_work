@@ -1,0 +1,104 @@
+{
+  "id": "meiguodebeiju",
+  "title": "美国的悲剧",
+  "original_title": "An American Tragedy",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "delaise",
+  "author_name": "西奥多·德莱塞",
+  "year_display": "1925年（作者页B280口径：An American Tragedy (1925)——'brought Dreiser a degree of critical and commercial success he had never before attained'）",
+  "year_sort": 1925,
+  "background": [
+    "Britannica（B280）：'In 1925 Dreiser's first novel in a decade, An American Tragedy, based on a celebrated murder case, was published'；'This book brought Dreiser a degree of critical and commercial success he had never before attained'。",
+    "题材（通说待核）：克莱德·格里菲思的犯罪与处决——美国梦的黑暗面。",
+    "'The book's highly critical view of the American legal system also made him the adopted champion of social reformers.'（B280）。"
+  ],
+  "outline": [
+    "克莱德的阶级攀附与谋杀：美国梦的黑暗面（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "克莱德·格里菲思",
+      "identity": "青年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "桑德拉",
+      "identity": "富家女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "美国梦的黑暗面（B280：critical view of the American legal system）。",
+    "自然主义：'determinism'（B280）。",
+    "阶级与欲望（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'brought Dreiser a degree of critical and commercial success he had never before attained'（B280）。",
+      "source": "B280"
+    },
+    {
+      "text": "Britannica：'adopted champion of social reformers'（B280）。",
+      "source": "B280"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长篇的体量（两卷）。",
+      "1920年代美国社会。"
+    ],
+    "editions": [
+      "《美国的悲剧》（人民文学出版社，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "德莱塞代表作。"
+  },
+  "pending": [
+    "1925年出版（Bonif & Liveright说）核对。",
+    "克莱德/桑德拉人名核对。",
+    "两卷本结构待核。"
+  ],
+  "sources": [
+    "B280"
+  ],
+  "year_source": "B280",
+  "author_source": "B280",
+  "related_works": [
+    "jialimeimei",
+    "fenwangyu",
+    "taiyangzhaochangshengqi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "美国梦黑暗面图",
+    "cards": [
+      {
+        "title": "克莱德",
+        "text": "阶级的攀附",
+        "color": "main"
+      },
+      {
+        "title": "谋杀",
+        "text": "欲望的代价",
+        "color": "antagonist"
+      },
+      {
+        "title": "审判",
+        "text": "法律的虚伪（B280）",
+        "color": "gold"
+      },
+      {
+        "title": "美国梦",
+        "text": "黑暗的一面",
+        "color": "family"
+      }
+    ]
+  }
+}

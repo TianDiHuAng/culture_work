@@ -1,0 +1,104 @@
+{
+  "id": "songbingerenlaile",
+  "title": "送冰的人来了",
+  "original_title": "The Iceman Cometh",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "ONeill",
+  "author_name": "尤金·奥尼尔",
+  "year_display": "1946年（作者页B272口径：The Iceman Cometh (1946)——'Considered by many to be ONeill's finest work'——页面问答）",
+  "year_sort": 1946,
+  "background": [
+    "Britannica（B272）：The Iceman Cometh (1946)——'Considered by many to be ONeill's finest work'（页面问答——B272）。",
+    "作者（B272）：四项普利策戏剧奖；1936诺奖。",
+    "场景（通说待核）：纽约一间酒吧的酒鬼群像——希基的'福音'与幻灭。"
+  ],
+  "outline": [
+    "希基的到来：酒吧酒鬼们的幻灭——'没有明天'（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "希基",
+      "identity": "推销员",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "哈里·霍普",
+      "identity": "酒吧主",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "' pipe dream'（白日梦）的幻灭（通说待核）。",
+    "推销员的'福音'：放弃希望即自由（通说待核）。",
+    "酒鬼群像的悲剧（通说）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Considered by many to be ONeill's finest work'（B272 页面问答）。",
+      "source": "B272"
+    },
+    {
+      "text": "Britannica：奥尼尔1936诺奖、四项普利策奖（B272）。",
+      "source": "B272"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "酒鬼群像的人物表。",
+      "'白日梦'的戏剧概念。"
+    ],
+    "editions": [
+      "《送冰的人来了》（人民文学出版社/湖南文艺出版社版本，通说待核）。",
+      "英文原版（Yale）。"
+    ],
+    "order": "奥尼尔晚期杰作。"
+  },
+  "pending": [
+    "1946年首演（Martin Beck Theatre说）核对。",
+    "希基/哈里·霍普人名核对。",
+    "'pipe dream'术语核对。"
+  ],
+  "sources": [
+    "B272"
+  ],
+  "year_source": "B272",
+  "author_source": "B272",
+  "related_works": [
+    "manchangdeheian",
+    "leiyu",
+    "dengdaigou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "酒吧群像图",
+    "cards": [
+      {
+        "title": "希基",
+        "text": "送冰的推销员（通说）",
+        "color": "main"
+      },
+      {
+        "title": "酒吧",
+        "text": "酒鬼的避难所",
+        "color": "family"
+      },
+      {
+        "title": "pipe dream",
+        "text": "白日梦（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "幻灭",
+        "text": "希望的终结",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

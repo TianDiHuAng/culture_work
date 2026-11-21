@@ -10,11 +10,12 @@
   "language": "英语",
   "author_id": "barnes",
   "author_name": "朱利安·巴恩斯",
-  "year_display": "2011年（Britannica：2011年布克奖——'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'）",
+  "year_display": "2011年（作者页B290口径：2011年布克奖——'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'）",
   "year_sort": 2011,
   "background": [
     "作者页（B290）：巴恩斯 major_works 载'终结的感觉'（B290 作者页定位，详见 fuloubaideyingwu 条核对）。",
-    "Britannica（B290）：'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'（以不可靠叙述者探察记忆与衰老——B290）。"
+    "Britannica（B290）：2011年布克奖——'a Booker Prize-winning novel that uses an unreliable narrator to explore the subjects of memory and aging'（以不可靠叙述者探察记忆与衰老——B290）。",
+    "作者（B290）：'inventive and intellectual novels about obsessed characters curious about the past'。"
   ],
   "outline": [
     "退休律师托尼的回忆被一封遗嘱与一封信改写（通说待核）。",
@@ -77,7 +78,7 @@
     "type": "grid",
     "width": 680,
     "height": 340,
-    "caption": "《终结的感觉》记忆结构图",
+    "caption": "记忆结构图",
     "cards": [
       {
         "title": "遗嘱",

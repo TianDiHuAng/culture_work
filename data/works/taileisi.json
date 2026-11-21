@@ -10,11 +10,12 @@
   "language": "法语",
   "author_id": "mauriac",
   "author_name": "弗朗索瓦·莫里亚克",
-  "year_display": "1927年（作者页 B289 口径：Thérèse Desqueyroux published 1927）",
+  "year_display": "1927年（作者页B289口径：Thérèse Desqueyroux published 1927）",
   "year_sort": 1927,
   "background": [
-    "作者页（B289）：莫里亚克 major_works 载'苔蕾丝·德斯盖鲁'（B289 作者页定位，详见 aidewangmo 条核对）。",
-    "Britannica（B289）：'whose heroine is driven to attempt the murder of her husband to escape her suffocating life'（女主人公为逃离窒息生活而试图谋杀丈夫——B289）。"
+    "Britannica（B289）：莫里亚克 major_works 载'苔蕾丝·德斯盖鲁'（B289 作者页定位，详见 aidewangmo 条核对）。",
+    "Britannica（B289）：'whose heroine is driven to attempt the murder of her husband to escape her suffocating life'（女主人公为逃离窒息生活而试图谋杀丈夫——B289）。",
+    "作者（B289）：1952诺奖。"
   ],
   "outline": [
     "苔蕾丝毒害丈夫伯纳德未遂——家族的'庇护'与无罪释放（通说待核）。",
@@ -77,7 +78,7 @@
     "type": "grid",
     "width": 680,
     "height": 340,
-    "caption": "《苔蕾丝》窒息结构图",
+    "caption": "窒息结构图",
     "cards": [
       {
         "title": "投毒",
