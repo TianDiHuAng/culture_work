@@ -1,0 +1,68 @@
+{
+  "id": "modiano",
+  "name": "帕特里克·莫迪亚诺",
+  "foreign_name": "Patrick Modiano（帕特里克·莫迪亚诺，1945-07-30—）",
+  "country": "法国",
+  "birth": 1945,
+  "death": null,
+  "birth_year": 1945,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "莫迪亚诺，法国Boulogne-Billancourt生，作家——2014年诺贝尔文学奖——瑞典学院'the art of memory with which he has evoked the most ungraspable human destinies'（以记忆的艺术唤起最难把握的人类命运——B382）。Rue des boutiques obscures（暗铺街, 1978）——失忆者寻找自我身份的惊悚——龚古尔奖（B382）。Dora Bruder（朵拉·布吕德, 1997）——重构失踪犹太少女的一生（B382）。被占巴黎'almost functioning as a character in his books'（B382）。评论——'so spare and elliptical that the words seem only lightly attached to the page'（B382）。",
+  "timeline": [
+    {
+      "year": 1945,
+      "text": "7月30日生于Boulogne-Billancourt（B382）。",
+      "src": "B382"
+    },
+    {
+      "year": 1968,
+      "text": "La Place de l'Étoile——首作（B382）。",
+      "src": "B382"
+    },
+    {
+      "year": 1978,
+      "text": "《暗铺街》——龚古尔奖（B382）。",
+      "src": "B382"
+    },
+    {
+      "year": 1997,
+      "text": "Dora Bruder（朵拉·布吕德）（B382）。",
+      "src": "B382"
+    },
+    {
+      "year": 2014,
+      "text": "获诺贝尔文学奖（B382）。",
+      "src": "B382"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "anpujie",
+      "note": "1978龚古尔奖（B382）"
+    },
+    {
+      "work_id": "duolabulude",
+      "note": "1997（B382）"
+    },
+    {
+      "title": "夜半撞车",
+      "note": "（B382 口径外——不采）"
+    }
+  ],
+  "style": [
+    "'记忆的艺术'（B382：the art of memory）。",
+    "'如此简洁与省略，词似乎轻轻附着在纸页上'（B382 评论）。",
+    "被占巴黎作为'书中人物'（B382）。"
+  ],
+  "status": "Britannica 定位莫迪亚诺为2014诺奖得主、'记忆的艺术'的实践者（B382）。",
+  "sources": [
+    "B382"
+  ],
+  "dates_source": "B382",
+  "pending": [
+    "《暗铺街》通行译名（《暗店街》）待核。",
+    "'与普鲁斯特相比'说法（B382：sometimes likened）待核。",
+    "Lacombe Lucien 剧本细节待核。"
+  ]
+}

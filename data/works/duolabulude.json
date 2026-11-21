@@ -1,0 +1,105 @@
+{
+  "id": "duolabulude",
+  "title": "朵拉·布吕德",
+  "original_title": "Dora Bruder",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪90年代末",
+  "genre": "纪实文学（档案叙事）",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "modiano",
+  "author_name": "帕特里克·莫迪亚诺",
+  "year_display": "1997年（Britannica B382：Dora Bruder (1997; The Search Warrant)）",
+  "year_sort": 1997,
+  "background": [
+    "Britannica（B382）：Dora Bruder——'An effort to reconstruct the life of a missing Jewish girl'（重构一位失踪犹太少女的一生）。",
+    "Britannica（B382）：莫迪亚诺——'the art of memory with which he has evoked the most ungraspable human destinies'（诺奖授奖词）。",
+    "题材（通说待核）：从旧报纸寻人启事出发——档案、地址与'维希'的空缺。"
+  ],
+  "outline": [
+    "（通说待核）1941年《巴黎晨报》寻人启事：15岁的朵拉离家。",
+    "（通说待核）档案的空缺与作者的填补。"
+  ],
+  "characters": [
+    {
+      "name": "朵拉·布吕德",
+      "identity": "失踪少女",
+      "note": "（B382 书名人物）"
+    },
+    {
+      "name": "欧内斯特·布吕德",
+      "identity": "父亲",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "档案与记忆的伦理（B382：reconstruct the life）。",
+    "'最难把握的人类命运'（B382 诺奖引语）。",
+    "维希法国的追索（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'An effort to reconstruct the life of a missing Jewish girl'（B382）。",
+      "source": "B382"
+    },
+    {
+      "text": "Britannica：2014诺奖授奖词（B382）。",
+      "source": "B382"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "档案叙事的空缺美学。",
+      "维希法国史。"
+    ],
+    "editions": [
+      "《朵拉·布吕德》中译名（《失踪女子》）待核。",
+      "法文原版。"
+    ],
+    "order": "莫迪亚诺非虚构篇；与《暗铺街》对读。"
+  },
+  "pending": [
+    "朵拉档案细节核对（通说）。",
+    "1997年出版细节待核。",
+    "英译名 The Search Warrant（B382）核对。"
+  ],
+  "sources": [
+    "B382"
+  ],
+  "year_source": "B382",
+  "author_source": "B382",
+  "related_works": [
+    "anpujie",
+    "suiyue",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《朵拉·布吕德》档案结构图",
+    "cards": [
+      {
+        "title": "寻人启事",
+        "text": "1941年的线索（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "朵拉",
+        "text": "失踪的少女（B382）",
+        "color": "main"
+      },
+      {
+        "title": "档案",
+        "text": "空缺的填补（B382语境）",
+        "color": "family"
+      },
+      {
+        "title": "维希",
+        "text": "追索的年代（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

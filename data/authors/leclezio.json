@@ -1,0 +1,63 @@
+{
+  "id": "leclezio",
+  "name": "让-马里·古斯塔夫·勒克莱齐奥",
+  "foreign_name": "Jean-Marie Gustave Le Clézio（让-马里·古斯塔夫·勒克莱齐奥，1940-04-13—）",
+  "country": "法国",
+  "birth": 1940,
+  "death": null,
+  "birth_year": 1940,
+  "death_year": null,
+  "era": "现当代",
+  "summary": "勒克莱齐奥，尼斯生，法国作家——2008年诺贝尔文学奖（B381）。Désert（沙漠, 1980）——法兰西学院保罗·莫朗大奖——主角'a North African Berber separated from her past and her cultural inheritance'（与自己的过去和文化遗产分离的北非柏柏尔女子——B381）。'known for his intricate, seductive fiction and distinctive works of nonfiction that mediate between the past and the present'（B381）；'a compassionate and evocative portrayal of the disenfranchised and displaced in search of meaning, identity, and reintegration'（B381）。Le Procès-verbal (1963)——勒诺多奖（B381）。",
+  "timeline": [
+    {
+      "year": 1940,
+      "text": "4月13日生于尼斯（B381）。",
+      "src": "B381"
+    },
+    {
+      "year": 1963,
+      "text": "Le Procès-verbal——勒诺多奖（B381）。",
+      "src": "B381"
+    },
+    {
+      "year": 1980,
+      "text": "Désert（沙漠）——保罗·莫朗大奖（B381）。",
+      "src": "B381"
+    },
+    {
+      "year": 2008,
+      "text": "获诺贝尔文学奖（B381）。",
+      "src": "B381"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "sha",
+      "note": "1980（B381）"
+    },
+    {
+      "title": "诉讼笔录",
+      "note": "（B381：Le Procès-verbal (1963)——中译名待核）"
+    },
+    {
+      "title": "非洲人",
+      "note": "（B381：L'Africain (2004)——父亲重逢回忆录）"
+    }
+  ],
+  "style": [
+    "'繁复而迷人'的小说与沟通古今的非虚构（B381）。",
+    "'流离失所者寻找意义、身份与重新融入'的悲悯画像（B381）。",
+    "'独立于新小说派'（B381：emerged independently）。"
+  ],
+  "status": "Britannica 定位勒克莱齐奥为2008诺奖得主、无根者与边缘者的书写者（B381）。",
+  "sources": [
+    "B381"
+  ],
+  "dates_source": "B381",
+  "pending": [
+    "《沙漠》通行译名待核。",
+    "'尼日利亚童年'（Onitsha——B381）细节待核。",
+    "与毛里求斯家族史的关联待核。"
+  ]
+}

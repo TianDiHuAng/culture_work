@@ -1,0 +1,100 @@
+{
+  "id": "anpujie",
+  "title": "暗铺街",
+  "original_title": "Rue des boutiques obscures",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪70年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "modiano",
+  "author_name": "帕特里克·莫迪亚诺",
+  "year_display": "1978年（Britannica B382：Rue des boutiques obscures (1978; Missing Person)——龚古尔奖）",
+  "year_sort": 1978,
+  "background": [
+    "Britannica（B382）：'a thriller in which a man with amnesia searches for his own identity'——失忆者寻找自我身份的惊悚——龚古尔奖。",
+    "Britannica（B382）：莫迪亚诺——'the art of memory'——被占巴黎'almost functioning as a character in his books'。",
+    "Britannica（B382）：评论——'so spare and elliptical that the words seem only lightly attached to the page'。"
+  ],
+  "outline": [
+    "（通说待核——B382未载剧情）私家侦探于特失忆：寻找'吉米·罗德里格斯'。",
+    "（通说待核）'巴黎的雪'与战时的痕迹。"
+  ],
+  "characters": [
+    {
+      "name": "于特",
+      "identity": "失忆侦探",
+      "note": "（通说待核，B382未载）"
+    }
+  ],
+  "themes": [
+    "'记忆的艺术'（B382）。",
+    "身份的空洞与追踪（书名语境——通说待核）。",
+    "被占巴黎的幽灵（B382：almost functioning as a character）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：龚古尔奖（B382）。",
+      "source": "B382"
+    },
+    {
+      "text": "Britannica：2014诺奖（B382 交叉）。",
+      "source": "B382"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "失忆叙事的线索。",
+      "1960年代巴黎地名。"
+    ],
+    "editions": [
+      "《暗铺街》中译名（《暗店街》）待核。",
+      "法文原版。"
+    ],
+    "order": "莫迪亚诺代表作；后接《朵拉·布吕德》。"
+  },
+  "pending": [
+    "于特/罗德里格斯人名核对（通说）。",
+    "1978年出版细节待核。",
+    "'暗店街'译名两说待核。"
+  ],
+  "sources": [
+    "B382"
+  ],
+  "year_source": "B382",
+  "author_source": "B382",
+  "related_works": [
+    "suiyue",
+    "zenodeyishi",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《暗铺街》失忆结构图",
+    "cards": [
+      {
+        "title": "失忆",
+        "text": "自我的空洞（B382）",
+        "color": "main"
+      },
+      {
+        "title": "暗铺街",
+        "text": "追寻的地址（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "巴黎",
+        "text": "'书中人物'（B382）",
+        "color": "antagonist"
+      },
+      {
+        "title": "省略",
+        "text": "'轻轻附着'的文体（B382）",
+        "color": "family"
+      }
+    ]
+  }
+}
