@@ -1,0 +1,105 @@
+{
+  "id": "qingganjiaoyu",
+  "title": "情感教育",
+  "original_title": "L'Éducation sentimentale",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪60年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "flaubert",
+  "author_name": "居斯塔夫·福楼拜",
+  "year_display": "1869年（作者页注记：Britannica 记'七月王朝史家的必读书'（per Georges Sorel——Britannica 转述））",
+  "year_sort": 1869,
+  "background": [
+    "作者页注记：情感教育 (1869)——'七月王朝史家的必读书'（per Georges Sorel——Britannica 转述）。",
+    "Britannica（B-Bot）：福楼拜——'1857包法利夫人'（作者页语境——待核）。",
+    "题材（通说待核）：弗雷德里克·莫罗的浪漫教育与1848革命的时代幻灭。"
+  ],
+  "outline": [
+    "（通说待核）弗雷德里克与阿尔努夫人：延宕的爱情。",
+    "（通说待核）1848年革命的围观与幻灭。"
+  ],
+  "characters": [
+    {
+      "name": "弗雷德里克·莫罗",
+      "identity": "青年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "阿尔努夫人",
+      "identity": "恋慕对象",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'情感的教育'：延宕与空转（通说待核）。",
+    "1848革命的时代画卷（Sorel 评语语境）。",
+    "浪漫主义的祛魅（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'七月王朝史家的必读书'（per Georges Sorel——作者页注记）。",
+      "source": "B041"
+    },
+    {
+      "text": "Britannica：福楼拜为现代小说文体的奠基者（作者页语境——待核）。",
+      "source": "B041"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1848革命史。",
+      "'零度写作'的客观文体（通说待核）。"
+    ],
+    "editions": [
+      "《情感教育》中译本（人民文学/上海译文等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "福楼拜第二作；与《包法利夫人》对读。"
+  },
+  "pending": [
+    "弗雷德里克/阿尔努人名核对（通说）。",
+    "1869年出版细节待核。",
+    "Sorel 评语原文出处待核。"
+  ],
+  "sources": [
+    "B041"
+  ],
+  "year_source": "B041",
+  "author_source": "B041",
+  "related_works": [
+    "baofalifuren",
+    "baofali",
+    "mengya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《情感教育》幻灭结构图",
+    "cards": [
+      {
+        "title": "弗雷德里克",
+        "text": "延宕的一生（通说）",
+        "color": "main"
+      },
+      {
+        "title": "1848",
+        "text": "革命的围观（Sorel评语语境）",
+        "color": "gold"
+      },
+      {
+        "title": "阿尔努夫人",
+        "text": "不可得的爱（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "教育",
+        "text": "幻灭的课程（书名）",
+        "color": "family"
+      }
+    ]
+  }
+}

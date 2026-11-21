@@ -1,0 +1,105 @@
+{
+  "id": "yalongshalong",
+  "title": "押沙龙，押沙龙！",
+  "original_title": "Absalom, Absalom!",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪30年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "faulkner",
+  "author_name": "威廉·福克纳",
+  "year_display": "1936年（作者页注记：通说待核——Britannica 未载年份）",
+  "year_sort": 1936,
+  "background": [
+    "作者页注记：押沙龙，押沙龙！——'（通说待核）'——Britannica 未载本作细节。",
+    "Britannica（B324）：福克纳1949诺奖；The Sound and the Fury——'radical technical experimentation'（交叉）。",
+    "题材（通说待核）：萨德本百年的兴衰——家族史的多重讲述。"
+  ],
+  "outline": [
+    "（通说待核）萨德本：从西印度到密西西比种植园的'宏伟设计'。",
+    "（通说待核）多重叙述者拼图：昆丁与洛斯的追述。"
+  ],
+  "characters": [
+    {
+      "name": "托马斯·萨德本",
+      "identity": "家族创建者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "昆丁",
+      "identity": "讲述者之一",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "家族史的讲述政治（通说待核）。",
+    "种族与血统的诅咒（通说待核）。",
+    "南方历史的多声部（B324 约克纳帕塔法语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1949诺奖（B324）。",
+      "source": "B210"
+    },
+    {
+      "text": "Britannica：'radical technical experimentation'（B324 交叉）。",
+      "source": "B210"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多重叙述嵌套。",
+      "美国南方种植园史。"
+    ],
+    "editions": [
+      "《押沙龙，押沙龙！》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "福克纳进阶；与《喧哗与骚动》对读。"
+  },
+  "pending": [
+    "1936年出版（Random House说）待核。",
+    "萨德本人名与情节细节核对（通说）。",
+    "圣经押沙龙原型的对应关系待核。"
+  ],
+  "sources": [
+    "B210"
+  ],
+  "year_source": "B210",
+  "author_source": "B210",
+  "related_works": [
+    "xuanhuayusaodong",
+    "kanbujian3",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《押沙龙，押沙龙！》讲述结构图",
+    "cards": [
+      {
+        "title": "萨德本",
+        "text": "'宏伟设计'（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "多重讲述",
+        "text": "历史的拼图（通说）",
+        "color": "main"
+      },
+      {
+        "title": "百年",
+        "text": "家族的兴衰（书名语境）",
+        "color": "gold"
+      },
+      {
+        "title": "诅咒",
+        "text": "血统与种族（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

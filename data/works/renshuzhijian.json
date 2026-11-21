@@ -1,0 +1,105 @@
+{
+  "id": "renshuzhijian",
+  "title": "人鼠之间",
+  "original_title": "Of Mice and Men",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪30年代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "steinbeck",
+  "author_name": "约翰·斯坦贝克",
+  "year_display": "1937年（作者页注记：Britannica——人鼠之间 (1937)）",
+  "year_sort": 1937,
+  "background": [
+    "作者页注记：人鼠之间 (1937)——'短篇经典（Britannica）'。",
+    "Britannica：斯坦贝克——加州农业劳工书写传统（作者页语境——待核）。",
+    "题材（通说待核）：流动工人莱尼与乔治的'农场梦'与悲剧结局。"
+  ],
+  "outline": [
+    "（通说待核）两个流动工人的友谊：大块头莱尼与监护人乔治。",
+    "（通说待核）'驯兔的农场'梦与意外杀人。"
+  ],
+  "characters": [
+    {
+      "name": "莱尼",
+      "identity": "大力但智弱",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "乔治",
+      "identity": "同伴",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "流浪劳工的生存（通说待核）。",
+    "'农场梦'的破灭（通说待核）。",
+    "友谊与 mercy 杀（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：斯坦贝克1962诺奖（作者页语境——待核）。",
+      "source": "B103"
+    },
+    {
+      "text": "Britannica：《愤怒的葡萄》作者级定位（作者页交叉）。",
+      "source": "B103"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "大萧条加州农业史。",
+      "'小剧场'式的章节结构（通说待核）。"
+    ],
+    "editions": [
+      "《人鼠之间》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "斯坦贝克入门首选；后接《愤怒的葡萄》《伊甸之东》。"
+  },
+  "pending": [
+    "莱尼/乔治全名核对（通说）。",
+    "1937年出版（Covici-Friede说）待核。",
+    "与彭斯诗'To a Mouse'书名关系待核。"
+  ],
+  "sources": [
+    "B103"
+  ],
+  "year_source": "B103",
+  "author_source": "B103",
+  "related_works": [
+    "nuhuodeputao",
+    "yidianzhidong",
+    "jialinmeimei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《人鼠之间》农场梦图",
+    "cards": [
+      {
+        "title": "莱尼",
+        "text": "柔软的大力（通说）",
+        "color": "main"
+      },
+      {
+        "title": "乔治",
+        "text": "监护的承诺（通说）",
+        "color": "family"
+      },
+      {
+        "title": "农场梦",
+        "text": "'驯兔'的乌托邦（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "结局",
+        "text": "梦的崩塌（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

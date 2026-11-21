@@ -10,17 +10,50 @@
   "era": "近代",
   "summary": "霍桑，塞勒姆人，'寓言与象征故事的大师'（Britannica：a 'master of the allegorical and symbolic tale' known for moral insight and literary craftsmanship）。塞勒姆清教后裔——祖先参与1692年巫审（Britannica：one ancestor ordered a Quaker woman's public whipping and another judged in the 1692 witch trials）。《红字》（1850）、《七个尖角的阁楼》（1851）（Britannica 列举 famous works）。1850年《红字》出版（Britannica 列举）。1864年5月19日卒于普利茅斯（Britannica）。",
   "timeline": [
-    {"year": "1804-07-04", "text": "生于马萨诸塞州塞勒姆（Britannica：Born July 4, 1804, in Salem, Massachusetts）。", "src": "B147"},
-    {"year": "1821—1825", "text": "鲍登学院（Bowdoin College，Britannica）——与朗费罗、皮尔斯为友（Britannica：Knew Emerson and Thoreau in Concord, and was a close friend of President Franklin Pierce）。", "src": "B147"},
-    {"year": "1842—1846", "text": "婚索菲亚·皮博迪（1842，Britannica）；康科德古宅时期（Britannica：lived at Brook Farm and the Old Manse in Concord）。", "src": "B147"},
-    {"year": "1846—1849", "text": "塞勒姆海关（Britannica：supplemented his writing income with customs work）；1850《红字》出版（Britannica：The Scarlet Letter (1850)）。", "src": "B147"},
-    {"year": "1853—1857", "text": "利物浦领事（Britannica：consulship in Liverpool）。", "src": "B147"},
-    {"year": "1864-05-19", "text": "卒于新罕布什尔州普利茅斯（Britannica：May 19, 1864, in Plymouth, New Hampshire），年五十九。", "src": "B147"}
+    {
+      "year": "1804-07-04",
+      "text": "生于马萨诸塞州塞勒姆（Britannica：Born July 4, 1804, in Salem, Massachusetts）。",
+      "src": "B147"
+    },
+    {
+      "year": "1821—1825",
+      "text": "鲍登学院（Bowdoin College，Britannica）——与朗费罗、皮尔斯为友（Britannica：Knew Emerson and Thoreau in Concord, and was a close friend of President Franklin Pierce）。",
+      "src": "B147"
+    },
+    {
+      "year": "1842—1846",
+      "text": "婚索菲亚·皮博迪（1842，Britannica）；康科德古宅时期（Britannica：lived at Brook Farm and the Old Manse in Concord）。",
+      "src": "B147"
+    },
+    {
+      "year": "1846—1849",
+      "text": "塞勒姆海关（Britannica：supplemented his writing income with customs work）；1850《红字》出版（Britannica：The Scarlet Letter (1850)）。",
+      "src": "B147"
+    },
+    {
+      "year": "1853—1857",
+      "text": "利物浦领事（Britannica：consulship in Liverpool）。",
+      "src": "B147"
+    },
+    {
+      "year": "1864-05-19",
+      "text": "卒于新罕布什尔州普利茅斯（Britannica：May 19, 1864, in Plymouth, New Hampshire），年五十九。",
+      "src": "B147"
+    }
   ],
   "major_works": [
-    {"work_id": "hongzi", "note": "1850；代表作"},
-    {"title": "七个尖角的阁楼（1851）", "note": "（Britannica 列举）"},
-    {"title": "好小伙布朗、拉帕齐尼的女儿", "note": "短篇（Britannica 列举 'Young Goodman Brown,' 'Rappaccini's Daughter'）"}
+    {
+      "work_id": "hongzi",
+      "note": "1850；代表作"
+    },
+    {
+      "work_id": "jianjiaogelou",
+      "note": "（Britannica 列举）"
+    },
+    {
+      "title": "好小伙布朗、拉帕齐尼的女儿",
+      "note": "短篇（Britannica 列举 'Young Goodman Brown,' 'Rappaccini's Daughter'）"
+    }
   ],
   "style": [
     "'寓言与象征'：Britannica——'master of the allegorical and symbolic tale'——道德洞见与文学技巧。",
@@ -28,7 +61,9 @@
     "'罗曼司'（romance）：以小说与浪漫传奇的边界定义其文体（通说待核）。"
   ],
   "status": "Britannica 称霍桑为'widely considered among the greatest fiction writers of 19th-century America'（公认为19世纪美国最伟大的小说家之一）。'霍桑式'的象征与道德重量影响梅尔维尔与整个美国文学（通说待核）。",
-  "sources": ["B147"],
+  "sources": [
+    "B147"
+  ],
   "dates_source": "B147",
   "pending": [
     "海关生涯（1846—49塞勒姆/1853—57利物浦）年份待核。",

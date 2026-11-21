@@ -1,0 +1,105 @@
+{
+  "id": "yigerendeyu",
+  "title": "一个人的遭遇",
+  "original_title": "Судьба человека",
+  "region": "苏联",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "短篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "sholokhov",
+  "author_name": "米哈伊尔·肖洛霍夫",
+  "year_display": "1957年（Britannica B098：一个人的遭遇——Britannica 列举）",
+  "year_sort": 1957,
+  "background": [
+    "作者页（B098）注记：一个人的遭遇 (1957)——'二战短篇经典（Britannica 列举）'。",
+    "Britannica（B098）：肖洛霍夫——哥萨克作家；1965诺贝尔；《静静的顿河》四部(1928-40)为苏联最广泛阅读的小说。",
+    "题材（通说待核）：卫国战争中失去一切的司机索科洛夫——战俘营与重逢。"
+  ],
+  "outline": [
+    "（通说待核——B098未载剧情）索科洛夫的自述：战俘、逃亡与领养孤儿。",
+    "（通说待核）'遭遇'：命运的清单与继续活下去。"
+  ],
+  "characters": [
+    {
+      "name": "索科洛夫",
+      "identity": "司机/老兵",
+      "note": "（通说待核，B098未载）"
+    },
+    {
+      "name": "万尼亚",
+      "identity": "孤儿",
+      "note": "（通说待核，B098未载）"
+    }
+  ],
+  "themes": [
+    "战争创伤的个人史（通说待核）。",
+    "战俘的屈辱与尊严（通说待核）。",
+    "领养：创伤后的救赎（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：肖洛霍夫1965诺贝尔文学奖（B098）。",
+      "source": "B098"
+    },
+    {
+      "text": "Britannica：《静静的顿河》——'苏联最广泛阅读的小说'（B098 交叉）。",
+      "source": "B098"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "卫国战争史。",
+      "第一人称战争叙事传统。"
+    ],
+    "editions": [
+      "《一个人的遭遇》中译本（人民文学等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "肖洛霍夫短篇首选；与《静静的顿河》对读。"
+  },
+  "pending": [
+    "索科洛夫/万尼亚人名核对（B098未载）。",
+    "1957年发表（《真理报》说）待核。",
+    "1959年电影改编说待核。"
+  ],
+  "sources": [
+    "B098"
+  ],
+  "year_source": "B098",
+  "author_source": "B098",
+  "related_works": [
+    "jingjingdedunhe",
+    "tuyuzhizideneizi",
+    "laorenhai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一个人的遭遇》创伤结构图",
+    "cards": [
+      {
+        "title": "索科洛夫",
+        "text": "失去一切的士兵（通说）",
+        "color": "main"
+      },
+      {
+        "title": "战俘营",
+        "text": "屈辱与尊严（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "万尼亚",
+        "text": "领养的救赎（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "遭遇",
+        "text": "命运清单（书名）",
+        "color": "family"
+      }
+    ]
+  }
+}

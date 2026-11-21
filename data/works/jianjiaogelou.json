@@ -1,0 +1,105 @@
+{
+  "id": "jianjiaogelou",
+  "title": "七个尖角的阁楼",
+  "original_title": "The House of the Seven Gables",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hawthorne",
+  "author_name": "纳撒尼尔·霍桑",
+  "year_display": "1851年（作者页注记：Britannica 列举——七个尖角的阁楼 (1851)）",
+  "year_sort": 1851,
+  "background": [
+    "作者页注记：七个尖角的阁楼 (1851)——'Britannica 列举'。",
+    "Britannica：霍桑——《红字》作者、罗曼司（romance）文体（作者页语境——待核）。",
+    "题材（通说待核）：品钦家族的老宅诅咒——巫审时代的遗产与现在的偿还。"
+  ],
+  "outline": [
+    "（通说待核）莫尔上校的诅咒与品钦家族的没落。",
+    "（通说待核）赫普齐芭与克利福德：老宅中的兄妹。"
+  ],
+  "characters": [
+    {
+      "name": "赫普齐芭",
+      "identity": "老宅居民",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "克利福德",
+      "identity": "受害者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "祖辈之罪的遗传（通说待核）。",
+    "老宅作为家族史的建筑（书名语境）。",
+    "清教遗产的清算（霍桑作者级主题——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：霍桑美国罗曼司传统的代表（作者页语境——待核）。",
+      "source": "B147"
+    },
+    {
+      "text": "Britannica：《红字》为代表作（作者页交叉）。",
+      "source": "B147"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "塞勒姆巫审史。",
+      "罗曼司与小说的文体差异（霍桑自序——通说待核）。"
+    ],
+    "editions": [
+      "《七个尖角的阁楼》中译名（《有七个尖角阁的房子》两说）待核。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "霍桑第二作；与《红字》对读。"
+  },
+  "pending": [
+    "赫普齐芭/克利福德人名核对（通说）。",
+    "1851年出版（Ticknor & Fields说）待核。",
+    "'七个尖角'宅邸原型（特纳-英格索尔宅）待核。"
+  ],
+  "sources": [
+    "B147"
+  ],
+  "year_source": "B147",
+  "author_source": "B147",
+  "related_works": [
+    "hongzi",
+    "fushide",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《七个尖角的阁楼》诅咒结构图",
+    "cards": [
+      {
+        "title": "老宅",
+        "text": "七个尖角（书名）",
+        "color": "family"
+      },
+      {
+        "title": "诅咒",
+        "text": "巫审的遗产（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "兄妹",
+        "text": "宅中的幸存者（通说）",
+        "color": "main"
+      },
+      {
+        "title": "偿还",
+        "text": "罪与时间的和解（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

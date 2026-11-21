@@ -10,18 +10,55 @@
   "era": "现当代",
   "summary": "斯坦贝克，加州萨利纳斯人，斯坦福大学辍学生，1962年诺贝尔文学奖得主（Britannica）。以加州中部为文学地图：《愤怒的葡萄》（1939，乔德一家沙尘暴西迁——Britannica）获普利策奖与国家图书奖（Britannica），《人鼠之间》（1937）、《伊甸之东》（1952）等；marine biologist 朋友 Ed Ricketts 深刻塑造其世界观（Britannica：His friend, marine biologist Ed Ricketts, deeply shaped his worldview）。'Depression-era fiction championed ordinary people and the working classes'（大萧条时代为普通人与劳动阶级而写的小说，Britannica）。1964年获总统自由勋章（Britannica）。",
   "timeline": [
-    {"year": "1902-02-27", "text": "生于加州萨利纳斯（Britannica：Born Feb. 27, 1902, Salinas, California）；斯坦福英文系间断就读六年（通说待核）。", "src": "B103"},
-    {"year": "1935—1937", "text": "《煎饼坪》（1935）以蒙特雷派萨诺人成名（通说待核）；1937年《人鼠之间》（Britannica：Of Mice and Men (1937)）与《红马》（Britannica 列举）。", "src": "B103"},
-    {"year": "1938—1939", "text": "报道沙尘暴移民（通说待核）；1939年4月《愤怒的葡萄》出版——Britannica：about the Joad family's migration from the Dust Bowl, won the Pulitzer Prize and National Book Award。", "src": "B103"},
-    {"year": "1940s", "text": "《罐头工厂街》（1945，通说待核）；二战报道（通说待核）；与第一任妻 Carol Henning 离异（通说待核）。", "src": "B103"},
-    {"year": "1952", "text": "《伊甸之东》出版（Britannica：East of Eden (1952)）；1950s 马尔帕索（通说待核）。", "src": "B103"},
-    {"year": "1962", "text": "获诺贝尔文学奖（Britannica：Nobel Prize for Literature in 1962）——美国国内争议（'too provincial'说，通说待核）。", "src": "B103"},
-    {"year": "1964—1968", "text": "1964年总统自由勋章（Britannica：received the Presidential Medal of Freedom in 1964）；任约翰逊'智囊'（Britannica：later supported Lyndon B. Johnson）；1968-12-20死于纽约心衰，年六十六（Britannica）。", "src": "B103"}
+    {
+      "year": "1902-02-27",
+      "text": "生于加州萨利纳斯（Britannica：Born Feb. 27, 1902, Salinas, California）；斯坦福英文系间断就读六年（通说待核）。",
+      "src": "B103"
+    },
+    {
+      "year": "1935—1937",
+      "text": "《煎饼坪》（1935）以蒙特雷派萨诺人成名（通说待核）；1937年《人鼠之间》（Britannica：Of Mice and Men (1937)）与《红马》（Britannica 列举）。",
+      "src": "B103"
+    },
+    {
+      "year": "1938—1939",
+      "text": "报道沙尘暴移民（通说待核）；1939年4月《愤怒的葡萄》出版——Britannica：about the Joad family's migration from the Dust Bowl, won the Pulitzer Prize and National Book Award。",
+      "src": "B103"
+    },
+    {
+      "year": "1940s",
+      "text": "《罐头工厂街》（1945，通说待核）；二战报道（通说待核）；与第一任妻 Carol Henning 离异（通说待核）。",
+      "src": "B103"
+    },
+    {
+      "year": "1952",
+      "text": "《伊甸之东》出版（Britannica：East of Eden (1952)）；1950s 马尔帕索（通说待核）。",
+      "src": "B103"
+    },
+    {
+      "year": "1962",
+      "text": "获诺贝尔文学奖（Britannica：Nobel Prize for Literature in 1962）——美国国内争议（'too provincial'说，通说待核）。",
+      "src": "B103"
+    },
+    {
+      "year": "1964—1968",
+      "text": "1964年总统自由勋章（Britannica：received the Presidential Medal of Freedom in 1964）；任约翰逊'智囊'（Britannica：later supported Lyndon B. Johnson）；1968-12-20死于纽约心衰，年六十六（Britannica）。",
+      "src": "B103"
+    }
   ],
   "major_works": [
-    {"work_id": "fenwangyu", "note": "1939；普利策奖"},
-    {"title": "人鼠之间（1937）", "note": "短篇经典（Britannica）"},
-    {"title": "伊甸之东（1952）", "note": "家族史诗（Britannica）"}
+    {
+      "work_id": "fenwangyu",
+      "note": "1939；普利策奖"
+    },
+    {
+      "work_id": "renshuzhijian",
+      "note": "短篇经典（Britannica）"
+    },
+    {
+      "work_id": "yidianzhidong",
+      "note": "家族史诗（Britannica）"
+    }
   ],
   "style": [
     "'群像式'的工人史诗：乔德家+众声交织的'插章'（interchapters，通说待核）。",
@@ -30,7 +67,9 @@
     "戏剧化短章：《人鼠之间》几乎为舞台而写（通说）。"
   ],
   "status": "Britannica 记斯坦贝克'critiqued capitalism (though he rejected communism)'（批判资本主义而不接受共产主义）、'Depression-era fiction championed ordinary people and the working classes'（大萧条小说为普通人与劳动阶级立传）。《愤怒的葡萄》一度被焚禁（通说待核）；诺奖国内争议（通说待核）与其今日地位（美国中学必读）形成对照。",
-  "sources": ["B103"],
+  "sources": [
+    "B103"
+  ],
   "dates_source": "B103",
   "pending": [
     "《愤怒的葡萄》1939年4月14日出版（Viking，通说）与首印数待核。",

@@ -1,0 +1,105 @@
+{
+  "id": "yidianzhidong",
+  "title": "伊甸之东",
+  "original_title": "East of Eden",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "steinbeck",
+  "author_name": "约翰·斯坦贝克",
+  "year_display": "1952年（作者页注记：Britannica——伊甸之东 (1952)）",
+  "year_sort": 1952,
+  "background": [
+    "作者页注记：伊甸之东 (1952)——'家族史诗（Britannica）'。",
+    "Britannica：斯坦贝克——1962诺奖（作者页语境——待核）。",
+    "题材（通说待核）：特拉斯克与汉密尔顿两家——该隐与亚伯的重演与'timshel'。"
+  ],
+  "outline": [
+    "（通说待核）加州萨利纳斯谷的两家三代。",
+    "（通说待核）该隐-亚伯原型的重演：善与恶的选择。"
+  ],
+  "characters": [
+    {
+      "name": "亚当·特拉斯克",
+      "identity": "农场主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "凯茜",
+      "identity": "恶的化身",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "该隐与亚伯的重演（书名语境——通说待核）。",
+    "'timshel'（'你可以'）：自由意志（通说待核）。",
+    "家族史诗与加州土地（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：斯坦贝克代表作序列（作者页注记）。",
+      "source": "B103"
+    },
+    {
+      "text": "Britannica：1962诺奖（作者页语境——待核）。",
+      "source": "B103"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双家族多代结构。",
+      "圣经原型（创世记4章）。"
+    ],
+    "editions": [
+      "《伊甸之东》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "斯坦贝克收官；与《愤怒的葡萄》对读。"
+  },
+  "pending": [
+    "亚当/凯茜人名核对（通说）。",
+    "1952年出版（Viking说）待核。",
+    "'timshel'译文细节待核。"
+  ],
+  "sources": [
+    "B103"
+  ],
+  "year_source": "B103",
+  "author_source": "B103",
+  "related_works": [
+    "nuhuodeputao",
+    "renshuzhijian",
+    "laorenhai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《伊甸之东》原型重演图",
+    "cards": [
+      {
+        "title": "两家",
+        "text": "加州的史诗（通说）",
+        "color": "family"
+      },
+      {
+        "title": "该隐与亚伯",
+        "text": "原型的重演（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "'timshel'",
+        "text": "'你可以'的选择（通说）",
+        "color": "main"
+      },
+      {
+        "title": "凯茜",
+        "text": "恶的化身（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

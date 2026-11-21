@@ -1,0 +1,105 @@
+{
+  "id": "tianyuanjiaoxiangqu",
+  "title": "田园交响曲",
+  "original_title": "La Symphonie pastorale",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪10年代末",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "gide",
+  "author_name": "安德烈·纪德",
+  "year_display": "1919年（作者页注记：Britannica——The Pastoral Symphony）",
+  "year_sort": 1919,
+  "background": [
+    "作者页注记：田园交响曲——'Britannica：The Pastoral Symphony'。",
+    "Britannica（B275）：纪德——1947诺奖；《背德者》《窄门》为姊妹篇（作者页语境）。",
+    "题材（通说待核）：牧师日记——收养盲女热特吕德与'慈善'的自欺。"
+  ],
+  "outline": [
+    "（通说待核）牧师的日记体自白：以善之名的感情。",
+    "（通说待核）热特吕德复明后的幻灭。"
+  ],
+  "characters": [
+    {
+      "name": "牧师",
+      "identity": "日记叙述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "热特吕德",
+      "identity": "盲女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'慈善'的自欺（通说待核）。",
+    "日记体的不可靠叙述（通说待核）。",
+    "信仰与欲望（B275 纪德主题语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：纪德1947诺奖（B275 交叉）。",
+      "source": "B275"
+    },
+    {
+      "text": "Britannica：The Pastoral Symphony 列举（作者页注记）。",
+      "source": "B275"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "日记体的双重声音。",
+      "新教牧师语境。"
+    ],
+    "editions": [
+      "《田园交响曲》中译本（人民文学/上海译文等——通说待核）。",
+      "法文原版。"
+    ],
+    "order": "纪德三部曲（《背德者》《窄门》本作）对读。"
+  },
+  "pending": [
+    "热特吕德人名核对（通说）。",
+    "1919年出版细节待核。",
+    "日记日期结构待核。"
+  ],
+  "sources": [
+    "B275"
+  ],
+  "year_source": "B275",
+  "author_source": "B275",
+  "related_works": [
+    "beidechezhe",
+    "zhaimen",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《田园交响曲》自欺结构图",
+    "cards": [
+      {
+        "title": "日记",
+        "text": "牧师的自我辩护（通说）",
+        "color": "main"
+      },
+      {
+        "title": "盲女",
+        "text": "善的受托者（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "复明",
+        "text": "幻灭的开启（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "信仰",
+        "text": "与欲望的博弈（B275语境）",
+        "color": "family"
+      }
+    ]
+  }
+}

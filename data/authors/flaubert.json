@@ -10,19 +10,60 @@
   "era": "近代",
   "summary": "福楼拜，鲁昂外科医生之子，'法国现实主义学派的 prime mover（首要推动者）'（Britannica，Jacques Barzun 撰）。一生住在克鲁瓦塞塞纳河畔故居写作，以'le mot juste'（唯一恰当的词）的苛刻追求与'处处在场却处处不可见'的客观叙事（Britannica）闻名。五年写就《包法利夫人》（1857），遭'伤风败俗'起诉而无罪开释（Britannica：narrowly acquitted）。影响左拉的自然主义与整个现代小说（Britannica：Influenced Naturalism (Zola)）。",
   "timeline": [
-    {"year": "1821-12-12", "text": "生于鲁昂，父为鲁昂医院首席外科医生（Britannica：Son of chief surgeon at Hôtel-Dieu, Rouen）。", "src": "B041"},
-    {"year": "1841—1844", "text": "巴黎学法律，1844年因'神经性疾病'（癫痫，通说待核）辍学（Britannica：Abandoned law studies in Paris due to a nervous illness (~1844)）。", "src": "B041"},
-    {"year": "1846", "text": "父、姐相继去世后随母与外甥女定居克鲁瓦塞（Britannica：settled at Croisset with his mother and niece after his father's and sister's deaths (1846)）；与诗人路易丝·柯莱的恋情至1855年（Britannica：Affair with poet Louise Colet (to 1855)）。", "src": "B041"},
-    {"year": "1847—1851", "text": "与杜康旅行布列塔尼、埃及希腊意大利（1849—51，Britannica：Egypt/Greece/Italy 1849–51）。", "src": "B041"},
-    {"year": "1851—1856", "text": "写《包法利夫人》（'spent some five years'——Britannica）；1856年10月1日至12月15日在《巴黎杂志》连载（Britannica）。", "src": "B016"},
-    {"year": "1857", "text": "单行本出版（两卷，Britannica）；1—2月受'伤风败俗'审判，narrowly 无罪（Britannica：French government prosecuted Flaubert for alleged obscenity; he was acquitted after trial）——审判反而推高关注（Britannica：heightened interest in the book）。", "src": "B016"},
-    {"year": "1862—1877", "text": "《萨朗波》（1862）、《情感教育》（1869）、《圣安东尼的诱惑》（1874，Britannica：rewritten over decades）、《三故事》（1877）问世。", "src": "B041"},
-    {"year": "1880-05-08", "text": "卒于克鲁瓦塞，年五十八（Britannica：died May 8, 1880, Croisset）；遗作《布瓦尔和佩库歇》（1881出版，通说待核）。", "src": "B041"}
+    {
+      "year": "1821-12-12",
+      "text": "生于鲁昂，父为鲁昂医院首席外科医生（Britannica：Son of chief surgeon at Hôtel-Dieu, Rouen）。",
+      "src": "B041"
+    },
+    {
+      "year": "1841—1844",
+      "text": "巴黎学法律，1844年因'神经性疾病'（癫痫，通说待核）辍学（Britannica：Abandoned law studies in Paris due to a nervous illness (~1844)）。",
+      "src": "B041"
+    },
+    {
+      "year": "1846",
+      "text": "父、姐相继去世后随母与外甥女定居克鲁瓦塞（Britannica：settled at Croisset with his mother and niece after his father's and sister's deaths (1846)）；与诗人路易丝·柯莱的恋情至1855年（Britannica：Affair with poet Louise Colet (to 1855)）。",
+      "src": "B041"
+    },
+    {
+      "year": "1847—1851",
+      "text": "与杜康旅行布列塔尼、埃及希腊意大利（1849—51，Britannica：Egypt/Greece/Italy 1849–51）。",
+      "src": "B041"
+    },
+    {
+      "year": "1851—1856",
+      "text": "写《包法利夫人》（'spent some five years'——Britannica）；1856年10月1日至12月15日在《巴黎杂志》连载（Britannica）。",
+      "src": "B016"
+    },
+    {
+      "year": "1857",
+      "text": "单行本出版（两卷，Britannica）；1—2月受'伤风败俗'审判，narrowly 无罪（Britannica：French government prosecuted Flaubert for alleged obscenity; he was acquitted after trial）——审判反而推高关注（Britannica：heightened interest in the book）。",
+      "src": "B016"
+    },
+    {
+      "year": "1862—1877",
+      "text": "《萨朗波》（1862）、《情感教育》（1869）、《圣安东尼的诱惑》（1874，Britannica：rewritten over decades）、《三故事》（1877）问世。",
+      "src": "B041"
+    },
+    {
+      "year": "1880-05-08",
+      "text": "卒于克鲁瓦塞，年五十八（Britannica：died May 8, 1880, Croisset）；遗作《布瓦尔和佩库歇》（1881出版，通说待核）。",
+      "src": "B041"
+    }
   ],
   "major_works": [
-    {"work_id": "baofali", "note": "1857；'现实主义的主要杰作'（Britannica）"},
-    {"title": "情感教育（1869）", "note": "Britannica 记'七月王朝史家的必读书'（per Georges Sorel——Britannica 转述）"},
-    {"title": "萨朗波（1862）、三故事（1877）", "note": "历史小说与短篇杰作（Britannica 列举）"}
+    {
+      "work_id": "baofali",
+      "note": "1857；'现实主义的主要杰作'（Britannica）"
+    },
+    {
+      "work_id": "qingganjiaoyu",
+      "note": "Britannica 记'七月王朝史家的必读书'（per Georges Sorel——Britannica 转述）"
+    },
+    {
+      "title": "萨朗波（1862）、三故事（1877）",
+      "note": "历史小说与短篇杰作（Britannica 列举）"
+    }
   ],
   "style": [
     "'le mot juste'（唯一恰当的词）：每句改至精确为止（Britannica：Pursuit of 'le seul mot juste'）——'一星期只写一页'的苦行（通说轶事，待核）。",
@@ -31,7 +72,10 @@
     "反讽的结构：不评论而并置——通过细节的并置完成批判（如农展会一场的'轮作奖'与爱玛偷情的交替，通说）。"
   ],
   "status": "Britannica（Barzun）称福楼拜为'法国现实主义学派的 prime mover'，其《包法利夫人》被视为'现实主义的主要杰作'（the principal masterpiece of realism）、'文学新纪元的开端'（ushered in a new age of realism in literature）。他'把一个平平无奇的通奸故事变成一部深刻人性的不朽之作'（Britannica：transformed 'a commonplace story of adultery into an enduring work of profound humanity'）。其文体纪律成为现代小说的通用标准：普鲁斯特、乔伊斯、纳博科夫皆奉其为源头（通说待核）。",
-  "sources": ["B041", "B016"],
+  "sources": [
+    "B041",
+    "B016"
+  ],
   "dates_source": "B041",
   "pending": [
     "1844年'神经疾病'的医学认定（癫痫说）待核。",
