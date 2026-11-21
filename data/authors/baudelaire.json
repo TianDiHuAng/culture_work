@@ -1,0 +1,63 @@
+{
+  "id": "baudelaire",
+  "name": "夏尔·波德莱尔",
+  "foreign_name": "Charles Baudelaire（夏尔·波德莱尔，1821-04-09—1867-08-31）",
+  "country": "法国",
+  "birth": 1821,
+  "death": 1867,
+  "birth_year": 1821,
+  "death_year": 1867,
+  "era": "近代",
+  "summary": "波德莱尔，巴黎生，法国诗人、翻译家与艺术批评家——'whose reputation rests primarily on Les Fleurs du mal (1857; The Flowers of Evil) and Petits poèmes en prose (1868)'（声誉主要基于《恶之花》与《散文诗》——B309）。'perhaps the most important and influential poetry collection published in Europe in the 19th century'（《恶之花》为19世纪欧洲最重要的诗集——B309）。象征主义领袖'regarded themselves as his followers'（视自己为其追随者——B309）。",
+  "timeline": [
+    {
+      "year": 1821,
+      "text": "4月9日生于巴黎（B309：Born April 9, 1821, Paris）。",
+      "src": "B309"
+    },
+    {
+      "year": 1857,
+      "text": "《恶之花》出版（B309：Les Fleurs du mal (1857)）——13首被控冒犯宗教与公德、6首被删并罚款（B309）。",
+      "src": "B309"
+    },
+    {
+      "year": 1868,
+      "text": "《散文诗》（Petits poèmes en prose）身后出版（B309：1868）。",
+      "src": "B309"
+    },
+    {
+      "year": 1867,
+      "text": "8月31日卒于巴黎（B309：Died August 31, 1867, Paris，46岁）。",
+      "src": "B309"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "ezhihua",
+      "note": "诗集（B309：1857）"
+    },
+    {
+      "title": "散文诗（巴黎的忧郁）",
+      "note": "（B309：Petits poèmes en prose (1868)——'the most successful and innovative early experiment in prose poetry'）"
+    },
+    {
+      "title": "美学珍品",
+      "note": "艺术评论（通说待核）"
+    }
+  ],
+  "style": [
+    "'correspondances'（感应/对应）——象征主义的诗学起点（B309：Symbolist leaders regarded themselves as his followers）。",
+    "'the fullest expression of French Romantic poetry'（B309：《恶之花》为法国浪漫主义诗歌的最充分表达）。",
+    "散文诗实验（B309：Petits poèmes en prose——'the most successful and innovative early experiment'）。"
+  ],
+  "status": "Britannica 定位波德莱尔为法国诗人、《恶之花》作者——象征主义先驱（B309）。",
+  "sources": [
+    "B309"
+  ],
+  "dates_source": "B309",
+  "pending": [
+    "1861年第二版与增补篇目核对。",
+    "'correspondances'原诗（第4篇）核对。",
+    "Gauteng？——不：戈蒂耶《恶之花》献词待核。"
+  ]
+}

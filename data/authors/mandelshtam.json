@@ -1,0 +1,63 @@
+{
+  "id": "mandelshtam",
+  "name": "奥西普·曼德尔施塔姆",
+  "foreign_name": "Osip Emilyevich Mandelshtam（奥西普·叶梅利扬诺维奇·曼德尔施塔姆，1891-01-03/15—1938-12-27）",
+  "country": "俄国",
+  "birth": 1891,
+  "death": 1938,
+  "birth_year": 1891,
+  "death_year": 1938,
+  "era": "现当代",
+  "summary": "曼德尔施塔姆，华沙生（时属俄罗斯帝国），俄罗斯诗人、散文家与随笔作家——Acmeism 共创人（Britannica：co-founded the Acmeist school of poetry）；Acmeists——'rejected the vague mysticism of Russian Symbolism and demanded clarity and concreteness'（拒绝俄国象征主义的含混神秘主义，要求清晰与具体——B312）。Kamen（石头，1913）——父亲出资出版首部诗集；题目象征阿克梅派'identification with the cultural essence of St. Petersburg'（与彼得堡文化本质的认同——B312）。1934年5月3日因讽刺诗被捕——'Sentenced to five years in a labour camp for anti-Soviet activity'，1938-12-27卒于海参崴附近中转营（B312）。",
+  "timeline": [
+    {
+      "year": 1891,
+      "text": "1月3日（儒历1-15）生于华沙（B312）。",
+      "src": "B312"
+    },
+    {
+      "year": 1913,
+      "text": "首部诗集《石头》出版（B312：Kamen (Stone)——父亲出资）。",
+      "src": "B312"
+    },
+    {
+      "year": 1934,
+      "text": "5月3日因讽刺斯大林的诗被捕（B312：arrested in 1934 for an epigram criticizing the dictator）。",
+      "src": "B312"
+    },
+    {
+      "year": 1938,
+      "text": "12月27日卒于海参崴附近中转营（B312：died in a transit camp near Vladivostok）。",
+      "src": "B312"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shitou",
+      "note": "诗集（B312：Kamen (Stone, 1913)）"
+    },
+    {
+      "title": "哀歌、Tristia",
+      "note": "（通说待核）"
+    },
+    {
+      "title": "噪声的时间",
+      "note": "散文（通说待核）"
+    }
+  ],
+  "style": [
+    "Acmeism：'clarity and concreteness'（B312）。",
+    "'identification with the cultural essence of St. Petersburg'（《石头》——B312）。",
+    "诗歌与建筑的同构（通说待核）。"
+  ],
+  "status": "Britannica 定位曼德尔施塔姆为俄国重要诗人、Acmeism 共创人（B312）；因讽刺诗被捕死于中转营（B312）。",
+  "sources": [
+    "B312"
+  ],
+  "dates_source": "B312",
+  "pending": [
+    "《石头》篇目（亚历山大车站等）核对。",
+    "'斯大林讽刺诗'（1933年11月说）待核。",
+    "娜杰日达《希望对抗希望》回忆录待核。"
+  ]
+}

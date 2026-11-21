@@ -1,0 +1,63 @@
+{
+  "id": "rimbaud",
+  "name": "阿尔蒂尔·兰波",
+  "foreign_name": "Arthur Rimbaud（阿尔蒂尔·兰波，1854-10-20—1891-11-10）",
+  "country": "法国",
+  "birth": 1854,
+  "death": 1891,
+  "birth_year": 1854,
+  "death_year": 1891,
+  "era": "近代",
+  "summary": "兰波，夏尔维尔生，法国诗人与冒险家——象征主义运动的中心人物之一（Britannica 语境）；'Many 20th-century poets were influenced by the Dionysian power of his verse and his liberation of language from the constraints of form'（其诗的酒神力量与语言解放影响了20世纪许多诗人——B310）；'one of the first modern poets to shatter the constraints of traditional metric forms'（最早打破传统格律的现代诗人之一——B310）；'a founding father of modernism'（现代主义的奠基者——B310 Legacy 语境）。弃文从商于非洲（B310）。",
+  "timeline": [
+    {
+      "year": 1854,
+      "text": "10月20日生于夏尔维尔（B310：Born October 20, 1854, Charleville, France）。",
+      "src": "B310"
+    },
+    {
+      "year": 1871,
+      "text": "《醉舟》写就（B310：The Drunken Boat written 1871）；与魏尔伦相识（通说待核）。",
+      "src": "B310"
+    },
+    {
+      "year": 1873,
+      "text": "《地狱一季》出版（B310：Une Saison en enfer——'Consisting of nine fragments of prose and verse'）。",
+      "src": "B310"
+    },
+    {
+      "year": 1891,
+      "text": "11月10日卒于马赛（B310：Died November 10, 1891, Marseille，37岁）。",
+      "src": "B310"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "diyuzhiji",
+      "note": "散文诗集（B310：1873，九个片段）"
+    },
+    {
+      "title": "彩画集（Illuminations）",
+      "note": "（B310：40 prose poems + 2 free-verse poems，1872—74年写）"
+    },
+    {
+      "title": "醉舟",
+      "note": "（B310：The Drunken Boat written 1871）"
+    }
+  ],
+  "style": [
+    "'Dionysian power of his verse and his liberation of language from the constraints of form'（B310）。",
+    "'shatter the constraints of traditional metric forms'（B310）。",
+    "'a founding father of modernism'（B310 Legacy 语境）。"
+  ],
+  "status": "Britannica 定位兰波为象征主义中心人物、现代主义奠基者之一（B310）；弃文从商于非洲（B310）。",
+  "sources": [
+    "B310"
+  ],
+  "dates_source": "B310",
+  "pending": [
+    "《地狱一季》1873年（Brussels自印说）核对。",
+    "'通灵者书信'（Lettre du voyant，1871）待核。",
+    "与魏尔伦的恋情及布鲁塞尔枪击（1873）待核。"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tsvetaeva",
+  "name": "玛丽娜·茨维塔耶娃",
+  "foreign_name": "Marina Ivanovna Tsvetayeva（玛丽娜·伊万诺夫娜·茨维塔耶娃，1892-10-08（儒历9-26）—1941-08-31）",
+  "country": "俄国",
+  "birth": 1892,
+  "death": 1941,
+  "birth_year": 1892,
+  "death_year": 1941,
+  "era": "现当代",
+  "summary": "茨维塔耶娃，莫斯科生，俄罗斯诗人——'regarded as one of the finest Russian-language poets of the 20th century'（20世纪最优秀的俄语诗人之一——B311）；'distinctive for its staccato rhythms, originality, and directness'（断续的节奏、原创性与直接性——B311）。主要作品：Vecherny albom（1910）、Lebediny stan（1917—21写/1957慕尼黑出版）、Posle Rossii (1928)、Moy Pushkin (1937)、Stikhi k Chekhii (1938–39)（B311）。'She committed suicide in 1941'（1941年自尽——B311）。",
+  "timeline": [
+    {
+      "year": 1892,
+      "text": "10月8日（儒历9-26）生于莫斯科（B311）。",
+      "src": "B311"
+    },
+    {
+      "year": 1910,
+      "text": "首部诗集《黄昏纪念册》出版（B311：Vecherny albom (Evening Album, 1910)）。",
+      "src": "B311"
+    },
+    {
+      "year": 1928,
+      "text": "《俄罗斯之后》出版（B311：Posle Rossii (1928)——流亡巴黎期）。",
+      "src": "B311"
+    },
+    {
+      "year": 1941,
+      "text": "8月31日卒于叶拉布加（B311：Died Aug. 31, 1941, Yelabuga——自杀）。",
+      "src": "B311"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "cweitayeva",
+      "note": "诗选（本库立目）"
+    },
+    {
+      "title": "天鹅营地",
+      "note": "（B311：Lebediny stan，1917—21写/1957慕尼黑出版）"
+    },
+    {
+      "title": "我的普希金",
+      "note": "（B311：Moy Pushkin (1937)——散文）"
+    }
+  ],
+  "style": [
+    "'staccato rhythms, originality, and directness'（B311）。",
+    "'20世纪最优秀的俄语诗人之一'（B311）。",
+    "流亡与回归的悲剧（B311 语境）。"
+  ],
+  "status": "Britannica 定位茨维塔耶娃为20世纪最优秀的俄语诗人之一（B311）。",
+  "sources": [
+    "B311"
+  ],
+  "dates_source": "B311",
+  "pending": [
+    "《天鹅营地》1957年慕尼黑出版细节核对。",
+    "与里尔克的通信（《信函》1926年三通信说）待核。",
+    "1941年自杀细节（叶拉布加说）待核。"
+  ]
+}

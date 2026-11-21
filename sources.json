@@ -4303,46 +4303,60 @@
   "note": "2026-11-21 核对：Elias Lönnrot 编，'published the folk material in two editions (32 cantos, 1835; enlarged into 50 cantos, 1849)'；'compiled from old Finnish ballads, lyrical songs, and incantations that were a part of Finnish oral tradition'；Väinämöinen——'a powerful seer with supernatural origins'、'a master of the kantele'；'Kalevala……is a poetic name for Finland, meaning land of heroes'；芬兰民族史诗—— fostering 'the Finnish national spirit'、'translated into at least 20 languages'、启发了Gallen-Kallela绘画与西贝柳斯音乐、Longfellow《海华沙之歌'}；"
  },
  {
-  "id": "B310",
-  "title": "Guy de Maupassant — Encyclopaedia Britannica",
+  "id": "B309",
+  "title": "Charles Baudelaire — Encyclopaedia Britannica",
   "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
-  "url": "https://www.britannica.com/biography/Guy-de-Maupassant",
+  "url": "https://www.britannica.com/biography/Charles-Baudelaire",
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "maupassant",
-   "yisheng"
+   "baudelaire",
+   "ezhihua"
   ],
-  "note": "2026-11-21 核对：1850-08-05 Miromesnil城堡（迪耶普附近）生—1893-07-06巴黎卒（42岁）；'the greatest French short-story author'（约300篇）；Flaubert 门徒——'He is my disciple and I love him like a son'；Flaubert 1880年猝逝为'a grievous blow'；'Boule de suif' 1880年4月发表成名；Une Vie 与 Bel-Ami 仅见于 Notable Works 列表（正文无细节——年份通说待核：一生1883、漂亮朋友1885）"
+  "note": "2026-11-21 核对：1821-04-09巴黎生—1867-08-31巴黎卒（46岁）；Les Fleurs du mal (1857)——'perhaps the most important and influential poetry collection published in Europe in the 19th century'；'In 1857, authorities charged thirteen poems from this collection with offenses against religion and public morality'——'six poems were censored due to obscenity, leading to a fine'；'The collection consists of poems arranged into six sections'；'correspondances'——Symbolist leaders'regarded themselves as his followers'；Petits poèmes en prose (1868)——'the most successful and innovative early experiment in prose poetry of the time'；Les Fleurs du mal——'the fullest expression of French Romantic poetry'"
+ },
+ {
+  "id": "B310",
+  "title": "Arthur Rimbaud — Encyclopaedia Britannica",
+  "author": "The Editors of Enclopaedia Britannica",
+  "year": "持续更新",
+  "url": "https://www.britannica.com/biography/Arthur-Rimbaud",
+  "type": "百科全书",
+  "verified": true,
+  "covers": [
+   "rimbaud",
+   "diyuzhiji"
+  ],
+  "note": "2026-11-21 核对：1854-10-20 Charleville生—1891-11-10马赛卒（37岁）；Une Saison en enfer (1873)——'Consisting of nine fragments of prose and verse'——examining 'Rimbauds search for experience and his relationship with Verlaine'；Illuminations——'A collection of 40 prose poems and two free-verse poems, believed to have been written between 1872 and 1874'；'Many 20th-century poets were influenced by the Dionysian power of his verse and his liberation of language from the constraints of form'；'one of the first modern poets to shatter the constraints of traditional metric forms'；'a founding father of modernism'（Legacy 语境）"
  },
  {
   "id": "B311",
-  "title": "Selma Lagerlof — Encyclopaedia Britannica",
+  "title": "Marina Ivanovna Tsvetayeva — Encyclopaedia Britannica",
   "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
-  "url": "https://www.britannica.com/biography/Selma-Lagerlof",
+  "url": "https://www.britannica.com/biography/Marina-Ivanovna-Tsvetayeva",
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "lagerlof",
-   "qieelvxing"
+   "tsvetaeva",
+   "cweitayeva"
   ],
-  "note": "2026-11-21 核对：1858-11-20瑞典 Mårbacka 生—1940-03-16卒（81岁）；'became the first woman and also the first Swedish writer to win the Nobel Prize for Literature'（1909）；Nils Holgerssons underbara resa genom Sverige 2卷 (1906–07)——'a geography reader for children'；诺贝尔奖金购回 Mårbacka 庄园；'ranks among the most naturally gifted of modern storytellers'；另有 Gösta Berlings saga"
+  "note": "2026-11-21 核对：1892-10-08（儒历9-26）莫斯科生—1941-08-31 Yelabuga卒（48岁，自杀）；'regarded as one of the finest Russian-language poets of the 20th century'；'distinctive for its staccato rhythms, originality, and directness'；主要作品：Vecherny albom (1910)、Lebediny stan（1917—21写/1957慕尼黑出版）、Posle Rossii (1928)、Moy Pushkin (1937)、Stikhi k Chekhii (1938–39)；'She committed suicide in 1941'"
  },
  {
   "id": "B312",
-  "title": "Isaac Bashevis Singer — Encyclopaedia Britannica 与 Elias Canetti — Encyclopaedia Britannica",
+  "title": "Osip Emilyevich Mandelshtam — Encyclopaedia Britannica",
   "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
-  "url": "https://www.britannica.com/biography/Isaac-Bashevis-Singer",
+  "url": "https://www.britannica.com/biography/Osip-Emilyevich-Mandelshtam",
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "singer",
-   "canetti"
+   "mandelshtam",
+   "shitou"
   ],
-  "note": "2026-11-21 核对——辛格：生年'July 14?, 1903'（不确定，另有1904年11/10月说）Leoncin, Poland—1991-07-24 Surfside FL；1978诺奖；'the short story, Gimpel the Fool (1957)'；A Crown of Feathers (1973; National Book Award)；Yentl 电影(1983)改编自其故事；瑞典学院特别称赞 In My Father's Court (1966)；意第绪语写作。卡内蒂：1905-07-25保加利亚鲁塞生—1994-08-14苏黎世卒；1981诺奖；Die Blendung (1935; Auto-da-Fé)；'His major work, Masse und Macht (1960; Crowds and Power)'；'crowds……the psychopathology of power'"
+  "note": "2026-11-21 核对：1891-01-03（儒历1-15）华沙生—1938-12-27海参崴附近Vtoraya Rechka中转营卒；Acmeism——'rejected the vague mysticism of Russian Symbolism and demanded clarity and concreteness'；Kamen (Stone, 1913)——父亲出资出版首部诗集；题目象征阿克梅派'identification with the cultural essence of St. Petersburg'；1934年5月3日因讽刺诗被捕——'Sentenced to five years in a labour camp for anti-Soviet activity'，卒于中转营"
  },
  {
   "id": "B313",
