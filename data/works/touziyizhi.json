@@ -1,0 +1,100 @@
+{
+  "id": "touziyizhi",
+  "title": "骰子一掷",
+  "original_title": "Un Coup de dés jamais n'abolira le hasard",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "长诗（视觉诗）",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "mallarme",
+  "author_name": "斯特凡·马拉美",
+  "year_display": "1897年（Britannica B412：Un Coup de dés jamais n'abolira le hasard (1897)）",
+  "year_sort": 1897,
+  "background": [
+    "Britannica（B412）：Un Coup de dés jamais n'abolira le hasard（骰子一掷永不取消偶然）——1897年。",
+    "Britannica（B412）：马拉美——'虚无中的完美形式'——诗人'a veritable God, creating something from nothing'；Grand Oeuvre / Le Livre——从未完成。",
+    "题材（通说待核）：版式'排布'的诗——'骰子一掷'与'偶然'的海。"
+  ],
+  "outline": [
+    "（通说待核——B412未载诗节）'骰子一掷永不取消偶然'的版式实验。",
+    "（通说待核）'船'与'深渊'的意象。"
+  ],
+  "characters": [
+    {
+      "name": "版式之'我'",
+      "identity": "实验诗人",
+      "note": "（B412 语境）"
+    }
+  ],
+  "themes": [
+    "'偶然'与'必然'（书名语境——通说待核）。",
+    "版式：诗即图像（先于 Calligrammes 的实验——通说待核）。",
+    "'书'的未完成（B412：Grand Oeuvre / Le Livre）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Un Coup de dés (1897)（B412）。",
+      "source": "B412"
+    },
+    {
+      "text": "Britannica：'Grand Oeuvre / Le Livre never completed'（B412）。",
+      "source": "B412"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "版式的读法（页面的'空白'）。",
+      "'偶然'的哲学。"
+    ],
+    "editions": [
+      "《骰子一掷》中译名（《骰子一掷永远取消不了偶然》）待核。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "马拉美收官之作；与《牧神午后》对读。"
+  },
+  "pending": [
+    "版式细节核对（双页跨页说——通说）。",
+    "1897年发表（Cosmopolis说）待核。",
+    "'船'意象细节待核。"
+  ],
+  "sources": [
+    "B412"
+  ],
+  "year_source": "B412",
+  "author_source": "B412",
+  "related_works": [
+    "chunjiuji",
+    "tianzhenyujiy",
+    "wucidelangmanqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《骰子一掷》版式结构图",
+    "cards": [
+      {
+        "title": "骰子",
+        "text": "'一掷'的偶然（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "版式",
+        "text": "诗即图像（通说）",
+        "color": "main"
+      },
+      {
+        "title": "虚无",
+        "text": "'完美形式'（B412）",
+        "color": "antagonist"
+      },
+      {
+        "title": "书",
+        "text": "未完成的 Grand Oeuvre（B412）",
+        "color": "family"
+      }
+    ]
+  }
+}

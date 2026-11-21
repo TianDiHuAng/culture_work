@@ -1,0 +1,68 @@
+{
+  "id": "verlaine",
+  "name": "保尔·魏尔伦",
+  "foreign_name": "Paul Verlaine（保尔·魏尔伦，1844-03-30—1896-01-08）",
+  "country": "法国",
+  "birth": 1844,
+  "death": 1896,
+  "birth_year": 1844,
+  "death_year": 1896,
+  "era": "近代",
+  "summary": "魏尔伦，梅斯生，法国诗人——'first associated with the Parnassians and later known as a leader of the Symbolists'（帕尔纳斯派出身、象征派领袖——B413）——与马拉美、波德莱尔构成'the so-called Decadents'（B413）。Poèmes saturniens（忧郁诗篇, 1866）——首卷——'virtuoso imitations of Baudelaire and Leconte de Lisle'（B413）。Romances sans paroles（无词的浪漫曲, 1874）——部分写于伦敦——开篇几页'attain a pure musicality rarely surpassed in French literature'（B413）。1873年7月10日在布鲁塞尔左轮枪伤兰波——Mons 监两年——1874夏'sincere return to Roman Catholicism'（B413）。'Art poétique'——1882年被青年象征派采纳（B413）。",
+  "timeline": [
+    {
+      "year": 1844,
+      "text": "3月30日生于梅斯（B413）。",
+      "src": "B413"
+    },
+    {
+      "year": 1866,
+      "text": "Poèmes saturniens——首卷（B413）。",
+      "src": "B413"
+    },
+    {
+      "year": 1873,
+      "text": "7月10日枪伤兰波——Mons 监两年（B413）。",
+      "src": "B413"
+    },
+    {
+      "year": 1874,
+      "text": "Romances sans paroles——'纯净音乐性'（B413）。",
+      "src": "B413"
+    },
+    {
+      "year": 1896,
+      "text": "1月8日卒于巴黎（B413）。",
+      "src": "B413"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "wucidelangmanqu",
+      "note": "1874（B413）"
+    },
+    {
+      "title": "忧郁诗篇",
+      "note": "（B413：Poèmes saturniens (1866)——中译名待核）"
+    },
+    {
+      "title": "智慧集",
+      "note": "（B413：Sagesse (1880)——中译名待核）"
+    }
+  ],
+  "style": [
+    "象征派领袖（B413：a leader of the Symbolists）。",
+    "'法国文学中罕有的纯净音乐性'（B413：pure musicality rarely surpassed）。",
+    "'韵是法语诗不可避免的必需'（B413：rhyme...unavoidable necessity）。"
+  ],
+  "status": "Britannica 定位魏尔伦为象征派领袖、'颓废者'之一、现代'词音乐'的开启者（B413 搜索口径——initiator of modern word-music）。",
+  "sources": [
+    "B413"
+  ],
+  "dates_source": "B413",
+  "pending": [
+    "《无词的浪漫曲》通行译名（《无言的浪漫曲》）待核。",
+    "枪伤兰波细节（B413已载1873-07-10）核对。",
+    "'Art poétique'通行译名（《诗艺》）待核。"
+  ]
+}

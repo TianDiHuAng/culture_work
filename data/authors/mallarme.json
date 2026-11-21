@@ -1,0 +1,68 @@
+{
+  "id": "mallarme",
+  "name": "斯特凡·马拉美",
+  "foreign_name": "Stéphane Mallarmé（斯特凡·马拉美，1842-03-18—1898-09-09）",
+  "country": "法国",
+  "birth": 1842,
+  "death": 1898,
+  "birth_year": 1842,
+  "death_year": 1898,
+  "era": "近代",
+  "summary": "马拉美，巴黎生，法国诗人——1898年卒于 Valvins，56岁（B412）。L'Après-midi d'un faune（牧神午后）——1865年起写——'inspired Claude Debussy to compose his celebrated Prélude a quarter of a century later'（B412）。Hérodiade——1864年起写（B412）。周二沙龙——'A series of celebrated Tuesday evening meetings at his tiny flat in Paris were attended by well-known writers, painters, and musicians of the time'（B412）。1868年断言虚无中'lie the essences of perfect forms'——诗人成为'a veritable God, creating something from nothing'——求'l'absente de tous bouquets'（B412）。Un Coup de dés（骰子一掷, 1897）；Grand Oeuvre / Le Livre——从未完成（B412）。",
+  "timeline": [
+    {
+      "year": 1842,
+      "text": "3月18日生于巴黎（B412）。",
+      "src": "B412"
+    },
+    {
+      "year": 1864,
+      "text": "Hérodiade 起笔（B412）。",
+      "src": "B412"
+    },
+    {
+      "year": 1865,
+      "text": "L'Après-midi d'un faune 起笔（B412）。",
+      "src": "B412"
+    },
+    {
+      "year": 1897,
+      "text": "Un Coup de dés（骰子一掷）与 Divagations（B412）。",
+      "src": "B412"
+    },
+    {
+      "year": 1898,
+      "text": "9月9日卒于 Valvins（B412）。",
+      "src": "B412"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "touziyizhi",
+      "note": "1897（B412）"
+    },
+    {
+      "title": "牧神午后",
+      "note": "（B412：L'Après-midi d'un faune——启德彪西前奏曲）"
+    },
+    {
+      "title": "希罗底亚德",
+      "note": "（B412：Hérodiade——中译名待核）"
+    }
+  ],
+  "style": [
+    "'虚无中的完美形式'（B412：essences of perfect forms）。",
+    "'创造无中生有'的诗人-神（B412：a veritable God）。",
+    "'一切花束中缺席的花'（B412：l'absente de tous bouquets）。"
+  ],
+  "status": "Britannica 定位马拉美为象征派的'纯诗'宗师、周二沙龙的主人（B412）。",
+  "sources": [
+    "B412"
+  ],
+  "dates_source": "B412",
+  "pending": [
+    "《骰子一掷》通行译名（《骰子一掷永远取消不了偶然》）待核。",
+    "'大作品/书'（Grand Oeuvre/Le Livre）细节待核（B412：never completed）。",
+    "周二沙龙成员清单待核。"
+  ]
+}

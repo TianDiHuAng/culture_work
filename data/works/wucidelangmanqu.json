@@ -1,0 +1,100 @@
+{
+  "id": "wucidelangmanqu",
+  "title": "无词的浪漫曲",
+  "original_title": "Romances sans paroles",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "verlaine",
+  "author_name": "保尔·魏尔伦",
+  "year_display": "1874年（Britannica B413：Romances sans paroles (1874)——部分写于伦敦——'attain a pure musicality rarely surpassed in French literature'）",
+  "year_sort": 1874,
+  "background": [
+    "Britannica（B413）：Romances sans paroles——部分写于伦敦——开篇几页'attain a pure musicality rarely surpassed in French literature'（法国文学中罕有的纯净音乐性）——主题多为风景、悔恨或对分居妻子的攻击。",
+    "Britannica（B413）：魏尔伦——'a leader of the Symbolists'——与马拉美、波德莱尔构成'the so-called Decadents'。",
+    "Britannica（B413）：1873年7月10日枪伤兰波——Mons 监两年——1874夏'信仰回归'。"
+  ],
+  "outline": [
+    "（通说待核——B413未载篇目）'月光'《andelier》? ——（篇名通说待核：《月光》《泪落在我心》说待核）。",
+    "（通说待核）'罗曼司'：风景、悔恨与流亡的伦敦。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "流亡的歌者",
+      "note": "（B413 语境）"
+    }
+  ],
+  "themes": [
+    "'纯净音乐性'（B413：pure musicality rarely surpassed）。",
+    "风景、悔恨与婚姻的攻击（B413：subjects were mostly landscape, regret...）。",
+    "'无词'：音乐先于语义（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a leader of the Symbolists'（B413）。",
+      "source": "B413"
+    },
+    {
+      "text": "Britannica：'attain a pure musicality rarely surpassed in French literature'（B413）。",
+      "source": "B413"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'音乐先于意义'的读法。",
+      "1872-73的流亡伦敦背景（B413：partly written in London）。"
+    ],
+    "editions": [
+      "《无词的浪漫曲》中译名（《无言的情歌》）待核。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "魏尔伦代表作；与《忧郁诗篇》对读。"
+  },
+  "pending": [
+    "篇目（《月光》《泪落在我心》说——通说）核对。",
+    "1874年出版（London说）待核。",
+    "'音乐性'评价核对（B413已载）。"
+  ],
+  "sources": [
+    "B413"
+  ],
+  "year_source": "B413",
+  "author_source": "B413",
+  "related_works": [
+    "leiyu",
+    "diyuzhiji",
+    "songge1819"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《无词的浪漫曲》音乐结构图",
+    "cards": [
+      {
+        "title": "无词",
+        "text": "音乐先于语义（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "纯净音乐性",
+        "text": "'罕有的'（B413）",
+        "color": "main"
+      },
+      {
+        "title": "伦敦",
+        "text": "流亡的风景（B413）",
+        "color": "family"
+      },
+      {
+        "title": "悔恨",
+        "text": "对妻的攻击（B413）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
