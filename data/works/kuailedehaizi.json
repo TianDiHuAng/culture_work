@@ -1,0 +1,100 @@
+{
+  "id": "kuailedehaizi",
+  "title": "快乐的男孩",
+  "original_title": "En glad gutt",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪60年代",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "挪威语",
+  "author_id": "bjornson",
+  "author_name": "比奥恩斯彻讷·比昂松",
+  "year_display": "1860年（Britannica B337：En glad gut (1860)——中译名待核）",
+  "year_sort": 1860,
+  "background": [
+    "Britannica（B337）：En glad gut (1860)——农庄故事序列（与 Synnøve Solbakken 并列）。",
+    "Britannica（B337）：'sought to stimulate national pride...and to present ideals'。",
+    "题材（通说待核）：农家男孩的成长故事——'快乐的'心性。"
+  ],
+  "outline": [
+    "（通说待核——B337未载剧情）菲恩（Finn说）：孤儿被收养后的成长。",
+    "（通说待核）'快乐'心性与家庭的和解。"
+  ],
+  "characters": [
+    {
+      "name": "菲恩",
+      "identity": "孤儿",
+      "note": "（通说待核，B337未载）"
+    }
+  ],
+  "themes": [
+    "农庄故事的教育理想（B337：peasant tales）。",
+    "民族自豪的呈现（B337）。",
+    "成长与接纳（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'peasant tales'序列（B337）。",
+      "source": "B337"
+    },
+    {
+      "text": "Britannica：1903诺奖（B337 交叉）。",
+      "source": "B337"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "挪威乡土社会。",
+      "'农庄故事'类型。"
+    ],
+    "editions": [
+      "《快乐的男孩》中译名（《快活的男孩》两说——通说待核）。",
+      "挪威文原版（公有领域）。"
+    ],
+    "order": "比昂松农庄故事之二；与《辛诺夫·索巴肯》对读。"
+  },
+  "pending": [
+    "菲恩人名核对（通说）。",
+    "1860年发表（《比昂格·比尔森的故事》说）待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B337"
+  ],
+  "year_source": "B337",
+  "author_source": "B337",
+  "related_works": [
+    "xinnuofusuobaken",
+    "pochan",
+    "qieelvxing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《快乐的男孩》成长图",
+    "cards": [
+      {
+        "title": "菲恩",
+        "text": "'快乐'的心性（通说）",
+        "color": "main"
+      },
+      {
+        "title": "农庄",
+        "text": "收养的家庭（通说）",
+        "color": "family"
+      },
+      {
+        "title": "理想",
+        "text": "教育的呈现（B337）",
+        "color": "gold"
+      },
+      {
+        "title": "排斥",
+        "text": "成长的试炼（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

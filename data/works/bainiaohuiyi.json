@@ -1,0 +1,105 @@
+{
+  "id": "bainiaohuiyi",
+  "title": "百鸟会议",
+  "original_title": "The Parliament of Fowls",
+  "region": "英国",
+  "era": "古代",
+  "era_detail": "14世纪80年代",
+  "genre": "梦幻诗",
+  "genre_group": "诗歌",
+  "language": "英语（中古英语）",
+  "author_id": "chaucer",
+  "author_name": "杰弗里·乔叟",
+  "year_display": "作者页注记：Britannica 列举（梦幻诗——公爵夫人之书、百鸟会议、名誉之宫——年份通说待核）",
+  "year_sort": 1382,
+  "background": [
+    "作者页注记：公爵夫人之书、百鸟会议、名誉之宫——'梦幻诗（Britannica 列举）'。",
+    "Britannica：乔叟——'英国诗歌之父'（作者页语境——待核）。",
+    "题材（通说待核）：情人节的自然主持百鸟择偶辩论——西塞罗《西庇阿之梦》框架。"
+  ],
+  "outline": [
+    "（通说待核）'我'梦入维纳斯花园：众鸟辩论求爱。",
+    "（通说待核）'自然'女神的仲裁与三音步回旋曲结尾。"
+  ],
+  "characters": [
+    {
+      "name": "自然",
+      "identity": "仲裁者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "众鸟",
+      "identity": "辩论者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱与理性的辩论（通说待核）。",
+    "梦幻诗框架（B注记：梦幻诗序列）。",
+    "鸟类讽喻人类等级（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：梦幻诗序列（作者页注记）。",
+      "source": "B032"
+    },
+    {
+      "text": "Britannica：《坎特伯雷故事》为代表作（作者页交叉）。",
+      "source": "B032"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "梦幻诗的框架结构。",
+      "鸟类的社会隐喻。"
+    ],
+    "editions": [
+      "《百鸟会议》中译名（《众鸟之会》两说——通说待核）。",
+      "中古英语原版（公有领域）。"
+    ],
+    "order": "乔叟梦幻诗首选；与《特洛伊罗斯》对读。"
+  },
+  "pending": [
+    "成诗年份（约1382说）待核。",
+    "篇名写法核对。",
+    "'西庇阿之梦'框架细节待核。"
+  ],
+  "sources": [
+    "B032"
+  ],
+  "year_source": "B032",
+  "author_source": "B032",
+  "related_works": [
+    "teluoyiluosi",
+    "kanteboleigushi",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《百鸟会议》辩论结构图",
+    "cards": [
+      {
+        "title": "自然",
+        "text": "爱的仲裁（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "众鸟",
+        "text": "等级的讽喻（通说）",
+        "color": "main"
+      },
+      {
+        "title": "花园",
+        "text": "维纳斯的领地（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "梦幻",
+        "text": "乔叟的框架（B注记）",
+        "color": "family"
+      }
+    ]
+  }
+}

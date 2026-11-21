@@ -1,0 +1,100 @@
+{
+  "id": "lunaiqing",
+  "title": "论爱情",
+  "original_title": "De l'amour",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪20年代",
+  "genre": "论著",
+  "genre_group": "散文",
+  "language": "法语",
+  "author_id": "stendhal",
+  "author_name": "司汤达",
+  "year_display": "1822年（作者页 B038 注记：论爱情 (1822)——'结晶'理论）",
+  "year_sort": 1822,
+  "background": [
+    "作者页（B038）注记：《红与黑》《巴马修道院》《论爱情》；B038：司汤达——'19世纪上半叶最具独创性最复杂的法国作家之一'。",
+    "题材（通说待核）：'结晶'理论（crystallization）——恋人心中的盐矿树枝比喻。",
+    "Britannica B038 口径：本作为其思想性著作（与小说并列列举）。"
+  ],
+  "outline": [
+    "（通说待核——B038未载细节）爱情的诞生：萨尔茨堡盐矿的'结晶'比喻。",
+    "（通说待核）'四种爱情'的分类与'快感的原则'。"
+  ],
+  "characters": [
+    {
+      "name": "（论著无人物）",
+      "identity": "——",
+      "note": "思想论著"
+    }
+  ],
+  "themes": [
+    "'结晶'：想象的增幅（通说待核）。",
+    "浪漫爱情的解剖（B038 列举语境）。",
+    "幸福与激情的道德（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：司汤达与《论爱情》并列（B038 作者页注记）。",
+      "source": "B038"
+    },
+    {
+      "text": "Britannica：'最具独创性最复杂的法国作家之一'（B038 作者级）。",
+      "source": "B038"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'结晶'概念的心理描述。",
+      "1820年代沙龙语境。"
+    ],
+    "editions": [
+      "《论爱情》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "司汤达思想侧面；与《红与黑》对读。"
+  },
+  "pending": [
+    "'结晶'理论细节核对（通说）。",
+    "1822年出版细节待核。",
+    "'四种爱情'分类待核。"
+  ],
+  "sources": [
+    "B038"
+  ],
+  "year_source": "B038",
+  "author_source": "B038",
+  "related_works": [
+    "hongyuhei",
+    "baMaxiudaoyuan",
+    "mengya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《论爱情》结晶结构图",
+    "cards": [
+      {
+        "title": "盐矿",
+        "text": "'结晶'的比喻（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "爱情",
+        "text": "想象的增幅（通说）",
+        "color": "main"
+      },
+      {
+        "title": "分类",
+        "text": "四种爱情（通说）",
+        "color": "family"
+      },
+      {
+        "title": "司汤达",
+        "text": "思想性著作（B038）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

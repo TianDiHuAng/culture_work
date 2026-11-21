@@ -1,0 +1,100 @@
+{
+  "id": "chaoyuerenli",
+  "title": "超越人力",
+  "original_title": "Over Ævne I og II",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪末",
+  "genre": "戏剧（两部）",
+  "genre_group": "戏剧",
+  "language": "挪威语",
+  "author_id": "bjornson",
+  "author_name": "比奥恩斯彻讷·比昂松",
+  "year_display": "1883/1895年（Britannica B337：Over Ævne I og II (1883, 1895)）",
+  "year_sort": 1883,
+  "background": [
+    "Britannica（B337）：Over Ævne I og II——'The two dramas that brought him an international reputation were thus written in self-imposed exile'（带来国际声誉的两部戏剧，写于自我放逐中——B337 指向待核）。",
+    "Britannica（B337）：'his plays were influential in establishing social realism in Europe'。",
+    "题材（通说待核）：神父桑戈的信仰狂热——'超越人力'的奇迹主张与社会代价。"
+  ],
+  "outline": [
+    "（通说待核）第一部：桑戈神父以奇迹为名的葬礼赌注。",
+    "（通说待核）第二部：知识的傲慢与狂热的对撞。"
+  ],
+  "characters": [
+    {
+      "name": "桑戈",
+      "identity": "神父",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "信仰的狂热与理性（通说待核）。",
+    "国际声誉的两部曲（B337 注记）。",
+    "社会现实主义（B337）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'The two dramas that brought him an international reputation'（B337——指向待核）。",
+      "source": "B337"
+    },
+    {
+      "text": "Britannica：1903诺奖（B337 交叉）。",
+      "source": "B337"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "两部的主题延续。",
+      "宗教与社会改革的语境。"
+    ],
+    "editions": [
+      "《超越人力》中译名（《越界》两说——通说待核）。",
+      "挪威文原版。"
+    ],
+    "order": "比昂松戏剧之二；与《破产》对读。"
+  },
+  "pending": [
+    "'国际声誉两部'是否确指本作核对（B337 语境）。",
+    "桑戈人名核对（通说）。",
+    "两部年份（1883/1895——B337）核对。"
+  ],
+  "sources": [
+    "B337"
+  ],
+  "year_source": "B337",
+  "author_source": "B337",
+  "related_works": [
+    "pochan",
+    "xinnuofusuobaken",
+    "peierjinte"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《超越人力》狂热结构图",
+    "cards": [
+      {
+        "title": "桑戈",
+        "text": "信仰的赌注（通说）",
+        "color": "main"
+      },
+      {
+        "title": "奇迹",
+        "text": "'超越人力'（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "放逐",
+        "text": "国际声誉的代价（B337）",
+        "color": "family"
+      },
+      {
+        "title": "理性",
+        "text": "知识的对撞（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

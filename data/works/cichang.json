@@ -1,0 +1,100 @@
+{
+  "id": "cichang",
+  "title": "磁场",
+  "original_title": "Les Champs magnétiques",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "散文诗集（合作）",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "breton",
+  "author_name": "安德烈·布勒东",
+  "year_display": "1920年（Britannica B344：Les Champs magnétiques (1920)——with Philippe Soupault——'the first example of the Surrealist technique of automatic writing'）",
+  "year_sort": 1920,
+  "background": [
+    "Britannica（B344）：与苏波合著——'the first example of the Surrealist technique of automatic writing'（超现实主义自动写作的首例）。",
+    "Britannica（B344）：1919年与阿拉贡、苏波创办 Littérature 杂志——本作为其直接产物。",
+    "Britannica（B344）：1924宣言定义超现实主义——'pure psychic automatism'——本作为其先声。"
+  ],
+  "outline": [
+    "（通说待核——B344未载篇目）轮流自动写作的章节：梦境、幻觉与都市流动。",
+    "（通说待核）'磁场的领域'：无意识与外部世界的交感。"
+  ],
+  "characters": [
+    {
+      "name": "双声部'我'",
+      "identity": "布勒东/苏波",
+      "note": "（B344：with Philippe Soupault）"
+    }
+  ],
+  "themes": [
+    "自动写作的开端（B344：first example）。",
+    "无意识的磁力学（书名语境——通说待核）。",
+    "宣言之前的方法实践（B344：1924宣言交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the first example of the Surrealist technique of automatic writing'（B344）。",
+      "source": "B344"
+    },
+    {
+      "text": "Britannica：1924《超现实主义宣言》定义（B344 交叉）。",
+      "source": "B344"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自动写作的语流。",
+      "合作无署名（通说待核）。"
+    ],
+    "editions": [
+      "《磁场》中译名（《磁场》/《磁力场》两说——通说待核）。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "超现实主义源头文本；配合《宣言》阅读。"
+  },
+  "pending": [
+    "章节结构核对（通说）。",
+    "1920年出版细节待核。",
+    "'合作'分工方式待核。"
+  ],
+  "sources": [
+    "B344"
+  ],
+  "year_source": "B344",
+  "author_source": "B344",
+  "related_works": [
+    "najia",
+    "diyuzhiji",
+    "balideyouyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《磁场》自动写作结构图",
+    "cards": [
+      {
+        "title": "自动写作",
+        "text": "超现实主义首例（B344）",
+        "color": "gold"
+      },
+      {
+        "title": "双声部",
+        "text": "布勒东×苏波（B344）",
+        "color": "main"
+      },
+      {
+        "title": "磁场",
+        "text": "无意识的交感（书名）",
+        "color": "family"
+      },
+      {
+        "title": "宣言",
+        "text": "1924的前声（B344交叉）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

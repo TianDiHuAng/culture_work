@@ -1,0 +1,100 @@
+{
+  "id": "liushipian",
+  "title": "六十篇",
+  "original_title": "Sessanta racconti",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪50年代末",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "意大利语",
+  "author_id": "buzzati",
+  "author_name": "迪诺·布扎蒂",
+  "year_display": "1958年（Britannica B351：Sessanta racconti (1958)——'Sixty Tales' collection）",
+  "year_sort": 1958,
+  "background": [
+    "Britannica（B351）：Sessanta racconti (1958)——'Sixty Tales' collection。",
+    "Britannica（B351）：布扎蒂——卡夫卡式超现实、象征与荒诞——'uniquely devastating skill and detached sense of irony and humor'。",
+    "题材（通说待核）：六十个短篇的荒诞集——电梯、坠落、怪物与时间。"
+  ],
+  "outline": [
+    "（通说待核——B351未载篇目）超现实短篇的精选集。",
+    "（通说待核）'K'式恐慌与反讽的并置。"
+  ],
+  "characters": [
+    {
+      "name": "众篇人物",
+      "identity": "——",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "卡夫卡式的超现实（B351：Kafkaesque surrealism）。",
+    "日常的恐怖化（通说待核）。",
+    "疏离的反讽（B351：detached sense of irony）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Sixty Tales' collection（B351）。",
+      "source": "B351"
+    },
+    {
+      "text": "Britannica：'detached sense of irony and humor'（B351）。",
+      "source": "B351"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "超现实短篇的逻辑。",
+      "1950年代意大利都市背景。"
+    ],
+    "editions": [
+      "《六十篇》中译名（《短篇小说六十篇》两说——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "布扎蒂短篇首选；与《鞑靼人沙漠》对读。"
+  },
+  "pending": [
+    "篇目核对（B351未载）。",
+    "1958年出版（Mondadori说）待核。",
+    "'六十篇'实数核对。"
+  ],
+  "sources": [
+    "B351"
+  ],
+  "year_source": "B351",
+  "author_source": "B351",
+  "related_works": [
+    "datatarenshamo",
+    "chengbao",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《六十篇》荒诞集结构图",
+    "cards": [
+      {
+        "title": "六十篇",
+        "text": "超现实的精选（B351）",
+        "color": "main"
+      },
+      {
+        "title": "恐慌",
+        "text": "'K'式日常（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "反讽",
+        "text": "疏离的幽默（B351）",
+        "color": "gold"
+      },
+      {
+        "title": "卡夫卡",
+        "text": "影响的谱系（B351）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "xinyun",
+  "title": "新韵",
+  "original_title": "Rime nuove",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "19世纪80年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "carducci",
+  "author_name": "焦苏埃·卡尔杜齐",
+  "year_display": "1887年（Britannica B345：Rime nuove (1887)——与《野蛮颂》'contain the best of Carducci's poetry'）",
+  "year_sort": 1887,
+  "background": [
+    "Britannica（B345）：Rime nuove——与《野蛮颂》一起'contain the best of Carducci's poetry'。",
+    "Britannica（B345）：含 Maremma 风景、童年回忆与'the lament for the loss of his only son'（独子之殇）。",
+    "Britannica（B345）：1906诺奖。"
+  ],
+  "outline": [
+    "（通说待核——B345未载篇目）Maremma 风景的抒情与童年回忆。",
+    "（通说待核）'独子之殇'的哀歌（《致母亲》等说）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "古典主义者",
+      "note": "（B345 语境）"
+    }
+  ],
+  "themes": [
+    "风景与回忆（B345：Maremma evocations, childhood memories）。",
+    "丧子的哀歌（B345）。",
+    "古典格律的现代意语（B345 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'contain the best of Carducci's poetry'（B345）。",
+      "source": "B345"
+    },
+    {
+      "text": "Britannica：1906诺奖（B345 交叉）。",
+      "source": "B345"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "托斯卡纳方言地名。",
+      "哀歌与颂歌的语体切换。"
+    ],
+    "editions": [
+      "《新韵》中译名（《新诗集》两说——通说待核）。",
+      "意大利文原版（公有领域）。"
+    ],
+    "order": "卡杜齐抒情诗首选；与《野蛮颂》对读。"
+  },
+  "pending": [
+    "篇目核对（B345未载）。",
+    "1887年出版细节待核。",
+    "'独子'哀歌篇目归属待核。"
+  ],
+  "sources": [
+    "B345"
+  ],
+  "year_source": "B345",
+  "author_source": "B345",
+  "related_works": [
+    "yemanli",
+    "sadansong",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《新韵》哀歌结构图",
+    "cards": [
+      {
+        "title": "Maremma",
+        "text": "风景的抒情（B345）",
+        "color": "gold"
+      },
+      {
+        "title": "童年",
+        "text": "回忆的诗学（B345）",
+        "color": "family"
+      },
+      {
+        "title": "独子之殇",
+        "text": "哀歌的核心（B345）",
+        "color": "main"
+      },
+      {
+        "title": "古典",
+        "text": "格律的余音（B345语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
