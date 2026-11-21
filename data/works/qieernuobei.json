@@ -1,0 +1,100 @@
+{
+  "id": "qieernuobei",
+  "title": "切尔诺贝利的祭祷",
+  "original_title": "Чернобыльская молитва（Voices from Chernobyl）",
+  "region": "白俄罗斯",
+  "era": "现当代",
+  "era_detail": "20世纪90年代",
+  "genre": "纪实文学（口述实录）",
+  "genre_group": "散文",
+  "language": "俄语",
+  "author_id": "alexievich",
+  "author_name": "斯韦特兰娜·阿列克谢耶维奇",
+  "year_display": "1997年（Britannica B253：Voices from Chernobyl (1997)——中译名通说待核）",
+  "year_sort": 1997,
+  "background": [
+    "Britannica（B253）：Voices from Chernobyl (1997)——作者页列举（剧情/篇目细节通说待核）。",
+    "Britannica（B253）：其方法——'hybrid literary genre that evolved as the closest possible approximation to real life'、'human voices were allowed to speak for themselves'。",
+    "Britannica（B253）：目标'a history of human feelings'；2015诺奖授奖词'for her polyphonic writings, a monument to suffering and courage in our time'。"
+  ],
+  "outline": [
+    "核灾难幸存者与清理者们的众声独白（B253 方法语境——受访者细节通说待核）。",
+    "'人类情感史'的切尔诺贝利卷（B253：a history of human feelings）。"
+  ],
+  "characters": [
+    {
+      "name": "众声受访者",
+      "identity": "清理者/撤离者/遗属",
+      "note": "（通说待核，B253未载具体人名）"
+    }
+  ],
+  "themes": [
+    "'人类情感史'的口述档案（B253）。",
+    "'复调'写作：让声音自己说话（B253：human voices...speak for themselves）。",
+    "核时代的日常之痛（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2015诺奖——'a monument to suffering and courage in our time'（B253）。",
+      "source": "B253"
+    },
+    {
+      "text": "Britannica：'polyphonic writings'（B253）。",
+      "source": "B253"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "口述实录的复调结构。",
+      "切尔诺贝利事故史（1986——通说待核）。"
+    ],
+    "editions": [
+      "《切尔诺贝利的祭祷》中译本（中信等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "阿列克谢耶维奇首选之一；与《二手时间》对读。"
+  },
+  "pending": [
+    "中译名（《切尔诺贝利的祭祷》/《切尔诺贝利的悲鸣》）待核。",
+    "1997年俄文初版细节待核。",
+    "受访者章节结构待核。"
+  ],
+  "sources": [
+    "B253"
+  ],
+  "year_source": "B253",
+  "author_source": "B253",
+  "related_works": [
+    "ershoushijian",
+    "huoluan",
+    "xiaoyuyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《切尔诺贝利的祭祷》众声结构图",
+    "cards": [
+      {
+        "title": "众声",
+        "text": "让声音自己说话（B253）",
+        "color": "main"
+      },
+      {
+        "title": "复调",
+        "text": "polyphonic writings（B253）",
+        "color": "gold"
+      },
+      {
+        "title": "情感史",
+        "text": "a history of human feelings（B253）",
+        "color": "family"
+      },
+      {
+        "title": "核灾",
+        "text": "1986年的余波（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -10,21 +10,70 @@
   "era": "近代",
   "summary": "巴尔扎克，图尔人，法国现实主义文学的奠基人。以约90部小说与中篇构成《人间喜剧》（La Comédie humaine，Britannica：roughly 90 novels and novellas aiming to cover all of contemporary society），以'人物复现'（recurring characters）技术统一全书（Britannica），被称为'当代法国社会的最高观察者与编年史家'（Britannica：Supreme observer and chronicler of contemporary French society）、'公认史上最伟大的小说家之一'（generally considered one of the greatest novelists of all time）。一生负债累累（1828年印刷出版业失败负债6万余法郎，Britannica），靠每日14—16小时写作与咖啡维生（Britannica：wrote 14–16 hours daily fueled by black coffee）。",
   "timeline": [
-    {"year": "1799-05-20", "text": "生于图尔（Britannica：Born May 20, 1799, Tours），原名奥诺雷·巴尔萨（Balssa，Britannica）。", "src": "B039"},
-    {"year": "1807—1814", "text": "旺多姆奥拉托利会中学寄宿（Britannica：Collège des Oratoriens at Vendôme, ages 8–14）。", "src": "B039"},
-    {"year": "1816—1819", "text": "巴黎攻读法律，律所书记三年（Britannica：worked three years as a lawyer's clerk）。", "src": "B039"},
-    {"year": "1819—1828", "text": "文学起步与商业冒险：悲剧《克伦威尔》（1819）失败（Britannica）；化名写廉价小说（Britannica：pseudonymous potboilers）；1828年印刷所与铸字厂生意失败，负债逾六万法郎（Britannica：nearly bankrupted him in 1828, leaving debts of over 60,000 francs）。", "src": "B039"},
-    {"year": "1829", "text": "《朱安党人》首次以本名出版——成名作与《人间喜剧》第一步（Britannica：Breakthrough 1829: Les Chouans (first novel under his own name)）。", "src": "B039"},
-    {"year": "1832", "text": "结识波兰贵族夫人韩斯卡（Éveline Hanska，Britannica：Met Polish countess Éveline Hanska in 1832）；1833年起成情人（Britannica），约定夫死而婚。", "src": "B039"},
-    {"year": "1832—1835", "text": "创作巅峰：《欧也妮·葛朗台》《高老头》（1835，'a masterpiece'——Britannica）等20余部（Britannica：over 20 works）。", "src": "B039"},
-    {"year": "1842", "text": "《人间喜剧》总序与总体编目（'风俗研究/哲学研究/分析研究'三类，Britannica：three planned categories）出版。", "src": "B039"},
-    {"year": "1846—1848", "text": "赴乌克兰韩斯卡庄园；《贝姨》（1846）、《邦斯舅舅》（1847）等后期杰作（Britannica：Cousin Bette, Cousin Pons）。", "src": "B039"},
-    {"year": "1850-03", "text": "与韩斯卡夫人完婚于乌克兰（Britannica：their correspondence published posthumously as Lettres à l'étrangère——婚姻于1850年3月，通说待核）；同年8月18日因心力衰竭卒于巴黎。", "src": "B039"}
+    {
+      "year": "1799-05-20",
+      "text": "生于图尔（Britannica：Born May 20, 1799, Tours），原名奥诺雷·巴尔萨（Balssa，Britannica）。",
+      "src": "B039"
+    },
+    {
+      "year": "1807—1814",
+      "text": "旺多姆奥拉托利会中学寄宿（Britannica：Collège des Oratoriens at Vendôme, ages 8–14）。",
+      "src": "B039"
+    },
+    {
+      "year": "1816—1819",
+      "text": "巴黎攻读法律，律所书记三年（Britannica：worked three years as a lawyer's clerk）。",
+      "src": "B039"
+    },
+    {
+      "year": "1819—1828",
+      "text": "文学起步与商业冒险：悲剧《克伦威尔》（1819）失败（Britannica）；化名写廉价小说（Britannica：pseudonymous potboilers）；1828年印刷所与铸字厂生意失败，负债逾六万法郎（Britannica：nearly bankrupted him in 1828, leaving debts of over 60,000 francs）。",
+      "src": "B039"
+    },
+    {
+      "year": "1829",
+      "text": "《朱安党人》首次以本名出版——成名作与《人间喜剧》第一步（Britannica：Breakthrough 1829: Les Chouans (first novel under his own name)）。",
+      "src": "B039"
+    },
+    {
+      "year": "1832",
+      "text": "结识波兰贵族夫人韩斯卡（Éveline Hanska，Britannica：Met Polish countess Éveline Hanska in 1832）；1833年起成情人（Britannica），约定夫死而婚。",
+      "src": "B039"
+    },
+    {
+      "year": "1832—1835",
+      "text": "创作巅峰：《欧也妮·葛朗台》《高老头》（1835，'a masterpiece'——Britannica）等20余部（Britannica：over 20 works）。",
+      "src": "B039"
+    },
+    {
+      "year": "1842",
+      "text": "《人间喜剧》总序与总体编目（'风俗研究/哲学研究/分析研究'三类，Britannica：three planned categories）出版。",
+      "src": "B039"
+    },
+    {
+      "year": "1846—1848",
+      "text": "赴乌克兰韩斯卡庄园；《贝姨》（1846）、《邦斯舅舅》（1847）等后期杰作（Britannica：Cousin Bette, Cousin Pons）。",
+      "src": "B039"
+    },
+    {
+      "year": "1850-03",
+      "text": "与韩斯卡夫人完婚于乌克兰（Britannica：their correspondence published posthumously as Lettres à l'étrangère——婚姻于1850年3月，通说待核）；同年8月18日因心力衰竭卒于巴黎。",
+      "src": "B039"
+    }
   ],
   "major_works": [
-    {"work_id": "gaolaotou", "note": "1834—35；'《人间喜剧》最佳作品之一'（Britannica）"},
-    {"title": "欧也妮·葛朗台（1833）", "note": "守财奴文学经典（Britannica 列举 The Country Doctor, Eugénie Grandet）"},
-    {"title": "幻灭（1837—43）、贝姨（1846）", "note": "后期巨著（Britannica）"}
+    {
+      "work_id": "gaolaotou",
+      "note": "1834—35；'《人间喜剧》最佳作品之一'（Britannica）"
+    },
+    {
+      "work_id": "ouyanigelangtai",
+      "note": "守财奴文学经典（Britannica 列举 The Country Doctor, Eugénie Grandet）"
+    },
+    {
+      "title": "幻灭（1837—43）、贝姨（1846）",
+      "note": "后期巨著（Britannica）"
+    }
   ],
   "style": [
     "'人物复现法'：同一人物在多部小说中延续生命——小说世界的'生态系统'（Britannica：unified by recurring characters——'the first to feature characters that would reappear in later novels'）。",
@@ -33,7 +82,10 @@
     "'生活细节'的忠实：'社会学式'的 Paris 与外省全景（Britannica：Detailed depiction of social spheres）。"
   ],
   "status": "Britannica 定位巴尔扎克为'现实主义文学的主要先驱'（major precursor of literary realism）、'现代小说系列（cycle）的开创者'（originator of the modern novel cycle）。《人间喜剧》计划以一部'风俗研究'覆盖整个法国社会（Britannica：aiming to cover all of contemporary society），左拉以其为自然主义源头、普鲁斯特与福克纳承其'人物复现'（通说待核）。'巴尔扎克式'已成为汉语形容词（形容细节繁多的社会全景写作，通说待核）。",
-  "sources": ["B039", "B014"],
+  "sources": [
+    "B039",
+    "B014"
+  ],
   "dates_source": "B039",
   "pending": [
     "《人间喜剧》最终篇目数（91/90/97说随统计口径）待核。",

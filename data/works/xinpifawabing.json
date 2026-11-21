@@ -1,0 +1,100 @@
+{
+  "id": "xinpifawabing",
+  "title": "锌皮娃娃兵",
+  "original_title": "Цинковые мальчики（Zinky Boys）",
+  "region": "白俄罗斯",
+  "era": "现当代",
+  "era_detail": "20世纪80年代末",
+  "genre": "纪实文学（口述实录）",
+  "genre_group": "散文",
+  "language": "俄语",
+  "author_id": "alexievich",
+  "author_name": "斯韦特兰娜·阿列克谢耶维奇",
+  "year_display": "1990年（Britannica B253：Zinky Boys (1990)——中译名通说待核）",
+  "year_sort": 1990,
+  "background": [
+    "Britannica（B253）：Zinky Boys (1990)——作者页列举（阿富汗战争题材——通说待核）。",
+    "Britannica（B253）：方法——'human voices were allowed to speak for themselves'；'a history of human feelings'。",
+    "Britannica（B253）：2015诺奖授奖词——'for her polyphonic writings, a monument to suffering and courage in our time'。"
+  ],
+  "outline": [
+    "阿富汗战争归来的士兵与母亲们的口述（题材通说待核——B253未载细节）。",
+    "'锌皮棺材'：战争的代价（书名意象通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "众声受访者",
+      "identity": "士兵/母亲",
+      "note": "（通说待核，B253未载）"
+    }
+  ],
+  "themes": [
+    "战争的口述档案（B253 方法）。",
+    "母亲与士兵的对话（通说待核）。",
+    "政治与身体的账目（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'polyphonic writings'——2015诺奖（B253）。",
+      "source": "B253"
+    },
+    {
+      "text": "Britannica：'hybrid literary genre'（B253）。",
+      "source": "B253"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "苏联阿富汗战争史（1979-89——通说待核）。",
+      "口述的伦理。"
+    ],
+    "editions": [
+      "《锌皮娃娃兵》中译本（中信等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "与《切尔诺贝利的祭祷》对读。"
+  },
+  "pending": [
+    "中译名两说（《锌皮娃娃兵》/《锌皮男孩》）待核。",
+    "1990年出版争议细节待核。",
+    "章节结构待核。"
+  ],
+  "sources": [
+    "B253"
+  ],
+  "year_source": "B253",
+  "author_source": "B253",
+  "related_works": [
+    "ershoushijian",
+    "qieernuobei",
+    "xiaoyuyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《锌皮娃娃兵》口述结构图",
+    "cards": [
+      {
+        "title": "士兵",
+        "text": "归来的口述（通说）",
+        "color": "main"
+      },
+      {
+        "title": "母亲",
+        "text": "锌皮棺材（通说）",
+        "color": "family"
+      },
+      {
+        "title": "战争",
+        "text": "阿富汗的账目（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "复调",
+        "text": "诺奖的评语（B253）",
+        "color": "gold"
+      }
+    ]
+  }
+}

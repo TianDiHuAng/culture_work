@@ -10,18 +10,59 @@
   "era": "现当代",
   "summary": "芥川龙之介，东京人，'多产的日本作家，以取材日本过去的故事与文体之精妙著称'（Britannica：a prolific Japanese writer...celebrated for stories drawn from Japan's past and his stylistic brilliance）。东京帝国大学英文系（1913—1916）期间以《罗生门》（1915）受夏目漱石赏识（Britannica）；改写12、13世纪故事集以现代心理学，兼取中国典籍、长崎基督徒与欧洲见闻（Britannica）。35岁自杀，'shocked the literary world'（震惊文坛，Britannica）；黑泽明1950年《罗生门》取材其两篇（Britannica）。日本'芥川奖'以其命名（通说待核）。",
   "timeline": [
-    {"year": "1892-03-01", "text": "生于东京牛岛（通说待核），生后因母病被送养为芥川家养子（通说待核）。", "src": "B109"},
-    {"year": "1913—1916", "text": "东京帝国大学英文系（Britannica：While studying English literature at Tokyo Imperial University (1913–1916)）；1915年《罗生门》——'brought him to the attention of Natsume Sōseki'（受漱石赏识，Britannica）。", "src": "B109"},
-    {"year": "1916—1923", "text": "帝国新闻社海军部（通说待核）；《鼻子》（1916，通说待核）、《地狱变》（1918，通说待核）、《杜子春》等取材中国故事（Britannica：drawing on Chinese sources）；《蜜柑》《手巾》等近代题材。", "src": "B109"},
-    {"year": "1921", "text": "《大阪每日新闻》视察中国（'上海游记'等——通说待核）。", "src": "B109"},
-    {"year": "1923—1925", "text": "关东大地震报道（通说待核）；健康恶化（通说待核）。", "src": "B109"},
-    {"year": "1927", "text": "《玄鹤山房》《河童》（Britannica：the satire 'Kappa' (1927)，reflected his depression）；《齿轮》《一个傻瓜的一生》（通说待核）；7月24日服毒自杀，年35（Britannica：He died by suicide at 35, shocking the literary world）。", "src": "B109"},
-    {"year": "身后", "text": "1935年菊池宽设立'芥川龙之介奖'（通说待核）；黑泽明《罗生门》（1950）获威尼斯金狮（Britannica：Kurosawa's 1950 film Rashomon draws on two of his stories；'威尼斯金狮1951'待核）。", "src": "B109"}
+    {
+      "year": "1892-03-01",
+      "text": "生于东京牛岛（通说待核），生后因母病被送养为芥川家养子（通说待核）。",
+      "src": "B109"
+    },
+    {
+      "year": "1913—1916",
+      "text": "东京帝国大学英文系（Britannica：While studying English literature at Tokyo Imperial University (1913–1916)）；1915年《罗生门》——'brought him to the attention of Natsume Sōseki'（受漱石赏识，Britannica）。",
+      "src": "B109"
+    },
+    {
+      "year": "1916—1923",
+      "text": "帝国新闻社海军部（通说待核）；《鼻子》（1916，通说待核）、《地狱变》（1918，通说待核）、《杜子春》等取材中国故事（Britannica：drawing on Chinese sources）；《蜜柑》《手巾》等近代题材。",
+      "src": "B109"
+    },
+    {
+      "year": "1921",
+      "text": "《大阪每日新闻》视察中国（'上海游记'等——通说待核）。",
+      "src": "B109"
+    },
+    {
+      "year": "1923—1925",
+      "text": "关东大地震报道（通说待核）；健康恶化（通说待核）。",
+      "src": "B109"
+    },
+    {
+      "year": "1927",
+      "text": "《玄鹤山房》《河童》（Britannica：the satire 'Kappa' (1927)，reflected his depression）；《齿轮》《一个傻瓜的一生》（通说待核）；7月24日服毒自杀，年35（Britannica：He died by suicide at 35, shocking the literary world）。",
+      "src": "B109"
+    },
+    {
+      "year": "身后",
+      "text": "1935年菊池宽设立'芥川龙之介奖'（通说待核）；黑泽明《罗生门》（1950）获威尼斯金狮（Britannica：Kurosawa's 1950 film Rashomon draws on two of his stories；'威尼斯金狮1951'待核）。",
+      "src": "B109"
+    }
   ],
   "major_works": [
-    {"work_id": "luoshengmen", "note": "通行选集（本库立目）"},
-    {"title": "地狱变（1918）、河童（1927）", "note": "中短篇杰作（Britannica 列举 Kappa）"},
-    {"title": "一个傻瓜的一生（1927）", "note": "'自传性告白'（通说待核）"}
+    {
+      "work_id": "luoshengmen",
+      "note": "通行选集（本库立目）"
+    },
+    {
+      "title": "地狱变（1918）、河童（1927）",
+      "note": "中短篇杰作（Britannica 列举 Kappa）"
+    },
+    {
+      "title": "一个傻瓜的一生（1927）",
+      "note": "'自传性告白'（通说待核）"
+    },
+    {
+      "work_id": "hetong",
+      "note": "（零成本批33）"
+    }
   ],
   "style": [
     "'古典改写'的现代心理学：12—13世纪物语以'现代心理'重写（Britannica：retold tales from 12th- and 13th-century collections using modern psychology）。",
@@ -30,7 +71,9 @@
     "'艺术至上主义'的地狱变：良秀之女焚画的极致（通说待核）。"
   ],
   "status": "Britannica 定位芥川为'多产、取材古典、文体精妙'的作家；'his work remains widely translated'（作品至今广泛翻译——Britannica）。其自杀成为日本近代文学'艺术与生活的冲突'的象征事件；芥川奖（1935年起）是日本纯文学新人最高奖（通说待核）。《竹林中》的多重叙事结构成为世界叙事学的经典案例（'罗生门效应'——Rashomon effect——通说待核）。",
-  "sources": ["B109"],
+  "sources": [
+    "B109"
+  ],
   "dates_source": "B109",
   "pending": [
     "生地（东京京桥区牛町？）与养子缘组细节待核。",

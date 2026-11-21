@@ -37,12 +37,16 @@
       "note": "口述实录（Britannica：2013）"
     },
     {
-      "title": "切尔诺贝利的祭祷",
+      "work_id": "qieernuobei",
       "note": "（Britannica：Voices from Chernobyl (1997)）"
     },
     {
       "title": "锌皮娃娃兵",
       "note": "（Britannica：Zinky Boys (1990)）"
+    },
+    {
+      "work_id": "xinpifawabing",
+      "note": "（零成本批33）"
     }
   ],
   "style": [

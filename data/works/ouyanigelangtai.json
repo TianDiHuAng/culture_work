@@ -1,0 +1,105 @@
+{
+  "id": "ouyanigelangtai",
+  "title": "欧也妮·葛朗台",
+  "original_title": "Eugénie Grandet",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪30年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "balzac",
+  "author_name": "奥诺雷·德·巴尔扎克",
+  "year_display": "1833年（Britannica B039：《人间喜剧》列举 Eugénie Grandet——出版年通说待核）",
+  "year_sort": 1833,
+  "background": [
+    "Britannica（B039）：《人间喜剧》约90部——Eugénie Grandet 在列举之列（作者页注记）。",
+    "Britannica（B039）：巴尔扎克——'现实主义主要先驱、现代小说系列开创者、公认史上最伟大小说家之一'之评；'偏执狂'人物塑造论。",
+    "题材（通说待核）：索缪城的守财奴葛朗台与其女欧也妮——金钱对家庭的腐蚀。"
+  ],
+  "outline": [
+    "（通说待核——B039未载剧情）守财奴的遗产游戏与女儿的牺牲。",
+    "（通说待核）堂弟夏尔的到来与巴黎的诱惑。"
+  ],
+  "characters": [
+    {
+      "name": "葛朗台",
+      "identity": "守财奴",
+      "note": "（通说待核——'守财奴文学经典'之注记）"
+    },
+    {
+      "name": "欧也妮",
+      "identity": "女儿",
+      "note": "（通说待核，B039未载）"
+    }
+  ],
+  "themes": [
+    "金钱对亲情的腐蚀（通说待核）。",
+    "'偏执狂'人物塑造（B039：人物塑造论）。",
+    "外省与巴黎的对比（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'现实主义主要先驱'（B039 作者级）。",
+      "source": "B039"
+    },
+    {
+      "text": "Britannica：《人间喜剧》人物复现法（B039）。",
+      "source": "B039"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "复辟时期外省社会（通说待核）。",
+      "《人间喜剧》体系定位。"
+    ],
+    "editions": [
+      "《欧也妮·葛朗台》中译本（人民文学/上海译文等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "巴尔扎克入门首选；与《高老头》对读。"
+  },
+  "pending": [
+    "1833年出版细节核对（通说）。",
+    "葛朗台/欧也妮/夏尔人名核对（B039未载）。",
+    "与《人间喜剧》分册归属待核。"
+  ],
+  "sources": [
+    "B039"
+  ],
+  "year_source": "B039",
+  "author_source": "B039",
+  "related_works": [
+    "gaolaotou",
+    "mengya",
+    "baofali"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《欧也妮·葛朗台》金钱腐蚀图",
+    "cards": [
+      {
+        "title": "葛朗台",
+        "text": "守财奴（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "欧也妮",
+        "text": "牺牲的女儿（通说）",
+        "color": "main"
+      },
+      {
+        "title": "金钱",
+        "text": "家庭的腐蚀（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "偏执狂",
+        "text": "人物塑造论（B039）",
+        "color": "family"
+      }
+    ]
+  }
+}
