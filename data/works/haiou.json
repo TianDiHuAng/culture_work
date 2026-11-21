@@ -10,22 +10,21 @@
   "language": "俄语",
   "author_id": "chikefu",
   "author_name": "安东·契诃夫",
-  "year_display": "1896年首演（通说待核；作者页 B270 存目：'Notable Works'——The Seagull；1898年莫斯科艺术剧院成功说通说待核）",
+  "year_display": "1896年首演（作者页B270口径：契诃夫戏剧四部之一——海鸥1896年彼得堡首演失败、1898年莫斯科艺术剧院成功说通说待核）",
   "year_sort": 1896,
   "background": [
-    "作者页（B270）：契诃夫 major works 存目含'The Seagull'（B270 作者页定位）。",
-    "契诃夫原则（B270）：'Chekhov's gun'与'what is left unsaid seems much more important than what is said'。",
-    "1898年莫斯科艺术剧院复排成功（Britannica 相关问答提及——通说待核）。"
+    "作者页（B270）：契诃夫戏剧代表作四部——The Seagull 存目；'Chekhovs gun'与'what is left unsaid seems much more important than what is said'（B270）。",
+    "题材（通说待核）：乡村少女尼娜与青年作家特里波列夫——'海鸥'被射杀的隐喻。"
   ],
   "outline": [
-    "尼娜与特里波列夫：新戏剧的失败与'海鸥'的射杀（通说待核）。",
-    "两年后：尼娜的重来与特里波列夫的自尽（通说待核）。"
+    "尼娜的演员梦与特里波列夫的文学梦——两种理想的毁灭（通说待核）。",
+    "阿尔卡基娜（名演员母亲）与特里波列夫的母子冲突（通说待核）。"
   ],
   "characters": [
     {
       "name": "尼娜",
       "identity": "少女演员",
-      "note": "海鸥的化身（通说待核）"
+      "note": "（通说待核）"
     },
     {
       "name": "特里波列夫",
@@ -39,23 +38,23 @@
     }
   ],
   "themes": [
-    "新形式的失败与坚持（通说待核）。",
-    "海鸥的象征：射杀与重生（通说待核）。",
-    "'潜台词'的戏剧（B270 语境）。"
+    "'新形式'的戏剧实验（通说待核）。",
+    "'海鸥'的象征：射杀与重生（通说待核）。",
+    "艺术与爱情的毁灭（通说）。"
   ],
   "influence": [
     {
-      "text": "作者页：契诃夫 Notable Works 存目（B270）。",
+      "text": "作者页：契诃夫戏剧四部之一（B270 作者页口径）。",
       "source": "B270"
     },
     {
-      "text": "作者页：'Chekhov's gun'与未说出之重（B270）。",
+      "text": "作者页：'Chekhovs gun'与未说出之重（B270）。",
       "source": "B270"
     }
   ],
   "reading": {
     "difficulties": [
-      "'潜台词'的表演法。",
+      "'潜台词'表演。",
       "莫斯科艺术剧院史。"
     ],
     "editions": [
@@ -66,7 +65,7 @@
   },
   "pending": [
     "1896年彼得堡首演失败说核对。",
-    "1898年莫斯科艺术剧院复排说核对。",
+    "1898年莫斯科艺术剧院复排成功说核对。",
     "尼娜/特里波列夫人名核对。"
   ],
   "sources": [
