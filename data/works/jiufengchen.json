@@ -1,0 +1,110 @@
+{
+  "id": "jiufengchen",
+  "title": "救风尘",
+  "original_title": "赵盼儿风月救风尘",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "13世纪",
+  "genre": "杂剧",
+  "genre_group": "戏剧",
+  "language": "汉语",
+  "author_id": "guanhanqing",
+  "author_name": "关汉卿",
+  "year_display": "作者页注记：Britannica 关汉卿条署名条目（作品归属通行说法——年代通说待核）",
+  "year_sort": 1300,
+  "background": [
+    "作者页注记：救风尘——'喜剧代表作，写妓女赵盼儿智救同伴；署名条目见 Britannica 关汉卿条（作品归属通行说法）'。",
+    "Britannica：关汉卿——元杂剧四大家之首说（作者页语境——待核）。",
+    "题材（通说待核）：赵盼儿以风月手段搭救被周舍欺骗的姐妹宋引章。"
+  ],
+  "outline": [
+    "（通说待核）赵盼儿的风月圈套：智取周舍。",
+    "（通说待核）'风月救风尘'：以恶治恶的喜剧智慧。"
+  ],
+  "characters": [
+    {
+      "name": "赵盼儿",
+      "identity": "妓女/救人者",
+      "note": "（B注记：赵盼儿）"
+    },
+    {
+      "name": "宋引章",
+      "identity": "被骗姐妹",
+      "note": "（B注记）"
+    },
+    {
+      "name": "周舍",
+      "identity": "负心商人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "底层女性的互助（通说待核）。",
+    "'风月'作为武器（通说待核）。",
+    "元杂剧喜剧的典范（B注记语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：关汉卿条署名条目（作者页注记）。",
+      "source": "B073"
+    },
+    {
+      "text": "Britannica：《窦娥冤》为代表作（作者页交叉）。",
+      "source": "B073"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "元杂剧四折一楔子体制。",
+      "市井口语的元代语法。"
+    ],
+    "editions": [
+      "《救风尘》（人民文学出版社《关汉卿全集》等——通说待核）。",
+      "元刊本（公有领域）。"
+    ],
+    "order": "关汉卿喜剧首选；与《窦娥冤》对读。"
+  },
+  "pending": [
+    "四折结构核对（通说）。",
+    "署名条目的'通行说法'边界核对（B注记）。",
+    "2023年影视改编不采。"
+  ],
+  "sources": [
+    "B073"
+  ],
+  "year_source": "B073",
+  "author_source": "B073",
+  "related_works": [
+    "doueyuan",
+    "xiniu",
+    "richu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《救风尘》风月智取图",
+    "cards": [
+      {
+        "title": "赵盼儿",
+        "text": "智救的巧计（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "周舍",
+        "text": "负心的骗局（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "风月",
+        "text": "以恶制恶（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "姐妹",
+        "text": "底层的互助（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "kasiteqiaoshizhang",
+  "title": "卡斯特桥市长",
+  "original_title": "The Mayor of Casterbridge",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪80年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hardy",
+  "author_name": "托马斯·哈代",
+  "year_display": "1886年（作者页注记：Britannica 列举——卡斯特桥市长 (1886)——'威塞克斯小说'）",
+  "year_sort": 1886,
+  "background": [
+    "作者页注记：远离尘嚣 (1874)、还乡 (1878)、卡斯特桥市长 (1886)、无名的裘德 (1895)——''威塞克斯小说'（Britannica 列举）'。",
+    "Britannica：哈代——英国小说家与诗人（作者页语境）。",
+    "题材（通说待核）：亨查德卖妻——命运与性格悲剧。"
+  ],
+  "outline": [
+    "（通说待核）亨查德的卖妻悔恨与发迹为市长。",
+    "（通说待核）伐尔弗雷的登场与亨查德的败落。"
+  ],
+  "characters": [
+    {
+      "name": "迈克尔·亨查德",
+      "identity": "市长/谷物商",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "唐纳德·伐尔弗雷",
+      "identity": "苏格兰人对手",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'性格即命运'的希腊式悲剧（通说待核）。",
+    "威塞克斯的乡村与市场（B注记语境）。",
+    "传统农业社会的解体（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'威塞克斯小说'（作者页注记）。",
+      "source": "B123"
+    },
+    {
+      "text": "Britannica：哈代《德伯家的苔丝》为代表作（作者页交叉）。",
+      "source": "B123"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多塞特乡村社会。",
+      "'性格悲剧'的古典结构。"
+    ],
+    "editions": [
+      "《卡斯特桥市长》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "哈代中期首选；与《德伯家的苔丝》对读。"
+  },
+  "pending": [
+    "亨查德人名核对（通说）。",
+    "1886年连载/出版细节待核。",
+    "'卖妻'开场细节待核。"
+  ],
+  "sources": [
+    "B123"
+  ],
+  "year_source": "B123",
+  "author_source": "B123",
+  "related_works": [
+    "debojiadetaisi",
+    "wumingdeqiude",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《卡斯特桥市长》性格悲剧图",
+    "cards": [
+      {
+        "title": "亨查德",
+        "text": "卖妻的悔恨（通说）",
+        "color": "main"
+      },
+      {
+        "title": "市长",
+        "text": "发迹与败落（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "伐尔弗雷",
+        "text": "性格的对照（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "威塞克斯",
+        "text": "乡村的世界（B注记）",
+        "color": "family"
+      }
+    ]
+  }
+}

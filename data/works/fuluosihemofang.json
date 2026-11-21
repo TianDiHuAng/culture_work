@@ -1,0 +1,105 @@
+{
+  "id": "fuluosihemofang",
+  "title": "弗洛斯河上的磨坊",
+  "original_title": "The Mill on the Floss",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪60年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "geluote",
+  "author_name": "乔治·爱略特",
+  "year_display": "1860年（作者页注记：Britannica 列举——弗洛斯河上的磨坊 (1860)）",
+  "year_sort": 1860,
+  "background": [
+    "作者页注记：亚当·比德 (1859)、弗洛斯河上的磨坊 (1860)——'早期名作（Britannica 列举）'。",
+    "Britannica：乔治·爱略特——《米德尔马契》作者（作者页交叉）。",
+    "题材（通说待核）：麦琪与汤姆兄妹——弗洛斯河畔的家族恩怨与洪水。"
+  ],
+  "outline": [
+    "（通说待核）麦琪的才情与家族的排斥。",
+    "（通说待核）洪水的终局与兄妹的和解。"
+  ],
+  "characters": [
+    {
+      "name": "麦琪·塔利弗",
+      "identity": "女主角",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "汤姆",
+      "identity": "兄长",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "兄妹的对立与和解（通说待核）。",
+    "女性才情的压抑（通说待核）。",
+    "'早期名作'（B注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'早期名作'（作者页注记）。",
+      "source": "B122"
+    },
+    {
+      "text": "Britannica：《米德尔马契》为代表作（作者页交叉）。",
+      "source": "B122"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多塞特/林肯郡乡村（圣奥格镇说——通说待核）。",
+      "心理现实主义的早期形态。"
+    ],
+    "editions": [
+      "《弗洛斯河上的磨坊》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "乔治·爱略特第二作；先于《米德尔马契》。"
+  },
+  "pending": [
+    "麦琪/汤姆人名核对（通说）。",
+    "1860年出版细节待核。",
+    "洪水结局细节待核。"
+  ],
+  "sources": [
+    "B122"
+  ],
+  "year_source": "B122",
+  "author_source": "B122",
+  "related_works": [
+    "midengmamaqi",
+    "zhigongmanan",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《弗洛斯河上的磨坊》兄妹图",
+    "cards": [
+      {
+        "title": "麦琪",
+        "text": "才情的压抑（通说）",
+        "color": "main"
+      },
+      {
+        "title": "汤姆",
+        "text": "拘谨的兄长（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "磨坊",
+        "text": "家族的产业（书名）",
+        "color": "family"
+      },
+      {
+        "title": "洪水",
+        "text": "和解的终局（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

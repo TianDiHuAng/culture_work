@@ -1,0 +1,105 @@
+{
+  "id": "pan1894",
+  "title": "潘",
+  "original_title": "Pan",
+  "region": "挪威",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "挪威语",
+  "author_id": "hamsun",
+  "author_name": "克努特·汉姆生",
+  "year_display": "1894年（Britannica B360：Pan (1894)）",
+  "year_sort": 1894,
+  "background": [
+    "Britannica（B360）：Pan——早期作品——'asocial heroes'——'either was indifferent to or took an irreverent view of progress'。",
+    "Britannica（B360）：汉姆生——1920诺奖；《饥饿》为其成名作（交叉）。",
+    "题材（通说待核）：中尉格拉恩与爱德华在挪威森林的夏恋——'潘'的野性。"
+  ],
+  "outline": [
+    "（通说待核）森林猎人的夏日与商人的女儿。",
+    "（通说待核）'潘'的合唱与自然的独白。"
+  ],
+  "characters": [
+    {
+      "name": "格拉恩",
+      "identity": "中尉",
+      "note": "（通说待核，B360未载）"
+    },
+    {
+      "name": "爱德华",
+      "identity": "商人女儿",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "自然的泛神论（书名语境——通说待核）。",
+    "'asocial heroes'（B360）。",
+    "对进步的漠然或不敬（B360）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Pan (1894)（B360）。",
+      "source": "B360"
+    },
+    {
+      "text": "Britannica：1920诺奖（B360 交叉）。",
+      "source": "B360"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'潘'的神话语境。",
+      "抒情与叙事的混合（通说待核）。"
+    ],
+    "editions": [
+      "《潘》中译本（人民文学等——通说待核）。",
+      "挪威文原版（公有领域）。"
+    ],
+    "order": "汉姆生第二作；与《饥饿》《大地的成长》对读。"
+  },
+  "pending": [
+    "格拉恩/爱德华人名核对（通说）。",
+    "1894年出版细节待核。",
+    "'合唱'结构（Chorus of Pan说）待核。"
+  ],
+  "sources": [
+    "B360"
+  ],
+  "year_source": "B360",
+  "author_source": "B360",
+  "related_works": [
+    "jihe",
+    "dadidechengzhang",
+    "xinnuofusuobaken"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《潘》森林夏恋图",
+    "cards": [
+      {
+        "title": "潘",
+        "text": "野性的神（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "森林",
+        "text": "挪威的夏天（通说）",
+        "color": "family"
+      },
+      {
+        "title": "夏恋",
+        "text": "注定错位（通说）",
+        "color": "main"
+      },
+      {
+        "title": "进步",
+        "text": "'不敬'的目光（B360）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "bingdaozhizhong",
+  "title": "冰岛之钟",
+  "original_title": "Íslandsklukkan",
+  "region": "冰岛",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说（三部曲）",
+  "genre_group": "小说",
+  "language": "冰岛语",
+  "author_id": "laxness",
+  "author_name": "哈尔多尔·拉克斯内斯",
+  "year_display": "1943-46年（Britannica B361：Íslandsklukkan (1943-46)——三部曲）",
+  "year_sort": 1943,
+  "background": [
+    "Britannica（B361）：Íslandsklukkan——三部曲（'Iceland's Bell'）。",
+    "Britannica（B361）：拉克斯内斯——1955诺奖——'renewed the great narrative art of Iceland'。",
+    "题材（通说待核）：17世纪冰岛——约翰·哈尔滨普的'钟声'与民族觉醒。"
+  ],
+  "outline": [
+    "（通说待核）第一部：冰岛之钟；第二、三部：钟声的余波（卷名通说待核）。",
+    "（通说待核）饥饿、丹麦统治与'财宝'传说。"
+  ],
+  "characters": [
+    {
+      "name": "约翰·哈尔滨普",
+      "identity": "求学者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "斯诺里·坡尔",
+      "identity": "压迫者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "17世纪冰岛的殖民史（通说待核）。",
+    "民族叙事的更新（B361：诺奖引语）。",
+    "苦难与传说（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1955诺奖（B361）。",
+      "source": "B361"
+    },
+    {
+      "text": "Britannica：'renewed the great narrative art of Iceland'（B361）。",
+      "source": "B361"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "17世纪冰岛历史。",
+      "三部曲的卷次。"
+    ],
+    "editions": [
+      "《冰岛之钟》中译本（人民文学等——通说待核）。",
+      "冰岛文原版。"
+    ],
+    "order": "拉克斯内斯史诗篇；与《独立的人们》对读。"
+  },
+  "pending": [
+    "三部卷名核对（通说）。",
+    "哈尔滨普人名核对（通说）。",
+    "1943-46出版细节待核（B361口径）。"
+  ],
+  "sources": [
+    "B361"
+  ],
+  "year_source": "B361",
+  "author_source": "B361",
+  "related_works": [
+    "dulidemen",
+    "nongmin",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《冰岛之钟》民族叙事图",
+    "cards": [
+      {
+        "title": "钟声",
+        "text": "民族的觉醒（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "哈尔滨普",
+        "text": "17世纪的求索（通说）",
+        "color": "main"
+      },
+      {
+        "title": "丹麦",
+        "text": "殖民的阴影（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "冰岛",
+        "text": "叙事的更新（B361）",
+        "color": "family"
+      }
+    ]
+  }
+}

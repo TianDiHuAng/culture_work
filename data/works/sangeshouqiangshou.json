@@ -1,0 +1,105 @@
+{
+  "id": "sangeshouqiangshou",
+  "title": "三个火枪手",
+  "original_title": "Les Trois Mousquetaires",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "dumaspere",
+  "author_name": "大仲马",
+  "year_display": "1844年（作者页注记：Britannica——三个火枪手及其续篇——Vingt ans après (1845)；Bragelonne (1848-50)——出版年通说待核）",
+  "year_sort": 1844,
+  "background": [
+    "作者页注记：三个火枪手及其续篇——'（Britannica：Vingt ans après (1845)；Bragelonne (1848-50)）'。",
+    "Britannica：大仲马——《基督山伯爵》作者（作者页交叉）。",
+    "题材（通说待核）：达达尼昂与三剑客——路易十三宫廷的决斗与阴谋。"
+  ],
+  "outline": [
+    "（通说待核）达达尼昂赴巴黎与'三剑客'结盟。",
+    "（通说待核）王后项坠事件与米拉迪的阴谋。"
+  ],
+  "characters": [
+    {
+      "name": "达达尼昂",
+      "identity": "加斯科尼青年",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "阿托斯/波托斯/阿拉密斯",
+      "identity": "三剑客",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'人人为我，我为人人'（通说待核——口号出处待核）。",
+    "历史冒险小说（B注记语境）。",
+    "黎塞留时代的宫廷阴谋（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：续篇 Vingt ans après (1845)（作者页注记）。",
+      "source": "B224"
+    },
+    {
+      "text": "Britannica：大仲马为通俗历史小说大师（作者页语境——待核）。",
+      "source": "B224"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "路易十三时代史。",
+      "连载小说的节奏。"
+    ],
+    "editions": [
+      "《三个火枪手》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "大仲马历史小说首选；与《基督山伯爵》对读。"
+  },
+  "pending": [
+    "1844年连载（《时代》报说）待核。",
+    "达达尼昂/三剑客名核对（通说）。",
+    "与《基督山伯爵》的连载关系待核。"
+  ],
+  "sources": [
+    "B224"
+  ],
+  "year_source": "B224",
+  "author_source": "B224",
+  "related_works": [
+    "jidushanbojue",
+    "nongmin",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《三个火枪手》决斗结构图",
+    "cards": [
+      {
+        "title": "达达尼昂",
+        "text": "加斯科尼的热血（通说）",
+        "color": "main"
+      },
+      {
+        "title": "三剑客",
+        "text": "'人人为我'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "米拉迪",
+        "text": "蛇蝎的阴谋（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "路易十三",
+        "text": "宫廷的舞台（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "wumingdeqiude",
+  "title": "无名的裘德",
+  "original_title": "Jude the Obscure",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "hardy",
+  "author_name": "托马斯·哈代",
+  "year_display": "1895年（作者页注记：Britannica 列举——无名的裘德 (1895)）",
+  "year_sort": 1895,
+  "background": [
+    "作者页注记：无名的裘德 (1895)——''威塞克斯小说'（Britannica 列举）'。",
+    "Britannica：哈代——此后转而专事诗歌（作者页语境——待核）。",
+    "题材（通说待核）：石匠裘德的求学梦与婚姻悲剧——'肉体的苇草'。"
+  ],
+  "outline": [
+    "（通说待核）裘德攻克里斯特敏斯特学院的梦想破灭。",
+    "（通说待核）淑·布莱德赫：'契约婚姻'的反叛。"
+  ],
+  "characters": [
+    {
+      "name": "裘德·福雷",
+      "identity": "石匠",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "淑·布莱德赫",
+      "identity": "表妹/伴侣",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "教育壁垒与阶级（通说待核）。",
+    "婚姻制度与宗教（通说待核）。",
+    "'最暗的哈代'的评价（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'威塞克斯小说'（作者页注记）。",
+      "source": "B123"
+    },
+    {
+      "text": "Britannica：哈代1895年后转向诗歌说（作者页交叉——待核）。",
+      "source": "B123"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1890年代道德气候。",
+      "'小说悲剧'的分期（通说待核）。"
+    ],
+    "editions": [
+      "《无名的裘德》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "哈代收官小说；与《卡斯特桥市长》对读。"
+  },
+  "pending": [
+    "裘德/淑人名核对（通说）。",
+    "1895年出版细节待核。",
+    "'出版风波'（主教焚书说）待核。"
+  ],
+  "sources": [
+    "B123"
+  ],
+  "year_source": "B123",
+  "author_source": "B123",
+  "related_works": [
+    "kasiteqiaoshizhang",
+    "debojiadetaisi",
+    "nuhuodeputao"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《无名的裘德》壁垒结构图",
+    "cards": [
+      {
+        "title": "裘德",
+        "text": "石匠的求学梦（通说）",
+        "color": "main"
+      },
+      {
+        "title": "学院",
+        "text": "不可入的壁垒（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "淑",
+        "text": "婚姻的反叛（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "悲剧",
+        "text": "'小说悲剧'（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

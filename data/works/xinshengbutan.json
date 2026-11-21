@@ -1,0 +1,105 @@
+{
+  "id": "xinshengbutan",
+  "title": "新生",
+  "original_title": "Vita nuova",
+  "region": "意大利",
+  "era": "古代",
+  "era_detail": "13世纪90年代",
+  "genre": "诗文合集",
+  "genre_group": "散文",
+  "language": "意大利语（俗语）",
+  "author_id": "dante",
+  "author_name": "但丁",
+  "year_display": "约1293年（作者页注记：Britannica 列举——新生（约1293）——抒情诗集）",
+  "year_sort": 1293,
+  "background": [
+    "作者页注记：新生（约1293）、论俗语——'抒情诗集与俗语理论（Britannica 列举）'。",
+    "Britannica：但丁——《神曲》作者（作者页交叉）。",
+    "题材（通说待核）：贝雅特丽齐的三十一节'新生'——散文与十四行诗的交替。"
+  ],
+  "outline": [
+    "（通说待核）散文'说'与诗歌的交替：爱情书（libello）。",
+    "（通说待核）贝雅特丽齐之死与'新见'（又一说：novissimo——细节待核）。"
+  ],
+  "characters": [
+    {
+      "name": "但丁（叙述者）",
+      "identity": "诗人",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "贝雅特丽齐",
+      "identity": "受爱者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'温柔的井'（dolce stil novo——通说待核）。",
+    "散文与诗的交替（B注记：抒情诗集）。",
+    "'爱'的神学化（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'抒情诗集与俗语理论'（作者页注记）。",
+      "source": "B030"
+    },
+    {
+      "text": "Britannica：《神曲》的先声（作者页交叉）。",
+      "source": "B030"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'温柔的新体'诗派。",
+      "散文与诗的交替结构。"
+    ],
+    "editions": [
+      "《新生》中译本（人民文学等——通说待核）。",
+      "意大利文原版（公有领域）。"
+    ],
+    "order": "《神曲》前的自传性预演。"
+  },
+  "pending": [
+    "篇目数（31/42章说）核对（通说）。",
+    "约1293年成书待核。",
+    "贝雅特丽齐细节待核。"
+  ],
+  "sources": [
+    "B030"
+  ],
+  "year_source": "B030",
+  "author_source": "B030",
+  "related_works": [
+    "shenqu",
+    "safucanpian",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《新生》散文诗交替图",
+    "cards": [
+      {
+        "title": "散文",
+        "text": "抒情的说（通说）",
+        "color": "main"
+      },
+      {
+        "title": "诗",
+        "text": "十四行的歌（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "贝雅特丽齐",
+        "text": "'新生'的源泉（通说）",
+        "color": "family"
+      },
+      {
+        "title": "温柔的新体",
+        "text": "诗派的坐标（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

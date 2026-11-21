@@ -10,19 +10,60 @@
   "era": "近代",
   "summary": "乔治·艾略特（本名玛丽·安·埃文斯），沃里克郡庄园管理人女儿，'英国维多利亚时代最伟大的小说家'之一（通说待核）。《威斯敏斯特评论》副编辑（Britannica：working as subeditor of The Westminster Review）；译施特劳斯《耶稣传》与费尔巴哈《基督教的本质》（Britannica）；1842年宣布不再去教堂（Britannica：in 1842 she told her father she could no longer attend church——自由思想）；1854年起与刘易斯公开同居至其死（Britannica：Lived openly with journalist George Henry Lewes from 1854 until his death in 1878）。《亚当·比德》1859年'一年八印'（Britannica：《亚当·比德》her first long novel went through eight printings in a year）；《米德尔马契》（1871—72）被许多人视为英语小说巅峰（通说待核）。1880年12月22日卒于伦敦（Britannica）。",
   "timeline": [
-    {"year": "1819-11-22", "text": "生于沃里克郡奇弗斯顿（Chilvers Coton，Britannica：Born November 22, 1819, in Chilvers Coton, Warwickshire），庄园管理人 Robert Evans 之女（Britannica）。", "src": "B122"},
-    {"year": "1820—1841", "text": "福音派学校教育→考文垂遇 Charles Bray 与 Charles Hennell 后转向自由思想（Britannica：evangelical school upbringing gave way to freethought after meeting Charles Bray and Charles Hennell）。", "src": "B122"},
-    {"year": "1842", "text": "告知父亲不再上教堂（Britannica：in 1842 she told her father she could no longer attend church）。", "src": "B122"},
-    {"year": "1851—1854", "text": "伦敦任《威斯敏斯特评论》副编辑（Britannica：Moved to London in 1851, working as subeditor of The Westminster Review）；译施特劳斯与费尔巴哈（Britannica：She translated Strauss's The Life of Jesus Critically Examined and Feuerbach's The Essence of Christianity）。", "src": "B122"},
-    {"year": "1854", "text": "与已婚评论家 George Henry Lewes 公开同居（Britannica：effectively a marriage, though English law prevented Lewes from divorcing his first wife）——维多利亚丑闻（通说待核）。", "src": "B122"},
-    {"year": "1859—1861", "text": "笔名'George Eliot'；'Adam Bede'（1859）——'her first long novel went through eight printings in a year'（Britannica）；《弗洛斯河上的磨坊》（1860）、《织工马南》（1861，Britannica）。", "src": "B122"},
-    {"year": "1871—1872", "text": "《米德尔马契》分卷出版（Britannica：Middlemarch (1871–72)）——'英国小说的巅峰'（通说待核）。", "src": "B122"},
-    {"year": "1876—1880", "text": "《丹尼尔·德龙达》（1876，Britannica）；1878年刘易斯死；1880年5月嫁 John Walter Cross（Britannica：In 1880 she married John Walter Cross）；1880-12-22卒于伦敦（Britannica）。", "src": "B122"}
+    {
+      "year": "1819-11-22",
+      "text": "生于沃里克郡奇弗斯顿（Chilvers Coton，Britannica：Born November 22, 1819, in Chilvers Coton, Warwickshire），庄园管理人 Robert Evans 之女（Britannica）。",
+      "src": "B122"
+    },
+    {
+      "year": "1820—1841",
+      "text": "福音派学校教育→考文垂遇 Charles Bray 与 Charles Hennell 后转向自由思想（Britannica：evangelical school upbringing gave way to freethought after meeting Charles Bray and Charles Hennell）。",
+      "src": "B122"
+    },
+    {
+      "year": "1842",
+      "text": "告知父亲不再上教堂（Britannica：in 1842 she told her father she could no longer attend church）。",
+      "src": "B122"
+    },
+    {
+      "year": "1851—1854",
+      "text": "伦敦任《威斯敏斯特评论》副编辑（Britannica：Moved to London in 1851, working as subeditor of The Westminster Review）；译施特劳斯与费尔巴哈（Britannica：She translated Strauss's The Life of Jesus Critically Examined and Feuerbach's The Essence of Christianity）。",
+      "src": "B122"
+    },
+    {
+      "year": "1854",
+      "text": "与已婚评论家 George Henry Lewes 公开同居（Britannica：effectively a marriage, though English law prevented Lewes from divorcing his first wife）——维多利亚丑闻（通说待核）。",
+      "src": "B122"
+    },
+    {
+      "year": "1859—1861",
+      "text": "笔名'George Eliot'；'Adam Bede'（1859）——'her first long novel went through eight printings in a year'（Britannica）；《弗洛斯河上的磨坊》（1860）、《织工马南》（1861，Britannica）。",
+      "src": "B122"
+    },
+    {
+      "year": "1871—1872",
+      "text": "《米德尔马契》分卷出版（Britannica：Middlemarch (1871–72)）——'英国小说的巅峰'（通说待核）。",
+      "src": "B122"
+    },
+    {
+      "year": "1876—1880",
+      "text": "《丹尼尔·德龙达》（1876，Britannica）；1878年刘易斯死；1880年5月嫁 John Walter Cross（Britannica：In 1880 she married John Walter Cross）；1880-12-22卒于伦敦（Britannica）。",
+      "src": "B122"
+    }
   ],
   "major_works": [
-    {"work_id": "middenma", "note": "1871—72；代表作"},
-    {"title": "亚当·比德（1859）、弗洛斯河上的磨坊（1860）", "note": "早期名作（Britannica 列举）"},
-    {"title": "织工马南（1861）、丹尼尔·德龙达（1876）", "note": "（Britannica 列举）"}
+    {
+      "work_id": "middenma",
+      "note": "1871—72；代表作"
+    },
+    {
+      "work_id": "fuluosihemofang",
+      "note": "早期名作（Britannica 列举）"
+    },
+    {
+      "work_id": "zhigongmanan",
+      "note": "（Britannica 列举）"
+    }
   ],
   "style": [
     "心理深度：Britannica——'known for psychological depth in her characters and portrayals of rural English life'（以人物心理深度与英格兰乡村描写著称）。",
@@ -31,7 +72,9 @@
     "人类学与历史感：地方社会网络的解剖（通说）。"
   ],
   "status": "Britannica（Gordon S. Haight 撰，耶鲁教授与艾略特传记作者）定位乔治·艾略特为'英国维多利亚小说的心理深度'代表。伍尔夫称《米德尔马契》为'为成年人写的英国小说'（'one of the few English novels written for grown-up people'——通说待核）。'George Eliot'笔名本身是女性写作史的关键案例（Britannica：pen name of Mary Ann Evans）。",
-  "sources": ["B122"],
+  "sources": [
+    "B122"
+  ],
   "dates_source": "B122",
   "pending": [
     "笔名由来（Lewes 建议/致敬 Eliot 家族说）待核。",

@@ -1,0 +1,105 @@
+{
+  "id": "zhigongmanan",
+  "title": "织工马南",
+  "original_title": "Silas Marner",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪60年代初",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "geluote",
+  "author_name": "乔治·爱略特",
+  "year_display": "1861年（作者页注记：Britannica 列举——织工马南 (1861)）",
+  "year_sort": 1861,
+  "background": [
+    "作者页注记：织工马南 (1861)、丹尼尔·德龙达 (1876)——'（Britannica 列举）'。",
+    "Britannica：乔治·爱略特——维多利亚小说家（作者页交叉）。",
+    "题材（通说待核）：被诬的织工马南的金币失窃与弃婴伊莱的收养。"
+  ],
+  "outline": [
+    "（通说待核）马南的金币失窃：社区的怀疑。",
+    "（通说待核）弃婴的到来与'金币'换成'金发'的救赎。"
+  ],
+  "characters": [
+    {
+      "name": "马南",
+      "identity": "织工",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "伊莱（Eppie）",
+      "identity": "弃婴",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "金币与金发的交换（书名语境——通说待核）。",
+    "社区与信仰的重建（通说待核）。",
+    "'寓言式'的中篇（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：织工马南 (1861)（作者页注记）。",
+      "source": "B122"
+    },
+    {
+      "text": "Britannica：《米德尔马契》为代表作（作者页交叉）。",
+      "source": "B122"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "19世纪早期英国乡村。",
+      "'寓言'与'写实'的平衡。"
+    ],
+    "editions": [
+      "《织工马南》中译名（《织工马南传》）待核。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "乔治·爱略特短篇入门。"
+  },
+  "pending": [
+    "马南/伊莱人名核对（通说）。",
+    "1861年出版细节待核。",
+    "'弃婴'情节细节待核。"
+  ],
+  "sources": [
+    "B122"
+  ],
+  "year_source": "B122",
+  "author_source": "B122",
+  "related_works": [
+    "fuluosihemofang",
+    "midengmamaqi",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《织工马南》救赎结构图",
+    "cards": [
+      {
+        "title": "金币",
+        "text": "被窃的积攒（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "织机",
+        "text": "孤寂的劳作（通说）",
+        "color": "main"
+      },
+      {
+        "title": "伊莱",
+        "text": "金发的孩子（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "社区",
+        "text": "信仰的重建（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

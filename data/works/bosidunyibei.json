@@ -1,0 +1,100 @@
+{
+  "id": "bosidunyibei",
+  "title": "波士顿以北",
+  "original_title": "North of Boston",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "frost",
+  "author_name": "罗伯特·弗罗斯特",
+  "year_display": "1914年（作者页注记：Britannica——少年的意志（1913）、波士顿以北（1914）——伦敦成名作）",
+  "year_sort": 1914,
+  "background": [
+    "作者页注记：少年的意志 (1913)、波士顿以北 (1914)——'伦敦成名作（Britannica）'。",
+    "Britannica：弗罗斯特——美国诗人、四度普利策（作者页语境——待核）。",
+    "题材（通说待核）：'修墙'《补墙》等人物对话诗——新英格兰农庄。"
+  ],
+  "outline": [
+    "（通说待核）《补墙》（Mending Wall）等以人物说话的诗。",
+    "（通说待核）新英格兰的农庄伦理。"
+  ],
+  "characters": [
+    {
+      "name": "说话者（农人等）",
+      "identity": "——",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'伦敦成名作'（B注记——诗集于英国出版）。",
+    "对话体叙事诗（通说待核）。",
+    "农庄的生存伦理（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'伦敦成名作'（作者页注记）。",
+      "source": "B154"
+    },
+    {
+      "text": "Britannica：《雪夜林边小驻》等名篇（作者页交叉——待核）。",
+      "source": "B154"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "新英格兰方言与意象。",
+      "'诗始于愉悦，终于智慧'（通说待核——不采为引文）。"
+    ],
+    "editions": [
+      "《波士顿以北》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "弗罗斯特第二部诗集；与《少年的意志》对读。"
+  },
+  "pending": [
+    "篇目（《补墙》等）核对（通说）。",
+    "1914年出版（David Nutt伦敦说）待核。",
+    "'成名作'细节核对。"
+  ],
+  "sources": [
+    "B154"
+  ],
+  "year_source": "B154",
+  "author_source": "B154",
+  "related_works": [
+    "zhijiage",
+    "caoyeji",
+    "mianbingyujiu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《波士顿以北》农庄对话图",
+    "cards": [
+      {
+        "title": "补墙",
+        "text": "墙的辩证（通说）",
+        "color": "main"
+      },
+      {
+        "title": "新英格兰",
+        "text": "农庄的场景（通说）",
+        "color": "family"
+      },
+      {
+        "title": "伦敦",
+        "text": "成名的起点（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "对话",
+        "text": "叙事诗的形态（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

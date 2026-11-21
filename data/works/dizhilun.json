@@ -1,0 +1,100 @@
+{
+  "id": "dizhilun",
+  "title": "帝制论",
+  "original_title": "De monarchia",
+  "region": "意大利",
+  "era": "古代",
+  "era_detail": "14世纪10年代",
+  "genre": "政治哲学论著",
+  "genre_group": "散文",
+  "language": "拉丁语",
+  "author_id": "dante",
+  "author_name": "但丁",
+  "year_display": "作者页注记：Britannica——帝制论（De monarchia）——'key medieval political-philosophy tract'（中世纪政治哲学重要论著）",
+  "year_sort": 1312,
+  "background": [
+    "作者页注记：帝制论（De monarchia）——'政治哲学论著（Britannica：key medieval political-philosophy tract）'。",
+    "Britannica：但丁——流亡中的佛罗伦萨人（作者页语境——待核）。",
+    "题材（通说待核）：三卷论普世帝制——世俗权力独立于教会。"
+  ],
+  "outline": [
+    "（通说待核）第一卷：普世帝制的必要。",
+    "（通说待核）第三卷：'两把刀'——皇帝不从属于教皇。"
+  ],
+  "characters": [
+    {
+      "name": "（论著无人物）",
+      "identity": "——",
+      "note": "政治哲学论著"
+    }
+  ],
+  "themes": [
+    "世俗与教会的权力分立（通说待核）。",
+    "'key medieval political-philosophy tract'（B注记）。",
+    "流亡者的政治学（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'key medieval political-philosophy tract'（作者页注记）。",
+      "source": "B030"
+    },
+    {
+      "text": "Britannica：但丁《神曲》为代表作（作者页交叉）。",
+      "source": "B030"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "中世纪政治神学。",
+      "亚里士多德-经院哲学框架。"
+    ],
+    "editions": [
+      "《帝制论》中译本（商务印书馆等——通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "但丁思想侧写；与《论俗语》对读。"
+  },
+  "pending": [
+    "成书年份（约1312-1313说）待核。",
+    "三卷结构核对（通说）。",
+    "'两把刀'论细节待核。"
+  ],
+  "sources": [
+    "B030"
+  ],
+  "year_source": "B030",
+  "author_source": "B030",
+  "related_works": [
+    "leiyu",
+    "luomashi",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《帝制论》两权结构图",
+    "cards": [
+      {
+        "title": "皇帝",
+        "text": "世俗的普世权（通说）",
+        "color": "main"
+      },
+      {
+        "title": "教皇",
+        "text": "精神的权杖（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "两把刀",
+        "text": "权力的分立（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "流亡",
+        "text": "写作的处境（作者页语境）",
+        "color": "family"
+      }
+    ]
+  }
+}

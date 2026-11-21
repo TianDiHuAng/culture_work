@@ -1,0 +1,100 @@
+{
+  "id": "xiayicijiangshiliehuo",
+  "title": "下一次将是烈火",
+  "original_title": "The Fire Next Time",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代初",
+  "genre": "散文集",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "jbaldwin",
+  "author_name": "詹姆斯·鲍德温",
+  "year_display": "1963年（Britannica B327：The Fire Next Time, 1963）",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B327）：The Fire Next Time——散文列表（1963）。",
+    "Britannica（B327）：鲍德温——民权运动语境（作者页交叉——'民权活动家'定位待核）。",
+    "题材（通说待核）：致侄子的信+《从我的藏在地下室里的手册》——'黑人 Muslim'与爱之可能。"
+  ],
+  "outline": [
+    "（通说待核）'致侄子'：美国黑人处境的家书。",
+    "（通说待核）地下室手册：宗教与民族的清算。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "写信人",
+      "note": "（B327 语境）"
+    }
+  ],
+  "themes": [
+    "种族与爱（通说待核）。",
+    "'下一次——烈火'的预言（书名语境——通说待核）。",
+    "民权时代的公共写作（B327 交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Fire Next Time (1963)（B327）。",
+      "source": "B327"
+    },
+    {
+      "text": "Britannica：《向苍天呼吁》为'first and finest novel'（B327 交叉）。",
+      "source": "B327"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "民权运动史。",
+      "'黑人穆斯林'语境（通说待核）。"
+    ],
+    "editions": [
+      "《下一次将是烈火》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "鲍德温散文首选；与《向苍天呼吁》对读。"
+  },
+  "pending": [
+    "两篇散文标题核对（通说）。",
+    "1963年出版（Dial Press说）待核。",
+    "'民权'细节待核。"
+  ],
+  "sources": [
+    "B327"
+  ],
+  "year_source": "B327",
+  "author_source": "B327",
+  "related_works": [
+    "xiangtianhuhan",
+    "qiaowandefangjian",
+    "kanbujian3"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《下一次将是烈火》预言结构图",
+    "cards": [
+      {
+        "title": "家书",
+        "text": "致侄子的信（通说）",
+        "color": "main"
+      },
+      {
+        "title": "烈火",
+        "text": "'下一次'的警告（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "民权",
+        "text": "时代的公共写作（B327）",
+        "color": "gold"
+      },
+      {
+        "title": "爱",
+        "text": "种族的出路（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
