@@ -1,0 +1,100 @@
+{
+  "id": "dongtiandegushiji",
+  "title": "冬天的故事集",
+  "original_title": "Winter's Tales",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "dinesen",
+  "author_name": "伊萨克·迪内森",
+  "year_display": "1942年（Britannica B388：Winter's Tales (1942; Vinter-eventyr)）",
+  "year_sort": 1942,
+  "background": [
+    "Britannica（B388）：Winter's Tales——作品列表（与 Seven Gothic Tales 1934 并列）。",
+    "Britannica（B388）：迪内森——'highly polished narratives in the Romantic tradition'——'eros and dreams'。",
+    "题材（通说待核）：二战期间出版的'冬夜'故事集。"
+  ],
+  "outline": [
+    "（通说待核）'冬天的故事'：被占领丹麦的暗夜讲述。",
+    "（通说待核）'eros 与梦'的延续（B388）。"
+  ],
+  "characters": [
+    {
+      "name": "众讲述者",
+      "identity": "框架人物",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'冬夜'的讲述（书名语境——通说待核）。",
+    "'eros 与梦'（B388）。",
+    "占领时代的寓言（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Winter's Tales (1942)（B388）。",
+      "source": "B388"
+    },
+    {
+      "text": "Britannica：'Romantic tradition'（B388 交叉）。",
+      "source": "B388"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'冬夜'的框架。",
+      "占领丹麦的语境（通说待核）。"
+    ],
+    "editions": [
+      "《冬天的故事集》中译名（《冬天的故事》）待核。",
+      "英文原版。"
+    ],
+    "order": "迪内森中期；与《七篇哥特故事》对读。"
+  },
+  "pending": [
+    "篇目核对（B388未载）。",
+    "1942年出版细节待核。",
+    "'占领丹麦'影射待核。"
+  ],
+  "sources": [
+    "B388"
+  ],
+  "year_source": "B388",
+  "author_source": "B388",
+  "related_works": [
+    "qipiangetegushi",
+    "zouchufeizhou",
+    "xiaoyinhewo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《冬天的故事集》冬夜讲述图",
+    "cards": [
+      {
+        "title": "冬夜",
+        "text": "讲述的火光（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "故事",
+        "text": "'eros 与梦'（B388）",
+        "color": "main"
+      },
+      {
+        "title": "占领",
+        "text": "暗夜的丹麦（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "浪漫",
+        "text": "'传统'的打磨（B388）",
+        "color": "family"
+      }
+    ]
+  }
+}

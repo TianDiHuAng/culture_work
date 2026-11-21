@@ -1,0 +1,100 @@
+{
+  "id": "tuxiangshi",
+  "title": "图像诗",
+  "original_title": "Calligrammes",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪10年代末",
+  "genre": "诗集（视觉诗）",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "apollinaire",
+  "author_name": "纪尧姆·阿波利奈尔",
+  "year_display": "1918年（Britannica B403：Calligrammes (1918)——'dominated by images of war'——诗即图像）",
+  "year_sort": 1918,
+  "background": [
+    "Britannica（B403）：Calligrammes——'dominated by images of war'（战争意象主导）——诗即图像（版式排布）。",
+    "Britannica（B403）：阿波利奈尔——1918年11月9日卒于巴黎（西班牙流感）。",
+    "题材（通说待核）：'丽丽的雨'《哭泣的姑娘》等——战争与'图像'诗。"
+  ],
+  "outline": [
+    "（通说待核）'图像诗'（calligram）：文字排布成'埃菲尔铁塔'等。",
+    "（通说待核）战争意象的主导（B403：dominated by images of war）。"
+  ],
+  "characters": [
+    {
+      "name": "诗人-画工",
+      "identity": "版式实验者",
+      "note": "（B403 语境）"
+    }
+  ],
+  "themes": [
+    "'图像诗'：文字排布成图（B403：poems that are images via typographical arrangement）。",
+    "战争意象（B403：dominated by images of war）。",
+    "'视觉'与'听觉'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'poems that are images via typographical arrangement'（B403）。",
+      "source": "B403"
+    },
+    {
+      "text": "Britannica：'dominated by images of war'（B403）。",
+      "source": "B403"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "版式的'看'与'读'。",
+      "一战意象（通说待核）。"
+    ],
+    "editions": [
+      "《图像诗》中译名（《画诗》）待核。",
+      "法文原版（公有领域状态待核）。"
+    ],
+    "order": "阿波利奈尔收官；与《醇酒集》对读。"
+  },
+  "pending": [
+    "篇目（《哭泣的姑娘》说——通说）核对。",
+    "1918年出版细节待核。",
+    "'calligram'术语核对。"
+  ],
+  "sources": [
+    "B403"
+  ],
+  "year_source": "B403",
+  "author_source": "B403",
+  "related_works": [
+    "chunjiuji",
+    "balideyouyu",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《图像诗》视觉结构图",
+    "cards": [
+      {
+        "title": "图像",
+        "text": "诗即图像（B403）",
+        "color": "gold"
+      },
+      {
+        "title": "战争",
+        "text": "意象的主导（B403）",
+        "color": "antagonist"
+      },
+      {
+        "title": "版式",
+        "text": "文字的排布（B403）",
+        "color": "main"
+      },
+      {
+        "title": "1918",
+        "text": "卒年之书（B403）",
+        "color": "family"
+      }
+    ]
+  }
+}

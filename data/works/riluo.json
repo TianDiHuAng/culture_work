@@ -1,0 +1,105 @@
+{
+  "id": "riluo",
+  "title": "日落",
+  "original_title": "Закат（Sunset）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "babel",
+  "author_name": "伊萨克·巴别尔",
+  "year_display": "1927年（Britannica B402：Zakat (Sunset, 1927)——'his only successful stage play'，含 Benya Krik）",
+  "year_sort": 1927,
+  "background": [
+    "Britannica（B402）：Zakat (Sunset, 1927)——'his only successful stage play, featuring Benya Krik'（唯一成功的舞台剧——含本亚·克里克）。",
+    "Britannica（B402）：巴别尔——'aphoristic precision...metaphoric extravagance'。",
+    "题材（通说待核）：本亚·克里克的'家庭'戏——摩尔多万卡的日与夜。"
+  ],
+  "outline": [
+    "（通说待核）克里克家：'王'的黄昏与长兄的接棒。",
+    "（通说待核）'日落'：敖德萨的黄昏意象（书名语境——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "本亚·克里克",
+      "identity": "'王'",
+      "note": "（B402：Benya Krik——'a mock Jewish messiah'）"
+    },
+    {
+      "name": "父亲",
+      "identity": "旧一代",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'日落'：两代的交替（书名语境——通说待核）。",
+    "'唯一成功的舞台剧'（B402）。",
+    "敖德萨黑帮的剧场化（B402 交叉：Tales of Odessa）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his only successful stage play'（B402）。",
+      "source": "B402"
+    },
+    {
+      "text": "Britannica：'Benya Krik——mock Jewish messiah'（B402 交叉）。",
+      "source": "B402"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'敖德萨'方言。",
+      "'家庭戏'的权力。"
+    ],
+    "editions": [
+      "《日落》中译名（《日落》）待核。",
+      "俄文原版。"
+    ],
+    "order": "巴别尔戏剧首选；与《骑兵军》对读。"
+  },
+  "pending": [
+    "1927年首演（Baku说）待核。",
+    "克里克家细节核对（通说）。",
+    "'唯一成功'口径核对（B402已载）。"
+  ],
+  "sources": [
+    "B402"
+  ],
+  "year_source": "B402",
+  "author_source": "B402",
+  "related_works": [
+    "qibingjun",
+    "aodesagushi",
+    "wuhhaotuchang"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《日落》两代交替图",
+    "cards": [
+      {
+        "title": "日落",
+        "text": "敖德萨的黄昏（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "本亚",
+        "text": "'王'的接棒（B402）",
+        "color": "main"
+      },
+      {
+        "title": "父亲",
+        "text": "旧代的余晖（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "舞台",
+        "text": "'唯一成功'（B402）",
+        "color": "family"
+      }
+    ]
+  }
+}

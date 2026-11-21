@@ -1,0 +1,100 @@
+{
+  "id": "lishisimon",
+  "title": "历史",
+  "original_title": "Histoire",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "csimon",
+  "author_name": "克洛德·西蒙",
+  "year_display": "1967年（Britannica B391：Histoire (1967)——'循环四部'之一）",
+  "year_sort": 1967,
+  "background": [
+    "Britannica（B391）：Histoire——与 La Route des Flandres/L'Herbe/La Palace 构成循环四部（人物事件反复）。",
+    "Britannica（B391）：风格——'lacking all punctuation and heavy with 1,000-word sentences'——'to capture the very progression of life'。",
+    "题材（通说待核）：'历史'与家族记忆：母亲的房产与旧照。"
+  ],
+  "outline": [
+    "（通说待核）'我'继承房产与父亲照片的'历史'。",
+    "（通说待核）'无标点'的记忆流（B391）。"
+  ],
+  "characters": [
+    {
+      "name": "'我'",
+      "identity": "继承人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'历史'：记忆与房产（书名语境——通说待核）。",
+    "'千词长句'（B391）。",
+    "循环四部的人物复现（B391）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'循环四部'之一（B391）。",
+      "source": "B391"
+    },
+    {
+      "text": "Britannica：1985诺奖（B391 交叉）。",
+      "source": "B391"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'无标点'的长句。",
+      "家族照的解读。"
+    ],
+    "editions": [
+      "《历史》中译名（《历史》）待核。",
+      "法文原版。"
+    ],
+    "order": "西蒙循环四部之三。"
+  },
+  "pending": [
+    "1967年出版细节待核。",
+    "'房产'细节核对（通说）。",
+    "'四部循环'结构核对（B391已载）。"
+  ],
+  "sources": [
+    "B391"
+  ],
+  "year_source": "B391",
+  "author_source": "B391",
+  "related_works": [
+    "fulandegonglu",
+    "gudujisuozao",
+    "niuyuesanbuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《历史》记忆结构图",
+    "cards": [
+      {
+        "title": "历史",
+        "text": "记忆的房产（书名）",
+        "color": "main"
+      },
+      {
+        "title": "照片",
+        "text": "父的层理（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "长句",
+        "text": "'千词'的流（B391）",
+        "color": "antagonist"
+      },
+      {
+        "title": "循环",
+        "text": "四部的复现（B391）",
+        "color": "family"
+      }
+    ]
+  }
+}

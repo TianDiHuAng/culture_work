@@ -1,0 +1,105 @@
+{
+  "id": "moshushi",
+  "title": "魔术师",
+  "original_title": "The Magus",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "fowles",
+  "author_name": "约翰·福尔斯",
+  "year_display": "1965年（Britannica B399：The Magus (1965; revised ed. 1977; filmed 1968)——希腊海岛）",
+  "year_sort": 1965,
+  "background": [
+    "Britannica（B399）：The Magus——'set on a Greek island, about an English schoolteacher who befriends a mysterious local man'（希腊海岛：英国教师结识神秘当地人）——修订版1977——电影1968。",
+    "Britannica（B399）：福尔斯——'combine psychological probings—chiefly of sex and love—with an interest in social and philosophical issues'。",
+    "题材（通说待核）：康奇斯的'上帝游戏'——心理'戏法'。"
+  ],
+  "outline": [
+    "（通说待核）尼古拉斯·厄菲与康奇斯的'游戏'：'神岛'的表演。",
+    "（通说待核）'魔术师'：心理'戏法'的导演。"
+  ],
+  "characters": [
+    {
+      "name": "康奇斯",
+      "identity": "'魔术师'",
+      "note": "（通说待核，B399未载）"
+    },
+    {
+      "name": "尼古拉斯·厄菲",
+      "identity": "英国教师",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'上帝游戏'的心理表演（通说待核）。",
+    "海岛的'迷'（B399：mysterious local man）。",
+    "'性与爱'的探询（B399）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'revised ed. 1977; filmed 1968'（B399）。",
+      "source": "B399"
+    },
+    {
+      "text": "Britannica：'psychological probings'（B399）。",
+      "source": "B399"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'上帝游戏'的层。",
+      "希腊海岛的地理。"
+    ],
+    "editions": [
+      "《魔术师》中译名（《魔法师》）待核。",
+      "英文原版。"
+    ],
+    "order": "福尔斯第二作；与《法国中尉的女人》对读。"
+  },
+  "pending": [
+    "康奇斯/厄菲人名核对（通说）。",
+    "1965年出版细节与1977修订版待核。",
+    "'上帝游戏'术语待核。"
+  ],
+  "sources": [
+    "B399"
+  ],
+  "year_source": "B399",
+  "author_source": "B399",
+  "related_works": [
+    "faguozhongweidenvren",
+    "shoucangjia",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《魔术师》上帝游戏图",
+    "cards": [
+      {
+        "title": "康奇斯",
+        "text": "'魔术师'的导演（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "游戏",
+        "text": "心理的表演（通说）",
+        "color": "main"
+      },
+      {
+        "title": "海岛",
+        "text": "希腊的舞台（B399）",
+        "color": "family"
+      },
+      {
+        "title": "教师",
+        "text": "被考验的人（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

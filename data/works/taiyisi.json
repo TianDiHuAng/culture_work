@@ -1,0 +1,105 @@
+{
+  "id": "taiyisi",
+  "title": "苔依丝",
+  "original_title": "Thaïs",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "france",
+  "author_name": "阿纳托尔·法朗士",
+  "year_display": "1890年（Britannica B392：Thaïs (1890)——作品列表）",
+  "year_sort": 1890,
+  "background": [
+    "Britannica（B392）：Thaïs——作品列表（1890）。",
+    "Britannica（B392）：法朗士——1921诺奖；'古典的优雅'语境（作者级——通说待核）。",
+    "题材（通说待核）：修士帕夫努与亚历山大城名妓苔依丝——'拯救'的反讽。"
+  ],
+  "outline": [
+    "（通说待核）修士的'拯救'之旅：沙漠与亚历山大。",
+    "（通说待核）苔依丝的'忏悔'与修士的幻梦。"
+  ],
+  "characters": [
+    {
+      "name": "帕夫努",
+      "identity": "修士",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "苔依丝",
+      "identity": "名妓",
+      "note": "（B392 书名人物）"
+    }
+  ],
+  "themes": [
+    "'拯救'的反讽（通说待核）。",
+    "亚历山大的奢华（通说待核）。",
+    "'灵'与'肉'的辩证（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Thaïs (1890)（B392）。",
+      "source": "B392"
+    },
+    {
+      "text": "Britannica：马斯奈歌剧 Thaïs（1894说）待核——不采。",
+      "source": "B392"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "亚历山大城的宗教史。",
+      "'圣徒传'的反讽（通说待核）。"
+    ],
+    "editions": [
+      "《苔依丝》中译本（人民文学等——通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "法朗士早期；与《企鹅岛》对读。"
+  },
+  "pending": [
+    "帕夫努/苔依丝人名核对（通说）。",
+    "1890年出版细节待核。",
+    "'沙漠'细节待核。"
+  ],
+  "sources": [
+    "B392"
+  ],
+  "year_source": "B392",
+  "author_source": "B392",
+  "related_works": [
+    "qiedao",
+    "zhushenkele",
+    "xunjiexiaoshuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《苔依丝》拯救反讽图",
+    "cards": [
+      {
+        "title": "苔依丝",
+        "text": "名妓的忏悔（通说）",
+        "color": "main"
+      },
+      {
+        "title": "修士",
+        "text": "'拯救'的反讽（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "亚历山大",
+        "text": "奢华之城（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "沙漠",
+        "text": "苦修的幻梦（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

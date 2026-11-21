@@ -1,0 +1,105 @@
+{
+  "id": "ziyouhuosiwang",
+  "title": "自由或死亡",
+  "original_title": "O Kapetán Mikhális",
+  "region": "希腊",
+  "era": "近代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "希腊语",
+  "author_id": "kazantzakis",
+  "author_name": "尼科斯·卡赞扎基斯",
+  "year_display": "1950年（Britannica B410：Freedom or Death (O Kapetán Mikhális, 1950)——'a depiction of Cretan Greeks' struggle against their Ottoman overlords in the 19th century'）",
+  "year_sort": 1950,
+  "background": [
+    "Britannica（B410）：Freedom or Death——'a depiction of Cretan Greeks' struggle against their Ottoman overlords in the 19th century'（19世纪克里特希腊人反抗奥斯曼的斗争）。",
+    "Britannica（B410）：卡赞扎基斯——'a major contribution to modern Greek literature'。",
+    "题材（通说待核）：'米哈利斯队长'与祖父的家史——克里特起义。"
+  ],
+  "outline": [
+    "（通说待核）'队长米哈利斯'：义军与土耳其人的宿仇。",
+    "（通说待核）'自由或死亡'：克里特的座右铭。"
+  ],
+  "characters": [
+    {
+      "name": "米哈利斯队长",
+      "identity": "起义首领",
+      "note": "（B410 书名人物——O Kapetán Mikhális）"
+    },
+    {
+      "name": "'爷爷'",
+      "identity": "叙述者的祖父",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'自由或死亡'（书名语境——通说待核）。",
+    "克里特反抗奥斯曼（B410）。",
+    "家史与民族史（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a depiction of Cretan Greeks' struggle...'（B410）。",
+      "source": "B410"
+    },
+    {
+      "text": "Britannica：'a major contribution to modern Greek literature'（B410 作者级）。",
+      "source": "B410"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "克里特起义史（通说待核）。",
+      "'自由或死亡'口号。"
+    ],
+    "editions": [
+      "《自由或死亡》中译名（《米哈利斯队长》）待核。",
+      "希腊文原版。"
+    ],
+    "order": "卡赞扎基斯民族篇；与《希腊人左巴》对读。"
+  },
+  "pending": [
+    "米哈利斯队长人名核对（B410书名希腊文）。",
+    "1950年出版细节待核。",
+    "'祖父'原型说待核。"
+  ],
+  "sources": [
+    "B410"
+  ],
+  "year_source": "B410",
+  "author_source": "B410",
+  "related_works": [
+    "xilarenzuoba",
+    "jidudezuihouyouhuo",
+    "dulidemen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《自由或死亡》起义结构图",
+    "cards": [
+      {
+        "title": "自由或死亡",
+        "text": "克里特的座右铭（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "米哈利斯队长",
+        "text": "起义的首领（B410）",
+        "color": "main"
+      },
+      {
+        "title": "奥斯曼",
+        "text": "宗主的枷锁（B410）",
+        "color": "antagonist"
+      },
+      {
+        "title": "家史",
+        "text": "祖父的讲述（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
