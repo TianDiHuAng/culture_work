@@ -1,0 +1,100 @@
+{
+  "id": "laokong",
+  "title": "拉奥孔",
+  "original_title": "Laokoon: oder über die Grenzen der Malerei und Poesie",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪60年代",
+  "genre": "美学论著",
+  "genre_group": "散文",
+  "language": "德语",
+  "author_id": "lessing",
+  "author_name": "戈特霍尔德·埃夫莱姆·莱辛",
+  "year_display": "1766年（Britannica B368：Laokoon (1766)——'Lessing attempted to fundamentally define the separate functions of painting and of poetry'）",
+  "year_sort": 1766,
+  "background": [
+    "Britannica（B368）：'fundamentally define the separate functions of painting and of poetry'（界定绘画与诗歌各自的功能）。",
+    "Britannica（B368）：莱辛——德国批评传统的奠基（Hamburgische Dramaturgie 交叉）。",
+    "题材（通说待核）：以'拉奥孔'群雕与维吉尔史诗的对比——'动作'vs'物体'的媒介论。"
+  ],
+  "outline": [
+    "（通说待核）雕塑的'最富孕育性瞬间'（通说待核——莱辛概念）。",
+    "（通说待核）温克尔曼'高贵的单纯'之辨。"
+  ],
+  "characters": [
+    {
+      "name": "（论著无人物）",
+      "identity": "——",
+      "note": "美学论著"
+    }
+  ],
+  "themes": [
+    "诗与画的媒介界限（B368）。",
+    "时间艺术与空间艺术（通说待核）。",
+    "新古典主义的批评（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'define the separate functions of painting and of poetry'（B368）。",
+      "source": "B368"
+    },
+    {
+      "text": "Britannica：影响狂飙突进的批评传统（B368 交叉——dramaturgie）。",
+      "source": "B368"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "美学概念的德语术语。",
+      "古典雕刻的图像学。"
+    ],
+    "editions": [
+      "《拉奥孔》中译本（人民文学/商务等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "莱辛批评首选；与《汉堡剧评》对读。"
+  },
+  "pending": [
+    "'最富孕育性的瞬间'说法核对（通说——莱辛原话）。",
+    "1766年出版细节待核。",
+    "温克尔曼论战细节待核。"
+  ],
+  "sources": [
+    "B368"
+  ],
+  "year_source": "B368",
+  "author_source": "B368",
+  "related_works": [
+    "zhainazhitan",
+    "balideyouyu",
+    "xunjiexiaoshuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《拉奥孔》媒介界限图",
+    "cards": [
+      {
+        "title": "诗",
+        "text": "时间的艺术（通说）",
+        "color": "main"
+      },
+      {
+        "title": "画",
+        "text": "空间的艺术（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "拉奥孔",
+        "text": "雕塑的瞬间（B368）",
+        "color": "family"
+      },
+      {
+        "title": "界限",
+        "text": "媒介的分化（B368）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

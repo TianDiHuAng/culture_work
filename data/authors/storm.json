@@ -1,0 +1,63 @@
+{
+  "id": "storm",
+  "name": "特奥多尔·施托姆",
+  "foreign_name": "Theodor Woldsen Storm（特奥多尔·施托姆，1817-09-14—1888-07-04）",
+  "country": "德国",
+  "birth": 1817,
+  "death": 1888,
+  "birth_year": 1817,
+  "death_year": 1888,
+  "era": "近代",
+  "summary": "施托姆，石勒苏益格胡苏姆生，德国小说家与诗人——'an outstanding representative of German poetic Realism'（德国诗意现实主义的杰出代表——B367）——该运动旨在'the portrayal of the positive values of everyday life'（B367）。'his novellas are among the finest in German literature'（B367）。Immensee（茵梦湖, 1850）——'a moving story of the vanished happiness of childhood'——'a haunting nostalgia'（B367）；Der Schimmelreiter（白马骑士, 1888）——'his last and greatest novella'——'its forceful hero and terse, objective style'（B367）。律师与法官生涯：1853年因丹麦占领迁出胡苏姆（B367）。",
+  "timeline": [
+    {
+      "year": 1817,
+      "text": "9月14日生于胡苏姆（B367）。",
+      "src": "B367"
+    },
+    {
+      "year": 1850,
+      "text": "Immensee（茵梦湖）——首部中篇（B367）。",
+      "src": "B367"
+    },
+    {
+      "year": 1853,
+      "text": "丹麦占领下迁往波茨坦（B367）。",
+      "src": "B367"
+    },
+    {
+      "year": 1888,
+      "text": "Der Schimmelreiter 4月刊于 Deutsche Rundschau；7月4日卒（B367）。",
+      "src": "B367"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yinmenghu",
+      "note": "1850（B367）"
+    },
+    {
+      "work_id": "baimaqishi",
+      "note": "1888（B367）"
+    },
+    {
+      "title": "诗集",
+      "note": "（B367：Gedichte (1852)）"
+    }
+  ],
+  "style": [
+    "诗意现实主义（B367：German poetic Realism）。",
+    "框架叙事与'消逝的童年'（B367：frame-narrative——Immensee）。",
+    "'简洁客观的风格'与'丰富的叙事活力'（B367：terse, objective style / narrative verve）。"
+  ],
+  "status": "Britannica 定位施托姆为德国诗意现实主义代表、德语中篇（Novelle）大师（B367）。",
+  "sources": [
+    "B367"
+  ],
+  "dates_source": "B367",
+  "pending": [
+    "《白马骑士》通行译名（《白马骑士》/《骑白马的人》）待核。",
+    "与蒙森合作的 Liederbuch（B363 交叉）细节待核。",
+    "'诗意现实主义'术语出处待核。"
+  ]
+}

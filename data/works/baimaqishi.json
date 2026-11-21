@@ -1,0 +1,105 @@
+{
+  "id": "baimaqishi",
+  "title": "白马骑士",
+  "original_title": "Der Schimmelreiter",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪80年代末",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "storm",
+  "author_name": "特奥多尔·施托姆",
+  "year_display": "1888年（Britannica B367：Der Schimmelreiter (1888)——'his last and greatest novella'）",
+  "year_sort": 1888,
+  "background": [
+    "Britannica（B367）：'his last and greatest novella'——'its forceful hero and terse, objective style'——'vivid imagination and great narrative verve'。",
+    "Britannica（B367）：1888年4月刊于 Deutsche Rundschau——作家卒前最后作品。",
+    "题材（通说待核）：北海堤防工程师豪克·海恩——白马上骑者的传说与堤坝之战。"
+  ],
+  "outline": [
+    "（通说待核）豪克修堤的'野心'与村人的敌意。",
+    "（通说待核）'白马骑士'幽灵传说与最后的堤决。"
+  ],
+  "characters": [
+    {
+      "name": "豪克·海恩",
+      "identity": "堤长",
+      "note": "（通说待核，B367未载）"
+    },
+    {
+      "name": "白马",
+      "identity": "幽灵坐骑",
+      "note": "（书名意象——通说待核）"
+    }
+  ],
+  "themes": [
+    "人与海的工程之战（通说待核）。",
+    "传说与写实的双重奏（书名语境——通说待核）。",
+    "'客观简洁'的风格（B367：terse, objective style）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'last and greatest novella'（B367）。",
+      "source": "B367"
+    },
+    {
+      "text": "Britannica：'great narrative verve'（B367）。",
+      "source": "B367"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "北海堤防工程史。",
+      "幽灵传说的叙事层。"
+    ],
+    "editions": [
+      "《白马骑士》中译名（《骑白马的人》两说——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "施托姆收官之作；与《茵梦湖》对读。"
+  },
+  "pending": [
+    "豪克·海恩人名核对（B367未载）。",
+    "1888年4月刊期核对（B367已载）。",
+    "'幽灵'结尾细节待核。"
+  ],
+  "sources": [
+    "B367"
+  ],
+  "year_source": "B367",
+  "author_source": "B367",
+  "related_works": [
+    "yinmenghu",
+    "xinshigudeLieshou",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《白马骑士》海堤结构图",
+    "cards": [
+      {
+        "title": "豪克",
+        "text": "修堤的工程师（通说）",
+        "color": "main"
+      },
+      {
+        "title": "白马",
+        "text": "幽灵的传说（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "北海",
+        "text": "堤坝之战（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "客观",
+        "text": "'简洁的风格'（B367）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "zhainazhitan",
+  "title": "智者纳坦",
+  "original_title": "Nathan der Weise",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪70年代末",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "lessing",
+  "author_name": "戈特霍尔德·埃夫莱姆·莱辛",
+  "year_display": "1779年（Britannica B368：Nathan der Weise (1779)——'His final drama'）",
+  "year_sort": 1779,
+  "background": [
+    "Britannica（B368）：'advocates for religious tolerance during the Crusades'——十字军东征背景的宗教宽容剧。",
+    "Britannica（B368）：'The play suggests that ethical conduct, rather than dogma or prejudice, should determine the value of a religion.'",
+    "Britannica（B366）交叉：莱辛此剧已用素体诗（Nathan der Weise [1779]——B366）。"
+  ],
+  "outline": [
+    "（通说待核——B368未载剧情）'三指环'寓言：犹太商人纳坦的裁决。",
+    "（通说待核）圣殿骑士、苏丹萨拉丁与失散的家庭。"
+  ],
+  "characters": [
+    {
+      "name": "纳坦",
+      "identity": "犹太商人",
+      "note": "（B368 书名人物——'the Wise'）"
+    },
+    {
+      "name": "萨拉丁",
+      "identity": "苏丹",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "宗教宽容（B368：religious tolerance）。",
+    "'行为而非教条决定宗教的价值'（B368）。",
+    "启蒙的'人类之爱'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'advocates for religious tolerance'（B368）。",
+      "source": "B368"
+    },
+    {
+      "text": "Britannica：素体诗的早期示范（B366 交叉）。",
+      "source": "B366"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "十字军东征背景。",
+      "'指环寓言'的薄伽丘底本（通说待核）。"
+    ],
+    "editions": [
+      "《智者纳坦》中译名（《智者纳旦》两说——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "莱辛戏剧收官；与《拉奥孔》对读。"
+  },
+  "pending": [
+    "'三指环'寓言细节核对（通说）。",
+    "1779年出版/首演细节待核。",
+    "中译名两说待核。"
+  ],
+  "sources": [
+    "B368"
+  ],
+  "year_source": "B368",
+  "author_source": "B368",
+  "related_works": [
+    "laokong",
+    "tangkaluosi",
+    "fushide"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《智者纳坦》宽容结构图",
+    "cards": [
+      {
+        "title": "三指环",
+        "text": "真伪难辨的信仰（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "纳坦",
+        "text": "'智者'的裁决（B368）",
+        "color": "main"
+      },
+      {
+        "title": "十字军",
+        "text": "宽容的舞台（B368）",
+        "color": "antagonist"
+      },
+      {
+        "title": "行为",
+        "text": "'伦理高于教条'（B368）",
+        "color": "family"
+      }
+    ]
+  }
+}

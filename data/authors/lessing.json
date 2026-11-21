@@ -1,68 +1,77 @@
 {
   "id": "lessing",
-  "name": "多丽丝·莱辛",
-  "foreign_name": "Doris Lessing（多丽丝·莱辛，1919-10-22—2013-11-17）",
-  "country": "英国",
-  "birth": 1919,
-  "death": 2013,
-  "birth_year": 1919,
-  "death_year": 2013,
-  "era": "现当代",
-  "summary": "莱辛，生于波斯（今伊朗）克尔曼沙阿、长于南罗得西亚（今津巴布韦），英国作家（Britannica：British writer, born in Persia and raised in Southern Rhodesia）。'其小说与短篇关注卷入20世纪社会政治动荡的个人'（Britannica：largely concerned with people involved in the social and political upheavals of the 20th century）。《金色笔记》（1962）——'一位女作家试图与她的时代生活和解'（Britannica：in which a woman writer attempts to come to terms with the life of her times）。2007年获诺贝尔文学奖（Britannica），时年88岁为最年长诺奖文学得主（通说待核）。",
+  "name": "戈特霍尔德·埃夫莱姆·莱辛",
+  "foreign_name": "Gotthold Ephraim Lessing（戈特霍尔德·埃夫莱姆·莱辛，1729-01-22—1781-02-15）",
+  "country": "德国",
+  "birth": 1729,
+  "death": 1781,
+  "birth_year": 1729,
+  "death_year": 1781,
+  "era": "近代",
+  "summary": "莱辛，萨克森Kamenz生，德国剧作家与批评家——'He helped free German drama from the influence of classical and French models and wrote plays of lasting importance.'（B368）。Miss Sara Sampson (1755)——德语文学第一部重要市民悲剧（B368）；Minna von Barnhelm (1767)——'marks the birth of classical German comedy'（B368）；Laokoon (1766)——界定绘画与诗歌的边界（B368）；Hamburgische Dramaturgie (1767-69)——104篇剧评——'emphasizing pity and compassion and influencing the Sturm und Drang movement'（B368）；Nathan der Weise（智者纳坦, 1779）——'advocates for religious tolerance during the Crusades'——'ethical conduct, rather than dogma or prejudice, should determine the value of a religion.'（B368）。",
   "timeline": [
     {
-      "year": 1919,
-      "text": "生于波斯克尔曼沙阿（Britannica：Born October 22, 1919, Kermānshāh, Persia）。",
-      "src": "B212"
+      "year": 1729,
+      "text": "1月22日生于Kamenz（B368）。",
+      "src": "B368"
     },
     {
-      "year": 1949,
-      "text": "移居英国，携《野草在歌唱》手稿（通说待核）。",
-      "src": "B212"
+      "year": 1755,
+      "text": "Miss Sara Sampson——第一部重要市民悲剧（B368）。",
+      "src": "B368"
     },
     {
-      "year": 1962,
-      "text": "《金色笔记》出版（Britannica：The Golden Notebook (1962)）。",
-      "src": "B212"
+      "year": 1766,
+      "text": "Laokoon——诗画界限（B368）。",
+      "src": "B368"
     },
     {
-      "year": 2007,
-      "text": "获诺贝尔文学奖（Britannica：She was awarded the Nobel Prize for Literature in 2007）。",
-      "src": "B212"
+      "year": 1767,
+      "text": "Minna von Barnhelm——古典德国喜剧的诞生（B368）。",
+      "src": "B368"
     },
     {
-      "year": 2013,
-      "text": "卒于伦敦（Britannica：Died November 17, 2013, London）。",
-      "src": "B212"
+      "year": 1779,
+      "text": "Nathan der Weise（智者纳坦）——最后一部戏剧（B368）。",
+      "src": "B368"
+    },
+    {
+      "year": 1781,
+      "text": "2月15日卒于Braunschweig（B368）。",
+      "src": "B368"
     }
   ],
   "major_works": [
     {
-      "work_id": "jinsebiji",
-      "note": "长篇（Britannica：1962）"
+      "work_id": "zhainazhitan",
+      "note": "1779（B368）"
     },
     {
-      "title": "野草在歌唱",
-      "note": "1950年（通说待核）"
+      "work_id": "laokong",
+      "note": "1766（B368）"
     },
     {
-      "title": "玛莎·奎斯特五部曲、拉格泰姆系列",
-      "note": "（通说待核）"
+      "title": "明娜·冯·巴尔赫姆",
+      "note": "（B368：Minna von Barnhelm (1767)）"
+    },
+    {
+      "title": "爱米丽雅·迦洛蒂",
+      "note": "（B368：Emilia Galotti (1772)）"
     }
   ],
   "style": [
-    "社会政治关怀与心理深度的结合（Britannica：social and political upheavals）。",
-    "形式实验：《金色笔记》以四色笔记+自由文本的结构拼贴（通说）。",
-    "女性经验的书写：'自由女性'主题（通说；莱辛本人对被标签化持保留态度——通说待核）。"
+    "德国戏剧的解放者：摆脱古典与法国范式（B368）。",
+    "市民悲剧的开创（B368：bürgerliches Trauerspiel）。",
+    "宗教宽容的倡导（B368：Nathan）。"
   ],
-  "status": "Britannica 定位莱辛为英国作家、2007年诺奖得主；《金色笔记》被广泛视为女性主义文本与形式实验的双重经典（通说待核；亦被诺奖授奖词以'史诗性的女性经验书写者'定位——引文待核）。",
+  "status": "Britannica 定位莱辛为德国文学经典化关键人物、市民悲剧与戏剧批评的奠基者（B368）。",
   "sources": [
-    "B212"
+    "B368"
   ],
-  "dates_source": "B212",
+  "dates_source": "B368",
   "pending": [
-    "《野草在歌唱》1950年出版待核。",
-    "诺奖授奖词'epistemic'评语原文待核。",
-    "苏菲神秘主义研究（苏非派时期）细节待核。"
+    "《智者纳坦》通行译名两说（/《智者纳旦》）待核。",
+    "'指环寓言'细节待核（B368未载）。",
+    "'Laokoon'中译名（《拉奥孔》）待核。"
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "id": "yinmenghu",
+  "title": "茵梦湖",
+  "original_title": "Immensee",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪50年代初",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "storm",
+  "author_name": "特奥多尔·施托姆",
+  "year_display": "1850年（Britannica B367：Immensee (1850)——首部中篇、最受欢迎）",
+  "year_sort": 1850,
+  "background": [
+    "Britannica（B367）：'a moving story of the vanished happiness of childhood'——'a haunting nostalgia'——首部中篇与最受欢迎的故事。",
+    "Britannica（B367）：'an outstanding representative of German poetic Realism'。",
+    "题材（通说待核）：莱因哈德与伊丽莎白的童年恋歌——多年后的茵梦湖畔重逢。"
+  ],
+  "outline": [
+    "（通说待核）框架叙事：老人回忆青年时代的湖畔夏日。",
+    "（通说待核）'茵梦湖'：忘不掉的湖与歌。"
+  ],
+  "characters": [
+    {
+      "name": "莱因哈德",
+      "identity": "老学者（回忆者）",
+      "note": "（通说待核，B367未载）"
+    },
+    {
+      "name": "伊丽莎白",
+      "identity": "初恋",
+      "note": "（通说待核，B367未载）"
+    }
+  ],
+  "themes": [
+    "'消逝的童年幸福'（B367：vanished happiness of childhood）。",
+    "'萦绕的乡愁'（B367：haunting nostalgia）。",
+    "框架叙事的时间结构（B367：frame-narrative——搜索口径）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his most popular story'（B367 搜索口径）。",
+      "source": "B367"
+    },
+    {
+      "text": "Britannica：诗意现实主义代表（B367）。",
+      "source": "B367"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "框架叙事的时间层。",
+      "民歌穿插（《荷花》等——通说待核）。"
+    ],
+    "editions": [
+      "《茵梦湖》中译本（人民文学/上海译文等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "施托姆首选；与《白马骑士》对读。"
+  },
+  "pending": [
+    "莱因哈德/伊丽莎白人名核对（B367未载）。",
+    "1850年发表细节待核。",
+    "英文译名 Immensee (Eng. trans. 1863) 待核。"
+  ],
+  "sources": [
+    "B367"
+  ],
+  "year_source": "B367",
+  "author_source": "B367",
+  "related_works": [
+    "baimaqishi",
+    "dadidechengzhang",
+    "yuanshili"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《茵梦湖》乡愁结构图",
+    "cards": [
+      {
+        "title": "茵梦湖",
+        "text": "忘不掉的湖（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "童年",
+        "text": "消逝的幸福（B367）",
+        "color": "main"
+      },
+      {
+        "title": "重逢",
+        "text": "多年后的注视（通说）",
+        "color": "family"
+      },
+      {
+        "title": "乡愁",
+        "text": "'萦绕的怀想'（B367）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
