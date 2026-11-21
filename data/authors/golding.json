@@ -10,18 +10,55 @@
   "era": "现当代",
   "summary": "戈尔丁，康沃尔郡圣科勒姆minor人，英国小说家，'best known for Lord of the Flies (1954)'（以《蝇王》最为著名——Britannica：about schoolboys on a coral island who 'revert to savagery'——'回野'的学童）。二战皇家海军（俾斯麦号行动与 D 日——Britannica：including the Bismarck action and D-Day）；《继承者》《品彻·马丁》《自由堕落》《塔尖》与 Sea trilogy（Britannica 列举）。1980年布克奖（Rites of Passage）、1983年诺贝尔文学奖（Britannica：Won the Booker Prize (1980)... and the Nobel Prize in Literature (1983)）。1993年6月19日心衰卒于康沃尔，年八十一（Britannica：Died of heart failure at 81）；遗作《双舌》1995年身后出版（Britannica：final novel The Double Tongue published posthumously in 1995）。",
   "timeline": [
-    {"year": "1911-09-19", "text": "生于康沃尔圣科勒姆minor（通说待核），文法学校教师之子（通说待核）。", "src": "B129"},
-    {"year": "1930—1935", "text": "牛津布雷斯诺斯学院自然科学→英语（通说待核）。", "src": "B129"},
-    {"year": "1940—1945", "text": "二战皇家海军（Britannica：Served in the Royal Navy in WWII），参加俾斯麦行动与 D 日（Britannica：including the Bismarck action and D-Day）。", "src": "B129"},
-    {"year": "1954", "text": "《蝇王》出版（Britannica：Lord of the Flies (1954)，'21家出版社拒绝后 Faber 接受'——通说待核）。", "src": "B129"},
-    {"year": "1955—1980", "text": "《继承者》《品彻·马丁》（1955—56，通说待核）、《自由堕落》(1959)《塔尖》(1964) 与 Sea trilogy（《过界的仪式》1980布克奖——Britannica：Won the Booker Prize (1980) for Rites of Passage）。", "src": "B129"},
-    {"year": "1983", "text": "诺贝尔文学奖（Britannica：Nobel Prize in Literature (1983)）——'因其小说以清晰的现实主义叙述和神话的多义性阐明当代人类的境况'（授奖词大意，通说待核）。", "src": "B129"},
-    {"year": "1993-06-19", "text": "心衰卒于康沃尔，年八十一（Britannica：Died of heart failure at 81）；1995年遗作《双舌》（Britannica：final novel The Double Tongue published posthumously in 1995）。", "src": "B129"}
+    {
+      "year": "1911-09-19",
+      "text": "生于康沃尔圣科勒姆minor（通说待核），文法学校教师之子（通说待核）。",
+      "src": "B129"
+    },
+    {
+      "year": "1930—1935",
+      "text": "牛津布雷斯诺斯学院自然科学→英语（通说待核）。",
+      "src": "B129"
+    },
+    {
+      "year": "1940—1945",
+      "text": "二战皇家海军（Britannica：Served in the Royal Navy in WWII），参加俾斯麦行动与 D 日（Britannica：including the Bismarck action and D-Day）。",
+      "src": "B129"
+    },
+    {
+      "year": "1954",
+      "text": "《蝇王》出版（Britannica：Lord of the Flies (1954)，'21家出版社拒绝后 Faber 接受'——通说待核）。",
+      "src": "B129"
+    },
+    {
+      "year": "1955—1980",
+      "text": "《继承者》《品彻·马丁》（1955—56，通说待核）、《自由堕落》(1959)《塔尖》(1964) 与 Sea trilogy（《过界的仪式》1980布克奖——Britannica：Won the Booker Prize (1980) for Rites of Passage）。",
+      "src": "B129"
+    },
+    {
+      "year": "1983",
+      "text": "诺贝尔文学奖（Britannica：Nobel Prize in Literature (1983)）——'因其小说以清晰的现实主义叙述和神话的多义性阐明当代人类的境况'（授奖词大意，通说待核）。",
+      "src": "B129"
+    },
+    {
+      "year": "1993-06-19",
+      "text": "心衰卒于康沃尔，年八十一（Britannica：Died of heart failure at 81）；1995年遗作《双舌》（Britannica：final novel The Double Tongue published posthumously in 1995）。",
+      "src": "B129"
+    }
   ],
   "major_works": [
-    {"work_id": "yingwang", "note": "1954；代表作"},
-    {"title": "过界的仪式（1980布克奖）", "note": "Sea trilogy（Britannica）"},
-    {"title": "塔尖（1964）、继承者（1955）", "note": "（Britannica 列举）"}
+    {
+      "work_id": "yingwang",
+      "note": "1954；代表作"
+    },
+    {
+      "work_id": "guojideyishi",
+      "note": "Sea trilogy（Britannica）"
+    },
+    {
+      "title": "塔尖（1964）、继承者（1955）",
+      "note": "（Britannica 列举）"
+    }
   ],
   "style": [
     "'寓言'的神话性：以孤岛学童重写《珊瑚岛》（Ballantyne——通说待核）——'文明是假面，野蛮是本相'（通说）。",
@@ -29,7 +66,9 @@
     "存在的'黑暗'：'人心的黑暗'（通说）——'Fable'之'多义'。"
   ],
   "status": "Britannica 定位戈尔丁为'Lord of the Flies'作者，1983年诺贝尔文学奖（Britannica：Nobel Prize in Literature (1983)）。《蝇王》成为20世纪最重要的寓言小说之一（通说待核）与美国中学必读（通说待核）。",
-  "sources": ["B129"],
+  "sources": [
+    "B129"
+  ],
   "dates_source": "B129",
   "pending": [
     "出生地（Cornwall Saint Columb Minor，通说）待核。",

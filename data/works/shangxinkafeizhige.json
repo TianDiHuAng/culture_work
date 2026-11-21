@@ -1,0 +1,105 @@
+{
+  "id": "shangxinkafeizhige",
+  "title": "伤心咖啡馆之歌",
+  "original_title": "The Ballad of the Sad Café",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪50年代初",
+  "genre": "中篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mccalles",
+  "author_name": "卡森·麦卡勒斯",
+  "year_display": "1951年（Britannica B331：The Ballad of the Sad Café——1951）",
+  "year_sort": 1951,
+  "background": [
+    "Britannica（B331）：The Ballad of the Sad Café——1951。",
+    "Britannica（B331）：麦卡勒斯——'the incompatibility of lover and beloved'（爱者与被爱者的不相容）。",
+    "题材（通说待核）：爱密利亚小姐的咖啡馆与驼背李蒙——被爱者的暴政。"
+  ],
+  "outline": [
+    "（通说待核）爱密利亚的咖啡馆：小镇的公共空间。",
+    "（通说待核）驼背李蒙的'暴政'与马文·梅西的归来。"
+  ],
+  "characters": [
+    {
+      "name": "爱密利亚小姐",
+      "identity": "咖啡馆主人",
+      "note": "（通说待核，B331未载）"
+    },
+    {
+      "name": "李蒙",
+      "identity": "驼背表亲",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'爱者与被爱者的不相容'（B331）。",
+    "咖啡馆作为社区仪式（通说待核）。",
+    "'歌谣'的叙事调子（书名语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the incompatibility of lover and beloved'（B331）。",
+      "source": "B331"
+    },
+    {
+      "text": "Britannica：南方哥特语境（作者页交叉）。",
+      "source": "B331"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'歌谣'的叙事腔。",
+      "南方小镇的性别语境。"
+    ],
+    "editions": [
+      "《伤心咖啡馆之歌》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "麦卡勒斯中篇首选。"
+  },
+  "pending": [
+    "爱密利亚/李蒙人名核对（B331未载）。",
+    "1951年出版细节待核。",
+    "1991年电影改编说待核。"
+  ],
+  "sources": [
+    "B331"
+  ],
+  "year_source": "B331",
+  "author_source": "B331",
+  "related_works": [
+    "xinshigudeLieshou",
+    "hunlidechengyuan",
+    "yuwanghaojieche"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《伤心咖啡馆之歌》爱者结构图",
+    "cards": [
+      {
+        "title": "爱密利亚",
+        "text": "咖啡馆的孤独（通说）",
+        "color": "main"
+      },
+      {
+        "title": "李蒙",
+        "text": "被爱者的暴政（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "咖啡馆",
+        "text": "社区的仪式（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "歌谣",
+        "text": "讲述的调子（书名）",
+        "color": "family"
+      }
+    ]
+  }
+}

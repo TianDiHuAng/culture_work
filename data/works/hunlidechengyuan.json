@@ -1,0 +1,106 @@
+{
+  "id": "hunlidechengyuan",
+  "title": "婚礼的成员",
+  "original_title": "The Member of the Wedding",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mccalles",
+  "author_name": "卡森·麦卡勒斯",
+  "year_display": "1946年（Britannica B331：The Member of the Wedding (1946)）",
+  "year_sort": 1946,
+  "background": [
+    "Britannica（B331）：The Member of the Wedding (1946)——'novel; Broadway play ran over a year'（百老汇演出逾一年）。",
+    "Britannica（B331）：田纳西·威廉斯鼓励其改编为舞台剧。",
+    "Britannica（B331）：麦卡勒斯——'depict the inner lives of lonely people'。",
+    "题材（通说待核）：12岁的弗兰淇·亚当斯——夏日婚礼的'成员'渴望。"
+  ],
+  "outline": [
+    "（通说待核）弗兰淇被哥哥的婚礼排除——与伯妮丝和约翰·亨利度夏。",
+    "（通说待核）'我们'的归属渴望（we of them说——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "弗兰淇",
+      "identity": "12岁少女",
+      "note": "（通说待核，B331未载）"
+    },
+    {
+      "name": "伯妮丝",
+      "identity": "黑人厨娘",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "归属与'婚礼成员'的想象（书名语境——通说待核）。",
+    "'孤独人的内心'（B331：lonely people）。",
+    "南方小镇的夏末（B331 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：百老汇演出逾一年（B331）。",
+      "source": "B331"
+    },
+    {
+      "text": "Britannica：威廉斯鼓励改编（B331）。",
+      "source": "B331"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'归属'的口语哲学。",
+      "南方种族语境。"
+    ],
+    "editions": [
+      "《婚礼的成员》中译本（人民文学/上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "麦卡勒斯第二作；与《心是孤独的猎手》对读。"
+  },
+  "pending": [
+    "弗兰淇/伯妮丝人名核对（B331未载）。",
+    "1946年出版细节待核。",
+    "1952年电影/1950百老汇说待核。"
+  ],
+  "sources": [
+    "B331"
+  ],
+  "year_source": "B331",
+  "author_source": "B331",
+  "related_works": [
+    "xinshigudeLieshou",
+    "bolidongwuyuan",
+    "zise"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《婚礼的成员》归属结构图",
+    "cards": [
+      {
+        "title": "弗兰淇",
+        "text": "婚礼的局外人（通说）",
+        "color": "main"
+      },
+      {
+        "title": "婚礼",
+        "text": "归属的想象（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "伯妮丝",
+        "text": "夏日的智慧（通说）",
+        "color": "family"
+      },
+      {
+        "title": "南方",
+        "text": "小镇的黄昏（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

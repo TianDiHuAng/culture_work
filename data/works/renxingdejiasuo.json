@@ -1,0 +1,105 @@
+{
+  "id": "renxingdejiasuo",
+  "title": "人性的枷锁",
+  "original_title": "Of Human Bondage",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "maugham",
+  "author_name": "威廉·萨默塞特·毛姆",
+  "year_display": "1915年（作者页注记：Britannica——人性的枷锁 1915 半自传）",
+  "year_sort": 1915,
+  "background": [
+    "作者页注记：人性的枷锁——'（Britannica：1915 半自传）'。",
+    "Britannica：毛姆——《月亮与六便士》作者（作者页交叉）。",
+    "题材（通说待核）：跛足孤儿菲利普的求索——艺术、爱情与自由。"
+  ],
+  "outline": [
+    "（通说待核）菲利普的海德堡/巴黎/伦敦：学徒生涯。",
+    "（通说待核）米尔德丽德的反复折磨与'人性的枷锁'。"
+  ],
+  "characters": [
+    {
+      "name": "菲利普·凯里",
+      "identity": "跛足孤儿",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "米尔德丽德",
+      "identity": "女招待",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'半自传'（B注记）。",
+    "枷锁：激情、宗教与金钱（通说待核）。",
+    "医学生涯与艺术的取舍（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'1915 半自传'（作者页注记）。",
+      "source": "B248"
+    },
+    {
+      "text": "Britannica：毛姆的畅销书地位（作者页语境——待核）。",
+      "source": "B248"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "半自传的传记对应。",
+      "爱德华时代伦敦。"
+    ],
+    "editions": [
+      "《人性的枷锁》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "毛姆长篇首选；与《月亮与六便士》对读。"
+  },
+  "pending": [
+    "菲利普·凯里人名核对（通说）。",
+    "1915年出版细节待核。",
+    "'波斯地毯'人生隐喻待核。"
+  ],
+  "sources": [
+    "B248"
+  ],
+  "year_source": "B248",
+  "author_source": "B248",
+  "related_works": [
+    "kanbujian3",
+    "renshijian",
+    "sangeshibing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《人性的枷锁》枷锁结构图",
+    "cards": [
+      {
+        "title": "菲利普",
+        "text": "跛足的求索（通说）",
+        "color": "main"
+      },
+      {
+        "title": "米尔德丽德",
+        "text": "反复的折磨（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "枷锁",
+        "text": "激情与惯例（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "地毯",
+        "text": "人生无意义说（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "amusitedan",
+  "title": "阿姆斯特丹",
+  "original_title": "Amsterdam",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪90年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mcewan",
+  "author_name": "伊恩·麦克尤恩",
+  "year_display": "1998年（作者页注记：Britannica——阿姆斯特丹——1998布克奖）",
+  "year_sort": 1998,
+  "background": [
+    "作者页注记：阿姆斯特丹——'（Britannica：1998布克奖）'。",
+    "Britannica：麦克尤恩——当代英国作家（作者页语境——待核）。",
+    "题材（通说待核）：两位老友的'安乐死'协定——黑色的道德喜剧。"
+  ],
+  "outline": [
+    "（通说待核）莫莉葬礼后的协定：谁先失能谁被终结。",
+    "（通说待核）各自的堕落与阿姆斯特丹的结局。"
+  ],
+  "characters": [
+    {
+      "name": "弗农/克莱夫",
+      "identity": "老友",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'安乐死'协定的黑色喜剧（通说待核）。",
+    "媒体与艺术的自利（通说待核）。",
+    "布克奖（B注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1998布克奖（作者页注记）。",
+      "source": "B250"
+    },
+    {
+      "text": "Britannica：麦克尤恩《赎罪》等（作者页交叉）。",
+      "source": "B250"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "双主角的镜像结构。",
+      "'协定'的道德反转。"
+    ],
+    "editions": [
+      "《阿姆斯特丹》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "麦克尤恩获奖作；与《赎罪》对读。"
+  },
+  "pending": [
+    "弗农/克莱夫人名核对（通说）。",
+    "1998年出版细节待核。",
+    "'安乐死'情节细节待核。"
+  ],
+  "sources": [
+    "B250"
+  ],
+  "year_source": "B250",
+  "author_source": "B250",
+  "related_works": [
+    "zhongjiendeganjue",
+    "shizhangshijieshi",
+    "lu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《阿姆斯特丹》协定结构图",
+    "cards": [
+      {
+        "title": "协定",
+        "text": "互相的毁灭（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "葬礼",
+        "text": "故事的起点（通说）",
+        "color": "family"
+      },
+      {
+        "title": "布克",
+        "text": "1998（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "黑色",
+        "text": "道德的喜剧（通说）",
+        "color": "main"
+      }
+    ]
+  }
+}

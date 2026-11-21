@@ -1,0 +1,100 @@
+{
+  "id": "shenshendeshulin",
+  "title": "神圣的树林",
+  "original_title": "The Sacred Wood",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "20世纪20年代初",
+  "genre": "批评文集",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "eliot",
+  "author_name": "T.S.艾略特",
+  "year_display": "1920年（作者页注记：Britannica——The Sacred Wood (1920)）",
+  "year_sort": 1920,
+  "background": [
+    "作者页注记：神圣的树林——'批评文集（Britannica：The Sacred Wood (1920)）'。",
+    "Britannica：艾略特——《传统与个人才能》等名文出处（待核——B注记未载篇目）。",
+    "题材（通说待核）：'传统与个人才能'、'玄学派诗人'等批评纲领。"
+  ],
+  "outline": [
+    "（通说待核）'传统'：非个人的诗学。",
+    "（通说待核）'客观对应物'（objective correlative——通说待核——篇目归属待核）。"
+  ],
+  "characters": [
+    {
+      "name": "（批评文集无人物）",
+      "identity": "——",
+      "note": "批评"
+    }
+  ],
+  "themes": [
+    "'传统与个人才能'的诗学（通说待核——篇目归属待核）。",
+    "批评的现代转向（B注记语境）。",
+    "'非个人化'理论（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Sacred Wood (1920)（作者页注记）。",
+      "source": "B100"
+    },
+    {
+      "text": "Britannica：艾略特批评家身份（作者页交叉）。",
+      "source": "B100"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "批评术语（客观对应物等）。",
+      "17-19世纪英国文学史底本。"
+    ],
+    "editions": [
+      "《神圣的树林》中译名（《传统与个人才能》单行本说）待核。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "艾略特批评首选；与《荒原》对读。"
+  },
+  "pending": [
+    "篇目（'传统与个人才能'1921说——收录与否）核对。",
+    "1920年出版细节待核。",
+    "'客观对应物'篇目（《哈姆雷特》文说）待核。"
+  ],
+  "sources": [
+    "B100"
+  ],
+  "year_source": "B100",
+  "author_source": "B100",
+  "related_works": [
+    "sigesizhongzou",
+    "kanbujian3",
+    "laokong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《神圣的树林》批评结构图",
+    "cards": [
+      {
+        "title": "传统",
+        "text": "非个人化的诗学（通说）",
+        "color": "main"
+      },
+      {
+        "title": "树林",
+        "text": "批评的殿堂（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "玄学派",
+        "text": "重估的纲领（通说）",
+        "color": "family"
+      },
+      {
+        "title": "1920",
+        "text": "结集之年（B注记）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

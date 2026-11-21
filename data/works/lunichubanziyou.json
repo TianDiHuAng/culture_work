@@ -1,0 +1,100 @@
+{
+  "id": "lunichubanziyou",
+  "title": "论出版自由",
+  "original_title": "Areopagitica",
+  "region": "英国",
+  "era": "古代",
+  "era_detail": "17世纪40年代",
+  "genre": "演讲文",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "milton",
+  "author_name": "约翰·弥尔顿",
+  "year_display": "1644年（作者页注记：Britannica——论出版自由 (1644)——言论自由经典）",
+  "year_sort": 1644,
+  "background": [
+    "作者页注记：论出版自由 (1644)——'言论自由经典（Britannica）'。",
+    "Britannica：弥尔顿——《失乐园》作者（作者页交叉）。",
+    "题材（通说待核）：致英国国会——反对预先审查制（licensing）。"
+  ],
+  "outline": [
+    "（通说待核）'真理的种子'：审查的荒谬。",
+    "（通说待核）'阿雷奥帕古'：雅典法庭的隐喻。"
+  ],
+  "characters": [
+    {
+      "name": "（演讲文无人物）",
+      "identity": "——",
+      "note": "政论文"
+    }
+  ],
+  "themes": [
+    "出版自由的经典论证（B注记）。",
+    "'真理与审查'（通说待核）。",
+    "内战时期的言论政治（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'言论自由经典'（作者页注记）。",
+      "source": "B090"
+    },
+    {
+      "text": "Britannica：《失乐园》为代表作（作者页交叉）。",
+      "source": "B090"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "17世纪英语政论文。",
+      "英国长期国会语境（通说待核）。"
+    ],
+    "editions": [
+      "《论出版自由》中译本（商务印书馆等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "弥尔顿散文首选；与《失乐园》对读。"
+  },
+  "pending": [
+    "'Areopagitica'标题直译核对。",
+    "1644年发表细节待核。",
+    "'预先审查'（licensing）制度细节待核。"
+  ],
+  "sources": [
+    "B090"
+  ],
+  "year_source": "B090",
+  "author_source": "B090",
+  "related_works": [
+    "leiyu",
+    "fushide",
+    "zhainazhitan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《论出版自由》自由结构图",
+    "cards": [
+      {
+        "title": "出版",
+        "text": "审查的靶子（书名）",
+        "color": "main"
+      },
+      {
+        "title": "真理",
+        "text": "'被杀不死'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "国会",
+        "text": "致意的对象（通说）",
+        "color": "family"
+      },
+      {
+        "title": "内战",
+        "text": "言论的政治（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

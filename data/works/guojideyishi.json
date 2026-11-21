@@ -1,0 +1,100 @@
+{
+  "id": "guojideyishi",
+  "title": "过界的仪式",
+  "original_title": "Rites of Passage",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪80年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "golding",
+  "author_name": "威廉·戈尔丁",
+  "year_display": "1980年（作者页注记：Britannica——过界的仪式（1980布克奖）——Sea trilogy）",
+  "year_sort": 1980,
+  "background": [
+    "作者页注记：过界的仪式——'（1980布克奖）——Sea trilogy（Britannica）'。",
+    "Britannica：戈尔丁——《蝇王》作者、1983诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：1812年驶往澳大利亚的船——日记体的海上'仪式'。"
+  ],
+  "outline": [
+    "（通说待核）塔尔伯特的日记：绅士的傲慢与海上惩罚。",
+    "（通说待核）'过界'：跨越赤道仪式与阶级的深渊。"
+  ],
+  "characters": [
+    {
+      "name": "塔尔伯特",
+      "identity": "贵族青年/日记者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "航海日记的文体（通说待核）。",
+    "阶级与'文明'的假面（通说待核）。",
+    "海洋三部曲之首（B注记：Sea trilogy）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1980布克奖（作者页注记）。",
+      "source": "B129"
+    },
+    {
+      "text": "Britannica：1983诺奖（作者页交叉——待核）。",
+      "source": "B129"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "19世纪航海史。",
+      "日记体的不可靠。"
+    ],
+    "editions": [
+      "《过界的仪式》中译名（《航祭》）待核。",
+      "英文原版。"
+    ],
+    "order": "戈尔丁中期；与《蝇王》对读。"
+  },
+  "pending": [
+    "塔尔伯特人名核对（通说）。",
+    "1980年出版（Faber说）待核。",
+    "'海洋三部曲'卷次核对。"
+  ],
+  "sources": [
+    "B129"
+  ],
+  "year_source": "B129",
+  "author_source": "B129",
+  "related_works": [
+    "yingwang",
+    "shizhangshijieshi",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《过界的仪式》航海结构图",
+    "cards": [
+      {
+        "title": "帆船",
+        "text": "驶向南半球的木船（通说）",
+        "color": "family"
+      },
+      {
+        "title": "日记",
+        "text": "傲慢的记录（通说）",
+        "color": "main"
+      },
+      {
+        "title": "仪式",
+        "text": "跨越赤道（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "布克",
+        "text": "1980（B注记）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "huichanggedeyu",
+  "title": "会唱歌的鱼",
+  "original_title": "Brekkukotsannáll",
+  "region": "冰岛",
+  "era": "现当代",
+  "era_detail": "20世纪50年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "冰岛语",
+  "author_id": "laxness",
+  "author_name": "哈尔多尔·拉克斯内斯",
+  "year_display": "1957年（Britannica B361：Brekkukotsannáll (1957; The Fish Can Sing)——中译名待核）",
+  "year_sort": 1957,
+  "background": [
+    "Britannica（B361）：Brekkukotsannáll——'more lyrical and introspective'（B361：1950年代后更抒情内省）。",
+    "Britannica（B361）：拉克斯内斯——1955诺奖。",
+    "题材（通说待核）：孤童阿尔夫格里姆在雷克雅未克'泥棚'的成长与'会唱歌的鱼'传说。"
+  ],
+  "outline": [
+    "（通说待核）'泥棚编年'：孤童与收养他的老夫妇。",
+    "（通说待核）'会唱歌的鱼'：加尔巴尔的声名与死亡。"
+  ],
+  "characters": [
+    {
+      "name": "阿尔夫格里姆",
+      "identity": "孤童",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "加尔巴尔",
+      "identity": "歌唱家",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'抒情内省'的晚期风格（B361）。",
+    "孤童的成长（通说待核）。",
+    "冰岛小社会的幽默（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Brekkukotsannáll (1957)（B361）。",
+      "source": "B361"
+    },
+    {
+      "text": "Britannica：'more lyrical and introspective'（B361）。",
+      "source": "B361"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "冰岛首都的市井语调。",
+      "'编年'的幽默。"
+    ],
+    "editions": [
+      "《会唱歌的鱼》中译名（《唱歌的鱼》）待核。",
+      "冰岛文原版。"
+    ],
+    "order": "拉克斯内斯抒情篇；与《独立的人们》对读。"
+  },
+  "pending": [
+    "阿尔夫格里姆/加尔巴人名核对（通说）。",
+    "1957年出版细节待核。",
+    "'泥棚'（Brekkukot）细节待核。"
+  ],
+  "sources": [
+    "B361"
+  ],
+  "year_source": "B361",
+  "author_source": "B361",
+  "related_works": [
+    "dulidemen",
+    "bingdaozhizhong",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《会唱歌的鱼》成长结构图",
+    "cards": [
+      {
+        "title": "泥棚",
+        "text": "成长的角落（通说）",
+        "color": "family"
+      },
+      {
+        "title": "孤童",
+        "text": "阿尔夫格里姆（通说）",
+        "color": "main"
+      },
+      {
+        "title": "歌者",
+        "text": "传说的声名（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "抒情",
+        "text": "'内省'的风格（B361）",
+        "color": "gold"
+      }
+    ]
+  }
+}

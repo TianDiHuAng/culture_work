@@ -1,0 +1,105 @@
+{
+  "id": "shelishouwangzhe",
+  "title": "设立守望者",
+  "original_title": "Go Set a Watchman",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "21世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "lee",
+  "author_name": "哈珀·李",
+  "year_display": "2015年（作者页注记：Britannica——设立守望者（2015））",
+  "year_sort": 2015,
+  "background": [
+    "作者页注记：设立守望者——'（Britannica）'。",
+    "Britannica：哈珀·李——《杀死一只知更鸟》作者（作者页交叉）。",
+    "题材（通说待核）：《知更鸟》二十年后的琼·露易丝返乡——种族立场的幻灭。"
+  ],
+  "outline": [
+    "（通说待核）斯库特（琼·露易丝）从纽约回梅科姆。",
+    "（通说待核）父亲阿蒂克斯的'另一面'。"
+  ],
+  "characters": [
+    {
+      "name": "琼·露易丝",
+      "identity": "成年斯库特",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "阿蒂克斯",
+      "identity": "父亲",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'知更鸟'前传还是续章的争议（通说待核）。",
+    "成年后对父亲的幻灭（通说待核）。",
+    "2015年的出版风波（作者页语境——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Go Set a Watchman (2015)（作者页注记）。",
+      "source": "B151"
+    },
+    {
+      "text": "Britannica：《杀死一只知更鸟》为代表作（作者页交叉）。",
+      "source": "B151"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "与《知更鸟》的关系定位。",
+      "1950年代南方种族语境。"
+    ],
+    "editions": [
+      "《设立守望者》中译名（《守望之心》）待核。",
+      "英文原版。"
+    ],
+    "order": "《知更鸟》续读（或前稿）；需注意其立场差异。"
+  },
+  "pending": [
+    "2015年出版（Harper说）与'发现手稿'风波待核。",
+    "琼·露易丝人名核对（通说）。",
+    "'前稿/续篇'的争议待核。"
+  ],
+  "sources": [
+    "B151"
+  ],
+  "year_source": "B151",
+  "author_source": "B151",
+  "related_works": [
+    "kanbujian3",
+    "xiangtianhuhan",
+    "yuwanghaojieche"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《设立守望者》幻灭结构图",
+    "cards": [
+      {
+        "title": "返乡",
+        "text": "成年的斯库特（通说）",
+        "color": "main"
+      },
+      {
+        "title": "守望者",
+        "text": "圣经的隐喻（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "父亲",
+        "text": "幻灭的偶像（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "梅科姆",
+        "text": "1950年代的南方（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "womenjiequdehaizimen",
+  "title": "我们街区的孩子们",
+  "original_title": "أولاد حارتنا",
+  "region": "埃及",
+  "era": "近代",
+  "era_detail": "20世纪50年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "阿拉伯语",
+  "author_id": "mahfouz",
+  "author_name": "纳吉布·马哈福兹",
+  "year_display": "1959年（作者页注记：Britannica——我们街区的孩子们 (1959，被禁)——'banned in Egypt for its religious themes'）",
+  "year_sort": 1959,
+  "background": [
+    "作者页注记：我们街区的孩子们——'（Britannica：banned in Egypt for its religious themes）'。",
+    "Britannica：马哈福兹——1988诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：小街巷的'群主'寓言——先知们的轮回与'杰巴拉维'。"
+  ],
+  "outline": [
+    "（通说待核）代代'孩子'争取街区的权利。",
+    "（通说待核）'杰巴拉维'的隐匿与诸子的牺牲。"
+  ],
+  "characters": [
+    {
+      "name": "杰巴拉维",
+      "identity": "街区之主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "诸子（加巴拉等）",
+      "identity": "先知化身",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "宗教寓言的争议（B注记：banned...religious themes）。",
+    "权力与分配的轮回（通说待核）。",
+    "'1988诺奖'（作者页交叉——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'banned in Egypt for its religious themes'（作者页注记）。",
+      "source": "B160"
+    },
+    {
+      "text": "Britannica：马哈福兹'开罗三部曲'（作者页交叉）。",
+      "source": "B160"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓言与宗教的边界。",
+      "先知谱系的对应（通说待核）。"
+    ],
+    "editions": [
+      "《我们街区的孩子们》中译本（人民文学/上海译文等——通说待核）。",
+      "阿拉伯文原版。"
+    ],
+    "order": "马哈福兹寓言篇；与'开罗三部曲'对读。"
+  },
+  "pending": [
+    "杰巴拉维等人名核对（通说）。",
+    "1959年连载（Al-Ahram说）与禁书细节待核。",
+    "'诺奖1988'交叉核对。"
+  ],
+  "sources": [
+    "B160"
+  ],
+  "year_source": "B160",
+  "author_source": "B160",
+  "related_works": [
+    "renshijian",
+    "aiyuheandegushi",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我们街区的孩子们》寓言结构图",
+    "cards": [
+      {
+        "title": "杰巴拉维",
+        "text": "隐匿的'主'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "孩子们",
+        "text": "代代的抗争（通说）",
+        "color": "main"
+      },
+      {
+        "title": "禁书",
+        "text": "宗教的争议（B注记）",
+        "color": "antagonist"
+      },
+      {
+        "title": "街区",
+        "text": "世界的缩影（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

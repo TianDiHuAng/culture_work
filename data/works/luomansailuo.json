@@ -1,0 +1,100 @@
+{
+  "id": "luomansailuo",
+  "title": "罗曼采罗",
+  "original_title": "Romanzero",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "19世纪50年代初",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "德语",
+  "author_id": "heine",
+  "author_name": "海因里希·海涅",
+  "year_display": "1851年（作者页注记：Britannica——罗曼采罗 (1851)——晚期诗集）",
+  "year_sort": 1851,
+  "background": [
+    "作者页注记：罗曼采罗 (1851)——'晚期诗集（Britannica）'。",
+    "Britannica：海涅——德语诗人（作者页语境）。",
+    "题材（通说待核）：病榻上的三卷——'谣曲''沉思''希伯来旋律'。"
+  ],
+  "outline": [
+    "（通说待核）三卷结构：谣曲/沉思/希伯来旋律（卷名通说待核）。",
+    "（通说待核）'流亡与病痛'的自我审视。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "流亡病者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'晚期风格'的忧郁（B注记：晚期诗集）。",
+    "'希伯来旋律'：犹太身份的回归（通说待核）。",
+    "谣曲的叙事（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Romanzero (1851)——晚期诗集（作者页注记）。",
+      "source": "B139"
+    },
+    {
+      "text": "Britannica：海涅诗歌序列（作者页交叉）。",
+      "source": "B139"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三卷结构。",
+      "'希伯来旋律'的文化语境。"
+    ],
+    "editions": [
+      "《罗曼采罗》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "海涅晚期；与《诗歌集》对读。"
+  },
+  "pending": [
+    "三卷卷名核对（通说）。",
+    "1851年出版细节待核。",
+    "'病榻'写作细节待核。"
+  ],
+  "sources": [
+    "B139"
+  ],
+  "year_source": "B139",
+  "author_source": "B139",
+  "related_works": [
+    "shigetu",
+    "dongtiantonghua",
+    "wuguigu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《罗曼采罗》晚期结构图",
+    "cards": [
+      {
+        "title": "谣曲",
+        "text": "叙事的回声（通说）",
+        "color": "main"
+      },
+      {
+        "title": "希伯来旋律",
+        "text": "身份的回归（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "病榻",
+        "text": "晚期的自审（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "流亡",
+        "text": "巴黎的岁月（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

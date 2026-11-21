@@ -1,0 +1,100 @@
+{
+  "id": "xiaotouyugou",
+  "title": "小偷与狗",
+  "original_title": "اللص والكلاب",
+  "region": "埃及",
+  "era": "近代",
+  "era_detail": "20世纪60年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "阿拉伯语",
+  "author_id": "mahfouz",
+  "author_name": "纳吉布·马哈福兹",
+  "year_display": "1961年（作者页注记：Britannica 列举——小偷与狗 (1961)）",
+  "year_sort": 1961,
+  "background": [
+    "作者页注记：小偷与狗——'（Britannica 列举）'。",
+    "Britannica：马哈福兹——开罗三部曲之后的转向（作者页语境——待核）。",
+    "题材（通说待核）：出狱的贼赛义德对'背叛者'的复仇——存在主义色调。"
+  ],
+  "outline": [
+    "（通说待核）赛义德出狱：妻子改嫁、女儿疏远。",
+    "（通说待核）复仇的循环与'狗'的意象。"
+  ],
+  "characters": [
+    {
+      "name": "赛义德·马兰",
+      "identity": "出狱的贼",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "复仇与虚无（通说待核）。",
+    "'狗'：被背叛者与背叛者（书名语境——通说待核）。",
+    "开罗市井的存在主义（作者页语境——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：小偷与狗 (1961)（作者页注记）。",
+      "source": "B160"
+    },
+    {
+      "text": "Britannica：马哈福兹现实主义转向（作者页语境——待核）。",
+      "source": "B160"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "60年代阿拉伯政治语境。",
+      "内心独白（意识流——通说待核）。"
+    ],
+    "editions": [
+      "《小偷与狗》中译本（人民文学等——通说待核）。",
+      "阿拉伯文原版。"
+    ],
+    "order": "马哈福兹'新现实主义'首选。"
+  },
+  "pending": [
+    "赛义德人名核对（通说）。",
+    "1961年出版细节待核。",
+    "'意识流'手法说法待核。"
+  ],
+  "sources": [
+    "B160"
+  ],
+  "year_source": "B160",
+  "author_source": "B160",
+  "related_works": [
+    "womenjiequdehaizimen",
+    "dixiashishouji",
+    "xiniu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《小偷与狗》复仇结构图",
+    "cards": [
+      {
+        "title": "赛义德",
+        "text": "出狱的复仇者（通说）",
+        "color": "main"
+      },
+      {
+        "title": "狗",
+        "text": "背叛者的意象（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "虚无",
+        "text": "复仇的空洞（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "开罗",
+        "text": "市井的存在（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

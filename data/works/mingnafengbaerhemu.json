@@ -1,0 +1,105 @@
+{
+  "id": "mingnafengbaerhemu",
+  "title": "明娜·冯·巴尔赫姆",
+  "original_title": "Minna von Barnhelm",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪60年代",
+  "genre": "喜剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "lessing",
+  "author_name": "戈特霍尔德·埃夫莱姆·莱辛",
+  "year_display": "1767年（Britannica B368：Minna von Barnhelm (1767)——'marks the birth of classical German comedy'）",
+  "year_sort": 1767,
+  "background": [
+    "Britannica（B368）：'marks the birth of classical German comedy'（古典德国喜剧的诞生）。",
+    "Britannica（B368）：莱辛——'helped free German drama from the influence of classical and French models'。",
+    "题材（通说待核）：七年战争后的军官台尔海姆与明娜——荣誉的误会与订婚。"
+  ],
+  "outline": [
+    "（通说待核）战后军官的'荣誉'困境与明娜的到来。",
+    "（通说待核）戒指的双关与和解。"
+  ],
+  "characters": [
+    {
+      "name": "台尔海姆",
+      "identity": "少校",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "明娜·冯·巴尔赫姆",
+      "identity": "富家女",
+      "note": "（B368 书名人物）"
+    }
+  ],
+  "themes": [
+    "'古典德国喜剧的诞生'（B368）。",
+    "荣誉与爱情的和解（通说待核）。",
+    "七年战争的战后语境（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'marks the birth of classical German comedy'（B368）。",
+      "source": "B368"
+    },
+    {
+      "text": "Britannica：莱辛戏剧解放（B368 作者级）。",
+      "source": "B368"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "喜剧的误会结构。",
+      "七年战争史。"
+    ],
+    "editions": [
+      "《明娜·冯·巴尔赫姆》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "莱辛喜剧首选；与《智者纳坦》对读。"
+  },
+  "pending": [
+    "台尔海姆人名核对（通说）。",
+    "1767年首演（汉堡说）待核。",
+    "'戒指'细节待核。"
+  ],
+  "sources": [
+    "B368"
+  ],
+  "year_source": "B368",
+  "author_source": "B368",
+  "related_works": [
+    "zhainazhitan",
+    "laokong",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《明娜·冯·巴尔赫姆》喜剧结构图",
+    "cards": [
+      {
+        "title": "明娜",
+        "text": "订婚的坚持（B368）",
+        "color": "main"
+      },
+      {
+        "title": "荣誉",
+        "text": "误会的根源（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "喜剧",
+        "text": "'古典的诞生'（B368）",
+        "color": "gold"
+      },
+      {
+        "title": "战后",
+        "text": "军官的困境（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "shanlidepingfan",
+  "title": "山里的平凡故事",
+  "original_title": "Plain Tales from the Hills",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪80年代末",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "kipling",
+  "author_name": "拉迪亚德·吉卜林",
+  "year_display": "1888年（Britannica B277：Plain Tales from the Hills 1888）",
+  "year_sort": 1888,
+  "background": [
+    "Britannica（B277）：Plain Tales from the Hills 1888——吉卜林早期印度短篇集。",
+    "Britannica（B277）：吉卜林——1907诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：英属印度的'山间车站'——四十篇军政故事。"
+  ],
+  "outline": [
+    "（通说待核）西姆拉社会的众生相：军官、婚姻与流言。",
+    "（通说待核）'吉卜林式'的反讽结尾。"
+  ],
+  "characters": [
+    {
+      "name": "众篇人物",
+      "identity": "英印官员",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "英印社会的讽刺（通说待核）。",
+    "'山里'：西姆拉避暑地（书名语境——通说待核）。",
+    "短篇的反讽技艺（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Plain Tales from the Hills 1888（B277）。",
+      "source": "B277"
+    },
+    {
+      "text": "Britannica：吉卜林诺奖（B277 作者页交叉）。",
+      "source": "B277"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "英印术语（'山站'等）。",
+      "40篇的体量。"
+    ],
+    "editions": [
+      "《山里的平凡故事》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "吉卜林早期首选；与《丛林之书》对读。"
+  },
+  "pending": [
+    "篇数（40篇说）核对（通说）。",
+    "1888年出版（Calcutta说）待核。",
+    "'西姆拉'背景细节待核。"
+  ],
+  "sources": [
+    "B277"
+  ],
+  "year_source": "B277",
+  "author_source": "B277",
+  "related_works": [
+    "leiyu",
+    "luoshengmen",
+    "luoting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《山里的平凡故事》印度讽刺图",
+    "cards": [
+      {
+        "title": "山站",
+        "text": "西姆拉的凉夏（通说）",
+        "color": "family"
+      },
+      {
+        "title": "众生",
+        "text": "英印的浮世（通说）",
+        "color": "main"
+      },
+      {
+        "title": "反讽",
+        "text": "吉卜林式结尾（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "1888",
+        "text": "成名的前夜（B277）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
