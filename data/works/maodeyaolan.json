@@ -1,0 +1,105 @@
+{
+  "id": "maodeyaolan",
+  "title": "猫的摇篮",
+  "original_title": "Cat's Cradle",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪60年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "vonnegut",
+  "author_name": "库尔特·冯内古特",
+  "year_display": "1963年（Britannica B390：Cat's Cradle (1963)——以此论文获芝加哥大学人类学硕士（1963））",
+  "year_sort": 1963,
+  "background": [
+    "Britannica（B390）：Caribbean islanders practicing 'a religion consisting of harmless trivialities' encounter a substance that 'eventually destroys all life on Earth'。",
+    "Britannica（B390）：冯内古特把它作为论文提交——芝加哥大学授予人类学硕士（1963）。",
+    "题材（通说待核）：'冰-9'与博克农教——末日发明的讽刺。"
+  ],
+  "outline": [
+    "（通说待核）'冰-9'的发明与加勒比岛国博克农教。",
+    "（通说待核）世界终结的'猫的摇篮'游戏。"
+  ],
+  "characters": [
+    {
+      "name": "霍尼克博士",
+      "identity": "'冰-9'发明者",
+      "note": "（通说待核，B390未载）"
+    },
+    {
+      "name": "博克农",
+      "identity": "宗教创始人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'无害琐碎的宗教'（B390：harmless trivialities）。",
+    "'冰-9'：毁灭的发明（B390：destroys all life on Earth）。",
+    "科学家的天真（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：人类学硕士论文（1963——B390）。",
+      "source": "B390"
+    },
+    {
+      "text": "Britannica：'black humor'（B390 交叉）。",
+      "source": "B390"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'博克农'教义。",
+      "'冰-9'的物理寓言。"
+    ],
+    "editions": [
+      "《猫的摇篮》中译本（译林等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "冯内古特入门首选；后接《五号屠场》。"
+  },
+  "pending": [
+    "霍尼克/博克农人名核对（通说）。",
+    "1963年出版（Holt, Rinehart说）待核。",
+    "'冰-9'细节待核。"
+  ],
+  "sources": [
+    "B390"
+  ],
+  "year_source": "B390",
+  "author_source": "B390",
+  "related_works": [
+    "wuhhaotuchang",
+    "toutougeonv",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《猫的摇篮》末日发明图",
+    "cards": [
+      {
+        "title": "冰-9",
+        "text": "毁灭的发明（B390）",
+        "color": "antagonist"
+      },
+      {
+        "title": "博克农",
+        "text": "'无害琐碎'的宗教（B390）",
+        "color": "gold"
+      },
+      {
+        "title": "摇篮",
+        "text": "猫线的游戏（书名）",
+        "color": "main"
+      },
+      {
+        "title": "末日",
+        "text": "世界的终结（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

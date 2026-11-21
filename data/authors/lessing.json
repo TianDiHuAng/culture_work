@@ -1,77 +1,68 @@
 {
   "id": "lessing",
-  "name": "戈特霍尔德·埃夫莱姆·莱辛",
-  "foreign_name": "Gotthold Ephraim Lessing（戈特霍尔德·埃夫莱姆·莱辛，1729-01-22—1781-02-15）",
-  "country": "德国",
-  "birth": 1729,
-  "death": 1781,
-  "birth_year": 1729,
-  "death_year": 1781,
-  "era": "近代",
-  "summary": "莱辛，萨克森Kamenz生，德国剧作家与批评家——'He helped free German drama from the influence of classical and French models and wrote plays of lasting importance.'（B368）。Miss Sara Sampson (1755)——德语文学第一部重要市民悲剧（B368）；Minna von Barnhelm (1767)——'marks the birth of classical German comedy'（B368）；Laokoon (1766)——界定绘画与诗歌的边界（B368）；Hamburgische Dramaturgie (1767-69)——104篇剧评——'emphasizing pity and compassion and influencing the Sturm und Drang movement'（B368）；Nathan der Weise（智者纳坦, 1779）——'advocates for religious tolerance during the Crusades'——'ethical conduct, rather than dogma or prejudice, should determine the value of a religion.'（B368）。",
+  "name": "多丽丝·莱辛",
+  "foreign_name": "Doris Lessing（多丽丝·莱辛，原名 Doris May Tayler，1919-10-22—2013-11-17）",
+  "country": "英国",
+  "birth": 1919,
+  "death": 2013,
+  "birth_year": 1919,
+  "death_year": 2013,
+  "era": "现当代",
+  "summary": "莱辛，波斯Kermānshāh生（今伊朗），英国作家——2007年诺贝尔文学奖（B389）。The Golden Notebook（金色笔记, 1962）——'a woman writer attempts to come to terms with the life of her times through her art'——'one of the most complex and the most widely read of her novels'（B389）。The Grass Is Singing (1950)——白人农夫、妻子与非洲仆人（罗德西亚）（B389）；Children of Violence 五部曲 (1952-69)（B389）。'In her early adult years she was an active communist'（B389）；Time Bites (2004)——'from women's issues and politics to Sufism'（B389）。",
   "timeline": [
     {
-      "year": 1729,
-      "text": "1月22日生于Kamenz（B368）。",
-      "src": "B368"
+      "year": 1919,
+      "text": "10月22日生于波斯Kermānshāh（B389）。",
+      "src": "B389"
     },
     {
-      "year": 1755,
-      "text": "Miss Sara Sampson——第一部重要市民悲剧（B368）。",
-      "src": "B368"
+      "year": 1950,
+      "text": "The Grass Is Singing——首作（B389）。",
+      "src": "B389"
     },
     {
-      "year": 1766,
-      "text": "Laokoon——诗画界限（B368）。",
-      "src": "B368"
+      "year": 1962,
+      "text": "《金色笔记》（B389）。",
+      "src": "B389"
     },
     {
-      "year": 1767,
-      "text": "Minna von Barnhelm——古典德国喜剧的诞生（B368）。",
-      "src": "B368"
+      "year": 2007,
+      "text": "获诺贝尔文学奖（B389）。",
+      "src": "B389"
     },
     {
-      "year": 1779,
-      "text": "Nathan der Weise（智者纳坦）——最后一部戏剧（B368）。",
-      "src": "B368"
-    },
-    {
-      "year": 1781,
-      "text": "2月15日卒于Braunschweig（B368）。",
-      "src": "B368"
+      "year": 2013,
+      "text": "11月17日卒于伦敦（B389）。",
+      "src": "B389"
     }
   ],
   "major_works": [
     {
-      "work_id": "zhainazhitan",
-      "note": "1779（B368）"
+      "work_id": "jinsanbiji",
+      "note": "1962（B389）"
     },
     {
-      "work_id": "laokong",
-      "note": "1766（B368）"
+      "title": "野草在歌唱",
+      "note": "（B389：The Grass Is Singing (1950)——中译名待核）"
     },
     {
-      "work_id": "mingnafengbaerhemu",
-      "note": "（B368：Minna von Barnhelm (1767)）"
-    },
-    {
-      "work_id": "aimiliyajialuoti",
-      "note": "（B368：Emilia Galotti (1772)）"
+      "title": "暴力的孩子们",
+      "note": "（B389：Children of Violence (1952-69)五部曲）"
     }
   ],
   "style": [
-    "德国戏剧的解放者：摆脱古典与法国范式（B368）。",
-    "市民悲剧的开创（B368：bürgerliches Trauerspiel）。",
-    "宗教宽容的倡导（B368：Nathan）。"
+    "'20世纪社会政治动荡中人'的书写（B389：social and political upheavals）。",
+    "女性主义与苏菲派的并置（B389：Time Bites）。",
+    "四笔记的'裂缝'结构（书名语境——通说待核）。"
   ],
-  "status": "Britannica 定位莱辛为德国文学经典化关键人物、市民悲剧与戏剧批评的奠基者（B368）。",
+  "status": "Britannica 定位莱辛为2007诺奖得主、《金色笔记》为其最复杂最广读者（B389）。",
   "sources": [
-    "B368"
+    "B389"
   ],
-  "dates_source": "B368",
+  "dates_source": "B389",
   "pending": [
-    "《智者纳坦》通行译名两说（/《智者纳旦》）待核。",
-    "'指环寓言'细节待核（B368未载）。",
-    "'Laokoon'中译名（《拉奥孔》）待核。"
+    "《金色笔记》通行译名待核。",
+    "四笔记（黑红黄蓝）结构细节待核（通说）。",
+    "'积极共产主义者'年段（B389）细节待核。"
   ]
 }
