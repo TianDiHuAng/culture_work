@@ -1,0 +1,100 @@
+{
+  "id": "mucaili",
+  "title": "姆采里",
+  "original_title": "Мцыри（Mtsyri）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪30年代末",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "lermontov",
+  "author_name": "米哈伊尔·莱蒙托夫",
+  "year_display": "作者页注记：Britannica 列举 Mtsyri（成稿/发表年份通说待核）",
+  "year_sort": 1839,
+  "background": [
+    "作者页注记：恶魔、假面舞会、姆采里——'诗与剧（Britannica 列举）'。",
+    "Britannica：莱蒙托夫——普希金之后俄国诗歌代表（作者页语境）。",
+    "题材（通说待核）：修道院长大的高加索少年——三天逃亡与自由的死亡。"
+  ],
+  "outline": [
+    "（通说待核）'姆采里'（异乡人）的自述：三天的自由。",
+    "（通说待核）与山豹的搏斗及格鲁吉亚少女的幻影。"
+  ],
+  "characters": [
+    {
+      "name": "姆采里",
+      "identity": "逃亡少年",
+      "note": "（B 书名人物）"
+    }
+  ],
+  "themes": [
+    "自由与囚禁（通说待核）。",
+    "高加索的自然礼赞（通说待核）。",
+    "浪漫主义英雄的少年版（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Mtsyri 列举（作者页注记）。",
+      "source": "B142"
+    },
+    {
+      "text": "Britannica：莱蒙托夫诗歌地位（作者页语境）。",
+      "source": "B142"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "长诗独白体。",
+      "修道院与高加索的对立（通说待核）。"
+    ],
+    "editions": [
+      "《姆采里》中译名（《童僧》两说——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "莱蒙托夫诗歌之二；与《恶魔》并读。"
+  },
+  "pending": [
+    "发表年份（1839/1840说）待核。",
+    "'姆采里'格鲁吉亚语含义待核。",
+    "山豹搏斗细节待核。"
+  ],
+  "sources": [
+    "B142"
+  ],
+  "year_source": "B142",
+  "author_source": "B142",
+  "related_works": [
+    "emo",
+    "dangdaiyingxiong",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《姆采里》三天自由图",
+    "cards": [
+      {
+        "title": "修道院",
+        "text": "囚禁的童年（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "三天",
+        "text": "自由的长度（通说）",
+        "color": "main"
+      },
+      {
+        "title": "山豹",
+        "text": "野性的相遇（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "死亡",
+        "text": "自由人的安息（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

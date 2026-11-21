@@ -1,0 +1,105 @@
+{
+  "id": "haidenvren",
+  "title": "海的女儿",
+  "original_title": "Den lille Havfrue（The Little Mermaid）",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "19世纪30年代",
+  "genre": "童话",
+  "genre_group": "故事集",
+  "language": "丹麦语",
+  "author_id": "andersen",
+  "author_name": "安徒生",
+  "year_display": "1837年（作者页注记：Britannica 语境——发表年份通说待核）",
+  "year_sort": 1837,
+  "background": [
+    "作者页注记：海的女儿、丑小鸭、白雪皇后——'（Britannica 语境）'。",
+    "Britannica：安徒生——童话作家（作者页语境）。",
+    "题材（通说待核）：小人鱼以声音换双腿——爱而不得化为泡沫。"
+  ],
+  "outline": [
+    "（通说待核）海底宫殿的少女与海上王子。",
+    "（通说待核）'泡沫'的结尾与灵魂的可能。"
+  ],
+  "characters": [
+    {
+      "name": "小人鱼",
+      "identity": "海王之女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "王子",
+      "identity": "岸上的人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "牺牲与'不灭的灵魂'（通说待核）。",
+    "身体的代价：声音（通说待核）。",
+    "童话的悲剧性（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：安徒生童话序列（作者页注记）。",
+      "source": "B262"
+    },
+    {
+      "text": "Britannica：安徒生为童话大师（作者页语境）。",
+      "source": "B262"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "童话与民间故事的区别。",
+      "'灵魂'的神学设定。"
+    ],
+    "editions": [
+      "《海的女儿》（人民文学出版社《安徒生童话全集》等——通说待核）。",
+      "丹麦文原版（公有领域）。"
+    ],
+    "order": "安徒生代表作；与《丑小鸭》对读。"
+  },
+  "pending": [
+    "1837年发表（《童话集》第三分册说）待核。",
+    "'泡沫'结尾细节待核。",
+    "小人鱼人名核对（无名的'小女儿'说）。"
+  ],
+  "sources": [
+    "B262"
+  ],
+  "year_source": "B262",
+  "author_source": "B262",
+  "related_works": [
+    "chouxiaoya",
+    "baixuehuanghou",
+    "xuboliweng"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《海的女儿》牺牲结构图",
+    "cards": [
+      {
+        "title": "小人鱼",
+        "text": "声音的交换（通说）",
+        "color": "main"
+      },
+      {
+        "title": "王子",
+        "text": "不可得的爱（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "泡沫",
+        "text": "结局的升华（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "灵魂",
+        "text": "童话的神学（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "teluoyiluosi",
+  "title": "特洛伊罗斯与克丽西达",
+  "original_title": "Troilus and Criseyde",
+  "region": "英国",
+  "era": "古代",
+  "era_detail": "14世纪80年代",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "英语（中古英语）",
+  "author_id": "chaucer",
+  "author_name": "杰弗里·乔叟",
+  "year_display": "作者页注记：Britannica——取材薄伽丘《菲洛斯特拉托》（成诗年份通说待核——约1385）",
+  "year_sort": 1385,
+  "background": [
+    "作者页注记：特洛伊罗斯与克丽西达——'取材薄伽丘《菲洛斯特拉托》（Britannica：Chaucer drew on Il filostrato）'。",
+    "Britannica：乔叟——'英国诗歌之父'（作者页语境——待核）。",
+    "题材（通说待核）：特洛伊战争中特洛伊罗斯与克丽西达的爱情与背叛。"
+  ],
+  "outline": [
+    "（通说待核）爱情五卷结构：相遇—盟誓—交换—背叛—哀悼。",
+    "（通说待核）彭斯瑞俄斯与命运女神的议论。"
+  ],
+  "characters": [
+    {
+      "name": "特洛伊罗斯",
+      "identity": "特洛伊王子",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "克丽西达",
+      "identity": "寡妇之女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "爱情的可变与忠诚（通说待核）。",
+    "'命运'的哲理框架（通说待核）。",
+    "意大利文学的英语转化（B注记：drew on Il filostrato）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Chaucer drew on Il filostrato'（作者页注记）。",
+      "source": "B032"
+    },
+    {
+      "text": "Britannica：乔叟《坎特伯雷故事》作者（作者页交叉）。",
+      "source": "B032"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "中古英语。",
+      "薄伽丘底本的改写比较。"
+    ],
+    "editions": [
+      "《特洛伊罗斯与克丽西达》中译本（人民文学等——通说待核）。",
+      "中古英语原版（公有领域）。"
+    ],
+    "order": "乔叟长诗首选；与《坎特伯雷故事》对读。"
+  },
+  "pending": [
+    "成诗年份（约1385说）待核。",
+    "五卷结构核对（通说）。",
+    "莎士比亚同名戏剧的关系待核。"
+  ],
+  "sources": [
+    "B032"
+  ],
+  "year_source": "B032",
+  "author_source": "B032",
+  "related_works": [
+    "kanteboleigushi",
+    "xunjiexiaoshuo",
+    "luoting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《特洛伊罗斯与克丽西达》背叛结构图",
+    "cards": [
+      {
+        "title": "特洛伊",
+        "text": "战争中的爱情（通说）",
+        "color": "family"
+      },
+      {
+        "title": "克丽西达",
+        "text": "交换与背叛（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "命运",
+        "text": "哲理的框架（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "薄伽丘",
+        "text": "意大利底本（B注记）",
+        "color": "main"
+      }
+    ]
+  }
+}

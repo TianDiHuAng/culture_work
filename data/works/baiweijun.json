@@ -1,0 +1,105 @@
+{
+  "id": "baiweijun",
+  "title": "白卫军",
+  "original_title": "Белая гвардия",
+  "region": "苏联",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "bulgakov",
+  "author_name": "米哈伊尔·布尔加科夫",
+  "year_display": "作者页注记：Britannica——白卫军（年份通说待核——1925-27连载说）",
+  "year_sort": 1925,
+  "background": [
+    "作者页注记：白卫军、图尔宾一家的日子——'（Britannica）'。",
+    "Britannica：布尔加科夫——《大师与玛格丽特》作者、多部被禁（作者页语境）。",
+    "题材（通说待核）：1918年基辅——图尔宾一家在内战中的覆灭。"
+  ],
+  "outline": [
+    "（通说待核）图尔宾兄妹与'白卫军'的崩溃。",
+    "（通说待核）冬夜壁炉与家宅的象征。"
+  ],
+  "characters": [
+    {
+      "name": "阿列克谢·图尔宾",
+      "identity": "军医",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "叶莲娜",
+      "identity": "妹妹",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "内战中'白'的挽歌（通说待核）。",
+    "家宅的守护（通说待核）。",
+    "历史的暴力与日常（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：白卫军（作者页注记）。",
+      "source": "B225"
+    },
+    {
+      "text": "Britannica：改编《图尔宾一家的日子》被禁史（作者页注记——待核）。",
+      "source": "B225"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "乌克兰内战的多方势力。",
+      "'白军'视角的历史叙事。"
+    ],
+    "editions": [
+      "《白卫军》中译本（人民文学等——通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "布尔加科夫早期首选；后接《大师与玛格丽特》。"
+  },
+  "pending": [
+    "图尔宾人名核对（通说）。",
+    "1925-27年连载（《俄罗斯》杂志说）待核。",
+    "《图尔宾一家的日子》1926首演细节待核。"
+  ],
+  "sources": [
+    "B225"
+  ],
+  "year_source": "B225",
+  "author_source": "B225",
+  "related_works": [
+    "dashiyumagelit",
+    "gouxin",
+    "yigerendeyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《白卫军》覆灭结构图",
+    "cards": [
+      {
+        "title": "基辅",
+        "text": "1918年的冬天（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "图尔宾家",
+        "text": "壁炉旁的家宅（通说）",
+        "color": "main"
+      },
+      {
+        "title": "白卫军",
+        "text": "崩溃的旗帜（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "日常",
+        "text": "历史的暴力（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

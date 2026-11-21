@@ -10,19 +10,64 @@
   "era": "近代",
   "summary": "夏洛蒂·勃朗特，约克郡牧师之女，勃朗特三姐妹之长，《简·爱》的作者。作品以柯勒·贝尔（Currer Bell）笔名发表，'gave new truthfulness to Victorian fiction'（为维多利亚小说赋予新的真实感——Britannica）。少年丧母丧姊，考恩桥学校的严酷即《简·爱》中洛伍德的原型（Britannica）；布鲁塞尔求学经历成《维莱特》素材（Britannica）。1847年《简·爱》出版即成功；1848—49年弟妹相继亡故；1854年婚后次年死于孕期并发症（Britannica）。",
   "timeline": [
-    {"year": "1816-04-21", "text": "生于约克郡桑顿（Britannica：Born April 21, 1816, in Thornton, Yorkshire）；1820年全家迁哈沃斯牧师住宅（Britannica）。", "src": "B101"},
-    {"year": "1821—1825", "text": "1821年母亲去世、1825年长姊玛丽亚与次姊伊丽莎白相继夭折（Britannica）；1824—25年就读考恩桥教士女子学校——洛伍德的原型（Britannica）。", "src": "B101"},
-    {"year": "1835—1842", "text": "罗海德任教、布鲁塞尔学法语（1842—43，Britannica）；对埃热先生（Héger）的单恋（通说待核）。", "src": "B101"},
-    {"year": "1846", "text": "三姐妹自费出版《柯勒、埃利斯、阿克顿·贝尔诗集》——'only two copies sold initially'（只卖出两册，Britannica）。", "src": "B101"},
-    {"year": "1847-10-16", "text": "《简·爱》出版，'an immediate success'（立即成功，Britannica），超越《呼啸山庄》与《艾格妮丝·格雷》（Britannica）。", "src": "B101"},
-    {"year": "1848—1849", "text": "布兰韦尔、艾米莉、安妮相继亡故（1848年9月—1849年5月，Britannica）；夏洛蒂写《谢利》（1849，Britannica：she wrote Shirley (1849)）。", "src": "B101"},
-    {"year": "1853", "text": "《维莱特》出版（Britannica：feed into Villette (1853)）。", "src": "B101"},
-    {"year": "1854—1855", "text": "6月嫁父亲副牧师尼科尔斯（Arthur Bell Nicholls，Britannica）；1855-03-31死于孕期并发症（Britannica：she died in 1855 during pregnancy）。遗作《教师》与未竟《爱玛》身后出版（Britannica）。", "src": "B101"}
+    {
+      "year": "1816-04-21",
+      "text": "生于约克郡桑顿（Britannica：Born April 21, 1816, in Thornton, Yorkshire）；1820年全家迁哈沃斯牧师住宅（Britannica）。",
+      "src": "B101"
+    },
+    {
+      "year": "1821—1825",
+      "text": "1821年母亲去世、1825年长姊玛丽亚与次姊伊丽莎白相继夭折（Britannica）；1824—25年就读考恩桥教士女子学校——洛伍德的原型（Britannica）。",
+      "src": "B101"
+    },
+    {
+      "year": "1835—1842",
+      "text": "罗海德任教、布鲁塞尔学法语（1842—43，Britannica）；对埃热先生（Héger）的单恋（通说待核）。",
+      "src": "B101"
+    },
+    {
+      "year": "1846",
+      "text": "三姐妹自费出版《柯勒、埃利斯、阿克顿·贝尔诗集》——'only two copies sold initially'（只卖出两册，Britannica）。",
+      "src": "B101"
+    },
+    {
+      "year": "1847-10-16",
+      "text": "《简·爱》出版，'an immediate success'（立即成功，Britannica），超越《呼啸山庄》与《艾格妮丝·格雷》（Britannica）。",
+      "src": "B101"
+    },
+    {
+      "year": "1848—1849",
+      "text": "布兰韦尔、艾米莉、安妮相继亡故（1848年9月—1849年5月，Britannica）；夏洛蒂写《谢利》（1849，Britannica：she wrote Shirley (1849)）。",
+      "src": "B101"
+    },
+    {
+      "year": "1853",
+      "text": "《维莱特》出版（Britannica：feed into Villette (1853)）。",
+      "src": "B101"
+    },
+    {
+      "year": "1854—1855",
+      "text": "6月嫁父亲副牧师尼科尔斯（Arthur Bell Nicholls，Britannica）；1855-03-31死于孕期并发症（Britannica：she died in 1855 during pregnancy）。遗作《教师》与未竟《爱玛》身后出版（Britannica）。",
+      "src": "B101"
+    }
   ],
   "major_works": [
-    {"work_id": "jian", "note": "1847；代表作"},
-    {"title": "谢利（1849）、维莱特（1853）", "note": "后续长篇（Britannica）"},
-    {"title": "教师（身后，通说待核）", "note": "首作身后出版（Britannica：The Professor was published posthumously）"}
+    {
+      "work_id": "jian",
+      "note": "1847；代表作"
+    },
+    {
+      "work_id": "sheli",
+      "note": "后续长篇（Britannica）"
+    },
+    {
+      "title": "教师（身后，通说待核）",
+      "note": "首作身后出版（Britannica：The Professor was published posthumously）"
+    },
+    {
+      "work_id": "weilaite",
+      "note": "（零成本批40）"
+    }
   ],
   "style": [
     "第一人称的内心强度：简·爱的'读者，我嫁给了他'（原文，公有领域）——直呼读者的革命性（通说）。",
@@ -31,7 +76,9 @@
     "对维多利亚规训的反抗：平等、职业、尊严的宣言。"
   ],
   "status": "Britannica 定位夏洛蒂为'以柯勒·贝尔之名发表、以《简·爱》使维多利亚小说获得新的真实感'的作家。三姐妹的悲剧（1848—49年三人相继亡故）成为文学史最著名的家庭悲剧之一；20世纪《简·爱》被女性主义与后殖民批评（'阁楼上的疯女人'——Gilbert & Gubar 1979——通说待核）重新发掘。",
-  "sources": ["B101"],
+  "sources": [
+    "B101"
+  ],
   "dates_source": "B101",
   "pending": [
     "考恩桥学校与洛伍德原型的对应细节待核。",

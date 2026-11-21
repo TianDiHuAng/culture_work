@@ -1,0 +1,100 @@
+{
+  "id": "sahalindao",
+  "title": "萨哈林岛",
+  "original_title": "Остров Сахалин",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "调查报告",
+  "genre_group": "散文",
+  "language": "俄语",
+  "author_id": "chikefu",
+  "author_name": "安东·契诃夫",
+  "year_display": "1893-94年（作者页注记：Britannica——萨哈林岛 (1893—94)——苦役地调查报告）",
+  "year_sort": 1893,
+  "background": [
+    "作者页注记：萨哈林岛 (1893-94)——'苦役地调查报告（Britannica）'。",
+    "Britannica（B270）：契诃夫——医生作家（作者页语境）。",
+    "题材（通说待核）：1890年横跨西伯利亚的苦役岛调查——人口普查式的记录。"
+  ],
+  "outline": [
+    "（通说待核）苦役犯、流放者与移民的清单式记录。",
+    "（通说待核）'我为文明欠债'的动机。"
+  ],
+  "characters": [
+    {
+      "name": "契诃夫（调查者）",
+      "identity": "医生/作家",
+      "note": "（B270 语境）"
+    }
+  ],
+  "themes": [
+    "苦役制度的档案（通说待核）。",
+    "医生的道德行动（B270 语境）。",
+    "帝国边地的报告文学（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：萨哈林岛 (1893-94)（作者页注记）。",
+      "source": "B047"
+    },
+    {
+      "text": "Britannica：契诃夫'医生与作家'的双重身份（B270 交叉——待核）。",
+      "source": "B270"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "流放制度史。",
+      "报告文学与文学的边界。"
+    ],
+    "editions": [
+      "《萨哈林岛》中译名（《萨哈林旅行记》两说——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "契诃夫散文側面；与《萨哈林旅行记》译本对照。"
+  },
+  "pending": [
+    "1890年之旅与1893-94成书年份核对（B注记）。",
+    "人口普查细节待核。",
+    "'债'的说法出处待核。"
+  ],
+  "sources": [
+    "B047"
+  ],
+  "year_source": "B047",
+  "author_source": "B047",
+  "related_works": [
+    "haiou",
+    "sanzimei",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《萨哈林岛》调查结构图",
+    "cards": [
+      {
+        "title": "苦役地",
+        "text": "帝国的边地（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "调查",
+        "text": "档案的清单（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "医生",
+        "text": "道德的行动（B270语境）",
+        "color": "gold"
+      },
+      {
+        "title": "流放者",
+        "text": "被记录的人（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

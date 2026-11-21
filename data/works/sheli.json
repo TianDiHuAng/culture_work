@@ -1,0 +1,105 @@
+{
+  "id": "sheli",
+  "title": "谢利",
+  "original_title": "Shirley",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪40年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "charlotte-bronte",
+  "author_name": "夏洛蒂·勃朗特",
+  "year_display": "1849年（作者页注记：Britannica 列举——谢利 (1849)）",
+  "year_sort": 1849,
+  "background": [
+    "作者页注记：谢利 (1849)、维莱特 (1853)——'后续长篇（Britannica）'。",
+    "Britannica：夏洛蒂·勃朗特——《简·爱》作者（作者页语境）。",
+    "题材（通说待核）：约克郡毛纺业萧条期——两个女子的友谊与工厂骚乱。"
+  ],
+  "outline": [
+    "（通说待核）卡罗琳与谢利：性情相反的友谊。",
+    "（通说待核）1811-12年卢德骚乱背景。"
+  ],
+  "characters": [
+    {
+      "name": "谢利·基尔达",
+      "identity": "女地主",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "卡罗琳·赫尔斯通",
+      "identity": "牧师侄女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "工业化的社会图景（通说待核）。",
+    "女性友谊（通说待核）。",
+    "'社会小说'的勃朗特变体（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'后续长篇'（作者页注记）。",
+      "source": "B101"
+    },
+    {
+      "text": "Britannica：《简·爱》为代表作（作者页交叉）。",
+      "source": "B101"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "卢德运动史。",
+      "与《简·爱》的文体差异。"
+    ],
+    "editions": [
+      "《谢利》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "勃朗特第二作；与《简·爱》对读。"
+  },
+  "pending": [
+    "谢利/卡罗琳人名核对（通说）。",
+    "1849年出版细节待核。",
+    "卢德运动细节待核。"
+  ],
+  "sources": [
+    "B101"
+  ],
+  "year_source": "B101",
+  "author_source": "B101",
+  "related_works": [
+    "jianai",
+    "weilaite",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《谢利》友谊结构图",
+    "cards": [
+      {
+        "title": "谢利",
+        "text": "明亮的业主（通说）",
+        "color": "main"
+      },
+      {
+        "title": "卡罗琳",
+        "text": "温顺的旁观者（通说）",
+        "color": "family"
+      },
+      {
+        "title": "毛纺厂",
+        "text": "骚乱的时代（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "友谊",
+        "text": "性情的互补（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

@@ -37,12 +37,16 @@
       "note": "童话集（Britannica：1835年起）"
     },
     {
-      "title": "海的女儿、丑小鸭、白雪皇后",
+      "work_id": "haidenvren",
       "note": "（Britannica 语境）"
     },
     {
       "title": "即兴诗人",
       "note": "小说（通说待核）"
+    },
+    {
+      "work_id": "chouxiaoya",
+      "note": "（零成本批40）"
     }
   ],
   "style": [

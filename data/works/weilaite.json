@@ -1,0 +1,105 @@
+{
+  "id": "weilaite",
+  "title": "维莱特",
+  "original_title": "Villette",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "19世纪50年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "charlotte-bronte",
+  "author_name": "夏洛蒂·勃朗特",
+  "year_display": "1853年（作者页注记：Britannica 列举——维莱特 (1853)）",
+  "year_sort": 1853,
+  "background": [
+    "作者页注记：维莱特 (1853)——'后续长篇（Britannica）'。",
+    "Britannica：夏洛蒂·勃朗特——布鲁塞尔经历（作者页语境——待核）。",
+    "题材（通说待核）：露西·斯诺在异国'维莱特'的教书生涯与孤寂。"
+  ],
+  "outline": [
+    "（通说待核）露西在女子学校的克制与观察。",
+    "（通说待核）保罗·埃马纽埃尔教师的别扭情感。"
+  ],
+  "characters": [
+    {
+      "name": "露西·斯诺",
+      "identity": "叙述者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "保罗教师",
+      "identity": "怪脾气教师",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "异乡的孤寂与克制（通说待核）。",
+    "第一人称的不可靠（通说待核）。",
+    "天主教与新教的目光（背景通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'后续长篇'（作者页注记）。",
+      "source": "B101"
+    },
+    {
+      "text": "Britannica：作者布鲁塞尔经历的自传性（作者页语境——待核）。",
+      "source": "B101"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'维莱特'（布鲁塞尔的化名——通说待核）。",
+      "克制的叙述风格。"
+    ],
+    "editions": [
+      "《维莱特》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "勃朗特第三作；最成熟的心理书写。"
+  },
+  "pending": [
+    "露西·斯诺人名核对（通说）。",
+    "1853年出版细节待核。",
+    "布鲁塞尔自传对应待核。"
+  ],
+  "sources": [
+    "B101"
+  ],
+  "year_source": "B101",
+  "author_source": "B101",
+  "related_works": [
+    "jianai",
+    "sheli",
+    "mengya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《维莱特》孤寂结构图",
+    "cards": [
+      {
+        "title": "露西",
+        "text": "克制的观察者（通说）",
+        "color": "main"
+      },
+      {
+        "title": "女子学校",
+        "text": "异乡的围城（通说）",
+        "color": "family"
+      },
+      {
+        "title": "保罗教师",
+        "text": "别扭的爱（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "孤寂",
+        "text": "心理的暗流（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

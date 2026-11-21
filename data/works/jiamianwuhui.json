@@ -1,0 +1,105 @@
+{
+  "id": "jiamianwuhui",
+  "title": "假面舞会",
+  "original_title": "Маскарад（Masquerade）",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪30年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "俄语",
+  "author_id": "lermontov",
+  "author_name": "米哈伊尔·莱蒙托夫",
+  "year_display": "作者页注记：Britannica 列举 Masquerade（首演/发表年份通说待核）",
+  "year_sort": 1835,
+  "background": [
+    "作者页注记：假面舞会——'Britannica 列举'。",
+    "Britannica：莱蒙托夫——《当代英雄》作者（作者页语境）。",
+    "题材（通说待核）：阿尔贝宁因失落的bracelet而杀妻——嫉妒的悲剧。"
+  ],
+  "outline": [
+    "（通说待核）假面舞会的误会与手镯。",
+    "（通说待核）被社会操纵的嫉妒。"
+  ],
+  "characters": [
+    {
+      "name": "阿尔贝宁",
+      "identity": "军官",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "尼娜",
+      "identity": "妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "嫉妒与猜疑的悲剧（通说待核）。",
+    "彼得堡上流社会的假面（书名语境——通说待核）。",
+    "命运的偶然（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Masquerade 列举（作者页注记）。",
+      "source": "B142"
+    },
+    {
+      "text": "Britannica：莱蒙托夫戏剧序列（作者页语境）。",
+      "source": "B142"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "19世纪30年代彼得堡沙龙。",
+      "'误会剧'的结构。"
+    ],
+    "editions": [
+      "《假面舞会》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "莱蒙托夫戏剧首选。"
+  },
+  "pending": [
+    "阿尔贝宁/尼娜人名核对（通说）。",
+    "1835年写成、禁演史待核。",
+    "手镯细节待核。"
+  ],
+  "sources": [
+    "B142"
+  ],
+  "year_source": "B142",
+  "author_source": "B142",
+  "related_works": [
+    "emo",
+    "mucaili",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《假面舞会》误会结构图",
+    "cards": [
+      {
+        "title": "假面",
+        "text": "社会的伪装（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "手镯",
+        "text": "误会的信物（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "嫉妒",
+        "text": "悲剧的引擎（通说）",
+        "color": "main"
+      },
+      {
+        "title": "尼娜",
+        "text": "无辜的牺牲（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

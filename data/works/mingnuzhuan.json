@@ -1,0 +1,100 @@
+{
+  "id": "mingnuzhuan",
+  "title": "名女传",
+  "original_title": "De mulieribus claris",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "14世纪60年代",
+  "genre": "传记集",
+  "genre_group": "散文",
+  "language": "拉丁语",
+  "author_id": "boccaccio",
+  "author_name": "乔万尼·薄伽丘",
+  "year_display": "作者页注记：Britannica——名女传（拉丁人文主义著作——年份通说待核）",
+  "year_sort": 1362,
+  "background": [
+    "作者页注记：异教诸神谱系、名女传——'拉丁人文主义著作（Britannica）'。",
+    "Britannica：薄伽丘——《十日谈》作者（作者页语境）。",
+    "题材（通说待核）：106（或104）位著名女性的传记——从夏娃到当代。"
+  ],
+  "outline": [
+    "（通说待核）女性的传记序列：美德与恶行的榜样。",
+    "（通说待核）人文主义的女性观及其矛盾。"
+  ],
+  "characters": [
+    {
+      "name": "众名女",
+      "identity": "——",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "女性传记的开创（通说待核）。",
+    "人文主义的拉丁写作（B注记）。",
+    "美德与恶行的道德谱系（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'拉丁人文主义著作'（作者页注记）。",
+      "source": "B031"
+    },
+    {
+      "text": "Britannica：薄伽丘《十日谈》为代表作（作者页交叉）。",
+      "source": "B031"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "拉丁语。",
+      "古典与中世纪的传记传统。"
+    ],
+    "editions": [
+      "《名女传》中译本（人民文学等——通说待核）。",
+      "拉丁文原版（公有领域）。"
+    ],
+    "order": "《十日谈》后的学术侧面。"
+  },
+  "pending": [
+    "篇数（106/104说）核对（通说）。",
+    "1361-62年写作年份待核。",
+    "首个专写女性的传记集说法待核。"
+  ],
+  "sources": [
+    "B031"
+  ],
+  "year_source": "B031",
+  "author_source": "B031",
+  "related_works": [
+    "shiritan",
+    "teluoyiluosi",
+    "xunjiexiaoshuo"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《名女传》传记结构图",
+    "cards": [
+      {
+        "title": "名女",
+        "text": "百位女性的谱系（通说）",
+        "color": "main"
+      },
+      {
+        "title": "拉丁",
+        "text": "人文主义的写作（B注记）",
+        "color": "gold"
+      },
+      {
+        "title": "美德",
+        "text": "道德的榜样（通说）",
+        "color": "family"
+      },
+      {
+        "title": "开创",
+        "text": "女性传记的先河（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

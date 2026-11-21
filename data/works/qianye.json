@@ -1,0 +1,105 @@
+{
+  "id": "qianye",
+  "title": "前夜",
+  "original_title": "Накануне",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪50年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "turgenev",
+  "author_name": "伊万·屠格涅夫",
+  "year_display": "1860年（Britannica（B141）：1860《前夜》）",
+  "year_sort": 1860,
+  "background": [
+    "B141：'1860《前夜》1862《父与子》（虚无主义者巴扎罗夫——激进与保守两头挨骂促其自我流放西欧）'。",
+    "Britannica（B141）：屠格涅夫——终生恋波琳娜·维亚尔多（作者页语境）。",
+    "题材（通说待核）：叶莲娜与保加利亚革命者英沙罗夫——解放前夜的爱情与牺牲。"
+  ],
+  "outline": [
+    "（通说待核）叶莲娜的选择：追随革命者的私奔。",
+    "（通说待核）英沙罗夫之死与'前夜'的落空。"
+  ],
+  "characters": [
+    {
+      "name": "叶莲娜",
+      "identity": "贵族少女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "英沙罗夫",
+      "identity": "保加利亚革命者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "解放前夜的社会期待（书名语境——通说待核）。",
+    "'新人'的登场（通说待核—— precedes 巴扎罗夫）。",
+    "跨国革命的牺牲（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1860《前夜》（B141）。",
+      "source": "B141"
+    },
+    {
+      "text": "Britannica：《父与子》巴扎罗夫的'新人'先声（B141 交叉）。",
+      "source": "B141"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1860年俄国社会语境。",
+      "保加利亚民族解放史（通说待核）。"
+    ],
+    "editions": [
+      "《前夜》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "屠格涅夫'新人'序曲；后接《父与子》。"
+  },
+  "pending": [
+    "叶莲娜/英沙罗夫人名核对（通说）。",
+    "1860年发表细节待核。",
+    "杜勃罗留波夫《真正的白天何时到来》评论文待核。"
+  ],
+  "sources": [
+    "B141"
+  ],
+  "year_source": "B141",
+  "author_source": "B141",
+  "related_works": [
+    "fuyuzi",
+    "guizhuzhijia",
+    "luoting"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《前夜》新人结构图",
+    "cards": [
+      {
+        "title": "前夜",
+        "text": "解放的黎明前（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "英沙罗夫",
+        "text": "革命者之爱（通说）",
+        "color": "main"
+      },
+      {
+        "title": "叶莲娜",
+        "text": "出走的新女性（通说）",
+        "color": "family"
+      },
+      {
+        "title": "死亡",
+        "text": "落空的黎明（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

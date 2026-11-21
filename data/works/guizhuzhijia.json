@@ -1,0 +1,105 @@
+{
+  "id": "guizhuzhijia",
+  "title": "贵族之家",
+  "original_title": "Дворянское гнездо",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "19世纪50年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "turgenev",
+  "author_name": "伊万·屠格涅夫",
+  "year_display": "1859年（Britannica（B141）：1859《贵族之家》）",
+  "year_sort": 1859,
+  "background": [
+    "B141：'1856《罗亭》1859《贵族之家》1860《前夜》1862《父与子》'。",
+    "Britannica（B141）：屠格涅夫——斯帕斯科耶庄园（作者页语境）。",
+    "题材（通说待核）：拉夫列茨基的归乡与莉莎的宗教决意。"
+  ],
+  "outline": [
+    "（通说待核）'死而复生'的妻子归来与旧梦破碎。",
+    "（通说待核）莉莎入修道院与'贵族之巢'的凋零。"
+  ],
+  "characters": [
+    {
+      "name": "拉夫列茨基",
+      "identity": "归乡贵族",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "莉莎",
+      "identity": "少女",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "贵族庄园的黄昏（书名语境——通说待核）。",
+    "爱情与义务（通说待核）。",
+    "1850年代改革前夜（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1859《贵族之家》（B141）。",
+      "source": "B141"
+    },
+    {
+      "text": "Britannica：屠格涅夫庄园书写（B141 语境）。",
+      "source": "B141"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "改革前夜的社会史。",
+      "抒情与挽歌的语调。"
+    ],
+    "editions": [
+      "《贵族之家》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域）。"
+    ],
+    "order": "屠格涅夫抒情巅峰；与《罗亭》《前夜》对读。"
+  },
+  "pending": [
+    "拉夫列茨基/莉莎人名核对（通说）。",
+    "1859年发表（《现代人》说）待核。",
+    "瓦尔瓦拉·帕夫洛夫娜细节待核。"
+  ],
+  "sources": [
+    "B141"
+  ],
+  "year_source": "B141",
+  "author_source": "B141",
+  "related_works": [
+    "luoting",
+    "qianye",
+    "lierenbiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《贵族之家》黄昏结构图",
+    "cards": [
+      {
+        "title": "庄园",
+        "text": "'贵族之巢'的凋零（书名）",
+        "color": "family"
+      },
+      {
+        "title": "归乡",
+        "text": "旧梦的破碎（通说）",
+        "color": "main"
+      },
+      {
+        "title": "莉莎",
+        "text": "信仰的抉择（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "妻子",
+        "text": "复活的障碍（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

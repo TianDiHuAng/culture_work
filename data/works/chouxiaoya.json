@@ -1,0 +1,100 @@
+{
+  "id": "chouxiaoya",
+  "title": "丑小鸭",
+  "original_title": "Den grimme ælling（The Ugly Duckling）",
+  "region": "丹麦",
+  "era": "近代",
+  "era_detail": "19世纪40年代",
+  "genre": "童话",
+  "genre_group": "故事集",
+  "language": "丹麦语",
+  "author_id": "andersen",
+  "author_name": "安徒生",
+  "year_display": "作者页注记：Britannica 语境——发表年份通说待核（1843说）",
+  "year_sort": 1843,
+  "background": [
+    "作者页注记：丑小鸭——'（Britannica 语境）'。",
+    "Britannica：安徒生——出身贫寒的童话作家（作者页语境——待核）。",
+    "题材（通说待核）：被嘲笑的'鸭子'终成天鹅——自传性寓言。"
+  ],
+  "outline": [
+    "（通说待核）农场的排斥与冬天的漂泊。",
+    "（通说待核）天鹅群的接纳与'我是'的确认。"
+  ],
+  "characters": [
+    {
+      "name": "丑小鸭",
+      "identity": "天鹅幼鸟",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "身份的自我发现（通说待核）。",
+    "排斥与接纳（通说待核）。",
+    "'受苦的孩子'的寓言（作者页语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：安徒生童话序列（作者页注记）。",
+      "source": "B262"
+    },
+    {
+      "text": "Britannica：安徒生生平的寓言对应（作者页语境——待核）。",
+      "source": "B262"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "寓言与童话的边界。",
+      "'成长'叙事的原型。"
+    ],
+    "editions": [
+      "《丑小鸭》（人民文学出版社《安徒生童话全集》等——通说待核）。",
+      "丹麦文原版（公有领域）。"
+    ],
+    "order": "安徒生代表作；与《海的女儿》对读。"
+  },
+  "pending": [
+    "1843年发表（《新童话》第一集说）待核。",
+    "自传性对应细节待核。",
+    "'天鹅'意象来源待核。"
+  ],
+  "sources": [
+    "B262"
+  ],
+  "year_source": "B262",
+  "author_source": "B262",
+  "related_works": [
+    "haidenvren",
+    "baixuehuanghou",
+    "xinnuofusuobaken"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《丑小鸭》成长结构图",
+    "cards": [
+      {
+        "title": "排斥",
+        "text": "农场的嘲笑（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "漂泊",
+        "text": "寒冬的旅途（通说）",
+        "color": "main"
+      },
+      {
+        "title": "天鹅",
+        "text": "身份的确认（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "接纳",
+        "text": "群体的和解（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -10,21 +10,70 @@
   "era": "古代",
   "summary": "乔叟，伦敦人，'莎士比亚之前最杰出的英国诗人'、'我们语言的第一位发现者'（Britannica：'the first finder of our language'）。历仕爱德华三世、理查二世、亨利四世三朝：廷臣、外交官、文官（王廷建筑事务主事、肯特郡治安官、海关监督——Britannica 提及 courtier, diplomat, civil servant）。《坎特伯雷故事》以中英语写成，使英语诗歌获得第一个世界级文本。终身未因诗成名于生前——诗歌在其一生中'始终是从属于公职的副业'（Britannica）。",
   "timeline": [
-    {"year": "约1342/43", "text": "生于伦敦（Britannica：Born c. 1342/43, London?——出生年份与地点皆存疑），酒商之子。", "src": "B032"},
-    {"year": "1357", "text": "入阿尔斯特伯爵夫人伊丽莎白府中为侍从（Britannica：in household of Elizabeth, countess of Ulster）。", "src": "B032"},
-    {"year": "1359—1360", "text": "随爱德华三世军赴法，兰斯围城战被俘，由国王赎回（Britannica）；战后任加莱信使（Britannica：messenger from Calais）。", "src": "B032"},
-    {"year": "1366", "text": "与菲莉帕·潘（Philippa Pan）成婚（Britannica：married Philippa Pan (probable)）；此后频繁外交出使。", "src": "B032"},
-    {"year": "1367", "text": "获王室终身年金（Britannica：annuity as yeoman of the king）。", "src": "B032"},
-    {"year": "1369前后", "text": "《公爵夫人之书》（Book of the Duchess，悼兰开斯特公爵夫人布兰奇，1300余行）作于1369—70（Britannica）。", "src": "B032"},
-    {"year": "1374—1386", "text": "任伦敦羊毛与皮革海关监督；1370s两次出使意大利（热那亚与佛罗伦萨，通说待核）——接触但丁、彼特拉克、薄伽丘（影响说通说）。", "src": "B032"},
-    {"year": "约1387", "text": "开始写作《坎特伯雷故事》（Britannica：1387–1400, unfinished）。", "src": "B032"},
-    {"year": "1386—1389", "text": "任肯特郡骑士议员、治安官；1389年任王廷建筑事务主事（clerk of the king's works，Britannica 提及）。", "src": "B032"},
-    {"year": "1400-10-25", "text": "卒于伦敦，葬于西敏寺'诗人角'所在区（葬于西敏寺为事实，'诗人角'的由来为后世发展，待核）。", "src": "B032"}
+    {
+      "year": "约1342/43",
+      "text": "生于伦敦（Britannica：Born c. 1342/43, London?——出生年份与地点皆存疑），酒商之子。",
+      "src": "B032"
+    },
+    {
+      "year": "1357",
+      "text": "入阿尔斯特伯爵夫人伊丽莎白府中为侍从（Britannica：in household of Elizabeth, countess of Ulster）。",
+      "src": "B032"
+    },
+    {
+      "year": "1359—1360",
+      "text": "随爱德华三世军赴法，兰斯围城战被俘，由国王赎回（Britannica）；战后任加莱信使（Britannica：messenger from Calais）。",
+      "src": "B032"
+    },
+    {
+      "year": "1366",
+      "text": "与菲莉帕·潘（Philippa Pan）成婚（Britannica：married Philippa Pan (probable)）；此后频繁外交出使。",
+      "src": "B032"
+    },
+    {
+      "year": "1367",
+      "text": "获王室终身年金（Britannica：annuity as yeoman of the king）。",
+      "src": "B032"
+    },
+    {
+      "year": "1369前后",
+      "text": "《公爵夫人之书》（Book of the Duchess，悼兰开斯特公爵夫人布兰奇，1300余行）作于1369—70（Britannica）。",
+      "src": "B032"
+    },
+    {
+      "year": "1374—1386",
+      "text": "任伦敦羊毛与皮革海关监督；1370s两次出使意大利（热那亚与佛罗伦萨，通说待核）——接触但丁、彼特拉克、薄伽丘（影响说通说）。",
+      "src": "B032"
+    },
+    {
+      "year": "约1387",
+      "text": "开始写作《坎特伯雷故事》（Britannica：1387–1400, unfinished）。",
+      "src": "B032"
+    },
+    {
+      "year": "1386—1389",
+      "text": "任肯特郡骑士议员、治安官；1389年任王廷建筑事务主事（clerk of the king's works，Britannica 提及）。",
+      "src": "B032"
+    },
+    {
+      "year": "1400-10-25",
+      "text": "卒于伦敦，葬于西敏寺'诗人角'所在区（葬于西敏寺为事实，'诗人角'的由来为后世发展，待核）。",
+      "src": "B032"
+    }
   ],
   "major_works": [
-    {"work_id": "kantebolei", "note": "1387—1400，未竟；24个故事"},
-    {"title": "特洛伊罗斯与克丽西达", "note": "取材薄伽丘《菲洛斯特拉托》（Britannica：Chaucer drew on Il filostrato）"},
-    {"title": "公爵夫人之书、百鸟会议、名誉之宫", "note": "梦幻诗（Britannica 列举）"}
+    {
+      "work_id": "kantebolei",
+      "note": "1387—1400，未竟；24个故事"
+    },
+    {
+      "work_id": "teluoyiluosi",
+      "note": "取材薄伽丘《菲洛斯特拉托》（Britannica：Chaucer drew on Il filostrato）"
+    },
+    {
+      "title": "公爵夫人之书、百鸟会议、名誉之宫",
+      "note": "梦幻诗（Britannica 列举）"
+    }
   ],
   "style": [
     "'既是又不是诗人本人'的第一人称叙述者（Britannica：a skillful first-person narrator who 'both is and is not the poet himself'）——反讽叙述的开山。",
@@ -33,7 +82,10 @@
     "梦幻诗传统与现实主义群像的结合。"
   ],
   "status": "乔叟是英语文学的奠基人：Britannica 称《坎特伯雷故事》'ranks among the greatest poetic works in English'，BBC 称其为'中世纪的英国诗歌之父'（Britannica 转述）。他把英语从方言提升为文学语言——'the first finder of our language'（Britannica 转引）。艾略特《荒原》开头刻意颠覆其《总引》开篇四月意象（Britannica Canterbury 条目：deliberately subverted by T.S. Eliot in The Waste Land）——六百年后诗人仍须与他对话。",
-  "sources": ["B032", "B008"],
+  "sources": [
+    "B032",
+    "B008"
+  ],
   "dates_source": "B032",
   "pending": [
     "生年（1342/43）与出生地（London?）Britannica 均标注不确定。",
