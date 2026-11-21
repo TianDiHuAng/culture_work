@@ -8,44 +8,44 @@
   "birth_year": 1908,
   "death_year": 1960,
   "era": "现当代",
-  "summary": "赖特，密西西比州种植园生，美国黑人作家——'the first African American writer to gain a large white readership'（首位获得大量白人读者的非裔美国作家——B317）；Native Son (1940)——'a disturbing and brutally honest novel'；Black Boy (1945)——自传（B317）。",
+  "summary": "赖特，密西西比州种植园生，美国黑人作家——'the first African American writer to gain a large white readership'（首位获得大量白人读者的非裔美国作家——B335）；Native Son (1940)——'a disturbing and brutally honest novel'；Black Boy (1945)——自传（B335）。",
   "timeline": [
     {
       "year": 1908,
-      "text": "9月4日生于密西西比州（B317：Born September 4, 1908, Mississippi种植园）。",
-      "src": "B317"
+      "text": "9月4日生于密西西比州（B335：Born September 4, 1908, Mississippi种植园）。",
+      "src": "B335"
     },
     {
       "year": 1940,
-      "text": "Native Son 出版（B317：1940）。",
-      "src": "B317"
+      "text": "Native Son 出版（B335：1940）。",
+      "src": "B335"
     },
     {
       "year": 1960,
-      "text": "11月28日卒于巴黎（B317：died November 28, 1960, Paris）。",
-      "src": "B317"
+      "text": "11月28日卒于巴黎（B335：died November 28, 1960, Paris）。",
+      "src": "B335"
     }
   ],
   "major_works": [
     {
       "work_id": "tuyuzhizideneizi",
-      "note": "长篇（B317：Native Son 1940）"
+      "note": "长篇（B335：Native Son 1940）"
     },
     {
       "title": "黑孩子",
-      "note": "（B317：Black Boy (1945)——自传）"
+      "note": "（B335：Black Boy (1945)——自传）"
     }
   ],
   "style": [
-    "'disturbing and brutally honest'（B317）。",
+    "'disturbing and brutally honest'（B335）。",
     "种族主义的暴力书写（通说待核）。",
     "自然主义与存在主义（通说待核）。"
   ],
-  "status": "Britannica 定位赖特为'首位获得大量白人读者的非裔美国作家'（B317）。",
+  "status": "Britannica 定位赖特为'首位获得大量白人读者的非裔美国作家'（B335）。",
   "sources": [
-    "B317"
+    "B335"
   ],
-  "dates_source": "B317",
+  "dates_source": "B335",
   "pending": [
     "Native Son 1940年出版（Harper & Brothers说）核对。",
     "Bigger Thomas人名核对。",

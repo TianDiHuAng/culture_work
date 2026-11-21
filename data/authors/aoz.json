@@ -1,0 +1,68 @@
+{
+  "id": "aoz",
+  "name": "阿摩司·奥兹",
+  "foreign_name": "Amos Oz（阿摩司·奥兹，原名 Amos Klausner，1939-05-04—2018-12-28）",
+  "country": "以色列",
+  "birth": 1939,
+  "death": 2018,
+  "birth_year": 1939,
+  "death_year": 2018,
+  "era": "现当代",
+  "summary": "奥兹，原名 Amos Klausner，耶路撒冷生，以色列小说家、短篇与散文作家——'in whose works Israeli society is unapologetically scrutinized'（以色列社会在他的作品中被毫不留情地审视——B329）。回忆录 Sipur ʿal ahavah ve-ḥoshekh（爱与黑暗的故事, 2002）——'drew wide critical acclaim'（B329）。1967年六日战争后投身以色列和平运动（B329）——'Oz felt himself unable to share the optimistic outlook and ideological certainties of Israel's founding generation'（B329）。Judas (2014) 获2015年 Internationaler Literaturpreis（B329）。",
+  "timeline": [
+    {
+      "year": 1939,
+      "text": "5月4日生于耶路撒冷（原名 Amos Klausner——B329）。",
+      "src": "B329"
+    },
+    {
+      "year": 1967,
+      "text": "六日战争后投身以色列和平运动（B329）。",
+      "src": "B329"
+    },
+    {
+      "year": 2002,
+      "text": "回忆录《爱与黑暗的故事》——'drew wide critical acclaim'（B329）。",
+      "src": "B329"
+    },
+    {
+      "year": 2015,
+      "text": "Judas 获 Internationaler Literaturpreis（B329）。",
+      "src": "B329"
+    },
+    {
+      "year": 2018,
+      "text": "12月28日卒（B329）。",
+      "src": "B329"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "aiyuheandegushi",
+      "note": "回忆录（B329：2002）"
+    },
+    {
+      "title": "我的米海尔",
+      "note": "（B329：My Michael, 1968）"
+    },
+    {
+      "title": "犹大",
+      "note": "（B329：Judas, 2014——2015国际文学奖）"
+    }
+  ],
+  "style": [
+    "以色列社会的'毫不留情的审视'（B329）。",
+    "对建国一代乐观意识形态的疏离（B329）。",
+    "个人史与国族史的互文（B329 回忆录语境）。"
+  ],
+  "status": "Britannica 定位奥兹为以色列小说家/短篇/散文作家；1967年后和平运动活跃人士（B329）。",
+  "sources": [
+    "B329"
+  ],
+  "dates_source": "B329",
+  "pending": [
+    "卒地核对（Britannica 页未载卒地）。",
+    "母亲芳尼娅·克劳斯纳自杀细节待核（B329未载）。",
+    "2002年出版社（Keter说）待核。"
+  ]
+}

@@ -10,10 +10,10 @@
   "language": "英语",
   "author_id": "mccalles",
   "author_name": "卡森·麦卡勒斯",
-  "year_display": "1940年（作者页 B315 口径：The Heart Is a Lonely Hunter (1940)）",
+  "year_display": "1940年（作者页 B331 口径：The Heart Is a Lonely Hunter (1940)）",
   "year_sort": 1940,
   "background": [
-    "作者页（B315）：'her novels……explore the spiritual isolation of misfits and outcast characters in the small towns of the South'——本作为其成名作（B315 作者页定位）。",
+    "作者页（B331）：'her novels……depict the inner lives of lonely people in the small towns of the South'——本作为其成名作（B331 作者页定位）。",
     "题材（通说待核）：聋哑人辛格与四位'倾诉者'——南方小镇的精神孤独。"
   ],
   "outline": [
@@ -44,17 +44,17 @@
   ],
   "themes": [
     "'孤独的猎手'：倾诉与误解（书名通说待核）。",
-    "南方小镇的'格格不入'（B315：misfits and outcast characters）。",
+    "南方小镇的'格格不入'（B331：misfits and outcast characters）。",
     "种族与阶级（通说待核）。"
   ],
   "influence": [
     {
-      "text": "作者页：麦卡勒斯成名作（B315 作者页口径）。",
-      "source": "B315"
+      "text": "作者页：麦卡勒斯成名作（B331 作者页口径）。",
+      "source": "B331"
     },
     {
-      "text": "作者页：'spiritual isolation'主题（B315 作者级定位）。",
-      "source": "B315"
+      "text": "作者页：'spiritual isolation'主题（B331 作者级定位）。",
+      "source": "B331"
     }
   ],
   "reading": {
@@ -74,10 +74,10 @@
     "1968年电影改编待核。"
   ],
   "sources": [
-    "B315"
+    "B331"
   ],
-  "year_source": "B315",
-  "author_source": "B315",
+  "year_source": "B331",
+  "author_source": "B331",
   "related_works": [
     "嘉莉妹妹",
     "嘉莉妹妹"

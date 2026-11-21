@@ -10,11 +10,11 @@
   "language": "英语",
   "author_id": "ellison",
   "author_name": "拉尔夫·艾里森",
-  "year_display": "1952年（作者页 B317 口径：Invisible Man (1952)）",
+  "year_display": "1952年（作者页 B334 口径：Invisible Man (1952)）",
   "year_sort": 1952,
   "background": [
-    "作者页（B317）：'the story of an unnamed Black man'——无名黑人的故事（B317 作者页定位）；1953年获 National Book Award（B317）。",
-    "作者（B317）：'shadow and act'——散文集 Shadow and Act (1964)（B317）。",
+    "作者页（B334）：'a naive and idealistic (and, significantly, nameless) Southern Black youth'——无名南方黑人青年的成长故事（B334 作者页定位）；1953年获 National Book Award（B334）。",
+    "作者（B334）：'shadow and act'——散文集 Shadow and Act (1964)（B334）。",
     "地位（通说待核）：美国黑人文学的里程碑。"
   ],
   "outline": [
@@ -40,12 +40,12 @@
   ],
   "influence": [
     {
-      "text": "作者页：'the story of an unnamed Black man'（B317 作者页口径）。",
-      "source": "B317"
+      "text": "作者页：'a naive and idealistic (and, significantly, nameless) Southern Black youth'（B334 作者页口径）。",
+      "source": "B334"
     },
     {
-      "text": "作者页：1953年 National Book Award（B317 作者级定位）。",
-      "source": "B317"
+      "text": "作者页：1953年 National Book Award（B334 作者级定位）。",
+      "source": "B334"
     }
   ],
   "reading": {
@@ -62,13 +62,13 @@
   "pending": [
     "1952年出版（Random House说）核对。",
     "兄弟会/莱因哈特等情节核对。",
-    "1953年 National Book Award（B317 已载）核对。"
+    "1953年 National Book Award（B334 已载）核对。"
   ],
   "sources": [
-    "B317"
+    "B334"
   ],
-  "year_source": "B317",
-  "author_source": "B317",
+  "year_source": "B334",
+  "author_source": "B334",
   "related_works": [
     "chonger",
     "zise",
@@ -87,7 +87,7 @@
       },
       {
         "title": "看不见",
-        "text": "种族的匿名（B317）",
+        "text": "种族的匿名（B334）",
         "color": "antagonist"
       },
       {

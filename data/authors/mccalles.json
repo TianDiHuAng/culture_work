@@ -8,48 +8,48 @@
   "birth_year": 1917,
   "death_year": 1967,
   "era": "现当代",
-  "summary": "麦卡勒斯，佐治亚州哥伦布生（原名 Lula Carson Smith——B315），美国南方作家——'her novels……explore the spiritual isolation of misfits and outcast characters in the small towns of the South'（探索南方小镇格格不入者的精神孤独——B315）。成名作《心是孤独的猎手》（The Heart Is a Lonely Hunter，1940）；《婚礼的成员》（The Member of the Wedding，1946）；《伤心咖啡馆之歌》（The Ballad of the Sad Café）均为名篇（B315）。",
+  "summary": "麦卡勒斯，佐治亚州哥伦布生（原名 Lula Carson Smith——B331），美国南方作家——'her novels……depict the inner lives of lonely people in the small towns of the South'（探索南方小镇格格不入者的精神孤独——B331）。成名作《心是孤独的猎手》（The Heart Is a Lonely Hunter，1940）；《婚礼的成员》（The Member of the Wedding，1946）；《伤心咖啡馆之歌》（The Ballad of the Sad Café）均为名篇（B331）。",
   "timeline": [
     {
       "year": 1917,
-      "text": "2月19日生于佐治亚州哥伦布（B315：原名 Lula Carson Smith）。",
-      "src": "B315"
+      "text": "2月19日生于佐治亚州哥伦布（B331：原名 Lula Carson Smith）。",
+      "src": "B331"
     },
     {
       "year": 1940,
-      "text": "《心是孤独的猎手》出版（B315：The Heart Is a Lonely Hunter (1940)）。",
-      "src": "B315"
+      "text": "《心是孤独的猎手》出版（B331：The Heart Is a Lonely Hunter (1940)）。",
+      "src": "B331"
     },
     {
       "year": 1967,
-      "text": "9月29日卒于纽约州（B315：died September 29, 1967, New York State）。",
-      "src": "B315"
+      "text": "9月29日卒于纽约州（B331：died September 29, 1967, New York State）。",
+      "src": "B331"
     }
   ],
   "major_works": [
     {
       "work_id": "xinshigudeLieshou",
-      "note": "长篇（B315：1940）"
+      "note": "长篇（B331：1940）"
     },
     {
       "title": "婚礼的成员",
-      "note": "（B315：The Member of the Wedding (1946)）"
+      "note": "（B331：The Member of the Wedding (1946)）"
     },
     {
       "title": "伤心咖啡馆之歌",
-      "note": "（B315：The Ballad of the Sad Café）"
+      "note": "（B331：The Ballad of the Sad Café）"
     }
   ],
   "style": [
-    "'misfits and outcast characters'的精神孤独（B315）。",
-    "南方小镇的世界（B315：small towns of the South）。",
+    "'misfits and outcast characters'的精神孤独（B331）。",
+    "南方小镇的世界（B331：small towns of the South）。",
     "哥特与抒情的混合（通说待核）。"
   ],
-  "status": "Britannica 定位麦卡勒斯为南方精神孤独的书写者（B315）。",
+  "status": "Britannica 定位麦卡勒斯为南方精神孤独的书写者（B331）。",
   "sources": [
-    "B315"
+    "B331"
   ],
-  "dates_source": "B315",
+  "dates_source": "B331",
   "pending": [
     "《婚礼的成员》1960年戏剧改编说待核。",
     "《伤心咖啡馆之歌》1951年说待核。",

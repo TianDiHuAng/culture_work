@@ -1,0 +1,74 @@
+{
+  "id": "mccarthy",
+  "name": "科马克·麦卡锡",
+  "foreign_name": "Cormac McCarthy（科马克·麦卡锡，1933-07-20—2023-06-13）",
+  "country": "美国",
+  "birth": 1933,
+  "death": 2023,
+  "birth_year": 1933,
+  "death_year": 2023,
+  "era": "现当代",
+  "summary": "麦卡锡，罗得岛州普罗维登斯生，美国小说家。Blood Meridian (1985)——'a violent frontier tale loosely based on historical events'（B328）——'a critical sensation, hailed as his masterpiece'（B328）——写14岁少年加入1840年代美墨边境无法无天的剥头皮团伙，头目'the judge'（B328）。首印不足1500册（B328）。All the Pretty Horses (1992) 获 National Book Award（B328）；The Road (2006) 获2007年普利策奖（B328）。1981年获 MacArthur fellowship（B328）。",
+  "timeline": [
+    {
+      "year": 1933,
+      "text": "7月20日生于罗得岛州普罗维登斯（B328）。",
+      "src": "B328"
+    },
+    {
+      "year": 1981,
+      "text": "获 MacArthur fellowship（B328）。",
+      "src": "B328"
+    },
+    {
+      "year": 1985,
+      "text": "Blood Meridian——'hailed as his masterpiece'，首印不足1500册（B328）。",
+      "src": "B328"
+    },
+    {
+      "year": 1992,
+      "text": "All the Pretty Horses——National Book Award（B328）。",
+      "src": "B328"
+    },
+    {
+      "year": 2007,
+      "text": "The Road 获普利策奖（B328）。",
+      "src": "B328"
+    },
+    {
+      "year": 2023,
+      "text": "6月13日卒于新墨西哥州Santa Fe（B328）。",
+      "src": "B328"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xueseziwuxian",
+      "note": "1985（B328）"
+    },
+    {
+      "title": "所有漂亮的马",
+      "note": "（B328：All the Pretty Horses, 1992——中译名待核）"
+    },
+    {
+      "title": "路",
+      "note": "（B328：The Road, 2006——2007普利策奖）"
+    }
+  ],
+  "style": [
+    "暴力的哲学化书写（B328 语境）。",
+    "西部神话的改写（B328：Border Trilogy——rewrote and challenged myths of the American West）。",
+    "极简标点与古语词汇（通说待核）。"
+  ],
+  "status": "Britannica 定位麦卡锡为美国小说家；Blood Meridian 被誉为其杰作、Bloom 称'终极西部小说'（B328）。",
+  "sources": [
+    "B328"
+  ],
+  "dates_source": "B328",
+  "pending": [
+    "少年'the kid'人名核对（B328只称'a 14-year-old boy'）。",
+    "法官 Judge Holden 全名待核。",
+    "1985年出版（Random House说）待核。",
+    "极简标点风格说法待核（B328未载）。"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "tuixiaoyuanzhisi",
+  "title": "推销员之死",
+  "original_title": "Death of a Salesman",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪40年代",
+  "genre": "戏剧（两幕）",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "amiller",
+  "author_name": "阿瑟·米勒",
+  "year_display": "1949年（Britannica B325：Death of a Salesman (1949)——'won a Tony Award for best play and a Pulitzer Prize for drama'）",
+  "year_sort": 1949,
+  "background": [
+    "Britannica（B325）：Death of a Salesman——'one of the most famous American plays of its period'（其时代最著名的美国剧作之一）。",
+    "Britannica（B325）：'the tragedy of Willy Loman, a man destroyed by false values that are in large part the values of his society'——威利·洛曼的悲剧：一个被'错误价值'毁掉的人，而这些价值大部分正是他的社会所奉行的。",
+    "米勒把'普通人'置于悲剧中心（B325：Miller believed in placing 'the common man' at the center of tragedy）。"
+  ],
+  "outline": [
+    "推销员威利·洛曼的最后一日与一生闪回：他被自己与社会共同奉行的'错误价值'所毁（B325：destroyed by false values that are in large part the values of his society）。",
+    "剧终的死亡细节（自杀说——通说待核，B325未载）。"
+  ],
+  "characters": [
+    {
+      "name": "威利·洛曼（Willy Loman）",
+      "identity": "推销员",
+      "note": "B325 点名主角"
+    },
+    {
+      "name": "比夫（Biff）",
+      "identity": "长子",
+      "note": "（通说待核，B325未载）"
+    },
+    {
+      "name": "琳达（Linda）",
+      "identity": "妻子",
+      "note": "（通说待核，B325未载）"
+    }
+  ],
+  "themes": [
+    "'错误价值'的社会批判：美国梦的幻灭（B325 语境——false values that are... values of his society）。",
+    "普通人作为悲剧主角（B325：'In fact, it is the common man who knows this fear best.'）。",
+    "时间线与闪回的心理剧结构（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of the most famous American plays of its period'（B325）。",
+      "source": "B325"
+    },
+    {
+      "text": "Britannica：获Tony奖最佳剧作与普利策戏剧奖（B325）。",
+      "source": "B325"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "现实、回忆与幻想交织的时间线。",
+      "美国梦与推销员职业的时代语境。"
+    ],
+    "editions": [
+      "《推销员之死》中译本（人民文学/上海译文等版本——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "米勒首选；可与《炼狱》（1953）对读。"
+  },
+  "pending": [
+    "1949年2月首演剧场（Morosco Theatre说）与日期待核（B325未载）。",
+    "威利·洛曼自杀结局、比夫/哈皮/琳达人名核对。",
+    "1951年电影改编待核。"
+  ],
+  "sources": [
+    "B325"
+  ],
+  "year_source": "B325",
+  "author_source": "B325",
+  "related_works": [
+    "leiyu",
+    "manchangdeheian",
+    "yingtaoyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《推销员之死》幻灭结构图",
+    "cards": [
+      {
+        "title": "威利·洛曼",
+        "text": "被'错误价值'毁掉的人（B325）",
+        "color": "main"
+      },
+      {
+        "title": "美国梦",
+        "text": "社会共奉的价值",
+        "color": "antagonist"
+      },
+      {
+        "title": "普通人",
+        "text": "悲剧的中心（B325）",
+        "color": "gold"
+      },
+      {
+        "title": "闪回",
+        "text": "一生与最后一日",
+        "color": "family"
+      }
+    ]
+  }
+}

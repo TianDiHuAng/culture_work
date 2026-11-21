@@ -10,10 +10,10 @@
   "language": "英语",
   "author_id": "wright",
   "author_name": "理查德·赖特",
-  "year_display": "1940年（作者页 B317 口径：Native Son 1940）",
+  "year_display": "1940年（作者页 B335 口径：Native Son 1940）",
   "year_sort": 1940,
   "background": [
-    "作者页（B317）：'the first African American writer to gain a large white readership'——本作为其成名作。",
+    "作者页（B335）：'the first African American writer to gain a large white readership'——本作为其成名作。",
     "题材（通说待核）：芝加哥黑人青年比格·托马斯的犯罪与审判——种族主义的暴力循环。"
   ],
   "outline": [
@@ -33,12 +33,12 @@
   ],
   "influence": [
     {
-      "text": "Britannica：'the first African American writer to gain a large white readership'（B317）。",
-      "source": "B317"
+      "text": "Britannica：'the first African American writer to gain a large white readership'（B335）。",
+      "source": "B335"
     },
     {
-      "text": "作者页：'disturbing and brutally honest'（B317）。",
-      "source": "B317"
+      "text": "作者页：'disturbing and brutally honest'（B335）。",
+      "source": "B335"
     }
   ],
   "reading": {
@@ -58,10 +58,10 @@
     "书名'Native Son'中译（土生子/ native son）待核。"
   ],
   "sources": [
-    "B317"
+    "B335"
   ],
-  "year_source": "B317",
-  "author_source": "B317",
+  "year_source": "B335",
+  "author_source": "B335",
   "related_works": [
     "kanbujian3",
     "chonger",

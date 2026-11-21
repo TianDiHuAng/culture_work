@@ -1,0 +1,68 @@
+{
+  "id": "amiller",
+  "name": "阿瑟·米勒",
+  "foreign_name": "Arthur Miller（阿瑟·米勒，1915-10-17—2005-02-10）",
+  "country": "美国",
+  "birth": 1915,
+  "death": 2005,
+  "birth_year": 1915,
+  "death_year": 2005,
+  "era": "现当代",
+  "summary": "米勒，纽约生，美国剧作家。Death of a Salesman (1949)——'one of the most famous American plays of its period'（B325）——'the tragedy of Willy Loman, a man destroyed by false values that are in large part the values of his society'（B325），获Tony奖最佳剧作与普利策戏剧奖（B325）。米勒主张把'普通人'置于悲剧的中心——'In fact, it is the common man who knows this fear best.'（B325）。The Crucible (1953) 以塞勒姆审巫案呼应麦卡锡主义（B325）。",
+  "timeline": [
+    {
+      "year": 1915,
+      "text": "10月17日生于纽约（B325）。",
+      "src": "B325"
+    },
+    {
+      "year": 1947,
+      "text": "All My Sons——第一部重要剧作，获Tony奖（B325）。",
+      "src": "B325"
+    },
+    {
+      "year": 1949,
+      "text": "Death of a Salesman——Tony最佳剧作+普利策戏剧奖（B325）。",
+      "src": "B325"
+    },
+    {
+      "year": 1953,
+      "text": "The Crucible——塞勒姆审巫案呼应麦卡锡主义，获Tony奖（B325）。",
+      "src": "B325"
+    },
+    {
+      "year": 2005,
+      "text": "2月10日卒于康涅狄格州Roxbury（B325）。",
+      "src": "B325"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tuixiaoyuanzhisi",
+      "note": "1949（B325）"
+    },
+    {
+      "title": "都是我的儿子",
+      "note": "（B325：All My Sons, 1947）"
+    },
+    {
+      "title": "炼狱/萨勒姆的女巫",
+      "note": "（B325：The Crucible, 1953——中译名待核）"
+    }
+  ],
+  "style": [
+    "把'普通人'置于悲剧中心（B325）。",
+    "'false values'的社会批判（B325）。",
+    "现实主义戏剧与心理闪回结合（通说待核）。"
+  ],
+  "status": "Britannica 定位米勒为美国剧作家，《推销员之死》为其最著名剧作（B325）。",
+  "sources": [
+    "B325"
+  ],
+  "dates_source": "B325",
+  "pending": [
+    "《推销员之死》1949-02-10 Morosco Theatre首演日期待核。",
+    "威利·洛曼自杀结局细节核对（B325未载）。",
+    "《炼狱》通行中译名（《萨勒姆的女巫》）待核。"
+  ]
+}

@@ -8,53 +8,53 @@
   "birth_year": 1840,
   "death_year": 1902,
   "era": "近代",
-  "summary": "佐拉，巴黎生，法国小说家——'the leading French novelist of the late 19th century, founder of literary naturalism'（19世纪末法国最重要的小说家、文学自然主义创始人——B315）；20卷《卢贡-马卡尔家族》（Rougon-Macquart 1871—1893）——'at the rate of nearly one per year, completing the series in 1893'（B315）。'Naturalism involves the application to literature of two scientific principles: determinism... and the experimental method'（B315）。1898年1月13日《J'accuse》——'a fierce denunciation of the French general staff'（B315）。",
+  "summary": "佐拉，巴黎生，法国小说家——'the leading French novelist of the late 19th century, founder of literary naturalism'（19世纪末法国最重要的小说家、文学自然主义创始人——B330）；20卷《卢贡-马卡尔家族》（Rougon-Macquart 1871—1893）——'at the rate of nearly one per year, completing the series in 1893'（B330）。'Naturalism involves the application to literature of two scientific principles: determinism... and the experimental method'（B330）。1898年1月13日《J'accuse》——'a fierce denunciation of the French general staff'（B330）。",
   "timeline": [
     {
       "year": 1840,
-      "text": "4月2日生于巴黎（B315：Born April 2, 1840, Paris）。",
-      "src": "B315"
+      "text": "4月2日生于巴黎（B330：Born April 2, 1840, Paris）。",
+      "src": "B330"
     },
     {
       "year": 1871,
-      "text": "Rougon-Macquart 开始出版（1871—1893——B315）。",
-      "src": "B315"
+      "text": "Rougon-Macquart 开始出版（1871—1893——B330）。",
+      "src": "B330"
     },
     {
       "year": 1898,
-      "text": "1月13日《J'accuse》刊于L'Aurore——'prosecuted for libel and found guilty'（B315）。",
-      "src": "B315"
+      "text": "1月13日《J'accuse》刊于L'Aurore——'prosecuted for libel and found guilty'（B330）。",
+      "src": "B330"
     },
     {
       "year": 1902,
-      "text": "9月28日卒于巴黎（B315：Died September 28, 1902, Paris）。",
-      "src": "B315"
+      "text": "9月28日卒于巴黎（B330：Died September 28, 1902, Paris）。",
+      "src": "B330"
     }
   ],
   "major_works": [
     {
       "work_id": "mengya",
-      "note": "Rougon-Macquart 系列（B315）"
+      "note": "Rougon-Macquart 系列（B330）"
     },
     {
       "title": "娜娜",
-      "note": "（B315：Notable Works 列表）"
+      "note": "（B330：Notable Works 列表）"
     },
     {
       "title": "萌芽",
-      "note": "（B315：'depicts life in a mining community'——Germinal）"
+      "note": "（B330：'depicts life in a mining community'——Germinal）"
     }
   ],
   "style": [
-    "自然主义：'determinism + experimental method'（B315）。",
-    "'20-novel Rougon-Macquart cycle'（B315）。",
-    "'J'accuse'——政治勇气的里程碑（B315）。"
+    "自然主义：'determinism + experimental method'（B330）。",
+    "'20-novel Rougon-Macquart cycle'（B330）。",
+    "'J'accuse'——政治勇气的里程碑（B330）。"
   ],
-  "status": "Britannica 定位佐拉为19世纪末法国最重要的小说家、自然主义创始人（B315）。",
+  "status": "Britannica 定位佐拉为19世纪末法国最重要的小说家、自然主义创始人（B330）。",
   "sources": [
-    "B315"
+    "B330"
   ],
-  "dates_source": "B315",
+  "dates_source": "B330",
   "pending": [
     "《娜娜》1880年出版细节待核。",
     "《萌芽》1885年出版说待核。",

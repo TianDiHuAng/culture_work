@@ -10,15 +10,15 @@
   "language": "法语",
   "author_id": "zola",
   "author_name": "埃米尔·佐拉",
-  "year_display": "出版年份待核（Britannica B315：Nana 在 Notable Works 列表——1880年说通说待核）",
+  "year_display": "出版年份待核（Britannica B330：Nana 在 Notable Works 列表——1880年说通说待核）",
   "year_sort": 1880,
   "background": [
-    "作者页（B315）：佐拉为'20-novel Rougon-Macquart cycle'作者；Nana 列入 Notable Works。",
-    "与《萌芽》同属 Rougon-Macquart 系列（B315：Zola conceived in 1868 a large-scale series similar to Balzac's La Comédie humaine）。",
+    "作者页（B330）：佐拉为'20-novel Rougon-Macquart cycle'作者；Nana 列入 Notable Works。",
+    "与《萌芽》同属 Rougon-Macquart 系列（B330：Zola conceived in 1868 a large-scale series similar to Balzac's La Comédie humaine）。",
     "题材（通说待核）：娜娜为《小酒店》中 Gervaise 之女——第二帝国上流社会的堕落。"
   ],
   "outline": [
-    "娜娜从底层崛起为巴黎名妓——'how Nana is connected to Gervaise Macquart'（B315 问答）。",
+    "娜娜从底层崛起为巴黎名妓——'how Nana is connected to Gervaise Macquart'（B330 问答）。",
     "结局：死于天花——'金色messalina'的陨落（通说待核）。"
   ],
   "characters": [
@@ -31,16 +31,16 @@
   "themes": [
     "第二帝国的堕落（通说）。",
     "女性身体的商品化（通说待核）。",
-    "自然主义的遗传与社会决定论（B315 语境）。"
+    "自然主义的遗传与社会决定论（B330 语境）。"
   ],
   "influence": [
     {
-      "text": "Britannica：Rougon-Macquart 系列——Zola conceived in 1868 a large-scale series similar to Balzac's La Comédie humaine（B315）。",
-      "source": "B315"
+      "text": "Britannica：Rougon-Macquart 系列——Zola conceived in 1868 a large-scale series similar to Balzac's La Comédie humaine（B330）。",
+      "source": "B330"
     },
     {
-      "text": "Britannica：佐拉为自然主义创始人（B315 作者级定位）。",
-      "source": "B315"
+      "text": "Britannica：佐拉为自然主义创始人（B330 作者级定位）。",
+      "source": "B330"
     }
   ],
   "reading": {
@@ -60,10 +60,10 @@
     "与《小酒店》（Gervaise）的母女关系核对。"
   ],
   "sources": [
-    "B315"
+    "B330"
   ],
-  "year_source": "B315",
-  "author_source": "B315",
+  "year_source": "B330",
+  "author_source": "B330",
   "related_works": [
     "mengya",
     "baofali",

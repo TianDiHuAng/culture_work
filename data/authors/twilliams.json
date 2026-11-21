@@ -1,0 +1,68 @@
+{
+  "id": "twilliams",
+  "name": "田纳西·威廉斯",
+  "foreign_name": "Tennessee Williams（田纳西·威廉斯，原名 Thomas Lanier Williams，1911-03-26—1983-02-25）",
+  "country": "美国",
+  "birth": 1911,
+  "death": 1983,
+  "birth_year": 1911,
+  "death_year": 1983,
+  "era": "现当代",
+  "summary": "威廉斯，原名 Thomas Lanier Williams，密西西比州哥伦布生，美国剧作家——'whose plays reveal a world of human frustration in which sex and violence underlie an atmosphere of romantic gentility'（B326）。The Glass Menagerie (1944)——'In it Williams portrayed a declassed Southern family living in a tenement.'（B326）。A Streetcar Named Desire (1947)——'a study of the mental and moral ruin of Blanche DuBois, another former Southern belle'（B326），获普利策戏剧奖。Cat on a Hot Tin Roof (1955) 再获普利策奖（B326）。流派：Southern gothic（B326）。",
+  "timeline": [
+    {
+      "year": 1911,
+      "text": "3月26日生于密西西比州哥伦布（B326）。",
+      "src": "B326"
+    },
+    {
+      "year": 1944,
+      "text": "The Glass Menagerie——没落的南方家庭（B326）。",
+      "src": "B326"
+    },
+    {
+      "year": 1947,
+      "text": "A Streetcar Named Desire——普利策戏剧奖（B326）。",
+      "src": "B326"
+    },
+    {
+      "year": 1955,
+      "text": "Cat on a Hot Tin Roof——再获普利策奖（B326）。",
+      "src": "B326"
+    },
+    {
+      "year": 1983,
+      "text": "2月25日卒于纽约（B326）。",
+      "src": "B326"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yuwanghaojieche",
+      "note": "1947（B326）"
+    },
+    {
+      "title": "玻璃动物园",
+      "note": "（B326：The Glass Menagerie, 1944）"
+    },
+    {
+      "title": "热铁皮屋顶上的猫",
+      "note": "（B326：Cat on a Hot Tin Roof, 1955）"
+    }
+  ],
+  "style": [
+    "'浪漫门面之下的性与暴力'（B326）。",
+    "南方哥特（Southern gothic——B326 流派标注）。",
+    "'没落'人物与心理脆弱性（B326：declassed / mental ruin）。"
+  ],
+  "status": "Britannica 定位威廉斯为美国剧作家，两度普利策奖得主，流派 Southern gothic（B326）。",
+  "sources": [
+    "B326"
+  ],
+  "dates_source": "B326",
+  "pending": [
+    "1947年首演剧场（Ethel Barrymore Theatre说）待核。",
+    "斯坦利/斯黛拉人名核对（B326正文仅载布兰奇）。",
+    "1951年电影改编（马龙·白兰度）待核。"
+  ]
+}

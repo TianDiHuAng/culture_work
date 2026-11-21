@@ -1,44 +1,44 @@
 {
   "id": "ellison",
   "name": "拉尔夫·艾里森",
-  "foreign_name": "Ralph Ellison（拉尔夫·艾里森，1914-03-01—1994-04-16）",
+  "foreign_name": "Ralph Ellison（拉尔夫·艾里森，1913-03-01—1994-04-16）",
   "country": "美国",
-  "birth": 1914,
+  "birth": 1913,
   "death": 1994,
-  "birth_year": 1914,
+  "birth_year": 1913,
   "death_year": 1994,
   "era": "现当代",
-  "summary": "艾里森，俄克拉何马城生，美国小说家——Invisible Man (1952)——'the story of an unnamed Black man'（无名黑人的故事——B317），1953年获 National Book Award（B317）。散文集 Shadow and Act (1964)（B317）；'shadow and act'——其文学的两组关键词（B317 语境）。",
+  "summary": "艾里森，俄克拉何马城生，美国小说家——Invisible Man (1952)——'a naive and idealistic (and, significantly, nameless) Southern Black youth'（无名南方黑人青年的成长故事——B334），1953年获 National Book Award（B334）。散文集 Shadow and Act (1964)（B334）；'shadow and act'——其文学的两组关键词（B334 语境）。",
   "timeline": [
     {
       "year": 1914,
-      "text": "3月1日生于俄克拉何马城（B317：Born March 1, 1914, Oklahoma City）。",
-      "src": "B317"
+      "text": "3月1日生于俄克拉何马城（B334：Born March 1, 1913（出生证年份被涂改为1914）, Oklahoma City）。",
+      "src": "B334"
     },
     {
       "year": 1952,
-      "text": "《看不见的人》出版（B317：Invisible Man (1952)）。",
-      "src": "B317"
+      "text": "《看不见的人》出版（B334：Invisible Man (1952)）。",
+      "src": "B334"
     },
     {
       "year": 1953,
-      "text": "获 National Book Award（B317）。",
-      "src": "B317"
+      "text": "获 National Book Award（B334）。",
+      "src": "B334"
     },
     {
       "year": 1994,
-      "text": "4月16日卒（B317：died April 16, 1994）。",
-      "src": "B317"
+      "text": "4月16日卒（B334：died April 16, 1994）。",
+      "src": "B334"
     }
   ],
   "major_works": [
     {
       "work_id": "kanbujian3",
-      "note": "长篇（B317：1952）"
+      "note": "长篇（B334：1952）"
     },
     {
       "title": "影子与行动",
-      "note": "（B317：Shadow and Act (1964)）"
+      "note": "（B334：Shadow and Act (1964)）"
     },
     {
       "title": "走向领地",
@@ -46,18 +46,18 @@
     }
   ],
   "style": [
-    "'看不见的人'：无名黑人的第一人称（B317）。",
+    "'看不见的人'：无名黑人的第一人称（B334）。",
     "爵士乐与蓝调的叙事（通说待核）。",
-    "'shadow and act'（B317）。"
+    "'shadow and act'（B334）。"
   ],
-  "status": "Britannica 定位艾里森为《看不见的人》作者、National Book Award 得主（B317）。",
+  "status": "Britannica 定位艾里森为《看不见的人》作者、National Book Award 得主（B334）。",
   "sources": [
-    "B317"
+    "B334"
   ],
-  "dates_source": "B317",
+  "dates_source": "B334",
   "pending": [
     "《看不见的人》1952年出版（Random House说）核对。",
-    "1953年 National Book Award（B317 已载）核对。",
+    "1953年 National Book Award（B334 已载）核对。",
     "《六月庆典》（Juneteenth，身后1999）待核。"
   ]
 }

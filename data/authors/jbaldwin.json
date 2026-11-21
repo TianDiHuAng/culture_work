@@ -1,0 +1,68 @@
+{
+  "id": "jbaldwin",
+  "name": "詹姆斯·鲍德温",
+  "foreign_name": "James Baldwin（詹姆斯·鲍德温，1924-08-02—1987-12-01）",
+  "country": "美国",
+  "birth": 1924,
+  "death": 1987,
+  "birth_year": 1924,
+  "death_year": 1987,
+  "era": "现当代",
+  "summary": "鲍德温，纽约生，美国作家与散文家。Go Tell It on the Mountain (1953)——'semiautobiographical first and finest novel'（半自传性的第一部也是最优秀的长篇——B327），取材其少年讲道岁月——'Those three years in the pulpit…that is what turned me into a writer.'（B327）。Giovanni's Room (1956) 被 Knopf 以同性恋题材为由退稿，后由 Dial Press 接受（B327）。散文集 Notes of a Native Son (1955)、The Fire Next Time (1963)（B327）。",
+  "timeline": [
+    {
+      "year": 1924,
+      "text": "8月2日生于纽约（B327）。",
+      "src": "B327"
+    },
+    {
+      "year": 1953,
+      "text": "Go Tell It on the Mountain——半自传性首作（B327）。",
+      "src": "B327"
+    },
+    {
+      "year": 1956,
+      "text": "Giovanni's Room——Knopf退稿后Dial Press接受（B327）。",
+      "src": "B327"
+    },
+    {
+      "year": 1963,
+      "text": "The Fire Next Time——民权运动语境散文（B327）。",
+      "src": "B327"
+    },
+    {
+      "year": 1987,
+      "text": "12月1日卒于法国Saint-Paul de Vence（B327）。",
+      "src": "B327"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xiangtianhuhan",
+      "note": "1953（B327）"
+    },
+    {
+      "title": "乔瓦尼的房间",
+      "note": "（B327：Giovanni's Room, 1956）"
+    },
+    {
+      "title": "下一次将是烈火",
+      "note": "（B327：The Fire Next Time, 1963）"
+    }
+  ],
+  "style": [
+    "讲道岁月的语言节奏（B327 语境）。",
+    "种族、宗教与性向的交织书写（B327 语境）。",
+    "散文的公共声音（B327：essays）。"
+  ],
+  "status": "Britannica 定位鲍德温为美国作家；Giovanni's Room 因题材被Knopf退稿（B327）。",
+  "sources": [
+    "B327"
+  ],
+  "dates_source": "B327",
+  "pending": [
+    "约翰/加布里埃尔等人物名核对（B327正文未载）。",
+    "1953年出版（Knopf说）待核。",
+    "'民权活动家'定位补充来源待核。"
+  ]
+}

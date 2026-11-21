@@ -1,0 +1,106 @@
+{
+  "id": "aiyuheandegushi",
+  "title": "爱与黑暗的故事",
+  "original_title": "Sipur ʿal ahavah ve-ḥoshekh（A Tale of Love and Darkness）",
+  "region": "以色列",
+  "era": "现当代",
+  "era_detail": "21世纪初",
+  "genre": "回忆录",
+  "genre_group": "散文",
+  "language": "希伯来语",
+  "author_id": "aoz",
+  "author_name": "阿摩司·奥兹",
+  "year_display": "2002年（Britannica B329：Sipur ʿal ahavah ve-ḥoshekh (2002)——'drew wide critical acclaim'）",
+  "year_sort": 2002,
+  "background": [
+    "Britannica（B329）：回忆录《爱与黑暗的故事》(2002)——'drew wide critical acclaim'（获得评论界广泛赞誉）。",
+    "Britannica（B329）：奥兹——'an Israeli novelist, short-story writer, and essayist in whose works Israeli society is unapologetically scrutinized'（以色列社会在他的作品中被毫不留情地审视）。",
+    "Britannica（B329）：'Oz felt himself unable to share the optimistic outlook and ideological certainties of Israel's founding generation'——奥兹自觉无法分享以色列建国一代的乐观与意识形态确定性。"
+  ],
+  "outline": [
+    "耶路撒冷童年的家庭记忆与母亲之死（母亲自杀细节通说待核——B329未载）。",
+    "个人成长与以色列建国史的互文：建国一代的意识形态与作者的疏离（B329 引文）。"
+  ],
+  "characters": [
+    {
+      "name": "奥兹（Amos Klausner）",
+      "identity": "作者/叙述者",
+      "note": "B329：memoir 自传体"
+    },
+    {
+      "name": "母亲",
+      "identity": "回忆录核心人物",
+      "note": "（通说待核：芳尼娅·克劳斯纳——B329未载）"
+    }
+  ],
+  "themes": [
+    "以色列社会的'毫不留情的审视'（B329：unapologetically scrutinized）。",
+    "建国一代的乐观与作者的自我疏离（B329 引文）。",
+    "爱与黑暗：家庭创伤与国族叙事的交织（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：回忆录'drew wide critical acclaim'（B329）。",
+      "source": "B329"
+    },
+    {
+      "text": "Britannica：Judas (2014) 获2015年 Internationaler Literaturpreis（B329）。",
+      "source": "B329"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "以色列建国史与耶路撒冷分治背景（通说待核）。",
+      "希伯来文学的家族记忆传统（通说待核）。"
+    ],
+    "editions": [
+      "《爱与黑暗的故事》中译本（译林出版社——通说待核）。",
+      "希伯来文原版。"
+    ],
+    "order": "奥兹首选；可后接《犹大》（2014）。"
+  },
+  "pending": [
+    "母亲芳尼娅·克劳斯纳自杀细节核对（B329未载）。",
+    "2002年出版（Keter说）待核。",
+    "2015年电影改编（娜塔莉·波特曼执导说）待核。",
+    "卒地待核（B329页未载）。"
+  ],
+  "sources": [
+    "B329"
+  ],
+  "year_source": "B329",
+  "author_source": "B329",
+  "related_works": [
+    "renshijian",
+    "ezhihua",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《爱与黑暗的故事》互文结构图",
+    "cards": [
+      {
+        "title": "耶路撒冷",
+        "text": "童年的城（通说）",
+        "color": "family"
+      },
+      {
+        "title": "母亲",
+        "text": "爱与黑暗的核心（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "建国一代",
+        "text": "'无法分享的乐观'（B329）",
+        "color": "main"
+      },
+      {
+        "title": "审视",
+        "text": "'毫不留情'（B329）",
+        "color": "gold"
+      }
+    ]
+  }
+}

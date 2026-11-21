@@ -1,0 +1,105 @@
+{
+  "id": "xiangtianhuhan",
+  "title": "向苍天呼吁",
+  "original_title": "Go Tell It on the Mountain",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "jbaldwin",
+  "author_name": "詹姆斯·鲍德温",
+  "year_display": "1953年（Britannica B327：Go Tell It on the Mountain (1953)——'semiautobiographical first and finest novel'）",
+  "year_sort": 1953,
+  "background": [
+    "Britannica（B327）：Go Tell It on the Mountain——鲍德温'semiautobiographical first and finest novel'（半自传性的第一部也是最优秀的长篇）。",
+    "Britannica（B327）：小说取材鲍德温少年时期的讲道岁月——'Those three years in the pulpit…that is what turned me into a writer.'（正是讲坛上的那三年把我变成了作家）。",
+    "题材（通说待核）：哈莱姆黑人少年约翰一日一夜间的宗教觉醒与家族史闪回。"
+  ],
+  "outline": [
+    "少年约翰一日一夜的宗教觉醒与格里格斯家族三代人的罪与救赎（家族结构通说待核——B327未载人物名）。",
+    "父亲加布里埃尔的过往与约翰的身份追问（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约翰（John）",
+      "identity": "少年",
+      "note": "（通说待核，B327未载人名）"
+    },
+    {
+      "name": "加布里埃尔（Gabriel）",
+      "identity": "父亲",
+      "note": "（通说待核，B327未载）"
+    }
+  ],
+  "themes": [
+    "宗教觉醒：讲坛岁月的书写（B327：draws on his years as a teenage preacher）。",
+    "黑人家庭三代与身份追问（通说待核）。",
+    "写作的起点——'讲坛上的那三年把我变成了作家'（B327）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'semiautobiographical first and finest novel'（B327）。",
+      "source": "B327"
+    },
+    {
+      "text": "Britannica：鲍德温散文 The Fire Next Time (1963) 处于民权运动语境（B327 作品列表）。",
+      "source": "B327"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "哈莱姆黑人教会语境与非裔大迁徙背景（通说待核）。",
+      "宗教语言与黑人灵歌传统（通说待核）。"
+    ],
+    "editions": [
+      "《向苍天呼吁》中译本（人民文学/译林等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "鲍德温首选；可与《看不见的人》（1952）对读。"
+  },
+  "pending": [
+    "约翰·格里姆斯/加布里埃尔/伊丽莎白人名核对（B327未载）。",
+    "1953年出版（Knopf说）待核。",
+    "'一日一夜'结构说法待核。"
+  ],
+  "sources": [
+    "B327"
+  ],
+  "year_source": "B327",
+  "author_source": "B327",
+  "related_works": [
+    "kanbujian3",
+    "tuyuzhizideneizi",
+    "zise"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《向苍天呼吁》觉醒结构图",
+    "cards": [
+      {
+        "title": "约翰",
+        "text": "一日一夜的觉醒（通说）",
+        "color": "main"
+      },
+      {
+        "title": "讲坛",
+        "text": "'把我变成了作家'（B327）",
+        "color": "gold"
+      },
+      {
+        "title": "加布里埃尔",
+        "text": "父亲的罪（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "哈莱姆",
+        "text": "家族三代（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -10,11 +10,11 @@
   "language": "英语",
   "author_id": "capote",
   "author_name": "杜鲁门·卡波特",
-  "year_display": "1966年（作者页 B316 口径：In Cold Blood (1966)）",
-  "year_sort": 1966,
+  "year_display": "1965年（Britannica B332：In Cold Blood (1965)——1965年《纽约客》连载并成书；1966年1月单行本说通说待核）",
+  "year_sort": 1965,
   "background": [
-    "作者页（B316）：'nonfiction novel'（非虚构小说）的先驱之一，In Cold Blood (1966) 写堪萨斯克拉特一家四口被杀案（B316 作者页定位）。",
-    "作者（B316）：Other Voices, Other Rooms (1948) 处女作；《蒂凡尼的早餐》(1958)（B316）。"
+    "作者页（B332）：'nonfiction novel'（非虚构小说）的先驱之一，In Cold Blood (1965) 写堪萨斯克拉特一家四口被杀案（B332 作者页定位）。",
+    "作者（B332）：Other Voices, Other Rooms (1948) 处女作；《蒂凡尼的早餐》(1958)（B332）。"
   ],
   "outline": [
     "1959年堪萨斯霍尔科姆家四口被杀案——凶手佩里与迪克（通说待核）。",
@@ -33,18 +33,18 @@
     }
   ],
   "themes": [
-    "'非虚构小说'的诞生（B316：nonfiction novel）。",
+    "'非虚构小说'的诞生（B332：nonfiction novel）。",
     "犯罪与叙事（通说待核）。",
     "美国中西部（通说待核）。"
   ],
   "influence": [
     {
-      "text": "作者页：'nonfiction novel'开创者之一（B316 作者页口径）。",
-      "source": "B316"
+      "text": "作者页：'nonfiction novel'开创者之一（B332 作者页口径）。",
+      "source": "B332"
     },
     {
-      "text": "作者页：卡波特1966年 In Cold Blood（B316 作者级定位）。",
-      "source": "B316"
+      "text": "作者页：卡波特1966年 In Cold Blood（B332 作者级定位）。",
+      "source": "B332"
     }
   ],
   "reading": {
@@ -59,15 +59,16 @@
     "order": "非虚构小说首选。"
   },
   "pending": [
-    "1966年出版（Random House说）核对。",
+    "1965年成书（Britannica B332 口径；1966年1月单行本说待核）（Random House说）核对。",
     "佩里·史密斯/迪克·希科克/霍尔科姆家人名核对。",
-    "'nonfiction novel'术语首用者争议待核。"
+    "'nonfiction novel'术语首用者争议待核。",
+    "1966年1月单行本出版说（Random House）核对——Britannica B332 口径为1965年。"
   ],
   "sources": [
-    "B316"
+    "B332"
   ],
-  "year_source": "B316",
-  "author_source": "B316",
+  "year_source": "B332",
+  "author_source": "B332",
   "related_works": [
     "fenwangyu",
     "meiguoren",
@@ -86,7 +87,7 @@
       },
       {
         "title": "六年调查",
-        "text": "非虚构小说（B316）",
+        "text": "非虚构小说（B332）",
         "color": "main"
       },
       {

@@ -8,58 +8,58 @@
   "birth_year": 1919,
   "death_year": 2010,
   "era": "现当代",
-  "summary": "塞林格，曼哈顿生，美国作家——1951年《麦田里的守望者》'brought him lasting fame'（B316）。'relates in authentic teenage idiom his flight from the phony adult world, his search for innocence and truth'（B316）；'The humor and colorful language of The Catcher in the Rye place it in the tradition of Mark Twain's'（B316）。1953年移居新罕布什尔州科尼什——'After the success of The Catcher in the Rye, Salinger became a recluse'（B316）。'His last published work was a novella titled Hapworth 16, 1924, which appeared in The New Yorker in 1965'（B316）。",
+  "summary": "塞林格，曼哈顿生，美国作家——1951年《麦田里的守望者》'brought him lasting fame'（B333）。'relates in authentic teenage idiom his flight from the phony adult world, his search for innocence and truth'（B333）；'The humor and colorful language of The Catcher in the Rye place it in the tradition of Mark Twain's'（B333）。1953年移居新罕布什尔州科尼什——'After the success of The Catcher in the Rye, Salinger became a recluse'（B333）。'His last published work was a novella titled Hapworth 16, 1924, which appeared in The New Yorker in 1965'（B333）。",
   "timeline": [
     {
       "year": 1919,
-      "text": "1月1日生于曼哈顿（B316：Born January 1, 1919, Manhattan, New York）。",
-      "src": "B316"
+      "text": "1月1日生于曼哈顿（B333：Born January 1, 1919, Manhattan, New York）。",
+      "src": "B333"
     },
     {
       "year": 1951,
-      "text": "《麦田里的守望者》出版（B316：The Catcher in the Rye (1951)）。",
-      "src": "B316"
+      "text": "《麦田里的守望者》出版（B333：The Catcher in the Rye (1951)）。",
+      "src": "B333"
     },
     {
       "year": 1953,
-      "text": "移居新罕布什尔州科尼什（B316：moved to Cornish in 1953 and went into seclusion）。",
-      "src": "B316"
+      "text": "移居新罕布什尔州科尼什（B333：moved to Cornish in 1953 and went into seclusion）。",
+      "src": "B333"
     },
     {
       "year": 1965,
-      "text": "最后发表作品——Hapworth 16, 1924（《纽约客》1965）（B316）。",
-      "src": "B316"
+      "text": "最后发表作品——Hapworth 16, 1924（《纽约客》1965）（B333）。",
+      "src": "B333"
     },
     {
       "year": 2010,
-      "text": "1月27日卒于新罕布什尔州（B316：Died January 27, 2010, Cornish, New Hampshire）。",
-      "src": "B316"
+      "text": "1月27日卒于新罕布什尔州（B333：Died January 27, 2010, Cornish, New Hampshire）。",
+      "src": "B333"
     }
   ],
   "major_works": [
     {
       "work_id": "maitian",
-      "note": "长篇（B316：1951）"
+      "note": "长篇（B333：1951）"
     },
     {
       "work_id": "jiugushi",
-      "note": "短篇集（B316：Nine Stories (1953)）"
+      "note": "短篇集（B333：Nine Stories (1953)）"
     },
     {
       "title": "弗兰妮与祖伊",
-      "note": "（B316：Franny and Zooey (1961)）"
+      "note": "（B333：Franny and Zooey (1961)）"
     }
   ],
   "style": [
-    "'authentic teenage idiom'（B316）。",
-    "'in the tradition of Mark Twain's'（B316——与马克·吐温传统并列）。",
-    "隐居与沉默（B316：became a recluse）。"
+    "'authentic teenage idiom'（B333）。",
+    "'in the tradition of Mark Twain's'（B333——与马克·吐温传统并列）。",
+    "隐居与沉默（B333：became a recluse）。"
   ],
-  "status": "Britannica 定位塞林格为美国作家（《麦田里的守望者》作者）；1953年后隐居、1965年后不再发表作品（B316）。",
+  "status": "Britannica 定位塞林格为美国作家（《麦田里的守望者》作者）；1953年后隐居、1965年后不再发表作品（B333）。",
   "sources": [
-    "B316"
+    "B333"
   ],
-  "dates_source": "B316",
+  "dates_source": "B333",
   "pending": [
     "《麦田里的守望者》1951年7月16日出版（Little, Brown说）核对。",
     "'phony'adult world引文核对。",
