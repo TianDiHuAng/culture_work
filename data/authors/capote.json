@@ -1,0 +1,63 @@
+{
+  "id": "capote",
+  "name": "杜鲁门·卡波特",
+  "foreign_name": "Truman Capote（杜鲁门·卡波特，1924-09-30—1984-08-25）",
+  "country": "美国",
+  "birth": 1924,
+  "death": 1984,
+  "birth_year": 1924,
+  "death_year": 1984,
+  "era": "现当代",
+  "summary": "卡波特，新奥尔良生，美国作家——'nonfiction novel'（非虚构小说）的先驱之一，In Cold Blood (1966) 写堪萨斯克拉特一家四口被杀案（B316）。处女作 Other Voices, Other Rooms (1948)；《蒂凡尼的早餐》(Breakfast at Tiffany's, 1958)（B316）。",
+  "timeline": [
+    {
+      "year": 1924,
+      "text": "9月30日生于新奥尔良（B316：Born September 30, 1924, New Orleans）。",
+      "src": "B316"
+    },
+    {
+      "year": 1948,
+      "text": "处女作 Other Voices, Other Rooms 出版（B316）。",
+      "src": "B316"
+    },
+    {
+      "year": 1966,
+      "text": "In Cold Blood 出版（B316）。",
+      "src": "B316"
+    },
+    {
+      "year": 1984,
+      "text": "8月25日卒于洛杉矶（B316：died August 25, 1984, Los Angeles）。",
+      "src": "B316"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "lengxue",
+      "note": "非虚构小说（B316：1966）"
+    },
+    {
+      "title": "蒂凡尼的早餐",
+      "note": "（B316：Breakfast at Tiffany's (1958)）"
+    },
+    {
+      "title": "别的声音，别的房间",
+      "note": "（B316：Other Voices, Other Rooms (1948)）"
+    }
+  ],
+  "style": [
+    "'nonfiction novel'（非虚构小说）（B316）。",
+    "华丽文体（通说待核）。",
+    "南方哥特元素（通说待核）。"
+  ],
+  "status": "Britannica 定位卡波特为'非虚构小说'开创者之一（B316）。",
+  "sources": [
+    "B316"
+  ],
+  "dates_source": "B316",
+  "pending": [
+    "《冷血》1966年出版（Random House说）核对。",
+    "《蒂凡尼的早餐》1958年说核对。",
+    "'nonfiction novel'术语的更早源头（如 Capote 自称）待核。"
+  ]
+}

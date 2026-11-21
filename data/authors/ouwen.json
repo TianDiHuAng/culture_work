@@ -1,0 +1,63 @@
+{
+  "id": "ouwen",
+  "name": "华盛顿·欧文",
+  "foreign_name": "Washington Irving（华盛顿·欧文，1783-04-03—1859-11-28）",
+  "country": "美国",
+  "birth": 1783,
+  "death": 1859,
+  "birth_year": 1783,
+  "death_year": 1859,
+  "era": "近代",
+  "summary": "欧文，纽约人，美国作家——'first American author to achieve international fame'（首位获得国际声誉的美国作家——B318）。The Sketch Book (1819–20)——含'Rip Van Winkle'与'The Legend of Sleepy Hollow'（B318）；《纽约外史》（A History of New York, 1809，署名 Diedrich Knickerbocker——B318）。",
+  "timeline": [
+    {
+      "year": 1783,
+      "text": "4月3日生于纽约（B318：Born April 3, 1783, New York）。",
+      "src": "B318"
+    },
+    {
+      "year": 1809,
+      "text": "《纽约外史》出版（B318：A History of New York (1809)）。",
+      "src": "B318"
+    },
+    {
+      "year": 1819,
+      "text": "The Sketch Book 出版（1819–20）（B318）。",
+      "src": "B318"
+    },
+    {
+      "year": 1859,
+      "text": "12月28日卒（B318：died December 28, 1859）。",
+      "src": "B318"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "jianWenzhaji",
+      "note": "散文随笔集（B318：The Sketch Book (1819–20)）"
+    },
+    {
+      "title": "纽约外史",
+      "note": "（B318：1809）"
+    },
+    {
+      "title": "阿尔罕伯拉",
+      "note": "（通说待核）"
+    }
+  ],
+  "style": [
+    "'首位获得国际声誉的美国作家'（B318）。",
+    "'瑞普·凡·温克尔'与'睡谷传说'（B318）。",
+    "幽默与怀旧的'克尼科博克'笔调（通说待核）。"
+  ],
+  "status": "Britannica 定位欧文为美国作家、'first American author to achieve international fame'（B318）。",
+  "sources": [
+    "B318"
+  ],
+  "dates_source": "B318",
+  "pending": [
+    "《瑞普·凡·温克尔》1819年首发核对。",
+    "The Sketch Book 32篇篇目待核。",
+    "'Diedrich Knickerbocker'笔名核对。"
+  ]
+}
