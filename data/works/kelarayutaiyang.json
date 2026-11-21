@@ -1,0 +1,105 @@
+{
+  "id": "kelarayutaiyang",
+  "title": "克拉拉与太阳",
+  "original_title": "Klara and the Sun",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "21世纪20年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "ishiguro",
+  "author_name": "石黑一雄",
+  "year_display": "2021年（Britannica B130：Klara and the Sun——科幻题材）",
+  "year_sort": 2021,
+  "background": [
+    "Britannica（B130）：Klara and the Sun——'科幻题材（Britannica：Never Let Me Go, Klara and the Sun）'。",
+    "Britannica（B130）：石黑一雄2017诺奖——'uncovered the abyss beneath our illusory sense of connection with the world'；主题'记忆、悔恨、身份、不可靠叙述者'。",
+    "题材（通说待核）：人工智能'人工智能朋友'克拉拉观看世界与爱。"
+  ],
+  "outline": [
+    "（通说待核——B130未载剧情）机器人克拉拉与病弱少女乔西的陪伴。",
+    "（通说待核）太阳的疗愈神话：AF 的信仰。"
+  ],
+  "characters": [
+    {
+      "name": "克拉拉",
+      "identity": "人工智能朋友（AF）",
+      "note": "（B130 书名人物）"
+    },
+    {
+      "name": "乔西",
+      "identity": "少女",
+      "note": "（通说待核，B130未载）"
+    }
+  ],
+  "themes": [
+    "连接的幻觉（B130：illusory sense of connection）。",
+    "爱的机器化（通说待核）。",
+    "不可靠叙述者——机器之眼（B130 主题语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2017诺奖（B130）。",
+      "source": "B130"
+    },
+    {
+      "text": "Britannica：'科幻题材'定位（B130）。",
+      "source": "B130"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "机器人视点的语感。",
+      "基因定制社会（通说待核）。"
+    ],
+    "editions": [
+      "《克拉拉与太阳》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "石黑一雄新读者首选；与《莫失莫忘》对读。"
+  },
+  "pending": [
+    "乔西人名核对（B130未载）。",
+    "2021年出版（Faber说）待核。",
+    "'AF'术语细节待核。"
+  ],
+  "sources": [
+    "B130"
+  ],
+  "year_source": "B130",
+  "author_source": "B130",
+  "related_works": [
+    "bielmerangzou",
+    "bianxingji",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《克拉拉与太阳》机器之眼图",
+    "cards": [
+      {
+        "title": "克拉拉",
+        "text": "机器的凝视（B130）",
+        "color": "main"
+      },
+      {
+        "title": "乔西",
+        "text": "被陪伴的少女（通说）",
+        "color": "family"
+      },
+      {
+        "title": "太阳",
+        "text": "信仰的疗愈（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "连接",
+        "text": "幻觉与深渊（B130）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

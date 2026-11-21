@@ -1,0 +1,105 @@
+{
+  "id": "boliuqiuyouxi",
+  "title": "玻璃球游戏",
+  "original_title": "Das Glasperlenspiel",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "hesse",
+  "author_name": "赫尔曼·黑塞",
+  "year_display": "1943年（Britannica B137：玻璃球游戏 (1943)）",
+  "year_sort": 1943,
+  "background": [
+    "Britannica（B137）：《玻璃球游戏》(1943)——Britannica 列举。",
+    "Britannica（B137）：黑塞1946诺奖；主题——'个人挣脱既定文明寻找精神自我'。",
+    "Britannica（B137）：1960s-70s 英语青年崇拜。"
+  ],
+  "outline": [
+    "（通说待核——B137未载剧情）卡斯塔里亚学园与'玻璃球游戏'的极致精神游戏。",
+    "（通说待核）克乃希特的出走：精神游戏与现实的和解。"
+  ],
+  "characters": [
+    {
+      "name": "克乃希特",
+      "identity": "游戏大师",
+      "note": "（通说待核，B137未载）"
+    },
+    {
+      "name": "约瑟夫",
+      "identity": "音乐导师",
+      "note": "（通说待核，B137未载）"
+    }
+  ],
+  "themes": [
+    "'个人挣脱既定文明寻找精神自我'（B137）。",
+    "精神游戏与责任的冲突（通说待核）。",
+    "音乐与数学的综合（书名语境——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1946诺贝尔文学奖（B137）。",
+      "source": "B137"
+    },
+    {
+      "text": "Britannica：1960s-70s 英语青年崇拜（B137）。",
+      "source": "B137"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "虚构学园制度（卡斯塔里亚）。",
+      "三部传记+诗的框架。"
+    ],
+    "editions": [
+      "《玻璃球游戏》中译本（上海译文等——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "黑塞收官之作；与《荒原狼》对读。"
+  },
+  "pending": [
+    "克乃希特人名与结局核对（通说）。",
+    "1943年出版（两卷说）待核。",
+    "'卡斯塔里亚'细节待核。"
+  ],
+  "sources": [
+    "B137"
+  ],
+  "year_source": "B137",
+  "author_source": "B137",
+  "related_works": [
+    "xinshigudeLieshou",
+    "demian",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《玻璃球游戏》精神游戏图",
+    "cards": [
+      {
+        "title": "玻璃球游戏",
+        "text": "极致的精神综合（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "克乃希特",
+        "text": "游戏大师的出走（通说）",
+        "color": "main"
+      },
+      {
+        "title": "卡斯塔里亚",
+        "text": "学园的围墙（通说）",
+        "color": "family"
+      },
+      {
+        "title": "现实",
+        "text": "挣脱的召唤（B137）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -10,18 +10,59 @@
   "era": "近代",
   "summary": "黑塞，卡尔夫人，德语小说家与诗人，1946年诺贝尔文学奖得主（Britannica：Nobel Prize for Literature in 1946）。'central theme was the individual's effort to break free from established civilization to find essential spirit and identity'（主题：个人挣脱既定文明、寻找本质精神与身份——Britannica）。《彼得·卡门青》（1904）、《在轮下》（1906）、《悉达多》（1922）、《德米安》（1919）、《荒原狼》（1927）、《纳尔齐斯与歌尔德蒙》（1930）、《玻璃球游戏》（1943）（Britannica 列举）。1962年8月9日卒于蒙塔尼奥拉（瑞士，Britannica）。",
   "timeline": [
-    {"year": "1877-07-02", "text": "生于卡尔夫（Britannica：Born July 2, 1877, in Calw, Germany），传教士与印度学家之子（通说待核）。", "src": "B137"},
-    {"year": "1890—1895", "text": "毛尔布龙神学院一年逃离（Britannica：struggled to fit into a rigid pietist education at the Maulbronn seminary, leaving within a year）；'clock factory and a bookstore'学徒（Britannica）。", "src": "B137"},
-    {"year": "1904", "text": "《彼得·卡门青》成功、巴塞尔自由作家（通说待核）；《在轮下》（1906，Britannica）。", "src": "B137"},
-    {"year": "1911—1919", "text": "印度旅行（《印度之旅》——通说待核）；一战居瑞士'denouncing militarism'（谴责军国主义，Britannica）；1919年《德米安》（以心理分析 disciple of Carl Jung 影响——Britannica：psychoanalysis with a disciple of Carl Jung influenced Demian）。", "src": "B137"},
-    {"year": "1922—1943", "text": "《悉达多》（1922，Britannica）；1923年瑞士籍（Britannica：became a Swiss citizen in 1923）；《荒原狼》（1927）、《纳尔齐斯与歌尔德蒙》（1930）、《玻璃球游戏》（1943，Britannica）。", "src": "B137"},
-    {"year": "1946", "text": "诺贝尔文学奖（Britannica：Nobel Prize for Literature in 1946）。", "src": "B137"},
-    {"year": "1962-08-09", "text": "卒于瑞士蒙塔尼奥拉（Britannica：died in Montagnola, Switzerland）。", "src": "B137"}
+    {
+      "year": "1877-07-02",
+      "text": "生于卡尔夫（Britannica：Born July 2, 1877, in Calw, Germany），传教士与印度学家之子（通说待核）。",
+      "src": "B137"
+    },
+    {
+      "year": "1890—1895",
+      "text": "毛尔布龙神学院一年逃离（Britannica：struggled to fit into a rigid pietist education at the Maulbronn seminary, leaving within a year）；'clock factory and a bookstore'学徒（Britannica）。",
+      "src": "B137"
+    },
+    {
+      "year": "1904",
+      "text": "《彼得·卡门青》成功、巴塞尔自由作家（通说待核）；《在轮下》（1906，Britannica）。",
+      "src": "B137"
+    },
+    {
+      "year": "1911—1919",
+      "text": "印度旅行（《印度之旅》——通说待核）；一战居瑞士'denouncing militarism'（谴责军国主义，Britannica）；1919年《德米安》（以心理分析 disciple of Carl Jung 影响——Britannica：psychoanalysis with a disciple of Carl Jung influenced Demian）。",
+      "src": "B137"
+    },
+    {
+      "year": "1922—1943",
+      "text": "《悉达多》（1922，Britannica）；1923年瑞士籍（Britannica：became a Swiss citizen in 1923）；《荒原狼》（1927）、《纳尔齐斯与歌尔德蒙》（1930）、《玻璃球游戏》（1943，Britannica）。",
+      "src": "B137"
+    },
+    {
+      "year": "1946",
+      "text": "诺贝尔文学奖（Britannica：Nobel Prize for Literature in 1946）。",
+      "src": "B137"
+    },
+    {
+      "year": "1962-08-09",
+      "text": "卒于瑞士蒙塔尼奥拉（Britannica：died in Montagnola, Switzerland）。",
+      "src": "B137"
+    }
   ],
   "major_works": [
-    {"work_id": "xidamuo", "note": "1922；东方主题"},
-    {"work_id": "huangyuanlang", "note": "1927；代表作之一"},
-    {"title": "玻璃球游戏（1943）、德米安（1919）", "note": "（Britannica 列举）"}
+    {
+      "work_id": "xidamuo",
+      "note": "1922；东方主题"
+    },
+    {
+      "work_id": "huangyuanlang",
+      "note": "1927；代表作之一"
+    },
+    {
+      "work_id": "boliuqiuyouxi",
+      "note": "（Britannica 列举）"
+    },
+    {
+      "work_id": "demian",
+      "note": "（零成本批35）"
+    }
   ],
   "style": [
     "双重生活：'灵与肉''秩序与野性'（荒原狼——通说）。",
@@ -29,7 +70,9 @@
     "'非政治'中的政治：一战反战（Britannica：denouncing militarism）。"
   ],
   "status": "Britannica 称黑塞主题为'个人挣脱既定文明寻找精神与身份'（Britannica），'celebration of Eastern mysticism and self-realization made him a cult figure among young English-speaking readers in the 1960s and '70s'（对东方神秘主义与自我实现的赞美使其成为1960s—70s英语青年的偶像——Britannica）。",
-  "sources": ["B137"],
+  "sources": [
+    "B137"
+  ],
   "dates_source": "B137",
   "pending": [
     "《悉达多》与乔达摩·悉达多的区分（'悉达多'为虚构婆罗门——通说待核）。",

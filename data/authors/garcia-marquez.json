@@ -10,19 +10,60 @@
   "era": "现当代",
   "summary": "加西亚·马尔克斯，哥伦比亚阿拉卡塔卡人，魔幻现实主义的代表作家，1982年诺贝尔文学奖得主（继米斯特拉尔、聂鲁达、阿斯图里亚斯后第四位拉美作家——Britannica）。外祖父为'千日战争'老兵、外祖母讲鬼故事——外祖父母抚养的八年是其文学母体（Britannica：Raised by maternal grandparents for his first eight years）。记者出身，巴黎驻外；1982年诺奖后与卡斯特罗的友谊、拉美政治持续在场（Britannica：later supported Castro）。Britannica 称其为'20世纪最伟大的作家之一'、'与博尔赫斯并列史上最知名的拉美作家'。",
   "timeline": [
-    {"year": "1927-03-06", "text": "生于哥伦比亚阿拉卡塔卡（Britannica：Born March 6, 1927, Aracataca, Colombia）；由外祖父尼科拉斯·马尔克斯上校与外祖母抚养至八岁（Britannica）。", "src": "B053"},
-    {"year": "1947—1955", "text": "波哥大、卡塔赫纳学法律，转入新闻业（Britannica：Studied law but became a journalist, his livelihood before literary fame）；1955年《枯枝败叶》出版（Britannica：The Leaf Storm (1955)）；1950s任巴黎记者（Britannica：correspondent in Paris during the 1950s）。", "src": "B053"},
-    {"year": "1958—1965", "text": "与梅塞德斯·巴尔查结婚（1958，通说待核）；在纽约为拉美通讯社工作（Britannica：Worked for Prensa Latina...in Bogotá and New York）；1961年《没人给上校写信》出版（Britannica：No One Writes to the Colonel (1961)）。", "src": "B053"},
-    {"year": "1965—1967", "text": "携全家赴墨西哥，闭门18个月写《百年孤独》（通说：'18个月'与抵押房子之轶事，待核）；1967年布宜诺斯艾利斯南美出版社出版（Britannica：Published in Spanish as Cien años de soledad in 1967）。", "src": "B025"},
-    {"year": "1975—1981", "text": "《族长的秋天》（1975，Britannica：The Autumn of the Patriarch (1975)）；《一桩事先张扬的凶杀案》（1981，Britannica：Chronicle of a Death Foretold (1981)）。", "src": "B053"},
-    {"year": "1982", "text": "诺贝尔文学奖（Britannica：Nobel Prize in Literature, 1982）；诺奖演说《拉丁美洲的孤独》（Britannica：His Nobel lecture, 'The Solitude of Latin America'）。", "src": "B053"},
-    {"year": "1985—1999", "text": "《霍乱时期的爱情》（1985，Britannica：Love in the Time of Cholera (1985)）；支持卡斯特罗并获哈瓦那宅邸（Britannica：later supported Castro, who gave him a mansion in Havana）；1999年确诊淋巴癌（Britannica：Diagnosed with cancer in 1999）。", "src": "B053"},
-    {"year": "2002—2014", "text": "回忆录《活着为了讲述》（2002，Britannica：Living to Tell the Tale (2002)）；2014-04-17卒于墨西哥城，年八十七（Britannica：died April 17, 2014, Mexico City）。", "src": "B053"}
+    {
+      "year": "1927-03-06",
+      "text": "生于哥伦比亚阿拉卡塔卡（Britannica：Born March 6, 1927, Aracataca, Colombia）；由外祖父尼科拉斯·马尔克斯上校与外祖母抚养至八岁（Britannica）。",
+      "src": "B053"
+    },
+    {
+      "year": "1947—1955",
+      "text": "波哥大、卡塔赫纳学法律，转入新闻业（Britannica：Studied law but became a journalist, his livelihood before literary fame）；1955年《枯枝败叶》出版（Britannica：The Leaf Storm (1955)）；1950s任巴黎记者（Britannica：correspondent in Paris during the 1950s）。",
+      "src": "B053"
+    },
+    {
+      "year": "1958—1965",
+      "text": "与梅塞德斯·巴尔查结婚（1958，通说待核）；在纽约为拉美通讯社工作（Britannica：Worked for Prensa Latina...in Bogotá and New York）；1961年《没人给上校写信》出版（Britannica：No One Writes to the Colonel (1961)）。",
+      "src": "B053"
+    },
+    {
+      "year": "1965—1967",
+      "text": "携全家赴墨西哥，闭门18个月写《百年孤独》（通说：'18个月'与抵押房子之轶事，待核）；1967年布宜诺斯艾利斯南美出版社出版（Britannica：Published in Spanish as Cien años de soledad in 1967）。",
+      "src": "B025"
+    },
+    {
+      "year": "1975—1981",
+      "text": "《族长的秋天》（1975，Britannica：The Autumn of the Patriarch (1975)）；《一桩事先张扬的凶杀案》（1981，Britannica：Chronicle of a Death Foretold (1981)）。",
+      "src": "B053"
+    },
+    {
+      "year": "1982",
+      "text": "诺贝尔文学奖（Britannica：Nobel Prize in Literature, 1982）；诺奖演说《拉丁美洲的孤独》（Britannica：His Nobel lecture, 'The Solitude of Latin America'）。",
+      "src": "B053"
+    },
+    {
+      "year": "1985—1999",
+      "text": "《霍乱时期的爱情》（1985，Britannica：Love in the Time of Cholera (1985)）；支持卡斯特罗并获哈瓦那宅邸（Britannica：later supported Castro, who gave him a mansion in Havana）；1999年确诊淋巴癌（Britannica：Diagnosed with cancer in 1999）。",
+      "src": "B053"
+    },
+    {
+      "year": "2002—2014",
+      "text": "回忆录《活着为了讲述》（2002，Britannica：Living to Tell the Tale (2002)）；2014-04-17卒于墨西哥城，年八十七（Britannica：died April 17, 2014, Mexico City）。",
+      "src": "B053"
+    }
   ],
   "major_works": [
-    {"work_id": "bainian", "note": "1967；'the masterpiece'（Britannica）"},
-    {"title": "霍乱时期的爱情（1985）、一桩事先张扬的凶杀案（1981）", "note": "后期双璧（Britannica 列举）"},
-    {"title": "活着为了讲述（2002）", "note": "回忆录第一卷（Britannica：wrote a memoir about his first 30 years）"}
+    {
+      "work_id": "bainian",
+      "note": "1967；'the masterpiece'（Britannica）"
+    },
+    {
+      "work_id": "yizhuangshixianzhangyang",
+      "note": "（B053：1981 后期双璧）"
+    },
+    {
+      "work_id": "huozhe_weilejiaoshu",
+      "note": "（B053：2002 回忆录第一卷）"
+    }
   ],
   "style": [
     "魔幻现实主义：'realistic settings blended with fantastic episodes'（Britannica：realistic settings blended with fantastic episodes）——技法承自卡彭铁尔（Britannica：a technique he drew from Alejo Carpentier），且 Britannica 提醒'魔幻现实主义被误认为拉美文学全体特征'是错误的（Britannica：magic realism is 'wrongly thought to be the peculiar feature of all Latin American literature'）。",
@@ -31,7 +72,10 @@
     "结构性幽默与反讽：与塞万提斯相提并论的叙事、反讽与幽默（Britannica：His narrative flow, irony, and humor compared to Cervantes）。"
   ],
   "status": "Britannica 称加西亚·马尔克斯为'20世纪最伟大的作家之一'、'与博尔赫斯并列，历史上最知名的拉丁美洲作家'（with Borges, the best-known Latin American writer in history）。其'既让普通读者亲近又令苛刻批评家满足'（Britannica：accessible to ordinary readers while satisfying demanding critics）。《百年孤独》'以家族谱系作史诗'承福克纳、结构承博尔赫斯（Britannica：influences of Borges...and Faulkner）。诺奖演说《拉丁美洲的孤独》抨击殖民暴力并许诺'崭新的生命乌托邦'（Britannica：addressed colonialism's violence and a 'new and sweeping utopia of life'）。",
-  "sources": ["B053", "B025"],
+  "sources": [
+    "B053",
+    "B025"
+  ],
   "dates_source": "B053",
   "pending": [
     "《百年孤独》写作（18个月说）与初版细节（1967年5月30日布宜诺斯艾利斯说，通说）待核。",

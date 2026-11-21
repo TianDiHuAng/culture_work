@@ -1,0 +1,105 @@
+{
+  "id": "demian",
+  "title": "德米安",
+  "original_title": "Demian",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "20世纪10年代末",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "德语",
+  "author_id": "hesse",
+  "author_name": "赫尔曼·黑塞",
+  "year_display": "1919年（Britannica B137：德米安 (1919)）",
+  "year_sort": 1919,
+  "background": [
+    "Britannica（B137）：德米安 (1919)——Britannica 列举。",
+    "Britannica（B137）：'荣格弟子心理分析影响《德米安》'。",
+    "Britannica（B137）：黑塞主题——'个人挣脱既定文明寻找精神自我'。"
+  ],
+  "outline": [
+    "（通说待核——B137未载剧情）辛克莱的少年世界：光明世界与黑暗世界的分裂。",
+    "（通说待核）德米安的引路：'该隐记号'与自我的觉醒。"
+  ],
+  "characters": [
+    {
+      "name": "辛克莱",
+      "identity": "少年",
+      "note": "（通说待核，B137未载）"
+    },
+    {
+      "name": "德米安",
+      "identity": "引路人",
+      "note": "（B137 书名人物）"
+    }
+  ],
+  "themes": [
+    "两个世界的分裂（通说待核）。",
+    "荣格式心理分析的影响（B137）。",
+    "'挣脱既定文明'的青春版（B137）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'荣格弟子心理分析影响'（B137）。",
+      "source": "B137"
+    },
+    {
+      "text": "Britannica：1960s-70s 青年崇拜（B137 语境）。",
+      "source": "B137"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "原型意象（该隐/阿布拉克萨斯——通说待核）。",
+      "一战前后的精神语境。"
+    ],
+    "editions": [
+      "《德米安》中译本（人民文学/上海译文等——通说待核）。",
+      "德文原版。"
+    ],
+    "order": "黑塞入门首选之一；先于《荒原狼》。"
+  },
+  "pending": [
+    "辛克莱人名核对（B137未载）。",
+    "'辛克莱笔名'出版说（无政府主义者埃里希·玛丽亚·辛克莱化名说——通说）待核。",
+    "1919年出版细节待核。"
+  ],
+  "sources": [
+    "B137"
+  ],
+  "year_source": "B137",
+  "author_source": "B137",
+  "related_works": [
+    "xinshigudeLieshou",
+    "bianxingji",
+    "boliuqiuyouxi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《德米安》觉醒结构图",
+    "cards": [
+      {
+        "title": "光明世界",
+        "text": "家庭的庇护（通说）",
+        "color": "family"
+      },
+      {
+        "title": "黑暗世界",
+        "text": "禁忌的引力（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "德米安",
+        "text": "引路者（B137）",
+        "color": "gold"
+      },
+      {
+        "title": "觉醒",
+        "text": "'挣脱'的开始（B137）",
+        "color": "main"
+      }
+    ]
+  }
+}
