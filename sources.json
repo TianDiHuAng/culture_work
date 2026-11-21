@@ -1339,7 +1339,7 @@
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "kanbujian",
+   "meiguide",
    "calvino"
   ],
   "note": "已打开核对(2026-11-17)：1923古巴圣地亚哥—1985锡耶纳；参加抵抗运动；《通向蜘蛛巢的小路》(1947)新现实主义；1950s转向寓言（《分成两半的子爵》1952《树上的男爵》1957《不存在的骑士》1959）；《宇宙奇趣》(1965)《看不见的城市》(1972)《命运交叉的城堡》(1973)《寒冬夜行人》(1979)；'以奇想结构探索偶然、巧合与变化'。"
@@ -1493,7 +1493,7 @@
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "shinv",
+   "shinü",
    "atwood"
   ],
   "note": "已打开核对(2026-11-17)：1939-11-18渥太华生；加拿大作家，以散文虚构与女性主义视角著称；《使女的故事》(1985)基督教原教旨主义神权下的反乌托邦；两次总督奖(1966,1986)、布克奖(2000《盲刺客》；2019《证言》共享)、2016 PEN品特奖；LongPen发明；近作《纸船》(2024)回忆录《Book of Lives》(2025)。"
@@ -2905,16 +2905,17 @@
  {
   "id": "B208",
   "title": "Pai Hsien-yung — Encyclopaedia Britannica",
-  "author": "The Editors of Encyclopaedia Britannica",
+  "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
   "url": "https://www.britannica.com/biography/Pai-Hsien-yung",
   "type": "百科全书",
   "verified": true,
   "covers": [
    "baixianyung",
-   "taibeiren"
+   "taibeiren",
+   "youyuanjingmeng"
   ],
-  "note": "2026-11-19 核对：台湾现代主义文学领军人物；'author of Yu-yüan ching-meng (1982; Wandering in the Garden, Waking from a Dream), remained influential'；该页未载生卒年——1937年生为通说待核"
+  "note": "2026-11-20 核对：台湾现代主义文学领军人物；'author of Yu-yüan ching-meng (1982; Wandering in the Garden, Waking from a Dream), remained influential'；该页未载生卒年——1937年生为通说待核"
  },
  {
   "id": "B209",
@@ -2933,7 +2934,7 @@
  {
   "id": "B210",
   "title": "William Faulkner — Encyclopaedia Britannica",
-  "author": "The Editors of Encyclopaedia Britannica",
+  "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
   "url": "https://www.britannica.com/biography/William-Faulkner",
   "type": "百科全书",
@@ -2942,7 +2943,7 @@
    "faulkner",
    "xuanhuayusaodong"
   ],
-  "note": "2026-11-19 核对：1897-09-25—1962-07-06；1949诺贝尔奖；'In The Sound and the Fury, his first major novel, he combined a Yoknapatawpha setting with radical technical experimentation'"
+  "note": "2026-11-20 核对：1897-09-25—1962-07-06；1949诺贝尔奖；'In The Sound and the Fury, his first major novel, he combined a Yoknapatawpha setting with radical technical experimentation'"
  },
  {
   "id": "B211",
@@ -4332,31 +4333,31 @@
  },
  {
   "id": "B311",
-  "title": "Marina Ivanovna Tsvetayeva — Encyclopaedia Britannica",
+  "title": "Selma Lagerlof — Encyclopaedia Britannica",
   "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
-  "url": "https://www.britannica.com/biography/Marina-Ivanovna-Tsvetayeva",
+  "url": "https://www.britannica.com/biography/Selma-Lagerlof",
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "tsvetaeva",
-   "cweitayeva"
+   "lagerlof",
+   "qieelvxing"
   ],
-  "note": "2026-11-21 核对：1892-10-08（儒历9-26）莫斯科生—1941-08-31 Yelabuga卒（48岁，自杀）；'regarded as one of the finest Russian-language poets of the 20th century'；'distinctive for its staccato rhythms, originality, and directness'；主要作品：Vecherny albom (1910)、Lebediny stan（1917—21写/1957慕尼黑出版）、Posle Rossii (1928)、Moy Pushkin (1937)、Stikhi k Chekhii (1938–39)；'She committed suicide in 1941'"
+  "note": "2026-11-21 核对：1858-11-20瑞典 Mårbacka 生—1940-03-16卒（81岁）；'became the first woman and also the first Swedish writer to win the Nobel Prize for Literature'（1909）；Nils Holgerssons underbara resa genom Sverige 2卷 (1906–07)——'a geography reader for children'；诺贝尔奖金购回 Mårbacka 庄园；'ranks among the most naturally gifted of modern storytellers'；另有 Gösta Berlings saga"
  },
  {
   "id": "B312",
-  "title": "Osip Emilyevich Mandelshtam — Encyclopaedia Britannica",
+  "title": "Isaac Bashevis Singer — Encyclopaedia Britannica 与 Elias Canetti — Encyclopaedia Britannica",
   "author": "The Editors of Enclopaedia Britannica",
   "year": "持续更新",
-  "url": "https://www.britannica.com/biography/Osip-Emilyevich-Mandelshtam",
+  "url": "https://www.britannica.com/biography/Isaac-Bashevis-Singer",
   "type": "百科全书",
   "verified": true,
   "covers": [
-   "mandelshtam",
-   "shitou"
+   "singer",
+   "canetti"
   ],
-  "note": "2026-11-21 核对：1891-01-03（儒历1-15）华沙生—1938-12-27海参崴附近Vtoraya Rechka中转营卒；Acmeism——'rejected the vague mysticism of Russian Symbolism and demanded clarity and concreteness'；Kamen (Stone, 1913)——父亲出资出版首部诗集；题目象征阿克梅派'identification with the cultural essence of St. Petersburg'；1934年5月3日因讽刺诗被捕——'Sentenced to five years in a labour camp for anti-Soviet activity'，卒于中转营"
+  "note": "2026-11-21 核对——辛格：生年'July 14?, 1903'（不确定，另有1904年11/10月说）Leoncin, Poland—1991-07-24 Surfside FL；1978诺奖；'the short story, Gimpel the Fool (1957)'；A Crown of Feathers (1973; National Book Award)；Yentl 电影(1983)改编自其故事；瑞典学院特别称赞 In My Father's Court (1966)；意第绪语写作。卡内蒂：1905-07-25保加利亚鲁塞生—1994-08-14苏黎世卒；1981诺奖；Die Blendung (1935; Auto-da-Fé)；'His major work, Masse und Macht (1960; Crowds and Power)'；'crowds……the psychopathology of power'"
  },
  {
   "id": "B313",
@@ -4370,7 +4371,7 @@
    "brodsky",
    "xiaoyuyi"
   ],
-  "note": "2026-11-21 核对：1940-05-24列宁格勒生—1996-01-28布鲁克林卒（55岁）；1987诺奖——'for his important lyric and elegiac poems'；1964年判5年苦役、1965年缩短；1972年被逐出苏联、1977年美国籍；MacArthur fellowship 1981；美国桂冠诗人1991–92；主要作品含'the essays in Less Than One (1986)'"
+  "note": "2026-11-20 核对：1940-05-24列宁格勒生—1996-01-28布鲁克林卒（55岁）；1987诺奖——'for his important lyric and elegiac poems'；1964年判5年苦役、1965缩短；1972年被逐出苏联；Less Than One (1986)；美国桂冠诗人1991–92"
  },
  {
   "id": "B314",
@@ -4441,6 +4442,34 @@
    "jianWenzhaji"
   ],
   "note": "2026-11-21 核对：1783-04-03纽约生—1859-12-28卒；The Sketch Book (1819–20)——含'Rip Van Winkle'与'The Legend of Sleepy Hollow'；'first American author to achieve international fame'；《纽约外史》（A History of New York, 1809，Diedrich Knickerbocker 署名）"
+ },
+ {
+  "id": "B319",
+  "title": "Marina Ivanovna Tsvetayeva — Encyclopaedia Britannica",
+  "author": "The Editors of Enclopaedia Britannica",
+  "year": "持续更新",
+  "url": "https://www.britannica.com/biography/Marina-Ivanovna-Tsvetayeva",
+  "type": "百科全书",
+  "verified": true,
+  "covers": [
+   "tsvetaeva",
+   "cweitayeva"
+  ],
+  "note": "2026-11-21 核对：1892-10-08（儒历9-26）莫斯科生—1941-08-31 Yelabuga卒（48岁，自杀）；'regarded as one of the finest Russian-language poets of the 20th century'；'distinctive for its staccato rhythms, originality, and directness'；主要作品：Vecherny albom (1910)、Lebediny stan（1917—21写/1957慕尼黑出版）、Posle Rossii (1928)、Moy Pushkin (1937)、Stikhi k Chekhii (1938–39)；'She committed suicide in 1941'"
+ },
+ {
+  "id": "B320",
+  "title": "Osip Emilyevich Mandelshtam — Encyclopaedia Britannica",
+  "author": "The Editors of Enclopaedia Britannica",
+  "year": "持续更新",
+  "url": "https://www.britannica.com/biography/Osip-Emilyevich-Mandelshtam",
+  "type": "百科全书",
+  "verified": true,
+  "covers": [
+   "mandelshtam",
+   "shitou"
+  ],
+  "note": "2026-11-21 核对：1891-01-03（儒历1-15）华沙生—1938-12-27海参崴附近Vtoraya Rechka中转营卒；Acmeism——'rejected the vague mysticism of Russian Symbolism and demanded clarity and concreteness'；Kamen (Stone, 1913)——父亲出资出版首部诗集；题目象征阿克梅派'identification with the cultural essence of St. Petersburg'；1934年5月3日因讽刺诗被捕——'Sentenced to five years in a labour camp for anti-Soviet activity'，卒于中转营"
  },
  {
   "id": "C001",
