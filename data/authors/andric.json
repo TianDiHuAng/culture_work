@@ -1,0 +1,68 @@
+{
+  "id": "andric",
+  "name": "伊沃·安德里奇",
+  "foreign_name": "Ivo Andrić（伊沃·安德里奇，1892-10-10—1975-03-13）",
+  "country": "南斯拉夫",
+  "birth": 1892,
+  "death": 1975,
+  "birth_year": 1892,
+  "death_year": 1975,
+  "era": "近代",
+  "summary": "安德里奇，波斯尼亚特拉夫尼克附近Dolac生，南斯拉夫作家——1961年诺贝尔文学奖（B376）。Na Drini ćuprija（德里纳河上的桥, 1945）——'constructs four centuries of Bosnian history'（建构四个世纪的波斯尼亚史——B376）——维舍格勒的奥斯曼大桥；诺奖委员会称其以'epic force'处理材料（B376）。'His works are written soberly, in language of great beauty and purity.'（B376）。Ex Ponto (1918)——一战奥匈拘禁期的沉思散文（B376）。",
+  "timeline": [
+    {
+      "year": 1892,
+      "text": "10月10日生于波斯尼亚Dolac（B376）。",
+      "src": "B376"
+    },
+    {
+      "year": 1918,
+      "text": "Ex Ponto——拘禁期的沉思散文（B376）。",
+      "src": "B376"
+    },
+    {
+      "year": 1945,
+      "text": "《德里纳河上的桥》《特拉夫尼克纪事》同年出版（B376）。",
+      "src": "B376"
+    },
+    {
+      "year": 1961,
+      "text": "获诺贝尔文学奖（B376）。",
+      "src": "B376"
+    },
+    {
+      "year": 1975,
+      "text": "3月13日卒于贝尔格莱德（B376）。",
+      "src": "B376"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "derinahe",
+      "note": "1945（B376）"
+    },
+    {
+      "title": "特拉夫尼克纪事",
+      "note": "（B376：Travnička hronika (1945)——中译名待核）"
+    },
+    {
+      "title": "埃克斯蓬托",
+      "note": "（B376：Ex Ponto (1918)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'清醒而优美纯净的语言'（B376：soberly...great beauty and purity）。",
+    "'史诗力量'（B376：epic force——诺奖委员会）。",
+    "桥作为历史的脊柱（书名语境——通说待核）。"
+  ],
+  "status": "Britannica 定位安德里奇为1961诺奖得主、波斯尼亚史的史诗建构者（B376）。",
+  "sources": [
+    "B376"
+  ],
+  "dates_source": "B376",
+  "pending": [
+    "德里纳河桥年代（1571建桥说）待核。",
+    "'四个世纪'起讫核对（通说）。",
+    "外交官生涯细节待核（B376未载）。"
+  ]
+}

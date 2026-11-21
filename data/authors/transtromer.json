@@ -1,0 +1,73 @@
+{
+  "id": "transtromer",
+  "name": "托马斯·特朗斯特罗默",
+  "foreign_name": "Tomas Tranströmer（托马斯·特朗斯特罗默，1931-04-15—2015-03-26）",
+  "country": "瑞典",
+  "birth": 1931,
+  "death": 2015,
+  "birth_year": 1931,
+  "death_year": 2015,
+  "era": "现当代",
+  "summary": "特朗斯特罗默，斯德哥尔摩生，瑞典诗人——2011年诺贝尔文学奖（B377）；1990 Neustadt奖（B377）。'noted for his spare but resonant language, particularly his unusual metaphors—more transformative than substitutive'（简洁而共鸣的语言、'转变性'隐喻——B377）；其隐喻'have been associated with a literary surrealism'（B377）。17 dikter（十七首诗, 1954）——'showed the influence of Modernism in its spare language and startling imagery'（B377）。Östersjöar（波罗的海, 1974）（B377）。'the most widely translated Scandinavian poet in the English-speaking world'（B377）。1990年中风'robbed him almost entirely of the ability to speak'——仍持续出版（B377）。",
+  "timeline": [
+    {
+      "year": 1931,
+      "text": "4月15日生于斯德哥尔摩（B377）。",
+      "src": "B377"
+    },
+    {
+      "year": 1954,
+      "text": "17 dikter（十七首诗）——现代主义、好评（B377）。",
+      "src": "B377"
+    },
+    {
+      "year": 1974,
+      "text": "Östersjöar（波罗的海）（B377）。",
+      "src": "B377"
+    },
+    {
+      "year": 1990,
+      "text": "中风——几乎完全失去说话能力；仍持续出版（B377）。",
+      "src": "B377"
+    },
+    {
+      "year": 2011,
+      "text": "获诺贝尔文学奖（B377）。",
+      "src": "B377"
+    },
+    {
+      "year": 2015,
+      "text": "3月26日卒于斯德哥尔摩（B377）。",
+      "src": "B377"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "shiqishoushi",
+      "note": "1954（B377）"
+    },
+    {
+      "title": "波罗的海",
+      "note": "（B377：Östersjöar (1974; Baltics)）"
+    },
+    {
+      "title": "悲伤的贡多拉",
+      "note": "（B377：Sorgegondolen (1996)——受李斯特启发）"
+    }
+  ],
+  "style": [
+    "'简洁而共鸣'的语言（B377：spare but resonant）。",
+    "'转变性而非替代性'的隐喻（B377）。",
+    "'声学上完美的房间'（B377 评论家引语）。"
+  ],
+  "status": "Britannica 定位特朗斯特罗默为2011诺奖得主、英语世界译介最广的斯堪的纳维亚诗人（B377）。",
+  "sources": [
+    "B377"
+  ],
+  "dates_source": "B377",
+  "pending": [
+    "《十七首诗》通行译名待核。",
+    "心理学家职业细节（B377已载）待核。",
+    "与Robert Bly的交往细节待核。"
+  ]
+}

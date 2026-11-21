@@ -1,0 +1,105 @@
+{
+  "id": "derinahe",
+  "title": "德里纳河上的桥",
+  "original_title": "Na Drini ćuprija",
+  "region": "南斯拉夫",
+  "era": "近代",
+  "era_detail": "20世纪40年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "塞尔维亚-克罗地亚语",
+  "author_id": "andric",
+  "author_name": "伊沃·安德里奇",
+  "year_display": "1945年（Britannica B376：Na Drini ćuprija (1945)——'constructs four centuries of Bosnian history'）",
+  "year_sort": 1945,
+  "background": [
+    "Britannica（B376）：'constructs four centuries of Bosnian history'——以维舍格勒奥斯曼大桥串起的事件与个人故事，并置历史叙事与民间传说。",
+    "Britannica（B376）：诺奖委员会——'epic force'（史诗力量）。",
+    "Britannica（B376）：'His works are written soberly, in language of great beauty and purity.'"
+  ],
+  "outline": [
+    "（通说待核——B376未载细节）大桥的四百年：从奥斯曼建造到一战炸毁。",
+    "（通说待核）'桥头堡'上的弑兄与婚礼。"
+  ],
+  "characters": [
+    {
+      "name": "阿勃迪帕夏",
+      "identity": "建桥者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "桥",
+      "identity": "历史的脊柱",
+      "note": "（书名人物——通说待核）"
+    }
+  ],
+  "themes": [
+    "'四个世纪的波斯尼亚史'（B376）。",
+    "桥与'血税'的传说（通说待核）。",
+    "'史诗力量'（B376：诺奖委员会）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1961诺奖——'epic force'（B376）。",
+      "source": "B376"
+    },
+    {
+      "text": "Britannica：'language of great beauty and purity'（B376）。",
+      "source": "B376"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "奥斯曼-奥匈史。",
+      "多世纪编年的群像。"
+    ],
+    "editions": [
+      "《德里纳河上的桥》中译本（人民文学等——通说待核）。",
+      "塞尔维亚-克罗地亚语原版。"
+    ],
+    "order": "安德里奇首选；与《特拉夫尼克纪事》对读。"
+  },
+  "pending": [
+    "建桥年代与帕夏名核对（通说）。",
+    "'四个世纪'起讫核对。",
+    "1945年出版细节待核。"
+  ],
+  "sources": [
+    "B376"
+  ],
+  "year_source": "B376",
+  "author_source": "B376",
+  "related_works": [
+    "xianrenji",
+    "dulidemen",
+    "fuyuzi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《德里纳河上的桥》四百年结构图",
+    "cards": [
+      {
+        "title": "桥",
+        "text": "历史的脊柱（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "四百年",
+        "text": "波斯尼亚史（B376）",
+        "color": "main"
+      },
+      {
+        "title": "奥斯曼",
+        "text": "建桥的帝国（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "传说",
+        "text": "民间叙事（B376）",
+        "color": "family"
+      }
+    ]
+  }
+}

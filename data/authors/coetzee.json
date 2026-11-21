@@ -1,38 +1,68 @@
 {
   "id": "coetzee",
-  "name": "库切",
-  "foreign_name": "J.M. Coetzee（约翰·马克斯韦尔·库切，1940-02-09 — ）",
+  "name": "J.M.库切",
+  "foreign_name": "J.M. Coetzee（约翰·马克斯韦尔·库切，1940-02-09—）",
   "country": "南非",
-  "birth": "1940-02-09",
+  "birth": 1940,
   "death": null,
   "birth_year": 1940,
   "death_year": null,
   "era": "现当代",
-  "summary": "库切，开普敦人，南非小说家、批评家与翻译家，2003年诺贝尔文学奖得主（Britannica）。'An opponent of apartheid'（反对种族隔离——Britannica），开普敦大学英语教职；'translated Dutch works'（翻译荷兰作品——Britannica）。1999年《耻》争议后移居澳大利亚，2006年入籍（Britannica：After controversy over his 1999 novel Disgrace, he relocated to Australia and became a citizen in 2006）。布克奖两次（1983《迈克尔·K的生活与时代》、1999《耻》——'the first author to win it twice'——Britannica）；2003年诺贝尔文学奖（Britannica：Nobel Prize for Literature (2003)）。主题：'colonization, the relationship between colonizer and colonized, power, and 'otherness''（殖民、殖民者与被殖民者的关系、权力与'他者'——Britannica）——Foe 探索'how language itself can enslave'（语言本身如何奴役——Britannica）。",
+  "summary": "库切，开普敦生，南非小说家——2003年诺贝尔文学奖（B375）。Life & Times of Michael K（迈克尔·K的生活和时代, 1983）——布克奖——'concerns the dilemma of a simple man beset by conditions he can neither comprehend nor control during a civil war in a future South Africa'（B375）。Disgrace（耻, 1999）——再获布克奖——'making Coetzee the first author to win the Booker Prize twice'（首位两获布克——B375）——后种族隔离背景——'caused an outcry in South Africa'——此后移居澳大利亚（B375）。Waiting for the Barbarians（等待野蛮人, 1980）——'an examination of the ramifications of colonization'（B375）。",
   "timeline": [
-    {"year": "1940-02-09", "text": "生于开普敦（Britannica：Born February 9, 1940, in Cape Town, South Africa）。", "src": "B161"},
-    {"year": "1960—1969", "text": "开普敦大学（BA 1960, MA 1963）与德克萨斯大学博士（1969，Britannica）。", "src": "B161"},
-    {"year": "1972—2002", "text": "开普敦大学英语教授与翻译（Britannica：taught English at the University of Cape Town and translated Dutch works）；《昏暗之地》(1974)《等待野蛮人》(1980)《迈克尔·K的生活与时代》(1983布克奖)《福》(1986)《铁器时代》(1990)《彼得堡的大师》(1994)《耻》(1999，Britannica 列举 Disgrace)。", "src": "B161"},
-    {"year": "1999—2006", "text": "《耻》争议（后种族隔离时期的暴力描写——通说待核）→2000年移居澳大利亚（Britannica：After controversy over his 1999 novel Disgrace, he relocated to Australia）→2006年入籍（Britannica：became a citizen in 2006）。", "src": "B161"},
-    {"year": "2003", "text": "诺贝尔文学奖（Britannica：Nobel Prize for Literature (2003)）。", "src": "B161"}
+    {
+      "year": 1940,
+      "text": "2月9日生于开普敦（B375）。",
+      "src": "B375"
+    },
+    {
+      "year": 1980,
+      "text": "Waiting for the Barbarians——殖民后果的审视（B375）。",
+      "src": "B375"
+    },
+    {
+      "year": 1983,
+      "text": "《迈克尔·K的生活和时代》——布克奖（B375）。",
+      "src": "B375"
+    },
+    {
+      "year": 1999,
+      "text": "《耻》——两获布克的第一人（B375）。",
+      "src": "B375"
+    },
+    {
+      "year": 2003,
+      "text": "获诺贝尔文学奖（B375）。",
+      "src": "B375"
+    }
   ],
   "major_works": [
-    {"work_id": "chi", "note": "1999；第二次布克奖"},
-    {"title": "等待野蛮人（1980）、迈克尔·K的生活与时代（1983）", "note": "布克奖首获（Britannica：Booker Prize (1983) for Life & Times of Michael K）"},
-    {"title": "福（1986）", "note": "Britannica：exploring how language itself can enslave"}
+    {
+      "work_id": "mikesaierke",
+      "note": "1983布克奖（B375）"
+    },
+    {
+      "title": "耻",
+      "note": "（B375：Disgrace (1999)——布克奖）"
+    },
+    {
+      "title": "等待野蛮人",
+      "note": "（B375：Waiting for the Barbarians (1980)）"
+    }
   ],
   "style": [
-    "'寓言'与'写实'的融合：通说——简洁、无装饰、克制（通说待核）。",
-    "'殖民与'他者''：Britannica——'colonization, the relationship between colonizer and colonized, power, and 'otherness''（殖民、殖民者与被殖民者的关系、权力与'他者'）。",
-    "'后殖民'的伦理：'耻'——后种族隔离南非的道德难题（通说）。"
+    "寓言化的政治书写（B375：undefined borderland）。",
+    "'简单人'的困境（B375：a simple man beset...）。",
+    "殖民的后果学（B375：ramifications of colonization）。"
   ],
-  "status": "Britannica 定位库切为2003年诺贝尔文学奖得主——布克奖两次（Britannica：first author to win it twice）。主题为'殖民、权力与他者'（Britannica）；Foe 探索'语言本身如何奴役'（Britannica：Foe exploring how language itself can enslave）。",
-  "sources": ["B161"],
-  "dates_source": "B161",
+  "status": "Britannica 定位库切为2003诺奖得主、首位两获布克奖的作家（B375）。",
+  "sources": [
+    "B375"
+  ],
+  "dates_source": "B375",
   "pending": [
-    "《耻》1999年出版（Secker & Warburg）与布克奖细节待核。",
-    "2000年移居澳大利亚与Adelaide 大学（通说待核）待核。",
-    "《耻》1999年争议（南非总统姆贝基的批评——通说待核）各方说法待核。",
-    "《童年》《青春》《夏日》自传三部曲（Britannica 列举 Boyhood, Youth, Summertime）出版年待核。"
+    "《迈克尔·K的生活和时代》通行译名待核。",
+    "'移居澳大利亚'细节（2006入籍——B375）待核。",
+    "Disgrace 通行译名（《耻》）待核。"
   ]
 }

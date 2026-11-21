@@ -1,0 +1,100 @@
+{
+  "id": "shiqishoushi",
+  "title": "十七首诗",
+  "original_title": "17 dikter",
+  "region": "瑞典",
+  "era": "近代",
+  "era_detail": "20世纪50年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "瑞典语",
+  "author_id": "transtromer",
+  "author_name": "托马斯·特朗斯特罗默",
+  "year_display": "1954年（Britannica B377：17 dikter (1954; Seventeen Poems)——'showed the influence of Modernism in its spare language and startling imagery'）",
+  "year_sort": 1954,
+  "background": [
+    "Britannica（B377）：17 dikter——'showed the influence of Modernism in its spare language and startling imagery, and it met with critical acclaim'。",
+    "Britannica（B377）：'noted for his spare but resonant language...unusual metaphors—more transformative than substitutive'。",
+    "Britannica（B377）：'the most widely translated Scandinavian poet in the English-speaking world'（20世纪后期）。"
+  ],
+  "outline": [
+    "（通说待核——B377未载篇目）现代主义式的'简洁语言与惊人意象'。",
+    "（通说待核）'诗是内在的房间'（评论家语——B377：acoustically perfect chambers）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "心理学家诗人",
+      "note": "（B377 语境）"
+    }
+  ],
+  "themes": [
+    "'转变性'的隐喻（B377：more transformative than substitutive）。",
+    "'文学超现实主义'的关联（B377）。",
+    "自然的观察：'意义的丰富与风格的至简'（B377）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：2011诺奖（B377）。",
+      "source": "B377"
+    },
+    {
+      "text": "Britannica：'critically acclaimed'（B377）。",
+      "source": "B377"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "隐喻的'转变性'。",
+      "瑞典语原文（读译本）。"
+    ],
+    "editions": [
+      "《十七首诗》中译名（《诗十七首》）待核。",
+      "瑞典文原版（公有领域状态待核）。"
+    ],
+    "order": "特朗斯特罗默首选；后接《波罗的海》。"
+  },
+  "pending": [
+    "篇目（《序曲》等）核对（B377未载）。",
+    "1954年出版细节待核。",
+    "'acoustically perfect chambers'评论出处核对。"
+  ],
+  "sources": [
+    "B377"
+  ],
+  "year_source": "B377",
+  "author_source": "B377",
+  "related_works": [
+    "wuguigu",
+    "shenhualishi",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《十七首诗》隐喻结构图",
+    "cards": [
+      {
+        "title": "隐喻",
+        "text": "'转变性'（B377）",
+        "color": "gold"
+      },
+      {
+        "title": "简洁",
+        "text": "共鸣的语言（B377）",
+        "color": "main"
+      },
+      {
+        "title": "超现实",
+        "text": "文学的关联（B377）",
+        "color": "family"
+      },
+      {
+        "title": "房间",
+        "text": "'声学上完美'（B377）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
