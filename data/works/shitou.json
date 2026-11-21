@@ -1,0 +1,100 @@
+{
+  "id": "shitou",
+  "title": "石头",
+  "original_title": "Камень（Kamen / Stone）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "mandelshtam",
+  "author_name": "奥西普·曼德尔施塔姆",
+  "year_display": "1913年（Britannica：In 1913 his father underwrote the publication of his first slim volume of verse, Kamen (Stone)）",
+  "year_sort": 1913,
+  "background": [
+    "Britannica（B312）：'In 1913 his father underwrote the publication of his first slim volume of verse, Kamen (Stone)'——父亲出资出版首部小诗集。",
+    "题目象征（B312）：Acmeists'identification with the cultural essence of St. Petersburg'（与彼得堡文化本质的认同——B312）。",
+    "Acmeism（B312）：'rejected the vague mysticism of Russian Symbolism and demanded clarity and concreteness'。",
+    "结局（B312）：1934年5月3日因讽刺诗被捕——'Sentenced to five years in a labour camp'，1938-12-27卒于中转营。"
+  ],
+  "outline": [
+    "彼得堡的建筑与文化：海军大厦、圣索菲亚（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "曼德尔施塔姆",
+      "identity": "诗人",
+      "note": "Acmeist（B312）"
+    }
+  ],
+  "themes": [
+    "石头：彼得堡文化的认同（B312）。",
+    "建筑与诗歌的同构（通说待核）。",
+    "Acmeism 的'清晰与具体'（B312：clarity and concreteness）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Acmeism——'rejected the vague mysticism of Russian Symbolism'（B312）。",
+      "source": "B312"
+    },
+    {
+      "text": "Britannica：'identification with the cultural essence of St. Petersburg'（B312）。",
+      "source": "B312"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "Acmeism 与 Symbolism 的对立。",
+      "彼得堡建筑史。"
+    ],
+    "editions": [
+      "《石头》（Princeton University Press 英译本，通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "曼德尔施塔姆诗集首选。"
+  },
+  "pending": [
+    "《石头》1913年篇目（33首说）核对。",
+    "1930年《石头》增订版待核。",
+    "'Notre Dame'首篇待核。"
+  ],
+  "sources": [
+    "B312"
+  ],
+  "year_source": "B312",
+  "author_source": "B312",
+  "related_works": [
+    "anhunqu",
+    "geti",
+    "shenqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《石头》Acmeism结构图",
+    "cards": [
+      {
+        "title": "石头",
+        "text": "彼得堡的文化认同（B312）",
+        "color": "main"
+      },
+      {
+        "title": "Acmeism",
+        "text": "'clarity and concreteness'（B312）",
+        "color": "family"
+      },
+      {
+        "title": "1934被捕",
+        "text": "讽刺诗的代价（B312）",
+        "color": "antagonist"
+      },
+      {
+        "title": "中转营",
+        "text": "1938年的终点",
+        "color": "gold"
+      }
+    ]
+  }
+}

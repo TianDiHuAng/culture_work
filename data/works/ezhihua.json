@@ -1,0 +1,99 @@
+{
+  "id": "ezhihua",
+  "title": "恶之花",
+  "original_title": "Les Fleurs du mal（The Flowers of Evil）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "baudelaire",
+  "author_name": "夏尔·波德莱尔",
+  "year_display": "1857年出版（Britannica：Les Fleurs du mal (1857; The Flowers of Evil)）",
+  "year_sort": 1857,
+  "background": [
+    "Britannica（B309）：'perhaps the most important and influential poetry collection published in Europe in the 19th century'（19世纪欧洲最重要、最具影响力的诗集——B309）；'the fullest expression of French Romantic poetry'（B309）。",
+    "审查（B309）：'In 1857, authorities charged thirteen poems from this collection with offenses against religion and public morality'——'six poems were censored due to obscenity, leading to a fine'。",
+    "结构（B309）：'The collection consists of poems arranged into six sections'；波德莱尔坚持它不是'simple album'而是有'beginning and an end'。"
+  ],
+  "outline": [
+    "六部分：忧郁与理想/巴黎即景/酒/恶之花/叛逆/死亡（篇目通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "诗人",
+      "identity": "抒情主体",
+      "note": "（B309 语境）"
+    }
+  ],
+  "themes": [
+    "'correspondances'（感应）——象征主义起点（B309）。",
+    "美、恶与都市（通说待核）。",
+    "'忧郁'（spleen）主题（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'perhaps the most important and influential poetry collection published in Europe in the 19th century'（B309）。",
+      "source": "B309"
+    },
+    {
+      "text": "Britannica：象征主义领袖'regarded themselves as his followers'（B309）。",
+      "source": "B309"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'correspondances'的通感诗学。",
+      "1857审查史。"
+    ],
+    "editions": [
+      "《恶之花》（人民文学出版社/上海译文出版社版本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "象征主义源头（先本作后兰波）。"
+  },
+  "pending": [
+    "1861年第二版增补核对。",
+    "'远行'（Le Voyage）终篇核对。",
+    "'six poems censored'篇目核对。"
+  ],
+  "sources": [
+    "B309"
+  ],
+  "year_source": "B309",
+  "author_source": "B309",
+  "related_works": [
+    "hongyuhei",
+    "weite",
+    "lianaizhongjie"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《恶之花》六部结构图",
+    "cards": [
+      {
+        "title": "忧郁与理想",
+        "text": "第一部分（通说）",
+        "color": "main"
+      },
+      {
+        "title": "巴黎即景",
+        "text": "都市的忧郁",
+        "color": "gold"
+      },
+      {
+        "title": "恶之花",
+        "text": "恶中的美",
+        "color": "antagonist"
+      },
+      {
+        "title": "死亡",
+        "text": "终篇之旅（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "cweitayeva",
+  "title": "茨维塔耶娃诗选",
+  "original_title": "Марина Цветаева（诗选）",
+  "region": "俄国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "诗选集",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "tsvetaeva",
+  "author_name": "玛丽娜·茨维塔耶娃",
+  "year_display": "诗作于1910—1941年间；通行选本数十首",
+  "year_sort": 1922,
+  "background": [
+    "作者页（B311）：茨维塔耶娃'regarded as one of the finest Russian-language poets of the 20th century'（B311 作者页定位）；'distinctive for its staccato rhythms, originality, and directness'（B311）。",
+    "主要作品（B311）：Vecherny albom (1910)、Lebediny stan（1917—21写/1957出版）、Posle Rossii (1928)、Moy Pushkin (1937)、Stikhi k Chekhii (1938–39)。",
+    "'She committed suicide in 1941'（B311）。"
+  ],
+  "outline": [
+    "《黄昏纪念册》(1910)、《神灯》(1912)、《从两本书》(1913)——早期三集（通说待核）。",
+    "《天鹅营地》(1917—21)、《俄罗斯之后》(1928)——流亡期（通说待核）。",
+    "《我的普希金》(1937)——散文（B311）。"
+  ],
+  "characters": [
+    {
+      "name": "茨维塔耶娃",
+      "identity": "诗人",
+      "note": "'staccato rhythms'（B311）"
+    }
+  ],
+  "themes": [
+    "流亡与回归（B311 语境）。",
+    "爱情诗（致帕斯捷尔纳克/里尔克——通说待核）。",
+    "母性与女儿（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of the finest Russian-language poets of the 20th century'（B311）。",
+      "source": "B311"
+    },
+    {
+      "text": "作者页：布罗茨基等后辈诗人的推崇（通说待核——B313 未载）。",
+      "source": "B313"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "断续节奏的朗读。",
+      "流亡三阶段（布拉格/巴黎）。"
+    ],
+    "editions": [
+      "《茨维塔耶娃诗集》（人民文学出版社/广西师范大学出版社版本，通说待核）。",
+      "俄文原版。"
+    ],
+    "order": "先《黄昏纪念册》后流亡期。"
+  },
+  "pending": [
+    "《黄昏纪念册》1910年出版核对。",
+    "《致布洛克的诗》《致阿赫玛托娃》组诗待核。",
+    "1941年叶拉布加自杀细节（B311 已载）核对。"
+  ],
+  "sources": [
+    "B311"
+  ],
+  "year_source": "B311",
+  "author_source": "B311",
+  "related_works": [
+    "anhunqu",
+    "nianzhu",
+    "xiaoyuyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "茨维塔耶娃诗歌结构图",
+    "cards": [
+      {
+        "title": "黄昏纪念册",
+        "text": "1910首集（B311）",
+        "color": "family"
+      },
+      {
+        "title": "天鹅营地",
+        "text": "1917—21（B311）",
+        "color": "main"
+      },
+      {
+        "title": "俄罗斯之后",
+        "text": "流亡巴黎（B311）",
+        "color": "gold"
+      },
+      {
+        "title": "叶拉布加",
+        "text": "1941年的终点",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

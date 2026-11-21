@@ -113,6 +113,9 @@ for aid, d in authors.items():
     p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
     print("created author", aid)
 
+def G2(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
 works = {
 "ezhihua": {
   "id":"ezhihua","title":"恶之花","original_title":"Les Fleurs du mal（The Flowers of Evil）","region":"法国","era":"近代","era_detail":"19世纪",

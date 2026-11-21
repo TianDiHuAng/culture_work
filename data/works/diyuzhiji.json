@@ -1,0 +1,98 @@
+{
+  "id": "diyuzhiji",
+  "title": "地狱一季",
+  "original_title": "Une Saison en enfer（A Season in Hell）",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "散文诗集",
+  "genre_group": "诗歌",
+  "language": "法语",
+  "author_id": "rimbaud",
+  "author_name": "阿尔蒂尔·兰波",
+  "year_display": "1873年（Britannica：Une Saison en enfer——'Consisting of nine fragments of prose and verse'）",
+  "year_sort": 1873,
+  "background": [
+    "Britannica（B310）：'Consisting of nine fragments of prose and verse'——examining 'Rimbauds search for experience and his relationship with Verlaine'（探察兰波的求索经历及与魏尔伦的关系——B310）。",
+    "作者（B310）：'Many 20th-century poets were influenced by the Dionysian power of his verse'；'a founding father of modernism'（B310 Legacy 语境）。"
+  ],
+  "outline": [
+    "九个片段：坏血统/疯狂的眩晕/疯狂的重罚/谵妄I-II/不可能/闪光/清晨（篇名通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "兰波",
+      "identity": "自白者",
+      "note": "（B310 语境）"
+    }
+  ],
+  "themes": [
+    "'通灵者'的自白与告别（通说待核）。",
+    "'理性的人们'？——不：诗的自审（通说待核）。",
+    "告别文学（1873年后弃文——B310 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Many 20th-century poets were influenced by the Dionysian power of his verse'（B310）。",
+      "source": "B310"
+    },
+    {
+      "text": "Britannica：'a founding father of modernism'（B310 Legacy 语境）。",
+      "source": "B310"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "散文诗的自白语调。",
+      "1873年弃文背景。"
+    ],
+    "editions": [
+      "《地狱一季》（人民文学出版社/上海译文版本，通说待核）。",
+      "法文原版（公有领域）。"
+    ],
+    "order": "先《醉舟》后本作；再读《彩画集》。"
+  },
+  "pending": [
+    "1873年（布鲁塞尔自印说）核对。",
+    "九个片段篇名核对。",
+    "'通灵者书信'（1871年5月两封——B310 已载日期）核对。"
+  ],
+  "sources": [
+    "B310"
+  ],
+  "year_source": "B310",
+  "author_source": "B310",
+  "related_works": [
+    "ezhihua",
+    "weite",
+    "hongyuhei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《地狱一季》九片段图",
+    "cards": [
+      {
+        "title": "坏血统",
+        "text": "家族的自白（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "谵妄",
+        "text": "疯狂的清醒",
+        "color": "main"
+      },
+      {
+        "title": "闪光",
+        "text": "洞见与告别",
+        "color": "gold"
+      },
+      {
+        "title": "清晨",
+        "text": "终章（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
