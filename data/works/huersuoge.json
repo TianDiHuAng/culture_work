@@ -1,0 +1,104 @@
+{
+  "id": "huersuoge",
+  "title": "赫尔索格",
+  "original_title": "Herzog",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "bellow",
+  "author_name": "索尔·贝娄",
+  "year_display": "1964年出版（通说待核；作者页 B298 口径：major_works 载'赫尔索格、洪堡的礼物'——Herzog, Humboldt's Gift）",
+  "year_sort": 1964,
+  "background": [
+    "作者页（B298）：贝娄 major_works 载'赫尔索格、洪堡的礼物'（B298 作者页定位，详见 aojimaqi 条核对）。",
+    "作者（B298）：1976诺奖——'for the human understanding and subtle analysis of contemporary culture'；'cultural sophistication and the wisdom of the streets'。",
+    "题材（通说待核）：中世纪学者摩西·赫尔索格遭双重背叛（妻与挚友）后狂写'不寄出的信'。"
+  ],
+  "outline": [
+    "给尼采、艾森豪威尔等人的'不寄出的信'——思想史的清算（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "摩西·赫尔索格",
+      "identity": "学者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "瓦伦丁·格斯贝奇",
+      "identity": "挚友",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "书信体的清算（通说待核）。",
+    "知识分子在60年代的失位（通说）。",
+    "'心'与'脑'的和解（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：贝娄代表作谱系（B298 作者页口径）。",
+      "source": "B298"
+    },
+    {
+      "text": "作者页：1976诺奖——'human understanding and subtle analysis'（B298 作者级）。",
+      "source": "B298"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "书信体与意识的交错。",
+      "60年代思想史背景。"
+    ],
+    "editions": [
+      "《赫尔索格》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版。"
+    ],
+    "order": "先《奥吉·玛琪》后本作。"
+  },
+  "pending": [
+    "1964年出版（Viking说）核对。",
+    "摩西·赫尔索格/格斯贝奇人名核对。",
+    "'不寄出的信'情节细节待核。"
+  ],
+  "sources": [
+    "B298"
+  ],
+  "year_source": "B298",
+  "author_source": "B298",
+  "related_works": [
+    "aojimaqi",
+    "meiguoren",
+    "yuehankelisituofu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《赫尔索格》书信结构图",
+    "cards": [
+      {
+        "title": "不寄出的信",
+        "text": "写给世界",
+        "color": "main"
+      },
+      {
+        "title": "背叛",
+        "text": "妻与挚友",
+        "color": "antagonist"
+      },
+      {
+        "title": "赫尔索格",
+        "text": "中世纪学者",
+        "color": "gold"
+      },
+      {
+        "title": "和解",
+        "text": "乡居的宁静",
+        "color": "family"
+      }
+    ]
+  }
+}

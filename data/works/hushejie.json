@@ -1,0 +1,103 @@
+{
+  "id": "hushejie",
+  "title": "蝮蛇结",
+  "original_title": "Le Noeud de vipères（Vipers' Tangle）",
+  "region": "法国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "法语",
+  "author_id": "mauriac",
+  "author_name": "弗朗索瓦·莫里亚克",
+  "year_display": "1932年（Britannica：Le Noeud de vipères (1932; Vipers' Tangle...)——'often considered Mauriac's masterpiece'）",
+  "year_sort": 1932,
+  "background": [
+    "Britannica（B289）：'Le Noeud de vipères (1932; Vipers' Tangle...) is often considered Mauriac's masterpiece.'（常被视为莫里亚克的杰作——B289）；作者（B289）：1952诺奖、1933法兰西学院；'somber, austere psychological dramas'。",
+    "文体（通说待核）：书信体——老律师路易的'复仇'日记写给妻子（死后寄出）。"
+  ],
+  "outline": [
+    "路易的日记：对妻室的怨恨清算——与最后的和解（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "路易",
+      "identity": "老律师",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "伊莎",
+      "identity": "妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "怨恨的'蝮蛇结'（书名通说待核）。",
+    "书信体的忏悔（通说待核）。",
+    "天主教的救赎（B289 语境：Catholic novelist）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'often considered Mauriac's masterpiece'（B289）。",
+      "source": "B289"
+    },
+    {
+      "text": "Britannica：1952年诺贝尔文学奖（B289 作者级）。",
+      "source": "B289"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "书信体独白。",
+      "天主教语境。"
+    ],
+    "editions": [
+      "《蝮蛇结》（广西师范大学出版社，通说待核）。",
+      "法文原版（公有领域渐近）。"
+    ],
+    "order": "先《爱的荒漠》后本作。"
+  },
+  "pending": [
+    "1932年出版（Grasset说）核对。",
+    "路易/伊莎人名核对。",
+    "'蝮蛇结'的题解待核。"
+  ],
+  "sources": [
+    "B289"
+  ],
+  "year_source": "B289",
+  "author_source": "B289",
+  "related_works": [
+    "aidewangmo",
+    "taileisi",
+    "嘉莉妹妹"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《蝮蛇结》怨恨结构图",
+    "cards": [
+      {
+        "title": "日记",
+        "text": "写给亡妻",
+        "color": "main"
+      },
+      {
+        "title": "怨恨",
+        "text": "蝮蛇之结",
+        "color": "antagonist"
+      },
+      {
+        "title": "路易",
+        "text": "老律师",
+        "color": "gold"
+      },
+      {
+        "title": "和解",
+        "text": "最后的宽恕",
+        "color": "family"
+      }
+    ]
+  }
+}

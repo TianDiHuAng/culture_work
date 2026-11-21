@@ -24,10 +24,26 @@
     "《一条索子》：老农捡拾绳索被诬偷钱包，百口莫辩郁郁而终——'名誉杀人'的乡土叙事。"
   ],
   "characters": [
-    {"name": "羊脂球", "identity": "妓女", "note": "'他的最佳故事'（Britannica）主人公：被体面人集体出卖的底层女性"},
-    {"name": "玛蒂尔德（项链）", "identity": "小职员之妻", "note": "'虚荣—惩罚'结构的承载者；十年辛劳的对照"},
-    {"name": "于勒叔叔", "identity": "漂泊者", "note": "从'好人'到'流氓'再到'卖牡蛎的老水手'——以钱的镜头观看亲人"},
-    {"name": "奥高斯蒂老爹（索子）", "identity": "诺曼底老农", "note": "被流言绞死的老实人"}
+    {
+      "name": "羊脂球",
+      "identity": "妓女",
+      "note": "'他的最佳故事'（Britannica）主人公：被体面人集体出卖的底层女性"
+    },
+    {
+      "name": "玛蒂尔德（项链）",
+      "identity": "小职员之妻",
+      "note": "'虚荣—惩罚'结构的承载者；十年辛劳的对照"
+    },
+    {
+      "name": "于勒叔叔",
+      "identity": "漂泊者",
+      "note": "从'好人'到'流氓'再到'卖牡蛎的老水手'——以钱的镜头观看亲人"
+    },
+    {
+      "name": "奥高斯蒂老爹（索子）",
+      "identity": "诺曼底老农",
+      "note": "被流言绞死的老实人"
+    }
   ],
   "themes": [
     "'体面人'的虚伪：Britannica——exposing hypocrisy and hidden desires（暴露伪善与隐秘欲望）——资产阶级道德的解剖台。",
@@ -36,10 +52,22 @@
     "普法战争的记忆：普鲁士占领下的乡土（《菲菲小姐》《两个朋友》）——爱国与屈辱（通说）。"
   ],
   "influence": [
-    {"text": "Britannica：'Generally judged the greatest French short-story writer'，1880—1890年写约300篇；'a major figure of the modern short story'。", "source": "B046"},
-    {"text": "Britannica：《羊脂球》被视为其最佳、《项链》为其最知名——名篇双璧的世界地位。", "source": "B046"},
-    {"text": "文体影响：莫泊桑—契诃夫—欧·亨利的'现代短篇'三角（通说待核）；中国现代短篇（鲁迅等）对其的借鉴（通说待核）。", "source": "B046"},
-    {"text": "中文教育：《我的叔叔于勒》《项链》长期入选中国中学语文教材（通说待核）。", "source": "B046"}
+    {
+      "text": "Britannica：'Generally judged the greatest French short-story writer'，1880—1890年写约300篇；'a major figure of the modern short story'。",
+      "source": "B046"
+    },
+    {
+      "text": "Britannica：《羊脂球》被视为其最佳、《项链》为其最知名——名篇双璧的世界地位。",
+      "source": "B046"
+    },
+    {
+      "text": "文体影响：莫泊桑—契诃夫—欧·亨利的'现代短篇'三角（通说待核）；中国现代短篇（鲁迅等）对其的借鉴（通说待核）。",
+      "source": "B046"
+    },
+    {
+      "text": "中文教育：《我的叔叔于勒》《项链》长期入选中国中学语文教材（通说待核）。",
+      "source": "B046"
+    }
   ],
   "reading": {
     "difficulties": [
@@ -60,21 +88,52 @@
     "赵少侯译本的出版年份待核。",
     "'300篇'统计口径（Britannica：roughly 300 stories between 1880 and 1890）与中文学界通说一致性待核。"
   ],
-  "sources": ["B046"],
+  "sources": [
+    "B046"
+  ],
   "year_source": "B046",
-  "author_source": "B046",
-  "related_works": ["qikefuxuan", "hakebei", "nahan"],
+  "author_source": "B310",
+  "related_works": [
+    "qikefuxuan",
+    "hakebei",
+    "nahan"
+  ],
   "svg": {
     "type": "grid",
     "width": 680,
     "height": 400,
     "caption": "莫泊桑短篇小说主题分类图（据 Britannica 及通行选目）",
     "cards": [
-      {"title": "普法战争", "sub": "羊脂球·菲菲小姐", "text": "体面人出卖底层女性", "color": "main"},
-      {"title": "金钱与亲情", "sub": "我的叔叔于勒", "text": "亲情的定价", "color": "antagonist"},
-      {"title": "虚荣与惩罚", "sub": "项链·骑马·伞", "text": "小市民的欲望与代价", "color": "gold"},
-      {"title": "诺曼底乡土", "sub": "一条索子", "text": "流言与名誉之死", "color": "family"},
-      {"title": "结尾反转", "sub": "coup de théâtre", "text": "最后一击的结构艺术", "color": "plain"}
+      {
+        "title": "普法战争",
+        "sub": "羊脂球·菲菲小姐",
+        "text": "体面人出卖底层女性",
+        "color": "main"
+      },
+      {
+        "title": "金钱与亲情",
+        "sub": "我的叔叔于勒",
+        "text": "亲情的定价",
+        "color": "antagonist"
+      },
+      {
+        "title": "虚荣与惩罚",
+        "sub": "项链·骑马·伞",
+        "text": "小市民的欲望与代价",
+        "color": "gold"
+      },
+      {
+        "title": "诺曼底乡土",
+        "sub": "一条索子",
+        "text": "流言与名誉之死",
+        "color": "family"
+      },
+      {
+        "title": "结尾反转",
+        "sub": "coup de théâtre",
+        "text": "最后一击的结构艺术",
+        "color": "plain"
+      }
     ]
   }
 }

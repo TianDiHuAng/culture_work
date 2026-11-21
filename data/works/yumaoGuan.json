@@ -1,0 +1,98 @@
+{
+  "id": "yumaoGuan",
+  "title": "羽毛冠",
+  "original_title": "A Crown of Feathers",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪",
+  "genre": "短篇小说集",
+  "genre_group": "小说",
+  "language": "英语（意第绪语转译）",
+  "author_id": "singer",
+  "author_name": "艾萨克·巴什维斯·辛格",
+  "year_display": "1973年（作者页 B312 口径：A Crown of Feathers (1973; National Book Award)）",
+  "year_sort": 1973,
+  "background": [
+    "作者页（B312）：辛格 major_works 载'A Crown of Feathers (1973; National Book Award)'（B312 作者页定位，详见 shagua 条核对）。",
+    "作者（B312）：1978诺奖——意第绪语写作；'blending irony, wit, and wisdom with the occult and grotesque'。"
+  ],
+  "outline": [
+    "意第绪语短篇集：魔鬼、傻瓜与神秘主义（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "意第绪世界的人们",
+      "identity": "群像",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'羽毛冠'的称号之争（通说待核——同名篇）。",
+    "神秘与怪诞（B312：occult and grotesque）。",
+    "意第绪文学的现代（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "作者页：辛格 major_works——A Crown of Feathers (1973; National Book Award)（B312）。",
+      "source": "B312"
+    },
+    {
+      "text": "作者页：辛格1978年诺奖（B312 作者级定位）。",
+      "source": "B312"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "意第绪文化语境。",
+      "神秘主义篇章。"
+    ],
+    "editions": [
+      "《羽毛冠》（中译本信息待核）。",
+      "英文原版（Farrar, Straus）。"
+    ],
+    "order": "先《傻瓜吉姆佩尔》后本作。"
+  },
+  "pending": [
+    "1973年出版（Farrar, Straus and Giroux说）核对。",
+    "同名篇情节待核。",
+    "国家图书奖（1973——B312 已载）核对。"
+  ],
+  "sources": [
+    "B312"
+  ],
+  "year_source": "B312",
+  "author_source": "B312",
+  "related_works": [
+    "shagua",
+    "haorennanxun",
+    "luoshengmen"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《羽毛冠》神秘结构图",
+    "cards": [
+      {
+        "title": "羽毛冠",
+        "text": "称号之争（通说）",
+        "color": "main"
+      },
+      {
+        "title": "魔鬼",
+        "text": "occult（B312）",
+        "color": "antagonist"
+      },
+      {
+        "title": "意第绪",
+        "text": "语言的家园",
+        "color": "gold"
+      },
+      {
+        "title": "怪诞",
+        "text": "grotesque（B312）",
+        "color": "family"
+      }
+    ]
+  }
+}

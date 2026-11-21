@@ -1,0 +1,98 @@
+{
+  "id": "woMenzhong",
+  "title": "我们中的一个",
+  "original_title": "One of Ours",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "cather",
+  "author_name": "薇拉·凯瑟",
+  "year_display": "1922年（Britannica：One of Ours (1922), which won the Pulitzer Prize——B292）",
+  "year_sort": 1922,
+  "background": [
+    "Britannica（B292）：'One of Ours (1922), which won the Pulitzer Prize, and A Lost Lady (1923) mourned the passing of the pioneer spirit.'（哀悼拓荒者精神的消逝——B292）。",
+    "作者（B292）：'With O Pioneers! (1913) and My Ántonia (1918)'——边疆主题代表；'unique regionalism'。"
+  ],
+  "outline": [
+    "克劳德·惠勒从内布拉斯加农场走向一战战场——'pioneer spirit'的战后余响（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "克劳德·惠勒",
+      "identity": "农场青年",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "拓荒精神的消逝（B292：mourned the passing of the pioneer spirit）。",
+    "一战的美国农村面孔（通说待核）。",
+    "寻找意义（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'One of Ours (1922), which won the Pulitzer Prize'（B292）。",
+      "source": "B292"
+    },
+    {
+      "text": "作者页：凯瑟'unique regionalism'（B292 作者级）。",
+      "source": "B292"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "一战史。",
+      "农场叙事的舒缓节奏。"
+    ],
+    "editions": [
+      "《我们中的一个》（中译本信息待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "凯瑟战争题材之作。"
+  },
+  "pending": [
+    "1922年出版（Alfred A. Knopf说）核对。",
+    "克劳德·惠勒人名核对。",
+    "普利策奖1923年颁奖说（B292 作1922出版）核对。"
+  ],
+  "sources": [
+    "B292"
+  ],
+  "year_source": "B292",
+  "author_source": "B292",
+  "related_works": [
+    "wodeandongnia",
+    "atuopaozhe",
+    "erzhanyihuilu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《我们中的一个》战场图",
+    "cards": [
+      {
+        "title": "农场",
+        "text": "内布拉斯加",
+        "color": "family"
+      },
+      {
+        "title": "一战",
+        "text": "克劳德的从军",
+        "color": "main"
+      },
+      {
+        "title": "拓荒者",
+        "text": "精神的消逝（B292）",
+        "color": "gold"
+      },
+      {
+        "title": "普利策",
+        "text": "1922年作品（B292）",
+        "color": "plain"
+      }
+    ]
+  }
+}

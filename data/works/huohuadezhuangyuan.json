@@ -1,0 +1,109 @@
+{
+  "id": "huohuadezhuangyuan",
+  "title": "霍华德庄园",
+  "original_title": "Howards End",
+  "region": "英国",
+  "era": "现当代",
+  "era_detail": "20世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "forster",
+  "author_name": "E.M.福斯特",
+  "year_display": "1910年（Britannica：Howards End (1910)——'brought Forster his first major success'）",
+  "year_sort": 1910,
+  "background": [
+    "Britannica（B282）：Howards End——'a more ambitious novel that brought Forster his first major success'；主题——'an alliance between the Schlegel sisters, Margaret and Helen, who embody the liberal imagination at its best'，与 Ruth Wilcox 'whose house stays close to the earth'——对照'commerce-minded Wilcox family'。",
+    "作者（B282）：'The values of truthfulness and kindness dominate Forster's later thinking'。"
+  ],
+  "outline": [
+    "施莱格尔姐妹与威尔科克斯家：文化/商业的联姻（B282 语境）。",
+    "'Only connect'（唯有连接——作者座右铭，通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "玛格丽特",
+      "identity": "姐姐",
+      "note": "'liberal imagination'（B282）"
+    },
+    {
+      "name": "海伦",
+      "identity": "妹妹",
+      "note": "（B282）"
+    },
+    {
+      "name": "亨利·威尔科克斯",
+      "identity": "商人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'唯有连接'（通说待核——Only connect）。",
+    "文化与商业的婚姻（B282）。",
+    "房子与土地（B282：house stays close to the earth）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'brought Forster his first major success'（B282）。",
+      "source": "B282"
+    },
+    {
+      "text": "Britannica：1992年 Merchant Ivory 电影改编（通说待核）。",
+      "source": "B282"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "爱德华时代阶级背景。",
+      "'连接'的哲学。"
+    ],
+    "editions": [
+      "《霍华德庄园》（人民文学出版社/上海译文版本，通说待核）。",
+      "英文原版（公有领域渐近）。"
+    ],
+    "order": "先本作后《印度之行》。"
+  },
+  "pending": [
+    "1910年出版（Edward Arnold说）核对。",
+    "施莱格尔/威尔科克斯人名核对。",
+    "1992年电影（Merchant Ivory）待核。"
+  ],
+  "sources": [
+    "B282"
+  ],
+  "year_source": "B282",
+  "author_source": "B282",
+  "related_works": [
+    "yinduzhixing",
+    "aosailuo",
+    "嘉莉妹妹"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《霍华德庄园》连接结构图",
+    "cards": [
+      {
+        "title": "施莱格尔姐妹",
+        "text": "liberal imagination（B282）",
+        "color": "main"
+      },
+      {
+        "title": "威尔科克斯家",
+        "text": "commerce-minded",
+        "color": "antagonist"
+      },
+      {
+        "title": "霍华德庄园",
+        "text": "贴近土地的房子",
+        "color": "gold"
+      },
+      {
+        "title": "唯有连接",
+        "text": "作者的座右铭（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
