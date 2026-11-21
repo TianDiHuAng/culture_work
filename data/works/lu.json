@@ -1,0 +1,106 @@
+{
+  "id": "lu",
+  "title": "路",
+  "original_title": "The Road",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "21世纪初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mccarthy",
+  "author_name": "科马克·麦卡锡",
+  "year_display": "2006年（Britannica B328：The Road (2006)——获2007年普利策奖）",
+  "year_sort": 2006,
+  "background": [
+    "Britannica（B328）：The Road——后末日故事，写父子在未指明的灾变后求生（'Post-apocalyptic tale of a father and son surviving an unspecified disaster'）；获2007年普利策奖。",
+    "Britannica（B328）：批评界在其中发现'a new emotional depth and a note of redemption'（新的情感深度与救赎的音符）。",
+    "作者页（B328）：麦卡锡此前以《血色子午线》(1985)'hailed as his masterpiece'——本作为其赢得大众声誉阶段的顶点。"
+  ],
+  "outline": [
+    "父子推着购物车沿公路南行：寒冷、饥饿与同类的威胁（B328：father and son surviving an unspecified disaster；行程细节通说待核）。",
+    "'带着火'前行——善在废墟中的延续（'火'意象通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "父亲",
+      "identity": "无名",
+      "note": "（通说待核，B328未载名字）"
+    },
+    {
+      "name": "儿子",
+      "identity": "无名",
+      "note": "（通说待核，B328未载）"
+    }
+  ],
+  "themes": [
+    "废墟中的父子之情（B328：new emotional depth）。",
+    "'救赎的音符'——末日中的善（B328：a note of redemption）。",
+    "'死亡不可避免'的底色（B328 讣闻语境：a sense of the inevitability of death）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Road (2006)——2007年普利策奖（B328）。",
+      "source": "B328"
+    },
+    {
+      "text": "Britannica：'a new emotional depth and a note of redemption'（B328）。",
+      "source": "B328"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "极简文风与无标点对话（风格通说待核）。",
+      "后末日类型传统。"
+    ],
+    "editions": [
+      "《路》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "麦卡锡入门首选；进阶读《血色子午线》。"
+  },
+  "pending": [
+    "父子无名设定核对（B328未载名字）。",
+    "2006年出版（Knopf说）待核。",
+    "'火'意象说法待核。",
+    "2009年电影改编待核。"
+  ],
+  "sources": [
+    "B328"
+  ],
+  "year_source": "B328",
+  "author_source": "B328",
+  "related_works": [
+    "xueseziwuxian",
+    "wuhao",
+    "xinshigudeLieshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《路》父子结构图",
+    "cards": [
+      {
+        "title": "父亲",
+        "text": "护子的最后旅程（B328语境）",
+        "color": "main"
+      },
+      {
+        "title": "儿子",
+        "text": "'带着火'（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "公路",
+        "text": "向南的求生（B328）",
+        "color": "family"
+      },
+      {
+        "title": "灾变",
+        "text": "未指明的末日（B328）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

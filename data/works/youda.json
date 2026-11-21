@@ -1,0 +1,105 @@
+{
+  "id": "youda",
+  "title": "犹大",
+  "original_title": "Ha-Beśorah ʿal-pi Yehudah（Judas）",
+  "region": "以色列",
+  "era": "现当代",
+  "era_detail": "21世纪10年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "希伯来语",
+  "author_id": "aoz",
+  "author_name": "阿摩司·奥兹",
+  "year_display": "2014年（Britannica B329：Judas (2014)——received the German Internationaler Literaturpreis in 2015）",
+  "year_sort": 2014,
+  "background": [
+    "Britannica（B329）：Judas——获2015年德国 Internationaler Literaturpreis（国际文学奖）。",
+    "作者页（B329）：奥兹——'in whose works Israeli society is unapologetically scrutinized'；回忆录《爱与黑暗的故事》(2002)后重返小说。",
+    "题材（通说待核）：耶路撒冷的青年学者与神秘老人家中'犹太人犹大'的隐居者——对犹大形象的翻案与以色列建国争论。"
+  ],
+  "outline": [
+    "青年学者入住老人宅邸——与隐居老人及其照护者的三角（情节通说待核——B329未载剧情）。",
+    "'犹大'的重新解读：从叛徒到另一层含义（翻案论述通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "什穆埃尔",
+      "identity": "青年学者",
+      "note": "（通说待核，B329未载）"
+    },
+    {
+      "name": "格罗法纳斯老人",
+      "identity": "隐居者",
+      "note": "（通说待核，B329未载）"
+    }
+  ],
+  "themes": [
+    "犹大形象的翻案（通说待核）。",
+    "以色列建国路线之争——'毫不留情的审视'（B329：unapologetically scrutinized）。",
+    "1959-60年代耶路撒冷（时代背景通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Judas (2014)——2015年 Internationaler Literaturpreis（B329）。",
+      "source": "B329"
+    },
+    {
+      "text": "Britannica：奥兹作品对以色列社会的审视定位（B329）。",
+      "source": "B329"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "犹大在基督教与犹太传统中的双重形象。",
+      "以色列建国史争论。"
+    ],
+    "editions": [
+      "《犹大》中译本（译林出版社——通说待核）。",
+      "希伯来文原版。"
+    ],
+    "order": "奥兹进阶；先读回忆录《爱与黑暗的故事》。"
+  },
+  "pending": [
+    "什穆埃尔/格罗法纳斯人名核对（B329未载）。",
+    "2014年出版（Keter说）待核。",
+    "'翻案'论述细节待核。"
+  ],
+  "sources": [
+    "B329"
+  ],
+  "year_source": "B329",
+  "author_source": "B329",
+  "related_works": [
+    "aiyuheandegushi",
+    "ezhihua",
+    "renshijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《犹大》翻案结构图",
+    "cards": [
+      {
+        "title": "犹大",
+        "text": "叛徒的另一面（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "青年学者",
+        "text": "入宅的局外人（通说）",
+        "color": "main"
+      },
+      {
+        "title": "老人宅",
+        "text": "隐居的秘密（通说）",
+        "color": "family"
+      },
+      {
+        "title": "建国争论",
+        "text": "社会的审视（B329）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

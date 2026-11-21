@@ -1,0 +1,110 @@
+{
+  "id": "bolidongwuyuan",
+  "title": "玻璃动物园",
+  "original_title": "The Glass Menagerie",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪40年代",
+  "genre": "戏剧（回忆剧）",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "twilliams",
+  "author_name": "田纳西·威廉斯",
+  "year_display": "1944年（Britannica B326：The Glass Menagerie (1944)；1945年百老汇首演说通说待核）",
+  "year_sort": 1944,
+  "background": [
+    "Britannica（B326）：'In it Williams portrayed a declassed Southern family living in a tenement.'——剧中描写一个没落的南方家庭蜗居廉价公寓。",
+    "作者页（B326）：威廉斯流派 Southern gothic；'plays reveal a world of human frustration in which sex and violence underlie an atmosphere of romantic gentility'。",
+    "题材（通说待核）：跛足女儿劳拉与她的玻璃动物收藏、母亲阿曼达的过往执念、儿子汤姆的出走。"
+  ],
+  "outline": [
+    "没落南方家庭：母亲温德的过去、女儿的封闭与玻璃动物、儿子的出走（细节通说待核——B326未载剧情）。",
+    "'绅士访客'来访与幻想的破灭（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "阿曼达",
+      "identity": "母亲",
+      "note": "（通说待核，B326未载）"
+    },
+    {
+      "name": "劳拉",
+      "identity": "跛足女儿",
+      "note": "（通说待核，B326未载）"
+    },
+    {
+      "name": "汤姆",
+      "identity": "儿子/叙述者",
+      "note": "（通说待核，B326未载）"
+    }
+  ],
+  "themes": [
+    "'没落'家庭与廉价公寓（B326：declassed Southern family living in a tenement）。",
+    "玻璃动物园：易碎的自我庇护（通说待核）。",
+    "回忆剧的形式——叙述者穿梭记忆（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Glass Menagerie (1944)——威廉斯成名作（作者页定位：此后1947年即以《欲望号街车》获普利策——B326）。",
+      "source": "B326"
+    },
+    {
+      "text": "Britannica：Southern gothic 流派标注（B326）。",
+      "source": "B326"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "回忆剧的叙述结构。",
+      "大萧条时代圣路易斯背景（通说待核）。"
+    ],
+    "editions": [
+      "《玻璃动物园》中译本（人民文学/上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "威廉斯入门首选，再读《欲望号街车》。"
+  },
+  "pending": [
+    "1944年首演（芝加哥说）与1945百老汇说核对。",
+    "阿曼达/劳拉/汤姆人名核对（B326未载）。",
+    "'回忆剧'（memory play）术语归属待核。"
+  ],
+  "sources": [
+    "B326"
+  ],
+  "year_source": "B326",
+  "author_source": "B326",
+  "related_works": [
+    "yuwanghaojieche",
+    "leiyu",
+    "xinshigudeLieshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《玻璃动物园》庇护结构图",
+    "cards": [
+      {
+        "title": "劳拉",
+        "text": "玻璃动物般的易碎（通说）",
+        "color": "main"
+      },
+      {
+        "title": "阿曼达",
+        "text": "过时的门第执念（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "廉价公寓",
+        "text": "'没落家庭的蜗居'（B326）",
+        "color": "family"
+      },
+      {
+        "title": "出走",
+        "text": "汤姆的逃离（通说）",
+        "color": "gold"
+      }
+    ]
+  }
+}

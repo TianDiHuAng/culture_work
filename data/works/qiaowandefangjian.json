@@ -1,0 +1,105 @@
+{
+  "id": "qiaowandefangjian",
+  "title": "乔瓦尼的房间",
+  "original_title": "Giovanni's Room",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "jbaldwin",
+  "author_name": "詹姆斯·鲍德温",
+  "year_display": "1956年（Britannica B327：Giovanni's Room (1956)——Knopf拒稿后由Dial Press接受）",
+  "year_sort": 1956,
+  "background": [
+    "Britannica（B327）：Giovanni's Room——被 Knopf 以同性恋题材为由退稿，后由 Dial Press 接受出版。",
+    "作者页（B327）：鲍德温首作《向苍天呼吁》（1953）为其'semiautobiographical first and finest novel'；本剧为转向巴黎与性向题材的第二作。",
+    "题材（通说待核）：美国青年大卫在巴黎与意大利酒保乔瓦尼的感情——自我否认与毁灭。"
+  ],
+  "outline": [
+    "大卫在巴黎与乔瓦尼的恋情及其自我否认（情节通说待核——B327未载剧情）。",
+    "订婚的未婚妻与两个'房间'的抉择（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "大卫",
+      "identity": "美国青年",
+      "note": "（通说待核，B327未载）"
+    },
+    {
+      "name": "乔瓦尼",
+      "identity": "酒保",
+      "note": "（通说待核，B327未载）"
+    }
+  ],
+  "themes": [
+    "自我否认与身份的囚室（通说待核）。",
+    "1950年代同性恋题材的出版史（B327：Knopf拒稿、Dial Press接受）。",
+    "流亡巴黎的美国人（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Giovanni's Room 出版史——Knopf退稿、Dial Press接受（B327）。",
+      "source": "B327"
+    },
+    {
+      "text": "Britannica：鲍德温小说列表第二作（B327）。",
+      "source": "B327"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1950年代性向语境。",
+      "巴黎美国流亡者圈。"
+    ],
+    "editions": [
+      "《乔瓦尼的房间》中译本（人民文学/上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "鲍德温第二作；与《向苍天呼吁》对照读。"
+  },
+  "pending": [
+    "大卫/乔瓦尼/赫拉人名核对（B327未载）。",
+    "1956年出版（Dial Press说）待核。",
+    "退稿信内容（'发育不良'说）待核。"
+  ],
+  "sources": [
+    "B327"
+  ],
+  "year_source": "B327",
+  "author_source": "B327",
+  "related_works": [
+    "xiangtianhuhan",
+    "zise",
+    "kanbujian3"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《乔瓦尼的房间》囚室结构图",
+    "cards": [
+      {
+        "title": "大卫",
+        "text": "自我否认（通说）",
+        "color": "main"
+      },
+      {
+        "title": "乔瓦尼",
+        "text": "巴黎的房间（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "退稿",
+        "text": "出版史1956（B327）",
+        "color": "family"
+      },
+      {
+        "title": "未婚妻",
+        "text": "两个房间（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

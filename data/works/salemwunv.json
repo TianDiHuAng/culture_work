@@ -1,0 +1,105 @@
+{
+  "id": "salemwunv",
+  "title": "萨勒姆的女巫",
+  "original_title": "The Crucible",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪50年代",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "英语",
+  "author_id": "amiller",
+  "author_name": "阿瑟·米勒",
+  "year_display": "1953年（Britannica B325：The Crucible (1953)——based on the Salem witch trials, seen as echoing McCarthyism；获Tony奖）",
+  "year_sort": 1953,
+  "background": [
+    "Britannica（B325）：The Crucible——以塞勒姆审巫案为题材，被视为对麦卡锡主义的回应（'based on the Salem witch trials, seen as echoing McCarthyism'）；获Tony奖。",
+    "作者页（B325）：米勒把'普通人'置于悲剧中心；本剧与其《推销员之死》（1949）为同一时期两大名作。",
+    "历史背景（通说待核）：1692年马萨诸塞州塞勒姆村审巫事件。"
+  ],
+  "outline": [
+    "塞勒姆审巫事件：少女们的指控蔓延为猎巫狂潮（审巫史实细节通说待核——B325未载剧情）。",
+    "诚实者在拒绝诬告中赴死——个人良知与集体狂热（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "约翰·普罗克特",
+      "identity": "农夫",
+      "note": "（通说待核，B325未载）"
+    },
+    {
+      "name": "艾比盖尔",
+      "identity": "指控者",
+      "note": "（通说待核，B325未载）"
+    }
+  ],
+  "themes": [
+    "审巫狂热与政治迫害的互文（B325：seen as echoing McCarthyism）。",
+    "个人良知对抗集体狂热（通说待核）。",
+    "'名'与'命'：名声社会的道德困境（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Crucible (1953) 获Tony奖（B325）。",
+      "source": "B325"
+    },
+    {
+      "text": "Britannica：被视为对麦卡锡主义的回应（B325）。",
+      "source": "B325"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "1692年塞勒姆审巫史。",
+      "清教社区语境。"
+    ],
+    "editions": [
+      "《萨勒姆的女巫》（人民文学出版社《阿瑟·米勒戏剧集》等版本——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "与《推销员之死》并读：米勒两大高峰。"
+  },
+  "pending": [
+    "约翰·普罗克特/艾比盖尔人名核对（B325未载）。",
+    "中译名两说（《萨勒姆的女巫》/《炼狱》）待核。",
+    "1953年首演细节（Martin Beck Theatre说）待核。"
+  ],
+  "sources": [
+    "B325"
+  ],
+  "year_source": "B325",
+  "author_source": "B325",
+  "related_works": [
+    "tuixiaoyuanzhisi",
+    "leiyu",
+    "yingtaoyuan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《萨勒姆的女巫》狂热结构图",
+    "cards": [
+      {
+        "title": "指控",
+        "text": "审巫的蔓延（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "普罗克特",
+        "text": "良知与赴死（通说）",
+        "color": "main"
+      },
+      {
+        "title": "麦卡锡主义",
+        "text": "现实的回声（B325）",
+        "color": "gold"
+      },
+      {
+        "title": "塞勒姆",
+        "text": "1692年（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
