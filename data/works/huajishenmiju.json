@@ -1,0 +1,100 @@
+{
+  "id": "huajishenmiju",
+  "title": "滑稽神秘剧",
+  "original_title": "Mistero Buffo",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪70年代",
+  "genre": "独角戏（系列）",
+  "genre_group": "戏剧",
+  "language": "意大利语（方言）",
+  "author_id": "dariofo",
+  "author_name": "达里奥·福",
+  "year_display": "1973年（Britannica B383：Mistero Buffo (1973)——'solo tour de force'）",
+  "year_sort": 1973,
+  "background": [
+    "Britannica（B383）：'solo tour de force'——'based on medieval mystery plays but so topical that the shows changed with each audience'（基于中世纪神秘剧，但如此切合时事以致随观众而变）。",
+    "Britannica（B383）：福——giullare（中世纪游吟艺人）传统的复兴者（Lu santo jullàre Françesco 1999 交叉）。",
+    "题材（通说待核）：福的独白戏仿：圣母的'方言诉苦'与穷人的福音。"
+  ],
+  "outline": [
+    "（通说待核）福音故事的方言戏仿：'松子圣母'等段落（段名通说待核）。",
+    "（通说待核）'随观众而变'的即兴（B383）。"
+  ],
+  "characters": [
+    {
+      "name": "游吟艺人（福）",
+      "identity": "独角讲述者",
+      "note": "（B383：solo tour de force）"
+    }
+  ],
+  "themes": [
+    "'中世纪神秘剧'的现代滑稽（B383）。",
+    "方言的政治（通说待核）。",
+    "穷人的福音（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'solo tour de force'（B383）。",
+      "source": "B383"
+    },
+    {
+      "text": "Britannica：1997诺奖（B383 交叉）。",
+      "source": "B383"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "方言独白的语感。",
+      "'神秘剧'的中世纪底本。"
+    ],
+    "editions": [
+      "《滑稽神秘剧》中译本（人民文学等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "达里奥·福独角戏首选；与《意外死亡》对读。"
+  },
+  "pending": [
+    "段落名（《松子圣母》说——通说）核对。",
+    "1973年首演细节待核。",
+    "'即兴'的版本差异待核（B383：changed with each audience）。"
+  ],
+  "sources": [
+    "B383"
+  ],
+  "year_source": "B383",
+  "author_source": "B383",
+  "related_works": [
+    "yigewuzhengfuzhisi",
+    "toutougeonv",
+    "xiniu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《滑稽神秘剧》方言戏仿图",
+    "cards": [
+      {
+        "title": "神秘剧",
+        "text": "中世纪的底本（B383）",
+        "color": "family"
+      },
+      {
+        "title": "方言",
+        "text": "穷人的福音（通说）",
+        "color": "main"
+      },
+      {
+        "title": "独角",
+        "text": "'tour de force'（B383）",
+        "color": "gold"
+      },
+      {
+        "title": "时事",
+        "text": "随观众而变（B383）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

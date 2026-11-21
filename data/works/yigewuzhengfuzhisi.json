@@ -1,0 +1,105 @@
+{
+  "id": "yigewuzhengfuzhisi",
+  "title": "一个无政府主义者的意外死亡",
+  "original_title": "Morte accidentale di un anarchico",
+  "region": "意大利",
+  "era": "现当代",
+  "era_detail": "20世纪70年代初",
+  "genre": "戏剧",
+  "genre_group": "戏剧",
+  "language": "意大利语",
+  "author_id": "dariofo",
+  "author_name": "达里奥·福",
+  "year_display": "1970年（Britannica B383：Morte accidentale di un anarchico (1970)——最受欢迎剧作之列）",
+  "year_sort": 1970,
+  "background": [
+    "Britannica（B383）：最受欢迎剧作之列（'listed among his most popular plays'）。",
+    "Britannica（B383）：福——遭'government censure as a theatrical caricaturist with a flair for social agitation'。",
+    "题材（通说待核）：1969年米兰炸案与'坠楼'的无政府主义者皮内利——疯子警探的'调查'（真相取材于真实案件说通说待核）。"
+  ],
+  "outline": [
+    "（通说待核）'疯子'冒充法官重审'意外死亡'案。",
+    "（通说待核）警方的谎言与'第N次坠楼'。"
+  ],
+  "characters": [
+    {
+      "name": "疯子（Il Matto）",
+      "identity": "假法官",
+      "note": "（通说待核，B383未载）"
+    },
+    {
+      "name": "警长",
+      "identity": "体制的口舌",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'意外死亡'的官方叙事（书名语境——通说待核）。",
+    "闹剧的抗议（B383：social agitation）。",
+    "commedia dell'arte 的当代变身（B383）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'listed among his most popular plays'（B383）。",
+      "source": "B383"
+    },
+    {
+      "text": "Britannica：1997诺奖（B383 交叉）。",
+      "source": "B383"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "真实案件底本（皮内利案说——通说待核）。",
+      "闹剧节奏与即兴。"
+    ],
+    "editions": [
+      "《一个无政府主义者的意外死亡》中译本（人民文学等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "达里奥·福首选；与《滑稽神秘剧》对读。"
+  },
+  "pending": [
+    "皮内利案（1969 Piazza Fontana案说）细节待核。",
+    "1970年首演细节待核。",
+    "'疯子'角色细节待核。"
+  ],
+  "sources": [
+    "B383"
+  ],
+  "year_source": "B383",
+  "author_source": "B383",
+  "related_works": [
+    "xiniu",
+    "toutougeonv",
+    "richu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一个无政府主义者的意外死亡》闹剧调查图",
+    "cards": [
+      {
+        "title": "疯子",
+        "text": "假法官的重审（通说）",
+        "color": "main"
+      },
+      {
+        "title": "坠楼",
+        "text": "'意外'的官方叙事（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "闹剧",
+        "text": "抗议的形态（B383）",
+        "color": "gold"
+      },
+      {
+        "title": "米兰",
+        "text": "1969年的案件（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

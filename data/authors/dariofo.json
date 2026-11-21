@@ -1,0 +1,68 @@
+{
+  "id": "dariofo",
+  "name": "达里奥·福",
+  "foreign_name": "Dario Fo（达里奥·福，1926-03-24—2016-10-13）",
+  "country": "意大利",
+  "birth": 1926,
+  "death": 2016,
+  "birth_year": 1926,
+  "death_year": 2016,
+  "era": "现当代",
+  "summary": "达里奥·福，意大利Leggiuno-Sangiano生，剧作家、导演与哑剧演员——1997年诺贝尔文学奖（B383）。Mistero Buffo（滑稽神秘剧, 1973）——'solo tour de force'——'based on medieval mystery plays but so topical that the shows changed with each audience'（B383）。Morte accidentale di un anarchico（一个无政府主义者的意外死亡, 1970）——最受欢迎剧作之列（B383）。遭'government censure as a theatrical caricaturist with a flair for social agitation'（B383）——'often blasphemous and scatological but rooted in the tradition of commedia dell'arte'混以'unofficial leftism'（B383）。妻 Franca Rame 合作；创团 La Comune (1970)——'they began to tour factories, parks, and gymnasiums'（B383）。80余剧（B383）。",
+  "timeline": [
+    {
+      "year": 1926,
+      "text": "3月24日生于意大利Leggiuno-Sangiano（B383）。",
+      "src": "B383"
+    },
+    {
+      "year": 1970,
+      "text": "《一个无政府主义者的意外死亡》——最受欢迎剧作之列（B383）。",
+      "src": "B383"
+    },
+    {
+      "year": 1970,
+      "text": "创 La Comune 剧团——巡演工厂、公园与体育馆（B383）。",
+      "src": "B383"
+    },
+    {
+      "year": 1997,
+      "text": "获诺贝尔文学奖（B383）。",
+      "src": "B383"
+    },
+    {
+      "year": 2016,
+      "text": "10月13日卒于米兰（B383）。",
+      "src": "B383"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yigewuzhengfuzhisi",
+      "note": "1970（B383）"
+    },
+    {
+      "work_id": "huajishenmiju",
+      "note": "1973（B383）"
+    },
+    {
+      "title": "我们不能付钱？我们不付！",
+      "note": "（B383：We Can't Pay? We Won't Pay! (1974)——中译名待核）"
+    }
+  ],
+  "style": [
+    "'中世纪神秘剧'的现代滑稽化（B383：Mistero Buffo）。",
+    "commedia dell'arte 传统+'非官方左翼'（B383）。",
+    "giullare（游吟艺人）传统的复兴（B383：Lu santo jullàre Françesco）。"
+  ],
+  "status": "Britannica 定位达里奥·福为1997诺奖得主、遭政府审查的'社会鼓动型'戏剧讽刺家（B383）。",
+  "sources": [
+    "B383"
+  ],
+  "dates_source": "B383",
+  "pending": [
+    "《滑稽神秘剧》通行译名（《滑稽神秘剧》）待核。",
+    "与 Franca Rame 合作剧清单待核。",
+    "'80余剧'总数口径待核。"
+  ]
+}
