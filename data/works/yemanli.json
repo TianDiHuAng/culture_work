@@ -1,0 +1,101 @@
+{
+  "id": "yemanli",
+  "title": "野蛮颂",
+  "original_title": "Odi barbare",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "19世纪70年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "carducci",
+  "author_name": "焦苏埃·卡尔杜齐",
+  "year_display": "1877年（Britannica B345：Odi barbare (1877)——仿贺拉斯与维吉尔格律）",
+  "year_sort": 1877,
+  "background": [
+    "Britannica（B345）：Odi barbare——'written in metres imitative of Horace and Virgil'（以仿贺拉斯、维吉尔的格律写成）——'recalling Roman glory and classical pagan happiness'（追忆罗马荣光与古典异教幸福）。",
+    "Britannica（B345）：与 Rime nuove (1887) 一起'contain the best of Carduccis poetry'（卡杜齐诗歌之最佳）。",
+    "Britannica（B345）：诗人——'enthusiasm for the classical in art led him to adapt Latin prosody to Italian verse'。"
+  ],
+  "outline": [
+    "古典格律的意大利移植：萨福体/阿尔凯奥斯体等（格律细节通说待核——B345未载具体诗目）。",
+    "罗马荣光与异教幸福的挽歌化（B345：Roman glory and classical pagan happiness）。",
+    "'独子之殇'的哀歌（B345：the lament for the loss of his only son——篇目归属通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "古典主义者",
+      "note": "（B345 语境）"
+    }
+  ],
+  "themes": [
+    "古典格律的现代移植（B345）。",
+    "反浪漫主义的诗学宣言（B345：青年时领导回归古典的团体）。",
+    "罗马与异教的荣光（B345）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：1906年诺贝尔文学奖（B345）。",
+      "source": "B345"
+    },
+    {
+      "text": "Britannica：'one of the most influential literary figures of his age'（B345）。",
+      "source": "B345"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "古典格律（萨福体等）。",
+      "意大利统一时代的政治语境（共和反教权——B345）。"
+    ],
+    "editions": [
+      "《野蛮颂》中译本（人民文学/译林等——通说待核）。",
+      "意大利文原版。"
+    ],
+    "order": "卡杜齐首选；后接《新韵》(1887)。"
+  },
+  "pending": [
+    "具体篇目与格律名核对（B345未载）。",
+    "'独子'哀歌篇目归属待核。",
+    "中译名两说（《野蛮颂》/《野蛮的诗》）待核。"
+  ],
+  "sources": [
+    "B345"
+  ],
+  "year_source": "B345",
+  "author_source": "B345",
+  "related_works": [
+    "geti",
+    "xuboliweng",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《野蛮颂》古典移植图",
+    "cards": [
+      {
+        "title": "拉丁格律",
+        "text": "移植入意语（B345）",
+        "color": "gold"
+      },
+      {
+        "title": "罗马",
+        "text": "荣光与异教幸福（B345）",
+        "color": "main"
+      },
+      {
+        "title": "反浪漫主义",
+        "text": "回归古典（B345）",
+        "color": "antagonist"
+      },
+      {
+        "title": "哀歌",
+        "text": "独子之殇（B345）",
+        "color": "family"
+      }
+    ]
+  }
+}

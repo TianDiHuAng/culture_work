@@ -1,0 +1,104 @@
+{
+  "id": "zhijiage",
+  "title": "芝加哥诗集",
+  "original_title": "Chicago Poems",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪10年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "sandburg",
+  "author_name": "卡尔·桑德堡",
+  "year_display": "1916年（Britannica B346：Chicago Poems——1914年组诗刊于Poetry杂志、1916年成书）",
+  "year_sort": 1916,
+  "background": [
+    "Britannica（B346）：'Chicago'——'Hog Butcher, Tool Maker, Stacker of Wheat, Player with Railroads and Freight Handler to the Nation'——城市即工人、机器与肉。",
+    "Britannica（B346）：桑德堡的大萧条诗集 The People, Yes (1936)——'a poetic testament to the power of the people to go forward'。",
+    "Britannica（B346）：引文——'Pittsburgh, Youngstown, Gary, they make their steel with men'（Smoke and Steel, 1920——钢是用人炼的）。"
+  ],
+  "outline": [
+    "'芝加哥'：城市的自我命名与辩护（B346：五重头衔——诗中通说待核细节）。",
+    "工人、钢铁与'人民'的抒情（B346 语系）。"
+  ],
+  "characters": [
+    {
+      "name": "芝加哥",
+      "identity": "被拟人化的城市",
+      "note": "（B346：'Chicago'一诗）"
+    },
+    {
+      "name": "'人民'",
+      "identity": "集体主角",
+      "note": "（B346：The People, Yes 语系）"
+    }
+  ],
+  "themes": [
+    "工业城市的自我辩护（B346：'Chicago'）。",
+    "'人民'的史诗（B346：The People, Yes——'the power of the people to go forward'）。",
+    "以人炼钢（B346：'they make their steel with men'）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：芝加哥诗歌传统的命名之作（B346 定位）。",
+      "source": "B346"
+    },
+    {
+      "text": "Britannica：Lincoln: The War Years 获1940普利策历史奖（B346）。",
+      "source": "B346"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自由体的工业节奏。",
+      "芝加哥屠宰场与铁路史。"
+    ],
+    "editions": [
+      "《芝加哥诗集》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "桑德堡首选；后接《钢与烟》《人民，是的》。"
+  },
+  "pending": [
+    "'Chicago'全诗引文核对（五重头衔原文B346已载）。",
+    "1914年 Poetry 杂志首发期数待核。",
+    "与惠特曼传统的比较说法待核。"
+  ],
+  "sources": [
+    "B346"
+  ],
+  "year_source": "B346",
+  "author_source": "B346",
+  "related_works": [
+    "caoyeji",
+    "tuyuzhizideneizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《芝加哥诗集》城市图",
+    "cards": [
+      {
+        "title": "芝加哥",
+        "text": "五重头衔的城（B346）",
+        "color": "main"
+      },
+      {
+        "title": "工人",
+        "text": "'以人炼钢'（B346）",
+        "color": "gold"
+      },
+      {
+        "title": "人民",
+        "text": "向前的力量（B346）",
+        "color": "family"
+      },
+      {
+        "title": "机器",
+        "text": "铁路与屠宰场",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

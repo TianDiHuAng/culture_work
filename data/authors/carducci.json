@@ -1,0 +1,73 @@
+{
+  "id": "carducci",
+  "name": "焦苏埃·卡尔杜齐",
+  "foreign_name": "Giosuè Carducci（焦苏埃·卡尔杜齐，1835-07-27—1907-02-16）",
+  "country": "意大利",
+  "birth": 1835,
+  "death": 1907,
+  "birth_year": 1835,
+  "death_year": 1907,
+  "era": "近代",
+  "summary": "卡尔杜齐，托斯卡纳Val di Castello生，意大利诗人——1906年诺贝尔文学奖；'one of the most influential literary figures of his age'（其时代最有影响的文学人物之一——B345）。古典学家：'Carduccis enthusiasm for the classical in art led him to adapt Latin prosody to Italian verse'（把拉丁格律移植入意语诗——B345）；青年时领导推翻浪漫主义、回归古典的团体（B345）。'Inno a Satana'（撒旦颂, 1863）显其共和反教权情绪（B345）；Odi barbare（野蛮颂, 1877）仿贺拉斯与维吉尔格律，追忆罗马荣光与古典异教幸福（B345）；与 Rime nuove（新韵, 1887）'contain the best of Carduccis poetry'（B345）。1860年任博洛尼亚意大利文学教授、1890年终身参议员（B345）。",
+  "timeline": [
+    {
+      "year": 1835,
+      "text": "7月27日生于托斯卡纳Val di Castello（B345）。",
+      "src": "B345"
+    },
+    {
+      "year": 1860,
+      "text": "任博洛尼亚大学意大利文学教授（B345）。",
+      "src": "B345"
+    },
+    {
+      "year": 1863,
+      "text": "'Inno a Satana'（撒旦颂）——共和反教权（B345）。",
+      "src": "B345"
+    },
+    {
+      "year": 1877,
+      "text": "Odi barbare（野蛮颂）——拉丁格律的意语移植（B345）。",
+      "src": "B345"
+    },
+    {
+      "year": 1906,
+      "text": "获诺贝尔文学奖（B345）。",
+      "src": "B345"
+    },
+    {
+      "year": 1907,
+      "text": "2月16日卒于博洛尼亚（B345）。",
+      "src": "B345"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "yemanli",
+      "note": "1877（B345）"
+    },
+    {
+      "title": "新韵",
+      "note": "（B345：Rime nuove (1887)——中译名待核）"
+    },
+    {
+      "title": "撒旦颂",
+      "note": "（B345：Inno a Satana, 1863）"
+    }
+  ],
+  "style": [
+    "拉丁格律的意大利移植（B345）。",
+    "共和反教权的政治抒情（B345：'Inno a Satana'）。",
+    "'violent, bitter language'的政治讽刺（B345：Giambi ed epodi）。"
+  ],
+  "status": "Britannica 定位卡尔杜齐为其时代最有影响的意大利文学人物、1906年诺奖得主（B345）。",
+  "sources": [
+    "B345"
+  ],
+  "dates_source": "B345",
+  "pending": [
+    "Odi barbare 通行中译名（《野蛮颂》）待核。",
+    "'独子之殇'细节（B345：the lament for the loss of his only son）待核。",
+    "1906诺奖授奖理由细节待核。"
+  ]
+}

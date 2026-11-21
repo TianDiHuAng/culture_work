@@ -1,0 +1,68 @@
+{
+  "id": "sandburg",
+  "name": "卡尔·桑德堡",
+  "foreign_name": "Carl Sandburg（卡尔·桑德堡，1878-01-06—1967-07-22）",
+  "country": "美国",
+  "birth": 1878,
+  "death": 1967,
+  "birth_year": 1878,
+  "death_year": 1967,
+  "era": "现当代",
+  "summary": "桑德堡，伊利诺伊州Galesburg生，美国诗人、林肯传记作者——Chicago Poems 组诗1914年刊于 Poetry、1916年成书（B346）。'Chicago'——'Hog Butcher, Tool Maker, Stacker of Wheat, Player with Railroads and Freight Handler to the Nation'（屠夫、工具匠、麦垛工、铁路玩家、全国的货运员——B346）。The People, Yes (1936)——大萧条中——'a poetic testament to the power of the people to go forward'（B346）。Abraham Lincoln: The Prairie Years 两卷 (1926)、The War Years 四卷 (1939)——后者获1940年普利策历史奖（B346）。引文：'Pittsburgh, Youngstown, Gary, they make their steel with men'（Smoke and Steel, 1920——B346）。",
+  "timeline": [
+    {
+      "year": 1878,
+      "text": "1月6日生于伊利诺伊州Galesburg（B346）。",
+      "src": "B346"
+    },
+    {
+      "year": 1916,
+      "text": "Chicago Poems 成书（1914年组诗刊于Poetry杂志——B346）。",
+      "src": "B346"
+    },
+    {
+      "year": 1926,
+      "text": "Lincoln: The Prairie Years 两卷（B346）。",
+      "src": "B346"
+    },
+    {
+      "year": 1940,
+      "text": "Lincoln: The War Years 获普利策历史奖（B346）。",
+      "src": "B346"
+    },
+    {
+      "year": 1967,
+      "text": "7月22日卒于北卡州Flat Rock（B346）。",
+      "src": "B346"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "zhijiage",
+      "note": "1916（B346）"
+    },
+    {
+      "title": "钢与烟",
+      "note": "（B346：Smoke and Steel (1920)——中译名待核）"
+    },
+    {
+      "title": "人民，是的",
+      "note": "（B346：The People, Yes (1936)）"
+    }
+  ],
+  "style": [
+    "城市工业意象：屠夫/工具匠/麦垛（B346）。",
+    "'人民'的史诗声音（B346：The People, Yes）。",
+    "民歌收集者（B346：The American Songbag (1927)）。"
+  ],
+  "status": "Britannica 定位桑德堡为芝加哥诗歌的代表、普利策历史奖得主（B346）。",
+  "sources": [
+    "B346"
+  ],
+  "dates_source": "B346",
+  "pending": [
+    "'Chicago'全诗通行译文待核。",
+    "Corn Huskers (1918) 未见于 B346—— Pulitzer 诗歌奖说待核。",
+    "1959格莱美奖详情待核。"
+  ]
+}

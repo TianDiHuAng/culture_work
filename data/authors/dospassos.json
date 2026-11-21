@@ -1,0 +1,68 @@
+{
+  "id": "dospassos",
+  "name": "约翰·多斯·帕索斯",
+  "foreign_name": "John Dos Passos（约翰·多斯·帕索斯，1896-01-14—1970-09-28）",
+  "country": "美国",
+  "birth": 1896,
+  "death": 1970,
+  "birth_year": 1896,
+  "death_year": 1970,
+  "era": "现当代",
+  "summary": "多斯·帕索斯，芝加哥生，美国小说家——哈佛1916、一战救护车志愿司机（B347）。U.S.A. 三部曲（The 42nd Parallel, 1930；1919, 1932；The Big Money, 1936）——'the portrait of these two nations'（富者与贫者'两个国家'的肖像——B347）；其'两个国家'观在1927年萨柯-万泽蒂处决后定型（B347）。Manhattan Transfer（曼哈顿中转站, 1925）——'a rapid-transit riders view of the metropolis'（B347）。技巧：'Newsreels'（真报纸标题与流行歌曲蒙太奇）与'camera-eye'（'brief, poetic, personal reminiscences'）；插入福特/爱迪生/威尔逊/摩根/德布斯/凡勃伦/乔·希尔/无名战士的传记（B347）。",
+  "timeline": [
+    {
+      "year": 1896,
+      "text": "1月14日生于芝加哥（B347）。",
+      "src": "B347"
+    },
+    {
+      "year": 1921,
+      "text": "Three Soldiers——反战小说（B347）。",
+      "src": "B347"
+    },
+    {
+      "year": 1925,
+      "text": "Manhattan Transfer（曼哈顿中转站）（B347）。",
+      "src": "B347"
+    },
+    {
+      "year": 1936,
+      "text": "U.S.A. 三部曲完成（The Big Money）（B347）。",
+      "src": "B347"
+    },
+    {
+      "year": 1970,
+      "text": "9月28日卒于巴尔的摩；'his books scarcely received critical attention'（B347）。",
+      "src": "B347"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "meiguobuqu",
+      "note": "U.S.A. 1930-36（B347）"
+    },
+    {
+      "work_id": "manhadundian",
+      "note": "1925（B347）"
+    },
+    {
+      "title": "三个士兵",
+      "note": "（B347：Three Soldiers (1921)——反战）"
+    }
+  ],
+  "style": [
+    "'Newsreel'蒙太奇：报纸标题+流行歌曲（B347）。",
+    "'Camera-eye'：诗性个人回忆流（B347）。",
+    "插入名人传记的拼贴结构（B347）。"
+  ],
+  "status": "Britannica 定位多斯·帕索斯为'两个美国'的编年史家（B347）。",
+  "sources": [
+    "B347"
+  ],
+  "dates_source": "B347",
+  "pending": [
+    "U.S.A. 通行译名（《美国》三部曲）待核。",
+    "camera-eye 通行译名（'摄影机眼'）待核。",
+    "后期转保守的细节待核。"
+  ]
+}

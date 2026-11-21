@@ -1,0 +1,106 @@
+{
+  "id": "meiguobuqu",
+  "title": "美国",
+  "original_title": "U.S.A.",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪30年代",
+  "genre": "长篇小说（三部曲）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dospassos",
+  "author_name": "约翰·多斯·帕索斯",
+  "year_display": "1930-36年（Britannica B347：U.S.A. 三部曲——The 42nd Parallel (1930)、1919 (1932)、The Big Money (1936)）",
+  "year_sort": 1930,
+  "background": [
+    "Britannica（B347）：三部曲——'the portrait of these two nations'（'两个国家'的肖像：富者/特权者与贫者/无权者）。",
+    "Britannica（B347）：其'两个国家'观在1927年萨柯-万泽蒂处决后定型。",
+    "Britannica（B347）：技巧——'Newsreels'（真报纸标题+流行歌曲蒙太奇）、'camera-eye'（'brief, poetic, personal reminiscences'）与名人传记插入（福特/爱迪生/威尔逊/摩根/德布斯/凡勃伦/乔·希尔/无名战士）。"
+  ],
+  "outline": [
+    "《北纬42度》：1900至战前——'两种国家'的萌芽（B347：covering 1900 up to the war）。",
+    "《1919》：战争与凡尔赛；《大钱》：1920年代繁荣至1930年代崩溃（B347）。",
+    "新闻片、摄影机眼与传记的拼贴（B347）。"
+  ],
+  "characters": [
+    {
+      "name": "群像（十余人）",
+      "identity": "交替视点",
+      "note": "（B347：多人物结构——人名通说待核）"
+    },
+    {
+      "name": "无名战士",
+      "identity": "插入传记之一",
+      "note": "（B347：the Unknown Soldier）"
+    }
+  ],
+  "themes": [
+    "'两个国家'：富与贫（B347）。",
+    "蒙太奇拼贴的史诗（B347：Newsreels/camera-eye）。",
+    "萨柯-万泽蒂事件的政治创伤（B347：1927年处决）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the portrait of these two nations'（B347）。",
+      "source": "B347"
+    },
+    {
+      "text": "Britannica：现代主义叙事技术的集大成（B347：技巧清单）。",
+      "source": "B347"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "拼贴结构与多人物。",
+      "1900-1930美国史。"
+    ],
+    "editions": [
+      "《美国》三部曲中译本（人民文学/上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "多斯·帕索斯首选；可先读《曼哈顿中转站》。"
+  },
+  "pending": [
+    "三部曲中文名（《北纬42度》/《一九一九》/《赚大钱》——通说待核）。",
+    "'摄影机眼'译名待核。",
+    "人物名（麦克/珍妮等）核对（B347未载）。"
+  ],
+  "sources": [
+    "B347"
+  ],
+  "year_source": "B347",
+  "author_source": "B347",
+  "related_works": [
+    "leiyu",
+    "xueseziwuxian",
+    "laorenhai"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "U.S.A. 拼贴结构图",
+    "cards": [
+      {
+        "title": "新闻片",
+        "text": "报纸+歌曲蒙太奇（B347）",
+        "color": "gold"
+      },
+      {
+        "title": "摄影机眼",
+        "text": "诗性回忆流（B347）",
+        "color": "main"
+      },
+      {
+        "title": "两个国家",
+        "text": "富与贫的肖像（B347）",
+        "color": "antagonist"
+      },
+      {
+        "title": "传记",
+        "text": "福特/德布斯/无名战士（B347）",
+        "color": "family"
+      }
+    ]
+  }
+}

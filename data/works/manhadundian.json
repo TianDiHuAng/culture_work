@@ -1,0 +1,99 @@
+{
+  "id": "manhadundian",
+  "title": "曼哈顿中转站",
+  "original_title": "Manhattan Transfer",
+  "region": "美国",
+  "era": "现当代",
+  "era_detail": "20世纪20年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "dospassos",
+  "author_name": "约翰·多斯·帕索斯",
+  "year_display": "1925年（Britannica B347：Manhattan Transfer (1925)）",
+  "year_sort": 1925,
+  "background": [
+    "Britannica（B347）：Manhattan Transfer——'a rapid-transit riders view of the metropolis'（一个高速列车乘客眼中的大都会）。",
+    "Britannica（B347）：在十余人之间以'印象派闪现'的方式移动（shifting among more than a dozen characters in impressionistic flashes）。",
+    "与 U.S.A. 的关系：本作为其城市实验，三部曲为全国编年（B347 语境）。"
+  ],
+  "outline": [
+    "曼哈顿的'高速列车视角'：十余人印象派闪现（B347）。",
+    "城市即主角：从移民到摩天楼（情节通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "群像（十余人）",
+      "identity": "交替视点",
+      "note": "（B347：more than a dozen characters——人名通说待核）"
+    }
+  ],
+  "themes": [
+    "大都会的机械化速度（B347：rapid-transit view）。",
+    "印象派的城市蒙太奇（B347：impressionistic flashes）。",
+    "通往 U.S.A. 的技术预演（B347 语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'a rapid-transit riders view of the metropolis'（B347）。",
+      "source": "B347"
+    },
+    {
+      "text": "Britannica：乔伊斯式多线叙事的美国化（通说待核）。",
+      "source": "B347"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多线拼贴（无单一主角）。",
+      "1920年代纽约都市史。"
+    ],
+    "editions": [
+      "《曼哈顿中转站》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "读 U.S.A. 前的技术热身。"
+  },
+  "pending": [
+    "人物名核对（B347未载）。",
+    "1925年出版（Harper说）待核。",
+    "书名直译（'曼哈顿换乘站'）待核。"
+  ],
+  "sources": [
+    "B347"
+  ],
+  "year_source": "B347",
+  "author_source": "B347",
+  "related_works": [
+    "leiyu",
+    "tuyuzhizideneizi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《曼哈顿中转站》速度结构图",
+    "cards": [
+      {
+        "title": "高速列车",
+        "text": "都会的视角（B347）",
+        "color": "main"
+      },
+      {
+        "title": "十余人",
+        "text": "印象派闪现（B347）",
+        "color": "family"
+      },
+      {
+        "title": "曼哈顿",
+        "text": "城市即主角（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "U.S.A.",
+        "text": "技术的预演（B347语境）",
+        "color": "gold"
+      }
+    ]
+  }
+}
