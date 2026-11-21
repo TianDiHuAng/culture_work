@@ -1,0 +1,105 @@
+{
+  "id": "qiniaoxingzhuanglu",
+  "title": "奇鸟行状录",
+  "original_title": "ねじまき鳥クロニクル",
+  "region": "日本",
+  "era": "现当代",
+  "era_detail": "20世纪90年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "日语",
+  "author_id": "murakami",
+  "author_name": "村上春树",
+  "year_display": "1994-95年（作者页注记：Britannica——奇鸟行状录（1994—95））",
+  "year_sort": 1994,
+  "background": [
+    "作者页注记：奇鸟行状录——'（Britannica 列举 1994—95）'。",
+    "Britannica：村上春树——当代日本作家（作者页语境）。",
+    "题材（通说待核）：冈田亨与拧发条鸟——井底的沉思与诺门罕战役的阴影。"
+  ],
+  "outline": [
+    "（通说待核）妻子的失踪与拧发条鸟的叫声。",
+    "（通说待核）诺门罕的历史地狱与井下的通道。"
+  ],
+  "characters": [
+    {
+      "name": "冈田亨",
+      "identity": "失业者",
+      "note": "（通说待核，Britannica未载）"
+    },
+    {
+      "name": "久美子",
+      "identity": "妻子",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "历史创伤的通道（通说待核）。",
+    "'拧发条鸟'的声音（书名语境——通说待核）。",
+    "从都市独白到历史叙事（作者页语境）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：奇鸟行状录 (1994-95)（作者页注记）。",
+      "source": "B169"
+    },
+    {
+      "text": "Britannica：《挪威的森林》为代表作（作者页交叉）。",
+      "source": "B169"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "三部结构（日语三卷说）。",
+      "诺门罕战役史。"
+    ],
+    "editions": [
+      "《奇鸟行状录》中译本（上海译文等——通说待核）。",
+      "日文原版。"
+    ],
+    "order": "村上中期首选；与《海边的卡夫卡》对读。"
+  },
+  "pending": [
+    "冈田亨/久美子人名核对（通说）。",
+    "三卷年份（1994/1995）核对。",
+    "'拧发条鸟'意象细节待核。"
+  ],
+  "sources": [
+    "B169"
+  ],
+  "year_source": "B169",
+  "author_source": "B169",
+  "related_works": [
+    "leiyu",
+    "kanbujian3",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《奇鸟行状录》井底结构图",
+    "cards": [
+      {
+        "title": "拧发条鸟",
+        "text": "声音的引路（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "井底",
+        "text": "沉思的通道（通说）",
+        "color": "main"
+      },
+      {
+        "title": "诺门罕",
+        "text": "历史的创伤（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "失踪",
+        "text": "妻子的缺席（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

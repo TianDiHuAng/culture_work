@@ -10,17 +10,50 @@
   "era": "现当代",
   "summary": "纳博科夫，圣彼得堡贵族家庭出身，俄裔美国小说家。1919年离俄（Britannica：left Russia in 1919），剑桥三一学院；柏林与巴黎俄侨期以'西林'（Sirin）笔名写作俄语小说（通说待核）；1940年赴美、1945年入籍（Britannica：emigrating to the U.S. in 1940, becoming a citizen in 1945）；康奈尔大学教俄国文学（Britannica：Cornell teaching (1948–58) inspired Pnin）。'regarded as the leading émigré author after 1917, writing in both Russian and English'（被公认为1917年后最重要的流亡作家，双语写作——Britannica）。《洛丽塔》（1955）《微暗的火》（1962）《说吧，记忆》《阿达》（1969）（Britannica 列举）。1977年7月2日卒于蒙特勒（瑞士，Britannica）。",
   "timeline": [
-    {"year": "1899-04-23", "text": "生于圣彼得堡（Britannica：born in St. Petersburg to an aristocratic family）。", "src": "B145"},
-    {"year": "1919", "text": "离俄赴英（Britannica：left Russia in 1919）；剑桥三一学院（通说待核）。", "src": "B145"},
-    {"year": "1922", "text": "父在柏林被暗杀（Britannica：his father's 1922 assassination in Berlin echoed in his fiction）。", "src": "B145"},
-    {"year": "1926—1940", "text": "柏林/巴黎俄侨期：《玛丽》(1926，Britannica：Mary (1926), largely autobiographical)、《防守》《礼物》等以'西林'笔名发表（通说待核）。", "src": "B145"},
-    {"year": "1940—1955", "text": "赴美入籍（Britannica）；韦尔斯利/康奈尔任教（Britannica：Cornell teaching (1948–58) inspired Pnin）；鳞翅目研究18篇论文（Britannica：his lepidoptery yielded 18 scientific papers）；《洛丽塔》1955（Britannica）。", "src": "B145"},
-    {"year": "1955—1977", "text": "《微暗的火》(1962，Britannica：Pale Fire (1962) — a poem with commentary by 'a mad literary pedant')、《阿达》(1969，Britannica)；1977-07-02卒于蒙特勒（Britannica：died in Montreux, Switzerland, in 1977）。", "src": "B145"}
+    {
+      "year": "1899-04-23",
+      "text": "生于圣彼得堡（Britannica：born in St. Petersburg to an aristocratic family）。",
+      "src": "B145"
+    },
+    {
+      "year": "1919",
+      "text": "离俄赴英（Britannica：left Russia in 1919）；剑桥三一学院（通说待核）。",
+      "src": "B145"
+    },
+    {
+      "year": "1922",
+      "text": "父在柏林被暗杀（Britannica：his father's 1922 assassination in Berlin echoed in his fiction）。",
+      "src": "B145"
+    },
+    {
+      "year": "1926—1940",
+      "text": "柏林/巴黎俄侨期：《玛丽》(1926，Britannica：Mary (1926), largely autobiographical)、《防守》《礼物》等以'西林'笔名发表（通说待核）。",
+      "src": "B145"
+    },
+    {
+      "year": "1940—1955",
+      "text": "赴美入籍（Britannica）；韦尔斯利/康奈尔任教（Britannica：Cornell teaching (1948–58) inspired Pnin）；鳞翅目研究18篇论文（Britannica：his lepidoptery yielded 18 scientific papers）；《洛丽塔》1955（Britannica）。",
+      "src": "B145"
+    },
+    {
+      "year": "1955—1977",
+      "text": "《微暗的火》(1962，Britannica：Pale Fire (1962) — a poem with commentary by 'a mad literary pedant')、《阿达》(1969，Britannica)；1977-07-02卒于蒙特勒（Britannica：died in Montreux, Switzerland, in 1977）。",
+      "src": "B145"
+    }
   ],
   "major_works": [
-    {"work_id": "luolita", "note": "1955；国际成名作"},
-    {"title": "微暗的火（1962）", "note": "Britannica：a poem with commentary by 'a mad literary pedant'"},
-    {"title": "说吧，记忆（1966）", "note": "自传（Britannica 列举 Speak, Memory）"}
+    {
+      "work_id": "luolita",
+      "note": "1955；国际成名作"
+    },
+    {
+      "title": "微暗的火（1962）",
+      "note": "Britannica：a poem with commentary by 'a mad literary pedant'"
+    },
+    {
+      "work_id": "shuobajiuyi",
+      "note": "自传（Britannica 列举 Speak, Memory）"
+    }
   ],
   "style": [
     "'高度风格化的散文'：Britannica——'highly stylized prose, literary parody, wordplay, and unorthodox structures'（高度风格化的散文、文学戏仿、文字游戏与非常规结构）。",
@@ -28,7 +61,9 @@
     "'感觉'的精确：鳞翅目学者的'科学之眼'（通说）。"
   ],
   "status": "Britannica 称纳博科夫为'1917年后最重要的流亡作家'（the leading émigré author after 1917），'writing in both Russian and English'（双语写作）。其《文学讲稿》（通说待核）影响文学教学；'纳博科夫式'成为风格术语（通说待核）。",
-  "sources": ["B145"],
+  "sources": [
+    "B145"
+  ],
   "dates_source": "B145",
   "pending": [
     "生日（4月23日）与圣彼得堡宅邸细节待核。",

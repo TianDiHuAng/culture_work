@@ -1,0 +1,100 @@
+{
+  "id": "xiaoshuoshilue",
+  "title": "中国小说史略",
+  "original_title": "中国小说史略",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪20年代初",
+  "genre": "学术专著",
+  "genre_group": "散文",
+  "language": "汉语（文言）",
+  "author_id": "luxun",
+  "author_name": "鲁迅",
+  "year_display": "1923-24年（作者页注记：Britannica——中国小说史略 (1923—24)——'中国小说史研究的奠基之作'）",
+  "year_sort": 1923,
+  "background": [
+    "作者页注记：中国小说史略 (1923-24)——'中国小说史研究的奠基之作（Britannica）'。",
+    "Britannica：鲁迅——现代中国文学奠基人（作者页语境）。",
+    "题材（通说待核）：28篇的讲义——从神话传说到清末谴责小说。"
+  ],
+  "outline": [
+    "（通说待核）讲义体：神话→六朝志怪→唐传奇→宋话本→明清小说。",
+    "（通说待核）'史略'的分期框架。"
+  ],
+  "characters": [
+    {
+      "name": "（学术专著无人物）",
+      "identity": "——",
+      "note": "文学史"
+    }
+  ],
+  "themes": [
+    "小说史的开创（B注记：奠基之作）。",
+    "文言讲义体（通说待核）。",
+    "明清小说的谱系（《红楼梦》论——通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'奠基之作'（作者页注记）。",
+      "source": "B077"
+    },
+    {
+      "text": "Britannica：鲁迅《狂人日记》为现代小说开端（作者页交叉——待核）。",
+      "source": "B077"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "文言讲义体。",
+      "古代小说的版本知识。"
+    ],
+    "editions": [
+      "《中国小说史略》（人民文学出版社《鲁迅全集》等——通说待核）。",
+      "1923-24年北大讲义本说待核。"
+    ],
+    "order": "鲁迅学术首选；与《中国小说的历史的变迁》对读。"
+  },
+  "pending": [
+    "28篇结构核对（通说）。",
+    "1923-24年出版（北大新潮社说）待核。",
+    "'奠基之作'评价出处核对。"
+  ],
+  "sources": [
+    "B077"
+  ],
+  "year_source": "B077",
+  "author_source": "B077",
+  "related_works": [
+    "leiyu",
+    "shui",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《中国小说史略》谱系结构图",
+    "cards": [
+      {
+        "title": "小说史",
+        "text": "奠基的框架（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "志怪传奇",
+        "text": "六朝到唐（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "讲义体",
+        "text": "文言的课堂（通说）",
+        "color": "family"
+      },
+      {
+        "title": "五四",
+        "text": "白话的对照（作者页语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

@@ -10,21 +10,70 @@
   "era": "现当代",
   "summary": "奥威尔，生于英属印度孟加拉（Britannica：Born Eric Arthur Blair, June 25, 1903, Motihari, Bengal, India），'20世纪文学的预言声音'（Britannica：prophetic voice in 20th-century literature）。伊顿毕业（师从赫胥黎——Britannica：taught by Aldous Huxley），缅甸警察五年后辞职（Britannica：resigned over shame at imperial rule）；流浪巴黎伦敦写《巴黎伦敦落魄记》；西班牙内战参加 POUM 民兵喉部中弹、逃离斯大林派清洗——'lifelong dread of communism'（终生的共产主义恐惧，Britannica）。《动物农场》（1945）、《一九八四》（1949）使其不朽；'Orwellian'进入语言（Britannica）。1950年死于肺结核（Britannica）。",
   "timeline": [
-    {"year": "1903-06-25", "text": "生于印度莫提哈里（Britannica：Born...June 25, 1903, Motihari, Bengal, India），父为英属印度殖民地官员。", "src": "B052"},
-    {"year": "1907—1921", "text": "回国受教育：惠灵顿与伊顿（Britannica：Educated at Wellington and Eton (1907–21; taught by Aldous Huxley)）。", "src": "B052"},
-    {"year": "1922—1927", "text": "缅甸印度帝国警察（Britannica：Served in the Indian Imperial Police in Burma (1922–27)），因帝国统治之耻辞职（Britannica：resigned over shame at imperial rule）。", "src": "B052"},
-    {"year": "1928—1933", "text": "巴黎伦敦底层流浪（Britannica：Lived among the poor in London and Paris）；《巴黎伦敦落魄记》（1933，'Down and Out in Paris and London'）首次用笔名'Orwell'（取自河名，Britannica）。", "src": "B052"},
-    {"year": "1936—1937", "text": "赴威根矿区写《通往威根码头之路》（1937，Britannica）；西班牙内战参加 POUM 民兵（1936—37，Britannica），特鲁尔喉部中弹（Britannica：shot in the throat at Teruel），巴塞罗那五月事件中逃离亲斯大林清洗（Britannica：fled pro-Stalinist persecution）。", "src": "B052"},
-    {"year": "1938—1945", "text": "《向加泰罗尼亚致敬》（1938，Britannica 列举）；二战任 BBC 印度广播部职员（Britannica：Worked for the BBC's Indian service during WWII）、《论坛报》文学编辑（Britannica）；1944年妻 Eileen 病逝（Britannica：died 1944）。", "src": "B052"},
-    {"year": "1945", "text": "《动物农场》出版——'satirized Stalin's betrayal of the Russian Revolution'（讽刺斯大林对俄国革命的背叛，Britannica）。", "src": "B052"},
-    {"year": "1946—1948", "text": "迁居苏格兰朱拉岛（Jura，Britannica 相关条目未提 Jura——但公开传记确认为写作《一九八四》之地，本页从公开传记口径并标注 Britannica 未载）；肺结核恶化仍写作。", "src": "B052"},
-    {"year": "1949-06", "text": "《一九八四》出版（Britannica：Nineteen Eighty-four (1949)...'a warning against totalitarianism'）；1949年10月与索尼娅·布劳内尔结婚（Britannica：later married Sonia Brownell (Oct. 1949)）。", "src": "B026"},
-    {"year": "1950-01-21", "text": "死于伦敦，年四十六，肺结核（Britannica：died January 21, 1950, London, aged 46, of tuberculosis）。", "src": "B052"}
+    {
+      "year": "1903-06-25",
+      "text": "生于印度莫提哈里（Britannica：Born...June 25, 1903, Motihari, Bengal, India），父为英属印度殖民地官员。",
+      "src": "B052"
+    },
+    {
+      "year": "1907—1921",
+      "text": "回国受教育：惠灵顿与伊顿（Britannica：Educated at Wellington and Eton (1907–21; taught by Aldous Huxley)）。",
+      "src": "B052"
+    },
+    {
+      "year": "1922—1927",
+      "text": "缅甸印度帝国警察（Britannica：Served in the Indian Imperial Police in Burma (1922–27)），因帝国统治之耻辞职（Britannica：resigned over shame at imperial rule）。",
+      "src": "B052"
+    },
+    {
+      "year": "1928—1933",
+      "text": "巴黎伦敦底层流浪（Britannica：Lived among the poor in London and Paris）；《巴黎伦敦落魄记》（1933，'Down and Out in Paris and London'）首次用笔名'Orwell'（取自河名，Britannica）。",
+      "src": "B052"
+    },
+    {
+      "year": "1936—1937",
+      "text": "赴威根矿区写《通往威根码头之路》（1937，Britannica）；西班牙内战参加 POUM 民兵（1936—37，Britannica），特鲁尔喉部中弹（Britannica：shot in the throat at Teruel），巴塞罗那五月事件中逃离亲斯大林清洗（Britannica：fled pro-Stalinist persecution）。",
+      "src": "B052"
+    },
+    {
+      "year": "1938—1945",
+      "text": "《向加泰罗尼亚致敬》（1938，Britannica 列举）；二战任 BBC 印度广播部职员（Britannica：Worked for the BBC's Indian service during WWII）、《论坛报》文学编辑（Britannica）；1944年妻 Eileen 病逝（Britannica：died 1944）。",
+      "src": "B052"
+    },
+    {
+      "year": "1945",
+      "text": "《动物农场》出版——'satirized Stalin's betrayal of the Russian Revolution'（讽刺斯大林对俄国革命的背叛，Britannica）。",
+      "src": "B052"
+    },
+    {
+      "year": "1946—1948",
+      "text": "迁居苏格兰朱拉岛（Jura，Britannica 相关条目未提 Jura——但公开传记确认为写作《一九八四》之地，本页从公开传记口径并标注 Britannica 未载）；肺结核恶化仍写作。",
+      "src": "B052"
+    },
+    {
+      "year": "1949-06",
+      "text": "《一九八四》出版（Britannica：Nineteen Eighty-four (1949)...'a warning against totalitarianism'）；1949年10月与索尼娅·布劳内尔结婚（Britannica：later married Sonia Brownell (Oct. 1949)）。",
+      "src": "B026"
+    },
+    {
+      "year": "1950-01-21",
+      "text": "死于伦敦，年四十六，肺结核（Britannica：died January 21, 1950, London, aged 46, of tuberculosis）。",
+      "src": "B052"
+    }
   ],
   "major_works": [
-    {"work_id": "yijiubasi", "note": "1949；'classic of English literature'（Britannica）"},
-    {"title": "动物农场（1945）", "note": "政治寓言（Britannica：satirized Stalin's betrayal）"},
-    {"title": "向加泰罗尼亚致敬（1938）、随笔（《政治与英语》等）", "note": "非虚构与随笔（Britannica 列举 essays including 'Politics and the English Language'）"}
+    {
+      "work_id": "yijiubasi",
+      "note": "1949；'classic of English literature'（Britannica）"
+    },
+    {
+      "title": "动物农场（1945）",
+      "note": "政治寓言（Britannica：satirized Stalin's betrayal）"
+    },
+    {
+      "work_id": "xiangjiataeluniyazhijing",
+      "note": "非虚构与随笔（Britannica 列举 essays including 'Politics and the English Language'）"
+    }
   ],
   "style": [
     "'玻璃般透明'的散文：'Politics and the English Language'（1946）主张清除套话与死的隐喻——其文体论影响英语写作教育至今（通说）。",
@@ -33,7 +82,10 @@
     "寓言的清晰：'clear, fable-like prose'（Britannica）；反乌托邦的'档案体'（《一九八四》附录与引文装置）。"
   ],
   "status": "Britannica 称奥威尔为'20世纪文学的预言声音'：Big Brother、Thought Police 与'Orwellian'已成为现代政治与社会滥用的通用语（Britannica：often as bywords for modern social and political abuses）。《一九八四》被 Britannica 定为'英国文学经典'（a classic of English literature）与'对极权主义的警告'（a warning against totalitarianism）。'奥威尔问题'（其1949年名单事件等）亦持续被讨论（本页不展开，通说待核）。",
-  "sources": ["B052", "B026"],
+  "sources": [
+    "B052",
+    "B026"
+  ],
   "dates_source": "B052",
   "pending": [
     "朱拉岛写作《一九八四》（1946—48）的细节（Britannica 奥威尔条未提 Jura——从公开传记口径，待核）。",

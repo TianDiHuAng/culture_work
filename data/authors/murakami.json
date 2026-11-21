@@ -10,16 +10,45 @@
   "era": "现当代",
   "summary": "村上春树，京都人，日本小说家（Britannica：Japanese novelist born January 12, 1949, in Kyōto）。'1978年棒球赛顿悟'写首作《且听风吟》（1979，Britannica：A 1978 baseball game epiphany led him to write his first novel, Hear the Wind Sing (1979), while running a jazz café）。名作：'Norwegian Wood (1987), Hard-Boiled Wonderland and the End of the World (1985), The Wind-Up Bird Chronicle (1994–95), Kafka on the Shore, 1Q84, and The City and Its Uncertain Walls (2023)'（Britannica 列举）。'surreal, ambiguous imagery'（超现实含混意象——Britannica）；'critics like Ōe Kenzaburō initially dismissed it as mere entertainment'（大江健三郎初斥为纯消遣——Britannica）。影响：'Western writers like Raymond Chandler, Franz Kafka, Dostoyevsky, and F. Scott Fitzgerald'（Britannica）——'Had it not been for Fitzgerald's novel, I would not be writing the kind of literature I am today'（'如果没有菲茨杰拉德的小说，我不会写今天的这种文学'——Britannica 引村上自述）。旅居欧洲与美国（普林斯顿和塔夫茨任教——Britannica）后1995年回国（Britannica：before returning to Japan in 1995 after the Kōbe earthquake and Tokyo sarin attack, which inspired later works like Underground and After the Quake）。《开车》成为2021年奥斯卡提名电影（Britannica：His story 'Drive My Car' became an Oscar-nominated 2021 film）。",
   "timeline": [
-    {"year": "1949-01-12", "text": "生于京都（Britannica：Born January 12, 1949, in Kyōto）。", "src": "B169"},
-    {"year": "1978", "text": "棒球赛顿悟（Britannica：A 1978 baseball game epiphany）——1979年《且听风吟》出版（Britannica）。", "src": "B169"},
-    {"year": "1985—1987", "text": "《世界尽头与冷酷仙境》（1985，Britannica）获谷崎润一郎奖（通说待核）；《挪威的森林》（1987，Britannica）——大畅销（通说待核）。", "src": "B169"},
-    {"year": "1991—1995", "text": "旅居欧美（普林斯顿、塔夫茨——Britannica：lived in Europe and the U.S. (teaching at Princeton and Tufts)）；1995年神户地震与东京地铁沙林毒气后回国（Britannica：returning to Japan in 1995 after the Kōbe earthquake and Tokyo sarin attack, which inspired later works like Underground and After the Quake）。", "src": "B169"},
-    {"year": "1995—2023", "text": "《奇鸟行状录》(1994—95)《海边的卡夫卡》『1Q84』《城及其不确定的墙》(2023)（Britannica 列举）；《开车》成2021年奥斯卡提名电影（Britannica：His story 'Drive My Car' became an Oscar-nominated 2021 film）。", "src": "B169"}
+    {
+      "year": "1949-01-12",
+      "text": "生于京都（Britannica：Born January 12, 1949, in Kyōto）。",
+      "src": "B169"
+    },
+    {
+      "year": "1978",
+      "text": "棒球赛顿悟（Britannica：A 1978 baseball game epiphany）——1979年《且听风吟》出版（Britannica）。",
+      "src": "B169"
+    },
+    {
+      "year": "1985—1987",
+      "text": "《世界尽头与冷酷仙境》（1985，Britannica）获谷崎润一郎奖（通说待核）；《挪威的森林》（1987，Britannica）——大畅销（通说待核）。",
+      "src": "B169"
+    },
+    {
+      "year": "1991—1995",
+      "text": "旅居欧美（普林斯顿、塔夫茨——Britannica：lived in Europe and the U.S. (teaching at Princeton and Tufts)）；1995年神户地震与东京地铁沙林毒气后回国（Britannica：returning to Japan in 1995 after the Kōbe earthquake and Tokyo sarin attack, which inspired later works like Underground and After the Quake）。",
+      "src": "B169"
+    },
+    {
+      "year": "1995—2023",
+      "text": "《奇鸟行状录》(1994—95)《海边的卡夫卡》『1Q84』《城及其不确定的墙》(2023)（Britannica 列举）；《开车》成2021年奥斯卡提名电影（Britannica：His story 'Drive My Car' became an Oscar-nominated 2021 film）。",
+      "src": "B169"
+    }
   ],
   "major_works": [
-    {"work_id": "nuoweide", "note": "1987；畅销代表作"},
-    {"title": "奇鸟行状录（1994—95）、海边的卡夫卡", "note": "（Britannica 列举）"},
-    {"title": "1Q84（2009—10）", "note": "（Britannica 列举）"}
+    {
+      "work_id": "nuoweide",
+      "note": "1987；畅销代表作"
+    },
+    {
+      "work_id": "qiniaoxingzhuanglu",
+      "note": "（Britannica 列举）"
+    },
+    {
+      "title": "1Q84（2009—10）",
+      "note": "（Britannica 列举）"
+    }
   ],
   "style": [
     "'超现实含混意象'：Britannica——'surreal, ambiguous imagery'——'日常与异界'的缝合（通说）。",
@@ -27,7 +56,9 @@
     "'翻译腔'日语：以英文思维写日文（其自述，通说待核）。"
   ],
   "status": "Britannica 定位村上春树为日本小说家（Japanese novelist），《挪威的森林》等为其名作；'critics like Ōe Kenzaburō initially dismissed it as mere entertainment'（大江初斥为消遣——Britannica）——从'消遣'到'世界级作家'的接受转变。永远跑着写（marathon runner/writer——通说待核）。",
-  "sources": ["B169"],
+  "sources": [
+    "B169"
+  ],
   "dates_source": "B169",
   "pending": [
     "《挪威的森林》1987年出版（讲谈社，通说）与销量（千万册说——通说）待核。",

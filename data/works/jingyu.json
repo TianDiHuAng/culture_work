@@ -1,0 +1,100 @@
+{
+  "id": "jingyu",
+  "title": "境遇",
+  "original_title": "Le occasioni",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪30年代末",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "montale",
+  "author_name": "埃乌杰尼奥·蒙塔莱",
+  "year_display": "1939年（Britannica B341：Le occasioni (1939)——中译名待核）",
+  "year_sort": 1939,
+  "background": [
+    "Britannica（B341）：Le occasioni (1939)——蒙塔莱代表作序列（B341：'progressively more introverted and obscure'）。",
+    "Britannica（B341）：蒙塔莱——1975诺奖；隐逸派。",
+    "题材（通说待核）：《达莉亚》等——'克拉夫蒂娅'（Clizia）与'沃尔夫'意象。"
+  ],
+  "outline": [
+    "（通说待核）'境遇'：记忆中的'克拉夫蒂娅'与利古里亚。",
+    "（通说待核）'蛇'与'鹰'的动物意象（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "隐逸诗人",
+      "note": "（B341 语系）"
+    }
+  ],
+  "themes": [
+    "'隐逸派'的深化（B341：more introverted and obscure）。",
+    "'境遇'：个人记忆的客观化（书名语境——通说待核）。",
+    "反法西斯年代的诗（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Le occasioni (1939)（B341）。",
+      "source": "B341"
+    },
+    {
+      "text": "Britannica：1975诺奖（B341 交叉）。",
+      "source": "B341"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'克拉夫蒂娅'等私人代号。",
+      "隐逸派的晦涩升级。"
+    ],
+    "editions": [
+      "《境遇》中译名（《 occasions》）待核。",
+      "意大利文原版。"
+    ],
+    "order": "蒙塔莱中期；后接《萨图拉》。"
+  },
+  "pending": [
+    "'克拉夫蒂娅'原型（Irma Brandeis说）待核。",
+    "1939年出版（Einaudi说）待核。",
+    "篇目核对（B341未载）。"
+  ],
+  "sources": [
+    "B341"
+  ],
+  "year_source": "B341",
+  "author_source": "B341",
+  "related_works": [
+    "wuguigu",
+    "shunxijiandeyewan",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《境遇》记忆客观化图",
+    "cards": [
+      {
+        "title": "境遇",
+        "text": "记忆的场合（书名）",
+        "color": "main"
+      },
+      {
+        "title": "克拉夫蒂娅",
+        "text": "私人代号（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "晦涩",
+        "text": "'更内省与晦涩'（B341）",
+        "color": "antagonist"
+      },
+      {
+        "title": "利古里亚",
+        "text": "海岸的底片（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

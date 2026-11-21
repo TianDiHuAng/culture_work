@@ -1,0 +1,105 @@
+{
+  "id": "tongnian",
+  "title": "童年",
+  "original_title": "Детство",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪10年代",
+  "genre": "自传小说",
+  "genre_group": "小说",
+  "language": "俄语",
+  "author_id": "gorky",
+  "author_name": "马克西姆·高尔基",
+  "year_display": "作者页注记：Britannica——自传三部曲——'one of the finest autobiographies in Russian literature'（年份通说待核——1913-14说）",
+  "year_sort": 1913,
+  "background": [
+    "作者页注记：童年/在人间/我的大学——'自传三部曲（Britannica：one of the finest autobiographies in Russian literature）'。",
+    "Britannica：高尔基——俄国作家（作者页语境）。",
+    "题材（通说待核）：阿列克谢的童年——外祖父的染坊与外祖母的民间故事。"
+  ],
+  "outline": [
+    "（通说待核）阿列克谢·彼什科夫的童年：暴力与温暖的日常。",
+    "（通说待核）外祖母的民间故事与'善'的教育。"
+  ],
+  "characters": [
+    {
+      "name": "阿列克谢",
+      "identity": "叙述者（童年高尔基）",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "外祖母",
+      "identity": "民间故事的讲述者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "自传三部曲之首（B注记：自传三部曲）。",
+    "'俄国文学最优秀的自传之一'（B注记引语）。",
+    "民间叙事的教育（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'one of the finest autobiographies in Russian literature'（作者页注记）。",
+      "source": "B259"
+    },
+    {
+      "text": "Britannica：高尔基三部曲（作者页注记）。",
+      "source": "B259"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "自传与小说的边界。",
+      "伏尔加河下层生活。"
+    ],
+    "editions": [
+      "《童年》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域状态待核）。"
+    ],
+    "order": "三部曲之首；后接《在人间》《我的大学》。"
+  },
+  "pending": [
+    "三部曲年份（1913-1922说）核对。",
+    "阿列克谢/外祖母人名核对（通说）。",
+    "'最优秀的自传'评价（B注记引语）核对。"
+  ],
+  "sources": [
+    "B259"
+  ],
+  "year_source": "B259",
+  "author_source": "B259",
+  "related_works": [
+    "zaidiceng",
+    "muqin",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《童年》民间叙事图",
+    "cards": [
+      {
+        "title": "染坊",
+        "text": "暴力的日常（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "外祖母",
+        "text": "故事的暖流（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "阿列克谢",
+        "text": "童年的眼睛（通说）",
+        "color": "main"
+      },
+      {
+        "title": "自传",
+        "text": "三部曲之首（B注记）",
+        "color": "family"
+      }
+    ]
+  }
+}

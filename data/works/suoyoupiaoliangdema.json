@@ -1,0 +1,105 @@
+{
+  "id": "suoyoupiaoliangdema",
+  "title": "所有漂亮的马",
+  "original_title": "All the Pretty Horses",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪90年代初",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "mccarthy",
+  "author_name": "科马克·麦卡锡",
+  "year_display": "1992年（Britannica B328：All the Pretty Horses (1992)——'Won the National Book Award'）",
+  "year_sort": 1992,
+  "background": [
+    "Britannica（B328）：All the Pretty Horses——'Won the National Book Award and National Book Critics Circle Award'——'a coming-of-age story of John Grady Cole, a Texan who travels to Mexico'——'more Hemingway- than Faulkner-influenced in style'。",
+    "Britannica（B328）：'The Border Trilogy (1992-98)'——'rewrote and challenged myths of the American West'。",
+    "题材（通说待核）：16岁的约翰·格雷迪·科尔与同伴骑马赴墨西哥牧场。"
+  ],
+  "outline": [
+    "（通说待核）德州少年的墨西哥牧场之梦与监狱之祸。",
+    "（通说待核）'边境三部曲'之首（B328）。"
+  ],
+  "characters": [
+    {
+      "name": "约翰·格雷迪·科尔",
+      "identity": "16岁德州人",
+      "note": "（B328：John Grady Cole——'a Texan who travels to Mexico'）"
+    },
+    {
+      "name": "莱西·罗林斯",
+      "identity": "同伴",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "西部神话的改写（B328：Border Trilogy——rewrote and challenged myths）。",
+    "成长小说（B328：coming-of-age）。",
+    "海明威式文体（B328：more Hemingway- than Faulkner-influenced）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：National Book Award（B328）。",
+      "source": "B328"
+    },
+    {
+      "text": "Britannica：'brought McCarthy public fame'（B328）。",
+      "source": "B328"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西班牙语对白。",
+      "西部边境史。"
+    ],
+    "editions": [
+      "《所有漂亮的马》中译本（上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "麦卡锡大众入门；后接《穿越》《平原上的城市》。"
+  },
+  "pending": [
+    "约翰·格雷迪/莱西人名核对（B328载John Grady Cole）。",
+    "1992年出版（Knopf说）待核。",
+    "'边境三部曲'卷次核对。"
+  ],
+  "sources": [
+    "B328"
+  ],
+  "year_source": "B328",
+  "author_source": "B328",
+  "related_works": [
+    "xueseziwuxian",
+    "lu",
+    "nongmin"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《所有漂亮的马》边境三部曲图",
+    "cards": [
+      {
+        "title": "科尔",
+        "text": "16岁的德州人（B328）",
+        "color": "main"
+      },
+      {
+        "title": "边境",
+        "text": "'三部曲'之首（B328）",
+        "color": "gold"
+      },
+      {
+        "title": "墨西哥",
+        "text": "牧场之梦（通说）",
+        "color": "family"
+      },
+      {
+        "title": "西部",
+        "text": "神话的改写（B328）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

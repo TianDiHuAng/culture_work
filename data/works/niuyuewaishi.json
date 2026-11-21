@@ -1,0 +1,105 @@
+{
+  "id": "niuyuewaishi",
+  "title": "纽约外史",
+  "original_title": "A History of New York",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪初",
+  "genre": "讽刺小说",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "ouwen",
+  "author_name": "华盛顿·欧文",
+  "year_display": "1809年（Britannica B318：纽约外史 (1809)）",
+  "year_sort": 1809,
+  "background": [
+    "Britannica（B318）：A History of New York——欧文作品（作者页：jianWenzhaji 交叉——见闻札记）。",
+    "Britannica（B318）：欧文——美国文学之父说（作者页语境——待核）。",
+    "题材（通说待核）：'迪特里希·尼克博克'署名——荷兰殖民纽约的伪史戏仿。"
+  ],
+  "outline": [
+    "（通说待核）尼克博克的'荷裔纽约史'：第一至七卷。",
+    "（通说待核）' harassing'（——通说待核）的滑稽史官腔。"
+  ],
+  "characters": [
+    {
+      "name": "迪特里希·尼克博克",
+      "identity": "伪作者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "彼得·施托伊弗桑特",
+      "identity": "总督",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "伪史的戏仿（通说待核）。",
+    "荷兰裔纽约的记忆（通说待核）。",
+    "'美国文学的独立'（作者页语境——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：A History of New York (1809)（B318）。",
+      "source": "B318"
+    },
+    {
+      "text": "Britannica：《见闻札记》为代表作（B318 交叉）。",
+      "source": "B318"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "18-19世纪纽约史。",
+      "'尼克博克'叙述腔。"
+    ],
+    "editions": [
+      "《纽约外史》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "欧文早期；先于《见闻札记》。"
+  },
+  "pending": [
+    "1809年出版细节待核。",
+    "尼克博克人名核对（通说）。",
+    "'美国文学之父'定位待核（B318口径）。"
+  ],
+  "sources": [
+    "B318"
+  ],
+  "year_source": "B318",
+  "author_source": "B318",
+  "related_works": [
+    "jianWenzhaji",
+    "leiyu",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《纽约外史》伪史结构图",
+    "cards": [
+      {
+        "title": "尼克博克",
+        "text": "伪史的作者（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "纽约",
+        "text": "荷兰裔的记忆（书名）",
+        "color": "main"
+      },
+      {
+        "title": "戏仿",
+        "text": "滑稽的史官腔（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "独立",
+        "text": "美国文学的起点（B318语境）",
+        "color": "family"
+      }
+    ]
+  }
+}

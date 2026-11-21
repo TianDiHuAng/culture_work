@@ -1,0 +1,100 @@
+{
+  "id": "xiangjiataeluniyazhijing",
+  "title": "向加泰罗尼亚致敬",
+  "original_title": "Homage to Catalonia",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "20世纪30年代末",
+  "genre": "纪实文学",
+  "genre_group": "散文",
+  "language": "英语",
+  "author_id": "orwell",
+  "author_name": "乔治·奥威尔",
+  "year_display": "1938年（作者页注记：Britannica——向加泰罗尼亚致敬 (1938)——非虚构）",
+  "year_sort": 1938,
+  "background": [
+    "作者页注记：向加泰罗尼亚致敬——'（Britannica 列举 1938）'——非虚构与随笔。",
+    "Britannica：奥威尔——《一九八四》《动物农场》作者（作者页交叉）。",
+    "题材（通说待核）：西班牙内战中的民兵经历——斯大林派与统一社会党的内讧。"
+  ],
+  "outline": [
+    "（通说待核）奥威尔赴西班牙参战与喉部中弹。",
+    "（通说待核）五月事变与'托派'的清洗。"
+  ],
+  "characters": [
+    {
+      "name": "奥威尔",
+      "identity": "民兵/记者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "革命的内讧（通说待核）。",
+    "'诚实报告'的非虚构伦理（作者页语境——待核）。",
+    "《一九八四》的前史（作者页交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Homage to Catalonia (1938)（作者页注记）。",
+      "source": "B052"
+    },
+    {
+      "text": "Britannica：奥威尔散文'Politics and the English Language'（作者页注记——并列）。",
+      "source": "B052"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "西班牙内战各派系。",
+      "非虚构的第一人称。"
+    ],
+    "editions": [
+      "《向加泰罗尼亚致敬》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "奥威尔非虚构首选；与《一九八四》对读。"
+  },
+  "pending": [
+    "派系细节核对（POUM说——通说）。",
+    "1938年出版细节待核。",
+    "喉部中弹细节待核。"
+  ],
+  "sources": [
+    "B052"
+  ],
+  "year_source": "B052",
+  "author_source": "B052",
+  "related_works": [
+    "kanbujian3",
+    "sangeshibing",
+    "renshijian"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《向加泰罗尼亚致敬》内战结构图",
+    "cards": [
+      {
+        "title": "民兵",
+        "text": "战壕的冬天（通说）",
+        "color": "main"
+      },
+      {
+        "title": "内讧",
+        "text": "革命的自相残杀（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "致敬",
+        "text": "非虚构的诚实（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "一九八四",
+        "text": "先声（作者页交叉）",
+        "color": "family"
+      }
+    ]
+  }
+}

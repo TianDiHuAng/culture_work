@@ -1,0 +1,100 @@
+{
+  "id": "shuobajiuyi",
+  "title": "说吧，记忆",
+  "original_title": "Speak, Memory",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "自传",
+  "genre_group": "散文",
+  "language": "英语（俄译）",
+  "author_id": "nabokov",
+  "author_name": "弗拉基米尔·纳博科夫",
+  "year_display": "1966年（作者页注记：Britannica——说吧，记忆（1966）——自传）",
+  "year_sort": 1966,
+  "background": [
+    "作者页注记：说吧，记忆——'自传（Britannica 列举 Speak, Memory）'。",
+    "Britannica：纳博科夫——《洛丽塔》作者（作者页交叉）。",
+    "题材（通说待核）：俄国贵族童年的记忆百科——蝴蝶、象棋与流亡。"
+  ],
+  "outline": [
+    "（通说待核）十五篇记忆的'主题变奏'（通说待核——章节结构）。",
+    "（通说待核）'说吧，记忆'：时间的召唤。"
+  ],
+  "characters": [
+    {
+      "name": "纳博科夫",
+      "identity": "回忆者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "记忆的艺术化（通说待核）。",
+    "流亡与母语（作者页语境）。",
+    "'时间的迷宫'（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Speak, Memory（作者页注记）。",
+      "source": "B145"
+    },
+    {
+      "text": "Britannica：《洛丽塔》1955（作者页交叉）。",
+      "source": "B145"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "记忆的互文。",
+      "双语写作的转换。"
+    ],
+    "editions": [
+      "《说吧，记忆》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "纳博科夫自传首选；与《洛丽塔》对读。"
+  },
+  "pending": [
+    "章节结构核对（通说）。",
+    "1966年出版（Harper & Row说）待核。",
+    "1951年英文初版 Conclusive Evidence 待核。"
+  ],
+  "sources": [
+    "B145"
+  ],
+  "year_source": "B145",
+  "author_source": "B145",
+  "related_works": [
+    "luolita",
+    "zenodeyishi",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《说吧，记忆》时间结构图",
+    "cards": [
+      {
+        "title": "记忆",
+        "text": "艺术的召唤（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "童年",
+        "text": "俄国的贵族（通说）",
+        "color": "main"
+      },
+      {
+        "title": "蝴蝶",
+        "text": "收藏的隐喻（通说）",
+        "color": "family"
+      },
+      {
+        "title": "流亡",
+        "text": "双语的转换（作者页语境）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

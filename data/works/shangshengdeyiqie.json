@@ -1,0 +1,105 @@
+{
+  "id": "shangshengdeyiqie",
+  "title": "上升的一切必将汇聚",
+  "original_title": "Everything That Rises Must Converge",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪60年代",
+  "genre": "短篇小说集",
+  "genre_group": "故事集",
+  "language": "英语",
+  "author_id": "oconnor",
+  "author_name": "弗兰纳里·奥康纳",
+  "year_display": "1965年（Britannica B291：Everything That Rises Must Converge (1965)）",
+  "year_sort": 1965,
+  "background": [
+    "Britannica（B291）：Everything That Rises Must Converge (1965)——短篇集。",
+    "Britannica（B291）：奥康纳——《暴力夺取》(B291)与《慧血》(B291)作者——南方哥特。",
+    "题材（通说待核）：同名篇——朱利安与母亲的公交对峙——南方种族的降卑。"
+  ],
+  "outline": [
+    "（通说待核）朱利安陪母亲上'减肥班'——黑人大妈与礼帽的冒犯。",
+    "（通说待核）'汇聚'：一切上升的将汇聚——德日进式标题（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "朱利安",
+      "identity": "儿子",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "母亲",
+      "identity": "南方老太太",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "南方种族的'汇聚'（书名语境——通说待核）。",
+    "救赎与恩典的暴力（B291 作者级语境）。",
+    "哥特式反讽（B291 语系）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Everything That Rises Must Converge (1965)（B291）。",
+      "source": "B291"
+    },
+    {
+      "text": "Britannica：奥康纳'暴力夺取'的救赎观（B291 交叉——待核）。",
+      "source": "B291"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'汇聚'的神学标题（德日进说待核）。",
+      "1960年代南方种族语境。"
+    ],
+    "editions": [
+      "《上升的一切必将汇聚》中译本（新星/上海译文等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "奥康纳短篇收官；与《慧血》对读。"
+  },
+  "pending": [
+    "篇目（9篇说）核对（通说）。",
+    "1965年身后出版细节待核。",
+    "'德日进'标题来源待核。"
+  ],
+  "sources": [
+    "B291"
+  ],
+  "year_source": "B291",
+  "author_source": "B291",
+  "related_works": [
+    "huixue",
+    "xinshigudeLieshou",
+    "shangxinkafeizhige"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《上升的一切必将汇聚》汇聚结构图",
+    "cards": [
+      {
+        "title": "汇聚",
+        "text": "上升的终局（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "公交",
+        "text": "种族的对峙（通说）",
+        "color": "main"
+      },
+      {
+        "title": "恩典",
+        "text": "暴力的救赎（B291语境）",
+        "color": "family"
+      },
+      {
+        "title": "南方",
+        "text": "1960年代（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

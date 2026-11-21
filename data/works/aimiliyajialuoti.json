@@ -1,0 +1,105 @@
+{
+  "id": "aimiliyajialuoti",
+  "title": "爱米丽雅·迦洛蒂",
+  "original_title": "Emilia Galotti",
+  "region": "德国",
+  "era": "近代",
+  "era_detail": "18世纪70年代初",
+  "genre": "悲剧",
+  "genre_group": "戏剧",
+  "language": "德语",
+  "author_id": "lessing",
+  "author_name": "戈特霍尔德·埃夫莱姆·莱辛",
+  "year_display": "1772年（Britannica B368：Emilia Galotti (1772)）",
+  "year_sort": 1772,
+  "background": [
+    "Britannica（B368）：Emilia Galotti (1772)——剧作列表。",
+    "Britannica（B368）：莱辛——'plays of lasting importance'。",
+    "题材（通说待核）：亲王赫托勒的强权——爱米丽雅以死守贞。"
+  ],
+  "outline": [
+    "（通说待核）亲王劫婚的阴谋与'死'的选择。",
+    "（通说待核）父权与贞洁的市民悲剧。"
+  ],
+  "characters": [
+    {
+      "name": "爱米丽雅",
+      "identity": "市民之女",
+      "note": "（B368 书名人物）"
+    },
+    {
+      "name": "亲王赫托勒",
+      "identity": "施暴的权力",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "市民悲剧（B368：bürgerliches Trauerspiel 语系）。",
+    "权力对平民的觊觎（通说待核）。",
+    "'以死守贞'的启蒙批判（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Emilia Galotti (1772)（B368）。",
+      "source": "B368"
+    },
+    {
+      "text": "Britannica：莱辛戏剧序列（B368 作者级）。",
+      "source": "B368"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "18世纪意大利背景（小说原型说）。",
+      "'市民悲剧'的形式。"
+    ],
+    "editions": [
+      "《爱米丽雅·迦洛蒂》中译本（人民文学等——通说待核）。",
+      "德文原版（公有领域）。"
+    ],
+    "order": "莱辛悲剧首选；与《智者纳坦》对读。"
+  },
+  "pending": [
+    "爱米丽雅/亲王人名核对（通说）。",
+    "1772年首演（不伦瑞克说）待核。",
+    "'小说原型'（《教士》说）待核。"
+  ],
+  "sources": [
+    "B368"
+  ],
+  "year_source": "B368",
+  "author_source": "B368",
+  "related_works": [
+    "zhainazhitan",
+    "laokong",
+    "yinmouyuaiqing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《爱米丽雅·迦洛蒂》权力结构图",
+    "cards": [
+      {
+        "title": "亲王",
+        "text": "强权的觊觎（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "爱米丽雅",
+        "text": "'以死守贞'（通说）",
+        "color": "main"
+      },
+      {
+        "title": "父亲",
+        "text": "市民的无力（通说）",
+        "color": "family"
+      },
+      {
+        "title": "悲剧",
+        "text": "市民的形式（B368语系）",
+        "color": "gold"
+      }
+    ]
+  }
+}

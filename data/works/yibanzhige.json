@@ -1,0 +1,100 @@
+{
+  "id": "yibanzhige",
+  "title": "一般之歌",
+  "original_title": "Canto general",
+  "region": "智利",
+  "era": "近代",
+  "era_detail": "20世纪中叶",
+  "genre": "史诗",
+  "genre_group": "诗歌",
+  "language": "西班牙语",
+  "author_id": "neruda",
+  "author_name": "巴勃罗·聂鲁达",
+  "year_display": "1950年（作者页注记：Britannica——一般之歌（Canto general, 1950）——拉丁美洲史诗）",
+  "year_sort": 1950,
+  "background": [
+    "作者页注记：一般之歌——'拉丁美洲史诗（Britannica）'。",
+    "Britannica：聂鲁达——1971诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：15章的拉美史诗——从创世到当代政治。"
+  ],
+  "outline": [
+    "（通说待核）15章结构：美洲的植物、动物、征服者与解放者。",
+    "（通说待核）'一般之歌'：为大陆代言。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "大陆的代言人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "拉丁美洲史诗（B注记）。",
+    "政治诗歌的巅峰（通说待核）。",
+    "'马丘比丘之巅'（通说待核——不采为引文）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Canto general (1950)——拉丁美洲史诗（作者页注记）。",
+      "source": "B156"
+    },
+    {
+      "text": "Britannica：聂鲁达1971诺奖（作者页交叉——待核）。",
+      "source": "B156"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "15章结构。",
+      "拉美史与原住民词汇。"
+    ],
+    "editions": [
+      "《一般之歌》中译本（人民文学等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "聂鲁达史诗首选；与《二十首情诗》对读。"
+  },
+  "pending": [
+    "15章篇名核对（通说）。",
+    "1950年出版（墨西哥说）待核。",
+    "'马丘比丘'篇细节待核。"
+  ],
+  "sources": [
+    "B156"
+  ],
+  "year_source": "B156",
+  "author_source": "B156",
+  "related_works": [
+    "ershisou",
+    "huangliang",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《一般之歌》大陆史诗图",
+    "cards": [
+      {
+        "title": "大陆",
+        "text": "拉美的史诗（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "15章",
+        "text": "创世到当下（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "政治",
+        "text": "诗人的选择（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "马丘比丘",
+        "text": "高原的巅峰（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
