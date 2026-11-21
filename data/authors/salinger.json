@@ -1,38 +1,68 @@
 {
   "id": "salinger",
-  "name": "塞林格",
-  "foreign_name": "J.D. Salinger（杰罗姆·大卫·塞林格，1919-01-01 — 2010-01-27）",
+  "name": "J.D.塞林格",
+  "foreign_name": "J.D. Salinger（杰罗姆·大卫·塞林格，1919-01-01—2010-01-27）",
   "country": "美国",
-  "birth": "1919-01-01",
-  "death": "2010-01-27",
+  "birth": 1919,
+  "death": 2010,
   "birth_year": 1919,
   "death_year": 2010,
   "era": "现当代",
-  "summary": "塞林格，曼哈顿人，'Best known for The Catcher in the Rye (1951)'（以《麦田里的守望者》最为著名——Britannica），霍尔顿·考尔菲德的故事——'resonated especially with post-WWII college students'（与二战后大学生尤其共鸣，Britannica）。二战美军反情报特工：犹他海滩D日、突出部战役、解放考费林集中营（Britannica：Served as a U.S. Army counterintelligence agent; landed at Utah Beach on D-Day, fought in the Battle of the Bulge, and helped liberate the Kaufering concentration camp）——'battle fatigue'（战斗疲劳症，今称 PTSD）入院（Britannica）。1953年迁康沃尔隐居（Britannica：moved to Cornish in 1953 and largely withdrew from public life）；最后发表作品为1965年《纽约客》《哈普沃兹16, 1924》（Britannica）。2010年1月27日卒于康沃尔，年九十一（Britannica）。",
+  "summary": "塞林格，曼哈顿生，美国作家——1951年《麦田里的守望者》'brought him lasting fame'（B316）。'relates in authentic teenage idiom his flight from the phony adult world, his search for innocence and truth'（B316）；'The humor and colorful language of The Catcher in the Rye place it in the tradition of Mark Twain's'（B316）。1953年移居新罕布什尔州科尼什——'After the success of The Catcher in the Rye, Salinger became a recluse'（B316）。'His last published work was a novella titled Hapworth 16, 1924, which appeared in The New Yorker in 1965'（B316）。",
   "timeline": [
-    {"year": "1919-01-01", "text": "生于曼哈顿（Britannica：Born Jan. 1, 1919, in Manhattan）。", "src": "B148"},
-    {"year": "1942—1945", "text": "二战反情报（Britannica：Served as a U.S. Army counterintelligence agent）——犹他海滩/突出部/考费林/战斗疲劳（Britannica）。", "src": "B148"},
-    {"year": "1951", "text": "《麦田里的守望者》出版（Britannica：The Catcher in the Rye (1951)）。", "src": "B148"},
-    {"year": "1953", "text": "迁康沃尔隐居（Britannica：moved to Cornish in 1953 and largely withdrew from public life）。", "src": "B148"},
-    {"year": "1965", "text": "《哈普沃兹16, 1924》——最后发表作品（Britannica：his last published work was the novella 'Hapworth 16, 1924' in The New Yorker (1965)）。", "src": "B148"},
-    {"year": "2010-01-27", "text": "卒于康沃尔（Britannica：died Jan. 27, 2010, in Cornish, New Hampshire, at age 91）。", "src": "B148"}
+    {
+      "year": 1919,
+      "text": "1月1日生于曼哈顿（B316：Born January 1, 1919, Manhattan, New York）。",
+      "src": "B316"
+    },
+    {
+      "year": 1951,
+      "text": "《麦田里的守望者》出版（B316：The Catcher in the Rye (1951)）。",
+      "src": "B316"
+    },
+    {
+      "year": 1953,
+      "text": "移居新罕布什尔州科尼什（B316：moved to Cornish in 1953 and went into seclusion）。",
+      "src": "B316"
+    },
+    {
+      "year": 1965,
+      "text": "最后发表作品——Hapworth 16, 1924（《纽约客》1965）（B316）。",
+      "src": "B316"
+    },
+    {
+      "year": 2010,
+      "text": "1月27日卒于新罕布什尔州（B316：Died January 27, 2010, Cornish, New Hampshire）。",
+      "src": "B316"
+    }
   ],
   "major_works": [
-    {"work_id": "maitian", "note": "1951；唯一长篇"},
-    {"title": "九故事（1953）、弗兰妮与祖伊（1961）", "note": "短篇集（通说待核）"},
-    {"title": "格拉斯家族", "note": "系列短篇（通说待核）"}
+    {
+      "work_id": "maitian",
+      "note": "长篇（B316：1951）"
+    },
+    {
+      "work_id": "jiugushi",
+      "note": "短篇集（B316：Nine Stories (1953)）"
+    },
+    {
+      "title": "弗兰妮与祖伊",
+      "note": "（B316：Franny and Zooey (1961)）"
+    }
   ],
   "style": [
-    "'口语对话'的文学化：Britannica——'humor, irony, and colloquial dialogue'（幽默、反讽与口语对话）——霍尔顿的语言开创美国青少年的'文学声音'（通说）。",
-    "'禅与神秘'：后期格拉斯家族小说的东方转向（通说待核）。",
-    "'隐居'美学：作品与作者的拒绝交织（通说）。"
+    "'authentic teenage idiom'（B316）。",
+    "'in the tradition of Mark Twain's'（B316——与马克·吐温传统并列）。",
+    "隐居与沉默（B316：became a recluse）。"
   ],
-  "status": "Britannica 称塞林格为'以其《麦田里的守望者》与霍尔顿最为著名'；'Influential on later writers like Plath, Roth, and Updike'（影响后来的作家如普拉斯、罗斯与厄普代克——Britannica）。隐居使其成为'美国文学的隐士传奇'（通说待核）。",
-  "sources": ["B148"],
-  "dates_source": "B148",
+  "status": "Britannica 定位塞林格为美国作家（《麦田里的守望者》作者）；1953年后隐居、1965年后不再发表作品（B316）。",
+  "sources": [
+    "B316"
+  ],
+  "dates_source": "B316",
   "pending": [
-    "1951年 Little, Brown 出版（通说）细节待核。",
-    "1997年后版权争议与未经授权续作（通说待核）。",
-    "格拉斯家族系列全目录待核。"
+    "《麦田里的守望者》1951年7月16日出版（Little, Brown说）核对。",
+    "'phony'adult world引文核对。",
+    "格拉斯家族系列七篇核对。"
   ]
 }
