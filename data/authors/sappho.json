@@ -1,0 +1,54 @@
+{
+  "id": "sappho",
+  "name": "萨福",
+  "foreign_name": "Sappho（萨福，约公元前610—约公元前570）",
+  "country": "希腊",
+  "birth": null,
+  "death": null,
+  "birth_year": -610,
+  "death_year": -570,
+  "era": "古代",
+  "summary": "萨福，约前610生于莱斯博斯岛、约前570卒——'Greek lyric poet greatly admired in all ages for the beauty of her writing style'（B364）；与阿尔基洛科斯、阿尔凯奥斯并列——'her ability to impress readers with a lively sense of her personality'（B364）；'Her phrasing is concise, direct, and picturesque'（B364）。爱奥利亚方言入诗（B364）。主题几乎全为个人——围绕其领导的女性社群 thiasos，以阿佛洛狄忒为守护神（B364）；婚礼歌（epithalamia）占重要部分（B364）。亚历山大里亚学者编九卷集，后散佚——'Only the ode to Aphrodite, 28 lines long, is complete'（B364）。",
+  "timeline": [
+    {
+      "year": -610,
+      "text": "约前610生于莱斯博斯岛（B364：born c. 610, Lesbos）。",
+      "src": "B364"
+    },
+    {
+      "year": -600,
+      "text": "亚历山大里亚编九卷本（后世编订——B364 语境）。",
+      "src": "B364"
+    },
+    {
+      "year": -570,
+      "text": "约前570卒（B364：died c. 570 bce）。",
+      "src": "B364"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "safucanpian",
+      "note": "残篇（B364：九卷本散佚——仅《阿佛洛狄忒颂》28行完整）"
+    },
+    {
+      "title": "阿佛洛狄忒颂",
+      "note": "（B364：ode to Aphrodite——唯一完整诗，28行）"
+    }
+  ],
+  "style": [
+    "'简洁、直接、如画'的措辞（B364：concise, direct, and picturesque）。",
+    "爱奥利亚方言与传统（B364）。",
+    "'以平静追忆激情'（B364：recollected in tranquillity）。"
+  ],
+  "status": "Britannica 定位萨福为希腊抒情诗的巅峰、与阿尔基洛科斯/阿尔凯奥斯并列（B364）。",
+  "sources": [
+    "B364"
+  ],
+  "dates_source": "B364",
+  "pending": [
+    "生卒年（约前610/约前570——B364 口径）细节待核。",
+    "'萨福体'（Sapphic stanza）术语待核（B364未载）。",
+    "勒卡迪亚岩跳海传说为 legend（B364 已载——不采为事实）。"
+  ]
+}

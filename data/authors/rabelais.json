@@ -1,68 +1,64 @@
 {
   "id": "rabelais",
   "name": "弗朗索瓦·拉伯雷",
-  "foreign_name": "François Rabelais（弗朗索瓦·拉伯雷，约1483/94—1553）",
+  "foreign_name": "François Rabelais（弗朗索瓦·拉伯雷，约1483-94—1553-04-09约）",
   "country": "法国",
-  "birth": 1490,
+  "birth": null,
   "death": 1553,
   "birth_year": 1490,
   "death_year": 1553,
-  "era": "近代",
-  "summary": "拉伯雷，希伊附近的法国文艺复兴医生与人文主义者——五卷滑稽杰作《巨人传》的作者（化名 Alcofribas Nasier，其名易位构词）（Britannica）。'His creative exuberance, colorful and wide-ranging vocabulary, and literary variety have gained him a lasting place in the history of 16th-century French literature'（B295）。'Rabelais used scatology aesthetically, not gratuitously'（将粪便学审美化而非随意——B295）；讽刺'social institutions, dogmas, educational traditions, and philosophical methodologies'（B295）。",
+  "era": "古代",
+  "summary": "拉伯雷，希农附近 Seuilly 生（约1483-94），卒于约1553年4月9日巴黎——'the French writer responsible for the comic masterpiece Gargantua and Pantagruel'（B365）。医生与人文主义者：1530年蒙彼利埃学医、1532年里昂主宫医院医生（B365）。Pantagruel (1532)——笔名 Alcofribas Nasier 出版——被索邦斥为淫秽但'became a popular success'（B365）；Gargantua (约1534/1535)——德廉美修道院'rejects poverty, celibacy, and obedience'（B365）；Tiers livre (1546)——'Rabelais's most profound work'（B365）；Quart livre (1552)——'his longest book'（B365）。'Rabelais used scatology aesthetically, not gratuitously'（B365）。",
   "timeline": [
     {
       "year": 1490,
-      "text": "约生于希伊附近（Britannica：Born c. 1483–94, Seuilly, near Chinon）。",
-      "src": "B295"
+      "text": "约1483-94年间生于希农附近Seuilly（B365）。",
+      "src": "B365"
+    },
+    {
+      "year": 1530,
+      "text": "蒙彼利埃大学学医（B365）。",
+      "src": "B365"
     },
     {
       "year": 1532,
-      "text": "《庞固埃》以化名出版——被索邦谴责为淫秽但成为畅销（B295：condemned by the Sorbonne……became a popular success）。",
-      "src": "B295"
+      "text": "以笔名出版 Pantagruel——索邦斥为淫秽但畅销（B365）。",
+      "src": "B365"
     },
     {
-      "year": 1534,
-      "text": "《高康大》首版约于是年（B295：probably published in 1534）。",
-      "src": "B295"
-    },
-    {
-      "year": 1552,
-      "text": "《第四卷》全本出版（B295：full Quart livre published 1552）。",
-      "src": "B295"
+      "year": 1546,
+      "text": "Tiers livre——'最深刻的作品'——再遭索邦斥责、逃亡梅斯（B365）。",
+      "src": "B365"
     },
     {
       "year": 1553,
-      "text": "约1553年4月9日卒于巴黎（B295：probably April 9, 1553, Paris）。",
-      "src": "B295"
+      "text": "约4月9日卒于巴黎（B365）。",
+      "src": "B365"
     }
   ],
   "major_works": [
     {
       "work_id": "jurenzhuan",
-      "note": "五卷小说（B295：1532—1564）"
+      "note": "五部（B365：1532-1564）"
     },
     {
-      "title": "第三卷",
-      "note": "（B295：Tiers livre 1546，遭禁后逃梅斯）"
-    },
-    {
-      "title": "第四卷、第五卷",
-      "note": "（B295：Quart livre 1548/1552；第五卷1564，作者归属有争议）"
+      "title": "第三书",
+      "note": "（B365：Tiers livre (1546)——'his most profound work'）"
     }
   ],
   "style": [
-    "'creative exuberance, colorful and wide-ranging vocabulary'（B295）。",
-    "'scatology aesthetically, not gratuitously'（B295——审美化的粗俗）。",
-    "讽刺社会制度、教条、教育传统与哲学方法论（B295）。"
+    "文艺复兴法语的丰富词汇（B365：rich use of Renaissance French）。",
+    "从粗野滑稽到深刻讽刺（B365：gross burlesque to profound satire）。",
+    " aesthetically 的秽语书写（B365）。"
   ],
-  "status": "Britannica 定位拉伯雷为16世纪法国文学史上占永恒一席的文艺复兴医生与人文主义者（B295）。",
+  "status": "Britannica 定位拉伯雷为《高康大与庞大固埃》的作者、16世纪法国文学史上的持久地位（B365）。",
   "sources": [
-    "B295"
+    "B365"
   ],
-  "dates_source": "B295",
+  "dates_source": "B365",
   "pending": [
-    "生年（约1483—1494多说）与卒日核对。",
-    "五卷卷名与出版年表核对。",
-    "第五卷归属争议细节待核。"
+    "生年（1483-94区间）待核。",
+    "第五书作者存疑（B365：authorship disputed）。",
+    "'Rabelaisian'术语待核（B365 有载：misleading）。"
   ]
 }

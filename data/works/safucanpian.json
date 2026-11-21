@@ -1,0 +1,105 @@
+{
+  "id": "safucanpian",
+  "title": "萨福诗残篇",
+  "original_title": "Fragments（九卷本散佚残篇）",
+  "region": "希腊",
+  "era": "古代",
+  "era_detail": "公元前7-6世纪",
+  "genre": "抒情诗（残篇）",
+  "genre_group": "诗歌",
+  "language": "希腊语（爱奥利亚方言）",
+  "author_id": "sappho",
+  "author_name": "萨福",
+  "year_display": "约公元前600年（Britannica B364：约前610-约前570——亚历山大里亚九卷本编订后世散佚）",
+  "year_sort": -600,
+  "background": [
+    "Britannica（B364）：'greatly admired in all ages for the beauty of her writing style'——措辞'concise, direct, and picturesque'。",
+    "Britannica（B364）：主题围绕其女性社群 thiasos——阿佛洛狄忒为守护神；'Only the ode to Aphrodite, 28 lines long, is complete'——次长残篇16行。",
+    "Britannica（B364）：婚礼歌（epithalamia）占 oeuvre 的重要部分；1898年起纸草发现使残篇大增。"
+  ],
+  "outline": [
+    "《阿佛洛狄忒颂》（唯一完整，28行）：向女神求援以说服所爱（B364）。",
+    "残篇中的婚礼歌与花环、香膏等阿佛洛狄忒仪式意象（B364：flowers, bright garlands...altars smoking with incense）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "社群的引领者",
+      "note": "（B364：thiasos 语境）"
+    },
+    {
+      "name": "阿佛洛狄忒",
+      "identity": "守护神",
+      "note": "（B364：tutelary divinity）"
+    }
+  ],
+  "themes": [
+    "激情作为'女神所驱使的不可逃避之力'（B364：love is passion, an inescapable power）。",
+    "女性社群与教育（B364：thiasos——education of young women）。",
+    "回忆与乡愁（B364：nostalgia and memory）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the beauty of her writing style'（B364）。",
+      "source": "B364"
+    },
+    {
+      "text": "Britannica：与阿尔基洛科斯、阿尔凯奥斯并列（B364）。",
+      "source": "B364"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "残篇的断裂性。",
+      "爱奥利亚方言（读译本）。"
+    ],
+    "editions": [
+      "《萨福诗残篇》中译本（人民文学/上海三联等——通说待核）。",
+      "希腊语原版（公有领域）。"
+    ],
+    "order": "希腊抒情诗首选；与《神谱》等对读。"
+  },
+  "pending": [
+    "'萨福体'诗节术语待核（B364未载）。",
+    "残篇编号体系（Lobel-Page等）待核。",
+    "'九卷'编订细节待核（B364口径）。"
+  ],
+  "sources": [
+    "B364"
+  ],
+  "year_source": "B364",
+  "author_source": "B364",
+  "related_works": [
+    "xuboliweng",
+    "diyuzhiji",
+    "leiyu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "萨福残篇抒情结构图",
+    "cards": [
+      {
+        "title": "阿佛洛狄忒",
+        "text": "唯一完整的28行（B364）",
+        "color": "gold"
+      },
+      {
+        "title": "thiasos",
+        "text": "女性社群（B364）",
+        "color": "family"
+      },
+      {
+        "title": "激情",
+        "text": "女神驱使的力量（B364）",
+        "color": "main"
+      },
+      {
+        "title": "残篇",
+        "text": "纸草的馈赠（B364）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
