@@ -1,0 +1,63 @@
+{
+  "id": "sterne",
+  "name": "劳伦斯·斯特恩",
+  "foreign_name": "Laurence Sterne（劳伦斯·斯特恩，1713-11-24—1768-03-18）",
+  "country": "爱尔兰",
+  "birth": 1713,
+  "death": 1768,
+  "birth_year": 1713,
+  "death_year": 1768,
+  "era": "近代",
+  "summary": "斯特恩，爱尔兰Clonmel生，英国小说家与约克教士——1768年卒，54岁（B398）。Tristram Shandy（项狄传）——九卷1759-67（前两卷自费于约克出版）——'a novel in which story is subordinate to the free associations and digressions of its narrator'（故事从属于叙述者的自由联想与离题——B398）；洛克心理学影响——心理小说与意识流小说的先声（B398）。A Sentimental Journey（感伤旅行, 1768）——以'Mr. Yorick'署名——'Defies travel-book conventions; focuses on meaningful human connection'（B398）。遗言'Now it is come'（B398）。",
+  "timeline": [
+    {
+      "year": 1713,
+      "text": "11月24日生于爱尔兰Clonmel（B398）。",
+      "src": "B398"
+    },
+    {
+      "year": 1759,
+      "text": "《项狄传》前两卷自费出版（B398）。",
+      "src": "B398"
+    },
+    {
+      "year": 1760,
+      "text": "布道集两卷出版（B398）。",
+      "src": "B398"
+    },
+    {
+      "year": 1768,
+      "text": "《感伤旅行》初刊（意大利部分未完成）；3月18日卒于伦敦（B398）。",
+      "src": "B398"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "xiangdizhuan",
+      "note": "1759-67九卷（B398）"
+    },
+    {
+      "title": "感伤旅行",
+      "note": "（B398：A Sentimental Journey (1768)——中译名待核）"
+    },
+    {
+      "title": "布道集",
+      "note": "（B398：sermons 两卷 (1760)）"
+    }
+  ],
+  "style": [
+    "'故事从属于自由联想与离题'（B398）。",
+    "洛克心理学与'意识流先声'（B398：forerunner of psychological and stream-of-consciousness fiction）。",
+    "'每句都写于心底最沉重时'（B398：greatest heaviness of heart）。"
+  ],
+  "status": "Britannica 定位斯特恩为《项狄传》作者、心理与意识流小说的先声（B398）。",
+  "sources": [
+    "B398"
+  ],
+  "dates_source": "B398",
+  "pending": [
+    "《项狄传》通行译名待核。",
+    "'盗尸解剖'轶事（B398已载）核对。",
+    "'墨迹页''黑页'等著名实验细节待核（B398未载——通说）。"
+  ]
+}

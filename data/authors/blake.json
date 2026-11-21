@@ -1,0 +1,63 @@
+{
+  "id": "blake",
+  "name": "威廉·布莱克",
+  "foreign_name": "William Blake（威廉·布莱克，1757-11-28—1827-08-12）",
+  "country": "英国",
+  "birth": 1757,
+  "death": 1827,
+  "birth_year": 1757,
+  "death_year": 1827,
+  "era": "近代",
+  "summary": "布莱克，伦敦生（父亲袜店楼上），诗人与版画家——1827年卒，69岁（B397）。Songs of Innocence (1789) 与 Songs of Experience (1794)——1794年合刊全题'Songs of Innocence and of Experience: Shewing the Two Contrary States of the Human Soul'（展示人类灵魂的两种对立状态——B397）；'The Lamb'与'The Tyger'分别为纯真之保护与败坏的象征（B397）。彩色印刷（illuminated printing）——'etched, printed, coloured, stitched, and sold'自印自售（妻 Catherine 协助）（B397）。Milton 中'Jerusalem'歌词——'which has become a kind of second national anthem in Britain'（B397）。引文'To see a World in a Grain of Sand / And a Heaven in a Wild Flower'（B397）。生前'generally neglected or (unjustly) dismissed as mad'——Gilchrist 1863年传记后声名复苏（B397）。",
+  "timeline": [
+    {
+      "year": 1757,
+      "text": "11月28日生于伦敦袜店楼上（B397）。",
+      "src": "B397"
+    },
+    {
+      "year": 1789,
+      "text": "Songs of Innocence（天真之歌）（B397）。",
+      "src": "B397"
+    },
+    {
+      "year": 1794,
+      "text": "Songs of Experience——合刊《天真与经验之歌》（B397）。",
+      "src": "B397"
+    },
+    {
+      "year": 1827,
+      "text": "8月12日卒于伦敦（B397）。",
+      "src": "B397"
+    }
+  ],
+  "major_works": [
+    {
+      "work_id": "tianzhenyujiy",
+      "note": "1789/1794合刊（B397）"
+    },
+    {
+      "title": "弥尔顿",
+      "note": "（B397：Milton (1804-?11)——含'Jerusalem'歌词）"
+    },
+    {
+      "title": "耶路撒冷",
+      "note": "（B397：Jerusalem (1804-?20)）"
+    }
+  ],
+  "style": [
+    "'人类灵魂的两种对立状态'（B397：Two Contrary States of the Human Soul）。",
+    "彩色印刷的自印自售（B397：illuminated printing）。",
+    "'一沙一世界'的箴言诗（B397 引文）。"
+  ],
+  "status": "Britannica 定位布莱克为诗人版画家、生前被忽视而身后复兴（B397）。",
+  "sources": [
+    "B397"
+  ],
+  "dates_source": "B397",
+  "pending": [
+    "《天真与经验之歌》通行译名待核。",
+    "'彩色印刷法'来历（兄 Robert 说——B397 提及问答）待核。",
+    "'老虎'/'羔羊'细节核对（B397已载象征定位）。"
+  ]
+}

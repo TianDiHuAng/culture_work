@@ -1,0 +1,100 @@
+{
+  "id": "tianzhenyujiy",
+  "title": "天真与经验之歌",
+  "original_title": "Songs of Innocence and of Experience",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "18世纪80-90年代",
+  "genre": "诗集（彩色印刷）",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "blake",
+  "author_name": "威廉·布莱克",
+  "year_display": "1789/1794年（Britannica B397：Songs of Innocence (1789) 与 Songs of Experience (1794)——1794年合刊全题'Shewing the Two Contrary States of the Human Soul'）",
+  "year_sort": 1794,
+  "background": [
+    "Britannica（B397）：1794年合刊全题'Songs of Innocence and of Experience: Shewing the Two Contrary States of the Human Soul'（展示人类灵魂的两种对立状态）。",
+    "Britannica（B397）：'The Lamb'与'The Tyger'分别为纯真之保护与败坏的象征。",
+    "Britannica（B397）：彩色印刷——'etched, printed, coloured, stitched, and sold'自印自售（妻 Catherine 协助）。"
+  ],
+  "outline": [
+    "（通说待核）'羔羊'与'老虎'：同一造物主的两面。",
+    "（通说待核）《扫烟囱的孩子》两版本的对位。"
+  ],
+  "characters": [
+    {
+      "name": "羔羊/老虎",
+      "identity": "纯真与经验的象征",
+      "note": "（B397：symbols of innocence's protection and corruption）"
+    }
+  ],
+  "themes": [
+    "'人类灵魂的两种对立状态'（B397）。",
+    "羔羊/老虎的象征对位（B397）。",
+    "自印自售的艺术革命（B397：illuminated printing）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Shewing the Two Contrary States of the Human Soul'（B397）。",
+      "source": "B397"
+    },
+    {
+      "text": "Britannica：Gilchrist 1863年传记后声名复苏（B397 交叉）。",
+      "source": "B397"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'彩色印刷'的图文合体。",
+      "两版的对位阅读。"
+    ],
+    "editions": [
+      "《天真与经验之歌》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "布莱克首选；与《耶路撒冷》对读。"
+  },
+  "pending": [
+    "《羔羊》《老虎》细节核对（B397已载象征定位）。",
+    "1789/1794年版式差异待核。",
+    "'Milton'中'Jerusalem'歌词（B397已载）核对。"
+  ],
+  "sources": [
+    "B397"
+  ],
+  "year_source": "B397",
+  "author_source": "B397",
+  "related_works": [
+    "songge1819",
+    "caihuaji",
+    "xianrenji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《天真与经验之歌》对位结构图",
+    "cards": [
+      {
+        "title": "天真",
+        "text": "羔羊的保护（B397）",
+        "color": "family"
+      },
+      {
+        "title": "经验",
+        "text": "老虎的败坏（B397）",
+        "color": "antagonist"
+      },
+      {
+        "title": "对位",
+        "text": "'两种对立状态'（B397）",
+        "color": "main"
+      },
+      {
+        "title": "彩色印刷",
+        "text": "自印自售（B397）",
+        "color": "gold"
+      }
+    ]
+  }
+}

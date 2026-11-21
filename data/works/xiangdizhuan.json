@@ -1,0 +1,105 @@
+{
+  "id": "xiangdizhuan",
+  "title": "项狄传",
+  "original_title": "The Life and Opinions of Tristram Shandy, Gentleman",
+  "region": "英国",
+  "era": "近代",
+  "era_detail": "18世纪50-60年代",
+  "genre": "长篇小说（九卷）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "sterne",
+  "author_name": "劳伦斯·斯特恩",
+  "year_display": "1759-67年（Britannica B398：九卷——'a novel in which story is subordinate to the free associations and digressions of its narrator'）",
+  "year_sort": 1759,
+  "background": [
+    "Britannica（B398）：'a novel in which story is subordinate to the free associations and digressions of its narrator'（故事从属于叙述者的自由联想与离题）。",
+    "Britannica（B398）：洛克心理学影响——'forerunner of psychological and stream-of-consciousness fiction'（心理小说与意识流小说的先声）。",
+    "Britannica（B398）：前两卷自费于约克出版（1759年末）；斯特恩自言每句都'written under the greatest heaviness of heart'。"
+  ],
+  "outline": [
+    "（通说待核——B398未载剧情）'项狄'的出生被叙述延宕：名字、鼻子与'窗户'。",
+    "（通说待核）'墨迹页'与'黑页'的实验（通说待核——B398未载）。"
+  ],
+  "characters": [
+    {
+      "name": "特里斯特拉姆",
+      "identity": "未出生的主角",
+      "note": "（B398 书名人物）"
+    },
+    {
+      "name": "托比叔叔",
+      "identity": "伤腿的叔叔",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'故事从属于联想与离题'（B398）。",
+    "'意识流小说的先声'（B398：forerunner）。",
+    "'心底最沉重'的滑稽（B398 引文）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'forerunner of psychological and stream-of-consciousness fiction'（B398）。",
+      "source": "B398"
+    },
+    {
+      "text": "Britannica：'story is subordinate to...digressions'（B398）。",
+      "source": "B398"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "离题的结构（无'故事线'）。",
+      "十八世纪讽刺语境。"
+    ],
+    "editions": [
+      "《项狄传》中译本（人民文学/上海译文等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "斯特恩代表作；与《感伤旅行》对读。"
+  },
+  "pending": [
+    "九卷年份核对（B398：1759-67）。",
+    "'墨迹页/黑页'实验核对（通说——B398未载）。",
+    "托比叔叔细节待核。"
+  ],
+  "sources": [
+    "B398"
+  ],
+  "year_source": "B398",
+  "author_source": "B398",
+  "related_works": [
+    "luoting",
+    "weite",
+    "sangeshibing"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《项狄传》离题结构图",
+    "cards": [
+      {
+        "title": "离题",
+        "text": "'自由联想'的叙事（B398）",
+        "color": "main"
+      },
+      {
+        "title": "延宕",
+        "text": "出生的被推迟（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "先声",
+        "text": "意识流的祖先（B398）",
+        "color": "family"
+      },
+      {
+        "title": "滑稽",
+        "text": "'心底最沉重'（B398引文）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}
