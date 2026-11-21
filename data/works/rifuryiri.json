@@ -1,0 +1,100 @@
+{
+  "id": "rifuryiri",
+  "title": "日复一日",
+  "original_title": "Giorno dopo giorno",
+  "region": "意大利",
+  "era": "近代",
+  "era_detail": "20世纪40年代末",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "意大利语",
+  "author_id": "quasimodo",
+  "author_name": "萨瓦多尔·夸西莫多",
+  "year_display": "1947年（Britannica B354：Giorno dopo giorno (1947)）",
+  "year_sort": 1947,
+  "background": [
+    "Britannica（B354）：Giorno dopo giorno——战后转向之作——'Many of his poems recalled the injustices of the fascist regime, the horrors of the war, and Italian guilt.'",
+    "Britannica（B354）：夸西莫多——1959诺奖。",
+    "题材（通说待核）：战后社会诗——语言'朴素、意象具体直接'（B354）。"
+  ],
+  "outline": [
+    "（通说待核）战后 Italy 的罪与哀。",
+    "（通说待核）'日复一日'：重建的岁月。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "战后诗人",
+      "note": "（B354 语系）"
+    }
+  ],
+  "themes": [
+    "法西斯罪行的回忆（B354：injustices of the fascist regime）。",
+    "战争的恐怖与罪责（B354：horrors of the war, Italian guilt）。",
+    "'朴素的语言'（B354：simple in language）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Giorno dopo giorno (1947)（B354）。",
+      "source": "B354"
+    },
+    {
+      "text": "Britannica：1959诺奖（B354 交叉）。",
+      "source": "B354"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "战后政治诗。",
+      "与隐逸期的对照。"
+    ],
+    "editions": [
+      "《日复一日》中译名待核。",
+      "意大利文原版。"
+    ],
+    "order": "夸西莫多战后篇；与《瞬息间是夜晚》对读。"
+  },
+  "pending": [
+    "篇目核对（B354未载）。",
+    "1947年出版细节待核。",
+    "'转向'评价（B354）核对。"
+  ],
+  "sources": [
+    "B354"
+  ],
+  "year_source": "B354",
+  "author_source": "B354",
+  "related_works": [
+    "shunxijiandeyewan",
+    "wuguigu",
+    "huoluan"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《日复一日》战后结构图",
+    "cards": [
+      {
+        "title": "日复一日",
+        "text": "重建的岁月（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "罪责",
+        "text": "意大利的清算（B354）",
+        "color": "main"
+      },
+      {
+        "title": "朴素",
+        "text": "语言的变化（B354）",
+        "color": "family"
+      },
+      {
+        "title": "战争",
+        "text": "恐怖的回忆（B354）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

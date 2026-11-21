@@ -1,0 +1,100 @@
+{
+  "id": "zishiburi",
+  "title": "紫式部日记",
+  "original_title": "紫式部日記",
+  "region": "日本",
+  "era": "古代",
+  "era_detail": "11世纪初",
+  "genre": "日记",
+  "genre_group": "散文",
+  "language": "日语",
+  "author_id": "murasakishikibu",
+  "author_name": "紫式部",
+  "year_display": "作者页注记：Britannica——紫式部日记（Diaries of Court Ladies of Old Japan 1935 英译——写于约1008-1010说通说待核）",
+  "year_sort": 1008,
+  "background": [
+    "作者页注记：紫式部日记——'（Britannica：Diaries of Court Ladies of Old Japan 1935 英译）'。",
+    "Britannica：紫式部——《源氏物语》作者（作者页交叉）。",
+    "题材（通说待核）：宫廷女官日记——中宫彰子的沙龙与'物哀'的观察。"
+  ],
+  "outline": [
+    "（通说待核）四段日记（存目）：宫廷记事与《源氏》的执笔。",
+    "（通说待核）'夜半的宫中'与女房们的评论。"
+  ],
+  "characters": [
+    {
+      "name": "紫式部",
+      "identity": "女官/作家",
+      "note": "（作者页交叉）"
+    }
+  ],
+  "themes": [
+    "宫廷的女房文化（通说待核）。",
+    "'日记'与'物语'的互文（通说待核）。",
+    "《源氏物语》的创作现场（作者页交叉）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Diaries of Court Ladies of Old Japan (1935英译)（作者页注记）。",
+      "source": "B226"
+    },
+    {
+      "text": "Britannica：《源氏物语》为代表作（作者页交叉）。",
+      "source": "B226"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "平安朝宫廷语。",
+      "日记的残存结构。"
+    ],
+    "editions": [
+      "《紫式部日记》中译本（人民文学等——通说待核）。",
+      "日文原版（公有领域）。"
+    ],
+    "order": "《源氏物语》的伴读。"
+  },
+  "pending": [
+    "存世段落结构核对（通说）。",
+    "约1008-1010写作年份待核。",
+    "1935年英译本细节待核。"
+  ],
+  "sources": [
+    "B226"
+  ],
+  "year_source": "B226",
+  "author_source": "B226",
+  "related_works": [
+    "leiyu",
+    "nianzhu",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《紫式部日记》宫廷结构图",
+    "cards": [
+      {
+        "title": "日记",
+        "text": "女房的眼睛（书名）",
+        "color": "main"
+      },
+      {
+        "title": "宫廷",
+        "text": "中宫的沙龙（通说）",
+        "color": "family"
+      },
+      {
+        "title": "物语",
+        "text": "执笔的现场（作者页交叉）",
+        "color": "gold"
+      },
+      {
+        "title": "观察",
+        "text": "'物哀'的批评（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

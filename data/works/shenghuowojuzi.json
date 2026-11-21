@@ -1,0 +1,100 @@
+{
+  "id": "shenghuowojuzi",
+  "title": "生活，我的姊妹",
+  "original_title": "Сестра моя — жизнь",
+  "region": "俄国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "俄语",
+  "author_id": "pasternak",
+  "author_name": "鲍里斯·帕斯捷尔纳克",
+  "year_display": "1922年（作者页注记：Britannica——生活，我的姊妹 (1922)——成名诗集）",
+  "year_sort": 1922,
+  "background": [
+    "作者页注记：生活，我的姊妹 (1922)——'成名诗集（Britannica）'。",
+    "Britannica：帕斯捷尔纳克——1958诺奖（《日瓦戈医生》作者——交叉）。",
+    "题材（通说待核）：'主题变奏'式的抒情短诗——夏日与返祖的梦。"
+  ],
+  "outline": [
+    "（通说待核）以'变奏'为题的组诗：夏日的旅程。",
+    "（通说待核）'生活，我的姊妹'开篇（不采为引文）。"
+  ],
+  "characters": [
+    {
+      "name": "抒情'我'",
+      "identity": "诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'成名诗集'（B注记）。",
+    "抒情与革命的并置（通说待核）。",
+    "'变奏'的音乐结构（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：成名诗集（作者页注记）。",
+      "source": "B097"
+    },
+    {
+      "text": "Britannica：1958诺奖（作者页交叉）。",
+      "source": "B097"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'变奏'组诗结构。",
+      "未来主义余响（通说待核）。"
+    ],
+    "editions": [
+      "《生活，我的姊妹》中译本（人民文学等——通说待核）。",
+      "俄文原版（公有领域状态待核）。"
+    ],
+    "order": "帕斯捷尔纳克诗歌首选；后接《日瓦戈医生》。"
+  },
+  "pending": [
+    "1922年出版细节待核。",
+    "组诗篇目核对（通说）。",
+    "'成名'评价出处核对。"
+  ],
+  "sources": [
+    "B097"
+  ],
+  "year_source": "B097",
+  "author_source": "B097",
+  "related_works": [
+    "leiyu",
+    "nianzhu",
+    "ezhihua"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《生活，我的姊妹》变奏结构图",
+    "cards": [
+      {
+        "title": "变奏",
+        "text": "组诗的结构（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "夏天",
+        "text": "抒情的季节（通说）",
+        "color": "main"
+      },
+      {
+        "title": "生活",
+        "text": "'我的姊妹'（书名）",
+        "color": "family"
+      },
+      {
+        "title": "1922",
+        "text": "成名之年（B注记）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

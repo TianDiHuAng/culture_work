@@ -1,0 +1,100 @@
+{
+  "id": "shizhang",
+  "title": "诗章",
+  "original_title": "The Cantos",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪（1915—1962）",
+  "genre": "现代史诗（未完成）",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "pound",
+  "author_name": "埃兹拉·庞德",
+  "year_display": "1915-1962年（作者页注记：Britannica——诗章（The Cantos, 1915—1962）——毕生巨作（begun 1915））",
+  "year_sort": 1915,
+  "background": [
+    "作者页注记：诗章——'毕生巨作（Britannica：begun 1915）'——至1962。",
+    "Britannica：庞德——现代主义的组织者（作者页交叉）。",
+    "题材（通说待核）：100余章的'现代史诗'——奥德赛框架与经济'史诗'。"
+  ],
+  "outline": [
+    "（通说待核）起于'安塞斯之航'（Canto I 译涅斯托尔——通说待核）。",
+    "（通说待核）比萨诗章与中国山（Canto LXXXIV等——通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "诗人/航行者",
+      "identity": "多声部",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'现代史诗'的野心（B注记：毕生巨作）。",
+    "经济与文化的'史诗'（通说待核）。",
+    "'Make it new'的实践（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Cantos——'begun 1915'（作者页注记）。",
+      "source": "B155"
+    },
+    {
+      "text": "Britannica：庞德意象派与现代主义（作者页交叉）。",
+      "source": "B155"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "多语言的拼贴。",
+      "'未完成'的体例。"
+    ],
+    "editions": [
+      "《诗章》中译本（人民文学等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "庞德巨著；配合《莫伯利》与导读阅读。"
+  },
+  "pending": [
+    "章数（109+残章说）核对（通说）。",
+    "各卷出版年份待核。",
+    "'比萨诗章'细节待核。"
+  ],
+  "sources": [
+    "B155"
+  ],
+  "year_source": "B155",
+  "author_source": "B155",
+  "related_works": [
+    "xiusaierwenmoboli",
+    "sigesizhongzou",
+    "wuya"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《诗章》史诗结构图",
+    "cards": [
+      {
+        "title": "诗章",
+        "text": "毕生的拼贴（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "奥德赛",
+        "text": "航行的框架（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "经济",
+        "text": "'史诗'的执念（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "未完成",
+        "text": "1915-1962（B注记）",
+        "color": "family"
+      }
+    ]
+  }
+}

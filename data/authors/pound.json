@@ -10,17 +10,50 @@
   "era": "现当代",
   "summary": "庞德，爱达荷州海利人，美国诗人与批评家——'did more than anyone else to advance modernism in English/American literature'（比任何人都更推动了英美文学中的现代主义——Britannica），扶持艾略特、乔伊斯、叶芝、海明威、弗罗斯特和劳伦斯（Britannica）。意象派（Imagism 1912—14）领袖——起草宣言、编《意象主义者》（1914，Britannica）。《诗章》（1915始）、《休·塞尔温·莫伯利》《华夏集》（Cathay——据费诺罗萨手稿改编——Britannica）；《向塞克斯图斯·普罗佩提乌斯致敬》（Britannica）。二战亲法西斯广播、战后被捕、圣伊丽莎白医院约12年（Britannica）。《比萨诗章》获1948/49博林根奖引发公愤（Britannica）。1972年11月1日卒于威尼斯（Britannica）。",
   "timeline": [
-    {"year": "1885-10-30", "text": "生于爱达荷州海利（Britannica：Born October 30, 1885, in Hailey, Idaho）。", "src": "B155"},
-    {"year": "1901—1906", "text": "宾夕法尼亚大学、汉密尔顿学院、再入宾大——掌握拉丁语、希腊语、法语、意大利语、德语、西班牙语、普罗旺斯语和盎格鲁-撒克逊语（Britannica）。", "src": "B155"},
-    {"year": "1908—1920", "text": "伦敦：《狂怒》(1908)、意象派宣言、《_imgistes》(1914)；《华夏集》(Cathay, 1915——据 Fenollosa 手稿——Britannica)；《休·塞尔温·莫伯利》；《诗章》始作(1915，Britannica)。", "src": "B155"},
-    {"year": "1920—1945", "text": "巴黎（助乔伊斯出版）→拉帕洛；二战意大利广播——亲法西斯（Britannica：His pro-Fascist WWII broadcasts in Italy led to postwar arrest）；1945年被捕。", "src": "B155"},
-    {"year": "1945—1958", "text": "圣伊丽莎白医院约12年（Britannica：spent about 12 years confined at Saint Elizabeth's Hospital）；《比萨诗章》获博林根奖(1948/49)引发公愤（Britannica：which sparked public outrage）。", "src": "B155"},
-    {"year": "1958—1972", "text": "获释后回意大利；1969年《诗章》最后发表；1972-11-01卒于威尼斯（Britannica）。", "src": "B155"}
+    {
+      "year": "1885-10-30",
+      "text": "生于爱达荷州海利（Britannica：Born October 30, 1885, in Hailey, Idaho）。",
+      "src": "B155"
+    },
+    {
+      "year": "1901—1906",
+      "text": "宾夕法尼亚大学、汉密尔顿学院、再入宾大——掌握拉丁语、希腊语、法语、意大利语、德语、西班牙语、普罗旺斯语和盎格鲁-撒克逊语（Britannica）。",
+      "src": "B155"
+    },
+    {
+      "year": "1908—1920",
+      "text": "伦敦：《狂怒》(1908)、意象派宣言、《_imgistes》(1914)；《华夏集》(Cathay, 1915——据 Fenollosa 手稿——Britannica)；《休·塞尔温·莫伯利》；《诗章》始作(1915，Britannica)。",
+      "src": "B155"
+    },
+    {
+      "year": "1920—1945",
+      "text": "巴黎（助乔伊斯出版）→拉帕洛；二战意大利广播——亲法西斯（Britannica：His pro-Fascist WWII broadcasts in Italy led to postwar arrest）；1945年被捕。",
+      "src": "B155"
+    },
+    {
+      "year": "1945—1958",
+      "text": "圣伊丽莎白医院约12年（Britannica：spent about 12 years confined at Saint Elizabeth's Hospital）；《比萨诗章》获博林根奖(1948/49)引发公愤（Britannica：which sparked public outrage）。",
+      "src": "B155"
+    },
+    {
+      "year": "1958—1972",
+      "text": "获释后回意大利；1969年《诗章》最后发表；1972-11-01卒于威尼斯（Britannica）。",
+      "src": "B155"
+    }
   ],
   "major_works": [
-    {"work_id": "shenzhouji", "note": "1915；中国诗翻译"},
-    {"title": "诗章（The Cantos, 1915—1962）", "note": "毕生巨作（Britannica：begun 1915）"},
-    {"title": "休·塞尔温·莫伯利", "note": "（Britannica 列举）"}
+    {
+      "work_id": "shenzhouji",
+      "note": "1915；中国诗翻译"
+    },
+    {
+      "work_id": "shizhang",
+      "note": "毕生巨作（Britannica：begun 1915）"
+    },
+    {
+      "work_id": "xiusaierwenmoboli",
+      "note": "（Britannica 列举）"
+    }
   ],
   "style": [
     "意象派：'直接处理事物'/'不用无益于呈现的词'/'按乐句排列'（宣言三条——通说待核）。",
@@ -28,7 +61,9 @@
     "《华夏集》：以费诺罗萨笔记译中国古诗——'李白/《长干行》'等——'现代主义的中国想象'（通说待核）。"
   ],
   "status": "Britannica 称庞德'did more than anyone else to advance modernism in English/American literature'（比任何人更推动了英美现代主义）；扶持艾略特（'il miglior fabbro'）乔伊斯叶芝海明威弗罗斯特劳伦斯（Britannica）；其亲法西斯广播与《比萨诗章》的博林根奖引发公愤（Britannica）——'诗与政治'的永恒纠结。",
-  "sources": ["B155"],
+  "sources": [
+    "B155"
+  ],
   "dates_source": "B155",
   "pending": [
     "《华夏集》(Cathay, 1915)与中国诗原文的对应（李白/《长干行》/王维等——通说待核）待核。",

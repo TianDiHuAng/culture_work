@@ -1,0 +1,105 @@
+{
+  "id": "nvhaiehefunv",
+  "title": "女孩和女人们的生活",
+  "original_title": "Lives of Girls and Women",
+  "region": "加拿大",
+  "era": "近代",
+  "era_detail": "20世纪70年代初",
+  "genre": "长篇小说（连缀短章）",
+  "genre_group": "小说",
+  "language": "英语",
+  "author_id": "munro",
+  "author_name": "艾丽丝·门罗",
+  "year_display": "作者页注记：Britannica 存目（年份通说待核——1971说）",
+  "year_sort": 1971,
+  "background": [
+    "作者页注记：女孩和女人们的生活——'（Britannica 存目）'。",
+    "Britannica：门罗——2013诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：德尔·乔丹的成长——安大略小镇'朱比利路'的连缀章。"
+  ],
+  "outline": [
+    "（通说待核）德尔与母亲：小镇的'体面'与性启蒙。",
+    "（通说待核）'艺术'章：相机先生（通说待核）。"
+  ],
+  "characters": [
+    {
+      "name": "德尔·乔丹",
+      "identity": "少女",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "母亲",
+      "identity": "推销员",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'连缀短章'的成长小说（通说待核）。",
+    "小镇女性的身体与知识（通说待核）。",
+    "门罗的'诺奖'语境（作者页交叉——待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：存目（作者页注记）。",
+      "source": "B246"
+    },
+    {
+      "text": "Britannica：2013诺奖（作者页交叉——待核）。",
+      "source": "B246"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "连缀章的边界。",
+      "1940-50年代安大略。"
+    ],
+    "editions": [
+      "《女孩和女人们的生活》中译本（南海出版公司等——通说待核）。",
+      "英文原版。"
+    ],
+    "order": "门罗唯一'长篇'；与《逃离》对读。"
+  },
+  "pending": [
+    "1971年出版细节待核。",
+    "德尔·乔丹人名核对（通说）。",
+    "'朱比利路'细节待核。"
+  ],
+  "sources": [
+    "B246"
+  ],
+  "year_source": "B246",
+  "author_source": "B246",
+  "related_works": [
+    "leiyu",
+    "zise",
+    "xinshigudeLieshou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《女孩和女人们的生活》成长连缀图",
+    "cards": [
+      {
+        "title": "德尔",
+        "text": "小镇的少女（通说）",
+        "color": "main"
+      },
+      {
+        "title": "连缀",
+        "text": "短章的成长（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "体面",
+        "text": "母亲的生意（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "艺术",
+        "text": "欲望的启蒙（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

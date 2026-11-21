@@ -1,0 +1,105 @@
+{
+  "id": "wuya",
+  "title": "乌鸦及其他诗",
+  "original_title": "The Raven and Other Poems",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "19世纪40年代",
+  "genre": "诗集",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "poe",
+  "author_name": "埃德加·爱伦·坡",
+  "year_display": "1845年（作者页注记：Britannica——The Raven, 1845）",
+  "year_sort": 1845,
+  "background": [
+    "作者页注记：乌鸦及其他诗——'（Britannica：The Raven, 1845）'。",
+    "Britannica：坡——短篇小说家与诗人（作者页交叉）。",
+    "题材（通说待核）：《乌鸦》——'永不复还'（Nevermore）的哀悼重复。"
+  ],
+  "outline": [
+    "（通说待核）《乌鸦》：深夜的访问者与丧失的恋人。",
+    "（通说待核）'永不复还'：鸟的回答。"
+  ],
+  "characters": [
+    {
+      "name": "叙述者",
+      "identity": "哀悼者",
+      "note": "（通说待核）"
+    },
+    {
+      "name": "乌鸦",
+      "identity": "不祥之鸟",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'永不复还'的重复（书名语境——通说待核）。",
+    "丧失与疯狂（通说待核）。",
+    "音韵的催眠术（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：The Raven (1845)（作者页注记）。",
+      "source": "B221"
+    },
+    {
+      "text": "Britannica：坡的短篇小说（作者页交叉）。",
+      "source": "B221"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "'乌鸦'的音步。",
+      "哥特语境。"
+    ],
+    "editions": [
+      "《乌鸦及其他诗》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "坡诗歌首选；与《厄舍府的倒塌》对读。"
+  },
+  "pending": [
+    "《乌鸦》首发（《美国评论》1845说）待核。",
+    "诗集篇目核对（通说）。",
+    "'Nevermore'重复细节待核。"
+  ],
+  "sources": [
+    "B221"
+  ],
+  "year_source": "B221",
+  "author_source": "B221",
+  "related_works": [
+    "kanbujian3",
+    "diyuzhiji",
+    "moluoyi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《乌鸦》重复结构图",
+    "cards": [
+      {
+        "title": "乌鸦",
+        "text": "黑暗的访问者（书名）",
+        "color": "antagonist"
+      },
+      {
+        "title": "永不复还",
+        "text": "重复的咒语（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "哀悼",
+        "text": "丧失的恋人（通说）",
+        "color": "main"
+      },
+      {
+        "title": "音韵",
+        "text": "催眠的结构（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

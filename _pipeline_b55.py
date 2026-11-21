@@ -1,0 +1,238 @@
+# -*- coding: utf-8 -*-
+"""批55：零成本 12 部（生活我的姊妹/孤独的迷宫/乌鸦/莫伯利/诗章/管锥编/日复一日/纳萨林/女孩和女人们的生活/紫式部日记/集古录/罗讷河之歌）"""
+import json, pathlib
+
+existing = {p.stem for p in pathlib.Path('data/works').glob('*.json')}
+titles = set()
+for p in pathlib.Path('data/works').glob('*.json'):
+    j = json.loads(p.read_text(encoding='utf-8'))
+    titles.add(j['title'])
+
+def src_of(aid):
+    return json.load(open(f'data/authors/{aid}.json', encoding='utf-8'))['sources'][0]
+
+def G(caption, cards):
+    return {"type": "grid", "width": 680, "height": 340, "caption": caption, "cards": cards}
+
+works = [
+{"id":"shenghuowojuzi","title":"生活，我的姊妹","original_title":"Сестра моя — жизнь","region":"俄国","era":"近代","era_detail":"20世纪20年代",
+"genre":"诗集","genre_group":"诗歌","language":"俄语","author_id":"pasternak","author_name":"鲍里斯·帕斯捷尔纳克",
+"year_display":"1922年（作者页注记：Britannica——生活，我的姊妹 (1922)——成名诗集）","year_sort":1922,
+"background":["作者页注记：生活，我的姊妹 (1922)——'成名诗集（Britannica）'。","Britannica：帕斯捷尔纳克——1958诺奖（《日瓦戈医生》作者——交叉）。","题材（通说待核）：'主题变奏'式的抒情短诗——夏日与返祖的梦。"],
+"outline":["（通说待核）以'变奏'为题的组诗：夏日的旅程。","（通说待核）'生活，我的姊妹'开篇（不采为引文）。"],
+"characters":[{"name":"抒情'我'","identity":"诗人","note":"（通说待核）"}],
+"themes":["'成名诗集'（B注记）。",
+ "抒情与革命的并置（通说待核）。",
+ "'变奏'的音乐结构（通说待核）。"],
+"influence":[{"text":"Britannica：成名诗集（作者页注记）。","source":src_of('pasternak')},{"text":"Britannica：1958诺奖（作者页交叉）。","source":src_of('pasternak')}],
+"reading":{"difficulties":["'变奏'组诗结构。","未来主义余响（通说待核）。"],
+ "editions":["《生活，我的姊妹》中译本（人民文学等——通说待核）。","俄文原版（公有领域状态待核）。"],
+ "order":"帕斯捷尔纳克诗歌首选；后接《日瓦戈医生》。"},
+"pending":["1922年出版细节待核。","组诗篇目核对（通说）。","'成名'评价出处核对。"],
+"sources":[src_of('pasternak')],"year_source":src_of('pasternak'),"author_source":src_of('pasternak'),"related_works":["riwageyisheng" if "riwageyisheng" in existing else "leiyu","nianzhu","ezhihua"],
+"svg":G("《生活，我的姊妹》变奏结构图",[{"title":"变奏","text":"组诗的结构（通说）","color":"gold"},{"title":"夏天","text":"抒情的季节（通说）","color":"main"},{"title":"生活","text":"'我的姊妹'（书名）","color":"family"},{"title":"1922","text":"成名之年（B注记）","color":"antagonist"}])},
+{"id":"gududemigong","title":"孤独的迷宫","original_title":"El laberinto de la soledad","region":"墨西哥","era":"近代","era_detail":"20世纪50年代",
+"genre":"文化随笔集","genre_group":"散文","language":"西班牙语","author_id":"paz","author_name":"奥克塔维奥·帕斯",
+"year_display":"1950年（作者页注记：Britannica——孤独的迷宫 (1950)——文化随笔）","year_sort":1950,
+"background":["作者页注记：孤独的迷宫 (1950)——'文化随笔（Britannica）'。","Britannica：帕斯——1990诺奖（作者页交叉——待核）。","题材（通说待核）：墨西哥人的'孤独'与'面具'——从普埃布拉的少女到'chiapaneco'的节日。"],
+"outline":["（通说待核）'墨西哥人'的性格解剖：面具与孤独。","（通说待核）'亡灵节'与'独立日'的仪式分析。"],
+"characters":[{"name":"（文化随笔无人物）","identity":"——","note":"民族志随笔"}],
+"themes":["'孤独'：墨西哥人的存在状况（书名语境——通说待核）。",
+ "'面具'与'男人的 FORMA'（通说待核）。",
+ "民族自省的随笔（B注记）。"],
+"influence":[{"text":"Britannica：El laberinto de la soledad (1950)（作者页注记）。","source":src_of('paz')},{"text":"Britannica：帕斯1990诺奖（作者页交叉——待核）。","source":src_of('paz')}],
+"reading":{"difficulties":["民族志的术语。","墨西哥节日与历史。"],
+ "editions":["《孤独的迷宫》中译本（人民文学等——通说待核）。","西班牙文原版。"],
+ "order":"帕斯散文首选；与《太阳石》对读。"},
+"pending":["章节结构核对（通说）。","1950年出版细节待核。","1990诺奖交叉核对。"],
+"sources":[src_of('paz')],"year_source":src_of('paz'),"author_source":src_of('paz'),"related_works":["peideluobalamo","huangliang","meiguobuqu"],
+"svg":G("《孤独的迷宫》面具结构图",[{"title":"迷宫","text":"孤独的状况（书名）","color":"main"},{"title":"面具","text":"墨西哥的脸（通说）","color":"gold"},{"title":"节日","text":"仪式的分析（通说）","color":"family"},{"title":"自省","text":"民族随笔（B注记）","color":"antagonist"}])},
+{"id":"wuya","title":"乌鸦及其他诗","original_title":"The Raven and Other Poems","region":"美国","era":"近代","era_detail":"19世纪40年代",
+"genre":"诗集","genre_group":"诗歌","language":"英语","author_id":"poe","author_name":"埃德加·爱伦·坡",
+"year_display":"1845年（作者页注记：Britannica——The Raven, 1845）","year_sort":1845,
+"background":["作者页注记：乌鸦及其他诗——'（Britannica：The Raven, 1845）'。","Britannica：坡——短篇小说家与诗人（作者页交叉）。","题材（通说待核）：《乌鸦》——'永不复还'（Nevermore）的哀悼重复。"],
+"outline":["（通说待核）《乌鸦》：深夜的访问者与丧失的恋人。","（通说待核）'永不复还'：鸟的回答。"],
+"characters":[{"name":"叙述者","identity":"哀悼者","note":"（通说待核）"},{"name":"乌鸦","identity":"不祥之鸟","note":"（通说待核）"}],
+"themes":["'永不复还'的重复（书名语境——通说待核）。",
+ "丧失与疯狂（通说待核）。",
+ "音韵的催眠术（通说待核）。"],
+"influence":[{"text":"Britannica：The Raven (1845)（作者页注记）。","source":src_of('poe')},{"text":"Britannica：坡的短篇小说（作者页交叉）。","source":src_of('poe')}],
+"reading":{"difficulties":["'乌鸦'的音步。","哥特语境。"],
+ "editions":["《乌鸦及其他诗》中译本（人民文学等——通说待核）。","英文原版（公有领域）。"],
+ "order":"坡诗歌首选；与《厄舍府的倒塌》对读。"},
+"pending":["《乌鸦》首发（《美国评论》1845说）待核。","诗集篇目核对（通说）。","'Nevermore'重复细节待核。"],
+"sources":[src_of('poe')],"year_source":src_of('poe'),"author_source":src_of('poe'),"related_works":["eshefu" if "eshefu" in existing else "kanbujian3","diyuzhiji","moluoyi"],
+"svg":G("《乌鸦》重复结构图",[{"title":"乌鸦","text":"黑暗的访问者（书名）","color":"antagonist"},{"title":"永不复还","text":"重复的咒语（通说）","color":"gold"},{"title":"哀悼","text":"丧失的恋人（通说）","color":"main"},{"title":"音韵","text":"催眠的结构（通说）","color":"family"}])},
+{"id":"xiusaierwenmoboli","title":"休·塞尔温·莫伯利","original_title":"Hugh Selwyn Mauberley","region":"美国","era":"近代","era_detail":"20世纪20年代",
+"genre":"长诗","genre_group":"诗歌","language":"英语","author_id":"pound","author_name":"埃兹拉·庞德",
+"year_display":"作者页注记：Britannica 列举（年份通说待核——1920说）","year_sort":1920,
+"background":["作者页注记：休·塞尔温·莫伯利——'（Britannica 列举）'。","Britannica：庞德——意象派与现代主义推动者（作者页交叉）。","题材（通说待核）：'莫伯利'——一个不合时宜的诗人的画像与自我告别。"],
+"outline":["（通说待核）十三首的序列：伦敦的'徒劳'与'卡利佩'。","（通说待核）'莫伯利'作为庞德的自我面具。"],
+"characters":[{"name":"莫伯利","identity":"过时诗人","note":"（通说待核）"}],
+"themes":["'与时代错位的诗人'（通说待核）。",
+ "伦敦文学界的讽刺（通说待核）。",
+ "告别与转向《诗章》（通说待核）。"],
+"influence":[{"text":"Britannica：列举（作者页注记）。","source":src_of('pound')},{"text":"Britannica：《诗章》为毕生巨作（作者页交叉）。","source":src_of('pound')}],
+"reading":{"difficulties":["十三首的序列。","'意象派'之后的语体（通说待核）。"],
+ "editions":["《休·塞尔温·莫伯利》中译本（人民文学等——通说待核）。","英文原版（公有领域状态待核）。"],
+ "order":"庞德中期；与《诗章》对读。"},
+"pending":["1920年出版（John Lane说）待核。","十三首结构核对（通说）。","'E.P. ode'开篇细节待核。"],
+"sources":[src_of('pound')],"year_source":src_of('pound'),"author_source":src_of('pound'),"related_works":["shizhang","sigesizhongzou","diyuzhiji"],
+"svg":G("《莫伯利》告别结构图",[{"title":"莫伯利","text":"过时的面具（通说）","color":"main"},{"title":"伦敦","text":"徒劳的文学界（通说）","color":"antagonist"},{"title":"告别","text":"转向《诗章》（通说）","color":"gold"},{"title":"序列","text":"十三首（通说）","color":"family"}])},
+{"id":"shizhang","title":"诗章","original_title":"The Cantos","region":"美国","era":"近代","era_detail":"20世纪（1915—1962）",
+"genre":"现代史诗（未完成）","genre_group":"诗歌","language":"英语","author_id":"pound","author_name":"埃兹拉·庞德",
+"year_display":"1915-1962年（作者页注记：Britannica——诗章（The Cantos, 1915—1962）——毕生巨作（begun 1915））","year_sort":1915,
+"background":["作者页注记：诗章——'毕生巨作（Britannica：begun 1915）'——至1962。","Britannica：庞德——现代主义的组织者（作者页交叉）。","题材（通说待核）：100余章的'现代史诗'——奥德赛框架与经济'史诗'。"],
+"outline":["（通说待核）起于'安塞斯之航'（Canto I 译涅斯托尔——通说待核）。","（通说待核）比萨诗章与中国山（Canto LXXXIV等——通说待核）。"],
+"characters":[{"name":"诗人/航行者","identity":"多声部","note":"（通说待核）"}],
+"themes":["'现代史诗'的野心（B注记：毕生巨作）。",
+ "经济与文化的'史诗'（通说待核）。",
+ "'Make it new'的实践（通说待核）。"],
+"influence":[{"text":"Britannica：The Cantos——'begun 1915'（作者页注记）。","source":src_of('pound')},{"text":"Britannica：庞德意象派与现代主义（作者页交叉）。","source":src_of('pound')}],
+"reading":{"difficulties":["多语言的拼贴。","'未完成'的体例。"],
+ "editions":["《诗章》中译本（人民文学等——通说待核）。","英文原版。"],
+ "order":"庞德巨著；配合《莫伯利》与导读阅读。"},
+"pending":["章数（109+残章说）核对（通说）。","各卷出版年份待核。","'比萨诗章'细节待核。"],
+"sources":[src_of('pound')],"year_source":src_of('pound'),"author_source":src_of('pound'),"related_works":["xiusaierwenmoboli","sigesizhongzou","wuya"],
+"svg":G("《诗章》史诗结构图",[{"title":"诗章","text":"毕生的拼贴（B注记）","color":"main"},{"title":"奥德赛","text":"航行的框架（通说）","color":"gold"},{"title":"经济","text":"'史诗'的执念（通说）","color":"antagonist"},{"title":"未完成","text":"1915-1962（B注记）","color":"family"}])},
+{"id":"guanzhuibian","title":"管锥编","original_title":"管锥编","region":"中国","era":"近代","era_detail":"20世纪70年代末",
+"genre":"学术札记","genre_group":"散文","language":"汉语（文言）","author_id":"qianzhongshu","author_name":"钱锺书",
+"year_display":"1979年（作者页注记：Britannica——管锥编 (1979)——'four-volume work spanning many languages'）","year_sort":1979,
+"background":["作者页注记：管锥编 (1979)——'中西比较诗学巨著（Britannica：four-volume work spanning many languages）'。","Britannica：钱锺书——《围城》作者（作者页交叉）。","题材（通说待核）：十部古籍札记——以西方文学互证中国经典。"],
+"outline":["（通说待核）《周易正义》《毛诗正义》《左传》等十书札记。","（通说待核）'管锥'：以管窥天的自谦与比较的巨网。"],
+"characters":[{"name":"（学术札记无人物）","identity":"——","note":"比较文学"}],
+"themes":["中西互证（B注记：spanning many languages）。",
+ "札记体（通说待核）。",
+ "'比较诗学'的开创（通说待核）。"],
+"influence":[{"text":"Britannica：'four-volume work spanning many languages'（作者页注记）。","source":src_of('qianzhongshu')},{"text":"Britannica：《围城》为小说代表作（作者页交叉）。","source":src_of('qianzhongshu')}],
+"reading":{"difficulties":["文言+多语种引文。","比较文学的方法。"],
+ "editions":["《管锥编》（中华书局——通说待核）。","1979年中华书局说待核。"],
+ "order":"钱锺书学术首选；与《谈艺录》对读。"},
+"pending":["十书清单核对（通说）。","1979年出版（中华书局说）待核。","'比较诗学'评价出处核对。"],
+"sources":[src_of('qianzhongshu')],"year_source":src_of('qianzhongshu'),"author_source":src_of('qianzhongshu'),"related_works":["xiaoshuoshilue","rensheng","laokong"],
+"svg":G("《管锥编》比较结构图",[{"title":"管锥","text":"以管窥天的自谦（书名）","color":"gold"},{"title":"中西","text":"多语种的互证（B注记）","color":"main"},{"title":"札记","text":"十书的网（通说）","color":"family"},{"title":"比较","text":"诗学的开创（通说）","color":"antagonist"}])},
+{"id":"rifuryiri","title":"日复一日","original_title":"Giorno dopo giorno","region":"意大利","era":"近代","era_detail":"20世纪40年代末",
+"genre":"诗集","genre_group":"诗歌","language":"意大利语","author_id":"quasimodo","author_name":"萨瓦多尔·夸西莫多",
+"year_display":"1947年（Britannica B354：Giorno dopo giorno (1947)）","year_sort":1947,
+"background":["Britannica（B354）：Giorno dopo giorno——战后转向之作——'Many of his poems recalled the injustices of the fascist regime, the horrors of the war, and Italian guilt.'","Britannica（B354）：夸西莫多——1959诺奖。","题材（通说待核）：战后社会诗——语言'朴素、意象具体直接'（B354）。"],
+"outline":["（通说待核）战后 Italy 的罪与哀。","（通说待核）'日复一日'：重建的岁月。"],
+"characters":[{"name":"抒情'我'","identity":"战后诗人","note":"（B354 语系）"}],
+"themes":["法西斯罪行的回忆（B354：injustices of the fascist regime）。",
+ "战争的恐怖与罪责（B354：horrors of the war, Italian guilt）。",
+ "'朴素的语言'（B354：simple in language）。"],
+"influence":[{"text":"Britannica：Giorno dopo giorno (1947)（B354）。","source":"B354"},{"text":"Britannica：1959诺奖（B354 交叉）。","source":"B354"}],
+"reading":{"difficulties":["战后政治诗。","与隐逸期的对照。"],
+ "editions":["《日复一日》中译名待核。","意大利文原版。"],
+ "order":"夸西莫多战后篇；与《瞬息间是夜晚》对读。"},
+"pending":["篇目核对（B354未载）。","1947年出版细节待核。","'转向'评价（B354）核对。"],
+"sources":["B354"],"year_source":"B354","author_source":"B354","related_works":["shunxijiandeyewan","wuguigu","huoluan"],
+"svg":G("《日复一日》战后结构图",[{"title":"日复一日","text":"重建的岁月（书名）","color":"gold"},{"title":"罪责","text":"意大利的清算（B354）","color":"main"},{"title":"朴素","text":"语言的变化（B354）","color":"family"},{"title":"战争","text":"恐怖的回忆（B354）","color":"antagonist"}])},
+{"id":"nasalin","title":"纳萨林","original_title":"Nazarín","region":"西班牙","era":"近代","era_detail":"19世纪90年代",
+"genre":"长篇小说","genre_group":"小说","language":"西班牙语","author_id":"galdos","author_name":"贝尼托·佩雷斯·加尔多斯",
+"year_display":"1895年（Britannica B370：Nazarín (1895)）","year_sort":1895,
+"background":["Britannica（B370）：Nazarín——加尔多斯作品列表。","Britannica（B370）：'perfected the Spanish realistic novel'。","题材（通说待核）：'圣愚'神父纳萨林——福音式流浪与世俗的审判。"],
+"outline":["（通说待核）纳萨林放弃教区：赤足流浪。","（通说待核）跟随的女人与监狱的'圣愚'结局。"],
+"characters":[{"name":"纳萨林","identity":"神父","note":"（B370 书名人物）"},{"name":"阿利西亚/贝阿特里斯","identity":"跟随者","note":"（通说待核）"}],
+"themes":["'圣愚'与体制（通说待核）。",
+ "福音理想与社会的冲突（书名语境——通说待核）。",
+ "'布纽埃尔电影'说待核（不采）。"],
+"influence":[{"text":"Britannica：Nazarín (1895)（B370）。","source":"B370"},{"text":"Britannica：加尔多斯现实主义（B370 作者级）。","source":"B370"}],
+"reading":{"difficulties":["福音书写与反教权（通说待核）。","19世纪末西班牙。"],
+ "editions":["《纳萨林》中译本（人民文学等——通说待核）。","西班牙文原版（公有领域）。"],
+ "order":"加尔多斯晚期；与《福尔图娜塔和哈辛塔》对读。"},
+"pending":["纳萨林人名核对（通说）。","1895年出版细节待核。","布纽埃尔1959年电影说待核（通说）。"],
+"sources":["B370"],"year_source":"B370","author_source":"B370","related_works":["fortunata","aimiliyajialuoti","xiaotouyugou"],
+"svg":G("《纳萨林》圣愚结构图",[{"title":"纳萨林","text":"福音的流浪者（通说）","color":"main"},{"title":"教区","text":"体制的背离（通说）","color":"antagonist"},{"title":"圣愚","text":"审判的讽刺（通说）","color":"gold"},{"title":"跟随者","text":"信仰的尘埃（通说）","color":"family"}])},
+{"id":"nvhaiehefunv","title":"女孩和女人们的生活","original_title":"Lives of Girls and Women","region":"加拿大","era":"近代","era_detail":"20世纪70年代初",
+"genre":"长篇小说（连缀短章）","genre_group":"小说","language":"英语","author_id":"munro","author_name":"艾丽丝·门罗",
+"year_display":"作者页注记：Britannica 存目（年份通说待核——1971说）","year_sort":1971,
+"background":["作者页注记：女孩和女人们的生活——'（Britannica 存目）'。","Britannica：门罗——2013诺奖（作者页交叉——待核）。","题材（通说待核）：德尔·乔丹的成长——安大略小镇'朱比利路'的连缀章。"],
+"outline":["（通说待核）德尔与母亲：小镇的'体面'与性启蒙。","（通说待核）'艺术'章：相机先生（通说待核）。"],
+"characters":[{"name":"德尔·乔丹","identity":"少女","note":"（通说待核）"},{"name":"母亲","identity":"推销员","note":"（通说待核）"}],
+"themes":["'连缀短章'的成长小说（通说待核）。",
+ "小镇女性的身体与知识（通说待核）。",
+ "门罗的'诺奖'语境（作者页交叉——待核）。"],
+"influence":[{"text":"Britannica：存目（作者页注记）。","source":src_of('munro')},{"text":"Britannica：2013诺奖（作者页交叉——待核）。","source":src_of('munro')}],
+"reading":{"difficulties":["连缀章的边界。","1940-50年代安大略。"],
+ "editions":["《女孩和女人们的生活》中译本（南海出版公司等——通说待核）。","英文原版。"],
+ "order":"门罗唯一'长篇'；与《逃离》对读。"},
+"pending":["1971年出版细节待核。","德尔·乔丹人名核对（通说）。","'朱比利路'细节待核。"],
+"sources":[src_of('munro')],"year_source":src_of('munro'),"author_source":src_of('munro'),"related_works":["yueliangyuliubianshi" if "yueliangyuliubianshi" in existing else "leiyu","zise","xinshigudeLieshou"],
+"svg":G("《女孩和女人们的生活》成长连缀图",[{"title":"德尔","text":"小镇的少女（通说）","color":"main"},{"title":"连缀","text":"短章的成长（通说）","color":"gold"},{"title":"体面","text":"母亲的生意（通说）","color":"antagonist"},{"title":"艺术","text":"欲望的启蒙（通说）","color":"family"}])},
+{"id":"zishiburi","title":"紫式部日记","original_title":"紫式部日記","region":"日本","era":"古代","era_detail":"11世纪初",
+"genre":"日记","genre_group":"散文","language":"日语","author_id":"murasakishikibu","author_name":"紫式部",
+"year_display":"作者页注记：Britannica——紫式部日记（Diaries of Court Ladies of Old Japan 1935 英译——写于约1008-1010说通说待核）","year_sort":1008,
+"background":["作者页注记：紫式部日记——'（Britannica：Diaries of Court Ladies of Old Japan 1935 英译）'。","Britannica：紫式部——《源氏物语》作者（作者页交叉）。","题材（通说待核）：宫廷女官日记——中宫彰子的沙龙与'物哀'的观察。"],
+"outline":["（通说待核）四段日记（存目）：宫廷记事与《源氏》的执笔。","（通说待核）'夜半的宫中'与女房们的评论。"],
+"characters":[{"name":"紫式部","identity":"女官/作家","note":"（作者页交叉）"}],
+"themes":["宫廷的女房文化（通说待核）。",
+ "'日记'与'物语'的互文（通说待核）。",
+ "《源氏物语》的创作现场（作者页交叉）。"],
+"influence":[{"text":"Britannica：Diaries of Court Ladies of Old Japan (1935英译)（作者页注记）。","source":src_of('murasakishikibu')},{"text":"Britannica：《源氏物语》为代表作（作者页交叉）。","source":src_of('murasakishikibu')}],
+"reading":{"difficulties":["平安朝宫廷语。","日记的残存结构。"],
+ "editions":["《紫式部日记》中译本（人民文学等——通说待核）。","日文原版（公有领域）。"],
+ "order":"《源氏物语》的伴读。"},
+"pending":["存世段落结构核对（通说）。","约1008-1010写作年份待核。","1935年英译本细节待核。"],
+"sources":[src_of('murasakishikibu')],"year_source":src_of('murasakishikibu'),"author_source":src_of('murasakishikibu'),"related_works":["yuanwuyu" if "yuanwuyu" in existing else "leiyu","nianzhu","tangjihuade"],
+"svg":G("《紫式部日记》宫廷结构图",[{"title":"日记","text":"女房的眼睛（书名）","color":"main"},{"title":"宫廷","text":"中宫的沙龙（通说）","color":"family"},{"title":"物语","text":"执笔的现场（作者页交叉）","color":"gold"},{"title":"观察","text":"'物哀'的批评（通说）","color":"antagonist"}])},
+{"id":"jigulu","title":"集古录","original_title":"集古录","region":"中国","era":"古代","era_detail":"北宋",
+"genre":"金石学著作","genre_group":"散文","language":"汉语（文言）","author_id":"ouyangxiu","author_name":"欧阳修",
+"year_display":"作者页注记：Britannica 列举——集古录（金石学——成书年份通说待核——1063跋尾说）","year_sort":1063,
+"background":["作者页注记：集古录——'金石学（Britannica 列举）'。","Britannica：欧阳修——北宋文宗（作者页交叉）。","题材（通说待核）：周秦至隋金石跋尾——'集古录跋尾'十卷。"],
+"outline":["（通说待核）金石拓片的跋尾：证史与赏鉴。","（通说待核）'集古'：千年文物的收集。"],
+"characters":[{"name":"（金石学无人物）","identity":"——","note":"学术著作"}],
+"themes":["金石学的开创（B注记：金石学）。",
+ "跋尾的证史与审美（通说待核）。",
+ "文物与历史互证（通说待核）。"],
+"influence":[{"text":"Britannica：集古录（作者页注记）。","source":src_of('ouyangxiu')},{"text":"Britannica：欧阳修文坛地位（作者页交叉）。","source":src_of('ouyangxiu')}],
+"reading":{"difficulties":["金石文字的释读。","宋代学术的'疑古'风气。"],
+ "editions":["《集古录》（《欧阳修全集》等——通说待核）。","宋刻本说待核。"],
+ "order":"欧阳修学术侧面；与《新五代史》对读。"},
+"pending":["跋尾十卷结构核对（通说）。","1063年跋尾成书说待核。","'金石学开创'评价核对。"],
+"sources":[src_of('ouyangxiu')],"year_source":src_of('ouyangxiu'),"author_source":src_of('ouyangxiu'),"related_works":["xiaoshuoshilue","luomashi","tangjihuade"],
+"svg":G("《集古录》金石结构图",[{"title":"集古","text":"文物的收集（书名）","color":"gold"},{"title":"跋尾","text":"证史的眼光（通说）","color":"main"},{"title":"金石","text":"学科的开创（B注记）","color":"family"},{"title":"宋代","text":"疑古的风气（通说）","color":"antagonist"}])},
+{"id":"luonhezhege","title":"罗讷河之歌","original_title":"Lou Pouèmo dóu Rose","region":"法国","era":"近代","era_detail":"19世纪90年代",
+"genre":"长篇叙事诗（12歌）","genre_group":"诗歌","language":"奥克语（普罗旺斯语）","author_id":"fmistral","author_name":"弗雷德里克·米斯特拉尔",
+"year_display":"1897年（Britannica B362：Lou Pouèmo dóu Rose (1897; The Song of the Rhône)）","year_sort":1897,
+"background":["Britannica（B362）：'his claim to greatness rests on his first and last long poems'——Mirèio 与本作——两首12歌史诗。","Britannica（B362）：'less musical and more dense in style than Mirèio...as full of life and colour'——罗讷河航程，荷兰王子与摆渡人之女的爱情因汽船撞沉驳船而双双溺亡。","Britannica（B362）：1904诺奖。"],
+"outline":["罗讷河航程：驳船 Lou Caburle 上的相遇与沉没（B362：voyage on the Rhône...the lovers are drowned）。","荷兰王子与摆渡人之女的恋情被'第一艘汽船'终结（B362）。"],
+"characters":[{"name":"荷兰王子","identity":"浪漫的旅人","note":"（B362：a romantic young prince of Holland）"},{"name":"摆渡人之女","identity":"罗讷河的女儿","note":"（B362：the daughter of a poor ferryman）"}],
+"themes":["现代（汽船）对传统（驳船）的碾压（B362 情节）。",
+ "'河'的史诗（书名语境）。",
+ "爱与灾难（B362：cut short by disaster）。"],
+"influence":[{"text":"Britannica：'his claim to greatness rests on...'（B362）。","source":"B362"},{"text":"Britannica：1904诺奖（B362 交叉）。","source":"B362"}],
+"reading":{"difficulties":["奥克语文本（读译本）。","罗讷河航运史。"],
+ "editions":["《罗讷河之歌》中译名（《罗讷河之诗》）待核。","奥克语原版（公有领域）。"],
+ "order":"米斯特拉尔收官史诗；与《米蕾伊》对读。"},
+"pending":["Lou Caburle 船名核对（B362已载）。","1897年出版细节待核。","'12歌'结构核对（B362：12 cantos）。"],
+"sources":["B362"],"year_source":"B362","author_source":"B362","related_works":["mileiyi","nongmin","xinnuofusuobaken"],
+"svg":G("《罗讷河之歌》航程结构图",[{"title":"罗讷河","text":"航程的史诗（书名）","color":"gold"},{"title":"驳船","text":"传统的沉没（B362）","color":"antagonist"},{"title":"恋人","text":"溺亡的终局（B362）","color":"main"},{"title":"汽船","text":"现代的碾压（B362）","color":"family"}])},
+]
+created = []
+for w in works:
+    if w['id'] in existing or w['title'] in titles:
+        print('SKIP (dup):', w['id'], w['title'])
+        continue
+    pathlib.Path(f"data/works/{w['id']}.json").write_text(json.dumps(w, ensure_ascii=False, indent=2), encoding='utf-8')
+    created.append(w['id'])
+    print('work', w['id'])
+
+def link(aid, wid, kw=None):
+    p = pathlib.Path(f'data/authors/{aid}.json')
+    j = json.loads(p.read_text(encoding='utf-8'))
+    if not any(m.get('work_id') == wid for m in j['major_works']):
+        done = False
+        if kw:
+            for i, m in enumerate(j['major_works']):
+                if m.get('title') and kw in m['title']:
+                    j['major_works'][i] = {"work_id": wid, "note": m['note']}
+                    done = True; break
+        if not done:
+            j['major_works'].append({"work_id": wid, "note": "（零成本批55）"})
+    p.write_text(json.dumps(j, ensure_ascii=False, indent=2), encoding='utf-8')
+    print('linked', aid, '->', wid)
+
+for wid, aid, kw in [('shenghuowojuzi','pasternak','生活，我的姊妹'),('gududemigong','paz','孤独的迷宫'),('wuya','poe','乌鸦'),('xiusaierwenmoboli','pound','莫伯利'),('shizhang','pound','诗章'),('guanzhuibian','qianzhongshu','管锥编'),('rifuryiri','quasimodo','日复一日'),('nasalin','galdos','纳萨林'),('nvhaiehefunv','munro','女孩和女人们的生活'),('zishiburi','murasakishikibu','紫式部日记'),('jigulu','ouyangxiu','集古录'),('luonhezhege','fmistral','罗讷河之歌')]:
+    if wid in created:
+        link(aid, wid, kw)
+print('BATCH55 DONE')

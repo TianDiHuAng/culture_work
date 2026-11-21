@@ -1,0 +1,105 @@
+{
+  "id": "nasalin",
+  "title": "纳萨林",
+  "original_title": "Nazarín",
+  "region": "西班牙",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "长篇小说",
+  "genre_group": "小说",
+  "language": "西班牙语",
+  "author_id": "galdos",
+  "author_name": "贝尼托·佩雷斯·加尔多斯",
+  "year_display": "1895年（Britannica B370：Nazarín (1895)）",
+  "year_sort": 1895,
+  "background": [
+    "Britannica（B370）：Nazarín——加尔多斯作品列表。",
+    "Britannica（B370）：'perfected the Spanish realistic novel'。",
+    "题材（通说待核）：'圣愚'神父纳萨林——福音式流浪与世俗的审判。"
+  ],
+  "outline": [
+    "（通说待核）纳萨林放弃教区：赤足流浪。",
+    "（通说待核）跟随的女人与监狱的'圣愚'结局。"
+  ],
+  "characters": [
+    {
+      "name": "纳萨林",
+      "identity": "神父",
+      "note": "（B370 书名人物）"
+    },
+    {
+      "name": "阿利西亚/贝阿特里斯",
+      "identity": "跟随者",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'圣愚'与体制（通说待核）。",
+    "福音理想与社会的冲突（书名语境——通说待核）。",
+    "'布纽埃尔电影'说待核（不采）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：Nazarín (1895)（B370）。",
+      "source": "B370"
+    },
+    {
+      "text": "Britannica：加尔多斯现实主义（B370 作者级）。",
+      "source": "B370"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "福音书写与反教权（通说待核）。",
+      "19世纪末西班牙。"
+    ],
+    "editions": [
+      "《纳萨林》中译本（人民文学等——通说待核）。",
+      "西班牙文原版（公有领域）。"
+    ],
+    "order": "加尔多斯晚期；与《福尔图娜塔和哈辛塔》对读。"
+  },
+  "pending": [
+    "纳萨林人名核对（通说）。",
+    "1895年出版细节待核。",
+    "布纽埃尔1959年电影说待核（通说）。"
+  ],
+  "sources": [
+    "B370"
+  ],
+  "year_source": "B370",
+  "author_source": "B370",
+  "related_works": [
+    "fortunata",
+    "aimiliyajialuoti",
+    "xiaotouyugou"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《纳萨林》圣愚结构图",
+    "cards": [
+      {
+        "title": "纳萨林",
+        "text": "福音的流浪者（通说）",
+        "color": "main"
+      },
+      {
+        "title": "教区",
+        "text": "体制的背离（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "圣愚",
+        "text": "审判的讽刺（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "跟随者",
+        "text": "信仰的尘埃（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}

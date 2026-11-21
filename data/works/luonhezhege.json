@@ -1,0 +1,105 @@
+{
+  "id": "luonhezhege",
+  "title": "罗讷河之歌",
+  "original_title": "Lou Pouèmo dóu Rose",
+  "region": "法国",
+  "era": "近代",
+  "era_detail": "19世纪90年代",
+  "genre": "长篇叙事诗（12歌）",
+  "genre_group": "诗歌",
+  "language": "奥克语（普罗旺斯语）",
+  "author_id": "fmistral",
+  "author_name": "弗雷德里克·米斯特拉尔",
+  "year_display": "1897年（Britannica B362：Lou Pouèmo dóu Rose (1897; The Song of the Rhône)）",
+  "year_sort": 1897,
+  "background": [
+    "Britannica（B362）：'his claim to greatness rests on his first and last long poems'——Mirèio 与本作——两首12歌史诗。",
+    "Britannica（B362）：'less musical and more dense in style than Mirèio...as full of life and colour'——罗讷河航程，荷兰王子与摆渡人之女的爱情因汽船撞沉驳船而双双溺亡。",
+    "Britannica（B362）：1904诺奖。"
+  ],
+  "outline": [
+    "罗讷河航程：驳船 Lou Caburle 上的相遇与沉没（B362：voyage on the Rhône...the lovers are drowned）。",
+    "荷兰王子与摆渡人之女的恋情被'第一艘汽船'终结（B362）。"
+  ],
+  "characters": [
+    {
+      "name": "荷兰王子",
+      "identity": "浪漫的旅人",
+      "note": "（B362：a romantic young prince of Holland）"
+    },
+    {
+      "name": "摆渡人之女",
+      "identity": "罗讷河的女儿",
+      "note": "（B362：the daughter of a poor ferryman）"
+    }
+  ],
+  "themes": [
+    "现代（汽船）对传统（驳船）的碾压（B362 情节）。",
+    "'河'的史诗（书名语境）。",
+    "爱与灾难（B362：cut short by disaster）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'his claim to greatness rests on...'（B362）。",
+      "source": "B362"
+    },
+    {
+      "text": "Britannica：1904诺奖（B362 交叉）。",
+      "source": "B362"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "奥克语文本（读译本）。",
+      "罗讷河航运史。"
+    ],
+    "editions": [
+      "《罗讷河之歌》中译名（《罗讷河之诗》）待核。",
+      "奥克语原版（公有领域）。"
+    ],
+    "order": "米斯特拉尔收官史诗；与《米蕾伊》对读。"
+  },
+  "pending": [
+    "Lou Caburle 船名核对（B362已载）。",
+    "1897年出版细节待核。",
+    "'12歌'结构核对（B362：12 cantos）。"
+  ],
+  "sources": [
+    "B362"
+  ],
+  "year_source": "B362",
+  "author_source": "B362",
+  "related_works": [
+    "mileiyi",
+    "nongmin",
+    "xinnuofusuobaken"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《罗讷河之歌》航程结构图",
+    "cards": [
+      {
+        "title": "罗讷河",
+        "text": "航程的史诗（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "驳船",
+        "text": "传统的沉没（B362）",
+        "color": "antagonist"
+      },
+      {
+        "title": "恋人",
+        "text": "溺亡的终局（B362）",
+        "color": "main"
+      },
+      {
+        "title": "汽船",
+        "text": "现代的碾压（B362）",
+        "color": "family"
+      }
+    ]
+  }
+}

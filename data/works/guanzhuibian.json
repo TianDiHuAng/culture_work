@@ -1,0 +1,100 @@
+{
+  "id": "guanzhuibian",
+  "title": "管锥编",
+  "original_title": "管锥编",
+  "region": "中国",
+  "era": "近代",
+  "era_detail": "20世纪70年代末",
+  "genre": "学术札记",
+  "genre_group": "散文",
+  "language": "汉语（文言）",
+  "author_id": "qianzhongshu",
+  "author_name": "钱锺书",
+  "year_display": "1979年（作者页注记：Britannica——管锥编 (1979)——'four-volume work spanning many languages'）",
+  "year_sort": 1979,
+  "background": [
+    "作者页注记：管锥编 (1979)——'中西比较诗学巨著（Britannica：four-volume work spanning many languages）'。",
+    "Britannica：钱锺书——《围城》作者（作者页交叉）。",
+    "题材（通说待核）：十部古籍札记——以西方文学互证中国经典。"
+  ],
+  "outline": [
+    "（通说待核）《周易正义》《毛诗正义》《左传》等十书札记。",
+    "（通说待核）'管锥'：以管窥天的自谦与比较的巨网。"
+  ],
+  "characters": [
+    {
+      "name": "（学术札记无人物）",
+      "identity": "——",
+      "note": "比较文学"
+    }
+  ],
+  "themes": [
+    "中西互证（B注记：spanning many languages）。",
+    "札记体（通说待核）。",
+    "'比较诗学'的开创（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'four-volume work spanning many languages'（作者页注记）。",
+      "source": "B082"
+    },
+    {
+      "text": "Britannica：《围城》为小说代表作（作者页交叉）。",
+      "source": "B082"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "文言+多语种引文。",
+      "比较文学的方法。"
+    ],
+    "editions": [
+      "《管锥编》（中华书局——通说待核）。",
+      "1979年中华书局说待核。"
+    ],
+    "order": "钱锺书学术首选；与《谈艺录》对读。"
+  },
+  "pending": [
+    "十书清单核对（通说）。",
+    "1979年出版（中华书局说）待核。",
+    "'比较诗学'评价出处核对。"
+  ],
+  "sources": [
+    "B082"
+  ],
+  "year_source": "B082",
+  "author_source": "B082",
+  "related_works": [
+    "xiaoshuoshilue",
+    "rensheng",
+    "laokong"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《管锥编》比较结构图",
+    "cards": [
+      {
+        "title": "管锥",
+        "text": "以管窥天的自谦（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "中西",
+        "text": "多语种的互证（B注记）",
+        "color": "main"
+      },
+      {
+        "title": "札记",
+        "text": "十书的网（通说）",
+        "color": "family"
+      },
+      {
+        "title": "比较",
+        "text": "诗学的开创（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

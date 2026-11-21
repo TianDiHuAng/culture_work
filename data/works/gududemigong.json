@@ -1,0 +1,100 @@
+{
+  "id": "gududemigong",
+  "title": "孤独的迷宫",
+  "original_title": "El laberinto de la soledad",
+  "region": "墨西哥",
+  "era": "近代",
+  "era_detail": "20世纪50年代",
+  "genre": "文化随笔集",
+  "genre_group": "散文",
+  "language": "西班牙语",
+  "author_id": "paz",
+  "author_name": "奥克塔维奥·帕斯",
+  "year_display": "1950年（作者页注记：Britannica——孤独的迷宫 (1950)——文化随笔）",
+  "year_sort": 1950,
+  "background": [
+    "作者页注记：孤独的迷宫 (1950)——'文化随笔（Britannica）'。",
+    "Britannica：帕斯——1990诺奖（作者页交叉——待核）。",
+    "题材（通说待核）：墨西哥人的'孤独'与'面具'——从普埃布拉的少女到'chiapaneco'的节日。"
+  ],
+  "outline": [
+    "（通说待核）'墨西哥人'的性格解剖：面具与孤独。",
+    "（通说待核）'亡灵节'与'独立日'的仪式分析。"
+  ],
+  "characters": [
+    {
+      "name": "（文化随笔无人物）",
+      "identity": "——",
+      "note": "民族志随笔"
+    }
+  ],
+  "themes": [
+    "'孤独'：墨西哥人的存在状况（书名语境——通说待核）。",
+    "'面具'与'男人的 FORMA'（通说待核）。",
+    "民族自省的随笔（B注记）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：El laberinto de la soledad (1950)（作者页注记）。",
+      "source": "B157"
+    },
+    {
+      "text": "Britannica：帕斯1990诺奖（作者页交叉——待核）。",
+      "source": "B157"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "民族志的术语。",
+      "墨西哥节日与历史。"
+    ],
+    "editions": [
+      "《孤独的迷宫》中译本（人民文学等——通说待核）。",
+      "西班牙文原版。"
+    ],
+    "order": "帕斯散文首选；与《太阳石》对读。"
+  },
+  "pending": [
+    "章节结构核对（通说）。",
+    "1950年出版细节待核。",
+    "1990诺奖交叉核对。"
+  ],
+  "sources": [
+    "B157"
+  ],
+  "year_source": "B157",
+  "author_source": "B157",
+  "related_works": [
+    "peideluobalamo",
+    "huangliang",
+    "meiguobuqu"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《孤独的迷宫》面具结构图",
+    "cards": [
+      {
+        "title": "迷宫",
+        "text": "孤独的状况（书名）",
+        "color": "main"
+      },
+      {
+        "title": "面具",
+        "text": "墨西哥的脸（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "节日",
+        "text": "仪式的分析（通说）",
+        "color": "family"
+      },
+      {
+        "title": "自省",
+        "text": "民族随笔（B注记）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

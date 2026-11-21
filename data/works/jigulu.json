@@ -1,0 +1,100 @@
+{
+  "id": "jigulu",
+  "title": "集古录",
+  "original_title": "集古录",
+  "region": "中国",
+  "era": "古代",
+  "era_detail": "北宋",
+  "genre": "金石学著作",
+  "genre_group": "散文",
+  "language": "汉语（文言）",
+  "author_id": "ouyangxiu",
+  "author_name": "欧阳修",
+  "year_display": "作者页注记：Britannica 列举——集古录（金石学——成书年份通说待核——1063跋尾说）",
+  "year_sort": 1063,
+  "background": [
+    "作者页注记：集古录——'金石学（Britannica 列举）'。",
+    "Britannica：欧阳修——北宋文宗（作者页交叉）。",
+    "题材（通说待核）：周秦至隋金石跋尾——'集古录跋尾'十卷。"
+  ],
+  "outline": [
+    "（通说待核）金石拓片的跋尾：证史与赏鉴。",
+    "（通说待核）'集古'：千年文物的收集。"
+  ],
+  "characters": [
+    {
+      "name": "（金石学无人物）",
+      "identity": "——",
+      "note": "学术著作"
+    }
+  ],
+  "themes": [
+    "金石学的开创（B注记：金石学）。",
+    "跋尾的证史与审美（通说待核）。",
+    "文物与历史互证（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：集古录（作者页注记）。",
+      "source": "B173"
+    },
+    {
+      "text": "Britannica：欧阳修文坛地位（作者页交叉）。",
+      "source": "B173"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "金石文字的释读。",
+      "宋代学术的'疑古'风气。"
+    ],
+    "editions": [
+      "《集古录》（《欧阳修全集》等——通说待核）。",
+      "宋刻本说待核。"
+    ],
+    "order": "欧阳修学术侧面；与《新五代史》对读。"
+  },
+  "pending": [
+    "跋尾十卷结构核对（通说）。",
+    "1063年跋尾成书说待核。",
+    "'金石学开创'评价核对。"
+  ],
+  "sources": [
+    "B173"
+  ],
+  "year_source": "B173",
+  "author_source": "B173",
+  "related_works": [
+    "xiaoshuoshilue",
+    "luomashi",
+    "tangjihuade"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《集古录》金石结构图",
+    "cards": [
+      {
+        "title": "集古",
+        "text": "文物的收集（书名）",
+        "color": "gold"
+      },
+      {
+        "title": "跋尾",
+        "text": "证史的眼光（通说）",
+        "color": "main"
+      },
+      {
+        "title": "金石",
+        "text": "学科的开创（B注记）",
+        "color": "family"
+      },
+      {
+        "title": "宋代",
+        "text": "疑古的风气（通说）",
+        "color": "antagonist"
+      }
+    ]
+  }
+}

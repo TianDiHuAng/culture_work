@@ -1,0 +1,100 @@
+{
+  "id": "xiusaierwenmoboli",
+  "title": "休·塞尔温·莫伯利",
+  "original_title": "Hugh Selwyn Mauberley",
+  "region": "美国",
+  "era": "近代",
+  "era_detail": "20世纪20年代",
+  "genre": "长诗",
+  "genre_group": "诗歌",
+  "language": "英语",
+  "author_id": "pound",
+  "author_name": "埃兹拉·庞德",
+  "year_display": "作者页注记：Britannica 列举（年份通说待核——1920说）",
+  "year_sort": 1920,
+  "background": [
+    "作者页注记：休·塞尔温·莫伯利——'（Britannica 列举）'。",
+    "Britannica：庞德——意象派与现代主义推动者（作者页交叉）。",
+    "题材（通说待核）：'莫伯利'——一个不合时宜的诗人的画像与自我告别。"
+  ],
+  "outline": [
+    "（通说待核）十三首的序列：伦敦的'徒劳'与'卡利佩'。",
+    "（通说待核）'莫伯利'作为庞德的自我面具。"
+  ],
+  "characters": [
+    {
+      "name": "莫伯利",
+      "identity": "过时诗人",
+      "note": "（通说待核）"
+    }
+  ],
+  "themes": [
+    "'与时代错位的诗人'（通说待核）。",
+    "伦敦文学界的讽刺（通说待核）。",
+    "告别与转向《诗章》（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：列举（作者页注记）。",
+      "source": "B155"
+    },
+    {
+      "text": "Britannica：《诗章》为毕生巨作（作者页交叉）。",
+      "source": "B155"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "十三首的序列。",
+      "'意象派'之后的语体（通说待核）。"
+    ],
+    "editions": [
+      "《休·塞尔温·莫伯利》中译本（人民文学等——通说待核）。",
+      "英文原版（公有领域状态待核）。"
+    ],
+    "order": "庞德中期；与《诗章》对读。"
+  },
+  "pending": [
+    "1920年出版（John Lane说）待核。",
+    "十三首结构核对（通说）。",
+    "'E.P. ode'开篇细节待核。"
+  ],
+  "sources": [
+    "B155"
+  ],
+  "year_source": "B155",
+  "author_source": "B155",
+  "related_works": [
+    "shizhang",
+    "sigesizhongzou",
+    "diyuzhiji"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《莫伯利》告别结构图",
+    "cards": [
+      {
+        "title": "莫伯利",
+        "text": "过时的面具（通说）",
+        "color": "main"
+      },
+      {
+        "title": "伦敦",
+        "text": "徒劳的文学界（通说）",
+        "color": "antagonist"
+      },
+      {
+        "title": "告别",
+        "text": "转向《诗章》（通说）",
+        "color": "gold"
+      },
+      {
+        "title": "序列",
+        "text": "十三首（通说）",
+        "color": "family"
+      }
+    ]
+  }
+}
