@@ -1,0 +1,112 @@
+{
+  "id": "nibolungenzhige",
+  "title": "尼伯龙根之歌",
+  "original_title": "Das Nibelungenlied（Der Nibelunge Not）",
+  "region": "德国",
+  "era": "古代",
+  "era_detail": "中世纪（约1200）",
+  "genre": "英雄史诗",
+  "genre_group": "诗歌",
+  "language": "中古高地德语",
+  "author_id": null,
+  "author_name": "佚名（'an unknown Austrian from the Danube region'——B307）",
+  "year_display": "约1200年（Britannica：written about 1200 by an unknown Austrian from the Danube region）",
+  "year_sort": 1200,
+  "background": [
+    "Britannica（B307）：'written about 1200 by an unknown Austrian from the Danube region'（约1200年由多瑙河流域的无名奥地利人写就）。",
+    "手稿（B307）：三份13世纪主要手稿——A(Munich)/B(St. Gall)/C(Donaueschingen)，'B as the most trustworthy'。",
+    "地位（B307）：'Probably no literary work has given more to Germanic arts than the Nibelungenlied'。"
+  ],
+  "outline": [
+    "上卷：齐格弗里德娶克里姆希尔德——隐身斗篷助恭特赢比武（B307：Gunther goes through the motions of deeds actually performed by Siegfried in a cloak of invisibility）。",
+    "哈根识破弱点并' strikes the fatal blow'（B307）；'sinks the treasure in the Rhine'（莱茵沉宝——B307）。",
+    "下卷：克里姆希尔德'with Siegfrieds sword, she slays the bound and defenseless Hagen'（复仇——B307）。"
+  ],
+  "characters": [
+    {
+      "name": "齐格弗里德",
+      "identity": "屠龙英雄",
+      "note": "（B307）"
+    },
+    {
+      "name": "克里姆希尔德",
+      "identity": "复仇者",
+      "note": "（B307）"
+    },
+    {
+      "name": "哈根",
+      "title": "哈根",
+      "identity": "忠臣·杀手",
+      "note": "（B307）"
+    }
+  ],
+  "themes": [
+    "复仇与荣誉的毁灭链（B307）。",
+    "尼伯龙根宝物：'sinks the treasure in the Rhine'（B307）。",
+    "437年勃艮第王国覆灭的历史内核（B307 语境：Hunnish overthrow……437 CE）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'Probably no literary work has given more to Germanic arts than the Nibelungenlied'（B307）。",
+      "source": "B307"
+    },
+    {
+      "text": "瓦格纳《尼伯龙根的指环》受其启发（B307 语境：inspired works like Wagners Der Ring des Nibelungen）。",
+      "source": "B307"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "中古高地德语与尼伯龙根人名。",
+      "39歌（Aventiure）结构。"
+    ],
+    "editions": [
+      "《尼伯龙根之歌》（人民文学出版社，通说待核）。",
+      "中古高地德语原版（公有领域）。"
+    ],
+    "order": "日耳曼史诗首选（对照《贝奥武甫》）。"
+  },
+  "pending": [
+    "39歌（Aventiuren）核对。",
+    "哈根沉宝地点（莱茵河说）核对。",
+    "克里姆希尔德/布伦希尔特人名核对。"
+  ],
+  "sources": [
+    "B307"
+  ],
+  "year_source": "B307",
+  "author_source": "B307",
+  "related_works": [
+    "gelintonghua",
+    "shenqu",
+    "huashenboshi"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《尼伯龙根之歌》复仇链图",
+    "cards": [
+      {
+        "title": "齐格弗里德",
+        "text": "致命弱点（B307）",
+        "color": "main"
+      },
+      {
+        "title": "哈根",
+        "text": "致命一击",
+        "color": "antagonist"
+      },
+      {
+        "title": "克里姆希尔德",
+        "text": "持剑复仇（B307）",
+        "color": "gold"
+      },
+      {
+        "title": "莱茵沉宝",
+        "text": "永远的秘藏",
+        "color": "family"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "beaowufu",
+  "title": "贝奥武甫",
+  "original_title": "Beowulf",
+  "region": "英国",
+  "era": "古代",
+  "era_detail": "盎格鲁-撒克逊时代",
+  "genre": "英雄史诗",
+  "genre_group": "诗歌",
+  "language": "古英语",
+  "author_id": null,
+  "author_name": "佚名（Anglo-Saxon 匿名诗人）",
+  "year_display": "创作约700—750年间；存世唯一手稿约1000年（Britannica）",
+  "year_sort": -700,
+  "background": [
+    "Britannica（B301）：'the highest achievement of Old English literature and the earliest European vernacular epic'（古英语文学的最高成就、最早的欧洲俗语史诗）。",
+    "手稿（B301）：'preserved in a single manuscript that dates to circa 1000'（Cotton MS Vitellius A XV）；创作'between 700 and 750'；1815年才首次印刷（B301）。"
+  ],
+  "outline": [
+    "第一部分：贝奥武甫为丹麦王赫罗斯加除怪——格伦德尔12年恐怖（B301：For 12 years the creature terrorizes Heorot）、扭断其臂（B301）、杀死其母于洞穴（B301：They struggle in her dry cave at the mere's bottom）。",
+    "第二部分：老王贝奥武甫与火龙——毒牙致命（B301：mortally wounded from a bite in the neck）；威格拉夫继任（B301：names Wiglaf his successor）；海葬于barrow（B301）。",
+    "恐惧：'without Beowulf, Geatland will be invaded by nearby tribes'（B301）。"
+  ],
+  "characters": [
+    {
+      "name": "贝奥武甫",
+      "identity": "耶阿特王子→老王",
+      "note": "（B301）"
+    },
+    {
+      "name": "格伦德尔",
+      "identity": "沼泽怪物",
+      "note": "12年恐怖（B301）"
+    },
+    {
+      "name": "火龙",
+      "identity": "守宝龙",
+      "note": "最后的敌人（B301）"
+    },
+    {
+      "name": "威格拉夫",
+      "identity": "继任者",
+      "note": "（B301）"
+    }
+  ],
+  "themes": [
+    "英雄与死亡的史诗（B301）。",
+    "'最高成就、最早俗语史诗'（B301）。",
+    "氏族社会与继任危机（B301：Geatland 恐惧）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'the highest achievement of Old English literature and the earliest European vernacular epic'（B301）。",
+      "source": "B301"
+    },
+    {
+      "text": "托尔金《魔戒》与其研究（通说待核——B301 未载）。",
+      "source": "B301"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "古英语头韵体（中译转转）。",
+      "族谱与盾形纹章（氏族谱）。"
+    ],
+    "editions": [
+      "《贝奥武甫》（人民文学出版社/译林出版社版本，通说待核）。",
+      "英文原版（公有领域）。"
+    ],
+    "order": "西方史诗源头之一（先于《神曲》传统）。"
+  },
+  "pending": [
+    "创作年代（700—750 vs 8世纪说）核对。",
+    "3182行说（通说）待核。",
+    "托尔金1936年讲座《贝奥武甫：怪物与批评家》待核。"
+  ],
+  "sources": [
+    "B301"
+  ],
+  "year_source": "B301",
+  "author_source": "B301",
+  "related_works": [
+    "iliad",
+    "aeneid",
+    "hakebei"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《贝奥武甫》三战结构图",
+    "cards": [
+      {
+        "title": "格伦德尔",
+        "text": "12年恐怖（B301）",
+        "color": "antagonist"
+      },
+      {
+        "title": "其母",
+        "text": "洞穴之战",
+        "color": "family"
+      },
+      {
+        "title": "火龙",
+        "text": "老王的终战",
+        "color": "gold"
+      },
+      {
+        "title": "海葬",
+        "text": "barrow的告别",
+        "color": "main"
+      }
+    ]
+  }
+}

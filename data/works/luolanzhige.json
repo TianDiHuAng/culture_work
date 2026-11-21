@@ -1,0 +1,110 @@
+{
+  "id": "luolanzhige",
+  "title": "罗兰之歌",
+  "original_title": "La Chanson de Roland",
+  "region": "法国",
+  "era": "古代",
+  "era_detail": "中世纪",
+  "genre": "武功歌（英雄史诗）",
+  "genre_group": "诗歌",
+  "language": "古法语",
+  "author_id": null,
+  "author_name": "佚名（传统署名 Turold，图罗尔德——待核）",
+  "year_display": "约1100年（Britannica：probably the earliest (c. 1100) chanson de geste）",
+  "year_sort": 1100,
+  "background": [
+    "Britannica（B306）：'probably the earliest (c. 1100) chanson de geste'且'considered the masterpiece of the genre'（最早的武功歌、该文类的杰作——B306）。",
+    "题材（B306）：'The poem takes the historical Battle of Roncesvalles (Roncevaux) in 778 as its subject'——把778年龙塞沃小规模冲突史诗化。"
+  ],
+  "outline": [
+    "加奈隆通敌：'plots with the Saracens to achieve his stepsons destruction'（B306）。",
+    "后军被围：'surrounded at the pass of Roncesvalles by an overwhelming Saracen force'（B306）。",
+    "罗兰拒绝吹号：'rejects Olivers advice to blow his horn'（B306）——直至太迟。"
+  ],
+  "characters": [
+    {
+      "name": "罗兰",
+      "identity": "骑士",
+      "note": "'recklessly courageous'（B306）"
+    },
+    {
+      "name": "奥利维埃",
+      "identity": "挚友",
+      "note": "'more prudent friend'（B306）"
+    },
+    {
+      "name": "加奈隆",
+      "identity": "继子/叛徒",
+      "note": "（B306）"
+    }
+  ],
+  "themes": [
+    "罗兰与奥利维埃的性格对撞（B306）。",
+    "封臣忠诚与家族复仇（通说待核）。",
+    "十字军语境前的圣战书写（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：'considered the masterpiece of the genre'（武功歌的杰作——B306）。",
+      "source": "B306"
+    },
+    {
+      "text": "Britannica：'probably the earliest (c. 1100) chanson de geste'（B306）。",
+      "source": "B306"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "武功歌的十音节诗行。",
+      "778年史实与虚构的边界。"
+    ],
+    "editions": [
+      "《罗兰之歌》（人民文学出版社杨宪益译本，通说待核）。",
+      "古法文原版（公有领域）。"
+    ],
+    "order": "中世纪史诗首选（先《罗兰之歌》后《尼伯龙根之歌》）。"
+  },
+  "pending": [
+    "牛津本（Bodleian Digby 23说）与 Turold 署名待核。",
+    "'Aoi'程式语核对。",
+    "号角 Olifant 名核对。"
+  ],
+  "sources": [
+    "B306"
+  ],
+  "year_source": "B306",
+  "author_source": "B306",
+  "related_works": [
+    "iliad",
+    "shenqu",
+    "aeneid"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《罗兰之歌》龙塞沃结构图",
+    "cards": [
+      {
+        "title": "加奈隆",
+        "text": "通敌的继父（B306）",
+        "color": "antagonist"
+      },
+      {
+        "title": "罗兰",
+        "text": "骁勇的拒绝吹号",
+        "color": "main"
+      },
+      {
+        "title": "奥利维埃",
+        "text": "明智的劝告",
+        "color": "gold"
+      },
+      {
+        "title": "龙塞沃",
+        "text": "778年的山口",
+        "color": "family"
+      }
+    ]
+  }
+}

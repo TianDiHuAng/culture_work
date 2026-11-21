@@ -1,0 +1,106 @@
+{
+  "id": "kalewala",
+  "title": "卡勒瓦拉",
+  "original_title": "Kalevala",
+  "region": "芬兰",
+  "era": "近代",
+  "era_detail": "19世纪",
+  "genre": "民族史诗（编纂）",
+  "genre_group": "诗歌",
+  "language": "芬兰语",
+  "author_id": null,
+  "author_name": "埃利亚斯·伦罗特（Elias Lönnrot）编纂——芬兰民间口传歌谣辑录",
+  "year_display": "1835年初版（32篇）、1849年定版（50篇）（Britannica：two editions (32 cantos, 1835; enlarged into 50 cantos, 1849)）",
+  "year_sort": 1849,
+  "background": [
+    "Britannica（B308）：'compiled from old Finnish ballads, lyrical songs, and incantations that were a part of Finnish oral tradition'——从芬兰口传传统辑录。",
+    "两版（B308）：32 cantos (1835)；enlarged into 50 cantos (1849)。",
+    "地位（B308）：'Kalevala, Finnish national epic'——fostering 'the Finnish national spirit'、'translated into at least 20 languages'、启发 Gallen-Kallela 绘画与 Sibelius 音乐、Longfellow《海华沙之歌》（B308）。"
+  ],
+  "outline": [
+    "维纳莫宁——'the old and wise'、'a powerful seer with supernatural origins'、'a master of the kantele, the Finnish harplike stringed instrument'（B308）。",
+    "伊尔马利宁锻造'sampo'（神磨）（B308 语境：tales including the forging of the sampo）。",
+    "'Kalevala……a poetic name for Finland, meaning land of heroes'（B308）。"
+  ],
+  "characters": [
+    {
+      "name": "维纳莫宁",
+      "identity": "先知歌者",
+      "note": "'old and wise'（B308）"
+    },
+    {
+      "name": "伊尔马利宁",
+      "identity": "铁匠",
+      "note": "锻 sampo（B308 语境）"
+    }
+  ],
+  "themes": [
+    "口传传统的辑录与民族史诗（B308）。",
+    "'卡勒瓦拉'：英雄之地（B308：land of heroes）。",
+    "sampo 的锻造与争夺（通说待核）。"
+  ],
+  "influence": [
+    {
+      "text": "Britannica：芬兰民族史诗——fostering 'the Finnish national spirit'（B308）。",
+      "source": "B308"
+    },
+    {
+      "text": "Britannica：'translated into at least 20 languages'；启发 Sibelius 音乐与 Longfellow《海华沙之歌》（B308）。",
+      "source": "B308"
+    }
+  ],
+  "reading": {
+    "difficulties": [
+      "芬兰语史诗韵律（卡勒瓦拉体）。",
+      "神话谱系。"
+    ],
+    "editions": [
+      "《卡勒瓦拉》（人民文学出版社/上海译文版本，通说待核）。",
+      "芬兰文原版（公有领域）。"
+    ],
+    "order": "芬兰文学首选。"
+  },
+  "pending": [
+    "50篇（cantos）结构核对。",
+    "'sampo'锻造情节核对。",
+    " Lönnrot 各次田野采集（1831—35说）待核。"
+  ],
+  "sources": [
+    "B308"
+  ],
+  "year_source": "B308",
+  "author_source": "B308",
+  "related_works": [
+    "shijing",
+    "bainian",
+    "conglinzhihue"
+  ],
+  "svg": {
+    "type": "grid",
+    "width": 680,
+    "height": 340,
+    "caption": "《卡勒瓦拉》英雄谱图",
+    "cards": [
+      {
+        "title": "维纳莫宁",
+        "text": "先知与琴师（B308）",
+        "color": "main"
+      },
+      {
+        "title": "伊尔马利宁",
+        "text": "锻 sampo 的铁匠",
+        "color": "gold"
+      },
+      {
+        "title": "勒明凯宁",
+        "text": "浪子（通说待核）",
+        "color": "family"
+      },
+      {
+        "title": "卡勒瓦拉",
+        "text": "英雄之地（B308）",
+        "color": "plain"
+      }
+    ]
+  }
+}
